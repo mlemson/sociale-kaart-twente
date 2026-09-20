@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Sociale kaart Twente</title>
+  <link rel="stylesheet" href="leaflet.css">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="leaflet.js"></script>
+  <script defer src="app.js"></script>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23602849'/%3E%3Cpath d='M8 9h16M16 9v16' fill='none' stroke='white' stroke-width='4'/%3E%3C/svg%3E">
+</head>
+<body data-theme="wijkteams">
+<a class="skip" href="#filters">Naar gemeente kiezen</a>
+<div class="design-bar" aria-label="Ontwerpvarianten">
+  <div class="design-label">ONTWERPSTUDIO <span>/</span> SOCIALE KAART TWENTE</div>
+  <div class="design-options">
+    <button type="button" data-theme="wijkteams" aria-pressed="true" style="--swatch:#bf5294"><i></i>Wijkteams</button>
+    <button type="button" data-theme="online" aria-pressed="false" style="--swatch:#5fa1c9"><i></i>Online Hulp</button>
+    <button type="button" data-theme="gemeente" aria-pressed="false" style="--swatch:#d52336"><i></i>Gemeente Enschede</button>
+    <button type="button" data-theme="wijkwijzer" aria-pressed="false" style="--swatch:#d16e27"><i></i>Wijkwijzer</button>
+  </div>
+  <div class="concept-label">CONCEPT · 2026</div>
+</div>
+<header class="site-header">
+  <a class="wordmark" id="brand" href="?stijl=wijkteams"><span class="brand-symbol">w.</span><span>Wijkteams<span class="brand-sub">ENSCHEDE</span></span></a>
+  <nav aria-label="Hoofdnavigatie">
+    <div class="nav-primary">
+      <button id="nav-map" class="nav-active" type="button">Sociale kaart</button>
+      <button id="about" type="button">Over deze kaart</button>
+    </div>
+    <div class="nav-tools" aria-label="Voorzieningen en beheer">
+      <a href="voorzieningen.html">Voorzieningen</a>
+      <a href="aanmelden.html">Aanbod doorgeven</a>
+      <a href="beheer.html" class="nav-manage">Beheer</a>
+    </div>
+  </nav>
+</header>
+<main>
+  <section class="intro" aria-labelledby="headline">
+    <div>
+      <p class="eyebrow" id="eyebrow">SAMEN IN TWENTE</p>
+      <h1 id="headline">Vind je weg naar hulp <em>dichtbij.</em></h1>
+      <p class="intro-copy">Ontmoeten, meedoen of een steuntje in de rug. Ontdek wat er is in jouw omgeving.</p>
+    </div>
+    <div class="region-stat" aria-label="14 gemeenten in Twente"><strong>14</strong><span>gemeenten.<br>Eén overzicht.</span></div>
+  </section>
+
+  <section class="workspace" aria-label="Sociale kaart">
+    <aside class="sidebar" id="filters">
+      <div class="filter-area">
+        <div class="sidebar-heading"><h2>Waar zoek je?</h2><span class="small-label">TWENTE</span></div>
+        <label class="field-label" for="municipality">Gemeente</label>
+        <select id="municipality" aria-label="Gemeente"><option value="">Heel Twente</option></select>
+        <label class="searchbox" aria-label="Zoek een voorziening of onderwerp"><span id="search-icon"></span><input id="search" type="search" placeholder="Zoek een voorziening of onderwerp" autocomplete="off"><button id="clear-search" type="button" aria-label="Zoekopdracht wissen" hidden>×</button></label>
+        <span class="field-label topic-label">Ik zoek hulp bij</span>
+        <div class="topics" id="topics" aria-label="Onderwerpen"></div>
+        <label class="nearby"><input id="nearby" type="checkbox"><span>Ook buiten deze gemeente</span><span>↗</span></label>
+      </div>
+      <div class="results-heading"><h2 id="results-title">In de regio</h2><span id="result-count">Laden…</span></div>
+      <div class="results" id="results" aria-live="polite"></div>
+      <div class="coverage-note"><span class="info-dot">i</span><p>Eerste selectie van voorzieningen. <button id="coverage" type="button">Bekijk bronnen en volledigheid</button></p></div>
+    </aside>
+
+    <section class="map-panel" aria-label="Kaart van Twente">
+      <div id="map"></div>
+      <div class="map-top">
+        <button class="map-back" id="back" type="button">← <span>Heel Twente</span></button>
+        <div class="map-context"><strong id="map-title">Twente</strong><span id="map-subtitle">Klik op een gemeente om in te zoomen</span></div>
+      </div>
+      <div class="map-switch"><button id="basemap" type="button" aria-pressed="true">Ondergrond aan</button></div>
+      <div class="map-bottom"><div class="map-legend"><span class="legend-boundary"></span>Gemeentegrens <span class="legend-cluster">3</span> Locaties bij elkaar</div><div class="map-helper">Klik op een gemeente of voorziening</div></div>
+      <div class="detail-card" id="detail" hidden></div>
+      <div id="map-error" role="status" hidden></div>
+    </section>
+  </section>
+
+  <footer><span id="footer-brand">Een ontwerp in de stijl van Wijkteams Enschede</span><span>Kaartgrenzen: Kadaster / PDOK · 2026</span></footer>
+</main>
+
+<dialog id="info-dialog">
+  <button class="dialog-close" type="button" aria-label="Sluiten">×</button>
+  <p class="eyebrow">OVER DEZE KAART</p>
+  <h2>Een gezamenlijke sociale kaart voor Twente</h2>
+  <p id="coverage-description">De kaart laadt de huidige selectie van voorzieningen.</p>
+  <h3>Wat staat hier wel en niet op?</h3>
+  <p>De voorzieningenlijst richt zich op laagdrempelig sociaal aanbod dat inwoners doorgaans rechtstreeks kunnen benaderen. Geïndiceerde zorg, medische behandeling, scholen en commerciële praktijken vallen buiten deze broninventarisatie.</p>
+  <h3>Bronnen</h3>
+  <div class="source-links"><a href="voorzieningen.html">Bekijk alle voorzieningen →</a><a href="https://www.pdok.nl" target="_blank" rel="noopener">Kadaster / PDOK ↗</a><a href="aanmelden.html">Aanbod doorgeven →</a><a href="beheer.html">Beheer →</a></div>
+  <p class="meta">Gegevens en voorwaarden kunnen veranderen. Controleer actuele informatie bij de aanbieder.</p>
+</dialog>
+</body>
+</html>
