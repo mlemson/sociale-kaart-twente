@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Beheer · Sociale kaart Twente</title>
+  <link rel="stylesheet" href="portal.css">
+  <script defer src="vendor/exceljs.min.js"></script>
+  <script defer src="vendor/mammoth.browser.min.js"></script>
+  <script defer src="portal.js"></script>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23602849'/%3E%3Cpath d='M8 9h16M16 9v16' fill='none' stroke='white' stroke-width='4'/%3E%3C/svg%3E">
+</head>
+<body data-theme="wijkteams" data-page="beheer">
+<header class="portal-header"><a class="portal-brand" href="index.html">w. <span>Sociale kaart Twente</span></a><nav aria-label="Hoofdnavigatie"><a href="index.html">Sociale kaart</a><a href="voorzieningen.html">Voorzieningen</a><a href="aanmelden.html">Aanbod doorgeven</a><a href="beheer.html">Beheer</a></nav></header>
+<main class="portal-main">
+  <p class="eyebrow">REDACTIE SOCIALE KAART TWENTE</p><h1>Houd het aanbod <em>actueel.</em></h1><p class="lead">Beoordeel nieuwe aanmeldingen, controleer wijzigingen bij de bron en publiceer ze op de kaart.</p><div id="page-message" role="status" hidden></div>
+  <section id="login-panel" class="panel" hidden><h2>Inloggen voor beheerders</h2><p>Alleen een aangewezen beheerder heeft toegang tot meldingen en contactgegevens. De kaart en het aanmeldformulier zijn openbaar.</p><p class="notice">Deze GitHub Pages-versie heeft geen serverlogin. Gebruik de lokale beheeromgeving uit <code>local-backend/</code> voor redactie, import en bronverrijking. De openbare kaart en inventarisatie blijven hier wel volledig leesbaar.</p></section>
+  <div id="admin-workspace" hidden>
+    <section class="panel import-panel"><div class="import-heading"><div><p class="eyebrow">BESTANDSIMPORT</p><h2>Voorzieningen uit een bestand</h2><p>Lees een Excel-, CSV- of Word-bestand uit. Naam, gemeente, onderwerp en waar mogelijk doelgroep, kosten en toegang worden alvast voorgesteld. <strong>Voor mogelijke dubbelen krijg je per voorziening eerst een korte keuze: samenvoegen, overslaan of bewust als nieuw toevoegen.</strong> Als een website is opgegeven, wordt die na import ook automatisch op de achtergrond uitgelezen. De bron blijft leidend.</p></div><label class="file-picker"><span>Kies bestand</span><input id="import-file" type="file" accept=".xlsx,.csv,.docx"></label></div><div class="actions"><button class="action secondary" id="read-import" type="button">Bestand uitlezen</button><span class="hint">Maximaal 500 voorzieningen per import. Het originele bestand wordt niet opgeslagen.</span></div><div id="import-message" role="status" hidden></div><div id="import-preview" hidden><div class="import-summary"><strong id="import-count"></strong><button class="action" id="submit-import" type="button">Zet in controlelijst →</button></div><div class="table-wrap"><table class="import-table"><thead><tr><th>Meenemen</th><th>Dubbelcontrole</th><th>Naam</th><th>Gemeente</th><th>Onderwerp</th><th>Adres</th><th>Plaats</th><th>Website</th></tr></thead><tbody id="import-rows"></tbody></table></div></div></section>
+    <div class="toolbar"><select id="review-status" aria-label="Status meldingen"><option value="pending">Te beoordelen</option><option value="approved">Goedgekeurd</option><option value="rejected">Afgewezen</option></select><button class="action secondary" id="refresh-reviews">Vernieuwen</button><button class="action secondary" id="enrich-all" type="button">Voorinvulling opnieuw uitvoeren</button><button class="action" id="web-enrich-all" type="button">Bronpagina’s automatisch uitlezen</button><a class="action secondary" href="voorzieningen.html">Open voorzieningenlijst ↗</a></div><div id="web-enrich-status" role="status" hidden></div>
+    <div class="review-grid"><section><p id="review-count" class="hint" role="status"></p><div id="review-list"></div></section><section id="review" class="panel"><h2>Selecteer een melding</h2><p class="lead">Links staan de binnengekomen meldingen. Nieuwe aanmeldingen worden pas na goedkeuring openbaar.</p></section></div>
+  </div>
+</main>
+<dialog id="duplicate-dialog" class="duplicate-dialog" aria-labelledby="duplicate-title">
+  <div class="duplicate-dialog-inner">
+    <p class="eyebrow">DUBBELCONTROLE <span id="duplicate-progress"></span></p>
+    <h2 id="duplicate-title">Mogelijk dezelfde voorziening</h2>
+    <p id="duplicate-reason" class="duplicate-reason"></p>
+    <div class="duplicate-compare">
+      <section><span class="duplicate-kicker">UIT HET BESTAND</span><strong id="duplicate-import-name"></strong><small id="duplicate-import-meta"></small></section>
+      <span class="duplicate-arrow" aria-hidden="true">↔</span>
+      <section><span class="duplicate-kicker">AL BEKEND</span><strong id="duplicate-match-name"></strong><small id="duplicate-match-meta"></small></section>
+    </div>
+    <p class="hint">Samenvoegen maakt één concept of wijzigingsmelding. Overslaan importeert deze regel niet. Als nieuw toevoegen houdt beide vermeldingen bewust apart.</p>
+    <div class="duplicate-actions">
+      <button class="action" type="button" data-duplicate-choice="merge">Samenvoegen</button>
+      <button class="action secondary" type="button" data-duplicate-choice="skip">Overslaan</button>
+      <button class="action secondary duplicate-new" type="button" data-duplicate-choice="new">Als nieuw toevoegen</button>
+    </div>
+  </div>
+</dialog>
+
+<footer class="portal-footer"><span>Samen werken aan een actuele sociale kaart.</span><a href="index.html">Terug naar de kaart van Twente ↗</a></footer>
+</body></html>
