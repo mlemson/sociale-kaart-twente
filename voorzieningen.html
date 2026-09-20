@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Voorzieningen · Sociale kaart Twente</title>
+  <link rel="stylesheet" href="portal.css">
+  <script defer src="portal.js"></script>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23602849'/%3E%3Cpath d='M8 9h16M16 9v16' fill='none' stroke='white' stroke-width='4'/%3E%3C/svg%3E">
+</head>
+<body data-theme="wijkteams" data-page="voorzieningen">
+<header class="portal-header">
+  <a class="portal-brand" href="index.html">w. <span>Sociale kaart Twente</span></a>
+  <nav aria-label="Hoofdnavigatie">
+    <a href="index.html">Sociale kaart</a><a href="voorzieningen.html">Voorzieningen</a><a href="aanmelden.html">Aanbod doorgeven</a><a href="beheer.html">Beheer</a>
+  </nav>
+</header>
+<main class="portal-main">
+  <p class="eyebrow">14 GEMEENTEN · ÉÉN OVERZICHT</p>
+  <h1>Bekijk het aanbod <em>in Twente.</em></h1>
+  <p class="lead">Hier staat voorliggend sociaal aanbod dat inwoners doorgaans rechtstreeks kunnen benaderen, zonder gemeentelijke indicatie. Zoek per gemeente of onderwerp, bekijk de bron en help gegevens actueel te houden.</p>
+  <div class="notice">De lijst is opgebouwd uit gemeentelijke sociale kaarten en lokale aanbieders. Bronvermeldingen worden automatisch vooringevuld met herkenbare sleutelwoorden, bijvoorbeeld voor onderwerp en doelgroep. Dat is voorwerk, geen eindcontrole: bron, adres, toegang, kosten en actuele beschikbaarheid moeten vóór publicatie worden geverifieerd. Geïndiceerde zorg, medische behandeling, scholen en commerciële praktijken zijn uitgesloten.</div>
+  <div class="toolbar">
+    <input id="inventory-search" type="search" aria-label="Zoek organisatie" placeholder="Zoek op naam…">
+    <select id="inventory-municipality" aria-label="Gemeente"><option value="">Heel Twente</option></select>
+    <select id="inventory-category" aria-label="Onderwerp"><option value="">Alle onderwerpen</option></select>
+    <select id="inventory-access" aria-label="Toegangscontrole"><option value="">Alle toegangsstatussen</option><option value="confirmed">Toegang bevestigd</option><option value="source-check">Bron gevonden</option></select>
+    <select id="inventory-status" aria-label="Kaartstatus"><option value="">Lijst en kaart</option><option value="published">Gecontroleerd op de kaart</option><option value="candidate">Broninventarisatie</option></select>
+  </div>
+  <div class="countline"><span id="inventory-count" role="status">Voorzieningen laden…</span><button class="action secondary" id="download-json">Download selectie (JSON)</button></div>
+  <div class="table-wrap"><table><thead><tr><th>Voorziening / aanbod</th><th>Gebied</th><th>Onderwerp</th><th>Toegang</th><th>Bekijk of vul aan</th></tr></thead><tbody id="inventory-rows"></tbody></table></div>
+  <div class="actions"><button class="action secondary" id="load-more" hidden>Meer tonen</button><a class="action" href="aanmelden.html">Aanbod ontbreekt of klopt niet? Geef het door →</a></div>
+  <div id="page-message" role="status" hidden></div>
+  <details><summary>Bronnen en voortgang per gemeente</summary><p class="hint">De bronronde omvat alle 14 Twentse gemeenten. Omdat lokaal aanbod en voorwaarden veranderen, blijft dit een onderhoudbare voorzieningenlijst en geen absolute volledigheidsgarantie.</p><div id="source-overview" class="source-grid"></div></details>
+</main>
+<footer class="portal-footer"><span>Samen werken aan een actuele sociale kaart.</span><a href="index.html">Terug naar de kaart van Twente ↗</a></footer>
+</body>
+</html>
