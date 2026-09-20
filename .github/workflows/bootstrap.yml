@@ -16,9 +16,9 @@ jobs:
       - uses: actions/checkout@v4
       - name: Project herstellen uit tijdelijke delen
         run: |
-          cat site-core.zip.b64.part* | base64 --decode > site-core.zip
-          unzip -o site-core.zip
-          rm -f site-core.zip site-core.ready site-core.zip.b64.part*
+          cat site-core.tar.xz.b64.part* | base64 --decode > site-core.tar.xz
+          tar -xJf site-core.tar.xz
+          rm -f site-core.tar.xz site-core.ready site-core.tar.xz.b64.part*
           rm -f .github/workflows/bootstrap.yml
       - name: Losse projectbestanden committen
         run: |
