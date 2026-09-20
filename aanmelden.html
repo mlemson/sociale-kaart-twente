@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Aanbod doorgeven · Sociale kaart Twente</title>
+  <link rel="stylesheet" href="portal.css"><script defer src="portal.js"></script>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23602849'/%3E%3Cpath d='M8 9h16M16 9v16' fill='none' stroke='white' stroke-width='4'/%3E%3C/svg%3E">
+</head>
+<body data-theme="wijkteams" data-page="aanmelden">
+<header class="portal-header"><a class="portal-brand" href="index.html">w. <span>Sociale kaart Twente</span></a><nav aria-label="Hoofdnavigatie"><a href="index.html">Sociale kaart</a><a href="voorzieningen.html">Voorzieningen</a><a href="aanmelden.html">Aanbod doorgeven</a><a href="beheer.html">Beheer</a></nav></header>
+<main class="portal-main">
+  <p class="eyebrow">AANBOD TOEVOEGEN OF WIJZIGEN</p><h1>Geef aanbod of een wijziging <em>door.</em></h1>
+  <p class="lead">Een ontmoetingsplek, taalhulp of steun bij geldzaken? Meld een voorziening aan of geef een wijziging door. Je hebt geen account nodig. De beheerder controleert je melding voordat deze op de kaart verschijnt.</p>
+  <div class="steps"><span><b>1</b> Gegevens invullen</span><span><b>2</b> Controle door beheerder</span><span><b>3</b> Zichtbaar op de kaart</span></div>
+  <div id="page-message" role="status" hidden></div>
+  <div class="form-layout">
+    <form id="submission-form">
+      <section class="panel"><h2>Wat wil je doorgeven?</h2><div class="grid-fields"><label class="field wide">Soort melding<select name="kind"><option value="new">Een nieuwe voorziening aanmelden</option><option value="change">Een bestaande voorziening aanpassen</option><option value="remove">Een voorziening is gestopt</option></select></label><label class="field wide" id="existing-field" hidden>Bestaande voorziening<select name="facilityId"><option value="">Kies een voorziening</option></select></label></div></section>
+      <section class="panel"><h2>De voorziening</h2><p class="hint">Velden met * zijn verplicht. Beschrijf het aanbod voor inwoners, zonder persoonsgegevens van cliënten.</p><div id="facility-fields" class="grid-fields"></div></section>
+      <section class="panel"><h2>Wie kunnen we hierover benaderen?</h2><p class="hint">Deze gegevens zijn alleen zichtbaar voor de beheerder en verschijnen niet op de openbare kaart.</p><div class="grid-fields"><label class="field wide">Organisatie of gemeente *<input name="organization" required maxlength="160" autocomplete="organization"></label><label class="field">Contactpersoon *<input name="contactName" required maxlength="120" autocomplete="name"></label><label class="field">Zakelijk e-mailadres *<input name="contactEmail" type="email" required maxlength="254" autocomplete="email"></label><label class="field wide">Toelichting voor de beheerder<textarea name="message" maxlength="1500" placeholder="Wat is nieuw of gewijzigd?"></textarea></label><label class="trap" aria-hidden="true">Website<input name="websiteTrap" tabindex="-1" autocomplete="off"></label></div>
+      <label class="checkbox"><input type="checkbox" required><span>Ik mag deze gegevens doorgeven en geef toestemming om mijn contactgegevens te gebruiken voor de beoordeling van deze melding.</span></label><div id="form-message" role="status" hidden></div><div class="actions"><button class="action" type="submit">Melding versturen →</button><span class="hint">Je krijgt direct een ontvangstnummer.</span></div></section>
+    </form>
+    <aside class="side-note"><h2>Wat past op deze kaart?</h2><p>Laagdrempelige hulp en activiteiten waar inwoners vaak zonder indicatie of verwijzing terechtkunnen. Bijvoorbeeld een inloopspreekuur, ontmoetingsruimte, vrijwilligersinitiatief of mantelzorgondersteuning.</p><h2>Heb je meerdere locaties?</h2><p>Meld iedere bezoeklocatie apart aan. Zo kunnen inwoners op de kaart zien wat dichtbij is.</p><h2>Na het versturen</h2><p>Bewaar je ontvangstnummer. Je melding komt in de werklijst van de beheerder. Er wordt geen automatische e-mail verstuurd.</p><p class="hint">Dit formulier is voor informatie over voorzieningen. Deel hier geen hulpvragen, dossiers, medische gegevens of BSN’s.</p></aside>
+  </div>
+</main>
+<footer class="portal-footer"><span>Samen werken aan een actuele sociale kaart.</span><a href="index.html">Terug naar de kaart van Twente ↗</a></footer>
+</body></html>
