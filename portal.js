@@ -8,6 +8,36 @@ const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({
     "'": '&#39;'
 }[c]));
 const municipalities = ['Almelo', 'Borne', 'Dinkelland', 'Enschede', 'Haaksbergen', 'Hellendoorn', 'Hengelo', 'Hof van Twente', 'Losser', 'Oldenzaal', 'Rijssen-Holten', 'Tubbergen', 'Twenterand', 'Wierden'];
+function setupLegalDialogs() {
+    if (!document.getElementById('portalPrivacyDialog')) {
+        document.body.insertAdjacentHTML('beforeend', `
+        <dialog id="portalPrivacyDialog" class="portal-legal-dialog">
+          <button class="dialog-x" type="button" data-close-dialog aria-label="Sluiten">×</button>
+          <h2>Privacy</h2>
+          <p>Deze website vraagt niet om persoonsgegevens en gebruikt zelf geen advertentie- of trackingcookies. Technische gegevens kunnen door GitHub Pages en beveiligingsdiensten worden verwerkt om de website te leveren.</p>
+          <p>Mail je ons, dan gebruiken we je gegevens alleen om op je bericht te reageren. Stuur geen cliëntnamen, gezondheidsgegevens of andere onnodige persoonsgegevens per e-mail.</p>
+          <p>Contact: <a href="mailto:info@jeugdhulptwente.nl">info@jeugdhulptwente.nl</a>.</p>
+        </dialog>
+        <dialog id="portalDisclaimerDialog" class="portal-legal-dialog">
+          <button class="dialog-x" type="button" data-close-dialog aria-label="Sluiten">×</button>
+          <h2>Disclaimer</h2>
+          <p>Deze sociale kaart is een praktisch overzicht op basis van openbare bronnen. Informatie kan onvolledig, verouderd of gewijzigd zijn en is geen formeel verwijzingsadvies.</p>
+          <p>Controleer vóór een aanmelding altijd de actuele informatie, voorwaarden en toegankelijkheid bij de aanbieder. Aan de inhoud van deze website kunnen geen rechten worden ontleend.</p>
+        </dialog>`);
+    }
+    const bind = (selector, dialogId) => {
+        const dialog = document.getElementById(dialogId);
+        document.querySelectorAll(selector).forEach(button => button.addEventListener('click', () => dialog.showModal()));
+        dialog.querySelectorAll('[data-close-dialog]').forEach(button => button.addEventListener('click', () => dialog.close()));
+        dialog.addEventListener('click', event => {
+            if (event.target !== dialog) return;
+            const r = dialog.getBoundingClientRect();
+            if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) dialog.close();
+        });
+    };
+    bind('.privacy-btn', 'portalPrivacyDialog');
+    bind('.disclaimer-btn', 'portalDisclaimerDialog');
+}
 function setupColorScheme() {
     const button = document.querySelector('.scheme-toggle');
     if (!button) return;
@@ -26,16 +56,16 @@ function setupColorScheme() {
     button.addEventListener('click', () => apply(document.documentElement.dataset.colorScheme === 'dark' ? 'light' : 'dark'));
 }
 const categories = {
-    advies: 'Advies & hulp',
+    advies: 'Advies',
     ontmoeten: 'Ontmoeten',
-    geld: 'Geld & papierwerk',
-    taal: 'Taal & digitaal',
+    geld: 'Geldzaken',
+    taal: 'Taal / digitaal',
     mantelzorg: 'Mantelzorg',
     vrijwillig: 'Vrijwilligerswerk',
-    jeugd: 'Jeugd & opvoeden',
-    mentaal: 'Mentaal welzijn & herstel',
-    vervoer: 'Vervoer & maaltijden',
-    bewegen: 'Sport & bewegen'
+    jeugd: 'Jeugd',
+    mentaal: 'Mentale gezondheid',
+    vervoer: 'Vervoer',
+    bewegen: 'Sport'
 };
 const definitions = [['name', 'Naam voorziening', 160, true], ['municipality', 'Gemeente', 0, true], ['category', 'Onderwerp', 0, true], ['address', 'Straat en huisnummer', 200, true], ['town', 'Plaats', 100, true], ['source', 'Website met informatie over dit aanbod', 1000, true], ['description', 'Wat kunnen inwoners hier doen?', 2000, true], ['audience', 'Voor wie?', 500], ['costs', 'Kosten', 300], ['access', 'Hoe kun je meedoen? Indicatie of verwijzing nodig?', 500], ['openingHours', 'Openingstijden / spreekuur', 500], ['phone', 'Publiek telefoonnummer', 80], ['email', 'Publiek e-mailadres', 254]];
 function fields(target, v={}) {
@@ -85,7 +115,7 @@ function safeLink(url, label) {
         const u = new URL(url);
         if (!['https:', 'http:'].includes(u.protocol))
             return '';
-        return `<a href="${esc(u.href)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`;
+        return `<a href="${esc(u.href)}" target="_blank" rel="noopener noreferrer">${esc(label)} </a>`;
     } catch {
         return '';
     }
@@ -304,7 +334,7 @@ async function inventory() {
                 <td>${esc((g.municipalities || []).join(', ') || 'Twente / nog bepalen')}</td>
                 <td>${esc(topics)}${(g.categories || []).length > 3 ? `<small>+${g.categories.length-3} andere onderwerpen</small>` : ''}</td>
                 <td><span class="badge ${statusClass}">${esc(statusLabel)}</span><small>Bronronde: ${esc(g.checked || inv.checked || 'onbekend')}</small></td>
-                <td>${g.primarySource ? safeLink(g.primarySource,'Website / bron ↗') : '<span class="hint">Geen bronlink</span>'}<small><a href="${editHref}">Gegevens aanvullen →</a></small></td>
+                <td>${g.primarySource ? safeLink(g.primarySource,'Website / bron ') : '<span class="hint">Geen bronlink</span>'}<small><a href="${editHref}">Gegevens aanvullen </a></small></td>
             </tr>`;
         }).join('') || '<tr><td colspan="5">Geen passend aanbod gevonden. Probeer een bredere zoekterm of een ander onderwerp.</td></tr>';
         $('load-more').hidden = selected.length <= limit;
@@ -843,6 +873,7 @@ async function admin() {
 
 async function initPortal() {
     setupColorScheme();
+    setupLegalDialogs();
     const page = document.body.dataset.page || '';
     document.querySelectorAll('.portal-header nav a').forEach(a => {
         const href = a.getAttribute('href') || '';
