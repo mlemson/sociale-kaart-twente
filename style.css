@@ -1859,3 +1859,22 @@ html[data-color-scheme="dark"] .leaflet-control-attribution a {
 @media(max-width:760px) {
     .scheme-toggle { flex:0 0 auto; }
 }
+
+html[data-color-scheme="dark"] body[data-theme="online"] {
+    --primary:#a8d9f2;
+    --accent:#69b9e7;
+    --tint:#203542;
+    --ink:#edf7fc;
+}
+html[data-color-scheme="dark"] body[data-theme="gemeente"] {
+    --primary:#f2c0c7;
+    --accent:#ef6676;
+    --tint:#3e272d;
+    --ink:#f8edef;
+}
+html[data-color-scheme="dark"] body[data-theme="wijkwijzer"] {
+    --primary:#b8dfd2;
+    --accent:#e69a60;
+    --tint:#2b3832;
+    --ink:#eff7f3;
+}
