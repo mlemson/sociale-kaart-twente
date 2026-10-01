@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-01",
+  "checked": "2026-10-02",
   "method": "Broninventarisatie van voorliggend aanbod. Medische behandeling, geïndiceerde zorg, scholen en commerciële praktijken zijn uitgesloten. Officiële aanbieder- en gemeentelijke bronnen worden waar mogelijk automatisch voorzien van een kaartbaar bezoek-, contact- of vestigingsadres.",
   "candidates": [
     {
@@ -17659,6 +17659,3352 @@
       "locationMunicipality": "Wierden",
       "mapLocationType": "address",
       "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-power-noord",
+      "name": "Power Enschede · Noord",
+      "source": "https://www.thechessclub.nl/hulp-nodig/power",
+      "sourceTitle": "Power Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "activering",
+        "leren",
+        "werkervaring"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activering",
+        "cursus",
+        "leren",
+        "werkervaring",
+        "participatie"
+      ],
+      "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
+      "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
+      "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
+      "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
+      "address": "Zaanstraat 22",
+      "postcode": "7523HC",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-power-centrum-oost",
+      "name": "Power Enschede · Centrum-Oost",
+      "source": "https://www.thechessclub.nl/hulp-nodig/power",
+      "sourceTitle": "Power Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "activering",
+        "leren",
+        "werkervaring"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activering",
+        "cursus",
+        "leren",
+        "werkervaring",
+        "participatie"
+      ],
+      "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
+      "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
+      "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
+      "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
+      "address": "Olympialaan 20",
+      "postcode": "7523XZ",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-power-royael",
+      "name": "Power Enschede · Royael",
+      "source": "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
+      "sourceTitle": "Power Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "activering",
+        "leren",
+        "werkervaring"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activering",
+        "cursus",
+        "leren",
+        "werkervaring",
+        "participatie"
+      ],
+      "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
+      "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
+      "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
+      "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
+      "address": "Plataanstraat 50",
+      "postcode": "7545MN",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-power-zuid",
+      "name": "Power Enschede · Zuid",
+      "source": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
+      "sourceTitle": "Power Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "activering",
+        "leren",
+        "werkervaring"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activering",
+        "cursus",
+        "leren",
+        "werkervaring",
+        "participatie"
+      ],
+      "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
+      "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
+      "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
+      "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
+      "address": "Het Lang 78",
+      "postcode": "7544XC",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-livio-huiskamer-de-broekheurnerborch",
+      "name": "Livio · Huiskamer van de wijk De Broekheurnerborch",
+      "source": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "sourceTitle": "Livio",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "zonder indicatie",
+        "senioren"
+      ],
+      "tags": [
+        "ontmoeten",
+        "dagbesteding",
+        "daginvulling",
+        "zonder indicatie",
+        "huiskamer",
+        "senioren"
+      ],
+      "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
+      "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
+      "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
+      "costs": "Gratis.",
+      "address": "Rechterveldbrink 1",
+      "postcode": "7544NT",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-livio-huiskamer-twekkelerveld",
+      "name": "Livio · Huiskamer van de wijk Twekkelerveld",
+      "source": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "sourceTitle": "Livio",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "zonder indicatie",
+        "senioren"
+      ],
+      "tags": [
+        "ontmoeten",
+        "dagbesteding",
+        "daginvulling",
+        "zonder indicatie",
+        "huiskamer",
+        "senioren"
+      ],
+      "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
+      "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
+      "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
+      "costs": "Gratis.",
+      "address": "Schorpioenstraat 33",
+      "postcode": "7521HW",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-livio-huiskamer-de-hatteler",
+      "name": "Livio · Huiskamer van de wijk De Hatteler",
+      "source": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "sourceTitle": "Livio",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "zonder indicatie",
+        "senioren"
+      ],
+      "tags": [
+        "ontmoeten",
+        "dagbesteding",
+        "daginvulling",
+        "zonder indicatie",
+        "huiskamer",
+        "senioren"
+      ],
+      "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
+      "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
+      "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
+      "costs": "Gratis.",
+      "address": "Gerard Terborghplein 1",
+      "postcode": "7545BB",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-livio-huiskamer-de-bleekhof",
+      "name": "Livio · Huiskamer van de wijk De Bleekhof",
+      "source": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "sourceTitle": "Livio",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "zonder indicatie",
+        "senioren"
+      ],
+      "tags": [
+        "ontmoeten",
+        "dagbesteding",
+        "daginvulling",
+        "zonder indicatie",
+        "huiskamer",
+        "senioren"
+      ],
+      "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
+      "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
+      "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
+      "costs": "Gratis.",
+      "address": "Bleekhofstraat 1",
+      "postcode": "7543ED",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-livio-huiskamer-de-hortensiastaete",
+      "name": "Livio · Huiskamer van de wijk De Hortensiastaete",
+      "source": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "sourceTitle": "Livio",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "zonder indicatie",
+        "senioren"
+      ],
+      "tags": [
+        "ontmoeten",
+        "dagbesteding",
+        "daginvulling",
+        "zonder indicatie",
+        "huiskamer",
+        "senioren"
+      ],
+      "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
+      "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
+      "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
+      "costs": "Gratis.",
+      "address": "Hortensiastraat 1",
+      "postcode": "",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-livio-huiskamer-de-berke",
+      "name": "Livio · Huiskamer van de wijk De Berke",
+      "source": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "sourceTitle": "Livio",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "zonder indicatie",
+        "senioren"
+      ],
+      "tags": [
+        "ontmoeten",
+        "dagbesteding",
+        "daginvulling",
+        "zonder indicatie",
+        "huiskamer",
+        "senioren"
+      ],
+      "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
+      "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
+      "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
+      "costs": "Gratis.",
+      "address": "Jan van Elburgstraat 111",
+      "postcode": "7548DC",
+      "town": "Boekelo",
+      "locationType": "service",
+      "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-huis-taal-meedoen",
+      "name": "Huis voor Taal & Meedoen · taal- en digitale hulp",
+      "source": "https://www.huisvoortaalenmeedoen.nl/",
+      "sourceTitle": "Huis voor Taal & Meedoen",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "lezen",
+        "schrijven",
+        "spreken",
+        "digitale vaardigheden"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "lezen",
+        "schrijven",
+        "computer",
+        "taalspreekuur"
+      ],
+      "description": "Hulp om beter te leren lezen, schrijven en spreken en om handiger te worden met de computer en digitale zaken.",
+      "audience": "Volwassen inwoners van Enschede die basisvaardigheden willen verbeteren.",
+      "access": "Vrijblijvend advies en koppeling aan passend oefen- of leeraanbod.",
+      "costs": "Veel aanbod is gratis.",
+      "address": "Pijpenstraat 15",
+      "postcode": "7511GM",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.huisvoortaalenmeedoen.nl/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-bieb-enschede-klik-tik",
+      "name": "Bibliotheek Enschede-Haaksbergen · Klik & Tik",
+      "source": "https://bibliotheekenschede.op-shop.nl/",
+      "sourceTitle": "Bibliotheek Enschede-Haaksbergen",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "digitaal"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "cursus",
+        "gratis",
+        "digitaal"
+      ],
+      "description": "Gratis oefenen met de basis van computer en internet.",
+      "audience": "Inwoners die taal- of digitale vaardigheden willen oefenen.",
+      "access": "Bekijk de actuele agenda; voor sommige cursussen is aanmelden nodig.",
+      "costs": "Gratis aanbod; controleer de actuele activiteit.",
+      "address": "Pijpenstraat 15",
+      "postcode": "7511GM",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+      "mapPin": false
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-bieb-enschede-digisterker",
+      "name": "Bibliotheek Enschede-Haaksbergen · Digisterker",
+      "source": "https://bibliotheekenschede.op-shop.nl/",
+      "sourceTitle": "Bibliotheek Enschede-Haaksbergen",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "digitaal"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "cursus",
+        "gratis",
+        "digitaal"
+      ],
+      "description": "Cursus om veilig en zelfstandig zaken met de digitale overheid en DigiD te regelen.",
+      "audience": "Inwoners die taal- of digitale vaardigheden willen oefenen.",
+      "access": "Bekijk de actuele agenda; voor sommige cursussen is aanmelden nodig.",
+      "costs": "Gratis aanbod; controleer de actuele activiteit.",
+      "address": "Pijpenstraat 15",
+      "postcode": "7511GM",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+      "mapPin": false
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-bieb-enschede-computerspreekuur",
+      "name": "Bibliotheek Enschede-Haaksbergen · Computerspreekuur",
+      "source": "https://bibliotheekenschede.op-shop.nl/",
+      "sourceTitle": "Bibliotheek Enschede-Haaksbergen",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "digitaal"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "cursus",
+        "gratis",
+        "digitaal"
+      ],
+      "description": "Gratis hulp bij vragen over laptop, tablet, telefoon en internet.",
+      "audience": "Inwoners die taal- of digitale vaardigheden willen oefenen.",
+      "access": "Bekijk de actuele agenda; voor sommige cursussen is aanmelden nodig.",
+      "costs": "Gratis aanbod; controleer de actuele activiteit.",
+      "address": "Pijpenstraat 15",
+      "postcode": "7511GM",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-bieb-enschede-het-praathuis",
+      "name": "Bibliotheek Enschede-Haaksbergen · Het Praathuis",
+      "source": "https://bibliotheekenschede.op-shop.nl/",
+      "sourceTitle": "Bibliotheek Enschede-Haaksbergen",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "taal"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "cursus",
+        "gratis",
+        "taal"
+      ],
+      "description": "Laagdrempelig oefenen met Nederlands spreken in een groep.",
+      "audience": "Inwoners die taal- of digitale vaardigheden willen oefenen.",
+      "access": "Bekijk de actuele agenda; voor sommige cursussen is aanmelden nodig.",
+      "costs": "Gratis aanbod; controleer de actuele activiteit.",
+      "address": "Pijpenstraat 15",
+      "postcode": "7511GM",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+      "mapPin": false
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-bieb-enschede-windows-11",
+      "name": "Bibliotheek Enschede-Haaksbergen · Windows 11",
+      "source": "https://bibliotheekenschede.op-shop.nl/",
+      "sourceTitle": "Bibliotheek Enschede-Haaksbergen",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "digitaal"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "cursus",
+        "gratis",
+        "digitaal"
+      ],
+      "description": "Gratis cursus voor inwoners die willen leren werken met Windows 11.",
+      "audience": "Inwoners die taal- of digitale vaardigheden willen oefenen.",
+      "access": "Bekijk de actuele agenda; voor sommige cursussen is aanmelden nodig.",
+      "costs": "Gratis aanbod; controleer de actuele activiteit.",
+      "address": "Pijpenstraat 15",
+      "postcode": "7511GM",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+      "mapPin": false
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-sportaal-valpreventie",
+      "name": "Sportaal · Valpreventie",
+      "source": "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/",
+      "sourceTitle": "Sportaal",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "gezondheid"
+      ],
+      "tags": [
+        "sport",
+        "bewegen",
+        "gezondheid",
+        "valpreventie",
+        "gratis"
+      ],
+      "description": "Gratis tienweekse cursus gericht op balans, spierkracht en vertrouwen voor zelfstandig wonende 65-plussers.",
+      "audience": "Zelfstandig wonende inwoners van Enschede van 65 jaar en ouder.",
+      "access": "Rechtstreeks aanmelden of contact opnemen met Sportaal.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-sportaal-leefstijlportaal",
+      "name": "Sportaal · Leefstijlportaal",
+      "source": "https://www.sportaal.nl/ik-wil-sporten/voor-volwassenen/",
+      "sourceTitle": "Sportaal",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "gezondheid"
+      ],
+      "tags": [
+        "sport",
+        "bewegen",
+        "gezondheid",
+        "leefstijlportaal",
+        "gratis"
+      ],
+      "description": "Kosteloos en vrijblijvend advies over bewegen, voeding, slaap en stress.",
+      "audience": "Inwoners van Enschede met vragen over leefstijl.",
+      "access": "Rechtstreeks aanmelden of contact opnemen met Sportaal.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-ixta-wrap",
+      "name": "Ixta Noa Praktijkhuis Enschede · WRAP",
+      "source": "https://www.ixtanoa.nl/wrap/",
+      "sourceTitle": "Ixta Noa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal"
+      ],
+      "subthemes": [
+        "herstel",
+        "ervaringsdeskundigheid"
+      ],
+      "tags": [
+        "mentaal",
+        "herstel",
+        "cursus",
+        "gratis",
+        "ervaringsdeskundigheid"
+      ],
+      "description": "Acht bijeenkomsten om met een persoonlijk herstelplan meer grip te krijgen op welbevinden en ontregeling.",
+      "audience": "Mensen die aan persoonlijk of psychisch herstel willen werken.",
+      "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-ixta-herstellen-doe-je-zelf",
+      "name": "Ixta Noa Praktijkhuis Enschede · Herstellen doe je zelf",
+      "source": "https://www.ixtanoa.nl/herstellen-doe-je-zelf/",
+      "sourceTitle": "Ixta Noa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal"
+      ],
+      "subthemes": [
+        "herstel",
+        "ervaringsdeskundigheid"
+      ],
+      "tags": [
+        "mentaal",
+        "herstel",
+        "cursus",
+        "gratis",
+        "ervaringsdeskundigheid"
+      ],
+      "description": "Twaalf bijeenkomsten over herstel, regie, doelen, participatie, steun en empowerment.",
+      "audience": "Mensen die aan persoonlijk of psychisch herstel willen werken.",
+      "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-ixta-ixta-in-contact",
+      "name": "Ixta Noa Praktijkhuis Enschede · Ixta in Contact",
+      "source": "https://www.ixtanoa.nl/ixta-in-contact/",
+      "sourceTitle": "Ixta Noa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal"
+      ],
+      "subthemes": [
+        "herstel",
+        "ervaringsdeskundigheid"
+      ],
+      "tags": [
+        "mentaal",
+        "herstel",
+        "cursus",
+        "gratis",
+        "ervaringsdeskundigheid"
+      ],
+      "description": "Acht bijeenkomsten over levensverhaal, patronen, verbinding, afscheid en betekenisgeving.",
+      "audience": "Mensen die aan persoonlijk of psychisch herstel willen werken.",
+      "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-tactus-advies",
+      "name": "Tactus Preventie · gratis adviesgesprek",
+      "source": "https://www.tactus.nl/hulpaanbod/adviesgesprek/",
+      "sourceTitle": "Tactus Verslavingszorg",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal"
+      ],
+      "subthemes": [
+        "middelen",
+        "gokken",
+        "gamen"
+      ],
+      "tags": [
+        "verslaving",
+        "alcohol",
+        "drugs",
+        "medicijnen",
+        "gokken",
+        "gamen",
+        "advies",
+        "gratis"
+      ],
+      "description": "Gratis en vrijblijvend preventief advies over alcohol, drugs, medicijnen, gokken, gamen en beeldschermgebruik.",
+      "audience": "Mensen met vragen over eigen gebruik of dat van iemand anders.",
+      "access": "Rechtstreeks telefonisch of op locatie; geen verwijzing nodig.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-tactus-herstel",
+      "name": "Tactus Intact · Herstellen doe je zelf",
+      "source": "https://www.tactus.nl/intact/herstellen-doe-je-zelf/",
+      "sourceTitle": "Tactus Intact",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal"
+      ],
+      "subthemes": [
+        "herstel",
+        "verslaving"
+      ],
+      "tags": [
+        "herstel",
+        "verslaving",
+        "cursus",
+        "gratis",
+        "zelfhulp"
+      ],
+      "description": "Herstelcursus van twaalf bijeenkomsten over zelfwaardering, hoop, regie en kwaliteit van leven.",
+      "audience": "Mensen met een verslavingsprobleem en/of psychische kwetsbaarheid die aan herstel willen werken.",
+      "access": "Aanmelden via Intact; cursussen worden onder meer in Enschede aangeboden.",
+      "costs": "Gratis.",
+      "address": "Raiffeisenstraat 75",
+      "postcode": "7514AM",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-mpact-kenniscentrum",
+      "name": "M-Pact · Kenniscentrum voor vrijwilligers",
+      "source": "https://www.kenniscentrum.m-pact.nl/",
+      "sourceTitle": "M-Pact Kenniscentrum",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "vrijwillig",
+      "primaryTheme": "vrijwillig",
+      "themes": [
+        "vrijwillig"
+      ],
+      "subthemes": [
+        "training",
+        "workshop"
+      ],
+      "tags": [
+        "vrijwilligerswerk",
+        "training",
+        "workshop",
+        "cursus"
+      ],
+      "description": "Workshops, trainingen en bijeenkomsten voor vrijwilligers en vrijwilligersorganisaties in Enschede.",
+      "audience": "Vrijwilligers en organisaties die met vrijwilligers werken.",
+      "access": "Bekijk het actuele programma en meld je per activiteit aan.",
+      "costs": "Veel aanbod is gratis; controleer de activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.kenniscentrum.m-pact.nl/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-mpact-taalvrijwilliger",
+      "name": "M-Pact · Starttraining Taalvrijwilligers",
+      "source": "https://www.kenniscentrum.m-pact.nl/o/M-Pact-Kenniscentrum/activiteiten/Starttraining-Taalvrijwilligers/112776",
+      "sourceTitle": "M-Pact Kenniscentrum",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "vrijwillig",
+      "primaryTheme": "vrijwillig",
+      "themes": [
+        "vrijwillig"
+      ],
+      "subthemes": [
+        "taalvrijwilliger"
+      ],
+      "tags": [
+        "vrijwilligerswerk",
+        "taal",
+        "training",
+        "taalvrijwilliger"
+      ],
+      "description": "Basistraining voor vrijwilligers die anderstaligen willen ondersteunen bij het leren van Nederlands.",
+      "audience": "Nieuwe taalvrijwilligers.",
+      "access": "Aanmelden via M-Pact Kenniscentrum.",
+      "costs": "Controleer de actuele training.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.kenniscentrum.m-pact.nl/",
+      "mapPin": false
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-loes-online-cursus-positief-opvoeden-triple-p",
+      "name": "Loes · Online cursus Positief opvoeden - Triple P",
+      "source": "https://loes.nl/agenda",
+      "sourceTitle": "Loes",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "opvoeden",
+        "ouders"
+      ],
+      "tags": [
+        "jeugd",
+        "opvoeden",
+        "ouders",
+        "cursus",
+        "webinar",
+        "gratis"
+      ],
+      "description": "Praktische online cursus over positief opvoeden en omgaan met lastige opvoedsituaties.",
+      "audience": "Ouders, aanstaande ouders en andere opvoeders in Twente.",
+      "access": "Online of op locatie; bekijk de actuele agenda.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-loes-online-cursus-kijk-wat-je-baby-zegt",
+      "name": "Loes · Online cursus Kijk wat je baby zegt",
+      "source": "https://loes.nl/agenda",
+      "sourceTitle": "Loes",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "opvoeden",
+        "ouders"
+      ],
+      "tags": [
+        "jeugd",
+        "opvoeden",
+        "ouders",
+        "cursus",
+        "webinar",
+        "gratis"
+      ],
+      "description": "Online cursus over contact en signalen van je baby, ook vóór de geboorte.",
+      "audience": "Ouders, aanstaande ouders en andere opvoeders in Twente.",
+      "access": "Online of op locatie; bekijk de actuele agenda.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-loes-online-cursus-samenwerken-als-ouders",
+      "name": "Loes · Online cursus Samenwerken als ouders",
+      "source": "https://loes.nl/agenda",
+      "sourceTitle": "Loes",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "opvoeden",
+        "ouders"
+      ],
+      "tags": [
+        "jeugd",
+        "opvoeden",
+        "ouders",
+        "cursus",
+        "webinar",
+        "gratis"
+      ],
+      "description": "Online cursus over samenwerken als ouders en omgaan met de veranderingen na de geboorte van een kind.",
+      "audience": "Ouders, aanstaande ouders en andere opvoeders in Twente.",
+      "access": "Online of op locatie; bekijk de actuele agenda.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-loes-gratis-webinars-en-bijeenkomsten",
+      "name": "Loes · Gratis webinars en bijeenkomsten",
+      "source": "https://loes.nl/agenda",
+      "sourceTitle": "Loes",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "opvoeden",
+        "ouders"
+      ],
+      "tags": [
+        "jeugd",
+        "opvoeden",
+        "ouders",
+        "cursus",
+        "webinar",
+        "gratis"
+      ],
+      "description": "Doorlopend aanbod van gratis webinars, bijeenkomsten en cursussen over opvoeden en opgroeien.",
+      "audience": "Ouders, aanstaande ouders en andere opvoeders in Twente.",
+      "access": "Online of op locatie; bekijk de actuele agenda.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-wijkracht-academie",
+      "name": "Wijkracht · Academie voor inwoners",
+      "source": "https://www.wijkrachtacademie.nl/voor-inwoners",
+      "sourceTitle": "Wijkracht Academie",
+      "municipalities": [
+        "Borne",
+        "Dinkelland",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ],
+      "municipality": "Hengelo",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "training",
+        "cursus"
+      ],
+      "tags": [
+        "training",
+        "cursus",
+        "workshop",
+        "gratis",
+        "vaardigheden"
+      ],
+      "description": "Breed gratis aanbod van trainingen, cursussen, workshops en bijeenkomsten voor inwoners, vrijwilligers en ervaringsdeskundigen.",
+      "audience": "Inwoners, vrijwilligers en ervaringsdeskundigen in het werkgebied van Wijkracht.",
+      "access": "Rechtstreeks aanmelden bij de Wijkracht Academie.",
+      "costs": "Gratis voor inwoners van de deelnemende gemeenten."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-wijkracht-geheugenactivering",
+      "name": "Wijkracht · Geheugenactivering",
+      "source": "https://www.wijkracht.nl/nieuws/cursus-geheugenactivering-bij-wijkracht-serie-van-8-bijeenkomsten-vanaf-22-september",
+      "sourceTitle": "Wijkracht Academie",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "training"
+      ],
+      "tags": [
+        "training",
+        "gratis",
+        "geheugenactivering"
+      ],
+      "description": "Acht bijeenkomsten met technieken om beter om te gaan met vergeetachtigheid en het geheugen te ondersteunen.",
+      "audience": "Inwoners die technieken willen leren om het geheugen te ondersteunen.",
+      "access": "Aanmelden via Wijkracht Academie.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-wijkracht-sova-7-9-jaar",
+      "name": "Wijkracht · SoVa 7-9 jaar",
+      "source": "https://www.wijkrachtacademie.nl/aanbod/item-sova/sova-training-7-9-jaar",
+      "sourceTitle": "Wijkracht Academie",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "training"
+      ],
+      "tags": [
+        "training",
+        "gratis",
+        "sova 7-9 jaar"
+      ],
+      "description": "Training sociale vaardigheden voor kinderen van 7 tot 9 jaar.",
+      "audience": "Kinderen/jongeren voor wie de training passend is.",
+      "access": "Aanmelden via Wijkracht Academie.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-wijkracht-sova-9-12-jaar",
+      "name": "Wijkracht · SoVa 9-12 jaar",
+      "source": "https://www.wijkrachtacademie.nl/aanbod/item-sova/sociale-vaardigheid-sova-9-12-jaar-hengelo-eo",
+      "sourceTitle": "Wijkracht Academie",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "training"
+      ],
+      "tags": [
+        "training",
+        "gratis",
+        "sova 9-12 jaar"
+      ],
+      "description": "Training sociale vaardigheden voor kinderen van 9 tot 12 jaar.",
+      "audience": "Kinderen/jongeren voor wie de training passend is.",
+      "access": "Aanmelden via Wijkracht Academie.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-wijkracht-kies-borne",
+      "name": "Wijkracht · KIES Borne",
+      "source": "https://www.wijkrachtacademie.nl/aanbod/item/kies-training-kind-in-een-scheiding-borne",
+      "sourceTitle": "Wijkracht Academie",
+      "municipalities": [
+        "Borne"
+      ],
+      "municipality": "Borne",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "training"
+      ],
+      "tags": [
+        "training",
+        "gratis",
+        "kies borne"
+      ],
+      "description": "Training voor kinderen die te maken hebben met een scheiding van hun ouders.",
+      "audience": "Kinderen/jongeren voor wie de training passend is.",
+      "access": "Aanmelden via Wijkracht Academie.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-wijkracht-sova-leren-door-te-doen-18-",
+      "name": "Wijkracht Academie · SoVa: leren door te doen 18+",
+      "source": "https://www.wijkrachtacademie.nl/aanbod/item/sova-leren-door-te-doen-18",
+      "sourceTitle": "Wijkracht Academie",
+      "municipalities": [
+        "Borne",
+        "Dinkelland",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ],
+      "municipality": "Hengelo",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal"
+      ],
+      "subthemes": [
+        "training"
+      ],
+      "tags": [
+        "training",
+        "gratis",
+        "sova: leren door te doen 18+"
+      ],
+      "description": "Praktische sociale-vaardigheidstraining van tien bijeenkomsten, onder meer geschikt voor mensen die leren door te doen.",
+      "audience": "Inwoners voor wie de training passend is.",
+      "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-wijkracht-assertiviteitstraining-18-",
+      "name": "Wijkracht Academie · Assertiviteitstraining 18+",
+      "source": "https://www.wijkrachtacademie.nl/aanbod/item/assertiviteitstraining-volwassenen-18",
+      "sourceTitle": "Wijkracht Academie",
+      "municipalities": [
+        "Borne",
+        "Dinkelland",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ],
+      "municipality": "Hengelo",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal"
+      ],
+      "subthemes": [
+        "training"
+      ],
+      "tags": [
+        "training",
+        "gratis",
+        "assertiviteitstraining 18+"
+      ],
+      "description": "Acht bijeenkomsten waarin deelnemers oefenen met grenzen, communicatie en voor zichzelf opkomen.",
+      "audience": "Inwoners voor wie de training passend is.",
+      "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-wijkracht-piep-zei-de-muis",
+      "name": "Wijkracht Academie · Piep zei de Muis",
+      "source": "https://www.wijkrachtacademie.nl/aanbod/item/piep-zei-de-muis-4-t-m-7-jaar-hengelo-eo",
+      "sourceTitle": "Wijkracht Academie",
+      "municipalities": [
+        "Borne",
+        "Dinkelland",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ],
+      "municipality": "Hengelo",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "training"
+      ],
+      "tags": [
+        "training",
+        "gratis",
+        "piep zei de muis"
+      ],
+      "description": "Kindertraining voor kinderen van 4 tot 7 jaar die thuis of in hun omgeving veel spanning of stress ervaren.",
+      "audience": "Inwoners voor wie de training passend is.",
+      "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-wijkracht-billy-boem",
+      "name": "Wijkracht Academie · Billy Boem",
+      "source": "https://www.wijkrachtacademie.nl/aanbod/item/billy-boem-hengelo-eo",
+      "sourceTitle": "Wijkracht Academie",
+      "municipalities": [
+        "Borne",
+        "Dinkelland",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ],
+      "municipality": "Hengelo",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "training"
+      ],
+      "tags": [
+        "training",
+        "gratis",
+        "billy boem"
+      ],
+      "description": "Kindertraining voor kinderen die thuis spanning of stress meemaken of hebben meegemaakt.",
+      "audience": "Inwoners voor wie de training passend is.",
+      "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-wijkracht-gericht-op-de-toekomst",
+      "name": "Wijkracht Academie · Gericht op de Toekomst",
+      "source": "https://www.wijkrachtacademie.nl/aanbod/item/gericht-op-de-toekomst-hengelo-enschede-eo",
+      "sourceTitle": "Wijkracht Academie",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Hengelo",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal"
+      ],
+      "subthemes": [
+        "training"
+      ],
+      "tags": [
+        "training",
+        "gratis",
+        "gericht op de toekomst"
+      ],
+      "description": "Groepstraining voor vrouwen die geweld in een relatie hebben meegemaakt en willen werken aan herstel en toekomst.",
+      "audience": "Inwoners voor wie de training passend is.",
+      "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-mediant-kopp-8-12-jaar",
+      "name": "Mediant Preventie · KOPP 8-12 jaar",
+      "source": "https://mediant.nl/over-mediant/onze-specialismen/preventie/sterk-starten-na-de-zomervakantie",
+      "sourceTitle": "Mediant Preventie",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "preventie",
+        "training"
+      ],
+      "tags": [
+        "training",
+        "preventie",
+        "mentale gezondheid",
+        "gratis of vergoed"
+      ],
+      "description": "Voor kinderen van 8-12 jaar met een ouder met psychische en/of verslavingsproblemen.",
+      "audience": "Inwoners van Twente voor wie de training passend is.",
+      "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
+      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-mediant-kopp-16-25-jaar",
+      "name": "Mediant Preventie · KOPP 16-25 jaar",
+      "source": "https://mediant.nl/over-mediant/onze-specialismen/preventie/sterk-starten-na-de-zomervakantie",
+      "sourceTitle": "Mediant Preventie",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "preventie",
+        "training"
+      ],
+      "tags": [
+        "training",
+        "preventie",
+        "mentale gezondheid",
+        "gratis of vergoed"
+      ],
+      "description": "Voor jongeren van 16-25 jaar met een ouder met psychische en/of verslavingsproblemen.",
+      "audience": "Inwoners van Twente voor wie de training passend is.",
+      "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
+      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-mediant-kopp-volwassenen-25-",
+      "name": "Mediant Preventie · KOPP volwassenen 25+",
+      "source": "https://mediant.nl/over-mediant/onze-specialismen/preventie/sterk-starten-na-de-zomervakantie",
+      "sourceTitle": "Mediant Preventie",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal"
+      ],
+      "subthemes": [
+        "preventie",
+        "training"
+      ],
+      "tags": [
+        "training",
+        "preventie",
+        "mentale gezondheid",
+        "gratis of vergoed"
+      ],
+      "description": "Voor volwassenen die zijn opgegroeid met een ouder met psychische en/of verslavingsproblemen.",
+      "audience": "Inwoners van Twente voor wie de training passend is.",
+      "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
+      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-mediant-kop-op-ouders",
+      "name": "Mediant Preventie · Kop-op-ouders",
+      "source": "https://mediant.nl/over-mediant/onze-specialismen/preventie/sterk-starten-na-de-zomervakantie",
+      "sourceTitle": "Mediant Preventie",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "preventie",
+        "training"
+      ],
+      "tags": [
+        "training",
+        "preventie",
+        "mentale gezondheid",
+        "gratis of vergoed"
+      ],
+      "description": "Opvoedondersteuning voor ouders met psychische klachten.",
+      "audience": "Inwoners van Twente voor wie de training passend is.",
+      "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
+      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-mediant-minder-boos",
+      "name": "Mediant Preventie · Minder Boos",
+      "source": "https://mediant.nl/over-mediant/onze-specialismen/preventie/sterk-starten-na-de-zomervakantie",
+      "sourceTitle": "Mediant Preventie",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "preventie",
+        "training"
+      ],
+      "tags": [
+        "training",
+        "preventie",
+        "mentale gezondheid",
+        "gratis of vergoed"
+      ],
+      "description": "Groep voor kinderen van 9-12 jaar die snel boos worden en anders met problemen willen leren omgaan.",
+      "audience": "Inwoners van Twente voor wie de training passend is.",
+      "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
+      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-bibliotheektwente-computerspreekuur",
+      "name": "Bibliotheek Twente · Computerspreekuur",
+      "source": "https://www.bibliotheektwente.nl/activiteiten",
+      "sourceTitle": "Bibliotheek Twente",
+      "municipalities": [
+        "Hengelo",
+        "Hof van Twente",
+        "Oldenzaal"
+      ],
+      "municipality": "Hengelo",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "basisvaardigheden"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "cursus",
+        "gratis",
+        "computerspreekuur"
+      ],
+      "description": "Gratis hulp bij vragen over computer, internet, laptop, tablet en telefoon.",
+      "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
+      "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
+      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-bibliotheektwente-oefenplein",
+      "name": "Bibliotheek Twente · Oefenplein",
+      "source": "https://www.bibliotheektwente.nl/activiteiten",
+      "sourceTitle": "Bibliotheek Twente",
+      "municipalities": [
+        "Hengelo",
+        "Hof van Twente",
+        "Oldenzaal"
+      ],
+      "municipality": "Hengelo",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "basisvaardigheden"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "cursus",
+        "gratis",
+        "oefenplein"
+      ],
+      "description": "Gratis oefenen met taal, rekenen, DigiD, internetbankieren, werk zoeken en digitale vaardigheden.",
+      "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
+      "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
+      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-bibliotheektwente-informatiepunt-digitale-overheid",
+      "name": "Bibliotheek Twente · Informatiepunt Digitale Overheid",
+      "source": "https://www.bibliotheektwente.nl/activiteiten",
+      "sourceTitle": "Bibliotheek Twente",
+      "municipalities": [
+        "Hengelo",
+        "Hof van Twente",
+        "Oldenzaal"
+      ],
+      "municipality": "Hengelo",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "basisvaardigheden"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "cursus",
+        "gratis",
+        "informatiepunt digitale overheid"
+      ],
+      "description": "Gratis hulp en uitleg bij vragen over digitale overheidsdiensten.",
+      "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
+      "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
+      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-bibliotheektwente-taalpunt",
+      "name": "Bibliotheek Twente · Taalpunt",
+      "source": "https://www.bibliotheektwente.nl/activiteiten",
+      "sourceTitle": "Bibliotheek Twente",
+      "municipalities": [
+        "Hengelo",
+        "Hof van Twente",
+        "Oldenzaal"
+      ],
+      "municipality": "Hengelo",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "basisvaardigheden"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "cursus",
+        "gratis",
+        "taalpunt"
+      ],
+      "description": "Hulp voor mensen die beter Nederlands willen spreken, lezen of schrijven.",
+      "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
+      "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
+      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-bibliotheektwente-praathuis",
+      "name": "Bibliotheek Twente · Praathuis",
+      "source": "https://www.bibliotheektwente.nl/activiteiten",
+      "sourceTitle": "Bibliotheek Twente",
+      "municipalities": [
+        "Hengelo",
+        "Hof van Twente",
+        "Oldenzaal"
+      ],
+      "municipality": "Hengelo",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "basisvaardigheden"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "cursus",
+        "gratis",
+        "praathuis"
+      ],
+      "description": "Samen Nederlands spreken en oefenen in een laagdrempelige groep.",
+      "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
+      "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
+      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-bibliotheektwente-gratis-digitale-workshops",
+      "name": "Bibliotheek Twente · Gratis digitale workshops",
+      "source": "https://www.bibliotheektwente.nl/digitaal",
+      "sourceTitle": "Bibliotheek Twente",
+      "municipalities": [
+        "Hengelo",
+        "Hof van Twente",
+        "Oldenzaal"
+      ],
+      "municipality": "Hengelo",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "basisvaardigheden"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "cursus",
+        "gratis",
+        "gratis digitale workshops"
+      ],
+      "description": "Gratis workshops en cursussen om digitale vaardigheden te verbeteren.",
+      "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
+      "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
+      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-avedan-taalpunt",
+      "name": "Avedan · Taalpunt Almelo",
+      "source": "https://www.avedan.nl/activiteit/taalpunt-almelo/",
+      "sourceTitle": "Avedan",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "lezen",
+        "schrijven",
+        "spreken",
+        "rekenen"
+      ],
+      "tags": [
+        "taal",
+        "taalpunt",
+        "oefenen",
+        "basisvaardigheden"
+      ],
+      "description": "Taalpunt voor hulp bij Nederlands spreken, lezen, schrijven en rekenen; oefenen kan één-op-één of in groepen.",
+      "audience": "Volwassen inwoners van Almelo.",
+      "access": "Inloop/inschrijving bij Taalpunt Almelo.",
+      "costs": "Taalondersteuning via vrijwilligers is laagdrempelig.",
+      "address": "Het Baken 3",
+      "postcode": "7607AA",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.avedan.nl/activiteit/taalpunt-almelo/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-avedan-join-us",
+      "name": "Avedan · Join Us Almelo",
+      "source": "https://www.avedan.nl/activiteit/joinus/",
+      "sourceTitle": "Avedan",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "jongeren",
+        "eenzaamheid"
+      ],
+      "tags": [
+        "jongeren",
+        "ontmoeten",
+        "join us",
+        "eenzaamheid",
+        "gratis"
+      ],
+      "description": "Om-de-weekse ontmoetingsgroep waar jongeren nieuwe mensen leren kennen en werken aan een fijner sociaal leven.",
+      "audience": "Jongeren van 16 tot en met 23 jaar in Almelo.",
+      "access": "Rechtstreeks aanmelden bij Join Us/Avedan.",
+      "costs": "Gratis.",
+      "address": "Jan Tooropstraat 27",
+      "postcode": "7606JS",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.avedan.nl/activiteit/joinus/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-avedan-bikkels-pakken-door",
+      "name": "Avedan · Bikkels Pakken Door",
+      "source": "https://www.avedan.nl/activiteit/bikkelspakkendooralmelo/",
+      "sourceTitle": "Avedan",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "training",
+        "sociale vaardigheden"
+      ],
+      "tags": [
+        "jeugd",
+        "training",
+        "gratis",
+        "weerbaarheid",
+        "sociale vaardigheden"
+      ],
+      "description": "Gratis sociale-vaardigheidstraining voor kinderen van 6-9 jaar.",
+      "audience": "Kinderen in de betreffende gemeente die baat hebben bij de training.",
+      "access": "Rechtstreeks aanmelden bij Avedan; groepen starten bij voldoende deelnemers.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-avedan-koele-bikkels",
+      "name": "Avedan · Koele Bikkels",
+      "source": "https://www.avedan.nl/activiteit/koelebikkelswierden/",
+      "sourceTitle": "Avedan",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "training",
+        "sociale vaardigheden"
+      ],
+      "tags": [
+        "jeugd",
+        "training",
+        "gratis",
+        "weerbaarheid",
+        "sociale vaardigheden"
+      ],
+      "description": "Gratis faalangsttraining van zes bijeenkomsten voor kinderen van 8-12 jaar.",
+      "audience": "Kinderen in de betreffende gemeente die baat hebben bij de training.",
+      "access": "Rechtstreeks aanmelden bij Avedan; groepen starten bij voldoende deelnemers.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-avedan-bikkels-in-de-dop",
+      "name": "Avedan · Bikkels in de Dop",
+      "source": "https://www.avedan.nl/activiteit/bikkelsindedoprijssenholten/",
+      "sourceTitle": "Avedan",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "training",
+        "sociale vaardigheden"
+      ],
+      "tags": [
+        "jeugd",
+        "training",
+        "gratis",
+        "weerbaarheid",
+        "sociale vaardigheden"
+      ],
+      "description": "Gratis sociale-vaardigheidstraining voor kinderen van 8-12 jaar.",
+      "audience": "Kinderen in de betreffende gemeente die baat hebben bij de training.",
+      "access": "Rechtstreeks aanmelden bij Avedan; groepen starten bij voldoende deelnemers.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-avedan-actief-almelo",
+      "name": "Avedan · Actief Almelo",
+      "source": "https://www.avedan.nl/activiteit/actiefalmelo/",
+      "sourceTitle": "Avedan",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "jeugd",
+        "creatief"
+      ],
+      "tags": [
+        "sport",
+        "creatief",
+        "jeugd",
+        "vakantieactiviteiten",
+        "gratis"
+      ],
+      "description": "Gratis sportieve, creatieve, muzikale en leerzame activiteiten voor kinderen, tieners en jongeren in Almelo.",
+      "audience": "Kinderen, tieners en jongeren in Almelo.",
+      "access": "Bekijk het actuele programma en schrijf waar nodig in.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-avedan-vvethuis",
+      "name": "Avedan · VVE-Thuis",
+      "source": "https://www.avedan.nl/gemeentepagina/vve-thuis/",
+      "sourceTitle": "Avedan",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "ouders",
+        "taalontwikkeling"
+      ],
+      "tags": [
+        "opvoeden",
+        "ouders",
+        "peuters",
+        "taal",
+        "gratis"
+      ],
+      "description": "Bijeenkomsten voor ouders met activiteiten om thuis de ontwikkeling en taal van jonge kinderen te stimuleren.",
+      "audience": "Ouders van jonge kinderen bij deelnemende peuteropvang/scholen.",
+      "access": "Via de peuteropvang of school in de wijk.",
+      "costs": "Gratis; waar nodig is gratis opvang voor jongere kinderen."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-avedan-ontmoetingscafe",
+      "name": "Avedan · Ontmoetingscafé De Schelf",
+      "source": "https://www.avedan.nl/activiteit/voor-bijna-al-uw-vragen-de-inloop-schelfhorst/",
+      "sourceTitle": "Avedan",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "buurt",
+        "gratis"
+      ],
+      "description": "Maandelijks ontmoetingscafé voor een praatje, nieuwe contacten en vragen over gezondheid, welzijn en de wijk.",
+      "audience": "Iedereen.",
+      "access": "Vrije inloop.",
+      "costs": "Gratis.",
+      "address": "Binnenhof 51",
+      "postcode": "7608KH",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.avedan.nl/activiteit/voor-bijna-al-uw-vragen-de-inloop-schelfhorst/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-salut-assertiviteitstraining-volwassenen",
+      "name": "Salut · Assertiviteitstraining volwassenen",
+      "source": "https://salut-welzijn.nl/nieuws/zet-jij-jezelf-vaak-op-de-laatste-plaats-assertiviteit-kun-je-leren/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "mentaal",
+        "gratis",
+        "assertiviteitstraining volwassenen",
+        "training"
+      ],
+      "description": "Kosteloze training van acht bijeenkomsten over grenzen aangeven, omgaan met kritiek en voor jezelf opkomen.",
+      "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
+      "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
+      "costs": "Gratis/kosteloos volgens de bron."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-salut-sova-training-jeugd",
+      "name": "Salut · SOVA-training jeugd",
+      "source": "https://salut-welzijn.nl/nieuws/help-je-kind-meer-zelfvertrouwen-te-krijgen-in-contact-met-anderen/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "jeugd",
+        "gratis",
+        "sova-training jeugd",
+        "training"
+      ],
+      "description": "Kosteloze training sociale vaardigheden voor kinderen en jongeren met verschillende leeftijdsgroepen.",
+      "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
+      "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
+      "costs": "Gratis/kosteloos volgens de bron."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-salut-taalmaatje",
+      "name": "Salut · Taalmaatje",
+      "source": "https://salut-welzijn.nl/onderwerpen/digi-en-taalvaardigheid/taalcoaching-met-taalmaatje/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "taal",
+        "gratis",
+        "taalmaatje",
+        "training"
+      ],
+      "description": "Gratis één-op-één taalcoaching om Nederlands spreken, lezen of schrijven te oefenen.",
+      "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
+      "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
+      "costs": "Gratis/kosteloos volgens de bron."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-salut-jouw-loket",
+      "name": "Salut · Jouw Loket",
+      "source": "https://salut-welzijn.nl/onderwerpen/geldzaken-en-formulieren/jouw-loket/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "geld",
+        "gratis",
+        "jouw loket",
+        "training"
+      ],
+      "description": "Hulp bij brieven, formulieren, toeslagen, pensioen en DigiD; met gratis IDO/Oefenplein in Bibliotheek Goor.",
+      "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
+      "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
+      "costs": "Gratis/kosteloos volgens de bron."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-salut-de-omslag",
+      "name": "Salut · De Omslag",
+      "source": "https://salut-welzijn.nl/onderwerpen/geldzaken-en-formulieren/de-omslag/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "geld",
+        "gratis",
+        "de omslag",
+        "training"
+      ],
+      "description": "Vrijwillige hulp thuis om administratie te ordenen, regelingen aan te vragen en grip te krijgen op geldzaken.",
+      "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
+      "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
+      "costs": "Gratis/kosteloos volgens de bron."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-salut-maatjesdienst-voor-elkaar",
+      "name": "Salut · Maatjesdienst Voor Elkaar",
+      "source": "https://salut-welzijn.nl/onderwerpen/vrijwilligerszaken/maatjesdienst/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "ontmoeten",
+        "gratis",
+        "maatjesdienst voor elkaar",
+        "training"
+      ],
+      "description": "Maatje voor zelfstandig wonende inwoners die niet makkelijk aan groepsactiviteiten kunnen deelnemen.",
+      "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
+      "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
+      "costs": "Geen gemeentelijke indicatie nodig; vraag Salut naar eventuele kosten."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-salut-sociaal-juridisch-spreekuur",
+      "name": "Salut · Sociaal Juridisch Spreekuur",
+      "source": "https://salut-welzijn.nl/sociaal-juridisch-spreekuur/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "advies",
+        "gratis",
+        "sociaal juridisch spreekuur",
+        "training"
+      ],
+      "description": "Kosteloos advies over onder meer werk, inkomen, uitkeringen, wonen, scheiding, belastingen en schulden.",
+      "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
+      "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
+      "costs": "Gratis/kosteloos volgens de bron."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-salut-alzheimer-caf-hof-van-twente",
+      "name": "Salut · Alzheimer Café Hof van Twente",
+      "source": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "mantelzorg",
+        "gratis",
+        "alzheimer café hof van twente",
+        "training"
+      ],
+      "description": "Gratis ontmoetings- en informatieavond voor mensen met dementie, naasten en geïnteresseerden.",
+      "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
+      "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
+      "costs": "Gratis/kosteloos volgens de bron."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-kruispunt-delden",
+      "name": "Dagontmoeting 't Kruispunt · Delden",
+      "source": "https://www.hofactief.nl/activiteiten/dagontmoeting-t-kruispunt/",
+      "sourceTitle": "Hofactief / Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "dagbesteding zonder indicatie",
+        "ouderen"
+      ],
+      "tags": [
+        "dagbesteding",
+        "dagontmoeting",
+        "zonder indicatie",
+        "ontmoeten",
+        "structuur"
+      ],
+      "description": "Dagontmoeting met gezelschap, activiteiten en een warme maaltijd voor mensen die meer structuur of sociale contacten wensen. Een Wmo-indicatie is niet nodig.",
+      "audience": "Volwassenen in Hof van Twente die behoefte hebben aan activiteit, gezelschap of structuur.",
+      "access": "Aanmelden via Salut; er kan een wachtlijst gelden.",
+      "costs": "Eigen bijdrage voor het dagprogramma; controleer het actuele tarief.",
+      "address": "Langestraat 155",
+      "postcode": "7491AE",
+      "town": "Delden",
+      "locationType": "service",
+      "locationSource": "https://www.hofactief.nl/activiteiten/dagontmoeting-t-kruispunt/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-fundament-taalpunt-losser",
+      "name": "Fundament Losser · Taalpunt Losser",
+      "source": "https://www.fundamentlosser.nl/ondersteuning/taalpunt-losser/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "taal",
+        "taalpunt losser",
+        "cursus",
+        "inloop"
+      ],
+      "description": "Hulp bij Nederlands spreken, lezen en schrijven, digitale vaardigheden en onder meer DigiD.",
+      "audience": "Inwoners van de gemeente Losser.",
+      "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
+      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-fundament-taallessen-en-taalvrijwilliger",
+      "name": "Fundament Losser · Taallessen en taalvrijwilliger",
+      "source": "https://www.fundamentlosser.nl/activiteiten/taallessen-taalpunt/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "taal",
+        "taallessen en taalvrijwilliger",
+        "cursus",
+        "inloop"
+      ],
+      "description": "Eén-op-één taalondersteuning en hulp bij het vinden van passende taallessen of oefenen voor inburgering.",
+      "audience": "Inwoners van de gemeente Losser.",
+      "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
+      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-fundament-anwb-automaatje",
+      "name": "Fundament Losser · ANWB AutoMaatje",
+      "source": "https://www.fundamentlosser.nl/ondersteuning/anwb-automaatje/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "vervoer",
+      "primaryTheme": "vervoer",
+      "themes": [
+        "vervoer"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "vervoer",
+        "anwb automaatje",
+        "cursus",
+        "inloop"
+      ],
+      "description": "Vrijwilligers vervoeren minder mobiele inwoners tegen een kleine onkostenvergoeding.",
+      "audience": "Inwoners van de gemeente Losser.",
+      "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
+      "costs": "Kleine onkostenvergoeding per rit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-fundament-vrijwilligersacademie",
+      "name": "Fundament Losser · Vrijwilligersacademie",
+      "source": "https://www.fundamentlosser.nl/ondersteuning/vrijwilligerswerk-in-losser/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "vrijwillig",
+      "primaryTheme": "vrijwillig",
+      "themes": [
+        "vrijwillig"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "vrijwillig",
+        "vrijwilligersacademie",
+        "cursus",
+        "inloop"
+      ],
+      "description": "Trainingen en cursussen voor vrijwilligers via LosserDoet en Fundament.",
+      "audience": "Inwoners van de gemeente Losser.",
+      "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
+      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-fundament-dorpshuiskamer",
+      "name": "Fundament Losser · Dorpshuiskamer",
+      "source": "https://www.fundamentlosser.nl/activiteiten/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "dorpshuiskamer",
+        "cursus",
+        "inloop"
+      ],
+      "description": "Laagdrempelige ontmoetingsplek voor ouderen en mantelzorgers.",
+      "audience": "Inwoners van de gemeente Losser.",
+      "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
+      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-fundament-digitaal-inloopcaf-",
+      "name": "Fundament Losser · Digitaal inloopcafé",
+      "source": "https://www.fundamentlosser.nl/activiteiten/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "taal",
+        "digitaal inloopcafé",
+        "cursus",
+        "inloop"
+      ],
+      "description": "Inloop voor vragen over tablet, smartphone, laptop en digitale zaken.",
+      "audience": "Inwoners van de gemeente Losser.",
+      "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
+      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-fundament-taalpunt-locatie",
+      "name": "Fundament Losser · Taalpunt in 't Lossers hoes",
+      "source": "https://www.fundamentlosser.nl/ondersteuning/taalpunt-losser/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "taalpunt"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "taalpunt",
+        "inloop"
+      ],
+      "description": "Fysieke locatie van het Taalpunt Losser in 't Lossers hoes.",
+      "audience": "Inwoners die taal- of digitale basisvaardigheden willen verbeteren.",
+      "access": "Kom langs of neem contact op.",
+      "costs": "Laagdrempelig.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "locationType": "visiting",
+      "locationSource": "https://www.fundamentlosser.nl/ondersteuning/taalpunt-losser/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-impuls-actieve-ontmoeting-paal-12",
+      "name": "Impuls · Actieve Ontmoeting Paal 12",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "meedoen",
+        "zonder indicatie"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "dagbesteding zonder indicatie",
+        "inloop"
+      ],
+      "description": "Wekelijkse laagdrempelige daginvulling met ontmoeting, bewegen en activiteiten.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
+      "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
+      "address": "Vondellaan 12",
+      "postcode": "",
+      "town": "Oldenzaal",
+      "locationType": "service",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-impuls-actieve-ontmoeting-stakenboer",
+      "name": "Impuls · Actieve Ontmoeting Stakenboer",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "meedoen",
+        "zonder indicatie"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "dagbesteding zonder indicatie",
+        "inloop"
+      ],
+      "description": "Wekelijkse laagdrempelige daginvulling met ontmoeting, bewegen en activiteiten.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
+      "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
+      "address": "Burg. Wallerstraat 115",
+      "postcode": "",
+      "town": "Oldenzaal",
+      "locationType": "service",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-impuls-taalpunt",
+      "name": "Impuls · Taalpunt",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "meedoen",
+        "zonder indicatie"
+      ],
+      "tags": [
+        "taal",
+        "ontmoeten",
+        "dagbesteding zonder indicatie",
+        "inloop"
+      ],
+      "description": "Inloop voor inwoners die beter Nederlands willen leren spreken, lezen of schrijven.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer eventuele bijdrage.",
+      "address": "In den Vijfhoek 75",
+      "postcode": "",
+      "town": "Oldenzaal",
+      "locationType": "service",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-impuls-koffie-inloop-stakenboer",
+      "name": "Impuls · Koffie-inloop Stakenboer",
+      "source": "https://www.impuls-oldenzaal.nl/wat-we-doen/meedoen-en-ontmoeten/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "meedoen",
+        "zonder indicatie"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "dagbesteding zonder indicatie",
+        "inloop"
+      ],
+      "description": "Dagelijkse koffie-inloop om buurtbewoners te ontmoeten en bij te praten.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer eventuele bijdrage.",
+      "address": "Burg. Wallerstraat 115",
+      "postcode": "",
+      "town": "Oldenzaal",
+      "locationType": "service",
+      "locationSource": "https://www.impuls-oldenzaal.nl/wat-we-doen/meedoen-en-ontmoeten/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-impuls-creatief-caf-",
+      "name": "Impuls · Creatief Café",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "meedoen",
+        "zonder indicatie"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "dagbesteding zonder indicatie",
+        "inloop"
+      ],
+      "description": "Terugkerende inloop voor tekenen, schilderen, breien, haken en andere creatieve activiteiten.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer eventuele bijdrage.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "",
+      "town": "Oldenzaal",
+      "locationType": "service",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-zfo-welzijn-zonder-indicatie",
+      "name": "Zorgfederatie Oldenzaal · welzijnsactiviteiten zonder indicatie",
+      "source": "https://zorgfederatieoldenzaal.nl/diensten/dagbesteding/",
+      "sourceTitle": "Zorgfederatie Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "zonder indicatie"
+      ],
+      "tags": [
+        "dagbesteding",
+        "daginvulling",
+        "zonder indicatie",
+        "welzijn",
+        "activiteiten"
+      ],
+      "description": "Welzijnsactiviteiten op Scholtenhof en Mariahof, zoals bewegen, spel, creativiteit en uitstapjes; deelname aan welzijnsactiviteiten kan zonder indicatie.",
+      "audience": "Inwoners die willen deelnemen aan welzijnsactiviteiten.",
+      "access": "Voor welzijnsactiviteiten is geen indicatie nodig; voor formele dagbesteding wel.",
+      "costs": "Afhankelijk van de activiteit kan een eigen bijdrage gelden."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-swtd-seniorenkabinet-langeveen",
+      "name": "Sociaal, dat werkt! · Seniorenkabinet Langeveen",
+      "source": "https://swtd.nl/events/seniorenkabinet-2/var/ri-107.l-L1/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "vrijwillige dagbesteding",
+        "senioren"
+      ],
+      "tags": [
+        "dagbesteding",
+        "huiskamer",
+        "senioren",
+        "vrijwillige dagbesteding",
+        "ontmoeten"
+      ],
+      "description": "Vrijwillige dagbesteding in huiskamervorm met koffie, activiteiten, een maaltijd en ontmoeting.",
+      "audience": "Senioren die behoefte hebben aan gezelschap en een zinvolle daginvulling.",
+      "access": "Aanmelden kan bij het Seniorenkabinet/SWTD.",
+      "costs": "€15 voor een hele dag inclusief maaltijd volgens de bron.",
+      "address": "Rouweweg 14",
+      "postcode": "",
+      "town": "Langeveen",
+      "locationType": "service",
+      "locationSource": "https://swtd.nl/events/seniorenkabinet-2/var/ri-107.l-L1/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-swtd-inloop-veur-mekaar",
+      "name": "Sociaal, dat werkt! · Inloop Veur Mekaar Denekamp",
+      "source": "https://swtd.nl/events/inloop-veur-mekaar/var/ri-106.l-L1/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland"
+      ],
+      "municipality": "Dinkelland",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "ouderen",
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "ouderen",
+        "gratis"
+      ],
+      "description": "Wekelijkse inloopochtend voor ouderen om bij te praten of een spelletje te doen.",
+      "audience": "Oudere inwoners van Dinkelland.",
+      "access": "Vrije inloop.",
+      "costs": "Gratis; consumpties voor eigen rekening.",
+      "address": "Oranjestraat 21",
+      "postcode": "",
+      "town": "Denekamp",
+      "locationType": "visiting",
+      "locationSource": "https://swtd.nl/events/inloop-veur-mekaar/var/ri-106.l-L1/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-swtd-terra-nova",
+      "name": "Sociaal, dat werkt! · Inloop Terra Nova Tilligte",
+      "source": "https://swtd.nl/agenda-oud/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland"
+      ],
+      "municipality": "Dinkelland",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "senioren"
+      ],
+      "tags": [
+        "dagbesteding",
+        "inloop",
+        "senioren",
+        "ontmoeten",
+        "lichte begeleiding"
+      ],
+      "description": "Laagdrempelige inloop met ontmoeting, activiteiten, lunch en waar nodig lichte begeleiding.",
+      "audience": "Senioren uit Dinkelland die behoefte hebben aan gezelligheid, structuur of ondersteuning.",
+      "access": "Neem contact op voor actuele dagen en deelname.",
+      "costs": "Eigen bijdrage per dagdeel volgens de actuele bron.",
+      "address": "Kerkweg 5-7",
+      "postcode": "7634PL",
+      "town": "Tilligte",
+      "locationType": "service",
+      "locationSource": "https://swtd.nl/agenda-oud/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-zorgsaam-in-balans",
+      "name": "ZorgSaam Twenterand · In Balans / Actieve Ontmoeting",
+      "source": "https://www.zorgsaamtwenterand.nl/nieuws/in-balans-met-de-actieve-ontmoeting-start-dit-najaar-in-westerhaar-en-vroomshoop/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "65+",
+        "ontmoeten"
+      ],
+      "tags": [
+        "bewegen",
+        "balans",
+        "65+",
+        "ontmoeten",
+        "training"
+      ],
+      "description": "Beweeg- en ontmoetingsprogramma voor 65-plussers met aandacht voor balans en een gezamenlijke lunch.",
+      "audience": "Inwoners van Twenterand van 65 jaar en ouder.",
+      "access": "Aanmelden via ZorgSaam Twenterand.",
+      "costs": "€5 per keer, voornamelijk voor de lunch, volgens de bron."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-zorgsaam-formulieren-vriezenveen",
+      "name": "ZorgSaam Twenterand · Formulierenspreekuur Vriezenveen",
+      "source": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/hulp-bij-formulieren/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "formulieren",
+        "DigiD"
+      ],
+      "tags": [
+        "formulieren",
+        "papierwerk",
+        "DigiD",
+        "inloop"
+      ],
+      "description": "Inloopspreekuur voor hulp bij formulieren en online zaken.",
+      "audience": "Inwoners van Twenterand.",
+      "access": "Zonder afspraak binnenlopen op de aangegeven spreekuren.",
+      "costs": "Gratis hulp.",
+      "address": "Manitobaplein 1",
+      "postcode": "7671GS",
+      "town": "Vriezenveen",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/hulp-bij-formulieren/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261002-zorgsaam-formulieren-vroomshoop",
+      "name": "ZorgSaam Twenterand · Formulierenspreekuur Vroomshoop",
+      "source": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/hulp-bij-formulieren/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "formulieren",
+        "DigiD"
+      ],
+      "tags": [
+        "formulieren",
+        "papierwerk",
+        "DigiD",
+        "inloop"
+      ],
+      "description": "Inloopspreekuur voor hulp bij formulieren en online zaken.",
+      "audience": "Inwoners van Twenterand.",
+      "access": "Zonder afspraak binnenlopen op de aangegeven spreekuren.",
+      "costs": "Gratis hulp.",
+      "address": "Oranjeplein 7H",
+      "postcode": "",
+      "town": "Vroomshoop",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/hulp-bij-formulieren/",
+      "mapPin": true
     }
   ],
   "sources": [
@@ -19703,11 +23049,549 @@
       "municipalities": [
         "Wierden"
       ]
+    },
+    {
+      "title": "Power Enschede",
+      "url": "https://www.thechessclub.nl/hulp-nodig/power",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Power Enschede",
+      "url": "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Power Enschede",
+      "url": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Livio",
+      "url": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Huis voor Taal & Meedoen",
+      "url": "https://www.huisvoortaalenmeedoen.nl/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Bibliotheek Enschede-Haaksbergen",
+      "url": "https://bibliotheekenschede.op-shop.nl/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Sportaal",
+      "url": "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Sportaal",
+      "url": "https://www.sportaal.nl/ik-wil-sporten/voor-volwassenen/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Ixta Noa",
+      "url": "https://www.ixtanoa.nl/wrap/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Ixta Noa",
+      "url": "https://www.ixtanoa.nl/herstellen-doe-je-zelf/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Ixta Noa",
+      "url": "https://www.ixtanoa.nl/ixta-in-contact/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Tactus Verslavingszorg",
+      "url": "https://www.tactus.nl/hulpaanbod/adviesgesprek/",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Tactus Intact",
+      "url": "https://www.tactus.nl/intact/herstellen-doe-je-zelf/",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Tactus Intact",
+      "url": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ]
+    },
+    {
+      "title": "M-Pact Kenniscentrum",
+      "url": "https://www.kenniscentrum.m-pact.nl/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "M-Pact Kenniscentrum",
+      "url": "https://www.kenniscentrum.m-pact.nl/o/M-Pact-Kenniscentrum/activiteiten/Starttraining-Taalvrijwilligers/112776",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Loes",
+      "url": "https://loes.nl/agenda",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Wijkracht Academie",
+      "url": "https://www.wijkrachtacademie.nl/voor-inwoners",
+      "municipalities": [
+        "Borne",
+        "Dinkelland",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Wijkracht Academie",
+      "url": "https://www.wijkracht.nl/nieuws/cursus-geheugenactivering-bij-wijkracht-serie-van-8-bijeenkomsten-vanaf-22-september",
+      "municipalities": [
+        "Hengelo"
+      ]
+    },
+    {
+      "title": "Wijkracht Academie",
+      "url": "https://www.wijkrachtacademie.nl/aanbod/item-sova/sova-training-7-9-jaar",
+      "municipalities": [
+        "Hengelo"
+      ]
+    },
+    {
+      "title": "Wijkracht Academie",
+      "url": "https://www.wijkrachtacademie.nl/aanbod/item-sova/sociale-vaardigheid-sova-9-12-jaar-hengelo-eo",
+      "municipalities": [
+        "Hengelo"
+      ]
+    },
+    {
+      "title": "Wijkracht Academie",
+      "url": "https://www.wijkrachtacademie.nl/aanbod/item/kies-training-kind-in-een-scheiding-borne",
+      "municipalities": [
+        "Borne"
+      ]
+    },
+    {
+      "title": "Wijkracht Academie",
+      "url": "https://www.wijkrachtacademie.nl/aanbod/item/sova-leren-door-te-doen-18",
+      "municipalities": [
+        "Borne",
+        "Dinkelland",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Wijkracht Academie",
+      "url": "https://www.wijkrachtacademie.nl/aanbod/item/assertiviteitstraining-volwassenen-18",
+      "municipalities": [
+        "Borne",
+        "Dinkelland",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Wijkracht Academie",
+      "url": "https://www.wijkrachtacademie.nl/aanbod/item/piep-zei-de-muis-4-t-m-7-jaar-hengelo-eo",
+      "municipalities": [
+        "Borne",
+        "Dinkelland",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Wijkracht Academie",
+      "url": "https://www.wijkrachtacademie.nl/aanbod/item/billy-boem-hengelo-eo",
+      "municipalities": [
+        "Borne",
+        "Dinkelland",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Wijkracht Academie",
+      "url": "https://www.wijkrachtacademie.nl/aanbod/item/gericht-op-de-toekomst-hengelo-enschede-eo",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Mediant Preventie",
+      "url": "https://mediant.nl/over-mediant/onze-specialismen/preventie/sterk-starten-na-de-zomervakantie",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Bibliotheek Twente",
+      "url": "https://www.bibliotheektwente.nl/activiteiten",
+      "municipalities": [
+        "Hengelo",
+        "Hof van Twente",
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Bibliotheek Twente",
+      "url": "https://www.bibliotheektwente.nl/digitaal",
+      "municipalities": [
+        "Hengelo",
+        "Hof van Twente",
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Avedan",
+      "url": "https://www.avedan.nl/activiteit/taalpunt-almelo/",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Avedan",
+      "url": "https://www.avedan.nl/activiteit/joinus/",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Avedan",
+      "url": "https://www.avedan.nl/activiteit/bikkelspakkendooralmelo/",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Avedan",
+      "url": "https://www.avedan.nl/activiteit/koelebikkelswierden/",
+      "municipalities": [
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Avedan",
+      "url": "https://www.avedan.nl/activiteit/bikkelsindedoprijssenholten/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "Avedan",
+      "url": "https://www.avedan.nl/activiteit/actiefalmelo/",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Avedan",
+      "url": "https://www.avedan.nl/gemeentepagina/vve-thuis/",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Avedan",
+      "url": "https://www.avedan.nl/activiteit/voor-bijna-al-uw-vragen-de-inloop-schelfhorst/",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/nieuws/zet-jij-jezelf-vaak-op-de-laatste-plaats-assertiviteit-kun-je-leren/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/nieuws/help-je-kind-meer-zelfvertrouwen-te-krijgen-in-contact-met-anderen/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/onderwerpen/digi-en-taalvaardigheid/taalcoaching-met-taalmaatje/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/onderwerpen/geldzaken-en-formulieren/jouw-loket/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/onderwerpen/geldzaken-en-formulieren/de-omslag/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/onderwerpen/vrijwilligerszaken/maatjesdienst/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/sociaal-juridisch-spreekuur/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Hofactief / Salut",
+      "url": "https://www.hofactief.nl/activiteiten/dagontmoeting-t-kruispunt/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Fundament Losser",
+      "url": "https://www.fundamentlosser.nl/ondersteuning/taalpunt-losser/",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "Fundament Losser",
+      "url": "https://www.fundamentlosser.nl/activiteiten/taallessen-taalpunt/",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "Fundament Losser",
+      "url": "https://www.fundamentlosser.nl/ondersteuning/anwb-automaatje/",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "Fundament Losser",
+      "url": "https://www.fundamentlosser.nl/ondersteuning/vrijwilligerswerk-in-losser/",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "Fundament Losser",
+      "url": "https://www.fundamentlosser.nl/activiteiten/",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/agenda/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/wat-we-doen/meedoen-en-ontmoeten/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Zorgfederatie Oldenzaal",
+      "url": "https://zorgfederatieoldenzaal.nl/diensten/dagbesteding/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Sociaal, dat werkt!",
+      "url": "https://swtd.nl/events/seniorenkabinet-2/var/ri-107.l-L1/",
+      "municipalities": [
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "Sociaal, dat werkt!",
+      "url": "https://swtd.nl/events/inloop-veur-mekaar/var/ri-106.l-L1/",
+      "municipalities": [
+        "Dinkelland"
+      ]
+    },
+    {
+      "title": "Sociaal, dat werkt!",
+      "url": "https://swtd.nl/agenda-oud/",
+      "municipalities": [
+        "Dinkelland"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/nieuws/in-balans-met-de-actieve-ontmoeting-start-dit-najaar-in-westerhaar-en-vroomshoop/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/hulp-bij-formulieren/",
+      "municipalities": [
+        "Twenterand"
+      ]
     }
   ],
   "enrichmentVersion": 3,
   "enrichmentMethod": "Alle bronvermeldingen worden lokaal vooringevuld met uitlegbare sleutelwoordregels. Via Beheer kunnen daarnaast publieke bronpagina’s automatisch worden uitgelezen. Automatische waarden blijven controlepunten; bron, adres, toegang en actuele kosten moeten vóór publicatie worden geverifieerd.",
   "addressEnrichmentVersion": 1,
   "addressEnrichedAt": "2026-10-01",
-  "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin."
+  "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin.",
+  "contentExpansionVersion": 2,
+  "contentExpansionNote": "Uitbreiding met concrete gratis/laagdrempelige trainingen, cursussen, taal- en digitale hulp, herstelgroepen, Power-locaties en daginvulling/dagontmoeting zonder indicatie. Concrete locaties kunnen via mapPin afzonderlijk op de kaart staan."
 }

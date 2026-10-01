@@ -173,6 +173,7 @@ def main():
             "lat": v.get("lat"), "lon": v.get("lon"), "locationType": v.get("locationType") or "",
             "locationSource": v.get("locationSource") or "", "locationMunicipality": v.get("locationMunicipality") or "",
             "mapLocationType": v.get("mapLocationType") or map_location_type(v),
+            "mapPin": bool(v.get("mapPin")),
         })
         g["offerCount"] += 1
 
@@ -187,10 +188,53 @@ def main():
     catalog.sort(key=lambda x: x["organization"].casefold())
 
     facilities = list(base_facilities)
+    explicit_org_ids = set()
+    explicit = 0
+
+    # Concrete inloop-, huiskamer-, dagontmoeting- en cursuslocaties kunnen
+    # bewust als afzonderlijke pin worden gepubliceerd. Algemeen aanbod blijft
+    # gegroepeerd op organisatieniveau.
+    for g in catalog:
+        for o in g.get("offers", []):
+            if not o.get("mapPin") or not has_location(o):
+                continue
+            service_areas = o.get("municipalities") or ([o.get("municipality")] if o.get("municipality") else [])
+            location_municipality = o.get("locationMunicipality") or ""
+            service_municipality = location_municipality if location_municipality in service_areas else (service_areas[0] if service_areas else location_municipality)
+            facilities.append({
+                "id": "offer-" + (o.get("id") or stable_id(o.get("name") or o.get("title") or "locatie")),
+                "name": o.get("name") or o.get("title") or g["organization"],
+                "category": o.get("category") or (g.get("categories") or ["advies"])[0],
+                "address": o.get("address") or "",
+                "postcode": o.get("postcode") or "",
+                "town": o.get("town") or "",
+                "municipality": service_municipality,
+                "serviceMunicipalities": service_areas,
+                "lat": o.get("lat"),
+                "lon": o.get("lon"),
+                "source": o.get("source") or g.get("primarySource") or "",
+                "checked": o.get("checked") or g.get("checked") or inv.get("checked") or "",
+                "tags": o.get("tags") or o.get("themes") or [o.get("category") or "advies"],
+                "subthemes": o.get("subthemes") or [],
+                "description": o.get("description") or "",
+                "audience": o.get("audience") or "",
+                "costs": o.get("costs") or "",
+                "access": o.get("access") or "",
+                "openingHours": "",
+                "phone": "",
+                "email": "",
+                "locationType": o.get("locationType") or "visiting",
+                "locationSource": o.get("locationSource") or o.get("source") or "",
+                "mapLocationType": o.get("mapLocationType") or map_location_type(o),
+                "catalogOrganizationId": g["id"],
+            })
+            explicit_org_ids.add(g["id"])
+            explicit += 1
+
     synthetic = 0
     for g in catalog:
         loc = g.get("location")
-        if not loc or base_represents(g, base_facilities):
+        if not loc or g["id"] in explicit_org_ids or base_represents(g, base_facilities):
             continue
         first_offer = next((o for o in g["offers"] if has_location(o)), g["offers"][0] if g["offers"] else {})
         location_municipality = loc.get("locationMunicipality") or ""
@@ -234,7 +278,7 @@ def main():
     dump(DATA / "catalog.json", catalog)
     dump(DATA / "review-queue.json", review)
     print(
-        f"{len(facilities)} kaartlocaties ({len(base_facilities)} bestaand + {synthetic} bron/contact) · "
+        f"{len(facilities)} kaartlocaties ({len(base_facilities)} bestaand + {explicit} concrete + {synthetic} bron/contact) · "
         f"{len(catalog)} organisaties · {sum(g['offerCount'] for g in catalog)} aanbodregels · {len(review)} aandachtspunten"
     )
 
