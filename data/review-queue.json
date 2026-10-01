@@ -1,5 +1,41 @@
 [
   {
+    "id": "candidate-114372fd4894ac41",
+    "name": "ANBO-PCOB, afdeling Wierden Enter",
+    "municipality": "Wierden",
+    "source": "https://www.socialekaartwierden.nl/is/organisatie/220591/invis2/anbo-pcob-afdeling-wierden-enter",
+    "sourceTitle": "Sociale kaart Wierden",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-8ea009d7fd763343",
+    "name": "Bibliotheek Holten",
+    "municipality": "Rijssen-Holten",
+    "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/12026930/wijzer/bibliotheek-holten",
+    "sourceTitle": "Sociale kaart Rijssen-Holten",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-627257032ba8ea28",
+    "name": "Bibliotheek Rijssen",
+    "municipality": "Rijssen-Holten",
+    "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/12020502/wijzer/bibliotheek-rijssen",
+    "sourceTitle": "Sociale kaart Rijssen-Holten",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-d6703d09e52f031b",
+    "name": "Buurtbemiddeling Wierden",
+    "municipality": "Wierden",
+    "source": "https://www.socialekaartwierden.nl/is/organisatie/328767/invis2/buurtbemiddeling-wierden",
+    "sourceTitle": "Sociale kaart Wierden",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-09-15"
+  },
+  {
     "id": "candidate-27bbc8c4ad3529e3",
     "name": "Impuls · Opgroeien",
     "municipality": "Oldenzaal",
@@ -15,6 +51,15 @@
     "source": "https://www.leendertvriel.nl/",
     "sourceTitle": "Stichting Leendert Vriel Enschede",
     "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-cdcaa9fabeba931e",
+    "name": "Netwerk HET Twente · herstel en ervaringsdeskundigheid",
+    "municipality": "",
+    "source": "https://www.nhet-twente.nl/",
+    "sourceTitle": "Netwerk HET Twente",
+    "reason": "Adres of kaartcoördinaten ontbreken",
     "checked": "2026-09-15"
   },
   {
@@ -81,6 +126,15 @@
     "checked": "2026-09-15"
   },
   {
+    "id": "candidate-37026a7471bd7de6",
+    "name": "Stichting Buurtgezinnen",
+    "municipality": "Wierden",
+    "source": "https://www.socialekaartwierden.nl/is/organisatie/327167/invis2/stichting-buurtgezinnen",
+    "sourceTitle": "Sociale kaart Wierden",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-09-15"
+  },
+  {
     "id": "candidate-426d177435ba16e1",
     "name": "Stichting Present Enschede · praktische hulp",
     "municipality": "Enschede",
@@ -90,12 +144,30 @@
     "checked": "2026-09-15"
   },
   {
+    "id": "candidate-da1cd52b1fe56139",
+    "name": "Tafeltje dekje",
+    "municipality": "Wierden",
+    "source": "https://www.socialekaartwierden.nl/is/organisatie/220585/invis2/tafeltje-dekje",
+    "sourceTitle": "Sociale kaart Wierden",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-09-15"
+  },
+  {
     "id": "candidate-ca109680a00b0566",
     "name": "ViaVie Welzijn · Opgroeien & ontwikkelen",
     "municipality": "Rijssen-Holten",
     "source": "https://viaviewelzijn.nl/opgroeien-ontwikkelen",
     "sourceTitle": "ViaVie Welzijn",
     "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-d679dfe6e996d5b4",
+    "name": "Volwassenenfonds",
+    "municipality": "Rijssen-Holten",
+    "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/326905/invis2/volwassenenfonds",
+    "sourceTitle": "Sociale kaart Rijssen-Holten",
+    "reason": "Adres of kaartcoördinaten ontbreken",
     "checked": "2026-09-15"
   },
   {
@@ -150,6 +222,15 @@
     "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/ouderenadviseur",
     "sourceTitle": "Wijkracht Hengelo",
     "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-9f164cf6bca041bc",
+    "name": "Zonnebloem Holten",
+    "municipality": "Rijssen-Holten",
+    "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/297269/invis2/zonnebloem-holten",
+    "sourceTitle": "Sociale kaart Rijssen-Holten",
+    "reason": "Adres of kaartcoördinaten ontbreken",
     "checked": "2026-09-15"
   },
   {
