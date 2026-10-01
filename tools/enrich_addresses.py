@@ -256,9 +256,13 @@ def score_address(item: dict, expected_municipalities: list[str], source_url: st
     if mapped:
         score += 8
         if mapped in expected_municipalities:
-            score += 5
+            score += 32
+        else:
+            score += 2
+    elif town:
+        score -= 8
     if any(norm(m) in town or town in norm(m) for m in expected_municipalities if town):
-        score += 4
+        score += 20
     if item.get("kind") == "structured":
         score += 2
     if item.get("page") == source_url:
@@ -267,7 +271,7 @@ def score_address(item: dict, expected_municipalities: list[str], source_url: st
         score += 2
     return score
 
-def contact_pages(source_url: str, links):
+def contact_pages(source_url: str, links, expected_municipalities: list[str]):
     parsed = urlparse(source_url)
     base = f"{parsed.scheme}://{parsed.netloc}/"
     choices = []
@@ -276,7 +280,8 @@ def contact_pages(source_url: str, links):
         p = urlparse(absolute)
         if p.scheme not in {"http", "https"} or p.netloc != parsed.netloc:
             continue
-        if CONTACT_HINT.search(label or "") or CONTACT_HINT.search(p.path):
+        local_hint = any(norm(m) and (norm(m) in norm(label or "") or norm(m) in norm(p.path)) for m in expected_municipalities)
+        if CONTACT_HINT.search(label or "") or CONTACT_HINT.search(p.path) or local_hint:
             choices.append(absolute.split("#")[0])
     for guess in ("contact", "contact/", "over-ons/contact", "over-ons/contact/", "locaties", "locaties/"):
         choices.append(urljoin(base, guess))
@@ -410,10 +415,10 @@ def discover_for_group(group: list[dict]):
             score = score_address(item, expected, source_url)
             if score > best_score:
                 best, best_score = item, score
-        if best_score >= 20:
+        if best_score >= 34:
             break
 
-        for url in contact_pages(source_url, links):
+        for url in contact_pages(source_url, links, expected):
             if url in tried:
                 continue
             tried.add(url)
@@ -427,9 +432,9 @@ def discover_for_group(group: list[dict]):
                 score = score_address(item, expected, source_url)
                 if score > best_score:
                     best, best_score = item, score
-            if best_score >= 20:
+            if best_score >= 34:
                 break
-        if best_score >= 20:
+        if best_score >= 34:
             break
 
     if not best or best_score < 8:
