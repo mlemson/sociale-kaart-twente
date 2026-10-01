@@ -61,7 +61,8 @@
       "lon": 6.63117895,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326808/invis2/t-noaberhoes"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326808/invis2/t-noaberhoes",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326808/invis2/t-noaberhoes"
@@ -614,7 +615,8 @@
       "lon": 6.87642107,
       "locationMunicipality": "Enschede",
       "locationType": "contact",
-      "locationSource": "https://www.alifa.nl/dienst/32/automaatje"
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.alifa.nl/voedselbank-kledingbank-fonds-bijzondere-noden/"
@@ -693,7 +695,8 @@
       "lon": 6.66414391,
       "locationMunicipality": "Almelo",
       "locationType": "visiting",
-      "locationSource": "https://almelodoetmee.nl/"
+      "locationSource": "https://almelodoetmee.nl/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://almelodoetmee.nl/"
@@ -763,7 +766,8 @@
       "lon": 6.66151401,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners"
@@ -830,7 +834,8 @@
       "lon": 6.66163647,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327294/invis2/almelo-voor-elkaar"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327294/invis2/almelo-voor-elkaar",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/327294/invis2/almelo-voor-elkaar"
@@ -905,7 +910,8 @@
       "lon": 6.6791526,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326951/invis2/alzheimer-trefpunt-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326951/invis2/alzheimer-trefpunt-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326951/invis2/alzheimer-trefpunt-almelo"
@@ -972,7 +978,8 @@
       "lon": 4.88761066,
       "locationMunicipality": "Woerden",
       "locationType": "contact",
-      "locationSource": "https://anbo-pcob.nl/contact/"
+      "locationSource": "https://anbo-pcob.nl/contact/",
+      "mapLocationType": "service-area"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220591/invis2/anbo-pcob-afdeling-wierden-enter"
@@ -1159,7 +1166,7 @@
         "locationType": "contact",
         "locationSource": "https://www.avedan.nl/contact/",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-a02ce29328aa5362",
@@ -1197,7 +1204,7 @@
         "locationType": "contact",
         "locationSource": "https://www.avedan.nl/contact/",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-cd6a69e9cd5fe39a",
@@ -1235,7 +1242,7 @@
         "locationType": "contact",
         "locationSource": "https://www.avedan.nl/contact/",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-eb5a6ce2a2d1b599",
@@ -1273,7 +1280,7 @@
         "locationType": "contact",
         "locationSource": "https://www.avedan.nl/contact/",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-7d0da7647e30ffe6",
@@ -1344,7 +1351,7 @@
         "locationType": "contact",
         "locationSource": "https://www.avedan.nl/contact/",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-59be5e1926b52b5b",
@@ -1379,7 +1386,7 @@
         "locationType": "contact",
         "locationSource": "https://www.avedan.nl/contact/",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-3d0d9f041194b70d",
@@ -1414,7 +1421,7 @@
         "locationType": "contact",
         "locationSource": "https://www.avedan.nl/contact/",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-db8261a5f40648ed",
@@ -1449,7 +1456,7 @@
         "locationType": "contact",
         "locationSource": "https://www.avedan.nl/contact/",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-06518104f535c852",
@@ -1530,7 +1537,8 @@
       "lon": 6.64702943,
       "locationMunicipality": "Almelo",
       "locationType": "contact",
-      "locationSource": "https://www.avedan.nl/contact/"
+      "locationSource": "https://www.avedan.nl/contact/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.avedan.nl/gemeentepagina/bram"
@@ -1600,7 +1608,8 @@
       "lon": 6.42264746,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "contact",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/326253/invis2/avedan-maatschappelijk-werk-locatie-holten"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/326253/invis2/avedan-maatschappelijk-werk-locatie-holten",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/326253/invis2/avedan-maatschappelijk-werk-locatie-holten"
@@ -1670,7 +1679,8 @@
       "lon": 6.52266934,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "contact",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/200612/invis2/avedan-maatschappelijk-werk-locatie-rijssen"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/200612/invis2/avedan-maatschappelijk-werk-locatie-rijssen",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/200612/invis2/avedan-maatschappelijk-werk-locatie-rijssen"
@@ -1763,7 +1773,7 @@
         "locationType": "source-address",
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -1774,7 +1784,8 @@
       "lon": 6.64702943,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn"
@@ -1841,7 +1852,8 @@
       "lon": 6.65819525,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/328454/invis2/bewonersinitiatief-de-hagedoorn"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/328454/invis2/bewonersinitiatief-de-hagedoorn",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/328454/invis2/bewonersinitiatief-de-hagedoorn"
@@ -1908,7 +1920,8 @@
       "lon": 6.66163647,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/11881113/wijzer/bibliotheek-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/11881113/wijzer/bibliotheek-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/11881113/wijzer/bibliotheek-almelo"
@@ -1975,7 +1988,8 @@
       "lon": 6.42165509,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "visiting",
-      "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html"
+      "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/12026930/wijzer/bibliotheek-holten"
@@ -2042,7 +2056,8 @@
       "lon": 6.52275933,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "visiting",
-      "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html"
+      "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/12020502/wijzer/bibliotheek-rijssen"
@@ -2109,7 +2124,8 @@
       "lon": 6.64264109,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/4608870656/wijzer/bibliotheekvoorziening-de-driehoek"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/4608870656/wijzer/bibliotheekvoorziening-de-driehoek",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/4608870656/wijzer/bibliotheekvoorziening-de-driehoek"
@@ -2176,7 +2192,8 @@
       "lon": 6.58036385,
       "locationMunicipality": "Wierden",
       "locationType": "contact",
-      "locationSource": "https://www.stichtingdewelle.nl/"
+      "locationSource": "https://www.stichtingdewelle.nl/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/328767/invis2/buurtbemiddeling-wierden"
@@ -2245,7 +2262,8 @@
       "lon": 6.51587591,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197113/invis2/christelijke-mantelzorghulp-rijssen"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197113/invis2/christelijke-mantelzorghulp-rijssen",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197113/invis2/christelijke-mantelzorghulp-rijssen"
@@ -2338,7 +2356,7 @@
         "locationType": "source-address",
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326812/invis2/cosbo",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -2349,7 +2367,8 @@
       "lon": 6.66151401,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326812/invis2/cosbo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326812/invis2/cosbo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326812/invis2/cosbo"
@@ -2416,7 +2435,8 @@
       "lon": 6.57787152,
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/12122481/wijzer/de-bibliotheek-enter"
+      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/12122481/wijzer/de-bibliotheek-enter",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/12122481/wijzer/de-bibliotheek-enter"
@@ -2483,7 +2503,8 @@
       "lon": 6.59291828,
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/12116328/wijzer/de-bibliotheek-wierden"
+      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/12116328/wijzer/de-bibliotheek-wierden",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/12116328/wijzer/de-bibliotheek-wierden"
@@ -2550,7 +2571,8 @@
       "lon": 6.52662296,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197220/invis2/de-fakkel"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197220/invis2/de-fakkel",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197220/invis2/de-fakkel"
@@ -2643,7 +2665,7 @@
         "locationType": "contact",
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -2654,7 +2676,8 @@
       "lon": 6.64594796,
       "locationMunicipality": "Almelo",
       "locationType": "contact",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo"
@@ -2715,7 +2738,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander",
         "locationMunicipality": "Lochem",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-6d667e134ace5017",
@@ -2753,7 +2776,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander",
         "locationMunicipality": "Lochem",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -2764,7 +2787,8 @@
       "lon": 6.34632271,
       "locationMunicipality": "Lochem",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander",
+      "mapLocationType": "service-area"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander"
@@ -2859,7 +2883,7 @@
         "locationType": "contact",
         "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-8803127ea7fa3f73",
@@ -2894,7 +2918,7 @@
         "locationType": "contact",
         "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -2905,7 +2929,8 @@
       "lon": 6.6592867,
       "locationMunicipality": "Almelo",
       "locationType": "contact",
-      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen"
+      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/328387/invis2/de-voorzieningenwijzer"
@@ -3209,7 +3234,8 @@
       "lon": 6.58036385,
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
-      "locationSource": "https://www.stichtingdewelle.nl/buurtwerk"
+      "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.stichtingdewelle.nl/buurtwerk"
@@ -3276,7 +3302,8 @@
       "lon": 6.6592867,
       "locationMunicipality": "Almelo",
       "locationType": "contact",
-      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen"
+      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/328682/invis2/de-zonnebloem-afdeling-almelo"
@@ -3343,7 +3370,8 @@
       "lon": 6.60155532,
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220584/invis2/de-zonnebloem-afd-wierden"
+      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220584/invis2/de-zonnebloem-afd-wierden",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220584/invis2/de-zonnebloem-afd-wierden"
@@ -3410,7 +3438,8 @@
       "lon": 6.59284021,
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220517/invis2/evenmens-wierden"
+      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220517/invis2/evenmens-wierden",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220517/invis2/evenmens-wierden"
@@ -3554,7 +3583,8 @@
       "lon": 7.00588809,
       "locationMunicipality": "Losser",
       "locationType": "contact",
-      "locationSource": "https://www.fundamentlosser.nl/contact/"
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.fundamentlosser.nl/bibliotheek-losser"
@@ -3769,7 +3799,8 @@
       "lon": 7.00588809,
       "locationMunicipality": "Losser",
       "locationType": "contact",
-      "locationSource": "https://www.fundamentlosser.nl/contact/"
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.fundamentlosser.nl/sociaalwerk/"
@@ -3849,7 +3880,8 @@
       "lon": 7.00516737,
       "locationMunicipality": "Dinkelland",
       "locationType": "contact",
-      "locationSource": "https://www.dinkelland.nl/bijdrage-om-mee-te-doen"
+      "locationSource": "https://www.dinkelland.nl/bijdrage-om-mee-te-doen",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.dinkelland.nl/bijdrage-om-mee-te-doen"
@@ -3928,7 +3960,8 @@
       "lon": 6.46165682,
       "locationMunicipality": "Hellendoorn",
       "locationType": "contact",
-      "locationSource": "https://meedoen.hellendoorn.nl/"
+      "locationSource": "https://meedoen.hellendoorn.nl/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://meedoen.hellendoorn.nl/"
@@ -4008,7 +4041,8 @@
       "lon": 7.00588809,
       "locationMunicipality": "Losser",
       "locationType": "visiting",
-      "locationSource": "https://www.losser.nl/contact-en-openingstijden"
+      "locationSource": "https://www.losser.nl/contact-en-openingstijden",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.losser.nl/iedereen-kan-meedoen-extra-geldhulp-voor-volwassenen"
@@ -4087,7 +4121,8 @@
       "lon": 6.93045334,
       "locationMunicipality": "Oldenzaal",
       "locationType": "contact",
-      "locationSource": "https://www.oldenzaal.nl/contact-en-openingstijden"
+      "locationSource": "https://www.oldenzaal.nl/contact-en-openingstijden",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.oldenzaal.nl/bijdragefonds"
@@ -4167,7 +4202,8 @@
       "lon": 6.78068999,
       "locationMunicipality": "Tubbergen",
       "locationType": "contact",
-      "locationSource": "https://www.tubbergen.nl/contact"
+      "locationSource": "https://www.tubbergen.nl/contact",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.tubbergen.nl/bijdrage-om-mee-te-doen"
@@ -4246,7 +4282,8 @@
       "lon": 6.59284021,
       "locationMunicipality": "Wierden",
       "locationType": "contact",
-      "locationSource": "https://www.wierden.nl/volwassenpakket"
+      "locationSource": "https://www.wierden.nl/volwassenpakket",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.wierden.nl/volwassenpakket"
@@ -4313,7 +4350,8 @@
       "lon": 6.59291828,
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/318449/invis2/gemeente-wierden-geldloket"
+      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/318449/invis2/gemeente-wierden-geldloket",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/318449/invis2/gemeente-wierden-geldloket"
@@ -4408,7 +4446,7 @@
         "locationType": "contact",
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-f1dce9c8d1b85661",
@@ -4443,7 +4481,7 @@
         "locationType": "contact",
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -4454,7 +4492,8 @@
       "lon": 6.66114626,
       "locationMunicipality": "Almelo",
       "locationType": "contact",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo"
@@ -4548,7 +4587,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.humanitas.nl/afdeling/twente/",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-20261001-humanitas-getagrip",
@@ -4593,7 +4632,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.humanitas.nl/afdeling/twente/",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-9c2fc61c149feb1d",
@@ -4628,7 +4667,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.humanitas.nl/afdeling/twente/",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-20261001-humanitas-klets",
@@ -4669,7 +4708,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.humanitas.nl/afdeling/twente/",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-57200ab3d718aae1",
@@ -4720,7 +4759,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.humanitas.nl/afdeling/twente/",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-f019e0aacace920d",
@@ -4758,7 +4797,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.humanitas.nl/afdeling/twente/",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -4769,7 +4808,8 @@
       "lon": 6.8047408,
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
-      "locationSource": "https://www.humanitas.nl/afdeling/twente/"
+      "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+      "mapLocationType": "service-area"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/220497/invis2/humanitas-twente"
@@ -5064,7 +5104,8 @@
       "lon": 6.93145973,
       "locationMunicipality": "Oldenzaal",
       "locationType": "contact",
-      "locationSource": "https://www.impuls-oldenzaal.nl/contact/"
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapLocationType": "address"
     },
     "status": "review-needed",
     "primarySource": "https://www.impuls-oldenzaal.nl/wat-we-doen/bewegen"
@@ -5134,7 +5175,8 @@
       "lon": 6.89338546,
       "locationMunicipality": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.enschede.nl/hulp-bij-online-zaken-regelen"
+      "locationSource": "https://www.enschede.nl/hulp-bij-online-zaken-regelen",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.enschede.nl/hulp-bij-online-zaken-regelen"
@@ -5204,7 +5246,8 @@
       "lon": 6.52147357,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197530/invis2/inlooppunt-de-open-deur"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197530/invis2/inlooppunt-de-open-deur",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197530/invis2/inlooppunt-de-open-deur"
@@ -5271,7 +5314,8 @@
       "lon": 6.89435653,
       "locationMunicipality": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/"
+      "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.ixtanoa.nl/locaties/enschede/"
@@ -5349,7 +5393,8 @@
       "lon": 6.59284021,
       "locationMunicipality": "Wierden",
       "locationType": "contact",
-      "locationSource": "https://www.wierden.nl/jeugd-sport-en-cultuurfonds-wierden"
+      "locationSource": "https://www.wierden.nl/jeugd-sport-en-cultuurfonds-wierden",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.wierden.nl/jeugd-sport-en-cultuurfonds-wierden"
@@ -5419,7 +5464,8 @@
       "lon": 6.6592867,
       "locationMunicipality": "Almelo",
       "locationType": "contact",
-      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen"
+      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326777/invis2/jeugdfonds-almelo"
@@ -5497,7 +5543,8 @@
       "lon": 6.8862021,
       "locationMunicipality": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://jeugdfondssportencultuur.nl/fondsen/enschede/"
+      "locationSource": "https://jeugdfondssportencultuur.nl/fondsen/enschede/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://jeugdfondssportencultuur.nl/fondsen/enschede/"
@@ -5577,7 +5624,8 @@
       "lon": 6.75726873,
       "locationMunicipality": "Borne",
       "locationType": "contact",
-      "locationSource": "https://www.borne.nl/jeugdfonds-sport-en-cultuur"
+      "locationSource": "https://www.borne.nl/jeugdfonds-sport-en-cultuur",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://jeugdfondssportencultuur.nl/fondsen/hengelo-borne/"
@@ -5665,7 +5713,8 @@
       "lon": 6.12374678,
       "locationMunicipality": "Zwolle",
       "locationType": "contact",
-      "locationSource": "https://jeugdfondssportencultuur.nl/fondsen/overijssel/"
+      "locationSource": "https://jeugdfondssportencultuur.nl/fondsen/overijssel/",
+      "mapLocationType": "service-area"
     },
     "status": "source-backed",
     "primarySource": "https://jeugdfondssportencultuur.nl/fondsen/overijssel/"
@@ -5732,7 +5781,8 @@
       "lon": 6.57640591,
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/326205/invis2/kbo-enter"
+      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/326205/invis2/kbo-enter",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/326205/invis2/kbo-enter"
@@ -5833,7 +5883,7 @@
         "locationType": "source-address",
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327307/invis2/kledingbank-almelo",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-a422e9eaad60aa45",
@@ -5871,7 +5921,7 @@
         "locationType": "source-address",
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327307/invis2/kledingbank-almelo",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -5882,7 +5932,8 @@
       "lon": 6.66471976,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327307/invis2/kledingbank-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327307/invis2/kledingbank-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/327307/invis2/kledingbank-almelo"
@@ -5954,7 +6005,8 @@
       "lon": 6.8862021,
       "locationMunicipality": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.kledingbankenschede.nl/contactgegevens-en-bereikbaarheid/"
+      "locationSource": "https://www.kledingbankenschede.nl/contactgegevens-en-bereikbaarheid/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.kledingbankenschede.nl/klant-worden/"
@@ -6049,7 +6101,7 @@
         "locationType": "contact",
         "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-a0e3d65f7e472363",
@@ -6084,7 +6136,7 @@
         "locationType": "contact",
         "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
         "locationMunicipality": "Almelo",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -6095,7 +6147,8 @@
       "lon": 6.6592867,
       "locationMunicipality": "Almelo",
       "locationType": "contact",
-      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen"
+      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/200567/invis2/leendert-vriel-almelo"
@@ -6168,7 +6221,8 @@
       "lon": 6.8702088,
       "locationMunicipality": "Enschede",
       "locationType": "contact",
-      "locationSource": "https://leendertvriel.nl/contact-post/enschede-haaksbergen/"
+      "locationSource": "https://leendertvriel.nl/contact-post/enschede-haaksbergen/",
+      "mapLocationType": "address"
     },
     "status": "review-needed",
     "primarySource": "https://www.leendertvriel.nl/"
@@ -6238,7 +6292,8 @@
       "lon": 6.65236287,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt"
@@ -6305,7 +6360,8 @@
       "lon": 6.6592867,
       "locationMunicipality": "Almelo",
       "locationType": "contact",
-      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen"
+      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/328373/invis2/loes"
@@ -6419,7 +6475,8 @@
       "lon": 6.89612155,
       "locationMunicipality": "Enschede",
       "locationType": "contact",
-      "locationSource": "https://www.m-pact.nl/contact"
+      "locationSource": "https://www.m-pact.nl/contact",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.m-pact.nl/"
@@ -6488,7 +6545,8 @@
       "lon": 6.66321118,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326935/invis2/mantelzorg-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326935/invis2/mantelzorg-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326935/invis2/mantelzorg-almelo"
@@ -6573,7 +6631,7 @@
         "locationType": "contact",
         "locationSource": "https://www.meesamen.nl/contact",
         "locationMunicipality": "Zwolle",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -6584,7 +6642,8 @@
       "lon": 6.12502678,
       "locationMunicipality": "Zwolle",
       "locationType": "contact",
-      "locationSource": "https://www.meesamen.nl/contact"
+      "locationSource": "https://www.meesamen.nl/contact",
+      "mapLocationType": "service-area"
     },
     "status": "source-backed",
     "primarySource": "https://www.meesamen.nl/"
@@ -6680,7 +6739,8 @@
       "lon": 6.89435653,
       "locationMunicipality": "Enschede",
       "locationType": "contact",
-      "locationSource": "https://www.nhet-twente.nl/contact/"
+      "locationSource": "https://www.nhet-twente.nl/contact/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.nhet-twente.nl/"
@@ -7327,7 +7387,8 @@
       "lon": 6.74219044,
       "locationMunicipality": "Haaksbergen",
       "locationType": "source-address",
-      "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html"
+      "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html",
+      "mapLocationType": "address"
     },
     "status": "review-needed",
     "primarySource": "https://www.noaberpoort.nl/AutoMaatje"
@@ -7394,7 +7455,8 @@
       "lon": 6.52080139,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/210743/invis2/open-hof-cafe-protestantse-gemeente-te-rijssen-open-hof"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/210743/invis2/open-hof-cafe-protestantse-gemeente-te-rijssen-open-hof",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/210743/invis2/open-hof-cafe-protestantse-gemeente-te-rijssen-open-hof"
@@ -7461,7 +7523,8 @@
       "lon": 6.69663093,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/329017/invis2/ouderenvereniging-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/329017/invis2/ouderenvereniging-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/329017/invis2/ouderenvereniging-almelo"
@@ -7528,7 +7591,8 @@
       "lon": 6.6085268,
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220494/invis2/ouderenvereniging-wierden"
+      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220494/invis2/ouderenvereniging-wierden",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220494/invis2/ouderenvereniging-wierden"
@@ -7595,7 +7659,8 @@
       "lon": 6.52127685,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197050/invis2/pand-11"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197050/invis2/pand-11",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197050/invis2/pand-11"
@@ -7662,7 +7727,8 @@
       "lon": 6.50439819,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/201140/invis2/pcob-rijssen-holten"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/201140/invis2/pcob-rijssen-holten",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/201140/invis2/pcob-rijssen-holten"
@@ -7735,7 +7801,8 @@
       "lon": 6.66823499,
       "locationMunicipality": "Almelo",
       "locationType": "contact",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327924/invis2/realcovery-inloophuis-locatie-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327924/invis2/realcovery-inloophuis-locatie-almelo",
+      "mapLocationType": "address"
     },
     "status": "review-needed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/327924/invis2/realcovery-inloophuis-locatie-almelo"
@@ -8149,7 +8216,8 @@
       "lon": 6.58569353,
       "locationMunicipality": "Hof van Twente",
       "locationType": "source-address",
-      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt"
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address"
     },
     "status": "review-needed",
     "primarySource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt"
@@ -8205,7 +8273,7 @@
         "locationType": "source-address",
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327320/invis2/school-s-cool-twente",
         "locationMunicipality": "Enschede",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -8216,7 +8284,8 @@
       "lon": 6.9003884,
       "locationMunicipality": "Enschede",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327320/invis2/school-s-cool-twente"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327320/invis2/school-s-cool-twente",
+      "mapLocationType": "service-area"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/327320/invis2/school-s-cool-twente"
@@ -8286,7 +8355,8 @@
       "lon": 6.66151401,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327311/invis2/schuldhulpmaatje-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327311/invis2/schuldhulpmaatje-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/327311/invis2/schuldhulpmaatje-almelo"
@@ -8353,7 +8423,8 @@
       "lon": 6.66163647,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326816/invis2/seniorweb-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326816/invis2/seniorweb-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326816/invis2/seniorweb-almelo"
@@ -8435,7 +8506,7 @@
         "locationType": "contact",
         "locationSource": "https://www.slachtofferhulp.nl/over-ons/",
         "locationMunicipality": "Utrecht",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -8446,7 +8517,8 @@
       "lon": 5.09332069,
       "locationMunicipality": "Utrecht",
       "locationType": "contact",
-      "locationSource": "https://www.slachtofferhulp.nl/over-ons/"
+      "locationSource": "https://www.slachtofferhulp.nl/over-ons/",
+      "mapLocationType": "service-area"
     },
     "status": "source-backed",
     "primarySource": "https://www.slachtofferhulp.nl/"
@@ -8527,7 +8599,8 @@
       "lon": 6.75726873,
       "locationMunicipality": "Borne",
       "locationType": "contact",
-      "locationSource": "https://www.borne.nl/sociaal-fonds"
+      "locationSource": "https://www.borne.nl/sociaal-fonds",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.borne.nl/sociaal-fonds"
@@ -9399,7 +9472,8 @@
       "lon": 6.78027092,
       "locationMunicipality": "Tubbergen",
       "locationType": "contact",
-      "locationSource": "https://swtd.nl/contact"
+      "locationSource": "https://swtd.nl/contact",
+      "mapLocationType": "address"
     },
     "status": "review-needed",
     "primarySource": "https://swtd.nl/ons-aanbod/ouder-worden/activiteiten-en-cursussen"
@@ -9466,7 +9540,8 @@
       "lon": 6.66471976,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327314/invis2/speelgoedbank-twente-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327314/invis2/speelgoedbank-twente-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/327314/invis2/speelgoedbank-twente-almelo"
@@ -9533,7 +9608,8 @@
       "lon": 6.50070389,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/221649/invis2/speelotheek-pippeloentje"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/221649/invis2/speelotheek-pippeloentje",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/221649/invis2/speelotheek-pippeloentje"
@@ -9610,7 +9686,8 @@
       "lon": 6.79178677,
       "locationMunicipality": "Hengelo (O)",
       "locationType": "contact",
-      "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Sport-en-Cultuurfonds.html"
+      "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Sport-en-Cultuurfonds.html",
+      "mapLocationType": "service-area"
     },
     "status": "source-backed",
     "primarySource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Sport-en-Cultuurfonds.html"
@@ -9677,7 +9754,8 @@
       "lon": 5.09364022,
       "locationMunicipality": "Nieuwegein",
       "locationType": "contact",
-      "locationSource": "https://www.buurtgezinnen.nl/contact/"
+      "locationSource": "https://www.buurtgezinnen.nl/contact/",
+      "mapLocationType": "service-area"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/327167/invis2/stichting-buurtgezinnen"
@@ -9744,7 +9822,8 @@
       "lon": 6.58036385,
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220582/invis2/stichting-de-welle"
+      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220582/invis2/stichting-de-welle",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220582/invis2/stichting-de-welle"
@@ -9811,7 +9890,8 @@
       "lon": 6.42165509,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "contact",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197275/invis2/stichting-kulturhus-holten-locatie-smidsbelt"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197275/invis2/stichting-kulturhus-holten-locatie-smidsbelt",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197275/invis2/stichting-kulturhus-holten-locatie-smidsbelt"
@@ -9894,7 +9974,8 @@
       "lon": 6.90462528,
       "locationMunicipality": "Dinkelland",
       "locationType": "contact",
-      "locationSource": "https://www.leergelddinkelland.nl/"
+      "locationSource": "https://www.leergelddinkelland.nl/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.leergelddinkelland.nl/"
@@ -10059,7 +10140,8 @@
       "lon": 6.8862021,
       "locationMunicipality": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.leergeldenschede.nl/contact"
+      "locationSource": "https://www.leergeldenschede.nl/contact",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.leergeldenschede.nl/mogelijkheden"
@@ -10139,7 +10221,8 @@
       "lon": 6.93145973,
       "locationMunicipality": "Oldenzaal",
       "locationType": "visiting",
-      "locationSource": "https://www.leergeldoldenzaal.nl/"
+      "locationSource": "https://www.leergeldoldenzaal.nl/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.leergeldoldenzaal.nl/"
@@ -10219,7 +10302,8 @@
       "lon": 6.80791198,
       "locationMunicipality": "Tubbergen",
       "locationType": "contact",
-      "locationSource": "https://www.leergeldtubbergen.nl/"
+      "locationSource": "https://www.leergeldtubbergen.nl/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.leergeldtubbergen.nl/"
@@ -10289,7 +10373,8 @@
       "lon": 6.8919865,
       "locationMunicipality": "Enschede",
       "locationType": "source-address",
-      "locationSource": "https://stichtingpresent.nl/enschede/ik-zoek-hulp-2/"
+      "locationSource": "https://stichtingpresent.nl/enschede/ik-zoek-hulp-2/",
+      "mapLocationType": "address"
     },
     "status": "review-needed",
     "primarySource": "https://stichtingpresent.nl/enschede/ik-zoek-hulp-2/"
@@ -10382,7 +10467,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/220987/invis2/stichting-samenzijn",
         "locationMunicipality": "Rijssen-Holten",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -10393,7 +10478,8 @@
       "lon": 6.52951422,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/220987/invis2/stichting-samenzijn"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/220987/invis2/stichting-samenzijn",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/220987/invis2/stichting-samenzijn"
@@ -10460,7 +10546,8 @@
       "lon": 6.53413675,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197659/invis2/stichting-teripang"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197659/invis2/stichting-teripang",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197659/invis2/stichting-teripang"
@@ -10516,7 +10603,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/10578/invis2/stichting-thuis-sterven-zuidwest-overijssel",
         "locationMunicipality": "Deventer",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -10527,7 +10614,8 @@
       "lon": 6.1532916,
       "locationMunicipality": "Deventer",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/10578/invis2/stichting-thuis-sterven-zuidwest-overijssel"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/10578/invis2/stichting-thuis-sterven-zuidwest-overijssel",
+      "mapLocationType": "service-area"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/10578/invis2/stichting-thuis-sterven-zuidwest-overijssel"
@@ -10594,7 +10682,8 @@
       "lon": 6.66471976,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/328975/invis2/stichting-thuisteam-twente-kleding-speelgoedbank-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/328975/invis2/stichting-thuisteam-twente-kleding-speelgoedbank-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/328975/invis2/stichting-thuisteam-twente-kleding-speelgoedbank-almelo"
@@ -10661,7 +10750,8 @@
       "lon": 6.66322279,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326953/invis2/stichting-vluchtelingenwerk-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326953/invis2/stichting-vluchtelingenwerk-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326953/invis2/stichting-vluchtelingenwerk-almelo"
@@ -10731,7 +10821,8 @@
       "lon": 6.5805698,
       "locationMunicipality": "Wierden",
       "locationType": "service",
-      "locationSource": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/"
+      "locationSource": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220585/invis2/tafeltje-dekje"
@@ -10798,7 +10889,8 @@
       "lon": 6.66199027,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo"
@@ -11208,7 +11300,8 @@
       "lon": 6.50070389,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
-      "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234"
+      "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234",
+      "mapLocationType": "address"
     },
     "status": "review-needed",
     "primarySource": "https://www.viaviewelzijn.nl/buurtbemiddeling"
@@ -11278,7 +11371,8 @@
       "lon": 6.50070389,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197320/invis2/voedsel-kledingbank-rijssen-holten"
+      "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197320/invis2/voedsel-kledingbank-rijssen-holten",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197320/invis2/voedsel-kledingbank-rijssen-holten"
@@ -11349,7 +11443,8 @@
       "lon": 6.6612807,
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326971/invis2/voedselbank-almelo"
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326971/invis2/voedselbank-almelo",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326971/invis2/voedselbank-almelo"
@@ -11420,7 +11515,8 @@
       "lon": 6.8862021,
       "locationMunicipality": "Enschede",
       "locationType": "source-address",
-      "locationSource": "https://voedselbankenschedehaaksbergen.nl/"
+      "locationSource": "https://voedselbankenschedehaaksbergen.nl/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://voedselbankenschedehaaksbergen.nl/"
@@ -11487,7 +11583,8 @@
       "lon": 6.52203914,
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "contact",
-      "locationSource": "https://www.rijssen-holten.nl/contact/"
+      "locationSource": "https://www.rijssen-holten.nl/contact/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/326905/invis2/volwassenenfonds"
@@ -11607,7 +11704,8 @@
       "lon": 6.74219044,
       "locationMunicipality": "Haaksbergen",
       "locationType": "contact",
-      "locationSource": "https://www.haaksbergen.nl/Actueel/contact.html"
+      "locationSource": "https://www.haaksbergen.nl/Actueel/contact.html",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.volwassenenfonds.nl/overijssel/"
@@ -11683,7 +11781,8 @@
       "lon": 6.58497345,
       "locationMunicipality": "Hof van Twente",
       "locationType": "contact",
-      "locationSource": "https://www.hofvantwente.nl/contact/"
+      "locationSource": "https://www.hofvantwente.nl/contact/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/volwassenenfonds-voor-sport-en-cultuur/"
@@ -11750,7 +11849,8 @@
       "lon": 6.59243415,
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
-      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/224536/invis2/wierden-met-mekaar"
+      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/224536/invis2/wierden-met-mekaar",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/224536/invis2/wierden-met-mekaar"
@@ -11828,7 +11928,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-e4a0af938ed5bb3b",
@@ -11866,7 +11966,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-3bf89bc92e8be805",
@@ -11905,7 +12005,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-ccffe23858300861",
@@ -11940,7 +12040,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-8a9d6af60a7b60dc",
@@ -11978,7 +12078,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-415e10a55b9a74eb",
@@ -12015,7 +12115,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-bc7bae539e35d76b",
@@ -12052,7 +12152,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-339491fe9dc52f8c",
@@ -12087,7 +12187,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-4bf10ae8379b46fc",
@@ -12125,7 +12225,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-692be3189e757958",
@@ -12162,7 +12262,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-3c4b090b9414c602",
@@ -12197,7 +12297,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-a2a0ccdf9858341a",
@@ -12234,7 +12334,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-949a61a6c9069512",
@@ -12269,7 +12369,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-8055b343cd2fe4ed",
@@ -12307,7 +12407,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-fa641bf0cfce4573",
@@ -12345,7 +12445,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkrachtborne.nl/jmz",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -12356,7 +12456,8 @@
       "lon": 6.77660084,
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
-      "locationSource": "https://www.wijkrachtborne.nl/jmz"
+      "locationSource": "https://www.wijkrachtborne.nl/jmz",
+      "mapLocationType": "service-area"
     },
     "status": "review-needed",
     "primarySource": "https://www.wijkrachtborne.nl/ouderen/activiteiten-en-ontmoeting"
@@ -12446,7 +12547,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-a448c052b9da414b",
@@ -12484,7 +12585,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-2a2660933e79681f",
@@ -12521,7 +12622,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-2a66e59763d5060f",
@@ -12559,7 +12660,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-4973b4f0a372885d",
@@ -12598,7 +12699,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-2fa843b02871fa7d",
@@ -12633,7 +12734,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-38a10450e5d67078",
@@ -12668,7 +12769,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-07344c99a3b6ad85",
@@ -12703,7 +12804,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-d31ebabf6c577682",
@@ -12738,7 +12839,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-f5f6648c82aa7822",
@@ -12776,7 +12877,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-136c7fa00e76817f",
@@ -12813,7 +12914,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-8485b1bdaa7cd9e9",
@@ -12848,7 +12949,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-ccc785a0d99ab86d",
@@ -12886,7 +12987,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-8d36b539297f4b20",
@@ -12923,7 +13024,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-09cde8ea27ce396b",
@@ -12960,7 +13061,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-4aa202cdd93b5686",
@@ -12995,7 +13096,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-79567f715897c3eb",
@@ -13032,7 +13133,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-8a9a61433175ee0b",
@@ -13067,7 +13168,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-be27a84dd9088896",
@@ -13102,7 +13203,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-fb3ed916aef493d9",
@@ -13139,7 +13240,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-a3cdf0540f53ca79",
@@ -13174,7 +13275,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-08c344c6564d52c8",
@@ -13211,7 +13312,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-391ef11596aef442",
@@ -13249,7 +13350,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-8b3e97fbf48c4a5b",
@@ -13284,7 +13385,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       },
       {
         "id": "candidate-e8c27d7d091c5ec6",
@@ -13319,7 +13420,7 @@
         "locationType": "source-address",
         "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
         "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "address"
+        "mapLocationType": "service-area"
       }
     ],
     "location": {
@@ -13330,7 +13431,8 @@
       "lon": 6.77660084,
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
-      "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo"
+      "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
+      "mapLocationType": "service-area"
     },
     "status": "review-needed",
     "primarySource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/aanstaande-ouders-kansrijke-kaart"
@@ -13436,7 +13538,8 @@
       "lon": 6.90400645,
       "locationMunicipality": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden"
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://wijkwijzerenschede.nl/"
@@ -13503,7 +13606,8 @@
       "lon": 4.81272958,
       "locationMunicipality": "Breda",
       "locationType": "contact",
-      "locationSource": "https://www.zonnebloem.nl/over-de-zonnebloem/contact"
+      "locationSource": "https://www.zonnebloem.nl/over-de-zonnebloem/contact",
+      "mapLocationType": "service-area"
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/297269/invis2/zonnebloem-holten"
@@ -14295,7 +14399,8 @@
       "lon": 6.56844898,
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
-      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen"
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address"
     },
     "status": "review-needed",
     "primarySource": "https://www.zorgsaamtwenterand.nl/kansrijk-opgroeien/activiteiten-bijeenkomsten-kansrijk-opgroeien"
