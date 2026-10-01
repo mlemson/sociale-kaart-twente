@@ -3118,7 +3118,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.22306902,
+      "lon": 6.90400645,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3159,11 +3164,16 @@
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
       "address": "Hertmebrink 1",
-      "postcode": "",
+      "postcode": "7544DC",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.19270077,
+      "lon": 6.8756301,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3204,11 +3214,16 @@
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
       "address": "Het Stroink 64",
-      "postcode": "",
+      "postcode": "7542GT",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.18841466,
+      "lon": 6.90096801,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3249,11 +3264,16 @@
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
       "address": "Zevensterstraat 3",
-      "postcode": "",
+      "postcode": "7521GN",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.23090016,
+      "lon": 6.86113824,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3294,11 +3314,16 @@
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
       "address": "Lijsterstraat 11",
-      "postcode": "",
+      "postcode": "7523ER",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.23839329,
+      "lon": 6.88498393,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3339,11 +3364,16 @@
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
       "address": "Velveweg 54",
-      "postcode": "",
+      "postcode": "7533XK",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.2203326,
+      "lon": 6.91847412,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3384,11 +3414,16 @@
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
       "address": "Minkmaatstraat 173",
-      "postcode": "",
+      "postcode": "7531AX",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.23068894,
+      "lon": 6.90914497,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3429,11 +3464,16 @@
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
       "address": "Schipholtstraat 48B",
-      "postcode": "",
-      "town": "Glanerbrug",
+      "postcode": "7534CZ",
+      "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.21370556,
+      "lon": 6.97164919,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3474,11 +3514,16 @@
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
       "address": "Olympialaan 20",
-      "postcode": "",
+      "postcode": "7541BK",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.20672753,
+      "lon": 6.90826728,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3518,12 +3563,17 @@
       "audience": "Inwoners van Enschede.",
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
-      "address": "Doctor Wagenaarstraat 6",
-      "postcode": "",
+      "address": "Dr. Wagenaarstraat 6",
+      "postcode": "7541XK",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.20997965,
+      "lon": 6.89902378,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3564,11 +3614,16 @@
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
       "address": "Spinnerstraat 27A",
-      "postcode": "",
+      "postcode": "7545TP",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.2115792,
+      "lon": 6.87571778,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3609,11 +3664,16 @@
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
       "address": "Noordhollandstraat 4",
-      "postcode": "",
+      "postcode": "7543WB",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3654,11 +3714,16 @@
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis.",
       "address": "Beneluxlaan 50",
-      "postcode": "",
+      "postcode": "7543XT",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.20398081,
+      "lon": 6.8768224,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3696,11 +3761,16 @@
       "access": "Vrije inloop of deelname volgens het actuele programma.",
       "costs": "Gratis.",
       "address": "Noordhollandstraat 4",
-      "postcode": "",
+      "postcode": "7543WB",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3738,11 +3808,16 @@
       "access": "Vrije inloop of deelname volgens het actuele programma.",
       "costs": "Gratis.",
       "address": "Noordhollandstraat 4",
-      "postcode": "",
+      "postcode": "7543WB",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3780,11 +3855,16 @@
       "access": "Vrije inloop of deelname volgens het actuele programma.",
       "costs": "Gratis.",
       "address": "Noordhollandstraat 4",
-      "postcode": "",
+      "postcode": "7543WB",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3822,11 +3902,16 @@
       "access": "Vrije inloop of deelname volgens het actuele programma.",
       "costs": "Gratis.",
       "address": "Noordhollandstraat 4",
-      "postcode": "",
+      "postcode": "7543WB",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3864,11 +3949,16 @@
       "access": "Vrije inloop of deelname volgens het actuele programma.",
       "costs": "Gratis.",
       "address": "Noordhollandstraat 4",
-      "postcode": "",
+      "postcode": "7543WB",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3906,11 +3996,16 @@
       "access": "Aanmelden via Wijkteams Enschede.",
       "costs": "Controleer de actuele voorwaarden.",
       "address": "Noordhollandstraat 4",
-      "postcode": "",
+      "postcode": "7543WB",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3946,11 +4041,16 @@
       "access": "Reserveren via Resto VanHarte.",
       "costs": "€8 voor een driegangendiner volgens de actuele bron.",
       "address": "Hertmebrink 1",
-      "postcode": "",
+      "postcode": "7544DC",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.restovanharte.nl/locaties/enschede",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.19270077,
+      "lon": 6.8756301,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -3986,11 +4086,16 @@
       "access": "Reserveren via Resto VanHarte.",
       "costs": "€8 voor een driegangendiner volgens de actuele bron.",
       "address": "Schorpioenstraat 33",
-      "postcode": "",
+      "postcode": "7521HN",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.restovanharte.nl/locaties/enschede",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.22836417,
+      "lon": 6.85720441,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4025,12 +4130,17 @@
       "audience": "Iedereen.",
       "access": "Vrije inloop op de actuele openingstijden.",
       "costs": "Gratis inloop.",
-      "address": "Langestraat 51",
+      "address": "Langestraat 51A",
       "postcode": "7511HB",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.22003597,
+      "lon": 6.89556262,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4064,7 +4174,17 @@
       "description": "Terugkerende taalactiviteit om lezen en schrijven te oefenen.",
       "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda van Alifa.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4098,7 +4218,17 @@
       "description": "Terugkerende groep om Nederlands spreken te oefenen.",
       "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda van Alifa.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4132,7 +4262,17 @@
       "description": "Groep voor vrouwen gericht op steun, ontmoeting en empowerment.",
       "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda van Alifa.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4166,7 +4306,17 @@
       "description": "Jongerenhuiskamer voor ontmoeting en laagdrempelig contact.",
       "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda van Alifa.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4200,7 +4350,17 @@
       "description": "Jongerenhuiskamer voor ontmoeting en laagdrempelig contact.",
       "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda van Alifa.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4234,7 +4394,17 @@
       "description": "Jongerenhuiskamer voor ontmoeting en laagdrempelig contact.",
       "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda van Alifa.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4268,7 +4438,17 @@
       "description": "Terugkerende sportinloop voor jongeren.",
       "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda van Alifa.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4302,7 +4482,17 @@
       "description": "Terugkerende jongereninloop in stadsdeel West.",
       "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda van Alifa.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4336,7 +4526,17 @@
       "description": "Terugkerende jongereninloop in stadsdeel Oost.",
       "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda van Alifa.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4370,7 +4570,17 @@
       "description": "Terugkerende jongereninloop voor 12-20 jaar in Zuid.",
       "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda van Alifa.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4406,12 +4616,17 @@
       "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
       "access": "Vrije inloop op de actuele tijden.",
       "costs": "Gratis.",
-      "address": "Blankenburgerstraat 40-42",
+      "address": "Blankenburgerstraat 42",
       "postcode": "7481EB",
       "town": "Haaksbergen",
       "locationType": "visiting",
       "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4447,12 +4662,17 @@
       "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
       "access": "Vrije inloop op de actuele tijden.",
       "costs": "Gratis.",
-      "address": "Blankenburgerstraat 40-42",
+      "address": "Blankenburgerstraat 42",
       "postcode": "7481EB",
       "town": "Haaksbergen",
       "locationType": "visiting",
       "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4488,12 +4708,17 @@
       "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
       "access": "Vrije inloop op de actuele tijden.",
       "costs": "Gratis.",
-      "address": "Blankenburgerstraat 40-42",
+      "address": "Blankenburgerstraat 42",
       "postcode": "7481EB",
       "town": "Haaksbergen",
       "locationType": "visiting",
       "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4529,12 +4754,17 @@
       "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
       "access": "Vrij toegankelijk; geen indicatie of diagnose nodig.",
       "costs": "Kleine bijdrage per bezoek volgens de actuele bron.",
-      "address": "Blankenburgerstraat 40-42",
+      "address": "Blankenburgerstraat 42",
       "postcode": "7481EB",
       "town": "Haaksbergen",
       "locationType": "visiting",
       "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4570,12 +4800,17 @@
       "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
       "access": "Vrije inloop op de actuele tijden.",
       "costs": "Gratis.",
-      "address": "Blankenburgerstraat 40-42",
+      "address": "Blankenburgerstraat 42",
       "postcode": "7481EB",
       "town": "Haaksbergen",
       "locationType": "visiting",
       "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4612,11 +4847,16 @@
       "access": "Vrij aansluiten binnen de actuele capaciteit.",
       "costs": "Gratis.",
       "address": "Velveweg 54",
-      "postcode": "",
+      "postcode": "7533XK",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.2203326,
+      "lon": 6.91847412,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4653,11 +4893,16 @@
       "access": "Vrij aansluiten binnen de actuele capaciteit.",
       "costs": "Gratis.",
       "address": "Olympialaan 20",
-      "postcode": "",
+      "postcode": "7541BK",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.20672753,
+      "lon": 6.90826728,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4694,11 +4939,16 @@
       "access": "Vrij aansluiten binnen de actuele capaciteit.",
       "costs": "Gratis.",
       "address": "Javastraat 92",
-      "postcode": "",
+      "postcode": "7512ZK",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.21298813,
+      "lon": 6.90317994,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     }
   ],
   "addressEnrichmentVersion": 1,

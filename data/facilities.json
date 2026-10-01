@@ -2416,6 +2416,120 @@
     "catalogOrganizationId": "org-bibliotheek-enschede-haaksbergen-10lzo9a"
   },
   {
+    "id": "offer-extra-20261002-chessclub-lumen",
+    "name": "Chess Club Enschede Inclusief · Lumen",
+    "category": "ontmoeten",
+    "address": "Velveweg 54",
+    "postcode": "7533XK",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.2203326,
+    "lon": 6.91847412,
+    "source": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "schaken",
+      "inloop",
+      "gratis",
+      "inclusief"
+    ],
+    "subthemes": [
+      "schaken",
+      "inloop"
+    ],
+    "description": "Gratis inclusieve schaakinloop. Donderdagavond.",
+    "audience": "Iedereen die samen wil schaken; locaties werken samen met sociale en welzijnspartners.",
+    "costs": "Gratis.",
+    "access": "Vrij aansluiten binnen de actuele capaciteit.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-chess-club-enschede-inclusief-l1e8j6"
+  },
+  {
+    "id": "offer-extra-20261002-chessclub-tubanters-olympialaan",
+    "name": "Chess Club Enschede Inclusief · Tubanters / Olympialaan",
+    "category": "ontmoeten",
+    "address": "Olympialaan 20",
+    "postcode": "7541BK",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.20672753,
+    "lon": 6.90826728,
+    "source": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "schaken",
+      "inloop",
+      "gratis",
+      "inclusief"
+    ],
+    "subthemes": [
+      "schaken",
+      "inloop"
+    ],
+    "description": "Gratis inclusieve schaakinloop. Dinsdagmiddag.",
+    "audience": "Iedereen die samen wil schaken; locaties werken samen met sociale en welzijnspartners.",
+    "costs": "Gratis.",
+    "access": "Vrij aansluiten binnen de actuele capaciteit.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-chess-club-enschede-inclusief-l1e8j6"
+  },
+  {
+    "id": "offer-extra-20261002-chessclub-wopit-javastraat",
+    "name": "Chess Club Enschede Inclusief · Wopit Javastraat",
+    "category": "ontmoeten",
+    "address": "Javastraat 92",
+    "postcode": "7512ZK",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.21298813,
+    "lon": 6.90317994,
+    "source": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "schaken",
+      "inloop",
+      "gratis",
+      "inclusief"
+    ],
+    "subthemes": [
+      "schaken",
+      "inloop"
+    ],
+    "description": "Gratis inclusieve schaakinloop. Donderdagmiddag.",
+    "audience": "Iedereen die samen wil schaken; locaties werken samen met sociale en welzijnspartners.",
+    "costs": "Gratis.",
+    "access": "Vrij aansluiten binnen de actuele capaciteit.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-chess-club-enschede-inclusief-l1e8j6"
+  },
+  {
     "id": "offer-candidate-20261002-kruispunt-delden",
     "name": "Dagontmoeting 't Kruispunt · Delden",
     "category": "ontmoeten",
@@ -2697,6 +2811,45 @@
     "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-de-welle-10mgx5x"
+  },
+  {
+    "id": "offer-extra-20261002-familiehuis-familiehuis-enschede-west",
+    "name": "Familiehuis Enschede-West · Familiehuis Enschede-West",
+    "category": "jeugd",
+    "address": "Noordhollandstraat 4",
+    "postcode": "7543WB",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.20502893,
+    "lon": 6.88230934,
+    "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+    "checked": "2026-10-02",
+    "tags": [
+      "jeugd",
+      "ouders",
+      "kinderen",
+      "gratis",
+      "training",
+      "inloop"
+    ],
+    "subthemes": [
+      "ouders",
+      "jonge kinderen"
+    ],
+    "description": "Gratis inloopplek voor ouders met jonge kinderen, met ontmoeting, advies en wekelijkse activiteiten.",
+    "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop of deelname volgens het actuele programma.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-familiehuis-enschede-west-putmfo"
   },
   {
     "id": "offer-extra-20261002-fundament-actieve-ontmoeting-losser",
@@ -3483,6 +3636,119 @@
     "catalogOrganizationId": "org-m-pact-5ivo6b"
   },
   {
+    "id": "offer-extra-20261002-haaksbergen-odensehuis-haaksbergen",
+    "name": "Noaberpoort / Wijkracht · Odensehuis Haaksbergen",
+    "category": "mantelzorg",
+    "address": "Blankenburgerstraat 42",
+    "postcode": "7481EB",
+    "town": "Haaksbergen",
+    "municipality": "Haaksbergen",
+    "serviceMunicipalities": [
+      "Haaksbergen"
+    ],
+    "lat": 52.15512071,
+    "lon": 6.74505822,
+    "source": "https://www.noaberpoort.nl/%2891362%29-Noaberpoort/Welzijn-ampamp-Zorg/Odensehuis.html",
+    "checked": "2026-10-02",
+    "tags": [
+      "mantelzorg",
+      "inloop",
+      "gratis",
+      "taal",
+      "digitaal",
+      "dementie"
+    ],
+    "subthemes": [
+      "inloop"
+    ],
+    "description": "Ontmoetingsplek voor mensen met beginnende dementie of geheugenklachten en hun naasten; indicatie of diagnose is niet nodig.",
+    "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
+    "costs": "Kleine bijdrage per bezoek volgens de actuele bron.",
+    "access": "Vrij toegankelijk; geen indicatie of diagnose nodig.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-noaberpoort-wijkracht-1oahih4"
+  },
+  {
+    "id": "offer-extra-20261002-haaksbergen-ziens-haaksbergen",
+    "name": "Noaberpoort / Wijkracht · ZIENS Haaksbergen",
+    "category": "mentaal",
+    "address": "Blankenburgerstraat 42",
+    "postcode": "7481EB",
+    "town": "Haaksbergen",
+    "municipality": "Haaksbergen",
+    "serviceMunicipalities": [
+      "Haaksbergen"
+    ],
+    "lat": 52.15512071,
+    "lon": 6.74505822,
+    "source": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+    "checked": "2026-10-02",
+    "tags": [
+      "mentaal",
+      "inloop",
+      "gratis",
+      "taal",
+      "digitaal",
+      "dementie"
+    ],
+    "subthemes": [
+      "inloop"
+    ],
+    "description": "Vrije inloop met gezellige, leerzame, creatieve en ontspannende activiteiten.",
+    "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele tijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-noaberpoort-wijkracht-1oahih4"
+  },
+  {
+    "id": "offer-extra-20261002-citypastoraat",
+    "name": "Oecumenisch Citypastoraat Enschede · inloophuis",
+    "category": "ontmoeten",
+    "address": "Langestraat 51A",
+    "postcode": "7511HB",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22003597,
+    "lon": 6.89556262,
+    "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "inloophuis",
+      "luisterend oor",
+      "eenzaamheid"
+    ],
+    "subthemes": [
+      "inloop",
+      "gesprek"
+    ],
+    "description": "Gastvrij inloophuis in het centrum waar iedereen welkom is voor een gesprek, ontmoeting of een luisterend oor.",
+    "audience": "Iedereen.",
+    "costs": "Gratis inloop.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-oecumenisch-citypastoraat-enschede-1ctcbnl"
+  },
+  {
     "id": "offer-candidate-20261002-power-centrum-oost",
     "name": "Power Enschede · Centrum-Oost",
     "category": "ontmoeten",
@@ -3641,6 +3907,80 @@
     "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-power-enschede-1tp85zf"
+  },
+  {
+    "id": "offer-extra-20261002-resto-vanharte-de-magneet",
+    "name": "Resto VanHarte Enschede · De Magneet",
+    "category": "ontmoeten",
+    "address": "Hertmebrink 1",
+    "postcode": "7544DC",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.19270077,
+    "lon": 6.8756301,
+    "source": "https://www.restovanharte.nl/locaties/enschede",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "maaltijd",
+      "samen eten",
+      "eenzaamheid"
+    ],
+    "subthemes": [
+      "samen eten",
+      "eenzaamheid"
+    ],
+    "description": "Wekelijks buurtdiner om buurtgenoten te ontmoeten. Iedere donderdag.",
+    "audience": "Iedereen is welkom.",
+    "costs": "€8 voor een driegangendiner volgens de actuele bron.",
+    "access": "Reserveren via Resto VanHarte.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.restovanharte.nl/locaties/enschede",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-resto-vanharte-enschede-161a1mg"
+  },
+  {
+    "id": "offer-extra-20261002-resto-vanharte-twekkelerveld",
+    "name": "Resto VanHarte Enschede · Twekkelerveld",
+    "category": "ontmoeten",
+    "address": "Schorpioenstraat 33",
+    "postcode": "7521HN",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22836417,
+    "lon": 6.85720441,
+    "source": "https://www.restovanharte.nl/locaties/enschede",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "maaltijd",
+      "samen eten",
+      "eenzaamheid"
+    ],
+    "subthemes": [
+      "samen eten",
+      "eenzaamheid"
+    ],
+    "description": "Wekelijks buurtdiner om buurtgenoten te ontmoeten. Iedere dinsdag.",
+    "audience": "Iedereen is welkom.",
+    "costs": "€8 voor een driegangendiner volgens de actuele bron.",
+    "access": "Reserveren via Resto VanHarte.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.restovanharte.nl/locaties/enschede",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-resto-vanharte-enschede-161a1mg"
   },
   {
     "id": "offer-extra-20261002-salut-alzheimer-cafe",
@@ -4325,6 +4665,552 @@
     "catalogOrganizationId": "org-wijkracht-hengelo-19691n6"
   },
   {
+    "id": "offer-extra-20261002-wijkwijzer--t-proathuus",
+    "name": "Wijkwijzer Enschede · 't Proathuus",
+    "category": "advies",
+    "address": "Zevensterstraat 3",
+    "postcode": "7521GN",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.23090016,
+    "lon": 6.86113824,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-boswinkel-t-ni-je-terphoes",
+    "name": "Wijkwijzer Enschede · Boswinkel - 't Ni-je Terphoes",
+    "category": "advies",
+    "address": "Noordhollandstraat 4",
+    "postcode": "7543WB",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.20502893,
+    "lon": 6.88230934,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-boswinkel-speeltuin-boswinkel",
+    "name": "Wijkwijzer Enschede · Boswinkel - Speeltuin Boswinkel",
+    "category": "advies",
+    "address": "Beneluxlaan 50",
+    "postcode": "7543XT",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.20398081,
+    "lon": 6.8768224,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-centrum",
+    "name": "Wijkwijzer Enschede · Centrum",
+    "category": "advies",
+    "address": "Hoge Bothofstraat 49",
+    "postcode": "7511ZA",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22306902,
+    "lon": 6.90400645,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-de-boei",
+    "name": "Wijkwijzer Enschede · De Boei",
+    "category": "advies",
+    "address": "Spinnerstraat 27A",
+    "postcode": "7545TP",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.2115792,
+    "lon": 6.87571778,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-de-dorpskamer",
+    "name": "Wijkwijzer Enschede · De Dorpskamer",
+    "category": "advies",
+    "address": "Schipholtstraat 48B",
+    "postcode": "7534CZ",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.21370556,
+    "lon": 6.97164919,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-de-magneet",
+    "name": "Wijkwijzer Enschede · De Magneet",
+    "category": "advies",
+    "address": "Hertmebrink 1",
+    "postcode": "7544DC",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.19270077,
+    "lon": 6.8756301,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-de-vrije-ruimte",
+    "name": "Wijkwijzer Enschede · De Vrije Ruimte",
+    "category": "advies",
+    "address": "Olympialaan 20",
+    "postcode": "7541BK",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.20672753,
+    "lon": 6.90826728,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-het-kompas",
+    "name": "Wijkwijzer Enschede · Het Kompas",
+    "category": "advies",
+    "address": "Lijsterstraat 11",
+    "postcode": "7523ER",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.23839329,
+    "lon": 6.88498393,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-lumen",
+    "name": "Wijkwijzer Enschede · Lumen",
+    "category": "advies",
+    "address": "Velveweg 54",
+    "postcode": "7533XK",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.2203326,
+    "lon": 6.91847412,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-ontmoetingskerk",
+    "name": "Wijkwijzer Enschede · Ontmoetingskerk",
+    "category": "advies",
+    "address": "Dr. Wagenaarstraat 6",
+    "postcode": "7541XK",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.20997965,
+    "lon": 6.89902378,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-stroinkshuis",
+    "name": "Wijkwijzer Enschede · Stroinkshuis",
+    "category": "advies",
+    "address": "Het Stroink 64",
+    "postcode": "7542GT",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.18841466,
+    "lon": 6.90096801,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkwijzer-vosta",
+    "name": "Wijkwijzer Enschede · Vosta",
+    "category": "advies",
+    "address": "Minkmaatstraat 173",
+    "postcode": "7531AX",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.23068894,
+    "lon": 6.90914497,
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "checked": "2026-10-02",
+    "tags": [
+      "advies",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
+    ],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
     "id": "offer-extra-20261002-zorgsaam-buurthuiskamer-vriezenveen",
     "name": "ZorgSaam Twenterand · Buurthuiskamer Vriezenveen",
     "category": "ontmoeten",
@@ -4850,7 +5736,7 @@
       "mantelzorg"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Alifa. Via de bron zijn 13 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor Alifa. Via de bron zijn 23 vormen van voorliggend aanbod opgenomen.",
     "audience": "Mensen met geldzorgen of een laag inkomen",
     "costs": "",
     "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -7844,38 +8730,6 @@
     "locationSource": "https://www.wijkrachtborne.nl/jmz",
     "mapLocationType": "service-area",
     "catalogOrganizationId": "org-wijkracht-borne-1vcxyoy"
-  },
-  {
-    "id": "catalog-org-wijkwijzer-enschede-jrixo6",
-    "name": "Wijkwijzer Enschede",
-    "category": "advies",
-    "address": "Hoge Bothofstraat 49",
-    "postcode": "7511ZA",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.22306902,
-    "lon": 6.90400645,
-    "source": "https://wijkwijzerenschede.nl/",
-    "checked": "2026-09-15",
-    "tags": [
-      "advies",
-      "mantelzorg"
-    ],
-    "subthemes": [],
-    "description": "Locatie voor Wijkwijzer Enschede. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
-    "audience": "",
-    "costs": "",
-    "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
   },
   {
     "id": "catalog-org-zonnebloem-holten-1a5c3u0",
