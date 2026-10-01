@@ -2488,7 +2488,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://anbo-pcob.nl/contact/",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-anbo-pcob-afdeling-wierden-enter-wg2cg8"
   },
   {
@@ -3025,7 +3025,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-de-kringen-wees-jezelf-ontmoet-een-ander-ckewws"
   },
   {
@@ -3461,7 +3461,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.humanitas.nl/afdeling/twente/",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-humanitas-twente-1slc1kw"
   },
   {
@@ -3692,7 +3692,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://jeugdfondssportencultuur.nl/fondsen/overijssel/",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-jeugdfonds-sport-cultuur-overijssel-1khn7x4"
   },
   {
@@ -3989,7 +3989,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.meesamen.nl/contact",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-mee-samen-1jhku1y"
   },
   {
@@ -4251,7 +4251,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327320/invis2/school-s-cool-twente",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-school-s-cool-twente-13bs97d"
   },
   {
@@ -4357,7 +4357,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.slachtofferhulp.nl/over-ons/",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-slachtofferhulp-nederland-19vn0ru"
   },
   {
@@ -4523,7 +4523,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Sport-en-Cultuurfonds.html",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-sport-en-cultuurfonds-hengelo-95517h"
   },
   {
@@ -4554,7 +4554,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.buurtgezinnen.nl/contact/",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-stichting-buurtgezinnen-ar0jeq"
   },
   {
@@ -4875,7 +4875,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/10578/invis2/stichting-thuis-sterven-zuidwest-overijssel",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-stichting-thuis-sterven-zuidwest-overijssel-11f2o37"
   },
   {
@@ -5255,7 +5255,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.wijkrachtborne.nl/jmz",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-wijkracht-borne-1vcxyoy"
   },
   {
@@ -5318,7 +5318,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.zonnebloem.nl/over-de-zonnebloem/contact",
-    "mapLocationType": "address",
+    "mapLocationType": "service-area",
     "catalogOrganizationId": "org-zonnebloem-holten-1a5c3u0"
   }
 ]
