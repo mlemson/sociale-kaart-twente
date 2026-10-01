@@ -2,7 +2,7 @@ name: Eenmalig project uitpakken
 
 on:
   push:
-    branches: [main]
+    branches: [main, simplify-content-workflow]
     paths:
       - 'site-core.ready'
 
