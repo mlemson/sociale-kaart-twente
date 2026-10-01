@@ -1,60 +1,82 @@
 # Sociale kaart Twente — GitHub Pages
 
-Deze repository bevat de publieke Sociale kaart Twente en een lokale beheeromgeving. De publieke site is statisch en geschikt voor GitHub Pages.
+Deze repository bevat de publieke Sociale kaart Twente. De openbare site is statisch en geschikt voor GitHub Pages.
 
-## Huidige opzet
+## Opzet
 
-De kaart maakt bewust onderscheid tussen **kaartlocaties** en **aanbod uit bronnen**:
+De kaart maakt onderscheid tussen **aanbod**, **organisaties** en **kaartpunten**:
 
-- `data/facilities.json`: concrete locaties met adres en coördinaten voor de kaart;
-- `data/catalog.json`: organisaties met hun onderliggende activiteiten en vormen van ondersteuning;
-- `inventory.json`: broninventarisatie waaruit de catalogus wordt opgebouwd;
-- `data/review-queue.json`: alleen de uitzonderingen die echt menselijke aandacht nodig hebben.
+- `inventory.json` bevat de broninventarisatie met afzonderlijke vormen van voorliggend aanbod;
+- `data/catalog.json` groepeert dat aanbod per organisatie;
+- `data/facilities.json` bevat de kaartbare bezoek-, contact- en vestigingslocaties;
+- `data/review-queue.json` bevat alleen uitzonderingen die menselijke aandacht nodig hebben.
 
-Op dit moment worden 247 bronvermeldingen gegroepeerd tot ongeveer 85 organisaties. De automatische basiscontrole markeert 228 vermeldingen als brononderbouwd en 19 als aandachtspunt. Deze aantallen veranderen mee met de inventarisatie.
+Een organisatie hoeft daardoor niet voor iedere activiteit een aparte kaartpin te krijgen. Zoeken doorzoekt wél het volledige onderliggende aanbod.
 
-### Waarom deze structuur?
+## Adressen automatisch achterhalen
 
-Een organisatie als Alifa hoeft niet twintig keer als losse kaartpin te verschijnen. De kaart kan één organisatie/locatie tonen, terwijl zoeken wel alle onderliggende vormen van aanbod vindt. Zo blijft de interface rustig zonder informatie weg te gooien.
+`tools/enrich_addresses.py` probeert voor iedere organisatie een bruikbaar adres te vinden:
 
-## Controle zonder handmatig alles af te lopen
+1. een bestaand bezoek- of uitvoeringsadres;
+2. een adres op de officiële bronpagina;
+3. een contact-, locatie- of vestigingspagina op hetzelfde domein;
+4. een eerder bekend contactadres van dezelfde organisatie.
 
-De oude werkwijze vroeg impliciet om vrijwel iedere bronvermelding handmatig te controleren. Dat is vervangen door een uitzonderingenmodel:
+Het gevonden adres wordt gegeocodeerd via de **PDOK Locatieserver**. Daarna bouwt `tools/build_catalog.py` de kaartdata opnieuw op.
 
-- **Brononderbouwd**: naam, gebied en bron zijn aanwezig en de automatische indeling bevat geen conflict.
-- **Handmatig gecontroleerd**: een concrete kaartlocatie die al expliciet is gecontroleerd.
-- **Aandacht nodig**: bron of kerngegevens ontbreken, of automatische bronindeling spreekt bestaande gegevens tegen.
+Als een regionale voorziening alleen een contactadres buiten het eigen werkgebied heeft, blijft het echte contactadres zichtbaar in het detailvenster. De kaart gebruikt dan een **werkgebied-pin** in de gekozen Twentse gemeente, zodat bijvoorbeeld een provinciaal fonds met kantoor in Zwolle niet ten onrechte als voorziening in Zwolle wordt gepresenteerd.
 
-De aandachtlijst wordt gegenereerd door:
+## Controle zonder alles handmatig af te lopen
 
-```bash
-python tools/build_catalog.py
+De redactionele workflow is gebaseerd op uitzonderingen:
+
+- **Brononderbouwd** — duidelijke officiële/lokale bron, kerngegevens en een kaartbare locatie;
+- **Handmatig gecontroleerd** — een concrete locatie die expliciet is nagekeken;
+- **Aandacht nodig** — bron, kerngegevens of locatie ontbreekt, of er is een inhoudelijk conflict.
+
+De kaart verwijst bij aanbod altijd terug naar de bron, omdat openingstijden, voorwaarden, bedragen en beschikbaarheid kunnen wijzigen.
+
+**Laatste automatische adrescontrole (1 oktober 2026):** 105 organisaties, 281 aanbodregels en 129 kaartlocaties; alle 281 aanbodregels hebben een adres en geocodeerde coördinaten.
+
+## Nieuwe bronnen toevoegen
+
+Voeg een aanbodregel toe aan `inventory.json` met minimaal naam, bron, gemeente(n), onderwerp en een korte beschrijving. Een adres mag worden meegegeven, maar hoeft geen coördinaten te hebben.
+
+Bij wijzigingen in `inventory.json` start `.github/workflows/enrich.yml` automatisch:
+
+```
+bron → adres zoeken → PDOK geocoderen → catalogus bouwen → kaartdata opslaan
 ```
 
-Daarmee worden ook de publieke JSON-bestanden opnieuw opgebouwd.
+De workflow draait daarnaast iedere maandag en kan handmatig worden gestart.
 
-> Brononderbouwd betekent niet dat openingstijden, kosten of beschikbaarheid voor altijd correct zijn. De detailpagina verwijst daarom altijd naar de aanbieder als actuele bron.
+## Dark mode
+
+De openbare kaart en de voorzieningen-, aanmeld- en beheerpagina's hebben een **Donker/Licht**-schakelaar. De keuze wordt lokaal in de browser onthouden. Bij een eerste bezoek volgt de site de systeemvoorkeur van de gebruiker.
+
+De donkere kaart dimt de PDOK-ondergrond, maar behoudt gemeentegrenzen, pins, labels en de vier bestaande visuele stijlen.
 
 ## GitHub Pages
 
-De repository bevat `.github/workflows/pages.yml`. Stel bij **Settings → Pages → Build and deployment → Source** GitHub Actions in. Een push naar `main` publiceert de site vervolgens automatisch.
+`.github/workflows/pages.yml` publiceert de statische site vanaf `main`. Gebruik bij **Settings → Pages → Build and deployment** de bron **GitHub Actions**.
 
-De publieke site gebruikt Leaflet 1.9.4 via unpkg en PDOK voor de kaartondergrond. Alle eigen data, JavaScript en styling staan in deze repository.
+De site gebruikt Leaflet 1.9.4 en PDOK voor de kaartondergrond.
 
 ## Automatische controles
 
 `.github/workflows/validate.yml` controleert bij pushes en pull requests:
 
 - JavaScript-syntax;
-- geldige JSON/GeoJSON;
-- of `tools/build_catalog.py` exact reproduceerbare data oplevert;
-- of de voor GitHub Pages benodigde bestanden aanwezig zijn.
+- geldige JSON en GeoJSON;
+- of de catalogusgenerator zonder fouten kan draaien;
+- unieke en geldige kaartcoördinaten;
+- aanwezigheid van de vereiste GitHub Pages-bestanden.
 
-`.github/workflows/enrich.yml` bouwt de afgeleide catalogus en aandachtlijst iedere maandag opnieuw en kan ook handmatig worden gestart.
+De validatie vereist niet dat gegenereerde JSON al vóór de adresworkflow is bijgewerkt; de verrijkingsworkflow schrijft die afgeleide bestanden terug.
 
 ## Lokaal testen
 
-Gebruik een lokale webserver; open de bestanden niet rechtstreeks via `file://` omdat browsers lokale JSON-fetches kunnen blokkeren.
+Open de site via een lokale webserver, niet rechtstreeks via `file://`:
 
 ```bash
 python -m http.server 8000
@@ -64,15 +86,15 @@ Open daarna `http://localhost:8000/`.
 
 ## Beheer
 
-GitHub Pages kan geen Python-server, SQLite of schrijf-API uitvoeren. Aanmelden, importeren, goedkeuren en server-side bronverrijking zijn daarom niet actief op de publieke Pages-site.
+GitHub Pages zelf heeft geen Python-server, SQLite of schrijf-API. De huidige openbare site en broncatalogus werken volledig statisch. Voor een toekomstige openbare redactieomgeving met accounts en wijzigingen is een aparte backend nodig.
 
-Een deel van de oorspronkelijke lokale backend is teruggevonden onder `local-backend/`, maar het oude transportarchief was afgekapt en ondersteunende Python-modules ontbreken. Beschouw deze map daarom als referentiemateriaal, niet als een werkende beheeromgeving. Voor een latere publieke beheeromgeving is een nieuwe backend nodig, bijvoorbeeld Supabase, Cloudflare of een eigen server met authenticatie.
+Een deel van de oude lokale backend staat nog onder `local-backend/` als referentiemateriaal.
 
 ## Belangrijkste bestanden
 
-- `index.html`, `app.js`, `style.css` — openbare kaart en zoekervaring;
-- `voorzieningen.html`, `portal.js`, `portal.css` — volledige voorzieningen-/organisatiecatalogus;
+- `index.html`, `app.js`, `style.css` — kaart, zoeken en dark mode;
+- `voorzieningen.html`, `portal.js`, `portal.css` — volledige catalogus;
 - `inventory.json` — broninventarisatie;
-- `tools/build_catalog.py` — bouwt publieke data en aandachtlijst;
-- `twente.geojson` — gemeentegrenzen;
-- `local-backend/` — gedeeltelijk hersteld referentiemateriaal van de oude lokale redactieomgeving.
+- `tools/enrich_addresses.py` — adresherkenning en PDOK-geocodering;
+- `tools/build_catalog.py` — organisatiegroepering en kaartdata;
+- `twente.geojson` — grenzen van de 14 Twentse gemeenten.

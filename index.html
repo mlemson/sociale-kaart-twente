@@ -4,6 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Sociale kaart Twente</title>
+  <script>
+    try {
+      const saved = localStorage.getItem('sociale-kaart-color-scheme');
+      const dark = saved === 'dark' || (!saved && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
+      document.documentElement.dataset.colorScheme = dark ? 'dark' : 'light';
+    } catch {}
+  </script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
   <link rel="stylesheet" href="style.css">
   <script defer src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -32,7 +39,7 @@
     <div class="nav-tools" aria-label="Voorzieningen en beheer">
       <a href="voorzieningen.html">Voorzieningen</a>
       <a href="aanmelden.html">Aanbod doorgeven</a>
-      <a href="beheer.html" class="nav-manage">Beheer</a>
+      <a href="beheer.html" class="nav-manage">Beheer</a><button id="color-scheme-toggle" class="scheme-toggle" type="button" aria-pressed="false">Donker</button>
     </div>
   </nav>
 </header>
@@ -69,7 +76,7 @@
         <div class="map-context"><strong id="map-title">Twente</strong><span id="map-subtitle">Klik op een gemeente om in te zoomen</span></div>
       </div>
       <div class="map-switch"><button id="basemap" type="button" aria-pressed="true">Ondergrond aan</button></div>
-      <div class="map-bottom"><div class="map-legend"><span class="legend-boundary"></span>Gemeentegrens <span class="legend-cluster">3</span> Locaties bij elkaar</div><div class="map-helper">Klik op een gemeente of voorziening</div></div>
+      <div class="map-bottom"><div class="map-legend"><span class="legend-boundary"></span>Gemeentegrens <span class="legend-cluster">3</span> Voorzieningen</div><div class="map-helper">Klik op een gemeente of voorziening</div></div>
       <div class="detail-card" id="detail" hidden></div>
       <div id="map-error" role="status" hidden></div>
     </section>

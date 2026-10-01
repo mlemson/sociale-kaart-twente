@@ -1723,3 +1723,158 @@ body[data-theme=online] .site-header .nav-manage {
 .detail-offer strong { font-size:12px; color:var(--primary) }
 .detail-offer span { margin-top:3px; color:#7b707d; font-size:10px; line-height:1.45 }
 .detail-offer a { margin-top:6px; font-size:10px; font-weight:600; text-decoration:none }
+
+
+/* DARK MODE · Sociale kaart Twente */
+.scheme-toggle {
+    align-self:center;
+    border:1px solid var(--border)!important;
+    border-radius:999px!important;
+    height:auto!important;
+    padding:8px 11px!important;
+    margin:auto 0!important;
+    line-height:1!important;
+}
+html[data-color-scheme="dark"] {
+    color-scheme: dark;
+    background:#17161a;
+}
+html[data-color-scheme="dark"] body {
+    background:#17161a;
+    color:#eee9ee;
+    --primary:#f0b4d7;
+    --accent:#e16caf;
+    --tint:#352734;
+    --ink:#f2edf1;
+    --border:#4a4149;
+    --mapfill:#413742;
+}
+html[data-color-scheme="dark"] .site-header,
+html[data-color-scheme="dark"] .sidebar,
+html[data-color-scheme="dark"] .workspace,
+html[data-color-scheme="dark"] .result-card,
+html[data-color-scheme="dark"] select,
+html[data-color-scheme="dark"] .topics button {
+    background:#211f24;
+    color:#eee9ee;
+}
+html[data-color-scheme="dark"] .site-header {
+    border-bottom-color:#3b363d;
+}
+html[data-color-scheme="dark"] .header-note,
+html[data-color-scheme="dark"] .intro-copy,
+html[data-color-scheme="dark"] .field-label,
+html[data-color-scheme="dark"] .nearby,
+html[data-color-scheme="dark"] .result-address,
+html[data-color-scheme="dark"] .results-heading>span,
+html[data-color-scheme="dark"] .coverage-note p,
+html[data-color-scheme="dark"] .map-context span,
+html[data-color-scheme="dark"] footer {
+    color:#b9afb9;
+}
+html[data-color-scheme="dark"] .searchbox {
+    background:#2a272d;
+    border-color:#413b43;
+}
+html[data-color-scheme="dark"] .searchbox input {
+    color:#f2edf1;
+}
+html[data-color-scheme="dark"] .topics button,
+html[data-color-scheme="dark"] select {
+    border-color:#4a424b;
+}
+html[data-color-scheme="dark"] .result-card {
+    border-bottom-color:#403941;
+}
+html[data-color-scheme="dark"] .result-card:hover,
+html[data-color-scheme="dark"] .result-card.active {
+    background:#352734;
+}
+html[data-color-scheme="dark"] .category-icon {
+    background:#382b36;
+    color:#ef8ac4;
+}
+html[data-color-scheme="dark"] .coverage-note {
+    background:#1d1b20;
+    border-top-color:#403941;
+}
+html[data-color-scheme="dark"] .map-panel,
+html[data-color-scheme="dark"] .map-panel #map {
+    background:#22272a;
+}
+html[data-color-scheme="dark"] .leaflet-tile-pane {
+    filter:brightness(.55) contrast(1.1) saturate(.65);
+}
+html[data-color-scheme="dark"] .map-back,
+html[data-color-scheme="dark"] .map-switch button,
+html[data-color-scheme="dark"] .map-legend,
+html[data-color-scheme="dark"] .detail-card,
+html[data-color-scheme="dark"] dialog,
+html[data-color-scheme="dark"] .leaflet-bar a,
+html[data-color-scheme="dark"] .leaflet-tooltip {
+    background:#262329!important;
+    color:#eee9ee!important;
+    border-color:#4d454e!important;
+}
+html[data-color-scheme="dark"] .map-context {
+    text-shadow:0 1px 4px #17161a,0 1px 4px #17161a;
+}
+html[data-color-scheme="dark"] .municipal-label {
+    color:#ddd4dd;
+    text-shadow:0 1px 3px #17161a,0 -1px 3px #17161a,1px 0 3px #17161a;
+}
+html[data-color-scheme="dark"] .municipal-label.selected {
+    color:#f3b7d9;
+}
+html[data-color-scheme="dark"] .cluster-button {
+    background:#27232a;
+    color:#f5d9e9;
+}
+html[data-color-scheme="dark"] .detail-card p,
+html[data-color-scheme="dark"] dialog p,
+html[data-color-scheme="dark"] .detail-offer span,
+html[data-color-scheme="dark"] .catalog-match {
+    color:#c5bbc5;
+}
+html[data-color-scheme="dark"] .detail-card .detail-address,
+html[data-color-scheme="dark"] .detail-offer {
+    border-color:#4a4149;
+}
+html[data-color-scheme="dark"] .detail-offer {
+    background:#201e22;
+}
+html[data-color-scheme="dark"] .location-note {
+    background:#332a31;
+    border-left:3px solid var(--accent);
+    border-radius:6px;
+    padding:9px 11px;
+}
+html[data-color-scheme="dark"] .leaflet-control-attribution {
+    background:#201e22d9!important;
+    color:#beb5bf!important;
+}
+html[data-color-scheme="dark"] .leaflet-control-attribution a {
+    color:#e2a3c7!important;
+}
+@media(max-width:760px) {
+    .scheme-toggle { flex:0 0 auto; }
+}
+
+html[data-color-scheme="dark"] body[data-theme="online"] {
+    --primary:#a8d9f2;
+    --accent:#69b9e7;
+    --tint:#203542;
+    --ink:#edf7fc;
+}
+html[data-color-scheme="dark"] body[data-theme="gemeente"] {
+    --primary:#f2c0c7;
+    --accent:#ef6676;
+    --tint:#3e272d;
+    --ink:#f8edef;
+}
+html[data-color-scheme="dark"] body[data-theme="wijkwijzer"] {
+    --primary:#b8dfd2;
+    --accent:#e69a60;
+    --tint:#2b3832;
+    --ink:#eff7f3;
+}

@@ -4,6 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Voorzieningen · Sociale kaart Twente</title>
+  <script>
+    try {
+      const saved = localStorage.getItem('sociale-kaart-color-scheme');
+      const dark = saved === 'dark' || (!saved && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
+      document.documentElement.dataset.colorScheme = dark ? 'dark' : 'light';
+    } catch {}
+  </script>
   <link rel="stylesheet" href="portal.css">
   <script defer src="portal.js"></script>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23602849'/%3E%3Cpath d='M8 9h16M16 9v16' fill='none' stroke='white' stroke-width='4'/%3E%3C/svg%3E">
@@ -12,7 +19,7 @@
 <header class="portal-header">
   <a class="portal-brand" href="index.html">w. <span>Sociale kaart Twente</span></a>
   <nav aria-label="Hoofdnavigatie">
-    <a href="index.html">Sociale kaart</a><a href="voorzieningen.html">Voorzieningen</a><a href="aanmelden.html">Aanbod doorgeven</a><a href="beheer.html">Beheer</a>
+    <a href="index.html">Sociale kaart</a><a href="voorzieningen.html">Voorzieningen</a><a href="aanmelden.html">Aanbod doorgeven</a><a href="beheer.html">Beheer</a><button class="scheme-toggle" type="button" aria-pressed="false">Donker</button>
   </nav>
 </header>
 <main class="portal-main">

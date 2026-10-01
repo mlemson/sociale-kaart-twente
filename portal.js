@@ -8,6 +8,23 @@ const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({
     "'": '&#39;'
 }[c]));
 const municipalities = ['Almelo', 'Borne', 'Dinkelland', 'Enschede', 'Haaksbergen', 'Hellendoorn', 'Hengelo', 'Hof van Twente', 'Losser', 'Oldenzaal', 'Rijssen-Holten', 'Tubbergen', 'Twenterand', 'Wierden'];
+function setupColorScheme() {
+    const button = document.querySelector('.scheme-toggle');
+    if (!button) return;
+    const apply = (mode, persist = true) => {
+        const dark = mode === 'dark';
+        document.documentElement.dataset.colorScheme = dark ? 'dark' : 'light';
+        button.setAttribute('aria-pressed', String(dark));
+        button.textContent = dark ? 'Licht' : 'Donker';
+        button.setAttribute('aria-label', dark ? 'Schakel lichte modus in' : 'Schakel donkere modus in');
+        if (persist) {
+            try { localStorage.setItem('sociale-kaart-color-scheme', dark ? 'dark' : 'light'); } catch {}
+        }
+    };
+    const initial = document.documentElement.dataset.colorScheme === 'dark' ? 'dark' : 'light';
+    apply(initial, false);
+    button.addEventListener('click', () => apply(document.documentElement.dataset.colorScheme === 'dark' ? 'light' : 'dark'));
+}
 const categories = {
     advies: 'Advies & hulp',
     ontmoeten: 'Ontmoeten',
@@ -825,6 +842,7 @@ async function admin() {
 }
 
 async function initPortal() {
+    setupColorScheme();
     const page = document.body.dataset.page || '';
     document.querySelectorAll('.portal-header nav a').forEach(a => {
         const href = a.getAttribute('href') || '';

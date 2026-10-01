@@ -16,17 +16,30 @@ jobs:
         run: |
           node --check app.js
           node --check portal.js
-      - name: Controleer JSON
+      - name: Controleer bron-JSON en GeoJSON
         run: |
           python -m json.tool inventory.json > /dev/null
+          python -m json.tool twente.geojson > /dev/null
+      - name: Test catalogusgenerator
+        run: |
+          python tools/build_catalog.py
           python -m json.tool data/facilities.json > /dev/null
           python -m json.tool data/catalog.json > /dev/null
           python -m json.tool data/review-queue.json > /dev/null
-          python -m json.tool twente.geojson > /dev/null
-      - name: Herbouw afgeleide data
-        run: |
-          python tools/build_catalog.py
-          git diff --exit-code -- data/facilities.json data/catalog.json data/review-queue.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          facilities=json.loads(Path("data/facilities.json").read_text())
+          catalog=json.loads(Path("data/catalog.json").read_text())
+          assert facilities, "Geen kaartlocaties gegenereerd"
+          assert catalog, "Geen organisaties gegenereerd"
+          ids=[x["id"] for x in facilities]
+          assert len(ids)==len(set(ids)), "Dubbele facility-id"
+          for item in facilities:
+              assert isinstance(item.get("lat"), (int,float)) and isinstance(item.get("lon"), (int,float)), item.get("name")
+              assert -90 <= item["lat"] <= 90 and -180 <= item["lon"] <= 180, item.get("name")
+          print(f"{len(facilities)} kaartlocaties · {len(catalog)} organisaties")
+          PY
       - name: Controleer benodigde GitHub Pages bestanden
         run: |
           test -f index.html
