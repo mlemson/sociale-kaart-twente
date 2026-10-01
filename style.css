@@ -1878,3 +1878,57 @@ html[data-color-scheme="dark"] body[data-theme="wijkwijzer"] {
     --tint:#2b3832;
     --ink:#eff7f3;
 }
+
+
+/* SINGLE STYLE · Sociale Kaart Twente */
+.design-bar,.intro,.coverage-note,.map-helper,.small-label { display:none!important; }
+.sr-only{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+.site-header{height:76px;padding:0 max(24px,calc((100vw - 1800px)/2 + 36px));gap:36px;background:#fffdf8}
+.wordmark{min-width:260px;font-size:22px;letter-spacing:-.5px;gap:10px}
+.brand-symbol,body[data-theme=wijkwijzer] .brand-symbol{font-family:'DM Sans',Arial,sans-serif;font-size:24px;line-height:1;letter-spacing:-1px;margin-right:2px;color:var(--accent);font-weight:800}
+.brand-sub{font-size:9px;letter-spacing:.3em;margin-top:5px}
+.site-header nav{margin-left:auto;justify-content:flex-end}
+.site-header .nav-tools::before{display:none}
+.site-header nav a,.site-header nav button{font-size:13px;font-weight:500}
+.site-header .scheme-toggle{border:1px solid var(--border)!important;border-radius:999px!important;padding:8px 11px!important;height:auto!important;margin:auto 0!important;line-height:1!important}
+main{max-width:1800px;padding:24px 36px 0}
+.workspace{height:clamp(650px,calc(100vh - 145px),900px)}
+.sidebar-heading{margin-bottom:16px}
+.sidebar-heading h2{font-size:18px}
+.results-heading h2{font-size:16px}
+.result-card{padding-block:13px}
+.result-tag,.result-arrow{display:none!important}
+.map-context{gap:0}.map-context strong{font-size:17px}.map-bottom{bottom:18px}.leaflet-control-scale{margin-bottom:64px!important}
+.site-footer{display:flex;align-items:flex-start;justify-content:space-between;gap:30px;padding:20px 2px 24px;color:#756f72;font-size:11px;line-height:1.5}
+.footer-copy{display:flex;gap:12px;flex-wrap:wrap}.footer-copy strong{color:var(--primary)}
+.footer-links{display:flex;align-items:center;justify-content:flex-end;gap:14px;flex-wrap:wrap}
+.footer-links a,.footer-links button{border:0;background:none;padding:0;color:var(--primary);font:inherit;text-decoration:none;cursor:pointer}
+.footer-links a:hover,.footer-links button:hover{text-decoration:underline;text-underline-offset:3px}
+.legal-dialog{max-width:560px}.legal-dialog h2{margin-top:0}
+
+/* Dark mode: icons keep their own readable accent instead of becoming white. */
+html[data-color-scheme="dark"] .site-header{background:#211f24;border-color:#3b363d}
+html[data-color-scheme="dark"] .site-footer{color:#b9afb9}
+html[data-color-scheme="dark"] .footer-copy strong,
+html[data-color-scheme="dark"] .footer-links a,
+html[data-color-scheme="dark"] .footer-links button{color:#d9a06e}
+html[data-color-scheme="dark"] .topics button{background:#27242a;color:#d8d0d8;border-color:#4b444c}
+html[data-color-scheme="dark"] .topics button svg{color:#d9a06e;stroke:currentColor}
+html[data-color-scheme="dark"] .topics button[aria-pressed="true"]{background:#34584d;border-color:#51786c;color:#f4eee8}
+html[data-color-scheme="dark"] .topics button[aria-pressed="true"] svg{color:#f0b070}
+html[data-color-scheme="dark"] .category-icon{background:#2e3832!important;color:#e5a269!important}
+html[data-color-scheme="dark"] .category-icon svg{stroke:currentColor!important}
+html[data-color-scheme="dark"] .point-button{background:#31594e!important;color:#f0b070!important;border-color:#171b19!important}
+html[data-color-scheme="dark"] .point-button svg{stroke:currentColor!important}
+html[data-color-scheme="dark"] .point-button.active{background:#8b562f!important;color:#fff0df!important;outline-color:#171b19a0!important}
+html[data-color-scheme="dark"] .cluster-button{background:#252a27;color:#f0b070;border-color:#d88344}
+html[data-color-scheme="dark"] .scheme-toggle{color:#eee9ee!important;border-color:#574f57!important}
+
+@media(max-width:760px){
+  .site-header{height:auto;min-height:64px;padding:8px 16px;gap:8px;flex-wrap:wrap}
+  .wordmark{min-width:0;font-size:18px;min-height:46px}.brand-symbol,body[data-theme=wijkwijzer] .brand-symbol{font-size:20px}.brand-sub{font-size:7px}
+  .site-header nav{order:2;width:100%;height:38px;margin:0;overflow-x:auto;scrollbar-width:none}.site-header nav::-webkit-scrollbar{display:none}
+  .site-header .nav-tools{gap:18px;flex:0 0 auto}
+  main{padding:14px 12px 0}.workspace{height:auto}
+  .site-footer{flex-direction:column;gap:10px;padding:18px 4px 28px}.footer-copy{flex-direction:column;gap:3px}.footer-links{justify-content:flex-start;gap:12px}
+}
