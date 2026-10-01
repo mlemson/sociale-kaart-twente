@@ -36,6 +36,8 @@ De redactionele workflow is gebaseerd op uitzonderingen:
 
 De kaart verwijst bij aanbod altijd terug naar de bron, omdat openingstijden, voorwaarden, bedragen en beschikbaarheid kunnen wijzigen.
 
+**Laatste automatische adrescontrole (1 oktober 2026):** 105 organisaties, 281 aanbodregels en 129 kaartlocaties; alle 281 aanbodregels hebben een adres en geocodeerde coördinaten.
+
 ## Nieuwe bronnen toevoegen
 
 Voeg een aanbodregel toe aan `inventory.json` met minimaal naam, bron, gemeente(n), onderwerp en een korte beschrijving. Een adres mag worden meegegeven, maar hoeft geen coördinaten te hebben.
