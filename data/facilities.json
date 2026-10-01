@@ -1,0 +1,2268 @@
+[
+  {
+    "id": "loc-1",
+    "name": "Wijkwijzer Centrum",
+    "address": "Hoge Bothofstraat 49",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "tags": [
+      "advies",
+      "ontmoeten"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.22306902,
+    "lon": 6.90400645,
+    "geocodedAddress": "Hoge Bothofstraat 49, 7511ZA Enschede",
+    "bagId": "0153200000498650",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Hoge+Bothofstraat+49+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "",
+      "categoryConfidence": "onvoldoende",
+      "categoryAgreement": false,
+      "categoryConflict": false,
+      "categoryReasons": [],
+      "themeScores": {},
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-2",
+    "name": "Wijkwijzer Lumen",
+    "address": "Velveweg 54",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "tags": [
+      "advies",
+      "ontmoeten"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.2203326,
+    "lon": 6.91847412,
+    "geocodedAddress": "Velveweg 54, 7533XK Enschede",
+    "bagId": "0153200000477287",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Velveweg+54+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "",
+      "categoryConfidence": "onvoldoende",
+      "categoryAgreement": false,
+      "categoryConflict": false,
+      "categoryReasons": [],
+      "themeScores": {},
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-3",
+    "name": "Wijkwijzer Vosta",
+    "address": "Minkmaatstraat 173",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "tags": [
+      "advies",
+      "ontmoeten"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.23068894,
+    "lon": 6.90914497,
+    "geocodedAddress": "Minkmaatstraat 173, 7531AX Enschede",
+    "bagId": "0153200000400428",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Minkmaatstraat+173+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "",
+      "categoryConfidence": "onvoldoende",
+      "categoryAgreement": false,
+      "categoryConflict": false,
+      "categoryReasons": [],
+      "themeScores": {},
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-4",
+    "name": "Wijkwijzer De Dorpskamer",
+    "address": "Schipholtstraat 48B",
+    "town": "Glanerbrug",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "tags": [
+      "advies",
+      "ontmoeten"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.21370556,
+    "lon": 6.97164919,
+    "geocodedAddress": "Schipholtstraat 48B, 7534CZ Enschede",
+    "bagId": "0153200000353152",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Schipholtstraat+48B+Glanerbrug&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "",
+      "categoryConfidence": "onvoldoende",
+      "categoryAgreement": false,
+      "categoryConflict": false,
+      "categoryReasons": [],
+      "themeScores": {},
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-5",
+    "name": "Wijkwijzer De Vrije Ruimte",
+    "address": "Olympialaan 20",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "tags": [
+      "advies",
+      "ontmoeten"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.20672753,
+    "lon": 6.90826728,
+    "geocodedAddress": "Olympialaan 20, 7541BK Enschede",
+    "bagId": "0153200000419262",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Olympialaan+20+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "",
+      "categoryConfidence": "onvoldoende",
+      "categoryAgreement": false,
+      "categoryConflict": false,
+      "categoryReasons": [],
+      "themeScores": {},
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-6",
+    "name": "Wijkwijzer Ontmoetingskerk",
+    "address": "Doctor Wagenaarstraat 6",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "tags": [
+      "advies",
+      "ontmoeten",
+      "ontmoeting"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.20997965,
+    "lon": 6.89902378,
+    "geocodedAddress": "Dr. Wagenaarstraat 6, 7541XK Enschede",
+    "bagId": "0153200000474548",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Doctor+Wagenaarstraat+6+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [
+      "ontmoeting"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "",
+      "categoryConfidence": "onvoldoende",
+      "categoryAgreement": false,
+      "categoryConflict": false,
+      "categoryReasons": [],
+      "themeScores": {},
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-7",
+    "name": "Wijkwijzer De Boei",
+    "address": "Spinnerstraat 27A",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "tags": [
+      "advies",
+      "ontmoeten"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.2115792,
+    "lon": 6.87571778,
+    "geocodedAddress": "Spinnerstraat 27A, 7545TP Enschede",
+    "bagId": "0153200000427938",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Spinnerstraat+27A+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "",
+      "categoryConfidence": "onvoldoende",
+      "categoryAgreement": false,
+      "categoryConflict": false,
+      "categoryReasons": [],
+      "themeScores": {},
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-8",
+    "name": "Wijkwijzer Boswinkel · 't Ni-je Terphoes",
+    "address": "Noordhollandstraat 4",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "tags": [
+      "advies",
+      "ontmoeten"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.20502893,
+    "lon": 6.88230934,
+    "geocodedAddress": "Noordhollandstraat 4, 7543WB Enschede",
+    "bagId": "0153200000449912",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Noordhollandstraat+4+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "",
+      "categoryConfidence": "onvoldoende",
+      "categoryAgreement": false,
+      "categoryConflict": false,
+      "categoryReasons": [],
+      "themeScores": {},
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-9",
+    "name": "Wijkwijzer Boswinkel · Speeltuin",
+    "address": "Beneluxlaan 50",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "tags": [
+      "advies",
+      "ontmoeten",
+      "jeugd"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.20398081,
+    "lon": 6.8768224,
+    "geocodedAddress": "Beneluxlaan 50, 7543XT Enschede",
+    "bagId": "0153200000450954",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Beneluxlaan+50+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies",
+      "jeugd"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "jeugd",
+      "categoryConfidence": "middel",
+      "categoryAgreement": false,
+      "categoryConflict": true,
+      "categoryReasons": [
+        "speeltuin"
+      ],
+      "themeScores": {
+        "jeugd": 9
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "category",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-10",
+    "name": "Wijkwijzer De Magneet",
+    "address": "Hertmebrink 1",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://www.enschede.nl/openingstijden-wijkwijzer-in-de-zomervakantie",
+    "description": "Voor vragen, een gesprek en hulp bij het vinden van passende ondersteuning. Raadpleeg Wijkwijzer voor de huidige inlooptijden.",
+    "tags": [
+      "advies",
+      "ontmoeten",
+      "ontmoeting"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.19270077,
+    "lon": 6.8756301,
+    "geocodedAddress": "Hertmebrink 1, 7544DC Enschede",
+    "bagId": "0153200000343582",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Hertmebrink+1+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [
+      "ontmoeting"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "laag",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "hulp"
+      ],
+      "themeScores": {
+        "advies": 6
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-11",
+    "name": "Wijkwijzer Stroinkshuis",
+    "address": "Het Stroink 64",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://www.enschede.nl/openingstijden-wijkwijzer-in-de-zomervakantie",
+    "description": "Voor vragen, een gesprek en hulp bij het vinden van passende ondersteuning. Raadpleeg Wijkwijzer voor de huidige inlooptijden.",
+    "tags": [
+      "advies",
+      "ontmoeten",
+      "ontmoeting"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.18841466,
+    "lon": 6.90096801,
+    "geocodedAddress": "Het Stroink 64, 7542GT Enschede",
+    "bagId": "0153200000469879",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Het+Stroink+64+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [
+      "ontmoeting"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "laag",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "hulp"
+      ],
+      "themeScores": {
+        "advies": 6
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-12",
+    "name": "Wijkwijzer Het Kompas",
+    "address": "Lijsterstraat 11",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "advies",
+    "source": "https://www.enschede.nl/openingstijden-wijkwijzer-in-de-zomervakantie",
+    "description": "Voor vragen, een gesprek en hulp bij het vinden van passende ondersteuning. Raadpleeg Wijkwijzer voor de huidige inlooptijden.",
+    "tags": [
+      "advies",
+      "ontmoeten",
+      "ontmoeting"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.23839329,
+    "lon": 6.88498393,
+    "geocodedAddress": "Lijsterstraat 11, 7523ER Enschede",
+    "bagId": "0153200000344210",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Lijsterstraat+11+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [
+      "ontmoeting"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "laag",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "hulp"
+      ],
+      "themeScores": {
+        "advies": 6
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-13",
+    "name": "Juridisch Loket Enschede",
+    "address": "Piet Heinstraat 17",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "category": "geld",
+    "source": "https://wijkwijzerenschede.nl/juridisch-loket-enschede",
+    "description": "Juridische informatie en advies. Bekijk bij het Juridisch Loket welke hulp past en welke voorwaarden gelden.",
+    "tags": [
+      "geld",
+      "advies"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.22145327,
+    "lon": 6.89038139,
+    "geocodedAddress": "Piet Heinstraat 17, 7511JE Enschede",
+    "bagId": "0153200000300774",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Piet+Heinstraat+17+Enschede&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "geld",
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "hoog",
+      "categoryAgreement": false,
+      "categoryConflict": true,
+      "categoryReasons": [
+        "informatie",
+        "loket",
+        "juridisch"
+      ],
+      "themeScores": {
+        "advies": 52
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "category",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "geld"
+  },
+  {
+    "id": "loc-14",
+    "name": "Wijkracht · Hengelo",
+    "address": "Johannaweg 26",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "category": "advies",
+    "source": "https://www.wijkracht.nl/contact",
+    "description": "Contactlocatie van Wijkracht. Voor maatschappelijke ondersteuning kun je rechtstreeks contact opnemen.",
+    "tags": [
+      "advies"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.26218618,
+    "lon": 6.77660084,
+    "geocodedAddress": "Johannaweg 26, 7555CR Hengelo",
+    "bagId": "0164200000324150",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Johannaweg+26+Hengelo&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "laag",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "ondersteuning"
+      ],
+      "themeScores": {
+        "advies": 6
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-15",
+    "name": "Fundament · Sociaal werk",
+    "address": "Raadhuisplein 1",
+    "town": "Losser",
+    "municipality": "Losser",
+    "category": "ontmoeten",
+    "source": "https://www.fundamentlosser.nl/sociaalwerk/",
+    "description": "Sociaal werk, activiteiten en ondersteuning in Losser. Neem contact op met een vraag of een idee.",
+    "tags": [
+      "advies",
+      "ontmoeten",
+      "vrijwillig"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.26284211,
+    "lon": 7.00588809,
+    "geocodedAddress": "Raadhuisplein 1, 7581AG Losser",
+    "bagId": "0168200000223012",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Raadhuisplein+1+Losser&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Losser"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "ontmoeten",
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "hoog",
+      "categoryAgreement": false,
+      "categoryConflict": true,
+      "categoryReasons": [
+        "ondersteuning",
+        "sociaal werk"
+      ],
+      "themeScores": {
+        "advies": 16,
+        "ontmoeten": 4
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "category",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "ontmoeten"
+  },
+  {
+    "id": "loc-16",
+    "name": "Salut · Goor",
+    "address": "Grotestraat 86",
+    "town": "Goor",
+    "municipality": "Hof van Twente",
+    "category": "advies",
+    "source": "https://salut-welzijn.nl/contact/",
+    "description": "Welzijn en persoonlijke ondersteuning voor inwoners van Hof van Twente. Bekijk of je kunt binnenlopen of een afspraak nodig hebt.",
+    "tags": [
+      "advies",
+      "ontmoeten",
+      "mantelzorg"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.23293368,
+    "lon": 6.58569353,
+    "geocodedAddress": "Grotestraat 86, 7471BR Goor",
+    "bagId": "1735200000011966",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Grotestraat+86+Goor&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Hof van Twente"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "laag",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "ondersteuning"
+      ],
+      "themeScores": {
+        "advies": 6
+      },
+      "audienceSuggestion": "Inwoners",
+      "audienceConfidence": "middel",
+      "audienceReasons": [
+        "voor inwoners"
+      ],
+      "costSuggestion": "",
+      "accessSuggestion": "Inloop zonder afspraak",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-17",
+    "name": "Salut · Markelo",
+    "address": "Burgemeester de Beaufortplein 14",
+    "town": "Markelo",
+    "municipality": "Hof van Twente",
+    "category": "advies",
+    "source": "https://salut-welzijn.nl/contact/",
+    "description": "Welzijn en persoonlijke ondersteuning voor inwoners van Hof van Twente. Bekijk of je kunt binnenlopen of een afspraak nodig hebt.",
+    "tags": [
+      "advies",
+      "ontmoeten",
+      "mantelzorg"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.23337086,
+    "lon": 6.49453829,
+    "geocodedAddress": "Burgemeester de Beaufortplein 14, 7475AG Markelo",
+    "bagId": "1735200000017074",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Burgemeester+de+Beaufortplein+14+Markelo&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Hof van Twente"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "laag",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "ondersteuning"
+      ],
+      "themeScores": {
+        "advies": 6
+      },
+      "audienceSuggestion": "Inwoners",
+      "audienceConfidence": "middel",
+      "audienceReasons": [
+        "voor inwoners"
+      ],
+      "costSuggestion": "",
+      "accessSuggestion": "Inloop zonder afspraak",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-18",
+    "name": "Salut · Delden",
+    "address": "Averinkstraat 30",
+    "town": "Delden",
+    "municipality": "Hof van Twente",
+    "category": "advies",
+    "source": "https://salut-welzijn.nl/contact/",
+    "description": "Welzijn en persoonlijke ondersteuning voor inwoners van Hof van Twente. Bekijk of je kunt binnenlopen of een afspraak nodig hebt.",
+    "tags": [
+      "advies",
+      "ontmoeten",
+      "mantelzorg"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.25810194,
+    "lon": 6.7193342,
+    "geocodedAddress": "Averinkstraat 30, 7491ZC Delden",
+    "bagId": "1735200000031238",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Averinkstraat+30+Delden&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Hof van Twente"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "laag",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "ondersteuning"
+      ],
+      "themeScores": {
+        "advies": 6
+      },
+      "audienceSuggestion": "Inwoners",
+      "audienceConfidence": "middel",
+      "audienceReasons": [
+        "voor inwoners"
+      ],
+      "costSuggestion": "",
+      "accessSuggestion": "Inloop zonder afspraak",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-19",
+    "name": "ZorgSaam Twenterand",
+    "address": "Burgemeester Koetjestraat 2",
+    "town": "Vroomshoop",
+    "municipality": "Twenterand",
+    "category": "advies",
+    "source": "https://www.zorgsaamtwenterand.nl/",
+    "description": "Contactlocatie voor welzijn, ondersteuning en vrijwilligerswerk in Twenterand.",
+    "tags": [
+      "advies",
+      "vrijwillig",
+      "vrijwillige inzet"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.45816146,
+    "lon": 6.56844898,
+    "geocodedAddress": "Burgemeester Koetjestraat 2, 7681ZP Vroomshoop",
+    "bagId": "1700200000290887",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Burgemeester+Koetjestraat+2+Vroomshoop&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "vrijwillig",
+      "advies"
+    ],
+    "subthemes": [
+      "vrijwillige inzet"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "vrijwillig",
+      "categoryConfidence": "middel",
+      "categoryAgreement": false,
+      "categoryConflict": true,
+      "categoryReasons": [
+        "vrijwilligerswerk"
+      ],
+      "themeScores": {
+        "advies": 6,
+        "vrijwillig": 12
+      },
+      "audienceSuggestion": "(Potentiële) vrijwilligers",
+      "audienceConfidence": "laag",
+      "audienceReasons": [
+        "vrijwilligerswerk"
+      ],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "category",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-20",
+    "name": "ViaVie Welzijn · Rijssen",
+    "address": "Rozengaarde 75A",
+    "town": "Rijssen",
+    "municipality": "Rijssen-Holten",
+    "category": "ontmoeten",
+    "source": "https://viaviewelzijn.nl/contact/",
+    "description": "Welzijnsorganisatie met ondersteuning en activiteiten in Rijssen-Holten. Informeer naar het aanbod op deze locatie.",
+    "tags": [
+      "advies",
+      "ontmoeten",
+      "vrijwillig"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.30688827,
+    "lon": 6.52266934,
+    "geocodedAddress": "Rozengaarde 75A, 7461DA Rijssen",
+    "bagId": "1742200000295570",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Rozengaarde+75A+Rijssen&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Rijssen-Holten"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies",
+      "ontmoeten"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "laag",
+      "categoryAgreement": false,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "ondersteuning"
+      ],
+      "themeScores": {
+        "advies": 6,
+        "ontmoeten": 4
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "ontmoeten"
+  },
+  {
+    "id": "loc-21",
+    "name": "ViaVie Welzijn · Holten",
+    "address": "Smidsbelt 6",
+    "town": "Holten",
+    "municipality": "Rijssen-Holten",
+    "category": "ontmoeten",
+    "source": "https://viaviewelzijn.nl/contact/",
+    "description": "Welzijnsorganisatie met ondersteuning en activiteiten in Rijssen-Holten. Informeer naar het aanbod op deze locatie.",
+    "tags": [
+      "advies",
+      "ontmoeten",
+      "vrijwillig"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.28131306,
+    "lon": 6.42165509,
+    "geocodedAddress": "Smidsbelt 6, 7451BL Holten",
+    "bagId": "1742200000041982",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Smidsbelt+6+Holten&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Rijssen-Holten"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies",
+      "ontmoeten"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "laag",
+      "categoryAgreement": false,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "ondersteuning"
+      ],
+      "themeScores": {
+        "advies": 6,
+        "ontmoeten": 4
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "ontmoeten"
+  },
+  {
+    "id": "loc-22",
+    "name": "De Welle · Nijverdal",
+    "address": "Constantijnstraat 32A",
+    "town": "Nijverdal",
+    "municipality": "Hellendoorn",
+    "category": "ontmoeten",
+    "source": "https://www.stichtingdewelle.nl/",
+    "description": "Welzijnswerk en activiteiten voor jong en oud in de gemeente Hellendoorn.",
+    "tags": [
+      "ontmoeten",
+      "vrijwillig"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.36352638,
+    "lon": 6.46142506,
+    "geocodedAddress": "Constantijnstraat 32a, 7442ME Nijverdal",
+    "bagId": "0163200000560702",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Constantijnstraat+32A+Nijverdal&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "ontmoeten"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "ontmoeten",
+      "categoryConfidence": "laag",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "activiteiten"
+      ],
+      "themeScores": {
+        "ontmoeten": 4
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "ontmoeten"
+  },
+  {
+    "id": "loc-23",
+    "name": "Evenmens · Informele zorg",
+    "address": "Constantijnstraat 32A",
+    "town": "Nijverdal",
+    "municipality": "Hellendoorn",
+    "category": "mantelzorg",
+    "source": "https://evenmens.nl/",
+    "description": "Regionaal contactpunt voor informele zorg en ondersteuning van mantelzorgers. Vraag naar de mogelijkheden in jouw gemeente.",
+    "tags": [
+      "mantelzorg",
+      "vrijwillig",
+      "advies"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.36352638,
+    "lon": 6.46142506,
+    "geocodedAddress": "Constantijnstraat 32a, 7442ME Nijverdal",
+    "bagId": "0163200000560702",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Constantijnstraat+32A+Nijverdal&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "mantelzorg",
+      "advies"
+    ],
+    "subthemes": [
+      "mantelzorg"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "mantelzorg",
+      "categoryConfidence": "middel",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "mantelzorgers"
+      ],
+      "themeScores": {
+        "advies": 6,
+        "mantelzorg": 12
+      },
+      "audienceSuggestion": "Mantelzorgers",
+      "audienceConfidence": "middel",
+      "audienceReasons": [
+        "mantelzorgers"
+      ],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "mantelzorg"
+  },
+  {
+    "id": "loc-24",
+    "name": "De Welle · Wierden",
+    "address": "Dokter G.H. Beensweg 21",
+    "town": "Wierden",
+    "municipality": "Wierden",
+    "category": "ontmoeten",
+    "source": "https://www.stichtingdewelle.nl/",
+    "description": "Welzijnswerk en activiteiten voor inwoners van de gemeente Wierden.",
+    "tags": [
+      "ontmoeten",
+      "vrijwillig"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.35470544,
+    "lon": 6.58036385,
+    "geocodedAddress": "Dokter G.H. Beensweg 21, 7642CH Wierden",
+    "bagId": "0189200000023298",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Dokter+G.H.+Beensweg+21+Wierden&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Wierden"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "ontmoeten"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "ontmoeten",
+      "categoryConfidence": "laag",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "activiteiten"
+      ],
+      "themeScores": {
+        "ontmoeten": 4
+      },
+      "audienceSuggestion": "Inwoners",
+      "audienceConfidence": "middel",
+      "audienceReasons": [
+        "voor inwoners"
+      ],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "ontmoeten"
+  },
+  {
+    "id": "loc-25",
+    "name": "SWTD · Denekamp",
+    "address": "Oranjestraat 21",
+    "town": "Denekamp",
+    "municipality": "Dinkelland",
+    "category": "advies",
+    "source": "https://swtd.nl/contact/",
+    "description": "Werklocatie van Sociaal Werk Tubbergen Dinkelland. Spreekuur alleen op afspraak.",
+    "tags": [
+      "advies"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.37472391,
+    "lon": 7.0003195,
+    "geocodedAddress": "Oranjestraat 21, 7591GA Denekamp",
+    "bagId": "1774200000282290",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Oranjestraat+21+Denekamp&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Dinkelland"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "laag",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "sociaal werk"
+      ],
+      "themeScores": {
+        "advies": 4
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "Op afspraak",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-26",
+    "name": "SWTD · Tubbergen",
+    "address": "Eeshoflaan 21",
+    "town": "Tubbergen",
+    "municipality": "Tubbergen",
+    "category": "advies",
+    "source": "https://swtd.nl/contact/",
+    "description": "Werklocatie van Sociaal Werk Tubbergen Dinkelland. Spreekuur alleen op afspraak.",
+    "tags": [
+      "advies"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.41082601,
+    "lon": 6.78011235,
+    "geocodedAddress": "Eeshoflaan 21, 7651LZ Tubbergen",
+    "bagId": "0183200000148335",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Eeshoflaan+21+Tubbergen&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Tubbergen"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "advies"
+    ],
+    "subthemes": [],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "advies",
+      "categoryConfidence": "laag",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "sociaal werk"
+      ],
+      "themeScores": {
+        "advies": 4
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "Op afspraak",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "advies"
+  },
+  {
+    "id": "loc-27",
+    "name": "Impuls · Willemien",
+    "address": "Wilhelminastraat 5",
+    "town": "Oldenzaal",
+    "municipality": "Oldenzaal",
+    "category": "ontmoeten",
+    "source": "https://www.impuls-oldenzaal.nl/contact/",
+    "description": "Een locatie van Impuls voor activiteiten en ontmoeting. Bekijk het actuele programma bij Impuls.",
+    "tags": [
+      "ontmoeten",
+      "ontmoeting"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.31188249,
+    "lon": 6.93145973,
+    "geocodedAddress": "Wilhelminastraat 5, 7571CE Oldenzaal",
+    "bagId": "0173200000161226",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Wilhelminastraat+5+Oldenzaal&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Oldenzaal"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "ontmoeting"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "ontmoeten",
+      "categoryConfidence": "hoog",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "ontmoeting",
+        "activiteiten"
+      ],
+      "themeScores": {
+        "ontmoeten": 16
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "ontmoeten"
+  },
+  {
+    "id": "loc-28",
+    "name": "Impuls · Stakenboer",
+    "address": "Burgemeester Wallerstraat 115",
+    "town": "Oldenzaal",
+    "municipality": "Oldenzaal",
+    "category": "ontmoeten",
+    "source": "https://www.impuls-oldenzaal.nl/contact/",
+    "description": "Een locatie van Impuls voor activiteiten en ontmoeting. Bekijk het actuele programma bij Impuls.",
+    "tags": [
+      "ontmoeten",
+      "ontmoeting"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.3016685,
+    "lon": 6.93500986,
+    "geocodedAddress": "Burgemeester Wallerstraat 115, 7574AL Oldenzaal",
+    "bagId": "0173200000149936",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Burgemeester+Wallerstraat+115+Oldenzaal&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Oldenzaal"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "ontmoeting"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "ontmoeten",
+      "categoryConfidence": "hoog",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "ontmoeting",
+        "activiteiten"
+      ],
+      "themeScores": {
+        "ontmoeten": 16
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "ontmoeten"
+  },
+  {
+    "id": "loc-29",
+    "name": "Impuls · Ons Gebouw",
+    "address": "Nijverheidsstraat 97",
+    "town": "Oldenzaal",
+    "municipality": "Oldenzaal",
+    "category": "ontmoeten",
+    "source": "https://www.impuls-oldenzaal.nl/contact/",
+    "description": "Een locatie van Impuls voor activiteiten en ontmoeting. Bekijk het actuele programma bij Impuls.",
+    "tags": [
+      "ontmoeten",
+      "ontmoeting"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.29378759,
+    "lon": 6.92796947,
+    "geocodedAddress": "Nijverheidsstraat 97, 7575BH Oldenzaal",
+    "bagId": "0173200000180412",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Nijverheidsstraat+97+Oldenzaal&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Oldenzaal"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "ontmoeting"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "ontmoeten",
+      "categoryConfidence": "hoog",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "ontmoeting",
+        "activiteiten"
+      ],
+      "themeScores": {
+        "ontmoeten": 16
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "ontmoeten"
+  },
+  {
+    "id": "loc-30",
+    "name": "Impuls · Huiskamer De Thij",
+    "address": "Willem Dingeldeinstraat 53",
+    "town": "Oldenzaal",
+    "municipality": "Oldenzaal",
+    "category": "ontmoeten",
+    "source": "https://www.impuls-oldenzaal.nl/contact/",
+    "description": "Een locatie van Impuls voor activiteiten en ontmoeting. Bekijk het actuele programma bij Impuls.",
+    "tags": [
+      "ontmoeten",
+      "ontmoeting"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.31423073,
+    "lon": 6.90839465,
+    "geocodedAddress": "Willem Dingeldeinstraat 53, 7576TT Oldenzaal",
+    "bagId": "0173200000168918",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Willem+Dingeldeinstraat+53+Oldenzaal&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Oldenzaal"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "ontmoeting"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "ontmoeten",
+      "categoryConfidence": "hoog",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "ontmoeting",
+        "huiskamer",
+        "activiteiten"
+      ],
+      "themeScores": {
+        "ontmoeten": 31
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "ontmoeten"
+  },
+  {
+    "id": "loc-31",
+    "name": "Taalpunt Almelo",
+    "address": "Het Baken 3",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "category": "taal",
+    "source": "https://www.avedan.nl/gemeentepagina/ik-wil-de-taal-oefenen/",
+    "description": "Ondersteuning bij het oefenen van de Nederlandse taal, via Avedan in de bibliotheek.",
+    "tags": [
+      "taal"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.35745328,
+    "lon": 6.66163647,
+    "geocodedAddress": "Het Baken 3, 7607AA Almelo",
+    "bagId": "0141200000055760",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Het+Baken+3+Almelo&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Almelo"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "taal"
+    ],
+    "subthemes": [
+      "taal"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "taal",
+      "categoryConfidence": "hoog",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "taal",
+        "taalpunt",
+        "bibliotheek"
+      ],
+      "themeScores": {
+        "advies": 6,
+        "taal": 33.8
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "taal"
+  },
+  {
+    "id": "loc-32",
+    "name": "Informatiepunt Digitale Overheid",
+    "address": "De Haven 1",
+    "town": "Borne",
+    "municipality": "Borne",
+    "category": "taal",
+    "source": "https://www.kulturhusborne.nl/raad-en-daad/",
+    "description": "Hulp bij digitale overheidszaken in Bibliotheek Borne. Bekijk vooraf het inloopmoment.",
+    "tags": [
+      "taal",
+      "geld",
+      "digitale vaardigheden",
+      "ontmoeting"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.30236616,
+    "lon": 6.75844818,
+    "geocodedAddress": "De Haven 1, 7622DH Borne",
+    "bagId": "0147200000144833",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=De+Haven+1+Borne&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Borne"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "taal"
+    ],
+    "subthemes": [
+      "digitale vaardigheden",
+      "ontmoeting"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "taal",
+      "categoryConfidence": "hoog",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "informatiepunt digitale overheid",
+        "bibliotheek"
+      ],
+      "themeScores": {
+        "advies": 6,
+        "taal": 20
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "taal"
+  },
+  {
+    "id": "loc-33",
+    "name": "Noaberpoort · Hulp bij geldzorgen",
+    "address": "Blankenburgerstraat 28",
+    "town": "Haaksbergen",
+    "municipality": "Haaksbergen",
+    "category": "geld",
+    "source": "https://stadsbankoostnederland.nl/voor-verwijzers/hulp-in-jouw-gemeente/",
+    "description": "Aanspreekpunt in Haaksbergen voor vragen over geldzorgen. Neem vooraf contact op.",
+    "tags": [
+      "geld",
+      "advies",
+      "geldzorgen"
+    ],
+    "checked": "2026-09-14",
+    "lat": 52.15500987,
+    "lon": 6.74219044,
+    "geocodedAddress": "Blankenburgerstraat 28, 7481EB Haaksbergen",
+    "bagId": "0158200000139946",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?q=Blankenburgerstraat+28+Haaksbergen&fq=type%3Aadres&rows=100",
+    "revision": 0,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Haaksbergen"
+    ],
+    "audience": "",
+    "costs": "",
+    "access": "",
+    "openingHours": "",
+    "themes": [
+      "geld",
+      "advies"
+    ],
+    "subthemes": [
+      "geldzorgen"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "geld",
+      "categoryConfidence": "hoog",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "geldzorgen"
+      ],
+      "themeScores": {
+        "advies": 11.2,
+        "geld": 25
+      },
+      "audienceSuggestion": "Mensen met geldzorgen of een laag inkomen",
+      "audienceConfidence": "hoog",
+      "audienceReasons": [
+        "geldzorgen",
+        "geldzorgen"
+      ],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "access",
+        "audience",
+        "costs",
+        "openingHours"
+      ]
+    },
+    "primaryTheme": "geld"
+  },
+  {
+    "candidateId": "candidate-5c7d01aa644b1594",
+    "name": "Huis voor Taal & Meedoen",
+    "municipality": "Enschede",
+    "category": "taal",
+    "tags": [
+      "taal",
+      "digitale vaardigheden"
+    ],
+    "address": "Pijpenstraat 15",
+    "town": "Enschede",
+    "source": "https://huisvoortaalenmeedoen.nl/",
+    "description": "Lezen en schrijven\nNederlands spreken\nOmgaan met de computer",
+    "audience": "Iedereen is welkom!",
+    "costs": "0",
+    "access": "Kom langs bij het Taalspreekuur!\nBel ons op 06 - 420 793 78 om een afspraak te maken of laat je telefoonnummer of e-mailadres achter op de website www.huisvoortaalenmeedoen.nl. Dan nemen we contact op met jou.",
+    "openingHours": "Taalspreekuur:\nMaandag 13:30 – 17:00\nDinsdag 09:30 – 12:00\nWoensdag 13:30 – 17:00\nDonderdag 09:30 – 12:00",
+    "lat": 52.21910175,
+    "lon": 6.89338546,
+    "bagId": "0153200000359828",
+    "geocodedAddress": "Pijpenstraat 15, 7511GM Enschede",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+    "id": "loc-c3716444-fd1c-4c67-9459-d08956321e77",
+    "checked": "2026-09-15",
+    "revision": 1,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "themes": [
+      "taal"
+    ],
+    "subthemes": [
+      "taal",
+      "digitale vaardigheden"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "taal",
+      "categoryConfidence": "hoog",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "taal",
+        "lezen",
+        "computer"
+      ],
+      "themeScores": {
+        "taal": 33
+      },
+      "audienceSuggestion": "",
+      "audienceConfidence": "onvoldoende",
+      "audienceReasons": [],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": []
+    },
+    "primaryTheme": "taal"
+  },
+  {
+    "candidateId": "candidate-40e283c876667349",
+    "name": "M-Pact · mantelzorgvrijwilligers",
+    "municipality": "Enschede",
+    "category": "vrijwillig",
+    "tags": [
+      "vrijwillig",
+      "mantelzorg",
+      "vrijwillige inzet"
+    ],
+    "address": "Pijpenstraat 15",
+    "town": "Enschede",
+    "source": "https://www.m-pact.nl/mantelzorgers",
+    "description": "Interesse in het doen van vrijwilligerswerk? Dan ben je hier aan het goede adres!",
+    "audience": "",
+    "costs": "",
+    "access": "Wil je liever een persoonlijk gesprek? Heb je een vraag over vrijwilligerswerk, wil je meedoen aan een activiteit of weten wat er allemaal te doen is in Enschede?\n\nKom binnen bij ons inloopspreekuur op het Ontwikkelplein in de centrale bibliotheek.",
+    "openingHours": "Openingstijden Inloopspreekuur\nMaandag: 10.00 - 15.00 uur\nDinsdag: 10.00 - 15.00 uur\nDonderdag: 10.00 - 15.00 uur",
+    "lat": 52.21910175,
+    "lon": 6.89338546,
+    "bagId": "0153200000359828",
+    "geocodedAddress": "Pijpenstraat 15, 7511GM Enschede",
+    "geocodeSource": "https://api.pdok.nl/bzk/locatieserver/search/v3_1/free",
+    "id": "loc-8d8c110f-eee5-428a-ac36-f4f88006139f",
+    "checked": "2026-09-15",
+    "revision": 1,
+    "status": "published",
+    "accessStatus": "confirmed",
+    "scope": "Lokaal aanbod",
+    "sourceTitle": "Gecontroleerde kaartvermelding",
+    "municipalities": [
+      "Enschede"
+    ],
+    "themes": [
+      "vrijwillig",
+      "mantelzorg"
+    ],
+    "subthemes": [
+      "mantelzorg",
+      "vrijwillige inzet"
+    ],
+    "enrichment": {
+      "version": 2,
+      "method": "lokale sleutelwoorden",
+      "suggestedCategory": "vrijwillig",
+      "categoryConfidence": "middel",
+      "categoryAgreement": true,
+      "categoryConflict": false,
+      "categoryReasons": [
+        "vrijwilligerswerk"
+      ],
+      "themeScores": {
+        "mantelzorg": 4.5,
+        "vrijwillig": 12
+      },
+      "audienceSuggestion": "(Potentiële) vrijwilligers",
+      "audienceConfidence": "laag",
+      "audienceReasons": [
+        "vrijwilligerswerk"
+      ],
+      "costSuggestion": "",
+      "accessSuggestion": "",
+      "autoFilled": [],
+      "reviewFields": [
+        "audience",
+        "costs"
+      ]
+    },
+    "primaryTheme": "vrijwillig"
+  }
+]
