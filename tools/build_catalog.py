@@ -61,6 +61,21 @@ def stable_id(text):
         tail = alphabet[r] + tail
     return f"org-{base}-{tail}"
 
+def map_location_type(item):
+    explicit = item.get("mapLocationType") or ""
+    if explicit == "service-area":
+        return explicit
+    lat, lon = item.get("lat"), item.get("lon")
+    services = item.get("municipalities") or ([item.get("municipality")] if item.get("municipality") else [])
+    location_municipality = item.get("locationMunicipality") or ""
+    if services and location_municipality and location_municipality not in services:
+        return "service-area"
+    # Ruime bbox rond Twente: externe landelijke/provinciale kantoren nooit als pin buiten de regio tonen.
+    if isinstance(lat, (int, float)) and isinstance(lon, (int, float)):
+        if not (51.95 <= lat <= 52.58 and 6.25 <= lon <= 7.25):
+            return "service-area"
+    return "address"
+
 def pick_location(offers):
     priority = {"service": 0, "visiting": 0, "existing": 1, "source-address": 2, "contact": 3}
     options = [o for o in offers if has_location(o)]
@@ -81,6 +96,7 @@ def pick_location(offers):
         "locationMunicipality": o.get("locationMunicipality") or o.get("municipality") or "",
         "locationType": o.get("locationType") or "contact",
         "locationSource": o.get("locationSource") or o.get("source") or "",
+        "mapLocationType": map_location_type(o),
     }
 
 def base_represents(group, facilities):
@@ -156,7 +172,7 @@ def main():
             "address": v.get("address") or "", "postcode": v.get("postcode") or "", "town": v.get("town") or "",
             "lat": v.get("lat"), "lon": v.get("lon"), "locationType": v.get("locationType") or "",
             "locationSource": v.get("locationSource") or "", "locationMunicipality": v.get("locationMunicipality") or "",
-            "mapLocationType": v.get("mapLocationType") or "address",
+            "mapLocationType": v.get("mapLocationType") or map_location_type(v),
         })
         g["offerCount"] += 1
 
@@ -208,7 +224,7 @@ def main():
             "email": "",
             "locationType": loc.get("locationType") or "contact",
             "locationSource": loc.get("locationSource") or "",
-            "mapLocationType": loc.get("mapLocationType") or "address",
+            "mapLocationType": loc.get("mapLocationType") or map_location_type(loc),
             "catalogOrganizationId": g["id"],
         })
         synthetic += 1
