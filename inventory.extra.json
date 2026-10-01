@@ -2,5 +2,8 @@
   "checked": "2026-10-02",
   "method": "Aanvullende, handmatig onderzochte concrete trainingen, inlopen, cursussen en daginvulling zonder indicatie. Wordt automatisch gegeocodeerd en samengevoegd met inventory.json.",
   "sources": [],
-  "candidates": []
+  "candidates": [],
+  "addressEnrichmentVersion": 1,
+  "addressEnrichedAt": "2026-10-01",
+  "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin."
 }
