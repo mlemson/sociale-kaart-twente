@@ -192,69 +192,128 @@ async function submission() {
     );
 }
 async function inventory() {
-    let selected = []
-      , limit = 80;
-    const [published,inv,imports] = await Promise.all([api('/api/facilities'), api('/inventory.json'), api('/api/import-candidates')]);
-    const norm = s => s.toLocaleLowerCase('nl').replace(/[^\p{L}\p{N}]/gu, '');
-    const keys = new Set(published.map(v => norm(v.name)));
-    const promoted = new Set(published.map(v => v.candidateId).filter(Boolean));
-    const claimed = new Set(imports.map(v => v.candidateId).filter(Boolean));
-    const all = [...published.map(v => ({
-        ...v,
-        status: 'published',
-        accessStatus: 'confirmed',
-        scope: 'Lokaal aanbod',
-        sourceTitle: 'Gecontroleerde kaartvermelding',
-        municipalities: [v.municipality]
-    })), ...imports.map(v => ({
-        ...v,
-        status: 'candidate'
-    })), ...inv.candidates.filter(v => !keys.has(norm(v.name)) && !promoted.has(v.id) && !claimed.has(v.id)).map(v => ({
-        ...v,
-        status: 'candidate'
-    }))];
+    let selected = [], limit = 60;
+    const [published, catalog, reviewQueue, inv] = await Promise.all([
+        api('/api/facilities'),
+        api('data/catalog.json'),
+        api('data/review-queue.json'),
+        api('/inventory.json')
+    ]);
+    const norm = s => String(s || '').toLocaleLowerCase('nl').replace(/[^\p{L}\p{N}]/gu, '');
+    const orgFromName = name => {
+        const value = String(name || '').trim();
+        return value.includes(' · ') ? value.split(' · ', 1)[0].trim() : value;
+    };
+    const groups = new Map(catalog.map(g => [norm(g.organization), {...g, locations: []}]));
+    for (const location of published) {
+        const org = orgFromName(location.name);
+        const key = norm(org);
+        if (!groups.has(key)) {
+            groups.set(key, {
+                id: 'map-' + location.id,
+                organization: org,
+                municipalities: [],
+                categories: [],
+                offers: [],
+                offerCount: 0,
+                reviewNeeded: 0,
+                sourceBacked: 0,
+                manual: 0,
+                sources: [],
+                primarySource: location.source || '',
+                status: 'manual',
+                checked: location.checked || '',
+                locations: []
+            });
+        }
+        const g = groups.get(key);
+        g.locations.push(location);
+        if (location.municipality && !g.municipalities.includes(location.municipality)) g.municipalities.push(location.municipality);
+        for (const k of [...(location.tags || []), location.category].filter(Boolean)) if (!g.categories.includes(k)) g.categories.push(k);
+        if (location.source && !g.sources.includes(location.source)) g.sources.push(location.source);
+        g.manual = (g.manual || 0) + 1;
+        if (!g.primarySource) g.primarySource = location.source || '';
+    }
+    const all = [...groups.values()].sort((a,b) => a.organization.localeCompare(b.organization, 'nl'));
+
     $('inventory-municipality').innerHTML += municipalities.map(n => `<option>${esc(n)}</option>`).join('');
-    $('inventory-category').innerHTML += Object.entries(categories).map( ([k,n]) => `<option value="${esc(k)}">${esc(n)}</option>`).join('');
-    $('inventory-access').insertAdjacentHTML('beforeend', '<option value="imported">Bestandsimport · controleren</option>');
+    $('inventory-category').innerHTML += Object.entries(categories).map(([k,n]) => `<option value="${esc(k)}">${esc(n)}</option>`).join('');
+
+    function matchingOffers(g, q, category) {
+        return (g.offers || []).filter(o => {
+            const text = [o.title,o.name,o.description,o.audience,o.access,...(o.tags||[]),...(o.subthemes||[]),...(o.themes||[])].join(' ').toLocaleLowerCase('nl');
+            return (!q || text.includes(q)) && (!category || o.category === category || (o.themes || []).includes(category) || (o.tags || []).includes(category));
+        });
+    }
     function render() {
-        const q = $('inventory-search').value.trim().toLocaleLowerCase('nl')
-          , m = $('inventory-municipality').value
-          , s = $('inventory-status').value
-          , c = $('inventory-category').value
-          , a = $('inventory-access').value;
-        selected = all.filter(v => (!q || [v.name, v.description, v.sourceTitle, v.phone, v.email, ...(v.municipalities || []), ...(v.subthemes || []), ...((v.themes || []).map(k => categories[k] || k))].join(' ').toLocaleLowerCase('nl').includes(q)) && (!m || (v.municipalities || []).includes(m)) && (!s || v.status === s) && (!c || v.category === c || (v.themes || []).includes(c)) && (!a || v.accessStatus === a));
-        $('inventory-count').textContent = `${selected.length} vermeldingen · ${published.length} gecontroleerde locaties op de kaart`;
-        $('inventory-rows').innerHTML = selected.slice(0, limit).map(v => `<tr><td><strong>${esc(v.name)}</strong>${v.address ? `<small>${esc(v.address)}${v.town ? ' · ' + esc(v.town) : ''}</small>` : ''}<small>${esc(v.sourceTitle || 'Bron')}${v.source ? ' · ' + safeLink(v.source, 'bron bekijken') : ''}</small>${v.enrichment ? `<small class="auto-note">Automatisch voorbereid · ${esc(enrichmentLabel(v))}</small>` : ''}</td><td>${esc(v.scope === 'Twente-breed' ? 'Heel Twente' : v.municipalities.join(', ') || 'Nog bepalen')}</td><td>${esc(categories[v.category] || 'Nog bepalen')}${(v.themes || []).filter(k => k !== v.category).length ? `<small>Ook: ${esc((v.themes || []).filter(k => k !== v.category).map(k => categories[k] || k).join(', '))}</small>` : ''}</td><td><span class="badge ${v.accessStatus === 'imported' ? 'imported' : v.status === 'published' || v.accessStatus === 'confirmed' ? 'approved' : ''}">${v.status === 'published' ? 'Gecontroleerd' : v.accessStatus === 'confirmed' ? 'Toegang bevestigd' : v.accessStatus === 'imported' ? 'Import · controleren' : 'Bron gevonden'}</span><small>${esc(v.access || 'Controleer actuele voorwaarden bij de aanbieder.')}</small></td><td><a href="${v.imported ? 'beheer.html' : `aanmelden.html?${v.status === 'published' ? 'id' : 'candidate'}=${encodeURIComponent(v.id)}`}">${v.imported ? 'Controleer in beheer' : v.status === 'published' ? 'Wijziging doorgeven' : 'Gegevens aanvullen'} →</a></td></tr>`).join('') || '<tr><td colspan="5">Geen vermeldingen gevonden. Probeer een andere combinatie of meld een voorziening aan.</td></tr>';
+        const q = $('inventory-search').value.trim().toLocaleLowerCase('nl'),
+              m = $('inventory-municipality').value,
+              s = $('inventory-status').value,
+              c = $('inventory-category').value,
+              a = $('inventory-access').value;
+        selected = all.filter(g => {
+            const offers = matchingOffers(g, q, c);
+            const groupText = [g.organization,...(g.municipalities||[]),...(g.categories||[])].join(' ').toLocaleLowerCase('nl');
+            const qMatch = !q || groupText.includes(q) || offers.length;
+            const categoryMatch = !c || (g.categories || []).includes(c) || offers.length;
+            const areaMatch = !m || (g.municipalities || []).includes(m);
+            const typeMatch = !s || (s === 'published' ? (g.locations || []).length : (g.offers || []).length);
+            const statusMatch = !a ||
+                (a === 'review-needed' && (g.reviewNeeded || 0) > 0) ||
+                (a === 'source-backed' && (g.offers || []).length > 0 && (g.reviewNeeded || 0) === 0) ||
+                (a === 'confirmed' && (g.locations || []).length > 0);
+            return qMatch && categoryMatch && areaMatch && typeMatch && statusMatch;
+        });
+        const offerTotal = selected.reduce((n,g) => n + (g.offerCount || 0), 0);
+        $('inventory-count').textContent = `${selected.length} organisaties · ${offerTotal} vormen van aanbod · ${published.length} kaartlocaties · ${reviewQueue.length} aandachtspunten`;
+        $('inventory-rows').innerHTML = selected.slice(0, limit).map(g => {
+            const matches = matchingOffers(g, q, c);
+            const shown = (q || c ? matches : (g.offers || [])).slice(0, 6);
+            const extra = Math.max(0, (q || c ? matches.length : (g.offers || []).length) - shown.length);
+            const statusClass = (g.reviewNeeded || 0) ? 'attention' : (g.locations || []).length ? 'approved' : 'source-backed';
+            const statusLabel = (g.reviewNeeded || 0)
+                ? `${g.reviewNeeded} aandachtspunt${g.reviewNeeded === 1 ? '' : 'en'}`
+                : (g.locations || []).length
+                    ? `Brononderbouwd · ${g.locations.length} kaartlocatie${g.locations.length === 1 ? '' : 's'}`
+                    : 'Brononderbouwd';
+            const offerHtml = shown.length
+                ? `<details class="offer-details"><summary>Bekijk ${q || c ? 'passend' : 'alle'} aanbod (${q || c ? matches.length : g.offerCount || 0})</summary><div class="offer-list">${shown.map(o => `<div><strong>${esc(o.title)}</strong>${o.audience ? `<small>Voor: ${esc(o.audience)}</small>` : ''}${o.source ? `<small>${safeLink(o.source,'bron bekijken')}</small>` : ''}</div>`).join('')}${extra ? `<small>+${extra} andere onderdelen. Open de bron of verfijn je zoekopdracht.</small>` : ''}</div></details>`
+                : '';
+            const topics = (g.categories || []).slice(0,3).map(k => categories[k] || k).join(', ') || 'Nog bepalen';
+            const first = (g.offers || [])[0];
+            const editHref = first ? `aanmelden.html?candidate=${encodeURIComponent(first.id)}` : (g.locations || [])[0] ? `aanmelden.html?id=${encodeURIComponent(g.locations[0].id)}` : 'aanmelden.html';
+            return `<tr>
+                <td><strong>${esc(g.organization)}</strong><small>${g.offerCount || 0} vormen van aanbod${(g.locations || []).length ? ` · ${g.locations.length} kaartlocatie${g.locations.length===1?'':'s'}` : ''}</small>${offerHtml}</td>
+                <td>${esc((g.municipalities || []).join(', ') || 'Twente / nog bepalen')}</td>
+                <td>${esc(topics)}${(g.categories || []).length > 3 ? `<small>+${g.categories.length-3} andere onderwerpen</small>` : ''}</td>
+                <td><span class="badge ${statusClass}">${esc(statusLabel)}</span><small>Bronronde: ${esc(g.checked || inv.checked || 'onbekend')}</small></td>
+                <td>${g.primarySource ? safeLink(g.primarySource,'Website / bron ↗') : '<span class="hint">Geen bronlink</span>'}<small><a href="${editHref}">Gegevens aanvullen →</a></small></td>
+            </tr>`;
+        }).join('') || '<tr><td colspan="5">Geen passend aanbod gevonden. Probeer een bredere zoekterm of een ander onderwerp.</td></tr>';
         $('load-more').hidden = selected.length <= limit;
     }
-    ['inventory-search', 'inventory-municipality', 'inventory-status', 'inventory-category', 'inventory-access'].forEach(id => $(id).addEventListener('input', () => {
-        limit = 80;
-        render();
-    }
-    ));
-    $('load-more').onclick = () => {
-        limit += 80;
-        render();
-    }
-    ;
+    ['inventory-search','inventory-municipality','inventory-status','inventory-category','inventory-access'].forEach(id => $(id).addEventListener('input', () => { limit = 60; render(); }));
+    $('load-more').onclick = () => { limit += 60; render(); };
     $('download-json').onclick = () => {
         const u = URL.createObjectURL(new Blob([JSON.stringify({
             exportedAt: new Date().toISOString(),
             scope: inv.method,
-            records: selected
-        }, null, 2)],{
-            type: 'application/json'
-        }));
+            organizations: selected
+        }, null, 2)], {type:'application/json'}));
         const a = document.createElement('a');
         a.href = u;
-        a.download = 'sociale-kaart-twente-voorliggend-aanbod.json';
+        a.download = 'sociale-kaart-twente-organisaties-en-aanbod.json';
         a.click();
-        setTimeout( () => URL.revokeObjectURL(u), 1000);
-    }
-    ;
-    $('source-overview').innerHTML = municipalities.map(m => `<div class="source-card"><strong>${esc(m)}</strong>${published.filter(v => v.municipality === m).length} gecontroleerde kaartlocaties · ${inv.candidates.filter(v => v.municipalities.includes(m)).length} bronvermeldingen<p>${(inv.sources.filter(s => s.municipalities.includes(m))).map(s => safeLink(s.url, s.title)).join('<br>')}</p><span>Laatste bronronde ${esc(inv.checked)}. Toegang en kosten blijven veranderlijk.</span></div>`).join('');
+        setTimeout(() => URL.revokeObjectURL(u), 1000);
+    };
+    $('source-overview').innerHTML = municipalities.map(m => {
+        const orgs = all.filter(g => (g.municipalities || []).includes(m));
+        const attention = orgs.reduce((n,g) => n + (g.reviewNeeded || 0), 0);
+        return `<div class="source-card"><strong>${esc(m)}</strong>${orgs.length} organisaties · ${published.filter(v => v.municipality === m).length} kaartlocaties<p>${(inv.sources.filter(s => s.municipalities.includes(m))).map(s => safeLink(s.url, s.title)).join('<br>')}</p><span>${attention ? attention + ' aandachtspunt(en)' : 'Geen uitzonderingen in de huidige brondata'} · bronronde ${esc(inv.checked)}</span></div>`;
+    }).join('');
     render();
 }
+
 const importAliases = {
     name: ['naam', 'voorziening', 'organisatie', 'aanbod', 'titel'],
     municipality: ['gemeente', 'municipality'],
