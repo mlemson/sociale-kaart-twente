@@ -323,8 +323,8 @@ function showLocation(id, pan=false) {
     d.hidden = false;
     const route = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent([p.address,p.postcode,p.town].filter(Boolean).join(', '));
     const isContact = ['contact','source-address'].includes(p.locationType);
-    const isServiceAreaPin = p.mapLocationType === 'service-area';
-    const addressLabel = isContact || isServiceAreaPin ? 'Contact-/vestigingsadres' : 'Bezoekadres';
+    const isServiceAreaPin = p.mapLocationType === 'service-area' || (Number.isFinite(p.lat) && Number.isFinite(p.lon) && !(p.lat >= 51.95 && p.lat <= 52.58 && p.lon >= 6.25 && p.lon <= 7.25));
+    const addressLabel = isContact || isServiceAreaPin ? 'Contactadres' : 'Bezoekadres';
     const locationMunicipality = p.locationMunicipality || p.municipality || '';
     const serviceLine = serviceAreas.length
         ? `<p class="detail-service-area"><strong>Actief in</strong><br>${esc(serviceAreas.join(', '))}</p>`
@@ -334,7 +334,8 @@ function showLocation(id, pan=false) {
         : isContact
             ? '<p class="location-note">Dit is het contact- of vestigingsadres. De activiteit zelf kan op een andere locatie, in de wijk of bij inwoners thuis plaatsvinden.</p>'
             : '';
-    d.innerHTML = `<button class="detail-close" aria-label="Locatie sluiten">×</button><span class="category-icon">${icon(p.category)}</span><h2>${esc(p.name)}</h2><p>${esc(p.description)}</p><p class="detail-address"><strong>${addressLabel}</strong><br>${esc(p.address)}${p.postcode ? ` · ${esc(p.postcode)}` : ''}<br>${esc(p.town)}${locationMunicipality ? ` · gemeente ${esc(locationMunicipality)}` : ''}</p>${locationNote}<div class="detail-links"><a class="primary-link" href="${esc(p.source)}" target="_blank" rel="noopener">Website</a><a href="${route}" target="_blank" rel="noopener">Route</a></div><div class="detail-extra">${[["Doelgroep", p.audience], ["Kosten", p.costs], ["Toegang", p.access], ["Openingstijden", p.openingHours], ["Telefoon", p.phone], ["E-mail", p.email]].filter(([,v]) => v).map(([k,v]) => `<p><strong>${k}</strong><br>${esc(v)}</p>`).join('')}${serviceLine}</div><p><a href="aanmelden.html?id=${encodeURIComponent(p.id)}">Correctie doorgeven</a></p><p class="meta">Bron geraadpleegd: ${esc(p.checked || 'onbekend')}</p>`;
+    const routeLink = (!isContact && !isServiceAreaPin) ? `<a href="${route}" target="_blank" rel="noopener">Route</a>` : '';
+    d.innerHTML = `<button class="detail-close" aria-label="Locatie sluiten">×</button><span class="category-icon">${icon(p.category)}</span><h2>${esc(p.name)}</h2>${p.description ? `<p>${esc(p.description)}</p>` : ''}<p class="detail-address"><strong>${addressLabel}</strong><br>${esc(p.address)}${p.postcode ? ` · ${esc(p.postcode)}` : ''}<br>${esc(p.town)}</p>${locationNote}<div class="detail-links"><a class="primary-link" href="${esc(p.source)}" target="_blank" rel="noopener">Website</a>${routeLink}</div><div class="detail-extra">${[["Voor wie", p.audience], ["Kosten", p.costs], ["Toegang", p.access], ["Telefoon", p.phone], ["E-mail", p.email]].filter(([,v]) => v).map(([k,v]) => `<p><strong>${k}</strong><br>${esc(v)}</p>`).join('')}${serviceLine}</div><p><a href="aanmelden.html?id=${encodeURIComponent(p.id)}">Correctie doorgeven</a></p>`;
     d.querySelector('.detail-close').addEventListener('click', () => {
         state.selected = null;
         render();
