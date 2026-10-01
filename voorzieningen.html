@@ -15,20 +15,18 @@
   <script defer src="portal.js"></script>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23602849'/%3E%3Cpath d='M8 9h16M16 9v16' fill='none' stroke='white' stroke-width='4'/%3E%3C/svg%3E">
 </head>
-<body data-theme="wijkteams" data-page="voorzieningen">
+<body data-theme="wijkwijzer" data-page="voorzieningen">
 <header class="portal-header">
-  <a class="portal-brand" href="index.html">w. <span>Sociale kaart Twente</span></a>
+  <a class="portal-brand" href="index.html">SK <span>Sociale Kaart Twente</span></a>
   <nav aria-label="Hoofdnavigatie">
     <a href="index.html">Sociale kaart</a><a href="voorzieningen.html">Voorzieningen</a><a href="aanmelden.html">Aanbod doorgeven</a><a href="beheer.html">Beheer</a><button class="scheme-toggle" type="button" aria-pressed="false">Donker</button>
   </nav>
 </header>
 <main class="portal-main">
-  <p class="eyebrow">14 GEMEENTEN · ÉÉN OVERZICHT</p>
-  <h1>Bekijk het aanbod <em>in Twente.</em></h1>
-  <p class="lead">Hier staat voorliggend sociaal aanbod dat inwoners doorgaans rechtstreeks kunnen benaderen, zonder gemeentelijke indicatie. Zoek op organisatie, activiteit, onderwerp of een vraag die je hebt.</p>
-  <div class="notice"><strong>Niet alles hoeft meer handmatig gecontroleerd te worden.</strong> Aanbod met een duidelijke bron wordt direct als <em>brononderbouwd</em> opgenomen. Alleen ontbrekende bronnen, tegenstrijdige indelingen en andere echte twijfelgevallen komen in de aandachtlijst. De bron blijft leidend voor actuele toegang, kosten en beschikbaarheid.</div>
+  <h1>Voorzieningen</h1>
+  
   <div class="toolbar">
-    <input id="inventory-search" type="search" aria-label="Zoek organisatie of aanbod" placeholder="Zoek bijvoorbeeld opvoeden, maatje, vervoer…">
+    <input id="inventory-search" type="search" aria-label="Zoek organisatie of aanbod" placeholder="Zoek organisatie of onderwerp">
     <select id="inventory-municipality" aria-label="Gemeente"><option value="">Heel Twente</option></select>
     <select id="inventory-category" aria-label="Onderwerp"><option value="">Alle onderwerpen</option></select>
     <select id="inventory-access" aria-label="Betrouwbaarheid"><option value="">Alle statussen</option><option value="source-backed">Brononderbouwd</option><option value="review-needed">Aandacht nodig</option><option value="confirmed">Handmatig gecontroleerd</option></select>
@@ -36,10 +34,18 @@
   </div>
   <div class="countline"><span id="inventory-count" role="status">Voorzieningen laden…</span><button class="action secondary" id="download-json">Download selectie (JSON)</button></div>
   <div class="table-wrap"><table><thead><tr><th>Organisatie / aanbod</th><th>Gebied</th><th>Onderwerp</th><th>Status</th><th>Bron / aanvullen</th></tr></thead><tbody id="inventory-rows"></tbody></table></div>
-  <div class="actions"><button class="action secondary" id="load-more" hidden>Meer tonen</button><a class="action" href="aanmelden.html">Aanbod ontbreekt of klopt niet? Geef het door →</a></div>
+  <div class="actions"><button class="action secondary" id="load-more" hidden>Meer tonen</button><a class="action" href="aanmelden.html">Aanbod doorgeven</a></div>
   <div id="page-message" role="status" hidden></div>
   <details><summary>Bronnen en voortgang per gemeente</summary><p class="hint">De bronronde omvat alle 14 Twentse gemeenten. Omdat lokaal aanbod en voorwaarden veranderen, blijft dit een onderhoudbare voorzieningenlijst en geen absolute volledigheidsgarantie.</p><div id="source-overview" class="source-grid"></div></details>
 </main>
-<footer class="portal-footer"><span>Samen werken aan een actuele sociale kaart.</span><a href="index.html">Terug naar de kaart van Twente ↗</a></footer>
+<footer class="portal-footer">
+  <span>Sociale Kaart Twente</span>
+  <div class="portal-footer-links">
+    <a href="mailto:info@jeugdhulptwente.nl">Contact / correctie</a>
+    <button class="privacy-btn" type="button">Privacy</button>
+    <button class="disclaimer-btn" type="button">Disclaimer</button>
+    <a href="index.html">Kaart</a>
+  </div>
+</footer>
 </body>
 </html>

@@ -50,11 +50,19 @@ bron → adres zoeken → PDOK geocoderen → catalogus bouwen → kaartdata ops
 
 De workflow draait daarnaast iedere maandag en kan handmatig worden gestart.
 
+## Presentatie
+
+De publieke website gebruikt één vaste stijl onder de naam **Sociale Kaart Twente**. De eerdere ontwerpvarianten Wijkteams, Online Hulp, Gemeente Enschede en Wijkwijzer zijn niet meer als schakelbare stijlen zichtbaar.
+
+De interface houdt alleen functionele tekst over. Privacy, disclaimer en contact staan compact in de footer.
+
+Externe algemene contactadressen worden niet buiten Twente als kaartpin getoond. De adresverrijker zoekt eerst naar een lokale locatie. Is alleen een landelijk of provinciaal contactadres beschikbaar, dan blijft dat echte adres in de detailinformatie staan en wordt de pin in het relevante Twentse werkgebied geplaatst.
+
 ## Dark mode
 
 De openbare kaart en de voorzieningen-, aanmeld- en beheerpagina's hebben een **Donker/Licht**-schakelaar. De keuze wordt lokaal in de browser onthouden. Bij een eerste bezoek volgt de site de systeemvoorkeur van de gebruiker.
 
-De donkere kaart dimt de PDOK-ondergrond, maar behoudt gemeentegrenzen, pins, labels en de vier bestaande visuele stijlen.
+De donkere kaart dimt de PDOK-ondergrond en houdt gemeentegrenzen, pins en labels leesbaar. De website gebruikt één vaste visuele stijl, gebaseerd op de eerdere Wijkwijzer-richting.
 
 ## GitHub Pages
 
