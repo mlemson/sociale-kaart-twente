@@ -237,3 +237,12 @@ body { font-size:16px; }
     .portal-header nav::-webkit-scrollbar { display:none; }
     .portal-header nav a { font-size:12px; flex:0 0 auto; }
 }
+
+.badge.source-backed { background:#eef3fb; color:#315d87; }
+.badge.attention { background:#fff3df; color:#8b5a13; }
+.offer-details { margin:10px 0 0; }
+.offer-details summary { font-size:13px; font-weight:600; }
+.offer-list { display:grid; gap:8px; margin-top:9px; max-width:520px; }
+.offer-list > div { padding:9px 11px; border:1px solid #eee5ed; border-radius:8px; background:#fcfafc; }
+.offer-list strong { font-size:13px; color:var(--primary); }
+.offer-list small { margin-top:3px; }
