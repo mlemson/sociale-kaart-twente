@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Bouw publieke kaartdata, organisatiecatalogus en een kleine uitzonderingenlijst."""
 from __future__ import annotations
-import json, re
+import json, re, shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -107,7 +107,8 @@ def main():
         g["primarySource"] = g["sources"][0] if g["sources"] else ""
         catalog.append(g)
     catalog.sort(key=lambda x: x["organization"].casefold())
-    dump(DATA / "facilities.json", facilities)
+    DATA.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(BASE, DATA / "facilities.json")
     dump(DATA / "catalog.json", catalog)
     dump(DATA / "review-queue.json", review)
     print(f"{len(facilities)} kaartlocaties · {len(catalog)} organisaties · {sum(g['offerCount'] for g in catalog)} aanbodregels · {len(review)} aandachtspunten")
