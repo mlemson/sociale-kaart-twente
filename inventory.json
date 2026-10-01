@@ -17701,7 +17701,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.23976464,
+      "lon": 6.88626963,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17739,12 +17744,17 @@
       "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
       "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
       "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
-      "address": "Olympialaan 20",
-      "postcode": "7523XZ",
+      "address": "Zaanstraat 22",
+      "postcode": "7523HC",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.23976464,
+      "lon": 6.88626963,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17782,12 +17792,17 @@
       "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
       "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
       "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
-      "address": "Plataanstraat 50",
-      "postcode": "7545MN",
+      "address": "Zaanstraat 22",
+      "postcode": "7523HC",
       "town": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
-      "mapPin": true
+      "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+      "mapPin": true,
+      "lat": 52.23976464,
+      "lon": 6.88626963,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17825,12 +17840,17 @@
       "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
       "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
       "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
-      "address": "Het Lang 78",
-      "postcode": "7544XC",
+      "address": "Zaanstraat 22",
+      "postcode": "7523HC",
       "town": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
-      "mapPin": true
+      "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+      "mapPin": true,
+      "lat": 52.23976464,
+      "lon": 6.88626963,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17873,7 +17893,12 @@
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.1985123,
+      "lon": 6.87527536,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17911,12 +17936,17 @@
       "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
       "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
       "costs": "Gratis.",
-      "address": "Schorpioenstraat 33",
-      "postcode": "7521HW",
+      "address": "Rechterveldbrink 1",
+      "postcode": "7544NT",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.1985123,
+      "lon": 6.87527536,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17954,12 +17984,17 @@
       "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
       "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
       "costs": "Gratis.",
-      "address": "Gerard Terborghplein 1",
-      "postcode": "7545BB",
+      "address": "Rechterveldbrink 1",
+      "postcode": "7544NT",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.1985123,
+      "lon": 6.87527536,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17997,12 +18032,17 @@
       "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
       "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
       "costs": "Gratis.",
-      "address": "Bleekhofstraat 1",
-      "postcode": "7543ED",
+      "address": "Rechterveldbrink 1",
+      "postcode": "7544NT",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.1985123,
+      "lon": 6.87527536,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18040,12 +18080,17 @@
       "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
       "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
       "costs": "Gratis.",
-      "address": "Hortensiastraat 1",
-      "postcode": "",
+      "address": "Rechterveldbrink 1",
+      "postcode": "7544NT",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.1985123,
+      "lon": 6.87527536,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18083,12 +18128,17 @@
       "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
       "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
       "costs": "Gratis.",
-      "address": "Jan van Elburgstraat 111",
-      "postcode": "7548DC",
-      "town": "Boekelo",
+      "address": "Rechterveldbrink 1",
+      "postcode": "7544NT",
+      "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.1985123,
+      "lon": 6.87527536,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18132,7 +18182,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.huisvoortaalenmeedoen.nl/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18172,7 +18227,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://bibliotheekenschede.op-shop.nl/",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18212,7 +18272,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://bibliotheekenschede.op-shop.nl/",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18252,7 +18317,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://bibliotheekenschede.op-shop.nl/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18292,7 +18362,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://bibliotheekenschede.op-shop.nl/",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18332,7 +18407,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://bibliotheekenschede.op-shop.nl/",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18366,7 +18446,17 @@
       "description": "Gratis tienweekse cursus gericht op balans, spierkracht en vertrouwen voor zelfstandig wonende 65-plussers.",
       "audience": "Zelfstandig wonende inwoners van Enschede van 65 jaar en ouder.",
       "access": "Rechtstreeks aanmelden of contact opnemen met Sportaal.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Hengelosestraat 66",
+      "postcode": "7514AJ",
+      "town": "Enschede",
+      "lat": 52.22431331,
+      "lon": 6.88710197,
+      "locationMunicipality": "Enschede",
+      "locationType": "source-address",
+      "locationSource": "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18400,7 +18490,17 @@
       "description": "Kosteloos en vrijblijvend advies over bewegen, voeding, slaap en stress.",
       "audience": "Inwoners van Enschede met vragen over leefstijl.",
       "access": "Rechtstreeks aanmelden of contact opnemen met Sportaal.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Hengelosestraat 66",
+      "postcode": "7514AJ",
+      "town": "Enschede",
+      "lat": 52.22431331,
+      "lon": 6.88710197,
+      "locationMunicipality": "Enschede",
+      "locationType": "source-address",
+      "locationSource": "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18611,7 +18711,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.22530111,
+      "lon": 6.89059513,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18646,12 +18751,17 @@
       "audience": "Vrijwilligers en organisaties die met vrijwilligers werken.",
       "access": "Bekijk het actuele programma en meld je per activiteit aan.",
       "costs": "Veel aanbod is gratis; controleer de activiteit.",
-      "address": "Pathmossingel 200",
-      "postcode": "7513CM",
+      "address": "Roomweg 165H",
+      "postcode": "7523BM",
       "town": "Enschede",
-      "locationType": "visiting",
-      "locationSource": "https://www.kenniscentrum.m-pact.nl/",
-      "mapPin": true
+      "locationType": "contact",
+      "locationSource": "https://www.m-pact.nl/contact",
+      "mapPin": true,
+      "lat": 52.23192595,
+      "lon": 6.89612155,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18685,12 +18795,17 @@
       "audience": "Nieuwe taalvrijwilligers.",
       "access": "Aanmelden via M-Pact Kenniscentrum.",
       "costs": "Controleer de actuele training.",
-      "address": "Pathmossingel 200",
-      "postcode": "7513CM",
+      "address": "Roomweg 165H",
+      "postcode": "7523BM",
       "town": "Enschede",
-      "locationType": "visiting",
-      "locationSource": "https://www.kenniscentrum.m-pact.nl/",
-      "mapPin": false
+      "locationType": "contact",
+      "locationSource": "https://www.m-pact.nl/contact",
+      "mapPin": false,
+      "lat": 52.23192595,
+      "lon": 6.89612155,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18739,7 +18854,17 @@
       "description": "Praktische online cursus over positief opvoeden en omgaan met lastige opvoedsituaties.",
       "audience": "Ouders, aanstaande ouders en andere opvoeders in Twente.",
       "access": "Online of op locatie; bekijk de actuele agenda.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Haven Zuidzijde 30",
+      "postcode": "7607EW",
+      "town": "Almelo",
+      "lat": 52.35722016,
+      "lon": 6.6592867,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18788,7 +18913,17 @@
       "description": "Online cursus over contact en signalen van je baby, ook vóór de geboorte.",
       "audience": "Ouders, aanstaande ouders en andere opvoeders in Twente.",
       "access": "Online of op locatie; bekijk de actuele agenda.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Haven Zuidzijde 30",
+      "postcode": "7607EW",
+      "town": "Almelo",
+      "lat": 52.35722016,
+      "lon": 6.6592867,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18837,7 +18972,17 @@
       "description": "Online cursus over samenwerken als ouders en omgaan met de veranderingen na de geboorte van een kind.",
       "audience": "Ouders, aanstaande ouders en andere opvoeders in Twente.",
       "access": "Online of op locatie; bekijk de actuele agenda.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Haven Zuidzijde 30",
+      "postcode": "7607EW",
+      "town": "Almelo",
+      "lat": 52.35722016,
+      "lon": 6.6592867,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18886,7 +19031,17 @@
       "description": "Doorlopend aanbod van gratis webinars, bijeenkomsten en cursussen over opvoeden en opgroeien.",
       "audience": "Ouders, aanstaande ouders en andere opvoeders in Twente.",
       "access": "Online of op locatie; bekijk de actuele agenda.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Haven Zuidzijde 30",
+      "postcode": "7607EW",
+      "town": "Almelo",
+      "lat": 52.35722016,
+      "lon": 6.6592867,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18925,7 +19080,17 @@
       "description": "Breed gratis aanbod van trainingen, cursussen, workshops en bijeenkomsten voor inwoners, vrijwilligers en ervaringsdeskundigen.",
       "audience": "Inwoners, vrijwilligers en ervaringsdeskundigen in het werkgebied van Wijkracht.",
       "access": "Rechtstreeks aanmelden bij de Wijkracht Academie.",
-      "costs": "Gratis voor inwoners van de deelnemende gemeenten."
+      "costs": "Gratis voor inwoners van de deelnemende gemeenten.",
+      "address": "Curaçaostraat 10",
+      "postcode": "7556TM",
+      "town": "Hengelo",
+      "lat": 52.27074775,
+      "lon": 6.7819718,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.wijkracht.nl/nieuws/cursus-geheugenactivering-bij-wijkracht-serie-van-8-bijeenkomsten-vanaf-22-september",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18957,7 +19122,17 @@
       "description": "Acht bijeenkomsten met technieken om beter om te gaan met vergeetachtigheid en het geheugen te ondersteunen.",
       "audience": "Inwoners die technieken willen leren om het geheugen te ondersteunen.",
       "access": "Aanmelden via Wijkracht Academie.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Curaçaostraat 10",
+      "postcode": "7556TM",
+      "town": "Hengelo",
+      "lat": 52.27074775,
+      "lon": 6.7819718,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.wijkracht.nl/nieuws/cursus-geheugenactivering-bij-wijkracht-serie-van-8-bijeenkomsten-vanaf-22-september",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -18989,7 +19164,17 @@
       "description": "Training sociale vaardigheden voor kinderen van 7 tot 9 jaar.",
       "audience": "Kinderen/jongeren voor wie de training passend is.",
       "access": "Aanmelden via Wijkracht Academie.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Curaçaostraat 10",
+      "postcode": "7556TM",
+      "town": "Hengelo",
+      "lat": 52.27074775,
+      "lon": 6.7819718,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.wijkracht.nl/nieuws/cursus-geheugenactivering-bij-wijkracht-serie-van-8-bijeenkomsten-vanaf-22-september",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19021,7 +19206,17 @@
       "description": "Training sociale vaardigheden voor kinderen van 9 tot 12 jaar.",
       "audience": "Kinderen/jongeren voor wie de training passend is.",
       "access": "Aanmelden via Wijkracht Academie.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Curaçaostraat 10",
+      "postcode": "7556TM",
+      "town": "Hengelo",
+      "lat": 52.27074775,
+      "lon": 6.7819718,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.wijkracht.nl/nieuws/cursus-geheugenactivering-bij-wijkracht-serie-van-8-bijeenkomsten-vanaf-22-september",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19053,7 +19248,17 @@
       "description": "Training voor kinderen die te maken hebben met een scheiding van hun ouders.",
       "audience": "Kinderen/jongeren voor wie de training passend is.",
       "access": "Aanmelden via Wijkracht Academie.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Curaçaostraat 10",
+      "postcode": "7556TM",
+      "town": "Hengelo",
+      "lat": 52.27074775,
+      "lon": 6.7819718,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.wijkracht.nl/nieuws/cursus-geheugenactivering-bij-wijkracht-serie-van-8-bijeenkomsten-vanaf-22-september",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19089,7 +19294,17 @@
       "description": "Praktische sociale-vaardigheidstraining van tien bijeenkomsten, onder meer geschikt voor mensen die leren door te doen.",
       "audience": "Inwoners voor wie de training passend is.",
       "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Johannaweg 26",
+      "postcode": "7555CR",
+      "town": "Hengelo",
+      "lat": 52.26218618,
+      "lon": 6.77660084,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.wijkrachtacademie.nl/aanbod/item/assertiviteitstraining-volwassenen-18",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19125,7 +19340,17 @@
       "description": "Acht bijeenkomsten waarin deelnemers oefenen met grenzen, communicatie en voor zichzelf opkomen.",
       "audience": "Inwoners voor wie de training passend is.",
       "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Johannaweg 26",
+      "postcode": "7555CR",
+      "town": "Hengelo",
+      "lat": 52.26218618,
+      "lon": 6.77660084,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.wijkrachtacademie.nl/aanbod/item/assertiviteitstraining-volwassenen-18",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19161,7 +19386,17 @@
       "description": "Kindertraining voor kinderen van 4 tot 7 jaar die thuis of in hun omgeving veel spanning of stress ervaren.",
       "audience": "Inwoners voor wie de training passend is.",
       "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Johannaweg 26",
+      "postcode": "7555CR",
+      "town": "Hengelo",
+      "lat": 52.26218618,
+      "lon": 6.77660084,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.wijkrachtacademie.nl/aanbod/item/assertiviteitstraining-volwassenen-18",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19197,7 +19432,17 @@
       "description": "Kindertraining voor kinderen die thuis spanning of stress meemaken of hebben meegemaakt.",
       "audience": "Inwoners voor wie de training passend is.",
       "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Johannaweg 26",
+      "postcode": "7555CR",
+      "town": "Hengelo",
+      "lat": 52.26218618,
+      "lon": 6.77660084,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.wijkrachtacademie.nl/aanbod/item/assertiviteitstraining-volwassenen-18",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19242,7 +19487,17 @@
       "description": "Groepstraining voor vrouwen die geweld in een relatie hebben meegemaakt en willen werken aan herstel en toekomst.",
       "audience": "Inwoners voor wie de training passend is.",
       "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Johannaweg 26",
+      "postcode": "7555CR",
+      "town": "Hengelo",
+      "lat": 52.26218618,
+      "lon": 6.77660084,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.wijkrachtacademie.nl/aanbod/item/assertiviteitstraining-volwassenen-18",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19289,7 +19544,17 @@
       "description": "Voor kinderen van 8-12 jaar met een ouder met psychische en/of verslavingsproblemen.",
       "audience": "Inwoners van Twente voor wie de training passend is.",
       "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
-      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden."
+      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden.",
+      "address": "Broekheurne-ring 1050",
+      "postcode": "7546TA",
+      "town": "Enschede",
+      "lat": 52.19555941,
+      "lon": 6.86191278,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://mediant.nl/contact?layout=blog",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19336,7 +19601,17 @@
       "description": "Voor jongeren van 16-25 jaar met een ouder met psychische en/of verslavingsproblemen.",
       "audience": "Inwoners van Twente voor wie de training passend is.",
       "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
-      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden."
+      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden.",
+      "address": "Broekheurne-ring 1050",
+      "postcode": "7546TA",
+      "town": "Enschede",
+      "lat": 52.19555941,
+      "lon": 6.86191278,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://mediant.nl/contact?layout=blog",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19383,7 +19658,17 @@
       "description": "Voor volwassenen die zijn opgegroeid met een ouder met psychische en/of verslavingsproblemen.",
       "audience": "Inwoners van Twente voor wie de training passend is.",
       "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
-      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden."
+      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden.",
+      "address": "Broekheurne-ring 1050",
+      "postcode": "7546TA",
+      "town": "Enschede",
+      "lat": 52.19555941,
+      "lon": 6.86191278,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://mediant.nl/contact?layout=blog",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19430,7 +19715,17 @@
       "description": "Opvoedondersteuning voor ouders met psychische klachten.",
       "audience": "Inwoners van Twente voor wie de training passend is.",
       "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
-      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden."
+      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden.",
+      "address": "Broekheurne-ring 1050",
+      "postcode": "7546TA",
+      "town": "Enschede",
+      "lat": 52.19555941,
+      "lon": 6.86191278,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://mediant.nl/contact?layout=blog",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19477,7 +19772,17 @@
       "description": "Groep voor kinderen van 9-12 jaar die snel boos worden en anders met problemen willen leren omgaan.",
       "audience": "Inwoners van Twente voor wie de training passend is.",
       "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
-      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden."
+      "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden.",
+      "address": "Broekheurne-ring 1050",
+      "postcode": "7546TA",
+      "town": "Enschede",
+      "lat": 52.19555941,
+      "lon": 6.86191278,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://mediant.nl/contact?layout=blog",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19730,12 +20035,17 @@
       "audience": "Volwassen inwoners van Almelo.",
       "access": "Inloop/inschrijving bij Taalpunt Almelo.",
       "costs": "Taalondersteuning via vrijwilligers is laagdrempelig.",
-      "address": "Het Baken 3",
-      "postcode": "7607AA",
+      "address": "Stadionlaan 60",
+      "postcode": "7606JZ",
       "town": "Almelo",
-      "locationType": "visiting",
-      "locationSource": "https://www.avedan.nl/activiteit/taalpunt-almelo/",
-      "mapPin": true
+      "locationType": "contact",
+      "locationSource": "https://www.avedan.nl/contact/",
+      "mapPin": true,
+      "lat": 52.33927899,
+      "lon": 6.64702943,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19771,12 +20081,17 @@
       "audience": "Jongeren van 16 tot en met 23 jaar in Almelo.",
       "access": "Rechtstreeks aanmelden bij Join Us/Avedan.",
       "costs": "Gratis.",
-      "address": "Jan Tooropstraat 27",
-      "postcode": "7606JS",
+      "address": "Stadionlaan 60",
+      "postcode": "7606JZ",
       "town": "Almelo",
-      "locationType": "visiting",
-      "locationSource": "https://www.avedan.nl/activiteit/joinus/",
-      "mapPin": true
+      "locationType": "contact",
+      "locationSource": "https://www.avedan.nl/contact/",
+      "mapPin": true,
+      "lat": 52.33927899,
+      "lon": 6.64702943,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19811,7 +20126,17 @@
       "description": "Gratis sociale-vaardigheidstraining voor kinderen van 6-9 jaar.",
       "audience": "Kinderen in de betreffende gemeente die baat hebben bij de training.",
       "access": "Rechtstreeks aanmelden bij Avedan; groepen starten bij voldoende deelnemers.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Stadionlaan 60",
+      "postcode": "7606JZ",
+      "town": "Almelo",
+      "lat": 52.33927899,
+      "lon": 6.64702943,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://www.avedan.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19846,7 +20171,17 @@
       "description": "Gratis faalangsttraining van zes bijeenkomsten voor kinderen van 8-12 jaar.",
       "audience": "Kinderen in de betreffende gemeente die baat hebben bij de training.",
       "access": "Rechtstreeks aanmelden bij Avedan; groepen starten bij voldoende deelnemers.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Stadionlaan 60",
+      "postcode": "7606JZ",
+      "town": "Almelo",
+      "lat": 52.33927899,
+      "lon": 6.64702943,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://www.avedan.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19881,7 +20216,17 @@
       "description": "Gratis sociale-vaardigheidstraining voor kinderen van 8-12 jaar.",
       "audience": "Kinderen in de betreffende gemeente die baat hebben bij de training.",
       "access": "Rechtstreeks aanmelden bij Avedan; groepen starten bij voldoende deelnemers.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Stadionlaan 60",
+      "postcode": "7606JZ",
+      "town": "Almelo",
+      "lat": 52.33927899,
+      "lon": 6.64702943,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://www.avedan.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19916,7 +20261,17 @@
       "description": "Gratis sportieve, creatieve, muzikale en leerzame activiteiten voor kinderen, tieners en jongeren in Almelo.",
       "audience": "Kinderen, tieners en jongeren in Almelo.",
       "access": "Bekijk het actuele programma en schrijf waar nodig in.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Stadionlaan 60",
+      "postcode": "7606JZ",
+      "town": "Almelo",
+      "lat": 52.33927899,
+      "lon": 6.64702943,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://www.avedan.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19951,7 +20306,17 @@
       "description": "Bijeenkomsten voor ouders met activiteiten om thuis de ontwikkeling en taal van jonge kinderen te stimuleren.",
       "audience": "Ouders van jonge kinderen bij deelnemende peuteropvang/scholen.",
       "access": "Via de peuteropvang of school in de wijk.",
-      "costs": "Gratis; waar nodig is gratis opvang voor jongere kinderen."
+      "costs": "Gratis; waar nodig is gratis opvang voor jongere kinderen.",
+      "address": "Stadionlaan 60",
+      "postcode": "7606JZ",
+      "town": "Almelo",
+      "lat": 52.33927899,
+      "lon": 6.64702943,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://www.avedan.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -19985,12 +20350,17 @@
       "audience": "Iedereen.",
       "access": "Vrije inloop.",
       "costs": "Gratis.",
-      "address": "Binnenhof 51",
-      "postcode": "7608KH",
+      "address": "Stadionlaan 60",
+      "postcode": "7606JZ",
       "town": "Almelo",
-      "locationType": "visiting",
-      "locationSource": "https://www.avedan.nl/activiteit/voor-bijna-al-uw-vragen-de-inloop-schelfhorst/",
-      "mapPin": true
+      "locationType": "contact",
+      "locationSource": "https://www.avedan.nl/contact/",
+      "mapPin": true,
+      "lat": 52.33927899,
+      "lon": 6.64702943,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20023,7 +20393,17 @@
       "description": "Kosteloze training van acht bijeenkomsten over grenzen aangeven, omgaan met kritiek en voor jezelf opkomen.",
       "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
       "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
-      "costs": "Gratis/kosteloos volgens de bron."
+      "costs": "Gratis/kosteloos volgens de bron.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20056,7 +20436,17 @@
       "description": "Kosteloze training sociale vaardigheden voor kinderen en jongeren met verschillende leeftijdsgroepen.",
       "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
       "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
-      "costs": "Gratis/kosteloos volgens de bron."
+      "costs": "Gratis/kosteloos volgens de bron.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20089,7 +20479,17 @@
       "description": "Gratis één-op-één taalcoaching om Nederlands spreken, lezen of schrijven te oefenen.",
       "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
       "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
-      "costs": "Gratis/kosteloos volgens de bron."
+      "costs": "Gratis/kosteloos volgens de bron.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20122,7 +20522,17 @@
       "description": "Hulp bij brieven, formulieren, toeslagen, pensioen en DigiD; met gratis IDO/Oefenplein in Bibliotheek Goor.",
       "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
       "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
-      "costs": "Gratis/kosteloos volgens de bron."
+      "costs": "Gratis/kosteloos volgens de bron.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20155,7 +20565,17 @@
       "description": "Vrijwillige hulp thuis om administratie te ordenen, regelingen aan te vragen en grip te krijgen op geldzaken.",
       "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
       "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
-      "costs": "Gratis/kosteloos volgens de bron."
+      "costs": "Gratis/kosteloos volgens de bron.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20188,7 +20608,17 @@
       "description": "Maatje voor zelfstandig wonende inwoners die niet makkelijk aan groepsactiviteiten kunnen deelnemen.",
       "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
       "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
-      "costs": "Geen gemeentelijke indicatie nodig; vraag Salut naar eventuele kosten."
+      "costs": "Geen gemeentelijke indicatie nodig; vraag Salut naar eventuele kosten.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20221,7 +20651,17 @@
       "description": "Kosteloos advies over onder meer werk, inkomen, uitkeringen, wonen, scheiding, belastingen en schulden.",
       "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
       "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
-      "costs": "Gratis/kosteloos volgens de bron."
+      "costs": "Gratis/kosteloos volgens de bron.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20254,7 +20694,17 @@
       "description": "Gratis ontmoetings- en informatieavond voor mensen met dementie, naasten en geïnteresseerden.",
       "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
       "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
-      "costs": "Gratis/kosteloos volgens de bron."
+      "costs": "Gratis/kosteloos volgens de bron.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20295,7 +20745,12 @@
       "town": "Delden",
       "locationType": "service",
       "locationSource": "https://www.hofactief.nl/activiteiten/dagontmoeting-t-kruispunt/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.2589667,
+      "lon": 6.69508485,
+      "locationMunicipality": "Hof van Twente",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20328,7 +20783,17 @@
       "description": "Hulp bij Nederlands spreken, lezen en schrijven, digitale vaardigheden en onder meer DigiD.",
       "audience": "Inwoners van de gemeente Losser.",
       "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
-      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit."
+      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20361,7 +20826,17 @@
       "description": "Eén-op-één taalondersteuning en hulp bij het vinden van passende taallessen of oefenen voor inburgering.",
       "audience": "Inwoners van de gemeente Losser.",
       "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
-      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit."
+      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20394,7 +20869,17 @@
       "description": "Vrijwilligers vervoeren minder mobiele inwoners tegen een kleine onkostenvergoeding.",
       "audience": "Inwoners van de gemeente Losser.",
       "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
-      "costs": "Kleine onkostenvergoeding per rit."
+      "costs": "Kleine onkostenvergoeding per rit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20427,7 +20912,17 @@
       "description": "Trainingen en cursussen voor vrijwilligers via LosserDoet en Fundament.",
       "audience": "Inwoners van de gemeente Losser.",
       "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
-      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit."
+      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20460,7 +20955,17 @@
       "description": "Laagdrempelige ontmoetingsplek voor ouderen en mantelzorgers.",
       "audience": "Inwoners van de gemeente Losser.",
       "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
-      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit."
+      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20493,7 +20998,17 @@
       "description": "Inloop voor vragen over tablet, smartphone, laptop en digitale zaken.",
       "audience": "Inwoners van de gemeente Losser.",
       "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
-      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit."
+      "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20530,9 +21045,14 @@
       "address": "Raadhuisplein 1",
       "postcode": "7581AG",
       "town": "Losser",
-      "locationType": "visiting",
-      "locationSource": "https://www.fundamentlosser.nl/ondersteuning/taalpunt-losser/",
-      "mapPin": true
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapPin": true,
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20567,12 +21087,17 @@
       "audience": "Inwoners van Oldenzaal.",
       "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
       "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
-      "address": "Vondellaan 12",
-      "postcode": "",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
       "town": "Oldenzaal",
-      "locationType": "service",
-      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
-      "mapPin": true
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapPin": true,
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20607,12 +21132,17 @@
       "audience": "Inwoners van Oldenzaal.",
       "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
       "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
-      "address": "Burg. Wallerstraat 115",
-      "postcode": "",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
       "town": "Oldenzaal",
-      "locationType": "service",
-      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
-      "mapPin": true
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapPin": true,
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20647,12 +21177,17 @@
       "audience": "Inwoners van Oldenzaal.",
       "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
       "costs": "Laagdrempelig; controleer eventuele bijdrage.",
-      "address": "In den Vijfhoek 75",
-      "postcode": "",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
       "town": "Oldenzaal",
-      "locationType": "service",
-      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
-      "mapPin": true
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapPin": true,
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20687,12 +21222,17 @@
       "audience": "Inwoners van Oldenzaal.",
       "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
       "costs": "Laagdrempelig; controleer eventuele bijdrage.",
-      "address": "Burg. Wallerstraat 115",
-      "postcode": "",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
       "town": "Oldenzaal",
-      "locationType": "service",
-      "locationSource": "https://www.impuls-oldenzaal.nl/wat-we-doen/meedoen-en-ontmoeten/",
-      "mapPin": true
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapPin": true,
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20728,11 +21268,16 @@
       "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
       "costs": "Laagdrempelig; controleer eventuele bijdrage.",
       "address": "Wilhelminastraat 5",
-      "postcode": "",
+      "postcode": "7571CE",
       "town": "Oldenzaal",
-      "locationType": "service",
-      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
-      "mapPin": true
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapPin": true,
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20767,7 +21312,17 @@
       "description": "Welzijnsactiviteiten op Scholtenhof en Mariahof, zoals bewegen, spel, creativiteit en uitstapjes; deelname aan welzijnsactiviteiten kan zonder indicatie.",
       "audience": "Inwoners die willen deelnemen aan welzijnsactiviteiten.",
       "access": "Voor welzijnsactiviteiten is geen indicatie nodig; voor formele dagbesteding wel.",
-      "costs": "Afhankelijk van de activiteit kan een eigen bijdrage gelden."
+      "costs": "Afhankelijk van de activiteit kan een eigen bijdrage gelden.",
+      "address": "Fonteinstraat 55-A001",
+      "postcode": "7573CG",
+      "town": "Oldenzaal",
+      "lat": 52.31367472,
+      "lon": 6.93868339,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "source-address",
+      "locationSource": "https://zorgfederatieoldenzaal.nl/diensten/dagbesteding/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20803,12 +21358,17 @@
       "audience": "Senioren die behoefte hebben aan gezelschap en een zinvolle daginvulling.",
       "access": "Aanmelden kan bij het Seniorenkabinet/SWTD.",
       "costs": "€15 voor een hele dag inclusief maaltijd volgens de bron.",
-      "address": "Rouweweg 14",
-      "postcode": "",
-      "town": "Langeveen",
-      "locationType": "service",
-      "locationSource": "https://swtd.nl/events/seniorenkabinet-2/var/ri-107.l-L1/",
-      "mapPin": true
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "town": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapPin": true,
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20843,12 +21403,17 @@
       "audience": "Oudere inwoners van Dinkelland.",
       "access": "Vrije inloop.",
       "costs": "Gratis; consumpties voor eigen rekening.",
-      "address": "Oranjestraat 21",
-      "postcode": "",
-      "town": "Denekamp",
-      "locationType": "visiting",
-      "locationSource": "https://swtd.nl/events/inloop-veur-mekaar/var/ri-106.l-L1/",
-      "mapPin": true
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "town": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapPin": true,
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20884,12 +21449,17 @@
       "audience": "Senioren uit Dinkelland die behoefte hebben aan gezelligheid, structuur of ondersteuning.",
       "access": "Neem contact op voor actuele dagen en deelname.",
       "costs": "Eigen bijdrage per dagdeel volgens de actuele bron.",
-      "address": "Kerkweg 5-7",
-      "postcode": "7634PL",
-      "town": "Tilligte",
-      "locationType": "service",
-      "locationSource": "https://swtd.nl/agenda-oud/",
-      "mapPin": true
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "town": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapPin": true,
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20924,7 +21494,17 @@
       "description": "Beweeg- en ontmoetingsprogramma voor 65-plussers met aandacht voor balans en een gezamenlijke lunch.",
       "audience": "Inwoners van Twenterand van 65 jaar en ouder.",
       "access": "Aanmelden via ZorgSaam Twenterand.",
-      "costs": "€5 per keer, voornamelijk voor de lunch, volgens de bron."
+      "costs": "€5 per keer, voornamelijk voor de lunch, volgens de bron.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20959,12 +21539,17 @@
       "audience": "Inwoners van Twenterand.",
       "access": "Zonder afspraak binnenlopen op de aangegeven spreekuren.",
       "costs": "Gratis hulp.",
-      "address": "Manitobaplein 1",
-      "postcode": "7671GS",
-      "town": "Vriezenveen",
-      "locationType": "visiting",
-      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/hulp-bij-formulieren/",
-      "mapPin": true
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapPin": true,
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -20999,12 +21584,17 @@
       "audience": "Inwoners van Twenterand.",
       "access": "Zonder afspraak binnenlopen op de aangegeven spreekuren.",
       "costs": "Gratis hulp.",
-      "address": "Oranjeplein 7H",
-      "postcode": "",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
       "town": "Vroomshoop",
-      "locationType": "visiting",
-      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/hulp-bij-formulieren/",
-      "mapPin": true
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapPin": true,
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     }
   ],
   "sources": [
