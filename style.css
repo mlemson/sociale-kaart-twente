@@ -297,8 +297,7 @@ h1 em {
 
 h2 {
     font-size: 19px;
-    letter-spacing: -.3px;
-    margin: 0;
+    letter-spacing: -.3px;    margin: 0;
     color: var(--primary)
 }
 
@@ -597,8 +596,7 @@ select {
 }
 
 .map-context span {
-    font-size: 11px;
-    color: #7a767a
+    font-size: 11px;    color: #7a767a
 }
 
 .map-switch {
@@ -897,8 +895,7 @@ dialog .dialog-close {
     right: 16px;
     top: 12px;
     border: 0;
-    background: none;
-    font-size: 28px
+    background: none;    font-size: 28px
 }
 
 .source-links {
@@ -998,6 +995,553 @@ body[data-theme=online] .brand-symbol {
 body[data-theme=gemeente] {
     --primary: #253c4c;
     --accent: #d52336;
+    --tint: #fbeff0;
+    --ink: #233948;
+    --mapfill: #e6dddd;
+    --headline: Arial,sans-serif;
+    --radius: 3px;
+    background: #f8f9fa
+}
+
+body[data-theme=gemeente] .site-header {
+    border-top: 5px solid var(--accent)
+}
+
+body[data-theme=gemeente] h1 {
+    font-weight: 700;
+    font-size: 37px
+}
+
+body[data-theme=gemeente] .brand-symbol {
+    font-family: Arial;
+    font-size: 36px;
+    letter-spacing: -3px;
+    background: #d52336;
+    color: white;
+    padding: 10px 13px 10px 10px
+}
+
+body[data-theme=gemeente] .intro em {
+    color: var(--primary)
+}
+
+body[data-theme=gemeente] .topics button,body[data-theme=gemeente] select,body[data-theme=gemeente] .searchbox {
+    border-radius: 3px
+}
+
+body[data-theme=gemeente] .eyebrow {
+    color: #637380
+}
+
+body[data-theme=wijkwijzer] {
+    --primary: #326052;
+    --accent: #d16e27;
+    --tint: #fff3e6;
+    --ink: #345449;
+    --mapfill: #dce8dc;
+    --headline: 'DM Sans',sans-serif;
+    --radius: 25px;
+    background: #fffcf6
+}
+
+body[data-theme=wijkwijzer] h1 {
+    font-weight: 700;
+    font-size: 39px
+}
+
+body[data-theme=wijkwijzer] .brand-symbol {
+    font-family: Arial;
+    font-size: 40px;
+    letter-spacing: -2px
+}
+
+body[data-theme=wijkwijzer] .site-header {
+    background: #fffdf8
+}
+
+body[data-theme=wijkwijzer] .intro {
+    padding-block:33px}
+
+body[data-theme=wijkwijzer] .topics button {
+    padding: 9px 12px
+}
+
+body[data-theme=wijkwijzer] .category-icon {
+    border-radius: 50%;
+    background: #edf4e8;
+    color: #53734c
+}
+
+@media(min-width: 1600px) {
+    .workspace {
+        grid-template-columns:370px 1fr
+    }
+
+    body[data-theme=online] .workspace {
+        grid-template-columns: 1fr 370px
+    }
+
+    .filter-area {
+        padding-inline:28px}
+
+    .topics button {
+        font-size: 13px
+    }
+
+    .result-title {
+        font-size: 15px
+    }
+
+    .map-helper {
+        font-size: 12px
+    }
+}
+
+@media(max-width: 1200px) {
+    .design-label {
+        display:none
+    }
+
+    .concept-label {
+        display: none
+    }
+
+    .design-bar {
+        justify-content: center
+    }
+
+    .site-header {
+        gap: 30px;
+        padding-inline:25px}
+
+    .header-note {
+        display: none
+    }
+
+    main {
+        padding-inline:23px}
+
+    .map-helper {
+        display: none
+    }
+
+    .map-context span {
+        display: none
+    }
+
+    .map-context strong {
+        font-size: 16px
+    }
+
+    .map-switch {
+        top: 70px;
+        left: 20px;
+        right: auto
+    }
+
+    .workspace {
+        grid-template-columns: 310px 1fr
+    }
+
+    body[data-theme=online] .workspace {
+        grid-template-columns: 1fr 310px
+    }
+
+    .map-top {
+        gap: 10px
+    }
+
+    .intro-copy {
+        max-width: 650px;
+        line-height: 1.6
+    }
+}
+
+@media(max-width: 760px) {
+    .design-bar {
+        padding:7px 8px;
+        min-height: 44px;
+        overflow: auto;
+        justify-content: flex-start
+    }
+
+    .design-options {
+        justify-content: flex-start;
+        gap: 2px
+    }
+
+    .design-options button {
+        font-size: 11px;
+        padding: 8px 9px
+    }
+
+    .design-options i {
+        width: 6px;
+        height: 6px;
+        margin-right: 5px
+    }
+
+    .site-header {
+        height: 74px;
+        padding: 0 18px;
+        gap: 15px
+    }
+
+    .wordmark {
+        font-size: 20px;
+        min-width: 0;
+        gap: 7px
+    }
+
+    .brand-symbol {
+        font-size: 42px    }
+
+    .brand-sub {
+        font-size: 8px
+    }
+
+    .site-header nav {
+        margin-left: auto;
+        gap: 15px
+    }
+
+    .site-header nav button {
+        font-size: 11px
+    }
+
+    .site-header nav #nav-map {
+        display: none
+    }
+
+    main {
+        padding: 0 12px
+    }
+
+    .intro {
+        padding: 24px 7px 21px
+    }
+
+    .intro h1,body[data-theme] .intro h1 {
+        font-size: 29px;
+        line-height: 1.2;
+        letter-spacing: -.8px
+    }
+
+    .eyebrow {
+        font-size: 10px
+    }
+
+    .intro-copy {
+        font-size: 12px;
+        margin-top: 10px
+    }
+
+    .region-stat {
+        display: none
+    }
+
+    .workspace,body[data-theme=online] .workspace {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        overflow: visible;
+        border-radius: 14px
+    }
+
+    .map-panel,body[data-theme=online] .map-panel {
+        height: 480px;
+        min-height: 480px;
+        order: 0;
+        border-radius: 14px 14px 0 0;
+        overflow: hidden
+    }
+
+    .sidebar,body[data-theme=online] .sidebar {
+        order: 1;
+        border: 0;
+        border-top: 1px solid var(--border);
+        border-radius: 0 0 14px 14px;
+        overflow: visible
+    }
+
+    .filter-area {
+        padding: 20px 20px 0
+    }
+
+    .sidebar-heading {
+        margin-bottom: 15px
+    }
+
+    .topics {
+        gap: 8px
+    }
+
+    .topics button {
+        font-size: 13px
+    }
+
+    .field-label {
+        font-size: 13px
+    }
+
+    .searchbox input {
+        font-size: 14px
+    }
+
+    select {
+        font-size: 16px
+    }
+
+    .searchbox {
+        padding: 13px
+    }
+
+    .nearby {
+        font-size: 13px
+    }
+
+    .results {
+        max-height: 370px;
+        min-height: 80px;
+        padding: 0 12px
+    }
+
+    .result-title {
+        font-size: 15px
+    }
+
+    .result-address {
+        font-size: 13px
+    }
+
+    .result-tag {
+        font-size: 11px
+    }
+
+    .coverage-note p,.coverage-note button {
+        font-size: 12px
+    }
+
+    .map-top {
+        top: 14px;
+        left: 13px
+    }
+
+    .map-switch {
+        top: 65px;
+        left: 13px
+    }
+
+    .map-top strong {
+        font-size: 14px
+    }
+
+    .map-back {
+        font-size: 11px;
+        padding: 11px
+    }
+
+    .map-bottom {
+        left: 12px;
+        right: 12px;
+        bottom: 25px
+    }
+
+    .map-legend {
+        font-size: 9px;
+        padding: 8px
+    }
+
+    .municipal-label {
+        font-size: 10px
+    }
+
+    .cluster-button {
+        width: 29px;
+        height: 29px;
+        font-size: 11px
+    }
+
+    .detail-card {
+        bottom: 58px;
+        left: 12px;
+        right: 12px;
+        max-width: none;
+        width: auto;
+        padding: 17px
+    }
+
+    .detail-card h2 {
+        font-size: 19px;
+        margin-top: 8px
+    }
+
+    .detail-card p {
+        font-size: 12px;
+        margin-block:8px}
+
+    .detail-card .detail-address {
+        padding-block:8px}
+
+    .detail-card .meta {
+        font-size: 10px
+    }
+
+    footer {
+        font-size: 10px;
+        gap: 12px;
+        line-height: 1.5;
+        padding: 14px 5px
+    }
+
+    dialog {
+        padding: 27px 22px
+    }
+
+    .source-links {
+        grid-template-columns: 1fr
+    }
+
+    body[data-theme=gemeente] .brand-symbol {
+        font-size: 23px;
+        padding: 10px
+    }
+
+    .leaflet-control-scale {
+        display: none
+    }
+}
+
+@media(prefers-reduced-motion:reduce) {
+    * {
+        scroll-behavior: auto!important;
+        transition: none!important
+    }
+}
+
+/* Readable working controls across all four themes. */
+.intro-copy {
+    font-size: 16px
+}
+
+.field-label,.searchbox input,.topics button,.nearby {
+    font-size: 14px
+}
+
+.result-title {
+    font-size: 16px
+}
+
+.result-address {
+    font-size: 14px
+}
+
+.result-tag {
+    font-size: 12px
+}
+
+.results-heading>span {
+    font-size: 12px
+}
+
+.coverage-note p,.coverage-note button {
+    font-size: 12px
+}
+
+.design-options button {
+    font-size: 14px
+}
+
+.detail-card p {
+    font-size: 14px
+}
+
+.detail-links a {
+    font-size: 14px
+}
+
+.detail-card .detail-address {
+    font-size: 14px
+}
+
+.map-context span,.map-back,.map-switch button {
+    font-size: 12px
+}
+
+.topics button {
+    padding: 7px 9px
+}
+
+.sidebar-heading {
+    margin-bottom: 14px
+}
+
+.topic-label {
+    margin-top: 16px
+}
+
+.nearby {
+    padding-block:14px}
+
+.results {
+    min-height: 140px
+}
+
+.filter-area {
+    padding-top: 20px
+}
+
+body[data-theme=wijkwijzer] .topics button {
+    padding: 7px 9px
+}
+@media(max-width: 760px) {
+    .design-options button {
+        font-size:12px
+    }
+
+    .intro-copy {
+        font-size: 14px
+    }
+
+    .intro {
+        padding-block:23px}
+
+    .workspace {
+        height: auto
+    }
+
+    .sidebar {
+        min-height: 600px
+    }
+
+    .results {
+        max-height: 450px
+    }
+
+    .map-context span {
+        display: none
+    }
+}
+
+.site-header nav {
+    flex-wrap: wrap
+}
+
+.site-header nav a {
+    font-size: 14px;
+    text-decoration: none;
+    color: var(--primary);
+    padding: 8px
+}
+
+.detail-extra {
+    font-size: 14px
+}
+
+.detail-card {
+    max-height: calc(100% - 120px);
+    overflow: auto
+}
 
 /* V10 · rustigere en logisch gegroepeerde hoofdnavigatie */
 .site-header {
