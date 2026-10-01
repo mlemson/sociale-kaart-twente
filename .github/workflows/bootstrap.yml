@@ -16,7 +16,15 @@ jobs:
       - uses: actions/checkout@v4
       - name: Project herstellen uit tijdelijke delen
         run: |
-          cat site-core.tar.xz.b64.part* | base64 --decode > site-core.tar.xz
+          python - <<'PY'
+          import base64, glob, pathlib, re
+          parts = sorted(glob.glob("site-core.tar.xz.b64.part*"))
+          encoded = "".join(pathlib.Path(p).read_text(encoding="utf-8") for p in parts)
+          encoded = re.sub(r"\s+", "", encoded)
+          encoded += "=" * (-len(encoded) % 4)
+          pathlib.Path("site-core.tar.xz").write_bytes(base64.b64decode(encoded, validate=True))
+          print(f"Hersteld uit {len(parts)} delen ({len(encoded)} base64-tekens)")
+          PY
           tar -xJf site-core.tar.xz
           rm -f site-core.tar.xz site-core.ready site-core.tar.xz.b64.part*
           rm -f .github/workflows/bootstrap.yml
