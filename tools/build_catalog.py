@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Bouw publieke kaartdata, organisatiecatalogus en een kleine uitzonderingenlijst."""
 from __future__ import annotations
-import json, re, shutil
+import json, re, shutil, unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -40,7 +40,9 @@ def stable_id(text):
     for ch in text:
         h ^= ord(ch)
         h = (h * 16777619) & 0xffffffff
-    base = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")[:46] or "organisatie"
+    normalized = unicodedata.normalize("NFD", text.lower())
+    normalized = "".join(ch for ch in normalized if unicodedata.category(ch) != "Mn")
+    base = re.sub(r"[^a-z0-9]+", "-", normalized).strip("-")[:46] or "organisatie"
     alphabet = "0123456789abcdefghijklmnopqrstuvwxyz"
     n = h
     tail = "0" if n == 0 else ""
