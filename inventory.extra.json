@@ -78,6 +78,126 @@
       "municipalities": [
         "Hengelo"
       ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/creatieve-club/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/keerls-proat/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/agenda/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Sociaal, dat werkt!",
+      "url": "https://swtd.nl/",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/jongerencentrum-hole-10-3-548-922-720/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/taalcafe-holten-336-292/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/buurthuiskamer-oude-plus/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/wandelgroep-923-544/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/wandelgroep/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/buurtband-repetitie-287/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/wereldse-vrouwen/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/fietslessen-voor-statushouders/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
     }
   ],
   "candidates": [
@@ -1281,11 +1401,1378 @@
       "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-de-creatieve-club-vroomshoop",
+      "name": "ZorgSaam Twenterand · De Creatieve Club Vroomshoop",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/creatieve-club/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Wekelijkse creatieve club met onder meer breien, haken, tekenen en diamond painting.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "",
+      "town": "Vroomshoop",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/creatieve-club/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-keerls-proat-vriezenveen",
+      "name": "ZorgSaam Twenterand · Keerls Proat Vriezenveen",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/keerls-proat/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Wekelijkse ontmoetingsmiddag voor mannen met biljart, spel, koffie en gesprekken.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
+      "address": "Westeinde 6",
+      "postcode": "",
+      "town": "Vriezenveen",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/keerls-proat/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-ontmoetingscentrum-vriezenveen",
+      "name": "ZorgSaam Twenterand · Ontmoetingscentrum Vriezenveen",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "mantelzorg",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Gratis ontmoetingscentrum voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Gratis.",
+      "address": "Schout Doddestraat 46B",
+      "postcode": "",
+      "town": "Vriezenveen",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-ontmoetingscentrum-den-ham",
+      "name": "ZorgSaam Twenterand · Ontmoetingscentrum Den Ham",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "mantelzorg",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Gratis ontmoetingscentrum voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Gratis.",
+      "address": "Slingerweg 3",
+      "postcode": "",
+      "town": "Den Ham",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-buurthuiskamer-vroomshoop",
+      "name": "ZorgSaam Twenterand · Buurthuiskamer Vroomshoop",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Gratis wekelijkse buurthuiskamer voor ontmoeting en praktische vragen.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Gratis.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "",
+      "town": "Vroomshoop",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-buurthuiskamer-westerhaar",
+      "name": "ZorgSaam Twenterand · Buurthuiskamer Westerhaar",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Gratis wekelijkse buurthuiskamer voor ontmoeting en praktische vragen.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Gratis.",
+      "address": "Beeklaan 1",
+      "postcode": "",
+      "town": "Westerhaar-Vriezenveensewijk",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-buurthuiskamer-vriezenveen",
+      "name": "ZorgSaam Twenterand · Buurthuiskamer Vriezenveen",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Gratis wekelijkse buurthuiskamer voor ontmoeting en praktische vragen.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Gratis.",
+      "address": "Schout Doddestraat 46A",
+      "postcode": "",
+      "town": "Vriezenveen",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-eetmee-westerhaar",
+      "name": "ZorgSaam Twenterand · EetMee Westerhaar",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "€7 per maaltijd volgens de actuele bron.",
+      "address": "Beeklaan 1",
+      "postcode": "",
+      "town": "Westerhaar-Vriezenveensewijk",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-eetmee-den-ham",
+      "name": "ZorgSaam Twenterand · EetMee Den Ham",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "€7 per maaltijd volgens de actuele bron.",
+      "address": "Ommerweg 1",
+      "postcode": "",
+      "town": "Den Ham",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-eetmee-vroomshoop",
+      "name": "ZorgSaam Twenterand · EetMee Vroomshoop",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "€7 per maaltijd volgens de actuele bron.",
+      "address": "Burgemeester Koetjestraat 4",
+      "postcode": "",
+      "town": "Vroomshoop",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-eetmee-vriezenveen",
+      "name": "ZorgSaam Twenterand · EetMee Vriezenveen",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "€7 per maaltijd volgens de actuele bron.",
+      "address": "Westeinde 342",
+      "postcode": "",
+      "town": "Vriezenveen",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-koffiekamer",
+      "name": "ZorgSaam Twenterand · Koffiekamer",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige ontmoetingsplek voor een praatje en afleiding.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-instuif",
+      "name": "ZorgSaam Twenterand · Instuif",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Vrijblijvende ontmoeting voor senioren met een wisselend programma.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-kakelklup",
+      "name": "ZorgSaam Twenterand · Kakelklup",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Gezellige club voor mensen met een verstandelijke beperking.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-fietsclub",
+      "name": "ZorgSaam Twenterand · Fietsclub",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "bewegen",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Wekelijks samen fietsen in een gemoedelijke sfeer.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-keep-fit",
+      "name": "ZorgSaam Twenterand · Keep Fit",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "bewegen",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Beweegactiviteit voor senioren met aandacht voor fit blijven en ontmoeting.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-impuls-huiskamer-de-thij-koffieplus",
+      "name": "Impuls · Huiskamer De Thij / KoffiePlus",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "creatief"
+      ],
+      "description": "Terugkerende huiskamer en koffie-inloop om buurtgenoten te ontmoeten en creatief bezig te zijn.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Vrije inloop volgens de actuele agenda.",
+      "costs": "Laagdrempelig; controleer eventuele materiaal- of consumptiekosten.",
+      "address": "Willem Dingeldeinstraat 53",
+      "postcode": "",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-impuls-zaterdaginloop-aveleijn-impuls",
+      "name": "Impuls · Zaterdaginloop Aveleijn-Impuls",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "creatief"
+      ],
+      "description": "Tweewekelijkse zaterdaginloop voor mensen die anderen willen ontmoeten en zich minder thuis voelen bij grote groepen.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Vrije inloop volgens de actuele agenda.",
+      "costs": "Laagdrempelig; controleer eventuele materiaal- of consumptiekosten.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-impuls-laplab",
+      "name": "Impuls · Laplab",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "creatief"
+      ],
+      "description": "Wekelijkse creatieve inloopruimte voor textiel en duurzame projecten.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Vrije inloop volgens de actuele agenda.",
+      "costs": "Laagdrempelig; controleer eventuele materiaal- of consumptiekosten.",
+      "address": "Nijverheidsstraat 97",
+      "postcode": "",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-inloop-ochtend-eschede",
+      "name": "Sociaal, dat werkt! · Inloop ochtend Eschede",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Huiskamer/inloopochtend voor ontmoeting in Tubbergen.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-sociaal-inloopcaf-ootmarsum",
+      "name": "Sociaal, dat werkt! · Sociaal inloopcafé Ootmarsum",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Terugkerend sociaal inloopcafé in Ootmarsum.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-open-eettafel-weerselo",
+      "name": "Sociaal, dat werkt! · Open Eettafel Weerselo",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Terugkerende gezamenlijke eettafel en ontmoeting in Weerselo.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-open-eettafel-geesteren",
+      "name": "Sociaal, dat werkt! · Open Eettafel Geesteren",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Terugkerende gezamenlijke eettafel en ontmoeting in Geesteren.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-crea-club",
+      "name": "Sociaal, dat werkt! · Crea Club",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Terugkerende creatieve club voor ontmoeting en samen bezig zijn.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-soek",
+      "name": "Sociaal, dat werkt! · SOEK",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Terugkerend sociaal aanbod voor oudere inwoners.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-tuin-en-klushulp",
+      "name": "Sociaal, dat werkt! · Tuin- en Klushulp",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "advies",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Vrijwillige praktische hulp bij kleine tuin- en klussen.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-opfriscursus-auto",
+      "name": "Sociaal, dat werkt! · Opfriscursus auto",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "advies",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Opfriscursus voor oudere automobilisten rond verkeerskennis en rijvaardigheid.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-voorliggende-dagvoorziening-de-paraplu",
+      "name": "ViaVie Welzijn · Voorliggende dagvoorziening De Paraplu",
+      "source": "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Voorliggende daginvulling met ontmoeting, koken, creativiteit en bewegen; bedoeld voor mensen die zichzelf lichamelijk kunnen verzorgen.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer de actuele bijdrage.",
+      "address": "Brandlicht 3",
+      "postcode": "",
+      "town": "Rijssen",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-voorliggende-dagvoorziening-holten-hole-10",
+      "name": "ViaVie Welzijn · Voorliggende dagvoorziening Holten / Hole-10",
+      "source": "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Voorliggende daginvulling met ontmoeting en activiteiten in Holten.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer de actuele bijdrage.",
+      "address": "Tuinstraat 2",
+      "postcode": "7451EX",
+      "town": "Holten",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-jongerencentrum-hole-10",
+      "name": "ViaVie Welzijn · Jongerencentrum Hole-10",
+      "source": "https://viaviewelzijn.nl/events/jongerencentrum-hole-10-3-548-922-720/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "jeugd",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Vrije inloop en activiteiten voor jongeren, met jongerenwerkers als luisterend oor.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer de actuele bijdrage.",
+      "address": "Tuinstraat 2",
+      "postcode": "7451EX",
+      "town": "Holten",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/jongerencentrum-hole-10-3-548-922-720/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-taalcaf-holten",
+      "name": "ViaVie Welzijn · Taalcafé Holten",
+      "source": "https://viaviewelzijn.nl/events/taalcafe-holten-336-292/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "taal",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Terugkerend taalcafé om Nederlands spreken in een ontspannen sfeer te oefenen.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer de actuele bijdrage.",
+      "address": "Tuinstraat 2",
+      "postcode": "7451EX",
+      "town": "Holten",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-336-292/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-buurthuiskamer-oude-plus",
+      "name": "ViaVie Welzijn · Buurthuiskamer Oude Plus",
+      "source": "https://viaviewelzijn.nl/events/buurthuiskamer-oude-plus/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Maandelijkse buurthuiskamer voor oudere buurtbewoners met koffie, activiteiten en lunch.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "€6 volgens de actuele agenda.",
+      "address": "Roelf Bosmastraat 47",
+      "postcode": "7462MZ",
+      "town": "Rijssen",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/buurthuiskamer-oude-plus/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-wandelgroep-rijssen",
+      "name": "ViaVie Welzijn · Wandelgroep Rijssen",
+      "source": "https://viaviewelzijn.nl/events/wandelgroep-923-544/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "bewegen",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Gratis wekelijkse wandelgroep.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Gratis.",
+      "address": "Arend Baanstraat 105",
+      "postcode": "7461DT",
+      "town": "Rijssen",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/wandelgroep-923-544/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-wandelgroep-holten",
+      "name": "ViaVie Welzijn · Wandelgroep Holten",
+      "source": "https://viaviewelzijn.nl/events/wandelgroep/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "bewegen",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Gratis rustige wandelgroep; aanmelden is niet nodig.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Gratis.",
+      "address": "Boschkampstraat 6",
+      "postcode": "7451GC",
+      "town": "Holten",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/wandelgroep/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-buurtband",
+      "name": "ViaVie Welzijn · BuurtBand",
+      "source": "https://viaviewelzijn.nl/events/buurtband-repetitie-287/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Gratis muziekproject waar inwoners met laagdrempelige instrumenten kunnen meespelen.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Gratis.",
+      "address": "Johannes Vermeerstraat 8",
+      "postcode": "7462BN",
+      "town": "Rijssen",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/buurtband-repetitie-287/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-wereldse-vrouwen-rijssen",
+      "name": "ViaVie Welzijn · Wereldse Vrouwen Rijssen",
+      "source": "https://viaviewelzijn.nl/events/wereldse-vrouwen/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Terugkerende vrouwenontmoeting gericht op sociale contacten, zelfvertrouwen en samen activiteiten doen.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer de actuele bijdrage.",
+      "address": "Johannes Vermeerstraat 8",
+      "postcode": "7462BN",
+      "town": "Rijssen",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/wereldse-vrouwen/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-fietslessen-statushouders-holten",
+      "name": "ViaVie Welzijn · Fietslessen statushouders Holten",
+      "source": "https://viaviewelzijn.nl/events/fietslessen-voor-statushouders/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "bewegen",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Gratis reeks fietslessen voor statushouders om zelfstandig en veilig te leren fietsen.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Gratis.",
+      "address": "Aaltinksweg 1b",
+      "postcode": "7451DX",
+      "town": "Holten",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/fietslessen-voor-statushouders/",
+      "mapPin": true
     }
   ],
   "addressEnrichmentVersion": 1,
   "addressEnrichedAt": "2026-10-01",
   "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin.",
-  "contentExpansionVersion": 3,
-  "note": "Verdiepingslaag met concrete terugkerende inlopen, trainingen, daginvulling en wijklocaties."
+  "contentExpansionVersion": 4,
+  "note": "Verdiepingslaag met concrete terugkerende inlopen, trainingen, daginvulling, buurthuiskamers en wijklocaties."
 }
