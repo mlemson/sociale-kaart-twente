@@ -620,6 +620,85 @@
     "primarySource": "https://www.alifa.nl/voedselbank-kledingbank-fonds-bijzondere-noden/"
   },
   {
+    "id": "org-almelo-doe-t-mee-1hgn41j",
+    "organization": "Almelo Doe(t) Mee",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "bewegen",
+      "geld",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://almelodoetmee.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-almelo-doet-mee",
+        "title": "Almelo Doe(t) Mee",
+        "name": "Almelo Doe(t) Mee",
+        "description": "Geeft inwoners met weinig geld vouchers om mee te doen aan sport, kunst, cultuur, lessen en andere groepsactiviteiten.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "geld",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur",
+          "recreatie"
+        ],
+        "tags": [
+          "bewegen",
+          "geld",
+          "sport",
+          "cultuur",
+          "meedoen"
+        ],
+        "audience": "Volwassen inwoners van Almelo met weinig financiële ruimte.",
+        "costs": "Bij een goedgekeurde aanvraag wordt een voucher voor een passende activiteit verstrekt.",
+        "access": "Kom langs bij Almelo Doe(t) Mee met de benodigde identiteits- en inkomensgegevens; zie de website voor voorwaarden.",
+        "source": "https://almelodoetmee.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Almelo Doe(t) Mee",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Zwanenbelt 39",
+        "postcode": "7607JW",
+        "town": "Almelo",
+        "lat": 52.35276117,
+        "lon": 6.66414391,
+        "locationType": "visiting",
+        "locationSource": "https://almelodoetmee.nl/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Zwanenbelt 39",
+      "postcode": "7607JW",
+      "town": "Almelo",
+      "lat": 52.35276117,
+      "lon": 6.66414391,
+      "locationMunicipality": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://almelodoetmee.nl/"
+    },
+    "status": "source-backed",
+    "primarySource": "https://almelodoetmee.nl/"
+  },
+  {
     "id": "org-almelo-sociaal-team-clientondersteuners-4uxbfn",
     "organization": "Almelo Sociaal - team clientondersteuners",
     "municipalities": [
@@ -3696,6 +3775,483 @@
     "primarySource": "https://www.fundamentlosser.nl/sociaalwerk/"
   },
   {
+    "id": "org-gemeente-dinkelland-9dz08l",
+    "organization": "Gemeente Dinkelland",
+    "municipalities": [
+      "Dinkelland"
+    ],
+    "categories": [
+      "geld",
+      "bewegen",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.dinkelland.nl/bijdrage-om-mee-te-doen"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-bijdrage-meedoen-dinkelland",
+        "title": "Bijdrage om mee te doen",
+        "name": "Gemeente Dinkelland · Bijdrage om mee te doen",
+        "description": "Bijdrage voor volwassenen met een laag inkomen voor sport, cultuur, educatie, bibliotheek, uitstapjes en andere manieren om mee te doen.",
+        "municipality": "Dinkelland",
+        "municipalities": [
+          "Dinkelland"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur",
+          "educatie"
+        ],
+        "tags": [
+          "geld",
+          "bewegen",
+          "sport",
+          "cultuur",
+          "meedoen",
+          "educatie"
+        ],
+        "audience": "Inwoners van Dinkelland van 18 jaar en ouder met een laag inkomen die aan de voorwaarden voldoen.",
+        "costs": "De actuele hoogte en inkomensvoorwaarden staan op de gemeentepagina.",
+        "access": "Aanvragen via de gemeente; Schakel Dinkelland kan informatie en hulp bieden.",
+        "source": "https://www.dinkelland.nl/bijdrage-om-mee-te-doen",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Dinkelland",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Nicolaasplein 5",
+        "postcode": "7591MA",
+        "town": "Denekamp",
+        "lat": 52.37409066,
+        "lon": 7.00516737,
+        "locationType": "contact",
+        "locationSource": "https://www.dinkelland.nl/bijdrage-om-mee-te-doen",
+        "locationMunicipality": "Dinkelland",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Nicolaasplein 5",
+      "postcode": "7591MA",
+      "town": "Denekamp",
+      "lat": 52.37409066,
+      "lon": 7.00516737,
+      "locationMunicipality": "Dinkelland",
+      "locationType": "contact",
+      "locationSource": "https://www.dinkelland.nl/bijdrage-om-mee-te-doen"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.dinkelland.nl/bijdrage-om-mee-te-doen"
+  },
+  {
+    "id": "org-gemeente-hellendoorn-zxemhh",
+    "organization": "Gemeente Hellendoorn",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "geld",
+      "bewegen",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://meedoen.hellendoorn.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-meedoen-hellendoorn",
+        "title": "Meedoen-regeling",
+        "name": "Gemeente Hellendoorn · Meedoen-regeling",
+        "description": "Regeling voor inwoners met een laag inkomen met budget voor sport, cultuur, cursussen en andere maatschappelijke activiteiten.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur",
+          "cursussen"
+        ],
+        "tags": [
+          "geld",
+          "bewegen",
+          "sport",
+          "cultuur",
+          "meedoen"
+        ],
+        "audience": "Inwoners van de gemeente Hellendoorn met een laag inkomen die aan de voorwaarden voldoen.",
+        "costs": "De actuele budgetten en voorwaarden zijn zichtbaar na inloggen of op de gemeentelijke informatiepagina.",
+        "access": "Aanvragen en besteden verloopt via de Meedoen-webwinkel met DigiD; hulp is beschikbaar via de gemeente.",
+        "source": "https://meedoen.hellendoorn.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Hellendoorn",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Willem-Alexanderstraat 7a",
+        "postcode": "7442MA",
+        "town": "Nijverdal",
+        "lat": 52.36431111,
+        "lon": 6.46165682,
+        "locationType": "contact",
+        "locationSource": "https://meedoen.hellendoorn.nl/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Willem-Alexanderstraat 7a",
+      "postcode": "7442MA",
+      "town": "Nijverdal",
+      "lat": 52.36431111,
+      "lon": 6.46165682,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "contact",
+      "locationSource": "https://meedoen.hellendoorn.nl/"
+    },
+    "status": "source-backed",
+    "primarySource": "https://meedoen.hellendoorn.nl/"
+  },
+  {
+    "id": "org-gemeente-losser-1w6mgkt",
+    "organization": "Gemeente Losser",
+    "municipalities": [
+      "Losser"
+    ],
+    "categories": [
+      "geld",
+      "bewegen",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.losser.nl/iedereen-kan-meedoen-extra-geldhulp-voor-volwassenen"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-meedoen-losser",
+        "title": "Meedoenregeling",
+        "name": "Gemeente Losser · Meedoenregeling",
+        "description": "Regeling voor volwassenen met weinig inkomen of vermogen om mee te doen aan maatschappelijke, sociale en culturele activiteiten.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur",
+          "bibliotheek",
+          "cursussen"
+        ],
+        "tags": [
+          "geld",
+          "bewegen",
+          "sport",
+          "cultuur",
+          "meedoen"
+        ],
+        "audience": "Inwoners van Losser van 18 jaar en ouder met een laag inkomen of weinig vermogen die aan de voorwaarden voldoen.",
+        "costs": "De actuele maximale vergoeding en voorwaarden staan op de gemeentepagina.",
+        "access": "Online aanvragen met DigiD; hulp is mogelijk via toegangsteam wijz in 't Lossers hoes.",
+        "source": "https://www.losser.nl/iedereen-kan-meedoen-extra-geldhulp-voor-volwassenen",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Losser",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Raadhuisplein 1",
+        "postcode": "7581AG",
+        "town": "Losser",
+        "lat": 52.26284211,
+        "lon": 7.00588809,
+        "locationType": "visiting",
+        "locationSource": "https://www.losser.nl/contact-en-openingstijden",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "visiting",
+      "locationSource": "https://www.losser.nl/contact-en-openingstijden"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.losser.nl/iedereen-kan-meedoen-extra-geldhulp-voor-volwassenen"
+  },
+  {
+    "id": "org-gemeente-oldenzaal-1hffcy1",
+    "organization": "Gemeente Oldenzaal",
+    "municipalities": [
+      "Oldenzaal"
+    ],
+    "categories": [
+      "geld",
+      "bewegen",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.oldenzaal.nl/bijdragefonds"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-bijdragefonds-oldenzaal",
+        "title": "Bijdragefonds",
+        "name": "Gemeente Oldenzaal · Bijdragefonds",
+        "description": "Vrij besteedbare bijdrage voor volwassenen met een inkomen rond het minimum om mee te kunnen doen in de samenleving.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "meedoen",
+          "sport",
+          "bibliotheek"
+        ],
+        "tags": [
+          "geld",
+          "bewegen",
+          "meedoen",
+          "sport",
+          "bibliotheek"
+        ],
+        "audience": "Inwoners van Oldenzaal van 18 jaar en ouder met een laag inkomen die aan de voorwaarden voldoen.",
+        "costs": "De actuele bijdrage en inkomensvoorwaarden staan op de gemeentepagina.",
+        "access": "Aanvragen via de gemeente; sommige inwoners ontvangen de regeling vanaf 2026 automatisch.",
+        "source": "https://www.oldenzaal.nl/bijdragefonds",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Oldenzaal",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Ganzenmarkt 1",
+        "postcode": "7571CD",
+        "town": "Oldenzaal",
+        "lat": 52.31251698,
+        "lon": 6.93045334,
+        "locationType": "contact",
+        "locationSource": "https://www.oldenzaal.nl/contact-en-openingstijden",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Ganzenmarkt 1",
+      "postcode": "7571CD",
+      "town": "Oldenzaal",
+      "lat": 52.31251698,
+      "lon": 6.93045334,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "contact",
+      "locationSource": "https://www.oldenzaal.nl/contact-en-openingstijden"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.oldenzaal.nl/bijdragefonds"
+  },
+  {
+    "id": "org-gemeente-tubbergen-1offhe9",
+    "organization": "Gemeente Tubbergen",
+    "municipalities": [
+      "Tubbergen"
+    ],
+    "categories": [
+      "geld",
+      "bewegen",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.tubbergen.nl/bijdrage-om-mee-te-doen"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-bijdrage-meedoen-tubbergen",
+        "title": "Bijdrage om mee te doen",
+        "name": "Gemeente Tubbergen · Bijdrage om mee te doen",
+        "description": "Gemeentelijke bijdrage voor inwoners met een laag inkomen om te kunnen deelnemen aan sport, cultuur, educatie en andere activiteiten.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur",
+          "educatie"
+        ],
+        "tags": [
+          "geld",
+          "bewegen",
+          "sport",
+          "cultuur",
+          "meedoen",
+          "educatie"
+        ],
+        "audience": "Volwassen inwoners van Tubbergen met een laag inkomen die aan de voorwaarden voldoen.",
+        "costs": "De actuele hoogte en voorwaarden staan op de gemeentepagina.",
+        "access": "Aanvragen via de gemeente; bekijk de bron voor actuele voorwaarden en aanvraagroute.",
+        "source": "https://www.tubbergen.nl/bijdrage-om-mee-te-doen",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Tubbergen",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Raadhuisplein 1",
+        "postcode": "7651CV",
+        "town": "Tubbergen",
+        "lat": 52.40820915,
+        "lon": 6.78068999,
+        "locationType": "contact",
+        "locationSource": "https://www.tubbergen.nl/contact",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Raadhuisplein 1",
+      "postcode": "7651CV",
+      "town": "Tubbergen",
+      "lat": 52.40820915,
+      "lon": 6.78068999,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://www.tubbergen.nl/contact"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.tubbergen.nl/bijdrage-om-mee-te-doen"
+  },
+  {
+    "id": "org-gemeente-wierden-1tm5php",
+    "organization": "Gemeente Wierden",
+    "municipalities": [
+      "Wierden"
+    ],
+    "categories": [
+      "geld",
+      "bewegen",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.wierden.nl/volwassenpakket"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-volwassenpakket-wierden",
+        "title": "Volwassenpakket",
+        "name": "Gemeente Wierden · Volwassenpakket",
+        "description": "Gemeentelijke regeling die volwassenen met weinig financiële ruimte ondersteunt om mee te doen.",
+        "municipality": "Wierden",
+        "municipalities": [
+          "Wierden"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "meedoen",
+          "sport",
+          "cultuur"
+        ],
+        "tags": [
+          "geld",
+          "bewegen",
+          "sport",
+          "cultuur",
+          "meedoen"
+        ],
+        "audience": "Volwassen inwoners van Wierden die aan de gemeentelijke voorwaarden voldoen.",
+        "costs": "De actuele vergoeding en voorwaarden staan op de gemeentepagina.",
+        "access": "Bekijk de gemeentepagina voor de actuele voorwaarden en aanvraagroute.",
+        "source": "https://www.wierden.nl/volwassenpakket",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Wierden",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Pouliestraat 3",
+        "postcode": "7642EB",
+        "town": "Wierden",
+        "lat": 52.35567108,
+        "lon": 6.59284021,
+        "locationType": "contact",
+        "locationSource": "https://www.wierden.nl/volwassenpakket",
+        "locationMunicipality": "Wierden",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Pouliestraat 3",
+      "postcode": "7642EB",
+      "town": "Wierden",
+      "lat": 52.35567108,
+      "lon": 6.59284021,
+      "locationMunicipality": "Wierden",
+      "locationType": "contact",
+      "locationSource": "https://www.wierden.nl/volwassenpakket"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.wierden.nl/volwassenpakket"
+  },
+  {
     "id": "org-gemeente-wierden-geldloket-19czko1",
     "organization": "Gemeente Wierden - Geldloket",
     "municipalities": [
@@ -4721,6 +5277,84 @@
     "primarySource": "https://www.ixtanoa.nl/locaties/enschede/"
   },
   {
+    "id": "org-jeugd-sport-en-cultuurfonds-wierden-cky59o",
+    "organization": "Jeugd Sport- en Cultuurfonds Wierden",
+    "municipalities": [
+      "Wierden"
+    ],
+    "categories": [
+      "bewegen",
+      "geld",
+      "jeugd"
+    ],
+    "sources": [
+      "https://www.wierden.nl/jeugd-sport-en-cultuurfonds-wierden"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-jeugdfonds-wierden",
+        "title": "Jeugd Sport- en Cultuurfonds Wierden",
+        "name": "Jeugd Sport- en Cultuurfonds Wierden",
+        "description": "Gemeentelijke regeling om kinderen en jongeren uit gezinnen met weinig geld te laten deelnemen aan sport en cultuur.",
+        "municipality": "Wierden",
+        "municipalities": [
+          "Wierden"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "geld",
+          "jeugd"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur"
+        ],
+        "tags": [
+          "bewegen",
+          "geld",
+          "jeugd",
+          "sport",
+          "cultuur"
+        ],
+        "audience": "Kinderen en jongeren in de gemeente Wierden voor wie thuis onvoldoende geld is voor sport of cultuur.",
+        "costs": "De bijdrage en voorwaarden staan op de actuele gemeentepagina.",
+        "access": "Bekijk op de gemeentepagina de actuele voorwaarden en aanvraagroute.",
+        "source": "https://www.wierden.nl/jeugd-sport-en-cultuurfonds-wierden",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Wierden",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Pouliestraat 3",
+        "postcode": "7642EB",
+        "town": "Wierden",
+        "lat": 52.35567108,
+        "lon": 6.59284021,
+        "locationType": "contact",
+        "locationSource": "https://www.wierden.nl/jeugd-sport-en-cultuurfonds-wierden",
+        "locationMunicipality": "Wierden",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Pouliestraat 3",
+      "postcode": "7642EB",
+      "town": "Wierden",
+      "lat": 52.35567108,
+      "lon": 6.59284021,
+      "locationMunicipality": "Wierden",
+      "locationType": "contact",
+      "locationSource": "https://www.wierden.nl/jeugd-sport-en-cultuurfonds-wierden"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.wierden.nl/jeugd-sport-en-cultuurfonds-wierden"
+  },
+  {
     "id": "org-jeugdfonds-almelo-15w9co8",
     "organization": "Jeugdfonds Almelo",
     "municipalities": [
@@ -4867,6 +5501,174 @@
     },
     "status": "source-backed",
     "primarySource": "https://jeugdfondssportencultuur.nl/fondsen/enschede/"
+  },
+  {
+    "id": "org-jeugdfonds-sport-cultuur-hengelo-borne-souyi7",
+    "organization": "Jeugdfonds Sport & Cultuur Hengelo-Borne",
+    "municipalities": [
+      "Borne",
+      "Hengelo"
+    ],
+    "categories": [
+      "bewegen",
+      "geld",
+      "jeugd"
+    ],
+    "sources": [
+      "https://jeugdfondssportencultuur.nl/fondsen/hengelo-borne/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-jeugdfonds-hengelo-borne",
+        "title": "Jeugdfonds Sport & Cultuur Hengelo-Borne",
+        "name": "Jeugdfonds Sport & Cultuur Hengelo-Borne",
+        "description": "Helpt kinderen en jongeren uit gezinnen met weinig geld om mee te doen aan sport of cultuur en kan contributie, lesgeld en benodigde materialen betalen.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Borne",
+          "Hengelo"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "geld",
+          "jeugd"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur"
+        ],
+        "tags": [
+          "bewegen",
+          "geld",
+          "jeugd",
+          "sport",
+          "cultuur"
+        ],
+        "audience": "Kinderen en jongeren uit gezinnen met weinig financiële ruimte in Borne en Hengelo.",
+        "costs": "Na goedkeuring betaalt het fonds de bijdrage rechtstreeks aan de club of aanbieder.",
+        "access": "Aanvragen kan via een Meerkracht/tussenpersoon of via de actuele aanvraagroute op de website.",
+        "source": "https://jeugdfondssportencultuur.nl/fondsen/hengelo-borne/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Jeugdfonds Sport & Cultuur Hengelo-Borne",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Rheineplein 1",
+        "postcode": "7622DG",
+        "town": "Borne",
+        "lat": 52.29997097,
+        "lon": 6.75726873,
+        "locationType": "contact",
+        "locationSource": "https://www.borne.nl/jeugdfonds-sport-en-cultuur",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Rheineplein 1",
+      "postcode": "7622DG",
+      "town": "Borne",
+      "lat": 52.29997097,
+      "lon": 6.75726873,
+      "locationMunicipality": "Borne",
+      "locationType": "contact",
+      "locationSource": "https://www.borne.nl/jeugdfonds-sport-en-cultuur"
+    },
+    "status": "source-backed",
+    "primarySource": "https://jeugdfondssportencultuur.nl/fondsen/hengelo-borne/"
+  },
+  {
+    "id": "org-jeugdfonds-sport-cultuur-overijssel-1khn7x4",
+    "organization": "Jeugdfonds Sport & Cultuur Overijssel",
+    "municipalities": [
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hof van Twente",
+      "Losser",
+      "Rijssen-Holten",
+      "Twenterand"
+    ],
+    "categories": [
+      "bewegen",
+      "geld",
+      "jeugd"
+    ],
+    "sources": [
+      "https://jeugdfondssportencultuur.nl/fondsen/overijssel/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-jeugdfonds-overijssel-twente",
+        "title": "Twentse gemeenten",
+        "name": "Jeugdfonds Sport & Cultuur Overijssel · Twentse gemeenten",
+        "description": "Betaalt sport- of cultuurdeelname voor kinderen en jongeren uit gezinnen met weinig geld in aangesloten gemeenten.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen",
+          "Hellendoorn",
+          "Hof van Twente",
+          "Losser",
+          "Rijssen-Holten",
+          "Twenterand"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "geld",
+          "jeugd"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur"
+        ],
+        "tags": [
+          "bewegen",
+          "geld",
+          "jeugd",
+          "sport",
+          "cultuur"
+        ],
+        "audience": "Kinderen en jongeren uit gezinnen met weinig financiële ruimte in aangesloten Twentse gemeenten.",
+        "costs": "Het fonds betaalt na goedkeuring de club en kan in sommige gevallen benodigde materialen vergoeden.",
+        "access": "Aanvragen kan via kieseenclub.nl of met hulp van een Meerkracht/tussenpersoon.",
+        "source": "https://jeugdfondssportencultuur.nl/fondsen/overijssel/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Jeugdfonds Sport & Cultuur Overijssel",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Dokter van Deenweg 108",
+        "postcode": "8025BK",
+        "town": "Zwolle",
+        "lat": 52.50878678,
+        "lon": 6.12374678,
+        "locationType": "contact",
+        "locationSource": "https://jeugdfondssportencultuur.nl/fondsen/overijssel/",
+        "locationMunicipality": "Zwolle",
+        "mapLocationType": "service-area"
+      }
+    ],
+    "location": {
+      "address": "Dokter van Deenweg 108",
+      "postcode": "8025BK",
+      "town": "Zwolle",
+      "lat": 52.50878678,
+      "lon": 6.12374678,
+      "locationMunicipality": "Zwolle",
+      "locationType": "contact",
+      "locationSource": "https://jeugdfondssportencultuur.nl/fondsen/overijssel/"
+    },
+    "status": "source-backed",
+    "primarySource": "https://jeugdfondssportencultuur.nl/fondsen/overijssel/"
   },
   {
     "id": "org-kbo-enter-1kbrolq",
@@ -7650,6 +8452,87 @@
     "primarySource": "https://www.slachtofferhulp.nl/"
   },
   {
+    "id": "org-sociaal-fonds-borne-1kp17rv",
+    "organization": "Sociaal Fonds Borne",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "geld",
+      "bewegen",
+      "jeugd"
+    ],
+    "sources": [
+      "https://www.borne.nl/sociaal-fonds"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-sociaal-fonds-borne",
+        "title": "Sociaal Fonds Borne",
+        "name": "Sociaal Fonds Borne",
+        "description": "Gemeentelijke bijdrage voor inwoners met een laag inkomen, onder meer voor sport, cultuur, schoolkosten en maatschappelijke activiteiten.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "bewegen",
+          "jeugd"
+        ],
+        "subthemes": [
+          "meedoen",
+          "sport",
+          "cultuur",
+          "school"
+        ],
+        "tags": [
+          "geld",
+          "bewegen",
+          "jeugd",
+          "sport",
+          "cultuur",
+          "meedoen"
+        ],
+        "audience": "Inwoners van Borne met een laag inkomen die aan de voorwaarden voldoen.",
+        "costs": "Aanvragen is gratis; hoogte en voorwaarden staan op de gemeentepagina.",
+        "access": "De bijdrage kan online of met een formulier worden aangevraagd; hulp is beschikbaar via het Sociaal Hus.",
+        "source": "https://www.borne.nl/sociaal-fonds",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Borne",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Rheineplein 1",
+        "postcode": "7622DG",
+        "town": "Borne",
+        "lat": 52.29997097,
+        "lon": 6.75726873,
+        "locationType": "contact",
+        "locationSource": "https://www.borne.nl/sociaal-fonds",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Rheineplein 1",
+      "postcode": "7622DG",
+      "town": "Borne",
+      "lat": 52.29997097,
+      "lon": 6.75726873,
+      "locationMunicipality": "Borne",
+      "locationType": "contact",
+      "locationSource": "https://www.borne.nl/sociaal-fonds"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.borne.nl/sociaal-fonds"
+  },
+  {
     "id": "org-sociaal-dat-werkt-vcvzyo",
     "organization": "Sociaal, dat werkt!",
     "municipalities": [
@@ -8656,6 +9539,83 @@
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/221649/invis2/speelotheek-pippeloentje"
   },
   {
+    "id": "org-sport-en-cultuurfonds-hengelo-95517h",
+    "organization": "Sport- en Cultuurfonds Hengelo",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "bewegen",
+      "geld"
+    ],
+    "sources": [
+      "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Sport-en-Cultuurfonds.html"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-sport-cultuurfonds-hengelo",
+        "title": "Sport- en Cultuurfonds Hengelo",
+        "name": "Sport- en Cultuurfonds Hengelo",
+        "description": "Gemeentelijke ondersteuning voor sport, cultuur en maatschappelijke deelname; de regeling kan onder meer helpen met kosten en bibliotheekdeelname.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "geld"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur",
+          "bibliotheek"
+        ],
+        "tags": [
+          "bewegen",
+          "geld",
+          "sport",
+          "cultuur",
+          "meedoen"
+        ],
+        "audience": "Inwoners van Hengelo met een laag inkomen die aan de gemeentelijke voorwaarden voldoen.",
+        "costs": "De actuele vergoeding en voorwaarden staan op de gemeentepagina.",
+        "access": "Aanvraag via de gemeente Hengelo, digitaal of met een formulier.",
+        "source": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Sport-en-Cultuurfonds.html",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Hengelo",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester van der Dussenplein 1-s302",
+        "postcode": "7551EB",
+        "town": "Hengelo",
+        "lat": 52.2659015,
+        "lon": 6.79178677,
+        "locationType": "contact",
+        "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Sport-en-Cultuurfonds.html",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Burgemeester van der Dussenplein 1-s302",
+      "postcode": "7551EB",
+      "town": "Hengelo",
+      "lat": 52.2659015,
+      "lon": 6.79178677,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "contact",
+      "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Sport-en-Cultuurfonds.html"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Sport-en-Cultuurfonds.html"
+  },
+  {
     "id": "org-stichting-buurtgezinnen-ar0jeq",
     "organization": "Stichting Buurtgezinnen",
     "municipalities": [
@@ -8857,6 +9817,89 @@
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197275/invis2/stichting-kulturhus-holten-locatie-smidsbelt"
   },
   {
+    "id": "org-stichting-leergeld-dinkelland-g68av6",
+    "organization": "Stichting Leergeld Dinkelland",
+    "municipalities": [
+      "Dinkelland"
+    ],
+    "categories": [
+      "geld",
+      "jeugd",
+      "bewegen"
+    ],
+    "sources": [
+      "https://www.leergelddinkelland.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-leergeld-dinkelland",
+        "title": "Stichting Leergeld Dinkelland",
+        "name": "Stichting Leergeld Dinkelland",
+        "description": "Ondersteunt kinderen uit gezinnen met geldzorgen bij onder meer onderwijs, sport, cultuur, zwemles, een fiets en benodigde spullen.",
+        "municipality": "Dinkelland",
+        "municipalities": [
+          "Dinkelland"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "jeugd",
+          "bewegen"
+        ],
+        "subthemes": [
+          "school",
+          "sport",
+          "cultuur",
+          "zwemles",
+          "fiets"
+        ],
+        "tags": [
+          "geld",
+          "jeugd",
+          "school",
+          "sport",
+          "cultuur",
+          "zwemles",
+          "fiets"
+        ],
+        "audience": "Kinderen van 4 tot en met 17 jaar uit gezinnen met geldzorgen in Dinkelland.",
+        "costs": "De ondersteuning hangt af van de aanvraag en de geldende voorwaarden.",
+        "access": "Ouders of verzorgers kunnen rechtstreeks een aanvraag starten; Leergeld neemt daarna contact op.",
+        "source": "https://www.leergelddinkelland.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Leergeld Dinkelland",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "van Bodelswingstraat 49",
+        "postcode": "7631JP",
+        "town": "Ootmarsum",
+        "lat": 52.40428599,
+        "lon": 6.90462528,
+        "locationType": "contact",
+        "locationSource": "https://www.leergelddinkelland.nl/",
+        "locationMunicipality": "Dinkelland",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "van Bodelswingstraat 49",
+      "postcode": "7631JP",
+      "town": "Ootmarsum",
+      "lat": 52.40428599,
+      "lon": 6.90462528,
+      "locationMunicipality": "Dinkelland",
+      "locationType": "contact",
+      "locationSource": "https://www.leergelddinkelland.nl/"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.leergelddinkelland.nl/"
+  },
+  {
     "id": "org-stichting-leergeld-enschede-1y8aqqf",
     "organization": "Stichting Leergeld Enschede",
     "municipalities": [
@@ -9020,6 +10063,166 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.leergeldenschede.nl/mogelijkheden"
+  },
+  {
+    "id": "org-stichting-leergeld-oldenzaal-1obg0h0",
+    "organization": "Stichting Leergeld Oldenzaal",
+    "municipalities": [
+      "Oldenzaal"
+    ],
+    "categories": [
+      "geld",
+      "jeugd",
+      "bewegen"
+    ],
+    "sources": [
+      "https://www.leergeldoldenzaal.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-leergeld-oldenzaal",
+        "title": "Stichting Leergeld Oldenzaal",
+        "name": "Stichting Leergeld Oldenzaal",
+        "description": "Helpt kinderen uit gezinnen met onvoldoende financiële ruimte om mee te doen op school, bij sport, cultuur en andere activiteiten.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "jeugd",
+          "bewegen"
+        ],
+        "subthemes": [
+          "meedoen",
+          "school",
+          "sport",
+          "cultuur"
+        ],
+        "tags": [
+          "geld",
+          "jeugd",
+          "school",
+          "sport",
+          "cultuur"
+        ],
+        "audience": "Kinderen en jongeren uit gezinnen met geldzorgen in Oldenzaal.",
+        "costs": "De ondersteuning hangt af van de aanvraag en de geldende voorwaarden.",
+        "access": "Ouders of verzorgers kunnen rechtstreeks een aanvraag starten via Leergeld Oldenzaal.",
+        "source": "https://www.leergeldoldenzaal.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Leergeld Oldenzaal",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "visiting",
+        "locationSource": "https://www.leergeldoldenzaal.nl/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.leergeldoldenzaal.nl/"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.leergeldoldenzaal.nl/"
+  },
+  {
+    "id": "org-stichting-leergeld-tubbergen-xa77qo",
+    "organization": "Stichting Leergeld Tubbergen",
+    "municipalities": [
+      "Tubbergen"
+    ],
+    "categories": [
+      "geld",
+      "jeugd",
+      "bewegen"
+    ],
+    "sources": [
+      "https://www.leergeldtubbergen.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-leergeld-tubbergen",
+        "title": "Stichting Leergeld Tubbergen",
+        "name": "Stichting Leergeld Tubbergen",
+        "description": "Ondersteunt kinderen uit gezinnen met geldzorgen zodat zij kunnen meedoen aan school, sport, cultuur en andere activiteiten.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "jeugd",
+          "bewegen"
+        ],
+        "subthemes": [
+          "meedoen",
+          "school",
+          "sport",
+          "cultuur"
+        ],
+        "tags": [
+          "geld",
+          "jeugd",
+          "school",
+          "sport",
+          "cultuur"
+        ],
+        "audience": "Kinderen en jongeren uit gezinnen met geldzorgen in de gemeente Tubbergen.",
+        "costs": "De ondersteuning hangt af van de aanvraag en de geldende voorwaarden.",
+        "access": "Ouders of verzorgers kunnen rechtstreeks een aanvraag starten; Leergeld neemt daarna contact op.",
+        "source": "https://www.leergeldtubbergen.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Leergeld Tubbergen",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "B. Meenweg 31",
+        "postcode": "7666NJ",
+        "town": "Fleringen",
+        "lat": 52.38155312,
+        "lon": 6.80791198,
+        "locationType": "contact",
+        "locationSource": "https://www.leergeldtubbergen.nl/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "B. Meenweg 31",
+      "postcode": "7666NJ",
+      "town": "Fleringen",
+      "lat": 52.38155312,
+      "lon": 6.80791198,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://www.leergeldtubbergen.nl/"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.leergeldtubbergen.nl/"
   },
   {
     "id": "org-stichting-present-enschede-1lmy4a2",
@@ -10288,6 +11491,202 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/326905/invis2/volwassenenfonds"
+  },
+  {
+    "id": "org-volwassenenfonds-sport-cultuur-1uwl1ny",
+    "organization": "Volwassenenfonds Sport & Cultuur",
+    "municipalities": [
+      "Haaksbergen",
+      "Twenterand"
+    ],
+    "categories": [
+      "bewegen",
+      "geld"
+    ],
+    "sources": [
+      "https://www.volwassenenfonds.nl/overijssel/"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 0,
+    "sourceBacked": 2,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-volwassenenfonds-haaksbergen",
+        "title": "Volwassenenfonds Sport & Cultuur Haaksbergen",
+        "name": "Volwassenenfonds Sport & Cultuur Haaksbergen",
+        "description": "Helpt volwassenen rond het bestaansminimum om deel te nemen aan sport of cultuur door contributie of lesgeld te betalen.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "geld"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur"
+        ],
+        "tags": [
+          "bewegen",
+          "geld",
+          "sport",
+          "cultuur",
+          "meedoen"
+        ],
+        "audience": "Volwassen inwoners van Haaksbergen die rond het bestaansminimum leven en aan de voorwaarden voldoen.",
+        "costs": "Het fonds betaalt na goedkeuring (een deel van) contributie of lesgeld.",
+        "access": "Aanvragen loopt volgens de actuele route van het Volwassenenfonds; controleer de gemeentelijke voorwaarden.",
+        "source": "https://www.volwassenenfonds.nl/overijssel/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Volwassenenfonds Sport & Cultuur",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Blankenburgerstraat 28",
+        "postcode": "7481EB",
+        "town": "Haaksbergen",
+        "lat": 52.15500987,
+        "lon": 6.74219044,
+        "locationType": "contact",
+        "locationSource": "https://www.haaksbergen.nl/Actueel/contact.html",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address"
+      },
+      {
+        "id": "candidate-20261001-volwassenenfonds-twenterand",
+        "title": "Volwassenenfonds Sport & Cultuur Twenterand",
+        "name": "Volwassenenfonds Sport & Cultuur Twenterand",
+        "description": "Helpt volwassenen rond het bestaansminimum om deel te nemen aan sport of cultuur door contributie of lesgeld te betalen.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "geld"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur"
+        ],
+        "tags": [
+          "bewegen",
+          "geld",
+          "sport",
+          "cultuur",
+          "meedoen"
+        ],
+        "audience": "Volwassen inwoners van Twenterand die rond het bestaansminimum leven en aan de voorwaarden voldoen.",
+        "costs": "Het fonds betaalt na goedkeuring (een deel van) contributie of lesgeld.",
+        "access": "Aanvragen loopt volgens de actuele route van het Volwassenenfonds; controleer de voorwaarden.",
+        "source": "https://www.volwassenenfonds.nl/overijssel/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Volwassenenfonds Sport & Cultuur",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "Blankenburgerstraat 28",
+        "postcode": "7481EB",
+        "town": "Haaksbergen",
+        "lat": 52.15500987,
+        "lon": 6.74219044,
+        "locationType": "contact",
+        "locationSource": "https://www.haaksbergen.nl/Actueel/contact.html",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "Blankenburgerstraat 28",
+      "postcode": "7481EB",
+      "town": "Haaksbergen",
+      "lat": 52.15500987,
+      "lon": 6.74219044,
+      "locationMunicipality": "Haaksbergen",
+      "locationType": "contact",
+      "locationSource": "https://www.haaksbergen.nl/Actueel/contact.html"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.volwassenenfonds.nl/overijssel/"
+  },
+  {
+    "id": "org-volwassenenfonds-sport-cultuur-hof-van-twente-1a7hdb3",
+    "organization": "Volwassenenfonds Sport & Cultuur Hof van Twente",
+    "municipalities": [
+      "Hof van Twente"
+    ],
+    "categories": [
+      "bewegen",
+      "geld"
+    ],
+    "sources": [
+      "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/volwassenenfonds-voor-sport-en-cultuur/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-01",
+    "offers": [
+      {
+        "id": "candidate-20261001-volwassenenfonds-hof",
+        "title": "Volwassenenfonds Sport & Cultuur Hof van Twente",
+        "name": "Volwassenenfonds Sport & Cultuur Hof van Twente",
+        "description": "Ondersteunt volwassenen met weinig geld bij deelname aan sport en cultuur.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "geld"
+        ],
+        "subthemes": [
+          "sport",
+          "cultuur"
+        ],
+        "tags": [
+          "bewegen",
+          "geld",
+          "sport",
+          "cultuur",
+          "meedoen"
+        ],
+        "audience": "Volwassen inwoners van Hof van Twente die aan de voorwaarden van het fonds voldoen.",
+        "costs": "Het fonds kan contributie of lesgeld betalen volgens de actuele voorwaarden.",
+        "access": "Bekijk de gemeentepagina voor de actuele aanvraagroute en voorwaarden.",
+        "source": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/volwassenenfonds-voor-sport-en-cultuur/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Hof van Twente",
+        "checked": "2026-10-01",
+        "reviewStatus": "source-backed",
+        "address": "de Höfte 7",
+        "postcode": "7471DK",
+        "town": "Goor",
+        "lat": 52.23325359,
+        "lon": 6.58497345,
+        "locationType": "contact",
+        "locationSource": "https://www.hofvantwente.nl/contact/",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address"
+      }
+    ],
+    "location": {
+      "address": "de Höfte 7",
+      "postcode": "7471DK",
+      "town": "Goor",
+      "lat": 52.23325359,
+      "lon": 6.58497345,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "contact",
+      "locationSource": "https://www.hofvantwente.nl/contact/"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/volwassenenfonds-voor-sport-en-cultuur/"
   },
   {
     "id": "org-wierden-met-mekaar-1wdap34",

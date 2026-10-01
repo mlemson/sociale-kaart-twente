@@ -16830,7 +16830,12 @@
       "postcode": "7622DG",
       "town": "Borne",
       "locationType": "contact",
-      "locationSource": "https://www.borne.nl/jeugdfonds-sport-en-cultuur"
+      "locationSource": "https://www.borne.nl/jeugdfonds-sport-en-cultuur",
+      "lat": 52.29997097,
+      "lon": 6.75726873,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -16877,7 +16882,12 @@
       "postcode": "7631JP",
       "town": "Ootmarsum",
       "locationType": "contact",
-      "locationSource": "https://www.leergelddinkelland.nl/"
+      "locationSource": "https://www.leergelddinkelland.nl/",
+      "lat": 52.40428599,
+      "lon": 6.90462528,
+      "locationMunicipality": "Dinkelland",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -16920,11 +16930,16 @@
       "audience": "Kinderen en jongeren uit gezinnen met weinig financiële ruimte in aangesloten Twentse gemeenten.",
       "access": "Aanvragen kan via kieseenclub.nl of met hulp van een Meerkracht/tussenpersoon.",
       "costs": "Het fonds betaalt na goedkeuring de club en kan in sommige gevallen benodigde materialen vergoeden.",
-      "address": "Dr. van Deenweg 108",
+      "address": "Dokter van Deenweg 108",
       "postcode": "8025BK",
       "town": "Zwolle",
       "locationType": "contact",
-      "locationSource": "https://jeugdfondssportencultuur.nl/fondsen/overijssel/"
+      "locationSource": "https://jeugdfondssportencultuur.nl/fondsen/overijssel/",
+      "lat": 52.50878678,
+      "lon": 6.12374678,
+      "locationMunicipality": "Zwolle",
+      "mapLocationType": "service-area",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -16968,7 +16983,12 @@
       "postcode": "7571CE",
       "town": "Oldenzaal",
       "locationType": "visiting",
-      "locationSource": "https://www.leergeldoldenzaal.nl/"
+      "locationSource": "https://www.leergeldoldenzaal.nl/",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17012,7 +17032,12 @@
       "postcode": "7666NJ",
       "town": "Fleringen",
       "locationType": "contact",
-      "locationSource": "https://www.leergeldtubbergen.nl/"
+      "locationSource": "https://www.leergeldtubbergen.nl/",
+      "lat": 52.38155312,
+      "lon": 6.80791198,
+      "locationMunicipality": "Tubbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17054,7 +17079,12 @@
       "postcode": "7642EB",
       "town": "Wierden",
       "locationType": "contact",
-      "locationSource": "https://www.wierden.nl/jeugd-sport-en-cultuurfonds-wierden"
+      "locationSource": "https://www.wierden.nl/jeugd-sport-en-cultuurfonds-wierden",
+      "lat": 52.35567108,
+      "lon": 6.59284021,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17097,7 +17127,12 @@
       "postcode": "7607JW",
       "town": "Almelo",
       "locationType": "visiting",
-      "locationSource": "https://almelodoetmee.nl/"
+      "locationSource": "https://almelodoetmee.nl/",
+      "lat": 52.35276117,
+      "lon": 6.66414391,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17142,7 +17177,12 @@
       "postcode": "7622DG",
       "town": "Borne",
       "locationType": "contact",
-      "locationSource": "https://www.borne.nl/sociaal-fonds"
+      "locationSource": "https://www.borne.nl/sociaal-fonds",
+      "lat": 52.29997097,
+      "lon": 6.75726873,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17186,7 +17226,12 @@
       "postcode": "7591MA",
       "town": "Denekamp",
       "locationType": "contact",
-      "locationSource": "https://www.dinkelland.nl/bijdrage-om-mee-te-doen"
+      "locationSource": "https://www.dinkelland.nl/bijdrage-om-mee-te-doen",
+      "lat": 52.37409066,
+      "lon": 7.00516737,
+      "locationMunicipality": "Dinkelland",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17227,7 +17272,12 @@
       "postcode": "7481EB",
       "town": "Haaksbergen",
       "locationType": "contact",
-      "locationSource": "https://www.haaksbergen.nl/Actueel/contact.html"
+      "locationSource": "https://www.haaksbergen.nl/Actueel/contact.html",
+      "lat": 52.15500987,
+      "lon": 6.74219044,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17266,11 +17316,16 @@
       "audience": "Inwoners van de gemeente Hellendoorn met een laag inkomen die aan de voorwaarden voldoen.",
       "access": "Aanvragen en besteden verloopt via de Meedoen-webwinkel met DigiD; hulp is beschikbaar via de gemeente.",
       "costs": "De actuele budgetten en voorwaarden zijn zichtbaar na inloggen of op de gemeentelijke informatiepagina.",
-      "address": "Willem-Alexanderstraat 7",
+      "address": "Willem-Alexanderstraat 7a",
       "postcode": "7442MA",
       "town": "Nijverdal",
       "locationType": "contact",
-      "locationSource": "https://meedoen.hellendoorn.nl/"
+      "locationSource": "https://meedoen.hellendoorn.nl/",
+      "lat": 52.36431111,
+      "lon": 6.46165682,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17308,11 +17363,16 @@
       "audience": "Inwoners van Hengelo met een laag inkomen die aan de gemeentelijke voorwaarden voldoen.",
       "access": "Aanvraag via de gemeente Hengelo, digitaal of met een formulier.",
       "costs": "De actuele vergoeding en voorwaarden staan op de gemeentepagina.",
-      "address": "Burgemeester van der Dussenplein 1",
+      "address": "Burgemeester van der Dussenplein 1-s302",
       "postcode": "7551EB",
       "town": "Hengelo",
       "locationType": "contact",
-      "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Sport-en-Cultuurfonds.html"
+      "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Sport-en-Cultuurfonds.html",
+      "lat": 52.2659015,
+      "lon": 6.79178677,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17349,11 +17409,16 @@
       "audience": "Volwassen inwoners van Hof van Twente die aan de voorwaarden van het fonds voldoen.",
       "access": "Bekijk de gemeentepagina voor de actuele aanvraagroute en voorwaarden.",
       "costs": "Het fonds kan contributie of lesgeld betalen volgens de actuele voorwaarden.",
-      "address": "De Höfte 7",
+      "address": "de Höfte 7",
       "postcode": "7471DK",
       "town": "Goor",
       "locationType": "contact",
-      "locationSource": "https://www.hofvantwente.nl/contact/"
+      "locationSource": "https://www.hofvantwente.nl/contact/",
+      "lat": 52.23325359,
+      "lon": 6.58497345,
+      "locationMunicipality": "Hof van Twente",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17397,7 +17462,12 @@
       "postcode": "7581AG",
       "town": "Losser",
       "locationType": "visiting",
-      "locationSource": "https://www.losser.nl/contact-en-openingstijden"
+      "locationSource": "https://www.losser.nl/contact-en-openingstijden",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17440,7 +17510,12 @@
       "postcode": "7571CD",
       "town": "Oldenzaal",
       "locationType": "contact",
-      "locationSource": "https://www.oldenzaal.nl/contact-en-openingstijden"
+      "locationSource": "https://www.oldenzaal.nl/contact-en-openingstijden",
+      "lat": 52.31251698,
+      "lon": 6.93045334,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17484,7 +17559,12 @@
       "postcode": "7651CV",
       "town": "Tubbergen",
       "locationType": "contact",
-      "locationSource": "https://www.tubbergen.nl/contact"
+      "locationSource": "https://www.tubbergen.nl/contact",
+      "lat": 52.40820915,
+      "lon": 6.78068999,
+      "locationMunicipality": "Tubbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17521,11 +17601,16 @@
       "audience": "Volwassen inwoners van Twenterand die rond het bestaansminimum leven en aan de voorwaarden voldoen.",
       "access": "Aanvragen loopt volgens de actuele route van het Volwassenenfonds; controleer de voorwaarden.",
       "costs": "Het fonds betaalt na goedkeuring (een deel van) contributie of lesgeld.",
-      "address": "Manitobaplein 1",
-      "postcode": "7671GS",
-      "town": "Vriezenveen",
+      "address": "Blankenburgerstraat 28",
+      "postcode": "7481EB",
+      "town": "Haaksbergen",
       "locationType": "contact",
-      "locationSource": "https://www.twenterand.nl/contact"
+      "locationSource": "https://www.haaksbergen.nl/Actueel/contact.html",
+      "lat": 52.15500987,
+      "lon": 6.74219044,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -17568,7 +17653,12 @@
       "postcode": "7642EB",
       "town": "Wierden",
       "locationType": "contact",
-      "locationSource": "https://www.wierden.nl/volwassenpakket"
+      "locationSource": "https://www.wierden.nl/volwassenpakket",
+      "lat": 52.35567108,
+      "lon": 6.59284021,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     }
   ],
   "sources": [
