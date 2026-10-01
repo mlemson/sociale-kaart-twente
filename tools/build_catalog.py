@@ -6,6 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 INVENTORY = ROOT / "inventory.json"
+EXTRA = ROOT / "inventory.extra.json"
 BASE = ROOT / "local-backend" / "facilities.base.json"
 DATA = ROOT / "data"
 GENERIC = re.compile(r"^(sociale kaart|gemeente|regio|bron|voorzieningen|samen twente)", re.I)
@@ -112,6 +113,12 @@ def base_represents(group, facilities):
 
 def main():
     inv = load(INVENTORY)
+    extra = load(EXTRA) if EXTRA.exists() else {"checked": "", "sources": [], "candidates": []}
+    inv.setdefault("candidates", []).extend(extra.get("candidates", []))
+    known_sources = {s.get("url") for s in inv.get("sources", []) if s.get("url")}
+    inv.setdefault("sources", []).extend(s for s in extra.get("sources", []) if s.get("url") not in known_sources)
+    if str(extra.get("checked") or "") > str(inv.get("checked") or ""):
+        inv["checked"] = extra.get("checked")
     base_facilities = load(BASE)
     groups = {}
     review = []
