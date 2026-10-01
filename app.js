@@ -18,50 +18,16 @@ const paths = {
 };
 const icon = name => `<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">${paths[name] || paths.advies}</svg>`;
 const categories = {
-    advies: 'Advies & hulp',
+    advies: 'Advies',
     ontmoeten: 'Ontmoeten',
-    geld: 'Geld & papierwerk',
-    taal: 'Taal & digitaal',
+    geld: 'Geldzaken',
+    taal: 'Taal / digitaal',
     mantelzorg: 'Mantelzorg',
     vrijwillig: 'Vrijwilligerswerk',
-    jeugd: 'Jeugd & opvoeden',
-    mentaal: 'Mentaal welzijn & herstel',
-    vervoer: 'Vervoer & maaltijden',
-    bewegen: 'Sport & bewegen'
-};
-const themes = {
-    wijkteams: {
-        name: 'Wijkteams',
-        sub: 'ENSCHEDE',
-        symbol: 'w.',
-        eyebrow: 'SAMEN IN TWENTE',
-        title: 'Vind je weg naar hulp <em>dichtbij.</em>',
-        footer: 'Een ontwerp in de stijl van Wijkteams Enschede'
-    },
-    online: {
-        name: 'Online Hulp',
-        sub: 'ENSCHEDE',
-        symbol: 'o.',
-        eyebrow: 'WAT KUNNEN WE VOOR JE DOEN?',
-        title: 'Een beetje hulp. <em>Dicht bij jou.</em>',
-        footer: 'Een ontwerp in de stijl van Online Hulp Enschede'
-    },
-    gemeente: {
-        name: 'Enschede',
-        sub: 'GEMEENTE',
-        symbol: 'E',
-        eyebrow: 'WONEN EN LEVEN / SOCIALE KAART',
-        title: 'Hulp en ondersteuning <em>in Twente.</em>',
-        footer: 'Ontwerprichting voor Gemeente Enschede'
-    },
-    wijkwijzer: {
-        name: 'Wijkwijzer',
-        sub: 'ENSCHEDE',
-        symbol: 'w↗',
-        eyebrow: 'JE BENT WELKOM',
-        title: 'Fijn als je weet <em>waar je terechtkunt.</em>',
-        footer: 'Wijkwijzer · eigen interpretatie, huisstijl nog te verifiëren'
-    }
+    jeugd: 'Jeugd',
+    mentaal: 'Mentale gezondheid',
+    vervoer: 'Vervoer',
+    bewegen: 'Sport'
 };
 let state = {
     municipality: '',
@@ -69,7 +35,7 @@ let state = {
     search: '',
     nearby: false,
     selected: null,
-    theme: 'wijkteams'
+    theme: 'wijkwijzer'
 };
 let map, geo, geoLayer, tileLayer, locations = [], catalog = [], layers = {}, anchors = {}, markerLayer, labelLayer, filtered = [], catalogFiltered = [];
 const initialParams = new URLSearchParams(location.search);
@@ -79,30 +45,14 @@ function updateAddressBar(url) {
     } catch {/* Some browsers restrict history updates for downloaded file URLs. */
     }
 }
-function setTheme(theme) {
-    if (!themes[theme])
-        return;
-    state.theme = theme;
-    document.body.dataset.theme = theme;
-    const t = themes[theme];
-    $('brand').innerHTML = `<span class="brand-symbol">${t.symbol}</span><span>${t.name}<span class="brand-sub">${t.sub}</span></span>`;
-    $('brand').href = `?stijl=${theme}`;
-    $('eyebrow').textContent = t.eyebrow;
-    $('headline').innerHTML = t.title;
-    $('footer-brand').textContent = t.footer;
-    document.querySelectorAll('.design-options button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.theme === theme)));
+document.body.dataset.theme = 'wijkwijzer';
+{
     const u = new URL(location.href);
-    u.searchParams.set('stijl', theme);
-    updateAddressBar(u);
-    if (map) {
-        styleBoundaries();
-        renderMarkers();
-        requestAnimationFrame( () => map.invalidateSize({
-            pan: false
-        }));
+    if (u.searchParams.has('stijl')) {
+        u.searchParams.delete('stijl');
+        updateAddressBar(u);
     }
 }
-setTheme(initialParams.get('stijl') || 'wijkteams');
 function setColorScheme(mode, persist = true) {
     const dark = mode === 'dark';
     document.documentElement.dataset.colorScheme = dark ? 'dark' : 'light';
@@ -130,8 +80,20 @@ setColorScheme(initialColorScheme(), false);
 $('color-scheme-toggle')?.addEventListener('click', () => {
     setColorScheme(document.documentElement.dataset.colorScheme === 'dark' ? 'light' : 'dark');
 });
+function bindLegalDialog(buttonId, dialogId) {
+    const button = $(buttonId), dialog = $(dialogId);
+    if (!button || !dialog) return;
+    button.addEventListener('click', () => dialog.showModal());
+    dialog.querySelectorAll('[data-close-dialog]').forEach(b => b.addEventListener('click', () => dialog.close()));
+    dialog.addEventListener('click', e => {
+        if (e.target !== dialog) return;
+        const r = dialog.getBoundingClientRect();
+        if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) dialog.close();
+    });
+}
+bindLegalDialog('privacyBtn', 'privacyDialog');
+bindLegalDialog('disclaimerBtn', 'disclaimerDialog');
 $('search-icon').innerHTML = icon('search');
-document.querySelectorAll('.design-options button').forEach(b => b.addEventListener('click', () => setTheme(b.dataset.theme)));
 $('brand').addEventListener('click', e => {
     e.preventDefault();
     chooseMunicipality('');
@@ -148,23 +110,8 @@ function renderTopics() {
     ));
 }
 renderTopics();
-function openInfo() {
-    $('info-dialog').showModal();
-}
-$('about').addEventListener('click', openInfo);
-$('coverage').addEventListener('click', openInfo);
-$('info-dialog').querySelector('.dialog-close').addEventListener('click', () => $('info-dialog').close());
-$('info-dialog').addEventListener('click', e => {
-    if (e.target === $('info-dialog')) {
-        const r = e.target.getBoundingClientRect();
-        if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom)
-            e.target.close();
-    }
-}
-);
 $('municipality').addEventListener('change', e => chooseMunicipality(e.target.value));
 $('back').addEventListener('click', () => chooseMunicipality(''));
-$('nav-map').addEventListener('click', () => chooseMunicipality(''));
 $('search').addEventListener('input', e => {
     state.search = e.target.value.trim();
     state.selected = null;
@@ -228,7 +175,7 @@ function fitSelection() {
         bounds = geoLayer.getBounds();
 
     const pts = locations
-        .filter(p => p.mapLocationType !== 'service-area' && Number.isFinite(p.lat) && Number.isFinite(p.lon) && (!state.municipality || servesMunicipality(p, state.municipality)))
+        .filter(p => p.mapLocationType !== 'service-area' && Number.isFinite(p.lat) && Number.isFinite(p.lon) && p.lat >= 51.95 && p.lat <= 52.58 && p.lon >= 6.25 && p.lon <= 7.25 && (!state.municipality || servesMunicipality(p, state.municipality)))
         .map(p => [p.lat, p.lon]);
 
     // Een regionaal aanbod kan een contactadres net buiten de gekozen gemeente hebben.
@@ -292,14 +239,12 @@ function catalogOfferSummary(group, max = 3) {
 function render() {
     filtered = matchedLocations();
     catalogFiltered = matchedCatalog();
-    $('results-title').textContent = state.municipality ? (state.nearby ? state.municipality + ' & omgeving' : state.municipality) : 'In de regio';
-    $('result-count').textContent = `${filtered.length} kaartlocaties · ${catalogFiltered.length} organisaties`;
+    $('results-title').textContent = state.municipality || 'Twente';
     $('map-title').textContent = state.municipality || 'Twente';
-    $('map-subtitle').textContent = state.municipality ? 'Kaartlocaties én aanbod uit lokale bronnen' : 'Klik op een gemeente of zoek in het volledige aanbod';
 
     const sortedLocations = [...filtered].sort((a, b) => {
-        const av = a.municipality === state.municipality ? -1 : 0,
-              bv = b.municipality === state.municipality ? -1 : 0;
+        const av = servesMunicipality(a, state.municipality) ? -1 : 0,
+              bv = servesMunicipality(b, state.municipality) ? -1 : 0;
         return av - bv || a.name.localeCompare(b.name, 'nl');
     });
     const mappedCatalogIds = new Set(filtered.map(p => p.catalogOrganizationId).filter(Boolean));
@@ -308,23 +253,25 @@ function render() {
               bm = (b.municipalities || []).includes(state.municipality) ? -1 : 0;
         return am - bm || a.organization.localeCompare(b.organization, 'nl');
     });
+    const total = sortedLocations.length + sortedCatalog.length;
+    $('result-count').textContent = total ? `${total} resultaten` : '';
 
-    const locationHtml = sortedLocations.length
-        ? `<div class="results-section"><div class="results-section-title"><strong>Op de kaart</strong><span>${sortedLocations.length}</span></div>${sortedLocations.map(p => `<button class="result-card ${p.id === state.selected ? 'active' : ''}" data-id="${esc(p.id)}"><span class="category-icon">${icon(p.category)}</span><span class="result-body"><span class="result-title">${esc(p.name)}</span><span class="result-address">${esc(p.address)} · ${esc(p.town)}</span><span class="result-tag">${esc(categories[p.category] || 'Sociaal aanbod')}</span></span><span class="result-arrow" aria-hidden="true">↗</span></button>`).join('')}</div>`
-        : '';
+    const locationHtml = sortedLocations.map(p => {
+        const meta = [p.town, categories[p.category] || ''].filter(Boolean).join(' · ');
+        return `<button class="result-card ${p.id === state.selected ? 'active' : ''}" data-id="${esc(p.id)}"><span class="category-icon">${icon(p.category)}</span><span class="result-body"><span class="result-title">${esc(p.name)}</span><span class="result-address">${esc(meta)}</span></span></button>`;
+    }).join('');
 
     const catalogLimit = (state.search || state.category || state.municipality) ? 30 : 12;
     const shownCatalog = sortedCatalog.slice(0, catalogLimit);
-    const catalogHtml = shownCatalog.length
-        ? `<div class="results-section catalog-section"><div class="results-section-title"><strong>Meer aanbod uit bronnen</strong><span>${sortedCatalog.length}</span></div>${shownCatalog.map(g => {
-            const summary = catalogOfferSummary(g);
-            const category = g.categories?.[0] || 'advies';
-            const status = g.reviewNeeded ? `${g.reviewNeeded} aandachtspunt${g.reviewNeeded === 1 ? '' : 'en'}` : 'Brononderbouwd';
-            return `<button class="result-card catalog-card ${'catalog:' + g.id === state.selected ? 'active' : ''}" data-catalog-id="${esc(g.id)}"><span class="category-icon">${icon(category)}</span><span class="result-body"><span class="result-title">${esc(g.organization)}</span><span class="result-address">${esc((g.municipalities || []).join(', ') || 'Twente')} · ${g.offerCount || 0} vormen van aanbod</span>${summary.text ? `<span class="catalog-match">${esc(summary.text)}</span>` : ''}<span class="result-tag ${g.reviewNeeded ? 'needs-review' : ''}">${esc(status)}</span></span><span class="result-arrow" aria-hidden="true">↗</span></button>`;
-        }).join('')}${sortedCatalog.length > catalogLimit ? `<a class="all-offers-link" href="voorzieningen.html">Bekijk alle ${sortedCatalog.length} organisaties →</a>` : ''}</div>`
-        : '';
+    const catalogHtml = shownCatalog.map(g => {
+        const summary = catalogOfferSummary(g);
+        const category = g.categories?.[0] || 'advies';
+        const meta = [((g.municipalities || []).join(', ') || 'Twente'), g.offerCount > 1 ? `${g.offerCount} onderdelen` : ''].filter(Boolean).join(' · ');
+        return `<button class="result-card catalog-card ${'catalog:' + g.id === state.selected ? 'active' : ''}" data-catalog-id="${esc(g.id)}"><span class="category-icon">${icon(category)}</span><span class="result-body"><span class="result-title">${esc(g.organization)}</span><span class="result-address">${esc(meta)}</span>${(state.search || state.category) && summary.text ? `<span class="catalog-match">${esc(summary.text)}</span>` : ''}</span></button>`;
+    }).join('');
 
-    $('results').innerHTML = locationHtml + catalogHtml || '<div class="empty">Nog geen passend aanbod gevonden.<button id="reset-filters">Toon de hele selectie</button></div>';
+    $('results').innerHTML = locationHtml + catalogHtml + (sortedCatalog.length > catalogLimit ? '<a class="all-offers-link" href="voorzieningen.html">Alle voorzieningen</a>' : '') ||
+        '<div class="empty">Geen resultaten.<button id="reset-filters">Filters wissen</button></div>';
     $('results').querySelectorAll('[data-id]').forEach(b => b.addEventListener('click', () => showLocation(b.dataset.id, true)));
     $('results').querySelectorAll('[data-catalog-id]').forEach(b => b.addEventListener('click', () => showCatalog(b.dataset.catalogId)));
     $('reset-filters')?.addEventListener('click', () => {
@@ -350,18 +297,14 @@ function showCatalog(id) {
     d.hidden = false;
     const summary = catalogOfferSummary(g, 12);
     const offers = summary.pool.length ? summary.pool : (g.offers || []);
-    const statusText = g.reviewNeeded
-        ? `${g.reviewNeeded} onderdeel${g.reviewNeeded === 1 ? '' : 'en'} met een aandachtspunt; de overige informatie is rechtstreeks aan een bron gekoppeld.`
-        : 'Dit aanbod is rechtstreeks gekoppeld aan een lokale of regionale bron. Controleer bij de aanbieder de actuele tijden, kosten en beschikbaarheid.';
-    const offerHtml = offers.slice(0,12).map(o => `<div class="detail-offer"><strong>${esc(o.title || o.name)}</strong>${o.audience ? `<span>Voor: ${esc(o.audience)}</span>` : ''}${o.description ? `<span>${esc(o.description)}</span>` : ''}${o.source ? `<a href="${esc(o.source)}" target="_blank" rel="noopener">Bekijk deze bron ↗</a>` : ''}</div>`).join('');
+    const offerHtml = offers.slice(0,12).map(o => `<div class="detail-offer"><strong>${esc(o.title || o.name)}</strong>${o.audience ? `<span>Voor: ${esc(o.audience)}</span>` : ''}${o.source ? `<a href="${esc(o.source)}" target="_blank" rel="noopener">Bron</a>` : ''}</div>`).join('');
     const first = (g.offers || [])[0];
-    d.innerHTML = `<button class="detail-close" aria-label="Sluiten">×</button><span class="category-icon">${icon(g.categories?.[0] || 'advies')}</span><h2>${esc(g.organization)}</h2><p>${esc(statusText)}</p><p class="detail-address">${esc((g.municipalities || []).join(', ') || 'Twente')} · ${g.offerCount || 0} vormen van aanbod</p><div class="detail-links">${g.primarySource ? `<a class="primary-link" href="${esc(g.primarySource)}" target="_blank" rel="noopener">Website / bron ↗</a>` : ''}<a href="voorzieningen.html">Volledige voorzieningenlijst ↗</a></div><div class="detail-offers">${offerHtml}</div>${offers.length > 12 ? `<p class="meta">+${offers.length-12} andere onderdelen; verfijn je zoekopdracht of open de voorzieningenlijst.</p>` : ''}${first ? `<p><a href="aanmelden.html?candidate=${encodeURIComponent(first.id)}">Gegevens aanvullen of wijzigen →</a></p>` : ''}<p class="meta">Bronronde: ${esc(g.checked || 'onbekend')}</p>`;
+    d.innerHTML = `<button class="detail-close" aria-label="Sluiten">×</button><span class="category-icon">${icon(g.categories?.[0] || 'advies')}</span><h2>${esc(g.organization)}</h2><p class="detail-address">${esc((g.municipalities || []).join(', ') || 'Twente')}${g.offerCount > 1 ? ` · ${g.offerCount} onderdelen` : ''}</p><div class="detail-links">${g.primarySource ? `<a class="primary-link" href="${esc(g.primarySource)}" target="_blank" rel="noopener">Website</a>` : ''}<a href="voorzieningen.html">Alle voorzieningen</a></div><div class="detail-offers">${offerHtml}</div>${offers.length > 12 ? `<p class="meta">+${offers.length-12} meer</p>` : ''}${first ? `<p><a href="aanmelden.html?candidate=${encodeURIComponent(first.id)}">Correctie doorgeven</a></p>` : ''}`;
     d.querySelector('.detail-close').addEventListener('click', () => {
         state.selected = null;
         render();
     });
 }
-
 function showLocation(id, pan=false) {
     const p = locations.find(v => v.id === id);
     if (!p) return;
@@ -380,8 +323,8 @@ function showLocation(id, pan=false) {
     d.hidden = false;
     const route = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent([p.address,p.postcode,p.town].filter(Boolean).join(', '));
     const isContact = ['contact','source-address'].includes(p.locationType);
-    const isServiceAreaPin = p.mapLocationType === 'service-area';
-    const addressLabel = isContact || isServiceAreaPin ? 'Contact-/vestigingsadres' : 'Bezoekadres';
+    const isServiceAreaPin = p.mapLocationType === 'service-area' || (Number.isFinite(p.lat) && Number.isFinite(p.lon) && !(p.lat >= 51.95 && p.lat <= 52.58 && p.lon >= 6.25 && p.lon <= 7.25));
+    const addressLabel = isContact || isServiceAreaPin ? 'Contactadres' : 'Bezoekadres';
     const locationMunicipality = p.locationMunicipality || p.municipality || '';
     const serviceLine = serviceAreas.length
         ? `<p class="detail-service-area"><strong>Actief in</strong><br>${esc(serviceAreas.join(', '))}</p>`
@@ -391,7 +334,8 @@ function showLocation(id, pan=false) {
         : isContact
             ? '<p class="location-note">Dit is het contact- of vestigingsadres. De activiteit zelf kan op een andere locatie, in de wijk of bij inwoners thuis plaatsvinden.</p>'
             : '';
-    d.innerHTML = `<button class="detail-close" aria-label="Locatie sluiten">×</button><span class="category-icon">${icon(p.category)}</span><h2>${esc(p.name)}</h2><p>${esc(p.description)}</p><p class="detail-address"><strong>${addressLabel}</strong><br>${esc(p.address)}${p.postcode ? ` · ${esc(p.postcode)}` : ''}<br>${esc(p.town)}${locationMunicipality ? ` · gemeente ${esc(locationMunicipality)}` : ''}</p>${locationNote}<div class="detail-links"><a class="primary-link" href="${esc(p.source)}" target="_blank" rel="noopener">Website & informatie ↗</a><a href="${route}" target="_blank" rel="noopener">Route ↗</a></div><div class="detail-extra">${[["Doelgroep", p.audience], ["Kosten", p.costs], ["Toegang", p.access], ["Openingstijden", p.openingHours], ["Telefoon", p.phone], ["E-mail", p.email]].filter(([,v]) => v).map(([k,v]) => `<p><strong>${k}</strong><br>${esc(v)}</p>`).join('')}${serviceLine}</div><p><a href="aanmelden.html?id=${encodeURIComponent(p.id)}">Wijziging doorgeven →</a></p><p class="meta">Bron geraadpleegd: ${esc(p.checked || 'onbekend')}</p>`;
+    const routeLink = (!isContact && !isServiceAreaPin) ? `<a href="${route}" target="_blank" rel="noopener">Route</a>` : '';
+    d.innerHTML = `<button class="detail-close" aria-label="Locatie sluiten">×</button><span class="category-icon">${icon(p.category)}</span><h2>${esc(p.name)}</h2>${p.description ? `<p>${esc(p.description)}</p>` : ''}<p class="detail-address"><strong>${addressLabel}</strong><br>${esc(p.address)}${p.postcode ? ` · ${esc(p.postcode)}` : ''}<br>${esc(p.town)}</p>${locationNote}<div class="detail-links"><a class="primary-link" href="${esc(p.source)}" target="_blank" rel="noopener">Website</a>${routeLink}</div><div class="detail-extra">${[["Voor wie", p.audience], ["Kosten", p.costs], ["Toegang", p.access], ["Telefoon", p.phone], ["E-mail", p.email]].filter(([,v]) => v).map(([k,v]) => `<p><strong>${k}</strong><br>${esc(v)}</p>`).join('')}${serviceLine}</div><p><a href="aanmelden.html?id=${encodeURIComponent(p.id)}">Correctie doorgeven</a></p>`;
     d.querySelector('.detail-close').addEventListener('click', () => {
         state.selected = null;
         render();
@@ -459,7 +403,8 @@ function makeMarker(coords, html, className, size, label) {
     });
 }
 function markerCoords(p) {
-    if (p.mapLocationType === 'service-area') {
+    const outsideTwente = Number.isFinite(p.lat) && Number.isFinite(p.lon) && !(p.lat >= 51.95 && p.lat <= 52.58 && p.lon >= 6.25 && p.lon <= 7.25);
+    if (p.mapLocationType === 'service-area' || outsideTwente) {
         const areas = (p.serviceMunicipalities && p.serviceMunicipalities.length) ? p.serviceMunicipalities : [p.municipality].filter(Boolean);
         const preferred = state.municipality && areas.includes(state.municipality) ? state.municipality : areas[0];
         if (preferred && anchors[preferred]) return anchors[preferred];
@@ -603,7 +548,6 @@ async function init() {
             o.textContent = n;
             $('municipality').append(o);
         });
-        $('coverage-description').textContent = `De kaart bevat ${locations.length} kaartbare voorzieningen en contactlocaties. Daarnaast kun je zoeken in ${catalog.length} organisaties met samen ${catalog.reduce((n,g) => n + (g.offerCount || 0), 0)} vormen van sociaal aanbod. Als een activiteit geen eigen bezoekadres heeft, tonen we het gevonden contact- of vestigingsadres en vermelden we dat expliciet.`;
         if (typeof L === 'undefined')
             throw Error('De interactieve kaart kon niet worden geladen. De lijst blijft beschikbaar.');
         map = L.map('map', {
