@@ -12,6 +12,7 @@ Werkwijze:
 
 Het doel is niet om te suggereren dat ieder aanbod op het contactadres plaatsvindt.
 Daarom bewaren we locationType en locationSource expliciet.
+Wordt ook vanuit GitHub Actions gebruikt wanneer brondata of deze verrijker wijzigt.
 """
 from __future__ import annotations
 
