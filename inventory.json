@@ -1,6 +1,6 @@
 {
-  "checked": "2026-09-15",
-  "method": "Broninventarisatie van voorliggend aanbod. Medische behandeling, geïndiceerde zorg, scholen en commerciële praktijken zijn uitgesloten. Controleer actuele toegang en kosten bij de aanbieder.",
+  "checked": "2026-10-01",
+  "method": "Broninventarisatie van voorliggend aanbod. Medische behandeling, geïndiceerde zorg, scholen en commerciële praktijken zijn uitgesloten. Officiële aanbieder- en gemeentelijke bronnen worden waar mogelijk automatisch voorzien van een kaartbaar bezoek-, contact- of vestigingsadres.",
   "candidates": [
     {
       "id": "candidate-2cbf3153ac57d056",
@@ -164,7 +164,7 @@
           "budgethulp"
         ],
         "themeScores": {
-          "geld": 15.0
+          "geld": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -223,7 +223,7 @@
           "jongerenwerk"
         ],
         "themeScores": {
-          "jeugd": 15.0
+          "jeugd": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -284,7 +284,7 @@
           "opvoeden"
         ],
         "themeScores": {
-          "jeugd": 15.0
+          "jeugd": 15
         },
         "audienceSuggestion": "Ouders en gezinnen",
         "audienceConfidence": "hoog",
@@ -342,7 +342,7 @@
           "seniorenwerk"
         ],
         "themeScores": {
-          "ontmoeten": 9.0
+          "ontmoeten": 9
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -401,7 +401,7 @@
           "taalondersteuning"
         ],
         "themeScores": {
-          "taal": 15.0
+          "taal": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -579,7 +579,7 @@
           "alzheimer"
         ],
         "themeScores": {
-          "ontmoeten": 15.0,
+          "ontmoeten": 15,
           "mantelzorg": 18.8
         },
         "audienceSuggestion": "Mensen met dementie en hun naasten",
@@ -1774,7 +1774,7 @@
           "bibliotheek"
         ],
         "themeScores": {
-          "taal": 15.0
+          "taal": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -1831,7 +1831,7 @@
           "bibliotheek"
         ],
         "themeScores": {
-          "taal": 15.0
+          "taal": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -1888,7 +1888,7 @@
           "bibliotheek"
         ],
         "themeScores": {
-          "taal": 15.0
+          "taal": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -2216,7 +2216,7 @@
           "bibliotheek"
         ],
         "themeScores": {
-          "taal": 15.0
+          "taal": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -2273,7 +2273,7 @@
           "bibliotheek"
         ],
         "themeScores": {
-          "taal": 15.0
+          "taal": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -2493,7 +2493,7 @@
           "kringen"
         ],
         "themeScores": {
-          "ontmoeten": 30.0
+          "ontmoeten": 30
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -2554,7 +2554,7 @@
           "kringen"
         ],
         "themeScores": {
-          "ontmoeten": 30.0
+          "ontmoeten": 30
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -2611,7 +2611,7 @@
           "voorzieningenwijzer"
         ],
         "themeScores": {
-          "geld": 15.0
+          "geld": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -2668,7 +2668,7 @@
           "voorzieningenwijzer"
         ],
         "themeScores": {
-          "geld": 15.0
+          "geld": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -2725,7 +2725,7 @@
           "voorzieningenwijzer"
         ],
         "themeScores": {
-          "geld": 15.0
+          "geld": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -3080,7 +3080,7 @@
           "vrijwilligerspunt"
         ],
         "themeScores": {
-          "vrijwillig": 18.0
+          "vrijwillig": 18
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -3366,7 +3366,7 @@
           "activiteiten"
         ],
         "themeScores": {
-          "ontmoeten": 24.0
+          "ontmoeten": 24
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -3422,7 +3422,7 @@
           "cursussen"
         ],
         "themeScores": {
-          "ontmoeten": 6.0
+          "ontmoeten": 6
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -3478,7 +3478,7 @@
           "ondersteuning"
         ],
         "themeScores": {
-          "advies": 9.0
+          "advies": 9
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -3534,7 +3534,7 @@
           "sociaal werk"
         ],
         "themeScores": {
-          "advies": 6.0
+          "advies": 6
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -3594,7 +3594,7 @@
           "vrijwilligerswerk"
         ],
         "themeScores": {
-          "vrijwillig": 18.0
+          "vrijwillig": 18
         },
         "audienceSuggestion": "(Potentiële) vrijwilligers",
         "audienceConfidence": "middel",
@@ -3651,7 +3651,7 @@
           "bibliotheek"
         ],
         "themeScores": {
-          "taal": 15.0
+          "taal": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -4110,7 +4110,7 @@
           "thuisondersteuning"
         ],
         "themeScores": {
-          "vrijwillig": 24.0
+          "vrijwillig": 24
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -4172,8 +4172,8 @@
           "vrijwillige ondersteuning"
         ],
         "themeScores": {
-          "advies": 9.0,
-          "vrijwillig": 30.0
+          "advies": 9,
+          "vrijwillig": 30
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -4634,7 +4634,7 @@
         ],
         "themeScores": {
           "advies": 2.2,
-          "taal": 12.0
+          "taal": 12
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -4746,7 +4746,7 @@
           "ixta noa"
         ],
         "themeScores": {
-          "mentaal": 20.0
+          "mentaal": 20
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -5255,7 +5255,7 @@
           "vrijwillige"
         ],
         "themeScores": {
-          "vrijwillig": 18.0
+          "vrijwillig": 18
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -5554,7 +5554,7 @@
           "clientondersteun"
         ],
         "themeScores": {
-          "advies": 18.0
+          "advies": 18
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -5628,7 +5628,7 @@
           "herstel"
         ],
         "themeScores": {
-          "mentaal": 15.0
+          "mentaal": 15
         },
         "audienceSuggestion": "Mensen met psychische kwetsbaarheid of herstelvragen",
         "audienceConfidence": "hoog",
@@ -6103,7 +6103,7 @@
           "gezin"
         ],
         "themeScores": {
-          "jeugd": 21.0
+          "jeugd": 21
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -7058,7 +7058,7 @@
           "formulieren"
         ],
         "themeScores": {
-          "geld": 15.0
+          "geld": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -7310,7 +7310,7 @@
           "gezin"
         ],
         "themeScores": {
-          "jeugd": 30.0
+          "jeugd": 30
         },
         "audienceSuggestion": "Ouders en gezinnen",
         "audienceConfidence": "hoog",
@@ -8553,7 +8553,7 @@
         ],
         "themeScores": {
           "jeugd": 7.5,
-          "bewegen": 45.0
+          "bewegen": 45
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -8619,7 +8619,7 @@
           "maatschappelijk werk"
         ],
         "themeScores": {
-          "advies": 18.0,
+          "advies": 18,
           "jeugd": 7.5
         },
         "audienceSuggestion": "",
@@ -10209,7 +10209,7 @@
           "taalpunt"
         ],
         "themeScores": {
-          "taal": 15.0
+          "taal": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -10515,7 +10515,7 @@
           "voedselbank"
         ],
         "themeScores": {
-          "geld": 20.0
+          "geld": 20
         },
         "audienceSuggestion": "Mensen met geldzorgen of een laag inkomen",
         "audienceConfidence": "hoog",
@@ -10684,7 +10684,7 @@
           "activiteiten"
         ],
         "themeScores": {
-          "ontmoeten": 30.0
+          "ontmoeten": 30
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -10985,7 +10985,7 @@
           "mantelzorg"
         ],
         "themeScores": {
-          "mantelzorg": 18.0
+          "mantelzorg": 18
         },
         "audienceSuggestion": "Mantelzorgers",
         "audienceConfidence": "hoog",
@@ -12036,7 +12036,7 @@
           "buurtbemiddeling"
         ],
         "themeScores": {
-          "advies": 21.0
+          "advies": 21
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -12327,7 +12327,7 @@
         ],
         "themeScores": {
           "advies": 2.2,
-          "taal": 15.0
+          "taal": 15
         },
         "audienceSuggestion": "Nieuwkomers / mensen die de Nederlandse taal leren",
         "audienceConfidence": "hoog",
@@ -13026,7 +13026,7 @@
           "informatie"
         ],
         "themeScores": {
-          "advies": 9.0
+          "advies": 9
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -13498,7 +13498,7 @@
         ],
         "themeScores": {
           "advies": 11.2,
-          "geld": 15.0
+          "geld": 15
         },
         "audienceSuggestion": "",
         "audienceConfidence": "onvoldoende",
@@ -14335,6 +14335,652 @@
         ]
       },
       "primaryTheme": "ontmoeten"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-alifa-automaatje",
+      "name": "Alifa · AutoMaatje",
+      "source": "https://www.alifa.nl/dienst/32/automaatje",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Alifa",
+      "category": "vervoer",
+      "access": "Vooraf gratis inschrijven bij Alifa; ritten worden door vrijwilligers uitgevoerd.",
+      "description": "Vrijwilligers vervoeren minder mobiele senioren zodat zij kunnen blijven meedoen en afspraken of sociale activiteiten kunnen bezoeken.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "audience": "Senioren in Enschede die minder mobiel zijn.",
+      "costs": "Kleine kilometervergoeding en eventuele parkeerkosten; zie bron voor het actuele tarief.",
+      "themes": [
+        "vervoer"
+      ],
+      "subthemes": [
+        "vervoer",
+        "senioren"
+      ],
+      "tags": [
+        "vervoer",
+        "senioren",
+        "automaatje"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "vervoer"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-alifa-boodschappendienst",
+      "name": "Alifa · Boodschappendienst",
+      "source": "https://www.alifa.nl/dienst/69/boodschappendienst",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Alifa",
+      "category": "advies",
+      "access": "Aanmelden bij Alifa Welzijn Senioren.",
+      "description": "Vrijwillige hulp voor senioren die niet zelfstandig boodschappen kunnen doen, inclusief hulp bij digitaal bestellen.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/69/boodschappendienst",
+      "audience": "Senioren die niet zelfstandig hun boodschappen kunnen doen.",
+      "costs": "Kleine bijdrage voor de vrijwilliger; zie bron voor de actuele voorwaarden.",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "praktische hulp",
+        "senioren"
+      ],
+      "tags": [
+        "advies",
+        "praktische hulp",
+        "boodschappen",
+        "senioren"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "advies"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-alifa-vind-gezelschap",
+      "name": "Alifa · Vind Gezelschap",
+      "source": "https://www.alifa.nl/dienst/34/vind-gezelschap",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Alifa",
+      "category": "ontmoeten",
+      "access": "Aanmelden bij Alifa voor toegang tot het afgeschermde platform.",
+      "description": "Ondersteund platform waarmee senioren in contact kunnen komen met anderen voor gezelschap en gezamenlijke activiteiten.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/34/vind-gezelschap",
+      "audience": "Senioren die gezelschap zoeken of samen activiteiten willen ondernemen.",
+      "costs": "Gratis.",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "eenzaamheid",
+        "maatjes"
+      ],
+      "tags": [
+        "ontmoeten",
+        "eenzaamheid",
+        "maatjes",
+        "senioren"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "ontmoeten"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-alifa-ontmoetingsgroepen-senioren",
+      "name": "Alifa · ontmoetingsgroepen senioren",
+      "source": "https://www.alifa.nl/dienst/24/ontmoetingsgroepen",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Alifa",
+      "category": "ontmoeten",
+      "access": "Vrij inlopen of contact opnemen met Alifa voor meer informatie.",
+      "description": "Wekelijkse ontmoetingsgroepen voor oudere inwoners met verschillende taal- en culturele achtergronden, op meerdere locaties in Enschede.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/24/ontmoetingsgroepen",
+      "audience": "Senioren, waaronder ouderen met een migratieachtergrond.",
+      "costs": "Gratis.",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "senioren",
+        "meertalige ontmoeting"
+      ],
+      "tags": [
+        "ontmoeten",
+        "senioren",
+        "eenzaamheid"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "ontmoeten"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-alifa-huiskamers-ontmoetingscentra",
+      "name": "Alifa · huiskamers en ontmoetingscentra",
+      "source": "https://www.alifa.nl/dienst/62/huiskamers-en-ontmoetingscentra",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Alifa",
+      "category": "ontmoeten",
+      "access": "Neem contact op met het betreffende ontmoetingscentrum of Alifa.",
+      "description": "Ontmoetingsplekken met activiteiten, informatie en steun voor mensen met beginnende dementie en hun naasten.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/62/huiskamers-en-ontmoetingscentra",
+      "audience": "Mensen met een lichte vorm van dementie en partners of mantelzorgers.",
+      "costs": "",
+      "themes": [
+        "ontmoeten",
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "dementie",
+        "mantelzorg"
+      ],
+      "tags": [
+        "ontmoeten",
+        "mantelzorg",
+        "dementie"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "ontmoeten"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-alifa-ouder-kindgroepen",
+      "name": "Alifa · ontmoetingsgroepen ouders en kinderen",
+      "source": "https://www.alifa.nl/dienst/40/ontmoetingsgroepen",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Alifa",
+      "category": "jeugd",
+      "access": "Vrij en vrijblijvend inlopen bij de groep; geen afspraak nodig.",
+      "description": "Wekelijkse groepen verspreid door Enschede waar ouders elkaar ontmoeten en informatie krijgen over opvoeding en ontwikkeling.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/40/ontmoetingsgroepen",
+      "audience": "Ouders met jonge kinderen en, bij enkele groepen, kinderen tot 12 jaar.",
+      "costs": "Gratis.",
+      "themes": [
+        "jeugd",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "opvoeden & gezin"
+      ],
+      "tags": [
+        "jeugd",
+        "opvoeden & gezin",
+        "ontmoeten"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "jeugd"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-alifa-thuisadministratie",
+      "name": "Alifa · thuisadministratie",
+      "source": "https://www.alifa.nl/dienst/72/thuisadministratie",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Alifa",
+      "category": "geld",
+      "access": "Aanmelden voor een kennismaking; daarna kan een vrijwilliger ondersteunen.",
+      "description": "Vrijwillige ondersteuning bij het ordenen en bijhouden van administratie, brieven, rekeningen en formulieren.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/72/thuisadministratie",
+      "audience": "Inwoners die overzicht in administratie en geldzaken kwijt zijn.",
+      "costs": "",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "administratie",
+        "geldzorgen"
+      ],
+      "tags": [
+        "geld",
+        "administratie",
+        "papierwerk"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "geld"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-leergeld-school-digitaal",
+      "name": "Stichting Leergeld Enschede · schoolspullen en digitale middelen",
+      "source": "https://www.leergeldenschede.nl/mogelijkheden",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Stichting Leergeld Enschede",
+      "category": "geld",
+      "access": "Aanvraag voor gezinnen met geldzorgen die aan de voorwaarden van Leergeld Enschede voldoen.",
+      "description": "Ondersteuning voor kinderen met onder meer schoolspullen, schooltas, laptop of Chromebook en andere benodigdheden.",
+      "address": "Haaksbergerstraat 153",
+      "postcode": "7513EL",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.leergeldenschede.nl/contact",
+      "audience": "Kinderen tot en met 17 jaar uit gezinnen met weinig financiële ruimte.",
+      "costs": "Voor gezinnen die aan de voorwaarden voldoen worden voorzieningen geheel of gedeeltelijk betaald.",
+      "themes": [
+        "geld",
+        "taal"
+      ],
+      "subthemes": [
+        "kindpakket",
+        "digitale middelen"
+      ],
+      "tags": [
+        "geld",
+        "jeugd",
+        "school",
+        "laptop"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "geld"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-leergeld-sport-cultuur",
+      "name": "Stichting Leergeld Enschede · sport, cultuur en zwemles",
+      "source": "https://www.leergeldenschede.nl/mogelijkheden",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Stichting Leergeld Enschede",
+      "category": "bewegen",
+      "access": "Aanvraag voor gezinnen met geldzorgen die aan de voorwaarden van Leergeld Enschede voldoen.",
+      "description": "Hulp bij onder meer sportlidmaatschap, cultuurdeelname, zwemles en benodigde kleding of materialen.",
+      "address": "Haaksbergerstraat 153",
+      "postcode": "7513EL",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.leergeldenschede.nl/contact",
+      "audience": "Kinderen tot en met 17 jaar uit gezinnen met weinig financiële ruimte.",
+      "costs": "Voor gezinnen die aan de voorwaarden voldoen worden voorzieningen geheel of gedeeltelijk betaald.",
+      "themes": [
+        "bewegen",
+        "geld",
+        "jeugd"
+      ],
+      "subthemes": [
+        "sport",
+        "cultuur",
+        "zwemles"
+      ],
+      "tags": [
+        "bewegen",
+        "geld",
+        "jeugd",
+        "sport",
+        "cultuur",
+        "zwemles"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "bewegen"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-leergeld-fiets-meedoen",
+      "name": "Stichting Leergeld Enschede · fiets en meedoen",
+      "source": "https://www.leergeldenschede.nl/mogelijkheden",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Stichting Leergeld Enschede",
+      "category": "geld",
+      "access": "Aanvraag voor gezinnen met geldzorgen die aan de voorwaarden van Leergeld Enschede voldoen.",
+      "description": "Leergeld kan kinderen ondersteunen met onder meer een fiets en andere middelen die nodig zijn om mee te doen.",
+      "address": "Haaksbergerstraat 153",
+      "postcode": "7513EL",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.leergeldenschede.nl/contact",
+      "audience": "Kinderen tot en met 17 jaar uit gezinnen met weinig financiële ruimte.",
+      "costs": "Voor gezinnen die aan de voorwaarden voldoen worden voorzieningen geheel of gedeeltelijk betaald.",
+      "themes": [
+        "geld",
+        "jeugd"
+      ],
+      "subthemes": [
+        "kindpakket",
+        "meedoen"
+      ],
+      "tags": [
+        "geld",
+        "jeugd",
+        "fiets",
+        "meedoen"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "geld"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-kledingbank-enschede",
+      "name": "Kledingbank Enschede · gratis kleding en textiel",
+      "source": "https://www.kledingbankenschede.nl/klant-worden/",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Kledingbank Enschede",
+      "category": "geld",
+      "access": "Aanvraag via een verwijzende organisatie; inwoners zonder begeleiding kunnen contact opnemen met genoemde inloop-/adviespunten.",
+      "description": "Gratis kleding, schoenen en huishoudtextiel voor inwoners van Enschede met een beperkt budget.",
+      "address": "Haaksbergerstraat 153",
+      "postcode": "7513EL",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.kledingbankenschede.nl/contactgegevens-en-bereikbaarheid/",
+      "audience": "Inwoners van Enschede met een beperkt budget.",
+      "costs": "Gratis.",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "bestaanszekerheid",
+        "kleding"
+      ],
+      "tags": [
+        "geld",
+        "bestaanszekerheid",
+        "kleding"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "geld"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-jeugdfonds-enschede",
+      "name": "Jeugdfonds Sport & Cultuur Enschede · contributie en materialen",
+      "source": "https://jeugdfondssportencultuur.nl/fondsen/enschede/",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "Jeugdfonds Sport & Cultuur Enschede",
+      "category": "bewegen",
+      "access": "Aanvraag voor ouders met geldzorgen; in Enschede loopt dit samen met Stichting Leergeld Enschede.",
+      "description": "Het fonds betaalt voor kinderen uit gezinnen met geldzorgen (een deel van) contributie, lesgeld en benodigde materialen voor sport en cultuur.",
+      "address": "Haaksbergerstraat 153",
+      "postcode": "7513EL",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://jeugdfondssportencultuur.nl/fondsen/enschede/",
+      "audience": "Kinderen tot en met 17 jaar uit gezinnen met geldzorgen.",
+      "costs": "Voor deelnemers die aan de voorwaarden voldoen wordt de bijdrage door het fonds betaald.",
+      "themes": [
+        "bewegen",
+        "geld",
+        "jeugd"
+      ],
+      "subthemes": [
+        "sport",
+        "cultuur"
+      ],
+      "tags": [
+        "bewegen",
+        "geld",
+        "jeugd",
+        "sport",
+        "cultuur"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "bewegen"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-mpact-maatjes",
+      "name": "M-Pact · hulp bij het vinden van een maatje",
+      "source": "https://www.m-pact.nl/maatjes",
+      "municipalities": [
+        "Enschede"
+      ],
+      "sourceTitle": "M-Pact",
+      "category": "ontmoeten",
+      "access": "Neem rechtstreeks contact op met M-Pact; zij denken mee en verwijzen naar een passende maatjesorganisatie.",
+      "description": "M-Pact brengt inwoners met een hulpvraag in contact met organisaties in Enschede die verschillende soorten maatjes inzetten.",
+      "address": "Roomweg 165H",
+      "postcode": "7523BM",
+      "town": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.m-pact.nl/contact",
+      "audience": "Inwoners van Enschede die een maatje zoeken of maatje willen worden.",
+      "costs": "",
+      "themes": [
+        "ontmoeten",
+        "vrijwillig"
+      ],
+      "subthemes": [
+        "maatjes",
+        "eenzaamheid"
+      ],
+      "tags": [
+        "ontmoeten",
+        "vrijwillig",
+        "maatjes",
+        "eenzaamheid"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "ontmoeten"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-humanitas-getagrip",
+      "name": "Humanitas Twente · Get a Grip",
+      "source": "https://www.humanitas.nl/districten/district-oost/activiteiten/thuisadministratie/",
+      "municipalities": [
+        "Borne",
+        "Enschede",
+        "Haaksbergen",
+        "Losser",
+        "Oldenzaal"
+      ],
+      "sourceTitle": "Humanitas Twente",
+      "category": "geld",
+      "access": "Vrijwillige ondersteuning; neem contact op met Humanitas voor aanmelding en beschikbaarheid.",
+      "description": "Vrijwillige coaching voor jongeren en jongvolwassenen om grip te krijgen op geldzaken en administratie.",
+      "address": "",
+      "postcode": "",
+      "town": "",
+      "locationType": "contact",
+      "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+      "audience": "Jongeren en jongvolwassenen met vragen of stress rond geld en administratie.",
+      "costs": "Gratis vrijwilligershulp.",
+      "themes": [
+        "geld",
+        "jeugd"
+      ],
+      "subthemes": [
+        "geldzorgen",
+        "administratie"
+      ],
+      "tags": [
+        "geld",
+        "jeugd",
+        "administratie"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "geld"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-humanitas-bor",
+      "name": "Humanitas Twente · Begeleide Omgangsregeling",
+      "source": "https://www.humanitas.nl/districten/district-oost/activiteiten/opvoeden/",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "sourceTitle": "Humanitas Twente",
+      "category": "jeugd",
+      "access": "Vrijwillige ondersteuning; neem contact op met Humanitas Twente voor aanmelding en voorwaarden.",
+      "description": "Vrijwilligers ondersteunen ouders na een scheiding bij het opbouwen van een werkbare omgangsregeling voor hun kinderen.",
+      "address": "",
+      "postcode": "",
+      "town": "",
+      "locationType": "contact",
+      "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+      "audience": "Gescheiden ouders en hun kinderen.",
+      "costs": "",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "scheiding",
+        "ouders"
+      ],
+      "tags": [
+        "jeugd",
+        "opvoeden & gezin",
+        "scheiding"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "jeugd"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-01",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "candidate-20261001-humanitas-klets",
+      "name": "Humanitas Twente · Klets & Baby / Klets & Dreumes",
+      "source": "https://www.humanitas.nl/districten/district-oost/activiteiten/opvoeden/",
+      "municipalities": [
+        "Enschede",
+        "Hengelo"
+      ],
+      "sourceTitle": "Humanitas Twente",
+      "category": "jeugd",
+      "access": "Neem contact op met Humanitas Twente voor actuele momenten en locaties.",
+      "description": "Laagdrempelige ontmoetings- en opvoedactiviteiten voor ouders met baby's en dreumesen in Enschede en Hengelo.",
+      "address": "",
+      "postcode": "",
+      "town": "",
+      "locationType": "contact",
+      "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+      "audience": "Ouders met baby's en dreumesen.",
+      "costs": "",
+      "themes": [
+        "jeugd",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "opvoeden & gezin"
+      ],
+      "tags": [
+        "jeugd",
+        "ontmoeten",
+        "opvoeden & gezin"
+      ],
+      "municipality": "Enschede",
+      "primaryTheme": "jeugd"
     }
   ],
   "sources": [
@@ -16074,6 +16720,135 @@
       "url": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer",
       "municipalities": [
         "Twenterand"
+      ]
+    },
+    {
+      "title": "Alifa",
+      "url": "https://www.alifa.nl/dienst/32/automaatje",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Alifa",
+      "url": "https://www.alifa.nl/dienst/69/boodschappendienst",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Alifa",
+      "url": "https://www.alifa.nl/dienst/34/vind-gezelschap",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Alifa",
+      "url": "https://www.alifa.nl/dienst/24/ontmoetingsgroepen",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Alifa",
+      "url": "https://www.alifa.nl/dienst/62/huiskamers-en-ontmoetingscentra",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Alifa",
+      "url": "https://www.alifa.nl/dienst/40/ontmoetingsgroepen",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Alifa",
+      "url": "https://www.alifa.nl/dienst/72/thuisadministratie",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Stichting Leergeld Enschede",
+      "url": "https://www.leergeldenschede.nl/mogelijkheden",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Stichting Leergeld Enschede · contact/locatie",
+      "url": "https://www.leergeldenschede.nl/contact",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Kledingbank Enschede",
+      "url": "https://www.kledingbankenschede.nl/klant-worden/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Kledingbank Enschede · contact/locatie",
+      "url": "https://www.kledingbankenschede.nl/contactgegevens-en-bereikbaarheid/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Jeugdfonds Sport & Cultuur Enschede",
+      "url": "https://jeugdfondssportencultuur.nl/fondsen/enschede/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "M-Pact",
+      "url": "https://www.m-pact.nl/maatjes",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "M-Pact · contact/locatie",
+      "url": "https://www.m-pact.nl/contact",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Humanitas Twente",
+      "url": "https://www.humanitas.nl/districten/district-oost/activiteiten/thuisadministratie/",
+      "municipalities": [
+        "Borne",
+        "Enschede",
+        "Haaksbergen",
+        "Losser",
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Humanitas Twente",
+      "url": "https://www.humanitas.nl/districten/district-oost/activiteiten/opvoeden/",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
       ]
     }
   ],
