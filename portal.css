@@ -320,3 +320,33 @@ html[data-color-scheme="dark"] .badge.approved {
     background:#234035;
     color:#b9e3cb;
 }
+
+
+/* CLEAN SOCIAL MAP PORTAL */
+body[data-theme="wijkwijzer"]{
+  --primary:#326052;
+  --accent:#d16e27;
+  --tint:#fff3e6;
+  --ink:#345449;
+  background:#fffcf6;
+}
+.portal-header{background:#fffdf8}
+.portal-brand{color:var(--primary);font-weight:700}
+.portal-brand:first-letter{color:var(--accent)}
+.portal-main>.eyebrow,.portal-main>.lead,.portal-main>.notice,.steps{display:none}
+.portal-main>h1{margin-top:8px;margin-bottom:24px}
+.portal-footer{display:flex;justify-content:space-between;gap:24px;align-items:center}
+.portal-footer-links{display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+.portal-footer-links a,.portal-footer-links button{border:0;background:none;padding:0;color:var(--primary);font:inherit;text-decoration:none;cursor:pointer}
+.portal-footer-links a:hover,.portal-footer-links button:hover{text-decoration:underline;text-underline-offset:3px}
+.portal-legal-dialog{max-width:560px;border:0;border-radius:18px;padding:30px;color:var(--ink);box-shadow:0 20px 80px #0003}
+.portal-legal-dialog::backdrop{background:#28242c80}
+.portal-legal-dialog .dialog-x{position:absolute;right:14px;top:10px;border:0;background:none;font-size:26px;cursor:pointer}
+.portal-legal-dialog p{line-height:1.65;color:#6f6671}
+html[data-color-scheme="dark"] body[data-theme="wijkwijzer"]{--primary:#b9ded1;--accent:#e4a068;--tint:#2b3832;--ink:#eff7f3;background:#171a18}
+html[data-color-scheme="dark"] .portal-header{background:#211f24}
+html[data-color-scheme="dark"] .portal-footer-links a,
+html[data-color-scheme="dark"] .portal-footer-links button{color:#e4a068}
+html[data-color-scheme="dark"] .portal-legal-dialog{background:#242126;color:#eee9ee}
+html[data-color-scheme="dark"] .portal-legal-dialog p{color:#c2b8c2}
+@media(max-width:760px){.portal-footer{align-items:flex-start;flex-direction:column}.portal-footer-links{gap:12px}}
