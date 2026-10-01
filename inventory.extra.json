@@ -117,7 +117,12 @@
       "town": "Wierden",
       "locationType": "visiting",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -155,7 +160,12 @@
       "town": "Wierden",
       "locationType": "visiting",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -193,7 +203,12 @@
       "town": "Wierden",
       "locationType": "visiting",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -231,7 +246,12 @@
       "town": "Wierden",
       "locationType": "visiting",
       "locationSource": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -265,11 +285,16 @@
       "access": "Bekijk de actuele tijden bij De Welle.",
       "costs": "Gratis.",
       "address": "Dorpsstraat 55",
-      "postcode": "",
+      "postcode": "7468CE",
       "town": "Enter",
       "locationType": "visiting",
       "locationSource": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.29697899,
+      "lon": 6.57791904,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -302,12 +327,17 @@
       "audience": "Inwoners van de betreffende gemeente.",
       "access": "Bekijk de actuele tijden bij De Welle.",
       "costs": "Controleer de actuele bijdrage.",
-      "address": "'t Wedervoort 1",
+      "address": "'t Wedervoort 2",
       "postcode": "7641VB",
       "town": "Wierden",
       "locationType": "visiting",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.35859255,
+      "lon": 6.59677896,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -345,7 +375,12 @@
       "town": "Nijverdal",
       "locationType": "visiting",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/20",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.37336055,
+      "lon": 6.45999551,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -378,12 +413,17 @@
       "audience": "Inwoners van de betreffende gemeente.",
       "access": "Bekijk de actuele tijden bij De Welle.",
       "costs": "Gratis.",
-      "address": "",
-      "postcode": "",
-      "town": "Nijverdal",
-      "locationType": "contact",
-      "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
-      "mapPin": false
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "locationType": "source-address",
+      "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
+      "mapPin": false,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -416,12 +456,17 @@
       "audience": "Inwoners van de betreffende gemeente.",
       "access": "Bekijk de actuele tijden bij De Welle.",
       "costs": "Gratis.",
-      "address": "",
-      "postcode": "",
-      "town": "Nijverdal",
-      "locationType": "contact",
-      "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
-      "mapPin": false
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "locationType": "source-address",
+      "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
+      "mapPin": false,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -453,7 +498,17 @@
       "description": "Vrijwilligers vervoeren minder mobiele plaatsgenoten naar afspraken en sociale activiteiten.",
       "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
       "access": "Rechtstreeks via Salut; controleer actuele startdata.",
-      "costs": "Onkostenvergoeding per kilometer."
+      "costs": "Onkostenvergoeding per kilometer.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -485,7 +540,17 @@
       "description": "Koppelt gezinnen die tijdelijk steun kunnen gebruiken aan een vrijwillig steungezin.",
       "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
       "access": "Rechtstreeks via Salut; controleer actuele startdata.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -517,7 +582,17 @@
       "description": "Gratis groepstraining over herkennen van dementie en praktisch omgaan met situaties.",
       "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
       "access": "Rechtstreeks via Salut; controleer actuele startdata.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -549,7 +624,17 @@
       "description": "Gratis themabijeenkomst voor verenigingen en clubs over mensen met dementie blijven betrekken.",
       "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
       "access": "Rechtstreeks via Salut; controleer actuele startdata.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -581,7 +666,17 @@
       "description": "Gratis hulp bij digitale overheidszaken en oefenen met digitale, taal- en rekenvaardigheden.",
       "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
       "access": "Rechtstreeks via Salut; controleer actuele startdata.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -616,12 +711,17 @@
       "audience": "Mensen met dementie, mantelzorgers, naasten en geïnteresseerden.",
       "access": "Vrije inloop; aanmelden is niet nodig.",
       "costs": "Gratis.",
-      "address": "De Höfte 5",
+      "address": "de Höfte 5",
       "postcode": "7471DK",
       "town": "Goor",
       "locationType": "visiting",
       "locationSource": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.23333695,
+      "lon": 6.58441448,
+      "locationMunicipality": "Hof van Twente",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -659,7 +759,12 @@
       "town": "Losser",
       "locationType": "service",
       "locationSource": "https://www.fundamentlosser.nl/agenda/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -693,11 +798,16 @@
       "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
       "costs": "Bijdrage volgens het actuele programma.",
       "address": "Prins Hendrikstraat 1",
-      "postcode": "",
+      "postcode": "7586BG",
       "town": "Overdinkel",
       "locationType": "service",
       "locationSource": "https://www.fundamentlosser.nl/agenda/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.23875481,
+      "lon": 7.03503715,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -731,11 +841,16 @@
       "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
       "costs": "Laagdrempelig; controleer eventuele bijdrage.",
       "address": "Denekamperdijk 46",
-      "postcode": "",
+      "postcode": "7581PJ",
       "town": "Losser",
       "locationType": "service",
       "locationSource": "https://www.fundamentlosser.nl/agenda/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.27295387,
+      "lon": 7.01981524,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -773,7 +888,12 @@
       "town": "Losser",
       "locationType": "service",
       "locationSource": "https://www.fundamentlosser.nl/agenda/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -805,7 +925,17 @@
       "description": "Wekelijkse creatieve en spelactiviteit voor kinderen van 5 tot en met 12 jaar in Overdinkel.",
       "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -837,7 +967,17 @@
       "description": "Wekelijkse maakactiviteit met onder meer 3D-printer, lasersnijder en micro:bits.",
       "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -869,7 +1009,17 @@
       "description": "Laagdrempelige terugkerende ontmoeting voor ouders en jonge kinderen.",
       "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -901,7 +1051,17 @@
       "description": "Inloop voor vragen over tablet, smartphone, laptop en digitale zaken.",
       "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -933,7 +1093,17 @@
       "description": "Maandelijkse ontmoeting voor slechtziende inwoners.",
       "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -965,7 +1135,17 @@
       "description": "Terugkerende ontmoeting voor ouderen rond cultuur en samenzijn.",
       "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -1005,7 +1185,12 @@
       "town": "Hengelo",
       "locationType": "service",
       "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.28498888,
+      "lon": 6.829373,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -1041,11 +1226,16 @@
       "access": "Vrij toegankelijk; vraag naar het actuele programma.",
       "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
       "address": "Wilderinksstraat 5-9",
-      "postcode": "",
+      "postcode": "7555DS",
       "town": "Hengelo",
       "locationType": "service",
       "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.25817303,
+      "lon": 6.7758793,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -1085,7 +1275,12 @@
       "town": "Hengelo",
       "locationType": "service",
       "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.27074775,
+      "lon": 6.7819718,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     }
   ],
   "addressEnrichmentVersion": 1,

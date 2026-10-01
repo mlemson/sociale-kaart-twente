@@ -2454,6 +2454,356 @@
     "catalogOrganizationId": "org-dagontmoeting-t-kruispunt-16ee16l"
   },
   {
+    "id": "offer-extra-20261002-dewelle-beweegtuin-wierden",
+    "name": "De Welle · Beweegtuin Wierden",
+    "category": "bewegen",
+    "address": "'t Wedervoort 2",
+    "postcode": "7641VB",
+    "town": "Wierden",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.35859255,
+    "lon": 6.59677896,
+    "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+    "checked": "2026-10-02",
+    "tags": [
+      "bewegen",
+      "activiteit",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "description": "Laagdrempelig samen bewegen met aandacht voor kracht, conditie en balans.",
+    "audience": "Inwoners van de betreffende gemeente.",
+    "costs": "Controleer de actuele bijdrage.",
+    "access": "Bekijk de actuele tijden bij De Welle.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-de-welle-10mgx5x"
+  },
+  {
+    "id": "offer-extra-20261002-dewelle-hobbyclub-wierden",
+    "name": "De Welle · Hobbyclub Wierden",
+    "category": "ontmoeten",
+    "address": "Dokter G.H. Beensweg 21",
+    "postcode": "7642CH",
+    "town": "Wierden",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.35470544,
+    "lon": 6.58036385,
+    "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "activiteit",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "description": "Gratis wekelijkse hobby- en handwerkgroep.",
+    "audience": "Inwoners van de betreffende gemeente.",
+    "costs": "Gratis.",
+    "access": "Bekijk de actuele tijden bij De Welle.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-de-welle-10mgx5x"
+  },
+  {
+    "id": "offer-extra-20261002-dewelle-inloop-wierden",
+    "name": "De Welle · Inloop Wierden",
+    "category": "ontmoeten",
+    "address": "Dokter G.H. Beensweg 21",
+    "postcode": "7642CH",
+    "town": "Wierden",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.35470544,
+    "lon": 6.58036385,
+    "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "activiteit",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "description": "Gratis wekelijkse inloop voor ontmoeting en vragen.",
+    "audience": "Inwoners van de betreffende gemeente.",
+    "costs": "Gratis.",
+    "access": "Bekijk de actuele tijden bij De Welle.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-de-welle-10mgx5x"
+  },
+  {
+    "id": "offer-extra-20261002-dewelle-jongerencentrum-place2be",
+    "name": "De Welle · Jongerencentrum Place2Be",
+    "category": "jeugd",
+    "address": "Duivecatelaan 4",
+    "postcode": "7443PS",
+    "town": "Nijverdal",
+    "municipality": "Hellendoorn",
+    "serviceMunicipalities": [
+      "Hellendoorn"
+    ],
+    "lat": 52.37336055,
+    "lon": 6.45999551,
+    "source": "https://www.dewelledoet.nl/activiteiten/20",
+    "checked": "2026-10-02",
+    "tags": [
+      "jeugd",
+      "activiteit",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "description": "Gratis jongerencentrum met inloop, activiteiten en jongerenwerk.",
+    "audience": "Inwoners van de betreffende gemeente.",
+    "costs": "Gratis.",
+    "access": "Bekijk de actuele tijden bij De Welle.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.dewelledoet.nl/activiteiten/20",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-de-welle-10mgx5x"
+  },
+  {
+    "id": "offer-extra-20261002-dewelle-kom-d-r-in-enter",
+    "name": "De Welle · Kom d'r In Enter",
+    "category": "mantelzorg",
+    "address": "Dorpsstraat 55",
+    "postcode": "7468CE",
+    "town": "Enter",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.29697899,
+    "lon": 6.57791904,
+    "source": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
+    "checked": "2026-10-02",
+    "tags": [
+      "mantelzorg",
+      "activiteit",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "description": "Vrij toegankelijke ontmoeting voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
+    "audience": "Inwoners van de betreffende gemeente.",
+    "costs": "Gratis.",
+    "access": "Bekijk de actuele tijden bij De Welle.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-de-welle-10mgx5x"
+  },
+  {
+    "id": "offer-extra-20261002-dewelle-kom-d-r-in-wierden",
+    "name": "De Welle · Kom d'r In Wierden",
+    "category": "mantelzorg",
+    "address": "Dokter G.H. Beensweg 21",
+    "postcode": "7642CH",
+    "town": "Wierden",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.35470544,
+    "lon": 6.58036385,
+    "source": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
+    "checked": "2026-10-02",
+    "tags": [
+      "mantelzorg",
+      "activiteit",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "description": "Vrij toegankelijke ontmoeting voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
+    "audience": "Inwoners van de betreffende gemeente.",
+    "costs": "Gratis.",
+    "access": "Bekijk de actuele tijden bij De Welle.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-de-welle-10mgx5x"
+  },
+  {
+    "id": "offer-extra-20261002-dewelle-schilderclub-wierden",
+    "name": "De Welle · Schilderclub Wierden",
+    "category": "ontmoeten",
+    "address": "Dokter G.H. Beensweg 21",
+    "postcode": "7642CH",
+    "town": "Wierden",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.35470544,
+    "lon": 6.58036385,
+    "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "activiteit",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "description": "Gratis wekelijkse schildergroep voor inwoners.",
+    "audience": "Inwoners van de betreffende gemeente.",
+    "costs": "Gratis.",
+    "access": "Bekijk de actuele tijden bij De Welle.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-de-welle-10mgx5x"
+  },
+  {
+    "id": "offer-extra-20261002-fundament-actieve-ontmoeting-losser",
+    "name": "Fundament Losser · Actieve Ontmoeting Losser",
+    "category": "ontmoeten",
+    "address": "Raadhuisplein 1",
+    "postcode": "7581AG",
+    "town": "Losser",
+    "municipality": "Losser",
+    "serviceMunicipalities": [
+      "Losser"
+    ],
+    "lat": 52.26284211,
+    "lon": 7.00588809,
+    "source": "https://www.fundamentlosser.nl/agenda/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "daginvulling",
+      "taal"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "description": "Vaste daginvulling met bewegen, samen koken, eten en ontmoeting.",
+    "audience": "Inwoners van de gemeente Losser.",
+    "costs": "Bijdrage volgens het actuele programma.",
+    "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.fundamentlosser.nl/agenda/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+  },
+  {
+    "id": "offer-extra-20261002-fundament-actieve-ontmoeting-overdinkel",
+    "name": "Fundament Losser · Actieve Ontmoeting Overdinkel",
+    "category": "ontmoeten",
+    "address": "Prins Hendrikstraat 1",
+    "postcode": "7586BG",
+    "town": "Overdinkel",
+    "municipality": "Losser",
+    "serviceMunicipalities": [
+      "Losser"
+    ],
+    "lat": 52.23875481,
+    "lon": 7.03503715,
+    "source": "https://www.fundamentlosser.nl/agenda/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "daginvulling",
+      "taal"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "description": "Vaste daginvulling met bewegen, samen koken, eten en ontmoeting.",
+    "audience": "Inwoners van de gemeente Losser.",
+    "costs": "Bijdrage volgens het actuele programma.",
+    "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.fundamentlosser.nl/agenda/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+  },
+  {
+    "id": "offer-extra-20261002-fundament-koffie-inloop-kiekerskaamp",
+    "name": "Fundament Losser · Koffie Inloop Kiekerskaamp",
+    "category": "ontmoeten",
+    "address": "Denekamperdijk 46",
+    "postcode": "7581PJ",
+    "town": "Losser",
+    "municipality": "Losser",
+    "serviceMunicipalities": [
+      "Losser"
+    ],
+    "lat": 52.27295387,
+    "lon": 7.01981524,
+    "source": "https://www.fundamentlosser.nl/agenda/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "daginvulling",
+      "taal"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "description": "Terugkerende koffie-inloop voor sociale contacten en daginvulling.",
+    "audience": "Inwoners van de gemeente Losser.",
+    "costs": "Laagdrempelig; controleer eventuele bijdrage.",
+    "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.fundamentlosser.nl/agenda/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+  },
+  {
     "id": "offer-candidate-20261002-fundament-taalpunt-locatie",
     "name": "Fundament Losser · Taalpunt in 't Lossers hoes",
     "category": "taal",
@@ -2486,6 +2836,41 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.fundamentlosser.nl/contact/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+  },
+  {
+    "id": "offer-extra-20261002-fundament-taalpunt-losser",
+    "name": "Fundament Losser · Taalpunt Losser",
+    "category": "taal",
+    "address": "Raadhuisplein 1",
+    "postcode": "7581AG",
+    "town": "Losser",
+    "municipality": "Losser",
+    "serviceMunicipalities": [
+      "Losser"
+    ],
+    "lat": 52.26284211,
+    "lon": 7.00588809,
+    "source": "https://www.fundamentlosser.nl/agenda/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "daginvulling",
+      "taal"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "description": "Hulp bij Nederlands spreken, lezen en schrijven en digitale basisvaardigheden.",
+    "audience": "Inwoners van de gemeente Losser.",
+    "costs": "Laagdrempelig; controleer eventuele bijdrage.",
+    "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.fundamentlosser.nl/agenda/",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-fundament-losser-l8a8wn"
   },
@@ -3153,6 +3538,43 @@
     "catalogOrganizationId": "org-power-enschede-1tp85zf"
   },
   {
+    "id": "offer-extra-20261002-salut-alzheimer-cafe",
+    "name": "Salut · Alzheimer Café Hof van Twente",
+    "category": "mantelzorg",
+    "address": "de Höfte 5",
+    "postcode": "7471DK",
+    "town": "Goor",
+    "municipality": "Hof van Twente",
+    "serviceMunicipalities": [
+      "Hof van Twente"
+    ],
+    "lat": 52.23333695,
+    "lon": 6.58441448,
+    "source": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
+    "checked": "2026-10-02",
+    "tags": [
+      "dementie",
+      "mantelzorg",
+      "ontmoeten",
+      "gratis"
+    ],
+    "subthemes": [
+      "dementie",
+      "ontmoeten"
+    ],
+    "description": "Gratis ontmoetings- en informatieavond voor mensen met dementie, naasten en geïnteresseerden.",
+    "audience": "Mensen met dementie, mantelzorgers, naasten en geïnteresseerden.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop; aanmelden is niet nodig.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-salut-c7ahou"
+  },
+  {
     "id": "offer-candidate-20261002-swtd-terra-nova",
     "name": "Sociaal, dat werkt! · Inloop Terra Nova Tilligte",
     "category": "ontmoeten",
@@ -3315,6 +3737,117 @@
     "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-tactus-intact-54ij04"
+  },
+  {
+    "id": "offer-extra-20261002-wijkracht-wijkhuys-hasselo",
+    "name": "Wijkracht Hengelo · Wijkhuys Hasselo",
+    "category": "ontmoeten",
+    "address": "Henry Woodstraat 62",
+    "postcode": "7558CP",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.28498888,
+    "lon": 6.829373,
+    "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijkhuys",
+      "daginvulling",
+      "vrij toegankelijk"
+    ],
+    "subthemes": [
+      "vrij toegankelijke voorziening",
+      "daginvulling"
+    ],
+    "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
+    "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
+    "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
+    "access": "Vrij toegankelijk; vraag naar het actuele programma.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkracht-wijkhuys-nijverheid",
+    "name": "Wijkracht Hengelo · Wijkhuys Nijverheid",
+    "category": "ontmoeten",
+    "address": "Wilderinksstraat 5-9",
+    "postcode": "7555DS",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.25817303,
+    "lon": 6.7758793,
+    "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijkhuys",
+      "daginvulling",
+      "vrij toegankelijk"
+    ],
+    "subthemes": [
+      "vrij toegankelijke voorziening",
+      "daginvulling"
+    ],
+    "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
+    "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
+    "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
+    "access": "Vrij toegankelijk; vraag naar het actuele programma.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6"
+  },
+  {
+    "id": "offer-extra-20261002-wijkracht-wijkhuys-weidedorp",
+    "name": "Wijkracht Hengelo · Wijkhuys Weidedorp",
+    "category": "ontmoeten",
+    "address": "Curaçaostraat 10",
+    "postcode": "7556TM",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.27074775,
+    "lon": 6.7819718,
+    "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijkhuys",
+      "daginvulling",
+      "vrij toegankelijk"
+    ],
+    "subthemes": [
+      "vrij toegankelijke voorziening",
+      "daginvulling"
+    ],
+    "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
+    "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
+    "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
+    "access": "Vrij toegankelijk; vraag naar het actuele programma.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6"
   },
   {
     "id": "offer-candidate-20261002-zorgsaam-formulieren-vriezenveen",
