@@ -59,6 +59,16 @@ TWENTE_TOWNS = {
     "vriezenveen": "Twenterand", "den ham": "Twenterand",
     "westerhaar-vriezenveensewijk": "Twenterand", "wierden": "Wierden", "enter": "Wierden",
 }
+TWENTE_CENTERS = {
+    "Almelo": (52.3567, 6.6625), "Borne": (52.3013, 6.7480),
+    "Dinkelland": (52.3765, 6.8890), "Enschede": (52.2215, 6.8937),
+    "Haaksbergen": (52.1560, 6.7380), "Hellendoorn": (52.3880, 6.4490),
+    "Hengelo": (52.2650, 6.7930), "Hof van Twente": (52.2370, 6.5860),
+    "Losser": (52.2600, 7.0040), "Oldenzaal": (52.3130, 6.9300),
+    "Rijssen-Holten": (52.3100, 6.5190), "Tubbergen": (52.4070, 6.7850),
+    "Twenterand": (52.4350, 6.6220), "Wierden": (52.3590, 6.5930),
+}
+MUNICIPALITY_ALIASES = {"Hengelo (O)": "Hengelo"}
 GENERIC = re.compile(r"^(sociale kaart|gemeente|regio|bron|voorzieningen|samen twente)", re.I)
 CONTACT_HINT = re.compile(r"(contact|locatie|bereik|over[- ]ons|adres|vestiging)", re.I)
 POSTCODE_RE = re.compile(r"\b([1-9][0-9]{3})\s?([A-Z]{2})\b", re.I)
@@ -324,6 +334,22 @@ def pdok_geocode(item: dict, expected_municipalities: list[str]):
         "displayAddress": doc.get("weergavenaam") or "",
     }
 
+def canonical_municipality(name: str) -> str:
+    return MUNICIPALITY_ALIASES.get(name or "", name or "")
+
+def mark_map_mode(location: dict, expected_municipalities: list[str]):
+    """Keep the real contact address, but mark a local service-area pin when the
+    address itself is outside the municipalities where the offer is available."""
+    if not location:
+        return location
+    expected = {canonical_municipality(m) for m in expected_municipalities if m}
+    actual = canonical_municipality(location.get("locationMunicipality") or "")
+    if expected and actual and actual not in expected:
+        location["mapLocationType"] = "service-area"
+    else:
+        location["mapLocationType"] = location.get("mapLocationType") or "address"
+    return location
+
 def discover_for_group(group: list[dict]):
     expected = sorted({
         m for v in group
@@ -339,6 +365,7 @@ def discover_for_group(group: list[dict]):
                 "lat": v["lat"], "lon": v["lon"], "locationMunicipality": v.get("locationMunicipality") or v.get("municipality") or "",
                 "locationType": v.get("locationType") or "existing",
                 "locationSource": v.get("locationSource") or v.get("source") or "",
+                "mapLocationType": v.get("mapLocationType") or "",
             }
 
     # Een handmatig of eerder gevonden adres zonder coördinaten is betrouwbaarder
@@ -358,7 +385,7 @@ def discover_for_group(group: list[dict]):
         if geo:
             geo["locationType"] = v.get("locationType") or "contact"
             geo["locationSource"] = v.get("locationSource") or v.get("source") or ""
-            return geo
+            return mark_map_mode(geo, expected)
 
     ranked_sources = sorted(
         [v for v in group if v.get("source")],
@@ -413,7 +440,7 @@ def discover_for_group(group: list[dict]):
         return None
     geo["locationType"] = "contact" if CONTACT_HINT.search(urlparse(best.get("page") or "").path) else "source-address"
     geo["locationSource"] = best.get("page") or ""
-    return geo
+    return mark_map_mode(geo, expected)
 
 def main():
     parser = argparse.ArgumentParser()
@@ -436,14 +463,20 @@ def main():
             v for v in group
             if v.get("address") and v.get("town") and isinstance(v.get("lat"), (int, float)) and isinstance(v.get("lon"), (int, float))
         ), None)
+        expected = sorted({
+            m for v in group
+            for m in ((v.get("municipalities") or []) + ([v.get("municipality")] if v.get("municipality") else []))
+            if m
+        })
         if already and not args.force:
-            location = {
+            location = mark_map_mode({
                 "address": already["address"], "postcode": already.get("postcode") or "", "town": already["town"],
                 "lat": already["lat"], "lon": already["lon"],
                 "locationMunicipality": already.get("locationMunicipality") or already.get("municipality") or "",
                 "locationType": already.get("locationType") or "existing",
                 "locationSource": already.get("locationSource") or already.get("source") or "",
-            }
+                "mapLocationType": already.get("mapLocationType") or "",
+            }, expected)
         else:
             location = discover_for_group(group)
 
@@ -458,7 +491,7 @@ def main():
                 continue
             before = (
                 candidate.get("address"), candidate.get("postcode"), candidate.get("town"),
-                candidate.get("lat"), candidate.get("lon"), candidate.get("locationType")
+                candidate.get("lat"), candidate.get("lon"), candidate.get("locationType"), candidate.get("mapLocationType")
             )
             candidate.update({
                 "address": location["address"],
@@ -469,6 +502,7 @@ def main():
                 "locationMunicipality": location.get("locationMunicipality") or "",
                 "locationType": location.get("locationType") or ("contact" if len(group) > 1 else "source-address"),
                 "locationSource": location.get("locationSource") or "",
+                "mapLocationType": location.get("mapLocationType") or "address",
                 "addressChecked": today,
             })
             after = (
@@ -481,7 +515,7 @@ def main():
     inv["addressEnrichmentVersion"] = 1
     inv["addressEnrichedAt"] = today
     inv["addressEnrichmentMethod"] = (
-        "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver."
+        "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin."
     )
 
     print(f"{resolved_groups}/{len(groups)} organisaties hebben een kaartbaar adres; {changed} aanbodregels bijgewerkt.")

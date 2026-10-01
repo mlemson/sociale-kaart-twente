@@ -228,7 +228,7 @@ function fitSelection() {
         bounds = geoLayer.getBounds();
 
     const pts = locations
-        .filter(p => Number.isFinite(p.lat) && Number.isFinite(p.lon) && (!state.municipality || servesMunicipality(p, state.municipality)))
+        .filter(p => p.mapLocationType !== 'service-area' && Number.isFinite(p.lat) && Number.isFinite(p.lon) && (!state.municipality || servesMunicipality(p, state.municipality)))
         .map(p => [p.lat, p.lon]);
 
     // Een regionaal aanbod kan een contactadres net buiten de gekozen gemeente hebben.
@@ -380,21 +380,24 @@ function showLocation(id, pan=false) {
     d.hidden = false;
     const route = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent([p.address,p.postcode,p.town].filter(Boolean).join(', '));
     const isContact = ['contact','source-address'].includes(p.locationType);
-    const addressLabel = isContact ? 'Contact-/vestigingsadres' : 'Bezoekadres';
+    const isServiceAreaPin = p.mapLocationType === 'service-area';
+    const addressLabel = isContact || isServiceAreaPin ? 'Contact-/vestigingsadres' : 'Bezoekadres';
     const locationMunicipality = p.locationMunicipality || p.municipality || '';
     const serviceLine = serviceAreas.length
         ? `<p class="detail-service-area"><strong>Actief in</strong><br>${esc(serviceAreas.join(', '))}</p>`
         : '';
-    const locationNote = isContact
-        ? '<p class="location-note">Dit is het contact- of vestigingsadres. De activiteit zelf kan op een andere locatie, in de wijk of bij inwoners thuis plaatsvinden.</p>'
-        : '';
+    const locationNote = isServiceAreaPin
+        ? '<p class="location-note">De pin op de kaart markeert het werkgebied, niet dit contactadres. Het aanbod is wel beschikbaar in de gekozen gemeente.</p>'
+        : isContact
+            ? '<p class="location-note">Dit is het contact- of vestigingsadres. De activiteit zelf kan op een andere locatie, in de wijk of bij inwoners thuis plaatsvinden.</p>'
+            : '';
     d.innerHTML = `<button class="detail-close" aria-label="Locatie sluiten">×</button><span class="category-icon">${icon(p.category)}</span><h2>${esc(p.name)}</h2><p>${esc(p.description)}</p><p class="detail-address"><strong>${addressLabel}</strong><br>${esc(p.address)}${p.postcode ? ` · ${esc(p.postcode)}` : ''}<br>${esc(p.town)}${locationMunicipality ? ` · gemeente ${esc(locationMunicipality)}` : ''}</p>${locationNote}<div class="detail-links"><a class="primary-link" href="${esc(p.source)}" target="_blank" rel="noopener">Website & informatie ↗</a><a href="${route}" target="_blank" rel="noopener">Route ↗</a></div><div class="detail-extra">${[["Doelgroep", p.audience], ["Kosten", p.costs], ["Toegang", p.access], ["Openingstijden", p.openingHours], ["Telefoon", p.phone], ["E-mail", p.email]].filter(([,v]) => v).map(([k,v]) => `<p><strong>${k}</strong><br>${esc(v)}</p>`).join('')}${serviceLine}</div><p><a href="aanmelden.html?id=${encodeURIComponent(p.id)}">Wijziging doorgeven →</a></p><p class="meta">Bron geraadpleegd: ${esc(p.checked || 'onbekend')}</p>`;
     d.querySelector('.detail-close').addEventListener('click', () => {
         state.selected = null;
         render();
     });
     if (pan && Number.isFinite(p.lat) && Number.isFinite(p.lon)) {
-        map.setView([p.lat, p.lon], 14, {animate: false});
+        map.setView(markerCoords(p), 14, {animate: false});
         if (window.innerWidth <= 760)
             $('map').scrollIntoView({behavior: 'smooth', block: 'start'});
     }
@@ -455,6 +458,14 @@ function makeMarker(coords, html, className, size, label) {
         alt: label
     });
 }
+function markerCoords(p) {
+    if (p.mapLocationType === 'service-area') {
+        const areas = (p.serviceMunicipalities && p.serviceMunicipalities.length) ? p.serviceMunicipalities : [p.municipality].filter(Boolean);
+        const preferred = state.municipality && areas.includes(state.municipality) ? state.municipality : areas[0];
+        if (preferred && anchors[preferred]) return anchors[preferred];
+    }
+    return [p.lat, p.lon];
+}
 function renderMarkers() {
     if (!map)
         return;
@@ -490,8 +501,9 @@ function renderMarkers() {
     if (regional)
         return;
     const groups = [];
-    filtered.filter(p => Number.isFinite(p.lat)).forEach(p => {
-        const pt = map.latLngToLayerPoint([p.lat, p.lon]);
+    filtered.filter(p => Number.isFinite(p.lat) && Number.isFinite(p.lon)).forEach(p => {
+        const coords = markerCoords(p);
+        const pt = map.latLngToLayerPoint(coords);
         let g = groups.find(g => g.point.distanceTo(pt) < 38);
         if (!g) {
             g = {
@@ -507,7 +519,7 @@ function renderMarkers() {
         const items = g.items;
         if (items.length === 1) {
             const p = items[0];
-            const m = makeMarker([p.lat, p.lon], `<span class="point-button ${state.selected === p.id ? 'active' : ''}">${icon(p.category)}</span>`, 'cluster-icon', [32, 32], p.name);
+            const m = makeMarker(markerCoords(p), `<span class="point-button ${state.selected === p.id ? 'active' : ''}">${icon(p.category)}</span>`, 'cluster-icon', [32, 32], p.name);
             m.bindTooltip(esc(p.name), {
                 direction: 'top',
                 offset: [0, -14]
@@ -515,11 +527,12 @@ function renderMarkers() {
             m.on('click', () => showLocation(p.id));
             markerLayer.addLayer(m);
         } else {
-            const lat = items.reduce( (s, p) => s + p.lat, 0) / items.length
-              , lon = items.reduce( (s, p) => s + p.lon, 0) / items.length;
+            const coords = items.map(markerCoords);
+            const lat = coords.reduce((s, p) => s + p[0], 0) / coords.length
+              , lon = coords.reduce((s, p) => s + p[1], 0) / coords.length;
             const m = makeMarker([lat, lon], `<span class="cluster-button">${items.length}</span>`, 'cluster-icon', [34, 34], `${items.length} locaties, klik om te bekijken`);
             m.on('click', () => {
-                const b = L.latLngBounds(items.map(p => [p.lat, p.lon]));
+                const b = L.latLngBounds(items.map(markerCoords));
                 if (map.getZoom() < 17 && b.getNorthEast().distanceTo(b.getSouthWest()) > 40) {
                     map.fitBounds(b, {
                         padding: [65, 75],

@@ -156,6 +156,7 @@ def main():
             "address": v.get("address") or "", "postcode": v.get("postcode") or "", "town": v.get("town") or "",
             "lat": v.get("lat"), "lon": v.get("lon"), "locationType": v.get("locationType") or "",
             "locationSource": v.get("locationSource") or "", "locationMunicipality": v.get("locationMunicipality") or "",
+            "mapLocationType": v.get("mapLocationType") or "address",
         })
         g["offerCount"] += 1
 
@@ -207,6 +208,7 @@ def main():
             "email": "",
             "locationType": loc.get("locationType") or "contact",
             "locationSource": loc.get("locationSource") or "",
+            "mapLocationType": loc.get("mapLocationType") or "address",
             "catalogOrganizationId": g["id"],
         })
         synthetic += 1

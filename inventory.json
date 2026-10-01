@@ -686,8 +686,8 @@
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Vijzelmolenlaan 20-22",
+      "town": "Woerden",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
@@ -723,7 +723,10 @@
           "town"
         ]
       },
-      "primaryTheme": "ontmoeten"
+      "primaryTheme": "ontmoeten",
+      "postcode": "3447GX",
+      "locationType": "contact",
+      "locationSource": "https://anbo-pcob.nl/contact/"
     },
     {
       "id": "candidate-0b46b7b4765aab3c",
@@ -2018,8 +2021,8 @@
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Smidsbelt 6",
+      "town": "Holten",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
@@ -2059,7 +2062,10 @@
           "town"
         ]
       },
-      "primaryTheme": "taal"
+      "primaryTheme": "taal",
+      "postcode": "7451BL",
+      "locationType": "visiting",
+      "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html"
     },
     {
       "id": "candidate-627257032ba8ea28",
@@ -2075,8 +2081,8 @@
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Kerkstraat 4",
+      "town": "Rijssen",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
@@ -2116,7 +2122,10 @@
           "town"
         ]
       },
-      "primaryTheme": "taal"
+      "primaryTheme": "taal",
+      "postcode": "7461LC",
+      "locationType": "visiting",
+      "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html"
     },
     {
       "id": "candidate-a79c205957efc877",
@@ -2192,8 +2201,8 @@
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Dokter G.H. Beensweg 21",
+      "town": "Wierden",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
@@ -2233,7 +2242,10 @@
           "town"
         ]
       },
-      "primaryTheme": "advies"
+      "primaryTheme": "advies",
+      "postcode": "7642CH",
+      "locationType": "contact",
+      "locationSource": "https://www.stichtingdewelle.nl/"
     },
     {
       "id": "candidate-0fe0b26a53a55526",
@@ -5139,8 +5151,8 @@
       "accessStatus": "confirmed",
       "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Pijpenstraat 15",
+      "town": "Enschede",
       "scope": "Lokaal aanbod Enschede",
       "status": "candidate",
       "themes": [
@@ -5183,7 +5195,10 @@
           "town"
         ]
       },
-      "primaryTheme": "taal"
+      "primaryTheme": "taal",
+      "postcode": "7511GM",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/hulp-bij-online-zaken-regelen"
     },
     {
       "id": "candidate-817b61119e28f6ed",
@@ -5262,8 +5277,8 @@
       "accessStatus": "confirmed",
       "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Molenstraat 30",
+      "town": "Enschede",
       "scope": "Lokaal aanbod Enschede",
       "status": "candidate",
       "themes": [
@@ -5302,7 +5317,10 @@
           "town"
         ]
       },
-      "primaryTheme": "mentaal"
+      "primaryTheme": "mentaal",
+      "postcode": "7514DK",
+      "locationType": "visiting",
+      "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/"
     },
     {
       "id": "candidate-b373b9f843178750",
@@ -5822,8 +5840,8 @@
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Het Bijvank 155",
+      "town": "Enschede",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
@@ -5869,7 +5887,10 @@
           "town"
         ]
       },
-      "primaryTheme": "mantelzorg"
+      "primaryTheme": "mantelzorg",
+      "postcode": "7544DB",
+      "locationType": "contact",
+      "locationSource": "https://leendertvriel.nl/contact-post/enschede-haaksbergen/"
     },
     {
       "id": "candidate-653c4f9e44aa0e89",
@@ -6232,8 +6253,8 @@
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Molenstraat 30",
+      "town": "Enschede",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
@@ -6278,7 +6299,10 @@
           "town"
         ]
       },
-      "primaryTheme": "mentaal"
+      "primaryTheme": "mentaal",
+      "postcode": "7514DK",
+      "locationType": "contact",
+      "locationSource": "https://www.nhet-twente.nl/contact/"
     },
     {
       "id": "candidate-a02baef389c1b783",
@@ -10176,8 +10200,8 @@
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Herenstraat 47",
+      "town": "Nieuwegein",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
@@ -10213,7 +10237,10 @@
           "town"
         ]
       },
-      "primaryTheme": "jeugd"
+      "primaryTheme": "jeugd",
+      "postcode": "3431CW",
+      "locationType": "contact",
+      "locationSource": "https://www.buurtgezinnen.nl/contact/"
     },
     {
       "id": "candidate-d081973bdb6d0012",
@@ -10776,8 +10803,8 @@
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Reggestraat 85",
+      "town": "Enter",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
@@ -10820,7 +10847,10 @@
           "town"
         ]
       },
-      "primaryTheme": "vervoer"
+      "primaryTheme": "vervoer",
+      "postcode": "7468EJ",
+      "locationType": "service",
+      "locationSource": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/"
     },
     {
       "id": "candidate-2d81c01f72ce1f2a",
@@ -11755,8 +11785,8 @@
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Schild 1",
+      "town": "Rijssen",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
@@ -11792,7 +11822,10 @@
           "town"
         ]
       },
-      "primaryTheme": "geld"
+      "primaryTheme": "geld",
+      "postcode": "7461DD",
+      "locationType": "contact",
+      "locationSource": "https://www.rijssen-holten.nl/contact/"
     },
     {
       "id": "candidate-fe568462f034cbef",
@@ -14494,8 +14527,8 @@
       "accessStatus": "confirmed",
       "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Hoge Bothofstraat 49",
+      "town": "Enschede",
       "scope": "Lokaal aanbod Enschede",
       "status": "candidate",
       "themes": [
@@ -14534,7 +14567,10 @@
           "town"
         ]
       },
-      "primaryTheme": "advies"
+      "primaryTheme": "advies",
+      "postcode": "7511ZA",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden"
     },
     {
       "id": "candidate-22f3f69656e9b228",
@@ -14550,8 +14586,8 @@
       "accessStatus": "confirmed",
       "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Hoge Bothofstraat 49",
+      "town": "Enschede",
       "scope": "Lokaal aanbod Enschede",
       "status": "candidate",
       "themes": [
@@ -14595,7 +14631,10 @@
           "town"
         ]
       },
-      "primaryTheme": "mantelzorg"
+      "primaryTheme": "mantelzorg",
+      "postcode": "7511ZA",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden"
     },
     {
       "id": "candidate-9f164cf6bca041bc",
@@ -14611,8 +14650,8 @@
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
-      "address": "",
-      "town": "",
+      "address": "Zorgvlietstraat 491",
+      "town": "Breda",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
@@ -14648,7 +14687,10 @@
           "town"
         ]
       },
-      "primaryTheme": "ontmoeten"
+      "primaryTheme": "ontmoeten",
+      "postcode": "4834NH",
+      "locationType": "contact",
+      "locationSource": "https://www.zonnebloem.nl/over-de-zonnebloem/contact"
     },
     {
       "id": "candidate-ad70389770ed984a",
@@ -18549,7 +18591,7 @@
   ],
   "enrichmentVersion": 3,
   "enrichmentMethod": "Alle bronvermeldingen worden lokaal vooringevuld met uitlegbare sleutelwoordregels. Via Beheer kunnen daarnaast publieke bronpagina’s automatisch worden uitgelezen. Automatische waarden blijven controlepunten; bron, adres, toegang en actuele kosten moeten vóór publicatie worden geverifieerd.",
-  "addressEnrichmentVersion": 1,
+  "addressEnrichmentVersion": 2,
   "addressEnrichedAt": "2026-10-01",
-  "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver."
+  "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; bij een contactadres buiten het werkgebied blijft het echte adres zichtbaar en gebruikt de kaart een transparante werkgebied-pin."
 }
