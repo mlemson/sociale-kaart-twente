@@ -7,9 +7,9 @@ Deze repository combineert de nieuwste v10-interface/inventarisatie met de sterk
 - interactieve kaart, gemeentegrenzen, zoeken, filters en detailkaarten;
 - 35 gepubliceerde kaartlocaties uit de nieuwste herstelkopie;
 - inventarisatie met 247 bronvermeldingen;
-- Leaflet volledig lokaal in de repository;
+- Leaflet 1.9.4 vastgepind via de officiële CDN-versie;
 - nauwkeuriger `twente.geojson` uit de volledige offline export;
-- ExcelJS en Mammoth lokaal meegeleverd (geen CDN-afhankelijkheid);
+- ExcelJS en Mammoth vastgepind via CDN voor bestandimport in de beheeromgeving;
 - GitHub Actions workflow voor Pages-deployment;
 - handmatig uitvoerbare workflow **Voorinvulling opnieuw uitvoeren**.
 
@@ -17,7 +17,7 @@ Deze repository combineert de nieuwste v10-interface/inventarisatie met de sterk
 
 GitHub Pages serveert alleen statische bestanden. Het kan `server.py`, SQLite of `/api/...` niet uitvoeren. Daarom zijn kaart en inventarisatie volledig statisch gemaakt. **Aanmelden, beheer, goedkeuren, opslaan en bronpagina-verrijking zijn niet server-side actief op de publieke Pages-site.** De formulieren geven daar een duidelijke melding in plaats van stil te falen.
 
-De oorspronkelijke lokale backend staat onder `local-backend/`. Voor een echte publieke beheeromgeving is later een backend nodig (bijvoorbeeld Cloudflare/Supabase/een eigen server) met authenticatie en opslag. Publiceer nooit `data/state.json` wanneer daar contactgegevens in staan.
+De oorspronkelijke lokale backend staat onder `local-backend/`. Voor de publieke beheeromgeving is Supabase een passende vervolgstap: Postgres voor voorzieningen en meldingen, Auth voor beheerders en Row Level Security om contactgegevens af te schermen. Publiceer nooit `data/state.json` wanneer daar contactgegevens in staan.
 
 ## Nieuwe repository maken en publiceren
 
