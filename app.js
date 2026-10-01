@@ -71,7 +71,7 @@ let state = {
     selected: null,
     theme: 'wijkteams'
 };
-let map, geo, geoLayer, tileLayer, locations = [], layers = {}, anchors = {}, markerLayer, labelLayer, filtered = [];
+let map, geo, geoLayer, tileLayer, locations = [], catalog = [], layers = {}, anchors = {}, markerLayer, labelLayer, filtered = [], catalogFiltered = [];
 const initialParams = new URLSearchParams(location.search);
 function updateAddressBar(url) {
     try {
@@ -217,20 +217,68 @@ function matchedLocations() {
     const q = state.search.toLocaleLowerCase('nl');
     return locations.filter(p => (!state.municipality || state.nearby || p.municipality === state.municipality) && (!state.category || p.tags.includes(state.category)) && (!q || [p.name, p.address, p.town, p.municipality, p.description, p.audience, p.phone, p.email, ...(p.subthemes || []), ...(p.tags || []), ...(p.tags || []).map(t => categories[t] || '')].join(' ').toLocaleLowerCase('nl').includes(q)));
 }
+function offerMatches(offer) {
+    const q = state.search.toLocaleLowerCase('nl');
+    const categoryMatch = !state.category || offer.category === state.category || (offer.themes || []).includes(state.category) || (offer.tags || []).includes(state.category);
+    const text = [offer.title, offer.name, offer.description, offer.audience, offer.access, offer.costs, ...(offer.subthemes || []), ...(offer.tags || []), ...(offer.themes || [])].join(' ').toLocaleLowerCase('nl');
+    return categoryMatch && (!q || text.includes(q));
+}
+function matchedCatalog() {
+    const q = state.search.toLocaleLowerCase('nl');
+    return catalog.filter(g => {
+        const areaMatch = !state.municipality || state.nearby || (g.municipalities || []).includes(state.municipality);
+        const offers = (g.offers || []).filter(offerMatches);
+        const categoryMatch = !state.category || (g.categories || []).includes(state.category) || offers.length;
+        const text = [g.organization, ...(g.municipalities || []), ...(g.categories || [])].join(' ').toLocaleLowerCase('nl');
+        const queryMatch = !q || text.includes(q) || offers.length;
+        return areaMatch && categoryMatch && queryMatch;
+    });
+}
+function catalogOfferSummary(group, max = 3) {
+    const matched = (group.offers || []).filter(offerMatches);
+    const pool = (state.search || state.category) ? matched : (group.offers || []);
+    const shown = pool.slice(0, max).map(o => o.title || o.name);
+    const extra = Math.max(0, pool.length - shown.length);
+    return {pool, text: shown.join(' · ') + (extra ? ` · +${extra}` : '')};
+}
+
 function render() {
     filtered = matchedLocations();
+    catalogFiltered = matchedCatalog();
     $('results-title').textContent = state.municipality ? (state.nearby ? state.municipality + ' & omgeving' : state.municipality) : 'In de regio';
-    $('result-count').textContent = filtered.length + ' locaties';
+    $('result-count').textContent = `${filtered.length} kaartlocaties · ${catalogFiltered.length} organisaties`;
     $('map-title').textContent = state.municipality || 'Twente';
-    $('map-subtitle').textContent = state.municipality ? 'Ontdek de voorzieningen op de kaart' : 'Klik op een gemeente om in te zoomen';
-    const sorted = [...filtered].sort( (a, b) => {
-        const av = a.municipality === state.municipality ? -1 : 0
-          , bv = b.municipality === state.municipality ? -1 : 0;
+    $('map-subtitle').textContent = state.municipality ? 'Kaartlocaties én aanbod uit lokale bronnen' : 'Klik op een gemeente of zoek in het volledige aanbod';
+
+    const sortedLocations = [...filtered].sort((a, b) => {
+        const av = a.municipality === state.municipality ? -1 : 0,
+              bv = b.municipality === state.municipality ? -1 : 0;
         return av - bv || a.name.localeCompare(b.name, 'nl');
-    }
-    );
-    $('results').innerHTML = sorted.length ? sorted.map(p => `<button class="result-card ${p.id === state.selected ? 'active' : ''}" data-id="${esc(p.id)}"><span class="category-icon">${icon(p.category)}</span><span class="result-body"><span class="result-title">${esc(p.name)}</span><span class="result-address">${esc(p.address)} · ${esc(p.town)}</span><span class="result-tag">${esc(categories[p.category])}</span></span><span class="result-arrow" aria-hidden="true">↗</span></button>`).join('') : '<div class="empty">Nog geen locaties in deze selectie opgenomen. Dat betekent niet dat er geen aanbod is.<button id="reset-filters">Toon de hele selectie</button></div>';
+    });
+    const sortedCatalog = [...catalogFiltered].sort((a,b) => {
+        const am = (a.municipalities || []).includes(state.municipality) ? -1 : 0,
+              bm = (b.municipalities || []).includes(state.municipality) ? -1 : 0;
+        return am - bm || a.organization.localeCompare(b.organization, 'nl');
+    });
+
+    const locationHtml = sortedLocations.length
+        ? `<div class="results-section"><div class="results-section-title"><strong>Op de kaart</strong><span>${sortedLocations.length}</span></div>${sortedLocations.map(p => `<button class="result-card ${p.id === state.selected ? 'active' : ''}" data-id="${esc(p.id)}"><span class="category-icon">${icon(p.category)}</span><span class="result-body"><span class="result-title">${esc(p.name)}</span><span class="result-address">${esc(p.address)} · ${esc(p.town)}</span><span class="result-tag">${esc(categories[p.category] || 'Sociaal aanbod')}</span></span><span class="result-arrow" aria-hidden="true">↗</span></button>`).join('')}</div>`
+        : '';
+
+    const catalogLimit = (state.search || state.category || state.municipality) ? 30 : 12;
+    const shownCatalog = sortedCatalog.slice(0, catalogLimit);
+    const catalogHtml = shownCatalog.length
+        ? `<div class="results-section catalog-section"><div class="results-section-title"><strong>Meer aanbod uit bronnen</strong><span>${sortedCatalog.length}</span></div>${shownCatalog.map(g => {
+            const summary = catalogOfferSummary(g);
+            const category = g.categories?.[0] || 'advies';
+            const status = g.reviewNeeded ? `${g.reviewNeeded} aandachtspunt${g.reviewNeeded === 1 ? '' : 'en'}` : 'Brononderbouwd';
+            return `<button class="result-card catalog-card ${'catalog:' + g.id === state.selected ? 'active' : ''}" data-catalog-id="${esc(g.id)}"><span class="category-icon">${icon(category)}</span><span class="result-body"><span class="result-title">${esc(g.organization)}</span><span class="result-address">${esc((g.municipalities || []).join(', ') || 'Twente')} · ${g.offerCount || 0} vormen van aanbod</span>${summary.text ? `<span class="catalog-match">${esc(summary.text)}</span>` : ''}<span class="result-tag ${g.reviewNeeded ? 'needs-review' : ''}">${esc(status)}</span></span><span class="result-arrow" aria-hidden="true">↗</span></button>`;
+        }).join('')}${sortedCatalog.length > catalogLimit ? `<a class="all-offers-link" href="voorzieningen.html">Bekijk alle ${sortedCatalog.length} organisaties →</a>` : ''}</div>`
+        : '';
+
+    $('results').innerHTML = locationHtml + catalogHtml || '<div class="empty">Nog geen passend aanbod gevonden.<button id="reset-filters">Toon de hele selectie</button></div>';
     $('results').querySelectorAll('[data-id]').forEach(b => b.addEventListener('click', () => showLocation(b.dataset.id, true)));
+    $('results').querySelectorAll('[data-catalog-id]').forEach(b => b.addEventListener('click', () => showCatalog(b.dataset.catalogId)));
     $('reset-filters')?.addEventListener('click', () => {
         state.category = '';
         state.search = '';
@@ -238,14 +286,34 @@ function render() {
         $('clear-search').hidden = true;
         renderTopics();
         chooseMunicipality('');
-    }
-    );
+    });
     $('detail').hidden = !state.selected;
     if (map) {
         styleBoundaries();
         renderMarkers();
     }
 }
+function showCatalog(id) {
+    const g = catalog.find(v => v.id === id);
+    if (!g) return;
+    state.selected = 'catalog:' + id;
+    render();
+    const d = $('detail');
+    d.hidden = false;
+    const summary = catalogOfferSummary(g, 12);
+    const offers = summary.pool.length ? summary.pool : (g.offers || []);
+    const statusText = g.reviewNeeded
+        ? `${g.reviewNeeded} onderdeel${g.reviewNeeded === 1 ? '' : 'en'} met een aandachtspunt; de overige informatie is rechtstreeks aan een bron gekoppeld.`
+        : 'Dit aanbod is rechtstreeks gekoppeld aan een lokale of regionale bron. Controleer bij de aanbieder de actuele tijden, kosten en beschikbaarheid.';
+    const offerHtml = offers.slice(0,12).map(o => `<div class="detail-offer"><strong>${esc(o.title || o.name)}</strong>${o.audience ? `<span>Voor: ${esc(o.audience)}</span>` : ''}${o.description ? `<span>${esc(o.description)}</span>` : ''}${o.source ? `<a href="${esc(o.source)}" target="_blank" rel="noopener">Bekijk deze bron ↗</a>` : ''}</div>`).join('');
+    const first = (g.offers || [])[0];
+    d.innerHTML = `<button class="detail-close" aria-label="Sluiten">×</button><span class="category-icon">${icon(g.categories?.[0] || 'advies')}</span><h2>${esc(g.organization)}</h2><p>${esc(statusText)}</p><p class="detail-address">${esc((g.municipalities || []).join(', ') || 'Twente')} · ${g.offerCount || 0} vormen van aanbod</p><div class="detail-links">${g.primarySource ? `<a class="primary-link" href="${esc(g.primarySource)}" target="_blank" rel="noopener">Website / bron ↗</a>` : ''}<a href="voorzieningen.html">Volledige voorzieningenlijst ↗</a></div><div class="detail-offers">${offerHtml}</div>${offers.length > 12 ? `<p class="meta">+${offers.length-12} andere onderdelen; verfijn je zoekopdracht of open de voorzieningenlijst.</p>` : ''}${first ? `<p><a href="aanmelden.html?candidate=${encodeURIComponent(first.id)}">Gegevens aanvullen of wijzigen →</a></p>` : ''}<p class="meta">Bronronde: ${esc(g.checked || 'onbekend')}</p>`;
+    d.querySelector('.detail-close').addEventListener('click', () => {
+        state.selected = null;
+        render();
+    });
+}
+
 function showLocation(id, pan=false) {
     const p = locations.find(v => v.id === id);
     if (!p)
@@ -452,9 +520,10 @@ async function init() {
             ({geo, locations} = window.TWENTE_EMBEDDED_DATA);
         } else {
             // Beide bronnen zijn lokaal; laad ze tegelijk voor een snelle start.
-            [locations, geo] = await Promise.all([
+            [locations, geo, catalog] = await Promise.all([
                 loadJson('data/facilities.json'),
-                loadTwenteGeo()
+                loadTwenteGeo(),
+                loadJson('data/catalog.json')
             ]);
         }
         const names = ['Almelo','Borne','Dinkelland','Enschede','Haaksbergen','Hellendoorn','Hengelo','Hof van Twente','Losser','Oldenzaal','Rijssen-Holten','Tubbergen','Twenterand','Wierden']
@@ -466,7 +535,7 @@ async function init() {
             o.textContent = n;
             $('municipality').append(o);
         });
-        $('coverage-description').textContent = `In dit ontwerp zijn ${locations.length} locaties opgenomen, verspreid over ${new Set(locations.map(p => p.municipality)).size} gemeenten. Het gaat om een eerste selectie van inloop- en adviespunten, welzijnsorganisaties, taalhulp, informele zorg en ontmoetingsplekken. Per locatie staat een bronlink. Het is nog geen volledig overzicht van alle voorliggende voorzieningen.`;
+        $('coverage-description').textContent = `De kaart bevat ${locations.length} concrete kaartlocaties. Daarnaast kun je zoeken in ${catalog.length} organisaties met samen ${catalog.reduce((n,g) => n + (g.offerCount || 0), 0)} vormen van sociaal aanbod uit lokale en regionale bronnen. Niet ieder aanbod heeft al een exact bezoekadres; daarom blijft de kaart rustig terwijl zoeken wel de bredere broncatalogus gebruikt.`;
         if (typeof L === 'undefined')
             throw Error('De interactieve kaart kon niet worden geladen. De lijst blijft beschikbaar.');
         map = L.map('map', {
@@ -541,7 +610,7 @@ async function init() {
                 void Promise.resolve(document.modelContext.registerTool({
                     name: 'filter_sociale_kaart',
                     title: 'Filter de sociale kaart',
-                    description: 'Kies een gemeente en onderwerp in de zichtbare sociale kaart. Retourneert de opgenomen locaties; dit is geen volledig overzicht.',
+                    description: 'Kies een gemeente en onderwerp in de sociale kaart. Retourneert kaartlocaties en organisaties uit de broncatalogus.',
                     inputSchema: {
                         type: 'object',
                         properties: {
@@ -577,6 +646,12 @@ async function init() {
                                 adres: p.address,
                                 plaats: p.town,
                                 bron: p.source
+                            })),
+                            organisaties: catalogFiltered.slice(0, 50).map(g => ({
+                                naam: g.organization,
+                                gemeenten: g.municipalities,
+                                aanbod: g.offerCount,
+                                bron: g.primarySource
                             }))
                         };
                     }
