@@ -686,7 +686,7 @@
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
-      "address": "Vijzelmolenlaan 20-22",
+      "address": "Vijzelmolenlaan 20",
       "town": "Woerden",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
@@ -726,7 +726,12 @@
       "primaryTheme": "ontmoeten",
       "postcode": "3447GX",
       "locationType": "contact",
-      "locationSource": "https://anbo-pcob.nl/contact/"
+      "locationSource": "https://anbo-pcob.nl/contact/",
+      "lat": 52.07614115,
+      "lon": 4.88761066,
+      "locationMunicipality": "Woerden",
+      "mapLocationType": "service-area",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-0b46b7b4765aab3c",
@@ -2065,7 +2070,12 @@
       "primaryTheme": "taal",
       "postcode": "7451BL",
       "locationType": "visiting",
-      "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html"
+      "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html",
+      "lat": 52.28131306,
+      "lon": 6.42165509,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-627257032ba8ea28",
@@ -2125,7 +2135,12 @@
       "primaryTheme": "taal",
       "postcode": "7461LC",
       "locationType": "visiting",
-      "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html"
+      "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html",
+      "lat": 52.30786364,
+      "lon": 6.52275933,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-a79c205957efc877",
@@ -2245,7 +2260,12 @@
       "primaryTheme": "advies",
       "postcode": "7642CH",
       "locationType": "contact",
-      "locationSource": "https://www.stichtingdewelle.nl/"
+      "locationSource": "https://www.stichtingdewelle.nl/",
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-0fe0b26a53a55526",
@@ -5198,7 +5218,12 @@
       "primaryTheme": "taal",
       "postcode": "7511GM",
       "locationType": "visiting",
-      "locationSource": "https://www.enschede.nl/hulp-bij-online-zaken-regelen"
+      "locationSource": "https://www.enschede.nl/hulp-bij-online-zaken-regelen",
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-817b61119e28f6ed",
@@ -5320,7 +5345,12 @@
       "primaryTheme": "mentaal",
       "postcode": "7514DK",
       "locationType": "visiting",
-      "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/"
+      "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+      "lat": 52.22323189,
+      "lon": 6.89435653,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-b373b9f843178750",
@@ -5890,7 +5920,12 @@
       "primaryTheme": "mantelzorg",
       "postcode": "7544DB",
       "locationType": "contact",
-      "locationSource": "https://leendertvriel.nl/contact-post/enschede-haaksbergen/"
+      "locationSource": "https://leendertvriel.nl/contact-post/enschede-haaksbergen/",
+      "lat": 52.1942135,
+      "lon": 6.8702088,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-653c4f9e44aa0e89",
@@ -6302,7 +6337,12 @@
       "primaryTheme": "mentaal",
       "postcode": "7514DK",
       "locationType": "contact",
-      "locationSource": "https://www.nhet-twente.nl/contact/"
+      "locationSource": "https://www.nhet-twente.nl/contact/",
+      "lat": 52.22323189,
+      "lon": 6.89435653,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-a02baef389c1b783",
@@ -10240,7 +10280,12 @@
       "primaryTheme": "jeugd",
       "postcode": "3431CW",
       "locationType": "contact",
-      "locationSource": "https://www.buurtgezinnen.nl/contact/"
+      "locationSource": "https://www.buurtgezinnen.nl/contact/",
+      "lat": 52.03609158,
+      "lon": 5.09364022,
+      "locationMunicipality": "Nieuwegein",
+      "mapLocationType": "service-area",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-d081973bdb6d0012",
@@ -10850,7 +10895,12 @@
       "primaryTheme": "vervoer",
       "postcode": "7468EJ",
       "locationType": "service",
-      "locationSource": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/"
+      "locationSource": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/",
+      "lat": 52.29359952,
+      "lon": 6.5805698,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-2d81c01f72ce1f2a",
@@ -11825,7 +11875,12 @@
       "primaryTheme": "geld",
       "postcode": "7461DD",
       "locationType": "contact",
-      "locationSource": "https://www.rijssen-holten.nl/contact/"
+      "locationSource": "https://www.rijssen-holten.nl/contact/",
+      "lat": 52.3073607,
+      "lon": 6.52203914,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-fe568462f034cbef",
@@ -14570,7 +14625,12 @@
       "primaryTheme": "advies",
       "postcode": "7511ZA",
       "locationType": "visiting",
-      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden"
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "lat": 52.22306902,
+      "lon": 6.90400645,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-22f3f69656e9b228",
@@ -14634,7 +14694,12 @@
       "primaryTheme": "mantelzorg",
       "postcode": "7511ZA",
       "locationType": "visiting",
-      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden"
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "lat": 52.22306902,
+      "lon": 6.90400645,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-9f164cf6bca041bc",
@@ -14690,7 +14755,12 @@
       "primaryTheme": "ontmoeten",
       "postcode": "4834NH",
       "locationType": "contact",
-      "locationSource": "https://www.zonnebloem.nl/over-de-zonnebloem/contact"
+      "locationSource": "https://www.zonnebloem.nl/over-de-zonnebloem/contact",
+      "lat": 51.57346249,
+      "lon": 4.81272958,
+      "locationMunicipality": "Breda",
+      "mapLocationType": "service-area",
+      "addressChecked": "2026-10-01"
     },
     {
       "id": "candidate-ad70389770ed984a",
@@ -18591,7 +18661,7 @@
   ],
   "enrichmentVersion": 3,
   "enrichmentMethod": "Alle bronvermeldingen worden lokaal vooringevuld met uitlegbare sleutelwoordregels. Via Beheer kunnen daarnaast publieke bronpagina’s automatisch worden uitgelezen. Automatische waarden blijven controlepunten; bron, adres, toegang en actuele kosten moeten vóór publicatie worden geverifieerd.",
-  "addressEnrichmentVersion": 2,
+  "addressEnrichmentVersion": 1,
   "addressEnrichedAt": "2026-10-01",
-  "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; bij een contactadres buiten het werkgebied blijft het echte adres zichtbaar en gebruikt de kaart een transparante werkgebied-pin."
+  "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin."
 }

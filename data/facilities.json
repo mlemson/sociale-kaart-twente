@@ -2293,6 +2293,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326808/invis2/t-noaberhoes",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-t-noaberhoes-1oywfzc"
   },
   {
@@ -2329,6 +2330,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-alifa-a8qg9u"
   },
   {
@@ -2359,6 +2361,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-almelo-sociaal-team-clientondersteuners-4uxbfn"
   },
   {
@@ -2389,6 +2392,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327294/invis2/almelo-voor-elkaar",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-almelo-voor-elkaar-h0k283"
   },
   {
@@ -2420,7 +2424,39 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326951/invis2/alzheimer-trefpunt-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-alzheimer-trefpunt-almelo-lgc7vu"
+  },
+  {
+    "id": "catalog-org-anbo-pcob-afdeling-wierden-enter-wg2cg8",
+    "name": "ANBO-PCOB, afdeling Wierden Enter",
+    "category": "ontmoeten",
+    "address": "Vijzelmolenlaan 20",
+    "postcode": "3447GX",
+    "town": "Woerden",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.07614115,
+    "lon": 4.88761066,
+    "source": "https://www.socialekaartwierden.nl/is/organisatie/220591/invis2/anbo-pcob-afdeling-wierden-enter",
+    "checked": "2026-09-15",
+    "tags": [
+      "ontmoeten"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor ANBO-PCOB, afdeling Wierden Enter. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "",
+    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://anbo-pcob.nl/contact/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-anbo-pcob-afdeling-wierden-enter-wg2cg8"
   },
   {
     "id": "catalog-org-avedan-3bcgcs",
@@ -2456,6 +2492,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.avedan.nl/contact/",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-avedan-3bcgcs"
   },
   {
@@ -2486,6 +2523,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/326253/invis2/avedan-maatschappelijk-werk-locatie-holten",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-avedan-maatschappelijk-werk-locatie-holten-1d2znts"
   },
   {
@@ -2516,6 +2554,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/200612/invis2/avedan-maatschappelijk-werk-locatie-rijssen",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-avedan-maatschappelijk-werk-locatie-rijssen-18fodvm"
   },
   {
@@ -2547,6 +2586,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-avedan-welzijn-1q5jfr5"
   },
   {
@@ -2577,6 +2617,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/328454/invis2/bewonersinitiatief-de-hagedoorn",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-bewonersinitiatief-de-hagedoorn-7oa9bg"
   },
   {
@@ -2607,7 +2648,70 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/11881113/wijzer/bibliotheek-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-bibliotheek-almelo-1nvgmfd"
+  },
+  {
+    "id": "catalog-org-bibliotheek-holten-1dckned",
+    "name": "Bibliotheek Holten",
+    "category": "taal",
+    "address": "Smidsbelt 6",
+    "postcode": "7451BL",
+    "town": "Holten",
+    "municipality": "Rijssen-Holten",
+    "serviceMunicipalities": [
+      "Rijssen-Holten"
+    ],
+    "lat": 52.28131306,
+    "lon": 6.42165509,
+    "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/12026930/wijzer/bibliotheek-holten",
+    "checked": "2026-09-15",
+    "tags": [
+      "taal"
+    ],
+    "subthemes": [],
+    "description": "Locatie voor Bibliotheek Holten. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "",
+    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-bibliotheek-holten-1dckned"
+  },
+  {
+    "id": "catalog-org-bibliotheek-rijssen-e55lm5",
+    "name": "Bibliotheek Rijssen",
+    "category": "taal",
+    "address": "Kerkstraat 4",
+    "postcode": "7461LC",
+    "town": "Rijssen",
+    "municipality": "Rijssen-Holten",
+    "serviceMunicipalities": [
+      "Rijssen-Holten"
+    ],
+    "lat": 52.30786364,
+    "lon": 6.52275933,
+    "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/12020502/wijzer/bibliotheek-rijssen",
+    "checked": "2026-09-15",
+    "tags": [
+      "taal"
+    ],
+    "subthemes": [],
+    "description": "Locatie voor Bibliotheek Rijssen. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "",
+    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.bibliotheekrijssenholten.nl/klantenservice/in-de-bibliotheek.html",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-bibliotheek-rijssen-e55lm5"
   },
   {
     "id": "catalog-org-bibliotheekvoorziening-de-driehoek-1makn2n",
@@ -2637,7 +2741,39 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/4608870656/wijzer/bibliotheekvoorziening-de-driehoek",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-bibliotheekvoorziening-de-driehoek-1makn2n"
+  },
+  {
+    "id": "catalog-org-buurtbemiddeling-wierden-uhm64j",
+    "name": "Buurtbemiddeling Wierden",
+    "category": "advies",
+    "address": "Dokter G.H. Beensweg 21",
+    "postcode": "7642CH",
+    "town": "Wierden",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.35470544,
+    "lon": 6.58036385,
+    "source": "https://www.socialekaartwierden.nl/is/organisatie/328767/invis2/buurtbemiddeling-wierden",
+    "checked": "2026-09-15",
+    "tags": [
+      "advies"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Buurtbemiddeling Wierden. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "",
+    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://www.stichtingdewelle.nl/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-buurtbemiddeling-wierden-uhm64j"
   },
   {
     "id": "catalog-org-christelijke-mantelzorghulp-rijssen-1kh8uvg",
@@ -2667,6 +2803,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197113/invis2/christelijke-mantelzorghulp-rijssen",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-christelijke-mantelzorghulp-rijssen-1kh8uvg"
   },
   {
@@ -2698,6 +2835,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326812/invis2/cosbo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-cosbo-11y4bdb"
   },
   {
@@ -2728,6 +2866,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/12122481/wijzer/de-bibliotheek-enter",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-de-bibliotheek-enter-fkcst2"
   },
   {
@@ -2758,6 +2897,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/12116328/wijzer/de-bibliotheek-wierden",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-de-bibliotheek-wierden-86ppne"
   },
   {
@@ -2788,6 +2928,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197220/invis2/de-fakkel",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-de-fakkel-1ab1io8"
   },
   {
@@ -2819,6 +2960,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-de-klup-locatie-almelo-1x3ssps"
   },
   {
@@ -2850,6 +2992,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-de-kringen-wees-jezelf-ontmoet-een-ander-ckewws"
   },
   {
@@ -2882,6 +3025,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-de-voorzieningenwijzer-s8090y"
   },
   {
@@ -2912,6 +3056,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-de-zonnebloem-afdeling-almelo-qbcwt8"
   },
   {
@@ -2942,6 +3087,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220584/invis2/de-zonnebloem-afd-wierden",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-de-zonnebloem-afd-wierden-1wn4tgi"
   },
   {
@@ -2972,6 +3118,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220517/invis2/evenmens-wierden",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-evenmens-wierden-6t5uzi"
   },
   {
@@ -3002,6 +3149,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/318449/invis2/gemeente-wierden-geldloket",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-gemeente-wierden-geldloket-19czko1"
   },
   {
@@ -3034,6 +3182,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-humanitas-onder-dak-locatie-almelo-nvkl3h"
   },
   {
@@ -3081,6 +3230,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-humanitas-twente-1slc1kw"
   },
   {
@@ -3111,7 +3261,39 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197530/invis2/inlooppunt-de-open-deur",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-inlooppunt-de-open-deur-15mg6al"
+  },
+  {
+    "id": "catalog-org-ixta-noa-1gu2ijx",
+    "name": "Ixta Noa",
+    "category": "mentaal",
+    "address": "Molenstraat 30",
+    "postcode": "7514DK",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22323189,
+    "lon": 6.89435653,
+    "source": "https://www.ixtanoa.nl/locaties/enschede/",
+    "checked": "2026-09-15",
+    "tags": [
+      "mentaal"
+    ],
+    "subthemes": [],
+    "description": "Locatie voor Ixta Noa. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "",
+    "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-ixta-noa-1gu2ijx"
   },
   {
     "id": "catalog-org-jeugdfonds-almelo-15w9co8",
@@ -3141,6 +3323,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-jeugdfonds-almelo-15w9co8"
   },
   {
@@ -3173,6 +3356,7 @@
     "email": "",
     "locationType": "visiting",
     "locationSource": "https://jeugdfondssportencultuur.nl/fondsen/enschede/",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-jeugdfonds-sport-cultuur-enschede-14j199n"
   },
   {
@@ -3203,6 +3387,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/326205/invis2/kbo-enter",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-kbo-enter-1kbrolq"
   },
   {
@@ -3235,6 +3420,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327307/invis2/kledingbank-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-kledingbank-almelo-1q5pms3"
   },
   {
@@ -3265,6 +3451,7 @@
     "email": "",
     "locationType": "visiting",
     "locationSource": "https://www.kledingbankenschede.nl/contactgegevens-en-bereikbaarheid/",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-kledingbank-enschede-16erxjg"
   },
   {
@@ -3297,7 +3484,40 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-leendert-vriel-almelo-q5xxhw"
+  },
+  {
+    "id": "catalog-org-leendert-vriel-enschede-n9uz4f",
+    "name": "Leendert Vriel Enschede",
+    "category": "mantelzorg",
+    "address": "Het Bijvank 155",
+    "postcode": "7544DB",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.1942135,
+    "lon": 6.8702088,
+    "source": "https://www.leendertvriel.nl/",
+    "checked": "2026-09-15",
+    "tags": [
+      "mantelzorg",
+      "vrijwillig"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Leendert Vriel Enschede. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "",
+    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://leendertvriel.nl/contact-post/enschede-haaksbergen/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-leendert-vriel-enschede-n9uz4f"
   },
   {
     "id": "catalog-org-leger-des-heils-buurthuiskamer-bij-bosshardt-1keez9u",
@@ -3327,6 +3547,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-leger-des-heils-buurthuiskamer-bij-bosshardt-1keez9u"
   },
   {
@@ -3357,6 +3578,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-loes-r3cfqg"
   },
   {
@@ -3387,6 +3609,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326935/invis2/mantelzorg-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-mantelzorg-almelo-at2mlq"
   },
   {
@@ -3430,7 +3653,52 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.meesamen.nl/contact",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-mee-samen-1jhku1y"
+  },
+  {
+    "id": "catalog-org-netwerk-het-twente-1v3qieb",
+    "name": "Netwerk HET Twente",
+    "category": "mentaal",
+    "address": "Molenstraat 30",
+    "postcode": "7514DK",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
+      "Rijssen-Holten",
+      "Tubbergen",
+      "Twenterand",
+      "Wierden"
+    ],
+    "lat": 52.22323189,
+    "lon": 6.89435653,
+    "source": "https://www.nhet-twente.nl/",
+    "checked": "2026-09-15",
+    "tags": [
+      "mentaal"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Netwerk HET Twente. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Mensen met psychische kwetsbaarheid of herstelvragen",
+    "costs": "",
+    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://www.nhet-twente.nl/contact/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-netwerk-het-twente-1v3qieb"
   },
   {
     "id": "catalog-org-open-hof-cafe-protestantse-gemeente-te-rijssen-1xgai38",
@@ -3460,6 +3728,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/210743/invis2/open-hof-cafe-protestantse-gemeente-te-rijssen-open-hof",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-open-hof-cafe-protestantse-gemeente-te-rijssen-1xgai38"
   },
   {
@@ -3490,6 +3759,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/329017/invis2/ouderenvereniging-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-ouderenvereniging-almelo-1137d41"
   },
   {
@@ -3520,6 +3790,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220494/invis2/ouderenvereniging-wierden",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-ouderenvereniging-wierden-1ttdvav"
   },
   {
@@ -3550,6 +3821,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197050/invis2/pand-11",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-pand-11-m2zny6"
   },
   {
@@ -3580,6 +3852,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/201140/invis2/pcob-rijssen-holten",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-pcob-rijssen-holten-uvv4jy"
   },
   {
@@ -3611,6 +3884,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327924/invis2/realcovery-inloophuis-locatie-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-realcovery-inloophuis-locatie-almelo-65scv5"
   },
   {
@@ -3641,6 +3915,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327320/invis2/school-s-cool-twente",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-school-s-cool-twente-13bs97d"
   },
   {
@@ -3671,6 +3946,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327311/invis2/schuldhulpmaatje-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-schuldhulpmaatje-almelo-qwotn1"
   },
   {
@@ -3701,6 +3977,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326816/invis2/seniorweb-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-seniorweb-almelo-x8bp5x"
   },
   {
@@ -3744,6 +4021,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.slachtofferhulp.nl/over-ons/",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-slachtofferhulp-nederland-19vn0ru"
   },
   {
@@ -3782,6 +4060,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://swtd.nl/contact",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
   },
   {
@@ -3812,6 +4091,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327314/invis2/speelgoedbank-twente-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-speelgoedbank-twente-almelo-k8hpxb"
   },
   {
@@ -3842,7 +4122,39 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/221649/invis2/speelotheek-pippeloentje",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-speelotheek-pippeloentje-1vp8zlx"
+  },
+  {
+    "id": "catalog-org-stichting-buurtgezinnen-ar0jeq",
+    "name": "Stichting Buurtgezinnen",
+    "category": "jeugd",
+    "address": "Herenstraat 47",
+    "postcode": "3431CW",
+    "town": "Nieuwegein",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.03609158,
+    "lon": 5.09364022,
+    "source": "https://www.socialekaartwierden.nl/is/organisatie/327167/invis2/stichting-buurtgezinnen",
+    "checked": "2026-09-15",
+    "tags": [
+      "jeugd"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Stichting Buurtgezinnen. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "",
+    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://www.buurtgezinnen.nl/contact/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-stichting-buurtgezinnen-ar0jeq"
   },
   {
     "id": "catalog-org-stichting-de-welle-8ulohi",
@@ -3872,6 +4184,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220582/invis2/stichting-de-welle",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-stichting-de-welle-8ulohi"
   },
   {
@@ -3902,6 +4215,7 @@
     "email": "",
     "locationType": "contact",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197275/invis2/stichting-kulturhus-holten-locatie-smidsbelt",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-stichting-kulturhus-holten-locatie-smidsbelt-epepae"
   },
   {
@@ -3935,6 +4249,7 @@
     "email": "",
     "locationType": "visiting",
     "locationSource": "https://www.leergeldenschede.nl/contact",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-stichting-leergeld-enschede-1y8aqqf"
   },
   {
@@ -3966,6 +4281,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://stichtingpresent.nl/enschede/ik-zoek-hulp-2/",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-stichting-present-enschede-1lmy4a2"
   },
   {
@@ -3997,6 +4313,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/220987/invis2/stichting-samenzijn",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-stichting-samenzijn-4d2qln"
   },
   {
@@ -4027,6 +4344,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197659/invis2/stichting-teripang",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-stichting-teripang-1kx7x10"
   },
   {
@@ -4057,6 +4375,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/10578/invis2/stichting-thuis-sterven-zuidwest-overijssel",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-stichting-thuis-sterven-zuidwest-overijssel-11f2o37"
   },
   {
@@ -4087,6 +4406,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/328975/invis2/stichting-thuisteam-twente-kleding-speelgoedbank-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-stichting-thuisteam-twente-kleding-speelgoedba-30iqdu"
   },
   {
@@ -4117,7 +4437,39 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326953/invis2/stichting-vluchtelingenwerk-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-stichting-vluchtelingenwerk-almelo-1exkpbf"
+  },
+  {
+    "id": "catalog-org-tafeltje-dekje-wa2vbj",
+    "name": "Tafeltje dekje",
+    "category": "vervoer",
+    "address": "Reggestraat 85",
+    "postcode": "7468EJ",
+    "town": "Enter",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.29359952,
+    "lon": 6.5805698,
+    "source": "https://www.socialekaartwierden.nl/is/organisatie/220585/invis2/tafeltje-dekje",
+    "checked": "2026-09-15",
+    "tags": [
+      "vervoer"
+    ],
+    "subthemes": [],
+    "description": "Locatie voor Tafeltje dekje. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "",
+    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-tafeltje-dekje-wa2vbj"
   },
   {
     "id": "catalog-org-tejo-huis-almelo-dlmyhr",
@@ -4147,6 +4499,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-tejo-huis-almelo-dlmyhr"
   },
   {
@@ -4177,6 +4530,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197320/invis2/voedsel-kledingbank-rijssen-holten",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-voedsel-kledingbank-rijssen-holten-6l2bdb"
   },
   {
@@ -4207,6 +4561,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326971/invis2/voedselbank-almelo",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-voedselbank-almelo-17y08xb"
   },
   {
@@ -4237,7 +4592,39 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://voedselbankenschedehaaksbergen.nl/",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-voedselbank-enschede-haaksbergen-dq0vh0"
+  },
+  {
+    "id": "catalog-org-volwassenenfonds-99tqly",
+    "name": "Volwassenenfonds",
+    "category": "geld",
+    "address": "Schild 1",
+    "postcode": "7461DD",
+    "town": "Rijssen",
+    "municipality": "Rijssen-Holten",
+    "serviceMunicipalities": [
+      "Rijssen-Holten"
+    ],
+    "lat": 52.3073607,
+    "lon": 6.52203914,
+    "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/326905/invis2/volwassenenfonds",
+    "checked": "2026-09-15",
+    "tags": [
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Volwassenenfonds. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "",
+    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://www.rijssen-holten.nl/contact/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-volwassenenfonds-99tqly"
   },
   {
     "id": "catalog-org-wierden-met-mekaar-1wdap34",
@@ -4267,6 +4654,7 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/224536/invis2/wierden-met-mekaar",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-wierden-met-mekaar-1wdap34"
   },
   {
@@ -4302,6 +4690,70 @@
     "email": "",
     "locationType": "source-address",
     "locationSource": "https://www.wijkrachtborne.nl/jmz",
+    "mapLocationType": "address",
     "catalogOrganizationId": "org-wijkracht-borne-1vcxyoy"
+  },
+  {
+    "id": "catalog-org-wijkwijzer-enschede-jrixo6",
+    "name": "Wijkwijzer Enschede",
+    "category": "advies",
+    "address": "Hoge Bothofstraat 49",
+    "postcode": "7511ZA",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22306902,
+    "lon": 6.90400645,
+    "source": "https://wijkwijzerenschede.nl/",
+    "checked": "2026-09-15",
+    "tags": [
+      "advies",
+      "mantelzorg"
+    ],
+    "subthemes": [],
+    "description": "Locatie voor Wijkwijzer Enschede. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "",
+    "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "catalog-org-zonnebloem-holten-1a5c3u0",
+    "name": "Zonnebloem Holten",
+    "category": "ontmoeten",
+    "address": "Zorgvlietstraat 491",
+    "postcode": "4834NH",
+    "town": "Breda",
+    "municipality": "Rijssen-Holten",
+    "serviceMunicipalities": [
+      "Rijssen-Holten"
+    ],
+    "lat": 51.57346249,
+    "lon": 4.81272958,
+    "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/297269/invis2/zonnebloem-holten",
+    "checked": "2026-09-15",
+    "tags": [
+      "ontmoeten"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Zonnebloem Holten. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "",
+    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://www.zonnebloem.nl/over-de-zonnebloem/contact",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-zonnebloem-holten-1a5c3u0"
   }
 ]
