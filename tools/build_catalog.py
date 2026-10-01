@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Bouw publieke kaartdata, organisatiecatalogus en een kleine uitzonderingenlijst."""
+"""Bouw publieke kaartdata, organisatiecatalogus en uitzonderingenlijst."""
 from __future__ import annotations
-import json, re, shutil, unicodedata
+import json, re, unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -17,14 +17,22 @@ def dump(path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
+def normalized(text):
+    value = unicodedata.normalize("NFD", (text or "").casefold())
+    value = "".join(ch for ch in value if unicodedata.category(ch) != "Mn")
+    return re.sub(r"[^a-z0-9]+", " ", value).strip()
+
 def org_name(v):
     name = (v.get("name") or "").strip()
     if " · " in name:
         return name.split(" · ", 1)[0].strip()
     source_title = (v.get("sourceTitle") or "").strip()
-    if source_title and not GENERIC.search(source_title) and v.get("sourceKind") in {"first-party", "provider"}:
+    if source_title and not GENERIC.search(source_title) and v.get("sourceKind") in {"first-party", "provider", "regional"}:
         return source_title
     return name or source_title or "Onbekend"
+
+def has_location(v):
+    return bool(v.get("address") and v.get("town") and isinstance(v.get("lat"), (int, float)) and isinstance(v.get("lon"), (int, float)))
 
 def review_status(v):
     if v.get("status") == "published" or v.get("accessStatus") == "confirmed":
@@ -33,6 +41,8 @@ def review_status(v):
         return "review-needed"
     if (v.get("enrichment") or {}).get("categoryConflict"):
         return "review-needed"
+    if not has_location(v):
+        return "review-needed"
     return "source-backed"
 
 def stable_id(text):
@@ -40,9 +50,9 @@ def stable_id(text):
     for ch in text:
         h ^= ord(ch)
         h = (h * 16777619) & 0xffffffff
-    normalized = unicodedata.normalize("NFD", text.lower())
-    normalized = "".join(ch for ch in normalized if unicodedata.category(ch) != "Mn")
-    base = re.sub(r"[^a-z0-9]+", "-", normalized).strip("-")[:46] or "organisatie"
+    norm = unicodedata.normalize("NFD", text.lower())
+    norm = "".join(ch for ch in norm if unicodedata.category(ch) != "Mn")
+    base = re.sub(r"[^a-z0-9]+", "-", norm).strip("-")[:46] or "organisatie"
     alphabet = "0123456789abcdefghijklmnopqrstuvwxyz"
     n = h
     tail = "0" if n == 0 else ""
@@ -51,11 +61,45 @@ def stable_id(text):
         tail = alphabet[r] + tail
     return f"org-{base}-{tail}"
 
+def pick_location(offers):
+    priority = {"service": 0, "visiting": 0, "existing": 1, "source-address": 2, "contact": 3}
+    options = [o for o in offers if has_location(o)]
+    if not options:
+        return None
+    options.sort(key=lambda o: (
+        priority.get(o.get("locationType") or "", 5),
+        0 if o.get("postcode") else 1,
+        o.get("address") or "",
+    ))
+    o = options[0]
+    return {
+        "address": o.get("address") or "",
+        "postcode": o.get("postcode") or "",
+        "town": o.get("town") or "",
+        "lat": o.get("lat"),
+        "lon": o.get("lon"),
+        "locationMunicipality": o.get("locationMunicipality") or o.get("municipality") or "",
+        "locationType": o.get("locationType") or "contact",
+        "locationSource": o.get("locationSource") or o.get("source") or "",
+    }
+
+def base_represents(group, facilities):
+    org = normalized(group["organization"])
+    sources = set(group.get("sources") or [])
+    for facility in facilities:
+        if facility.get("source") and facility.get("source") in sources:
+            return True
+        name = normalized(facility.get("name") or "")
+        if org and name and len(org) >= 4 and (name.startswith(org) or org.startswith(name)):
+            return True
+    return False
+
 def main():
     inv = load(INVENTORY)
-    facilities = load(BASE)
+    base_facilities = load(BASE)
     groups = {}
     review = []
+
     for v in inv.get("candidates", []):
         org = org_name(v)
         key = org.casefold()
@@ -64,6 +108,7 @@ def main():
             "sources": [], "offerCount": 0, "reviewNeeded": 0, "sourceBacked": 0, "manual": 0,
             "checked": v.get("checked") or inv.get("checked") or "", "offers": []
         })
+
         municipalities = v.get("municipalities") or ([v.get("municipality")] if v.get("municipality") else [])
         for municipality in municipalities:
             if municipality and municipality not in g["municipalities"]:
@@ -73,19 +118,28 @@ def main():
                 g["categories"].append(category)
         if v.get("source") and v["source"] not in g["sources"]:
             g["sources"].append(v["source"])
+
         status = review_status(v)
         if status == "review-needed":
             g["reviewNeeded"] += 1
+            if not v.get("source"):
+                reason = "Bron ontbreekt"
+            elif (v.get("enrichment") or {}).get("categoryConflict"):
+                reason = "Categorie uit bron en automatische indeling spreken elkaar tegen"
+            elif not has_location(v):
+                reason = "Adres of kaartcoördinaten ontbreken"
+            else:
+                reason = "Kerngegevens ontbreken"
             review.append({
                 "id": v.get("id"), "name": v.get("name"), "municipality": v.get("municipality") or "",
                 "source": v.get("source") or "", "sourceTitle": v.get("sourceTitle") or "",
-                "reason": ("Bron ontbreekt" if not v.get("source") else "Categorie uit bron en automatische indeling spreken elkaar tegen" if (v.get("enrichment") or {}).get("categoryConflict") else "Kerngegevens ontbreken"),
-                "checked": v.get("checked") or inv.get("checked") or ""
+                "reason": reason, "checked": v.get("checked") or inv.get("checked") or ""
             })
         elif status == "manual":
             g["manual"] += 1
         else:
             g["sourceBacked"] += 1
+
         title = (v.get("name") or "").strip()
         prefix = org + " · "
         if title.startswith(prefix):
@@ -98,22 +152,73 @@ def main():
             "audience": v.get("audience") or "", "costs": v.get("costs") or "", "access": v.get("access") or "",
             "source": v.get("source") or "", "sourceKind": v.get("sourceKind") or "",
             "sourceTitle": v.get("sourceTitle") or "", "checked": v.get("checked") or inv.get("checked") or "",
-            "reviewStatus": status
+            "reviewStatus": status,
+            "address": v.get("address") or "", "postcode": v.get("postcode") or "", "town": v.get("town") or "",
+            "lat": v.get("lat"), "lon": v.get("lon"), "locationType": v.get("locationType") or "",
+            "locationSource": v.get("locationSource") or "", "locationMunicipality": v.get("locationMunicipality") or "",
         })
         g["offerCount"] += 1
+
     catalog = []
     for g in groups.values():
         g["municipalities"].sort()
         g["offers"].sort(key=lambda x: x["title"].casefold())
+        g["location"] = pick_location(g["offers"])
         g["status"] = "review-needed" if g["reviewNeeded"] else "source-backed"
         g["primarySource"] = g["sources"][0] if g["sources"] else ""
         catalog.append(g)
     catalog.sort(key=lambda x: x["organization"].casefold())
+
+    facilities = list(base_facilities)
+    synthetic = 0
+    for g in catalog:
+        loc = g.get("location")
+        if not loc or base_represents(g, base_facilities):
+            continue
+        first_offer = next((o for o in g["offers"] if has_location(o)), g["offers"][0] if g["offers"] else {})
+        location_municipality = loc.get("locationMunicipality") or ""
+        service_municipality = location_municipality if location_municipality in g["municipalities"] else (g["municipalities"][0] if g["municipalities"] else location_municipality)
+        category = (g.get("categories") or ["advies"])[0]
+        description = (
+            f"{'Contact-/vestigingsadres' if loc.get('locationType') in {'contact','source-address'} else 'Locatie'} "
+            f"voor {g['organization']}. Via de bron zijn {g['offerCount']} vormen van voorliggend aanbod opgenomen."
+        )
+        facilities.append({
+            "id": "catalog-" + g["id"],
+            "name": g["organization"],
+            "category": category,
+            "address": loc.get("address") or "",
+            "postcode": loc.get("postcode") or "",
+            "town": loc.get("town") or "",
+            "municipality": service_municipality,
+            "serviceMunicipalities": g.get("municipalities") or [],
+            "lat": loc.get("lat"),
+            "lon": loc.get("lon"),
+            "source": g.get("primarySource") or loc.get("locationSource") or "",
+            "checked": g.get("checked") or inv.get("checked") or "",
+            "tags": g.get("categories") or [category],
+            "subthemes": [],
+            "description": description,
+            "audience": first_offer.get("audience") or "",
+            "costs": first_offer.get("costs") or "",
+            "access": first_offer.get("access") or "",
+            "openingHours": "",
+            "phone": "",
+            "email": "",
+            "locationType": loc.get("locationType") or "contact",
+            "locationSource": loc.get("locationSource") or "",
+            "catalogOrganizationId": g["id"],
+        })
+        synthetic += 1
+
     DATA.mkdir(parents=True, exist_ok=True)
-    shutil.copyfile(BASE, DATA / "facilities.json")
+    dump(DATA / "facilities.json", facilities)
     dump(DATA / "catalog.json", catalog)
     dump(DATA / "review-queue.json", review)
-    print(f"{len(facilities)} kaartlocaties · {len(catalog)} organisaties · {sum(g['offerCount'] for g in catalog)} aanbodregels · {len(review)} aandachtspunten")
+    print(
+        f"{len(facilities)} kaartlocaties ({len(base_facilities)} bestaand + {synthetic} bron/contact) · "
+        f"{len(catalog)} organisaties · {sum(g['offerCount'] for g in catalog)} aanbodregels · {len(review)} aandachtspunten"
+    )
 
 if __name__ == "__main__":
     main()
