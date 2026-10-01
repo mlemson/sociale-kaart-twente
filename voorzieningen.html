@@ -18,17 +18,17 @@
 <main class="portal-main">
   <p class="eyebrow">14 GEMEENTEN · ÉÉN OVERZICHT</p>
   <h1>Bekijk het aanbod <em>in Twente.</em></h1>
-  <p class="lead">Hier staat voorliggend sociaal aanbod dat inwoners doorgaans rechtstreeks kunnen benaderen, zonder gemeentelijke indicatie. Zoek per gemeente of onderwerp, bekijk de bron en help gegevens actueel te houden.</p>
-  <div class="notice">De lijst is opgebouwd uit gemeentelijke sociale kaarten en lokale aanbieders. Bronvermeldingen worden automatisch vooringevuld met herkenbare sleutelwoorden, bijvoorbeeld voor onderwerp en doelgroep. Dat is voorwerk, geen eindcontrole: bron, adres, toegang, kosten en actuele beschikbaarheid moeten vóór publicatie worden geverifieerd. Geïndiceerde zorg, medische behandeling, scholen en commerciële praktijken zijn uitgesloten.</div>
+  <p class="lead">Hier staat voorliggend sociaal aanbod dat inwoners doorgaans rechtstreeks kunnen benaderen, zonder gemeentelijke indicatie. Zoek op organisatie, activiteit, onderwerp of een vraag die je hebt.</p>
+  <div class="notice"><strong>Niet alles hoeft meer handmatig gecontroleerd te worden.</strong> Aanbod met een duidelijke bron wordt direct als <em>brononderbouwd</em> opgenomen. Alleen ontbrekende bronnen, tegenstrijdige indelingen en andere echte twijfelgevallen komen in de aandachtlijst. De bron blijft leidend voor actuele toegang, kosten en beschikbaarheid.</div>
   <div class="toolbar">
-    <input id="inventory-search" type="search" aria-label="Zoek organisatie" placeholder="Zoek op naam…">
+    <input id="inventory-search" type="search" aria-label="Zoek organisatie of aanbod" placeholder="Zoek bijvoorbeeld opvoeden, maatje, vervoer…">
     <select id="inventory-municipality" aria-label="Gemeente"><option value="">Heel Twente</option></select>
     <select id="inventory-category" aria-label="Onderwerp"><option value="">Alle onderwerpen</option></select>
-    <select id="inventory-access" aria-label="Toegangscontrole"><option value="">Alle toegangsstatussen</option><option value="confirmed">Toegang bevestigd</option><option value="source-check">Bron gevonden</option></select>
-    <select id="inventory-status" aria-label="Kaartstatus"><option value="">Lijst en kaart</option><option value="published">Gecontroleerd op de kaart</option><option value="candidate">Broninventarisatie</option></select>
+    <select id="inventory-access" aria-label="Betrouwbaarheid"><option value="">Alle statussen</option><option value="source-backed">Brononderbouwd</option><option value="review-needed">Aandacht nodig</option><option value="confirmed">Handmatig gecontroleerd</option></select>
+    <select id="inventory-status" aria-label="Soort vermelding"><option value="">Alle vermeldingen</option><option value="published">Met kaartlocatie</option><option value="candidate">Met aanbod uit bron</option></select>
   </div>
   <div class="countline"><span id="inventory-count" role="status">Voorzieningen laden…</span><button class="action secondary" id="download-json">Download selectie (JSON)</button></div>
-  <div class="table-wrap"><table><thead><tr><th>Voorziening / aanbod</th><th>Gebied</th><th>Onderwerp</th><th>Toegang</th><th>Bekijk of vul aan</th></tr></thead><tbody id="inventory-rows"></tbody></table></div>
+  <div class="table-wrap"><table><thead><tr><th>Organisatie / aanbod</th><th>Gebied</th><th>Onderwerp</th><th>Status</th><th>Bron / aanvullen</th></tr></thead><tbody id="inventory-rows"></tbody></table></div>
   <div class="actions"><button class="action secondary" id="load-more" hidden>Meer tonen</button><a class="action" href="aanmelden.html">Aanbod ontbreekt of klopt niet? Geef het door →</a></div>
   <div id="page-message" role="status" hidden></div>
   <details><summary>Bronnen en voortgang per gemeente</summary><p class="hint">De bronronde omvat alle 14 Twentse gemeenten. Omdat lokaal aanbod en voorwaarden veranderen, blijft dit een onderhoudbare voorzieningenlijst en geen absolute volledigheidsgarantie.</p><div id="source-overview" class="source-grid"></div></details>
