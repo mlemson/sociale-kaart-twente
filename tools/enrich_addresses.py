@@ -20,6 +20,8 @@ import html
 import json
 import os
 import re
+import socket
+import ipaddress
 import time
 import unicodedata
 from collections import defaultdict
@@ -27,7 +29,7 @@ from datetime import date
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import quote_plus, urljoin, urlparse
-from urllib.request import Request, urlopen
+from urllib.request import Request, build_opener, HTTPRedirectHandler
 
 ROOT = Path(__file__).resolve().parents[1]
 INVENTORY = ROOT / "inventory.json"
@@ -131,9 +133,33 @@ class PageParser(HTMLParser):
                 if self._href is not None:
                     self._link_text.append(cleaned)
 
+def public_url(url: str) -> bool:
+    try:
+        parsed = urlparse(url)
+        if parsed.scheme not in {"http", "https"} or not parsed.hostname:
+            return False
+        infos = socket.getaddrinfo(parsed.hostname, parsed.port or (443 if parsed.scheme == "https" else 80), type=socket.SOCK_STREAM)
+        for info in infos:
+            ip = ipaddress.ip_address(info[4][0])
+            if ip.is_private or ip.is_loopback or ip.is_link_local or ip.is_reserved or ip.is_multicast or ip.is_unspecified:
+                return False
+        return True
+    except Exception:
+        return False
+
+class SafeRedirect(HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        if not public_url(newurl):
+            raise ValueError("Redirect naar niet-publiek adres geblokkeerd")
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+OPENER = build_opener(SafeRedirect)
+
 def fetch(url: str) -> str:
+    if not public_url(url):
+        raise ValueError("Bron verwijst niet naar een publiek internetadres")
     req = Request(url, headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml"})
-    with urlopen(req, timeout=TIMEOUT) as response:
+    with OPENER.open(req, timeout=TIMEOUT) as response:
         ctype = (response.headers.get("Content-Type") or "").lower()
         if "text/html" not in ctype and "application/xhtml+xml" not in ctype:
             return ""
@@ -261,7 +287,7 @@ def pdok_geocode(item: dict, expected_municipalities: list[str]):
     )
     req = Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
     try:
-        with urlopen(req, timeout=TIMEOUT) as response:
+        with OPENER.open(req, timeout=TIMEOUT) as response:
             payload = json.loads(response.read(750_000).decode("utf-8"))
     except Exception:
         return None
@@ -313,6 +339,25 @@ def discover_for_group(group: list[dict]):
                 "locationType": v.get("locationType") or "existing",
                 "locationSource": v.get("locationSource") or v.get("source") or "",
             }
+
+    # Een handmatig of eerder gevonden adres zonder coördinaten is betrouwbaarder
+    # dan opnieuw gokken op basis van een willekeurige aanbodpagina. Geocodeer dat eerst.
+    priority = {"service": 0, "visiting": 0, "existing": 1, "contact": 2, "source-address": 3, "": 4}
+    seeded = sorted(
+        [v for v in group if v.get("address") and v.get("town")],
+        key=lambda v: (priority.get(v.get("locationType") or "", 5), 0 if v.get("postcode") else 1)
+    )
+    for v in seeded:
+        geo = pdok_geocode({
+            "address": v.get("address") or "",
+            "postcode": v.get("postcode") or "",
+            "town": v.get("town") or "",
+        }, expected)
+        time.sleep(REQUEST_DELAY)
+        if geo:
+            geo["locationType"] = v.get("locationType") or "contact"
+            geo["locationSource"] = v.get("locationSource") or v.get("source") or ""
+            return geo
 
     ranked_sources = sorted(
         [v for v in group if v.get("source")],
@@ -421,7 +466,7 @@ def main():
                 "lat": location["lat"],
                 "lon": location["lon"],
                 "locationMunicipality": location.get("locationMunicipality") or "",
-                "locationType": "contact" if len(group) > 1 else location.get("locationType", "contact"),
+                "locationType": location.get("locationType") or ("contact" if len(group) > 1 else "source-address"),
                 "locationSource": location.get("locationSource") or "",
                 "addressChecked": today,
             })
