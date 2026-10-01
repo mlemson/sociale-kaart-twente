@@ -1,0 +1,173 @@
+[
+  {
+    "id": "candidate-27bbc8c4ad3529e3",
+    "name": "Impuls · Opgroeien",
+    "municipality": "Oldenzaal",
+    "source": "https://www.impuls-oldenzaal.nl/wat-we-doen/opgroeien",
+    "sourceTitle": "Impuls",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-f282fbb2a0967c6e",
+    "name": "Leendert Vriel Enschede · vrijwillige palliatieve thuiszorg",
+    "municipality": "Enschede",
+    "source": "https://www.leendertvriel.nl/",
+    "sourceTitle": "Stichting Leendert Vriel Enschede",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-a02baef389c1b783",
+    "name": "Noaberpoort · ANWB AutoMaatje",
+    "municipality": "Haaksbergen",
+    "source": "https://www.noaberpoort.nl/AutoMaatje",
+    "sourceTitle": "Noaberpoort",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-90bb25530d6fef0e",
+    "name": "Noaberpoort · Buurtbemiddeling",
+    "municipality": "Haaksbergen",
+    "source": "https://www.noaberpoort.nl/Buurtbemiddeling",
+    "sourceTitle": "Noaberpoort",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-a7449ef47d0f1571",
+    "name": "Noaberpoort · Cliëntondersteuner",
+    "municipality": "Haaksbergen",
+    "source": "https://www.noaberpoort.nl/Clientondersteuner",
+    "sourceTitle": "Noaberpoort",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-e9d553a5d732940f",
+    "name": "Noaberpoort · Maatschappelijk werk",
+    "municipality": "Haaksbergen",
+    "source": "https://www.noaberpoort.nl/Maatschappelijk-werk",
+    "sourceTitle": "Noaberpoort",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-fff6b8c15369620f",
+    "name": "Realcovery inloophuis - locatie Almelo",
+    "municipality": "Almelo",
+    "source": "https://socialekaart.almelo.nl/is/organisatie/327924/invis2/realcovery-inloophuis-locatie-almelo",
+    "sourceTitle": "Sociale kaart Almelo",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-26a02e3982586f7f",
+    "name": "Salut · Lichamelijk en mentaal gezond",
+    "municipality": "Hof van Twente",
+    "source": "https://salut-welzijn.nl/onderwerpen/lichamelijk-en-mentaal-gezond",
+    "sourceTitle": "Salut",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-dc8ef63a98ac44be",
+    "name": "Sociaal, dat werkt! · ANWB Automaatje",
+    "municipality": "",
+    "source": "https://swtd.nl/ons-aanbod/ouder-worden/anwb-automaatje",
+    "sourceTitle": "Sociaal, dat werkt!",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-426d177435ba16e1",
+    "name": "Stichting Present Enschede · praktische hulp",
+    "municipality": "Enschede",
+    "source": "https://stichtingpresent.nl/enschede/ik-zoek-hulp-2/",
+    "sourceTitle": "Stichting Present Enschede",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-ca109680a00b0566",
+    "name": "ViaVie Welzijn · Opgroeien & ontwikkelen",
+    "municipality": "Rijssen-Holten",
+    "source": "https://viaviewelzijn.nl/opgroeien-ontwikkelen",
+    "sourceTitle": "ViaVie Welzijn",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-3bf89bc92e8be805",
+    "name": "Wijkracht Borne · ANWB Automaatje",
+    "municipality": "Borne",
+    "source": "https://www.wijkrachtborne.nl/onze-diensten/volwassenen/anwb-automaatje",
+    "sourceTitle": "Wijkracht Borne",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-692be3189e757958",
+    "name": "Wijkracht Borne · Ouderen ondersteuning",
+    "municipality": "Borne",
+    "source": "https://www.wijkrachtborne.nl/ouderen-ondersteuning",
+    "sourceTitle": "Wijkracht Borne",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-2a2660933e79681f",
+    "name": "Wijkracht Hengelo · Administratieve hulp",
+    "municipality": "Hengelo",
+    "source": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo/administratieve-hulp",
+    "sourceTitle": "Wijkracht Hengelo",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-4973b4f0a372885d",
+    "name": "Wijkracht Hengelo · AutoMaatje Hengelo",
+    "municipality": "Hengelo",
+    "source": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo/anwb-automaatje",
+    "sourceTitle": "Wijkracht Hengelo",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-8d36b539297f4b20",
+    "name": "Wijkracht Hengelo · Maatschappelijke begeleiding nieuwkomers",
+    "municipality": "Hengelo",
+    "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/maatschappelijke-begeleiding-nieuwkomers",
+    "sourceTitle": "Wijkracht Hengelo",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-79567f715897c3eb",
+    "name": "Wijkracht Hengelo · Ouderen ondersteuning",
+    "municipality": "Hengelo",
+    "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/ouderenadviseur",
+    "sourceTitle": "Wijkracht Hengelo",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-ad70389770ed984a",
+    "name": "ZorgSaam Twenterand · Activiteiten & bijeenkomsten Kansrijk Opgroeien",
+    "municipality": "Twenterand",
+    "source": "https://www.zorgsaamtwenterand.nl/kansrijk-opgroeien/activiteiten-bijeenkomsten-kansrijk-opgroeien",
+    "sourceTitle": "ZorgSaam Twenterand",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  },
+  {
+    "id": "candidate-786ac9d3868a6604",
+    "name": "ZorgSaam Twenterand · Het Informatiepunt Vrijwilligerswerk Twenterand",
+    "municipality": "Twenterand",
+    "source": "https://www.zorgsaamtwenterand.nl/vrijwilligerswerk/het-informatiepunt-vrijwilligerswerk-twenterand",
+    "sourceTitle": "ZorgSaam Twenterand",
+    "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
+    "checked": "2026-09-15"
+  }
+]

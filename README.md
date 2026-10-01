@@ -1,55 +1,78 @@
-# Sociale kaart Twente — GitHub Pages versie
+# Sociale kaart Twente — GitHub Pages
 
-Deze repository combineert de nieuwste v10-interface/inventarisatie met de sterkste offline onderdelen uit de tweede export. De openbare kaart is aangepast zodat hij ook onder een GitHub Pages project-URL werkt, bijvoorbeeld `https://GEBRUIKER.github.io/sociale-kaart-twente/`.
+Deze repository bevat de publieke Sociale kaart Twente en een lokale beheeromgeving. De publieke site is statisch en geschikt voor GitHub Pages.
 
-## Wat werkt op GitHub Pages
+## Huidige opzet
 
-- interactieve kaart, gemeentegrenzen, zoeken, filters en detailkaarten;
-- 35 gepubliceerde kaartlocaties uit de nieuwste herstelkopie;
-- inventarisatie met 247 bronvermeldingen;
-- Leaflet volledig lokaal in de repository;
-- nauwkeuriger `twente.geojson` uit de volledige offline export;
-- ExcelJS en Mammoth lokaal meegeleverd (geen CDN-afhankelijkheid);
-- GitHub Actions workflow voor Pages-deployment;
-- handmatig uitvoerbare workflow **Voorinvulling opnieuw uitvoeren**.
+De kaart maakt bewust onderscheid tussen **kaartlocaties** en **aanbod uit bronnen**:
 
-## Belangrijke beperking van GitHub Pages
+- `data/facilities.json`: concrete locaties met adres en coördinaten voor de kaart;
+- `data/catalog.json`: organisaties met hun onderliggende activiteiten en vormen van ondersteuning;
+- `inventory.json`: broninventarisatie waaruit de catalogus wordt opgebouwd;
+- `data/review-queue.json`: alleen de uitzonderingen die echt menselijke aandacht nodig hebben.
 
-GitHub Pages serveert alleen statische bestanden. Het kan `server.py`, SQLite of `/api/...` niet uitvoeren. Daarom zijn kaart en inventarisatie volledig statisch gemaakt. **Aanmelden, beheer, goedkeuren, opslaan en bronpagina-verrijking zijn niet server-side actief op de publieke Pages-site.** De formulieren geven daar een duidelijke melding in plaats van stil te falen.
+Op dit moment worden 247 bronvermeldingen gegroepeerd tot ongeveer 85 organisaties. De automatische basiscontrole markeert 228 vermeldingen als brononderbouwd en 19 als aandachtspunt. Deze aantallen veranderen mee met de inventarisatie.
 
-De oorspronkelijke lokale backend staat onder `local-backend/`. Voor een echte publieke beheeromgeving is later een backend nodig (bijvoorbeeld Cloudflare/Supabase/een eigen server) met authenticatie en opslag. Publiceer nooit `data/state.json` wanneer daar contactgegevens in staan.
+### Waarom deze structuur?
 
-## Nieuwe repository maken en publiceren
+Een organisatie als Alifa hoeft niet twintig keer als losse kaartpin te verschijnen. De kaart kan één organisatie/locatie tonen, terwijl zoeken wel alle onderliggende vormen van aanbod vindt. Zo blijft de interface rustig zonder informatie weg te gooien.
 
-1. Maak op GitHub een nieuwe repository, bijvoorbeeld `sociale-kaart-twente`.
-2. Upload de **inhoud** van deze map naar de root van de repository (dus `index.html` direct bovenaan).
-3. Zorg dat de standaardbranch `main` heet.
-4. Open op GitHub **Settings → Pages → Build and deployment → Source** en kies **GitHub Actions**.
-5. Open **Actions → Deploy GitHub Pages**. Na een push start deployment automatisch; je kunt hem ook handmatig starten.
+## Controle zonder handmatig alles af te lopen
+
+De oude werkwijze vroeg impliciet om vrijwel iedere bronvermelding handmatig te controleren. Dat is vervangen door een uitzonderingenmodel:
+
+- **Brononderbouwd**: naam, gebied en bron zijn aanwezig en de automatische indeling bevat geen conflict.
+- **Handmatig gecontroleerd**: een concrete kaartlocatie die al expliciet is gecontroleerd.
+- **Aandacht nodig**: bron of kerngegevens ontbreken, of automatische bronindeling spreekt bestaande gegevens tegen.
+
+De aandachtlijst wordt gegenereerd door:
+
+```bash
+python tools/build_catalog.py
+```
+
+Daarmee worden ook de publieke JSON-bestanden opnieuw opgebouwd.
+
+> Brononderbouwd betekent niet dat openingstijden, kosten of beschikbaarheid voor altijd correct zijn. De detailpagina verwijst daarom altijd naar de aanbieder als actuele bron.
+
+## GitHub Pages
+
+De repository bevat `.github/workflows/pages.yml`. Stel bij **Settings → Pages → Build and deployment → Source** GitHub Actions in. Een push naar `main` publiceert de site vervolgens automatisch.
+
+De publieke site gebruikt Leaflet 1.9.4 via unpkg en PDOK voor de kaartondergrond. Alle eigen data, JavaScript en styling staan in deze repository.
+
+## Automatische controles
+
+`.github/workflows/validate.yml` controleert bij pushes en pull requests:
+
+- JavaScript-syntax;
+- geldige JSON/GeoJSON;
+- of `tools/build_catalog.py` exact reproduceerbare data oplevert;
+- of de voor GitHub Pages benodigde bestanden aanwezig zijn.
+
+`.github/workflows/enrich.yml` bouwt de afgeleide catalogus en aandachtlijst iedere maandag opnieuw en kan ook handmatig worden gestart.
 
 ## Lokaal testen
 
-Open een terminal in de repository en start:
+Gebruik een lokale webserver; open de bestanden niet rechtstreeks via `file://` omdat browsers lokale JSON-fetches kunnen blokkeren.
 
 ```bash
 python -m http.server 8000
 ```
 
-Ga daarna naar `http://localhost:8000/`. Open `index.html` niet rechtstreeks via `file://`, omdat browsers JSON-fetches vanaf lokale bestanden kunnen blokkeren.
+Open daarna `http://localhost:8000/`.
 
-## Data bijwerken
+## Beheer
 
-De openbare kaart leest kaartlocaties uit `data/facilities.json` en de inventarisatie uit `inventory.json`. De automatische sleutelwoord-voorinvulling kun je lokaal uitvoeren met:
+GitHub Pages kan geen Python-server, SQLite of schrijf-API uitvoeren. Aanmelden, importeren, goedkeuren en server-side bronverrijking zijn daarom niet actief op de publieke Pages-site.
 
-```bash
-python tools/enrich_all.py
-```
+Een deel van de oorspronkelijke lokale backend is teruggevonden onder `local-backend/`, maar het oude transportarchief was afgekapt en ondersteunende Python-modules ontbreken. Beschouw deze map daarom als referentiemateriaal, niet als een werkende beheeromgeving. Voor een latere publieke beheeromgeving is een nieuwe backend nodig, bijvoorbeeld Supabase, Cloudflare of een eigen server met authenticatie.
 
-of op GitHub via **Actions → Voorinvulling opnieuw uitvoeren → Run workflow**. Als de workflow inhoudelijk iets verandert, commit de GitHub Actions-bot de bijgewerkte JSON terug naar `main`, waarna Pages opnieuw deployt.
+## Belangrijkste bestanden
 
-## Bestandskeuze bij samenvoegen
-
-- UI, `app.js`, `portal.js`, CSS en inventarisatie: nieuwste **v10 navigatie/UI** export.
-- Gepubliceerde kaartlocaties: nieuwste export (**35**; de oudere export had **33**).
-- Gemeentegrenzen: grotere `twente.geojson` uit de **volledig offline** export.
-- Lokale browserbibliotheken en Leaflet-assets: uit de volledig offline export.
+- `index.html`, `app.js`, `style.css` — openbare kaart en zoekervaring;
+- `voorzieningen.html`, `portal.js`, `portal.css` — volledige voorzieningen-/organisatiecatalogus;
+- `inventory.json` — broninventarisatie;
+- `tools/build_catalog.py` — bouwt publieke data en aandachtlijst;
+- `twente.geojson` — gemeentegrenzen;
+- `local-backend/` — gedeeltelijk hersteld referentiemateriaal van de oude lokale redactieomgeving.
