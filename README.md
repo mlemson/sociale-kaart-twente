@@ -66,7 +66,7 @@ Open daarna `http://localhost:8000/`.
 
 GitHub Pages kan geen Python-server, SQLite of schrijf-API uitvoeren. Aanmelden, importeren, goedkeuren en server-side bronverrijking zijn daarom niet actief op de publieke Pages-site.
 
-De oorspronkelijke lokale backend staat onder `local-backend/`. Voor een latere publieke beheeromgeving is een echte backend nodig, bijvoorbeeld Supabase, Cloudflare of een eigen server met authenticatie.
+Een deel van de oorspronkelijke lokale backend is teruggevonden onder `local-backend/`, maar het oude transportarchief was afgekapt en ondersteunende Python-modules ontbreken. Beschouw deze map daarom als referentiemateriaal, niet als een werkende beheeromgeving. Voor een latere publieke beheeromgeving is een nieuwe backend nodig, bijvoorbeeld Supabase, Cloudflare of een eigen server met authenticatie.
 
 ## Belangrijkste bestanden
 
@@ -75,4 +75,4 @@ De oorspronkelijke lokale backend staat onder `local-backend/`. Voor een latere 
 - `inventory.json` — broninventarisatie;
 - `tools/build_catalog.py` — bouwt publieke data en aandachtlijst;
 - `twente.geojson` — gemeentegrenzen;
-- `local-backend/` — lokale redactieomgeving.
+- `local-backend/` — gedeeltelijk hersteld referentiemateriaal van de oude lokale redactieomgeving.
