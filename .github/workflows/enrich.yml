@@ -1,6 +1,11 @@
-name: Catalogus en aandachtspunten bijwerken
+name: Adressen en catalogus bijwerken
 
 on:
+  push:
+    paths:
+      - 'inventory.json'
+      - 'tools/enrich_addresses.py'
+      - 'tools/build_catalog.py'
   workflow_dispatch:
   schedule:
     - cron: '17 4 * * 1'
@@ -8,24 +13,31 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: sociale-kaart-enrichment-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - name: Bouw publieke catalogus en uitzonderingenlijst
+      - name: Zoek adressen en geocodeer via PDOK
+        run: python tools/enrich_addresses.py
+      - name: Bouw publieke catalogus en kaartdata
         run: python tools/build_catalog.py
-      - name: Sla gewijzigde publieke data op
+      - name: Sla gewijzigde bron- en kaartdata op
         run: |
-          if git diff --quiet -- data/; then
+          if git diff --quiet -- inventory.json data/; then
             echo "Geen wijzigingen"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/facilities.json data/catalog.json data/review-queue.json
-          git commit -m "Werk sociale kaart catalogus bij"
+          git add inventory.json data/facilities.json data/catalog.json data/review-queue.json
+          git commit -m "Werk adressen en sociale kaart catalogus bij"
           git push
