@@ -25,13 +25,18 @@ jobs:
           pathlib.Path("site-core.tar.xz").write_bytes(base64.b64decode(encoded, validate=True))
           print(f"Hersteld uit {len(parts)} delen ({len(encoded)} base64-tekens)")
           PY
+          set +e
           tar -xJf site-core.tar.xz
-          rm -f site-core.tar.xz site-core.ready site-core.tar.xz.b64.part*
-          rm -f .github/workflows/bootstrap.yml
-      - name: Losse projectbestanden committen
+          tar_status=$?
+          set -e
+          echo "tar exit status: $tar_status (0 = volledig, anders gedeeltelijk hersteld)"
+          rm -f site-core.tar.xz
+          echo "Herstelde bestanden:"
+          find . -maxdepth 3 -type f ! -path './.git/*' | sort
+      - name: Herstelde projectbestanden committen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Plaats complete Sociale kaart Twente" || exit 0
+          git commit -m "Herstel beschikbare Sociale kaart projectbestanden" || exit 0
           git push
