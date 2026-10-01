@@ -476,7 +476,7 @@ function renderMarkers() {
         if (regional && counts[name]) {
             const pt = map.latLngToLayerPoint(center).add([0, 27])
               , pos = map.layerPointToLatLng(pt);
-            const m = makeMarker(pos, `<span class="cluster-button">${counts[name]}</span>`, 'cluster-icon', [34, 34], `${name}: ${counts[name]} opgenomen locaties`);
+            const m = makeMarker(pos, `<span class="cluster-button">${counts[name]}</span>`, 'cluster-icon', [34, 34], `${name}: ${counts[name]} voorzieningen met een kaartbaar adres`);
             m.on('click', () => chooseMunicipality(name));
             m.on('keypress', e => {
                 if (e.originalEvent.key === 'Enter')
