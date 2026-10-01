@@ -5041,11 +5041,16 @@
       "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
       "costs": "Controleer de actuele bijdrage bij de aanbieder.",
       "address": "Jacob Roggeveenstraat 33",
-      "postcode": "",
-      "town": "Glanerbrug",
+      "postcode": "7534CD",
+      "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.21420756,
+      "lon": 6.9723338,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5082,11 +5087,16 @@
       "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
       "costs": "Controleer de actuele bijdrage bij de aanbieder.",
       "address": "Magnoliastraat 5",
-      "postcode": "",
+      "postcode": "7531EC",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.22859243,
+      "lon": 6.9189731,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5123,11 +5133,16 @@
       "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
       "costs": "Controleer de actuele bijdrage bij de aanbieder.",
       "address": "J.W. Swiersstraat 43A",
-      "postcode": "",
+      "postcode": "7521DM",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.2291005,
+      "lon": 6.86366682,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5164,11 +5179,16 @@
       "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
       "costs": "Controleer de actuele bijdrage bij de aanbieder.",
       "address": "Lijsterstraat 30",
-      "postcode": "",
+      "postcode": "7523ET",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.23729035,
+      "lon": 6.88853814,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5209,7 +5229,12 @@
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.19096285,
+      "lon": 6.88775938,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5247,12 +5272,17 @@
       "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
       "access": "Neem contact op met Wijkwijzer, Wijkteam of de vereniging voor de actuele route.",
       "costs": "",
-      "address": "G.J. van Heekstraat 15",
+      "address": "G.J. van Heekstraat 15A",
       "postcode": "7521EB",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://rigtersbleek.nl/voorliggende-voorziening/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.22678614,
+      "lon": 6.87222283,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5295,7 +5325,12 @@
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.20672753,
+      "lon": 6.90826728,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5338,7 +5373,12 @@
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.21581304,
+      "lon": 6.95413156,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5376,12 +5416,17 @@
       "audience": "Kinderen van ongeveer 6 tot en met 16 jaar die extra ondersteuning kunnen gebruiken.",
       "access": "Neem rechtstreeks contact op met Thuis@Rigtersbleek of bespreek passendheid met een wijkcoach.",
       "costs": "",
-      "address": "G.J. van Heekstraat 15",
+      "address": "G.J. van Heekstraat 15A",
       "postcode": "7521EB",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://rigtersbleek.nl/voorliggende-voorziening/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.22678614,
+      "lon": 6.87222283,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5423,7 +5468,12 @@
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.21581304,
+      "lon": 6.95413156,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5465,7 +5515,12 @@
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.stroinkshuis.nl/huisgenoten-en-huurders/85/repair-caf",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.18841466,
+      "lon": 6.90096801,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5507,7 +5562,12 @@
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://repaircafeenschedezuiderspeeltuin.wordpress.com/about/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.21400488,
+      "lon": 6.89691129,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5549,7 +5609,12 @@
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.19060268,
+      "lon": 6.86315787,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5583,7 +5648,17 @@
       "description": "Wekelijkse wandelgroepen op dinsdagmiddag en donderdagochtend met wisselende startlocaties. Iedereen is welkom.",
       "audience": "Iedereen die in groepsverband wil wandelen.",
       "access": "Bekijk de actuele startlocatie in de agenda.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Dotterbloemstraat 120",
+      "postcode": "7531TE",
+      "town": "Enschede",
+      "lat": 52.22996476,
+      "lon": 6.91492443,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://enschede.nivon.nl/activiteiten/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5628,7 +5703,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://enschede.nivon.nl/activiteiten/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.22996476,
+      "lon": 6.91492443,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -5664,12 +5744,17 @@
       "audience": "Iedereen uit Glanerbrug en omgeving.",
       "access": "Vrije inloop op dinsdag, woensdag en donderdag van 09.00 tot 12.00 uur volgens de actuele gemeentepagina.",
       "costs": "Gratis.",
-      "address": "Schipholtstraat 45",
+      "address": "Schipholtstraat 45A",
       "postcode": "7534CR",
-      "town": "Glanerbrug",
+      "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.enschede.nl/kent-u-al-de-nieuwe-ontmoetingsplek-in-sportkantine-de-brug-in-glanerbrug",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.2124124,
+      "lon": 6.97142262,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
     }
   ],
   "addressEnrichmentVersion": 1,

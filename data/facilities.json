@@ -2813,6 +2813,158 @@
     "catalogOrganizationId": "org-de-welle-10mgx5x"
   },
   {
+    "id": "offer-extra-20261002-enschede-ontmoetingscentrum-t-ribbet",
+    "name": "Enschede · Ontmoetingscentrum 't Ribbet",
+    "category": "ontmoeten",
+    "address": "Magnoliastraat 5",
+    "postcode": "7531EC",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22859243,
+    "lon": 6.9189731,
+    "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "checked": "2026-10-02",
+    "tags": [
+      "dagbesteding",
+      "dagopvang",
+      "daginvulling",
+      "zonder indicatie",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "dagbesteding zonder indicatie",
+      "daginvulling"
+    ],
+    "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
+    "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
+    "costs": "Controleer de actuele bijdrage bij de aanbieder.",
+    "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-enschede-1e7f7fw"
+  },
+  {
+    "id": "offer-extra-20261002-enschede-ontmoetingscentrum-glanerbrug",
+    "name": "Enschede · Ontmoetingscentrum Glanerbrug",
+    "category": "ontmoeten",
+    "address": "Jacob Roggeveenstraat 33",
+    "postcode": "7534CD",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.21420756,
+    "lon": 6.9723338,
+    "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "checked": "2026-10-02",
+    "tags": [
+      "dagbesteding",
+      "dagopvang",
+      "daginvulling",
+      "zonder indicatie",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "dagbesteding zonder indicatie",
+      "daginvulling"
+    ],
+    "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
+    "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
+    "costs": "Controleer de actuele bijdrage bij de aanbieder.",
+    "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-enschede-1e7f7fw"
+  },
+  {
+    "id": "offer-extra-20261002-enschede-ontmoetingscentrum-lal-",
+    "name": "Enschede · Ontmoetingscentrum Lalé",
+    "category": "ontmoeten",
+    "address": "Lijsterstraat 30",
+    "postcode": "7523ET",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.23729035,
+    "lon": 6.88853814,
+    "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "checked": "2026-10-02",
+    "tags": [
+      "dagbesteding",
+      "dagopvang",
+      "daginvulling",
+      "zonder indicatie",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "dagbesteding zonder indicatie",
+      "daginvulling"
+    ],
+    "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
+    "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
+    "costs": "Controleer de actuele bijdrage bij de aanbieder.",
+    "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-enschede-1e7f7fw"
+  },
+  {
+    "id": "offer-extra-20261002-enschede-ontmoetingscentrum-twekkelerveld",
+    "name": "Enschede · Ontmoetingscentrum Twekkelerveld",
+    "category": "ontmoeten",
+    "address": "J.W. Swiersstraat 43A",
+    "postcode": "7521DM",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.2291005,
+    "lon": 6.86366682,
+    "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "checked": "2026-10-02",
+    "tags": [
+      "dagbesteding",
+      "dagopvang",
+      "daginvulling",
+      "zonder indicatie",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "dagbesteding zonder indicatie",
+      "daginvulling"
+    ],
+    "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
+    "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
+    "costs": "Controleer de actuele bijdrage bij de aanbieder.",
+    "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-enschede-1e7f7fw"
+  },
+  {
     "id": "offer-extra-20261002-familiehuis-familiehuis-enschede-west",
     "name": "Familiehuis Enschede-West · Familiehuis Enschede-West",
     "category": "jeugd",
@@ -3359,6 +3511,126 @@
     "catalogOrganizationId": "org-impuls-1mtsxy1"
   },
   {
+    "id": "offer-extra-20261002-kracht-van-verenigingen-avanti-wilskracht",
+    "name": "Kracht van Verenigingen · Avanti Wilskracht",
+    "category": "jeugd",
+    "address": "Gronausestraat 846",
+    "postcode": "7534AM",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.21581304,
+    "lon": 6.95413156,
+    "source": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+    "checked": "2026-10-02",
+    "tags": [
+      "jeugd",
+      "dagbesteding",
+      "daginvulling",
+      "sport",
+      "ontwikkeling",
+      "voorliggende voorziening"
+    ],
+    "subthemes": [
+      "daginvulling",
+      "sport",
+      "ontwikkeling"
+    ],
+    "description": "Voorliggende activiteiten met sport, ontwikkeling en ontmoeting bij een lokale vereniging.",
+    "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
+    "costs": "",
+    "access": "Neem contact op met Wijkwijzer, Wijkteam of de vereniging voor de actuele route.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-kracht-van-verenigingen-hd7qmu"
+  },
+  {
+    "id": "offer-extra-20261002-kracht-van-verenigingen-de-tubanters",
+    "name": "Kracht van Verenigingen · De Tubanters",
+    "category": "jeugd",
+    "address": "Olympialaan 20",
+    "postcode": "7541BK",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.20672753,
+    "lon": 6.90826728,
+    "source": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+    "checked": "2026-10-02",
+    "tags": [
+      "jeugd",
+      "dagbesteding",
+      "daginvulling",
+      "sport",
+      "ontwikkeling",
+      "voorliggende voorziening"
+    ],
+    "subthemes": [
+      "daginvulling",
+      "sport",
+      "ontwikkeling"
+    ],
+    "description": "Voorliggende activiteiten met sport, ontwikkeling en ontmoeting bij een lokale vereniging.",
+    "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
+    "costs": "",
+    "access": "Neem contact op met Wijkwijzer, Wijkteam of de vereniging voor de actuele route.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-kracht-van-verenigingen-hd7qmu"
+  },
+  {
+    "id": "offer-extra-20261002-kracht-van-verenigingen-rigtersbleek",
+    "name": "Kracht van Verenigingen · Rigtersbleek",
+    "category": "jeugd",
+    "address": "G.J. van Heekstraat 15A",
+    "postcode": "7521EB",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22678614,
+    "lon": 6.87222283,
+    "source": "https://rigtersbleek.nl/voorliggende-voorziening/",
+    "checked": "2026-10-02",
+    "tags": [
+      "jeugd",
+      "dagbesteding",
+      "daginvulling",
+      "sport",
+      "ontwikkeling",
+      "voorliggende voorziening"
+    ],
+    "subthemes": [
+      "daginvulling",
+      "sport",
+      "ontwikkeling"
+    ],
+    "description": "Voorliggende activiteiten met sport, ontwikkeling en ontmoeting bij een lokale vereniging.",
+    "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
+    "costs": "",
+    "access": "Neem contact op met Wijkwijzer, Wijkteam of de vereniging voor de actuele route.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://rigtersbleek.nl/voorliggende-voorziening/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-kracht-van-verenigingen-hd7qmu"
+  },
+  {
     "id": "offer-candidate-20261002-livio-huiskamer-de-berke",
     "name": "Livio · Huiskamer van de wijk De Berke",
     "category": "ontmoeten",
@@ -3636,6 +3908,48 @@
     "catalogOrganizationId": "org-m-pact-5ivo6b"
   },
   {
+    "id": "offer-extra-20261002-nivon-enschede-cursussen-en-activiteiten",
+    "name": "Nivon Enschede · cursussen en activiteiten",
+    "category": "ontmoeten",
+    "address": "Dotterbloemstraat 120",
+    "postcode": "7531TE",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22996476,
+    "lon": 6.91492443,
+    "source": "https://enschede.nivon.nl/activiteiten/",
+    "checked": "2026-10-02",
+    "tags": [
+      "cursus",
+      "taal",
+      "schilderen",
+      "yoga",
+      "dans",
+      "lezing",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "cursussen",
+      "taal",
+      "creatief",
+      "bewegen"
+    ],
+    "description": "Breed cursus- en activiteitenaanbod, waaronder conversatietalen, tekenen en schilderen, yoga, dans en lezingen.",
+    "audience": "Volwassen inwoners; leden en niet-leden kunnen deelnemen.",
+    "costs": "Kosten verschillen per cursus; de wandelgroepen zijn gratis.",
+    "access": "Inschrijven per cursus of activiteit.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://enschede.nivon.nl/activiteiten/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-nivon-enschede-c5rgu0"
+  },
+  {
     "id": "offer-extra-20261002-haaksbergen-odensehuis-haaksbergen",
     "name": "Noaberpoort / Wijkracht · Odensehuis Haaksbergen",
     "category": "mantelzorg",
@@ -3747,6 +4061,44 @@
     "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-oecumenisch-citypastoraat-enschede-1ctcbnl"
+  },
+  {
+    "id": "offer-extra-20261002-ontmoetingsplek-sportkantine-de-brug-glanerbrug",
+    "name": "Ontmoetingsplek Sportkantine De Brug Glanerbrug",
+    "category": "ontmoeten",
+    "address": "Schipholtstraat 45A",
+    "postcode": "7534CR",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.2124124,
+    "lon": 6.97142262,
+    "source": "https://www.enschede.nl/kent-u-al-de-nieuwe-ontmoetingsplek-in-sportkantine-de-brug-in-glanerbrug",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "inloop",
+      "buurt",
+      "gratis",
+      "Glanerbrug"
+    ],
+    "subthemes": [
+      "buurt",
+      "inloop"
+    ],
+    "description": "Vrije ontmoetingsplek voor buurtbewoners om anderen te ontmoeten, ideeën te delen of activiteiten te organiseren.",
+    "audience": "Iedereen uit Glanerbrug en omgeving.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op dinsdag, woensdag en donderdag van 09.00 tot 12.00 uur volgens de actuele gemeentepagina.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.enschede.nl/kent-u-al-de-nieuwe-ontmoetingsplek-in-sportkantine-de-brug-in-glanerbrug",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-ontmoetingsplek-sportkantine-de-brug-glanerbru-3podpu"
   },
   {
     "id": "offer-candidate-20261002-power-centrum-oost",
@@ -3907,6 +4259,162 @@
     "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-power-enschede-1tp85zf"
+  },
+  {
+    "id": "offer-extra-20261002-repair-caf-enschede-glanerbrug",
+    "name": "Repair Café Enschede-Glanerbrug",
+    "category": "advies",
+    "address": "Gronausestraat 846",
+    "postcode": "7534AM",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.21581304,
+    "lon": 6.95413156,
+    "source": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
+    "checked": "2026-10-02",
+    "tags": [
+      "repair cafe",
+      "repareren",
+      "vrijwilligers",
+      "duurzaamheid",
+      "gratis",
+      "praktische hulp"
+    ],
+    "subthemes": [
+      "repareren",
+      "duurzaamheid"
+    ],
+    "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
+    "audience": "Iedereen met een repareerbaar voorwerp.",
+    "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-repair-cafe-d2pptp"
+  },
+  {
+    "id": "offer-extra-20261002-repair-caf-enschede-stroinkshuis",
+    "name": "Repair Café Enschede-Stroinkshuis",
+    "category": "advies",
+    "address": "Het Stroink 64",
+    "postcode": "7542GT",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.18841466,
+    "lon": 6.90096801,
+    "source": "https://www.stroinkshuis.nl/huisgenoten-en-huurders/85/repair-caf",
+    "checked": "2026-10-02",
+    "tags": [
+      "repair cafe",
+      "repareren",
+      "vrijwilligers",
+      "duurzaamheid",
+      "gratis",
+      "praktische hulp"
+    ],
+    "subthemes": [
+      "repareren",
+      "duurzaamheid"
+    ],
+    "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
+    "audience": "Iedereen met een repareerbaar voorwerp.",
+    "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.stroinkshuis.nl/huisgenoten-en-huurders/85/repair-caf",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-repair-cafe-d2pptp"
+  },
+  {
+    "id": "offer-extra-20261002-repair-caf-enschede-zuiderspeeltuin",
+    "name": "Repair Café Enschede-Zuiderspeeltuin",
+    "category": "advies",
+    "address": "Kuipersdijk 83",
+    "postcode": "7512CB",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.21400488,
+    "lon": 6.89691129,
+    "source": "https://repaircafeenschedezuiderspeeltuin.wordpress.com/about/",
+    "checked": "2026-10-02",
+    "tags": [
+      "repair cafe",
+      "repareren",
+      "vrijwilligers",
+      "duurzaamheid",
+      "gratis",
+      "praktische hulp"
+    ],
+    "subthemes": [
+      "repareren",
+      "duurzaamheid"
+    ],
+    "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
+    "audience": "Iedereen met een repareerbaar voorwerp.",
+    "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://repaircafeenschedezuiderspeeltuin.wordpress.com/about/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-repair-cafe-d2pptp"
+  },
+  {
+    "id": "offer-extra-20261002-repair-caf-sportpark-enschede-zuid",
+    "name": "Repair Café Sportpark Enschede-Zuid",
+    "category": "advies",
+    "address": "Geessinkweg 282",
+    "postcode": "7544RB",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.19060268,
+    "lon": 6.86315787,
+    "source": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
+    "checked": "2026-10-02",
+    "tags": [
+      "repair cafe",
+      "repareren",
+      "vrijwilligers",
+      "duurzaamheid",
+      "gratis",
+      "praktische hulp"
+    ],
+    "subthemes": [
+      "repareren",
+      "duurzaamheid"
+    ],
+    "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
+    "audience": "Iedereen met een repareerbaar voorwerp.",
+    "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
+    "access": "Vrije inloop op de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-repair-cafe-d2pptp"
   },
   {
     "id": "offer-extra-20261002-resto-vanharte-de-magneet",
@@ -4182,6 +4690,46 @@
     "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-tactus-intact-54ij04"
+  },
+  {
+    "id": "offer-extra-20261002-thuis-rigtersbleek",
+    "name": "Thuis@Rigtersbleek",
+    "category": "jeugd",
+    "address": "G.J. van Heekstraat 15A",
+    "postcode": "7521EB",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22678614,
+    "lon": 6.87222283,
+    "source": "https://rigtersbleek.nl/voorliggende-voorziening/",
+    "checked": "2026-10-02",
+    "tags": [
+      "jeugd",
+      "voorliggende voorziening",
+      "sport",
+      "leren",
+      "cultuur",
+      "ontwikkeling"
+    ],
+    "subthemes": [
+      "voorliggende voorziening",
+      "na school",
+      "vakanties"
+    ],
+    "description": "Voorliggende voorziening voor kinderen met professionele begeleiding, activiteiten en een gezamenlijke maaltijd na school en in vakanties.",
+    "audience": "Kinderen van ongeveer 6 tot en met 16 jaar die extra ondersteuning kunnen gebruiken.",
+    "costs": "",
+    "access": "Neem rechtstreeks contact op met Thuis@Rigtersbleek of bespreek passendheid met een wijkcoach.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://rigtersbleek.nl/voorliggende-voorziening/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-v-v-rigtersbleek-btgef8"
   },
   {
     "id": "offer-extra-20261002-viavie-buurtband",
@@ -5209,6 +5757,44 @@
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-zorgadvies-twente-dagopvang-zonder-indicatie",
+    "name": "Zorgadvies Twente · dagopvang zonder indicatie",
+    "category": "ontmoeten",
+    "address": "De Reulver 126",
+    "postcode": "7544RT",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.19096285,
+    "lon": 6.88775938,
+    "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "checked": "2026-10-02",
+    "tags": [
+      "dagbesteding",
+      "dagopvang",
+      "daginvulling",
+      "zonder indicatie",
+      "ontmoeten"
+    ],
+    "subthemes": [
+      "dagbesteding zonder indicatie",
+      "daginvulling"
+    ],
+    "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
+    "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
+    "costs": "Controleer de actuele bijdrage bij de aanbieder.",
+    "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-zorgadvies-twente-1jhn6l6"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-buurthuiskamer-vriezenveen",
