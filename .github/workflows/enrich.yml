@@ -1,29 +1,31 @@
-name: Voorinvulling opnieuw uitvoeren
+name: Catalogus en aandachtspunten bijwerken
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * 1'
 
 permissions:
   contents: write
 
 jobs:
-  enrich:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - name: Verrijk inventarisatie en kaartlocaties
-        run: python tools/enrich_all.py
-      - name: Sla wijzigingen op
+      - name: Bouw publieke catalogus en uitzonderingenlijst
+        run: python tools/build_catalog.py
+      - name: Sla gewijzigde publieke data op
         run: |
-          if git diff --quiet; then
+          if git diff --quiet -- data/; then
             echo "Geen wijzigingen"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add inventory.json data/facilities.json
-          git commit -m "Update automatische voorinvulling"
+          git add data/facilities.json data/catalog.json data/review-queue.json
+          git commit -m "Werk sociale kaart catalogus bij"
           git push
