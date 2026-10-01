@@ -246,3 +246,77 @@ body { font-size:16px; }
 .offer-list > div { padding:9px 11px; border:1px solid #eee5ed; border-radius:8px; background:#fcfafc; }
 .offer-list strong { font-size:13px; color:var(--primary); }
 .offer-list small { margin-top:3px; }
+
+
+/* DARK MODE · portal */
+.portal-header .scheme-toggle {
+    border:1px solid var(--border);
+    border-radius:999px;
+    background:transparent;
+    color:var(--primary);
+    padding:8px 11px;
+    align-self:center;
+    cursor:pointer;
+}
+html[data-color-scheme="dark"] {
+    color-scheme:dark;
+    background:#17161a;
+}
+html[data-color-scheme="dark"] body {
+    background:#17161a;
+    color:#eee9ee;
+    --primary:#f0b4d7;
+    --accent:#e16caf;
+    --tint:#352734;
+    --ink:#f2edf1;
+    --border:#4a4149;
+}
+html[data-color-scheme="dark"] .portal-header,
+html[data-color-scheme="dark"] .panel,
+html[data-color-scheme="dark"] table,
+html[data-color-scheme="dark"] .source-card,
+html[data-color-scheme="dark"] .notice,
+html[data-color-scheme="dark"] .steps,
+html[data-color-scheme="dark"] .offer-list > div {
+    background:#211f24;
+    color:#eee9ee;
+    border-color:#4a4149;
+}
+html[data-color-scheme="dark"] .lead,
+html[data-color-scheme="dark"] .hint,
+html[data-color-scheme="dark"] small,
+html[data-color-scheme="dark"] td,
+html[data-color-scheme="dark"] .source-card span {
+    color:#bfb5bf;
+}
+html[data-color-scheme="dark"] input,
+html[data-color-scheme="dark"] select,
+html[data-color-scheme="dark"] textarea {
+    background:#29262c;
+    color:#f2edf1;
+    border-color:#514852;
+}
+html[data-color-scheme="dark"] th {
+    background:#2a262c;
+    color:#e7dfe6;
+    border-color:#4a4149;
+}
+html[data-color-scheme="dark"] td {
+    border-color:#403940;
+}
+html[data-color-scheme="dark"] .toolbar,
+html[data-color-scheme="dark"] .table-wrap {
+    border-color:#4a4149;
+}
+html[data-color-scheme="dark"] .badge.source-backed {
+    background:#263641;
+    color:#b8d8ee;
+}
+html[data-color-scheme="dark"] .badge.attention {
+    background:#45351f;
+    color:#f0cf91;
+}
+html[data-color-scheme="dark"] .badge.approved {
+    background:#234035;
+    color:#b9e3cb;
+}
