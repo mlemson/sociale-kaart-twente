@@ -789,4 +789,56 @@ async function admin() {
         form.onsubmit = e => {
             e.preventDefault();
             if (s.kind !== 'remove' && !form.elements.confirmed.checked) {
-                message('review-message', 'Controleer de bron en vink de bevestiging aan.',
+                message('review-message', 'Controleer de bron en vink de bevestiging aan.', 'error');
+                return;
+            }
+            void decide('approve');
+        };
+        $('reject').onclick = () => void decide('reject');
+    }
+
+    $('review-status').onchange = () => void refresh();
+    $('refresh-reviews').onclick = () => void refresh();
+    $('enrich-all').onclick = async () => {
+        message('page-message', 'Voorinvulling opnieuw uitvoeren…');
+        try {
+            const result = await api('/api/admin/enrich-all', {});
+            message('page-message', `Voorinvulling bijgewerkt: ${result.inventory || 0} inventarisatieregels en ${result.facilities || 0} kaartlocaties.`, 'success');
+            await refresh();
+        } catch (e) {
+            message('page-message', e.message, 'error');
+        }
+    };
+    $('web-enrich-all').onclick = async () => {
+        message('web-enrich-status', 'Bronpagina’s worden op de achtergrond uitgelezen…');
+        try {
+            const result = await api('/api/admin/web-enrich-all', {force: true});
+            const status = result.status || {};
+            message('web-enrich-status', result.started === false
+                ? 'Er draait al een broncontrole.'
+                : `Broncontrole gestart voor ${status.total || 'de beschikbare'} bronnen.`, 'success');
+        } catch (e) {
+            message('web-enrich-status', e.message, 'error');
+        }
+    };
+    await refresh();
+}
+
+async function initPortal() {
+    const page = document.body.dataset.page || '';
+    document.querySelectorAll('.portal-header nav a').forEach(a => {
+        const href = a.getAttribute('href') || '';
+        const active = (page === 'voorzieningen' && href.includes('voorzieningen')) ||
+            (page === 'aanmelden' && href.includes('aanmelden')) ||
+            (page === 'beheer' && href.includes('beheer'));
+        if (active) a.setAttribute('aria-current', 'page');
+    });
+    if (page === 'voorzieningen') return inventory();
+    if (page === 'aanmelden') return submission();
+    if (page === 'beheer') return admin();
+}
+
+initPortal().catch(e => {
+    console.error(e);
+    message('page-message', e.message || 'De pagina kon niet volledig worden geladen.', 'error');
+});
