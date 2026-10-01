@@ -77,7 +77,7 @@ def main():
             review.append({
                 "id": v.get("id"), "name": v.get("name"), "municipality": v.get("municipality") or "",
                 "source": v.get("source") or "", "sourceTitle": v.get("sourceTitle") or "",
-                "reason": "Categorieconflict" if (v.get("enrichment") or {}).get("categoryConflict") else "Kerngegevens of bron ontbreken",
+                "reason": ("Bron ontbreekt" if not v.get("source") else "Categorie uit bron en automatische indeling spreken elkaar tegen" if (v.get("enrichment") or {}).get("categoryConflict") else "Kerngegevens ontbreken"),
                 "checked": v.get("checked") or inv.get("checked") or ""
             })
         elif status == "manual":
