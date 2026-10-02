@@ -16,11 +16,14 @@ jobs:
         run: |
           node --check app.js
           node --check portal.js
+          node --check wegwijzer.js
       - name: Controleer bron-JSON en GeoJSON
         run: |
           python -m json.tool inventory.json > /dev/null
           python -m json.tool inventory.extra.json > /dev/null
           python -m json.tool twente.geojson > /dev/null
+          python -m json.tool data/wegwijzer-curated.json > /dev/null
+          python -m json.tool data/wegwijzer-themas.json > /dev/null
       - name: Test catalogusgenerator
         run: |
           python tools/build_catalog.py
@@ -49,5 +52,10 @@ jobs:
           test -f portal.css
           test -f portal.js
           test -f voorzieningen.html
+          test -f wegwijzer.html
+          test -f wegwijzer.css
+          test -f wegwijzer.js
+          test -f data/wegwijzer-curated.json
+          test -f data/wegwijzer-themas.json
           test -f data/facilities.json
           test -f data/catalog.json
