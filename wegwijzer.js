@@ -14,6 +14,23 @@
     }
   };
 
+  const topicVisuals = {
+    onderwijs: "assets/wegwijzer/jeugd-school.svg",
+    wonen: "assets/wegwijzer/wonen.svg",
+    geld: "assets/wegwijzer/geld.svg",
+    mentaal: "assets/wegwijzer/mentaal.svg",
+    zorg: "assets/wegwijzer/zorg.svg",
+    veiligheid: "assets/wegwijzer/veiligheid.svg",
+    meedoen: "assets/wegwijzer/werk.svg",
+    ontmoeten: "assets/wegwijzer/ontmoeten.svg",
+    taal: "assets/wegwijzer/taal.svg",
+    verslaving: "assets/wegwijzer/verslaving.svg",
+    migratie: "assets/wegwijzer/nieuwkomers.svg",
+    vervoer: "assets/wegwijzer/vervoer.svg",
+    recht: "assets/wegwijzer/recht.svg",
+    basis: "assets/wegwijzer/basis.svg"
+  };
+
   let taxonomy = [];
   let records = [];
   let route = [];
@@ -129,24 +146,40 @@
   function renderCards(nodes, parent) {
     const grid = byId("guide-grid");
     const results = byId("guide-results");
+    const visualRoot = !parent && route.length === 0 && byId("guide-search").value.trim().length < 2;
     grid.hidden = false;
     results.hidden = true;
+    grid.classList.toggle("guide-visual-grid", visualRoot);
+    grid.classList.toggle("guide-subgrid", !visualRoot);
 
-    grid.innerHTML = nodes.map(node => {
-      const count = forNode(node).length;
-      const countLabel = count + " " + (count === 1 ? "resultaat" : "resultaten");
-      return '<button class="guide-card" type="button" data-node="' + esc(node.id) + '"' + (count ? "" : " disabled") + ">" +
-        '<span class="guide-card-heading"><strong>' + esc(node.label) + '</strong><span class="guide-card-count" title="' + esc(countLabel) + '" aria-label="' + esc(countLabel) + '">' + count + "</span></span>" +
-        (node.description ? "<p>" + esc(node.description) + "</p>" : "") +
-        "</button>";
-    }).join("");
+    if (visualRoot) {
+      grid.innerHTML = nodes.map(node => {
+        const count = forNode(node).length;
+        const image = topicVisuals[node.id] || topicVisuals.basis;
+        const countLabel = count + " " + (count === 1 ? "resultaat" : "resultaten");
+        return '<button class="guide-topic" type="button" data-node="' + esc(node.id) + '"' + (count ? "" : " disabled") +
+          ' aria-label="' + esc(node.label + ", " + countLabel) + '">' +
+          '<span class="guide-topic-art"><img src="' + esc(image) + '" alt="" aria-hidden="true"></span>' +
+          '<strong>' + esc(node.label) + "</strong></button>";
+      }).join("");
+    } else {
+      grid.innerHTML = nodes.map(node => {
+        const count = forNode(node).length;
+        const countLabel = count + " " + (count === 1 ? "resultaat" : "resultaten");
+        return '<button class="guide-card" type="button" data-node="' + esc(node.id) + '"' + (count ? "" : " disabled") + ">" +
+          '<span class="guide-card-heading"><strong>' + esc(node.label) + '</strong><span class="guide-card-count" title="' + esc(countLabel) + '" aria-label="' + esc(countLabel) + '">' + count + "</span></span>" +
+          (node.description ? "<p>" + esc(node.description) + "</p>" : "") +
+          "</button>";
+      }).join("");
+    }
 
     grid.querySelectorAll("[data-node]").forEach(button => {
       button.addEventListener("click", () => {
         route.push(button.dataset.node);
         writeHash();
         render();
-        window.scrollTo({top: 0, behavior: "smooth"});
+        const stage = document.querySelector(".guide-stage");
+        if (stage) window.scrollTo({top: Math.max(0, stage.offsetTop - 90), behavior: "smooth"});
       });
     });
 
@@ -257,8 +290,14 @@
   function render() {
     renderBreadcrumbs();
     const query = byId("guide-search").value.trim();
+    const rootView = route.length === 0 && query.length < 2;
+    document.body.classList.toggle("guide-root-view", rootView);
     byId("guide-search-clear").hidden = !query;
     byId("guide-back").hidden = route.length === 0;
+    byId("guide-status").hidden = rootView;
+    const stageTop = document.querySelector(".guide-stage-top");
+    if (stageTop) stageTop.hidden = rootView;
+
     if (query.length >= 2) {
       renderSearch(query);
       return;
@@ -266,8 +305,8 @@
 
     const node = route.length ? findNode(route) : null;
     if (!node) {
-      byId("guide-heading").textContent = "Waar gaat de vraag over?";
-      byId("guide-subheading").textContent = "Kies een hoofdthema. Je kunt daarna steeds specifieker kiezen.";
+      byId("guide-heading").textContent = "Waar zoek je informatie over?";
+      byId("guide-subheading").textContent = "";
       byId("guide-status").textContent = records.filter(inMunicipality).length + " vormen van aanbod en verwijspunten beschikbaar" + (municipality() ? " in " + municipality() : " in Twente") + ".";
       renderCards(taxonomy, null);
       return;
