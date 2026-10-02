@@ -1932,3 +1932,15 @@ html[data-color-scheme="dark"] .scheme-toggle{color:#eee9ee!important;border-col
   main{padding:14px 12px 0}.workspace{height:auto}
   .site-footer{flex-direction:column;gap:10px;padding:18px 4px 28px}.footer-copy{flex-direction:column;gap:3px}.footer-links{justify-content:flex-start;gap:12px}
 }
+
+
+/* HEADER FIX · SKT en Wegwijzer altijd zichtbaar */
+.site-header .nav-guide{
+  display:inline-flex!important;
+  visibility:visible!important;
+  opacity:1!important;
+  color:var(--primary)!important;
+}
+.brand-symbol,body[data-theme=wijkwijzer] .brand-symbol{
+  letter-spacing:-1.4px;
+}
