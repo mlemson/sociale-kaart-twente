@@ -61,7 +61,29 @@
     ].join(" "));
   }
 
+  function nodePath(node) {
+    let found = null;
+    const walk = (nodes, prefix) => {
+      for (const item of nodes || []) {
+        const path = [...prefix, item.id];
+        if (item === node) {
+          found = path;
+          return true;
+        }
+        if (item.children && walk(item.children, path)) return true;
+      }
+      return false;
+    };
+    walk(taxonomy, []);
+    return found || [node.id];
+  }
+
   function matchesNode(node, record) {
+    const explicit = record.guidePaths || [];
+    if (explicit.length) {
+      const path = nodePath(node).join("/");
+      return explicit.some(value => value === path || value.startsWith(path + "/"));
+    }
     if (node.children && node.children.length) return node.children.some(child => matchesNode(child, record));
     const text = record._text || recordText(record);
     return (node.include || []).some(term => text.includes(norm(term)));
@@ -338,6 +360,7 @@
         themes: offer.themes || [],
         subthemes: offer.subthemes || [],
         tags: offer.tags || [],
+        guidePaths: offer.guidePaths || [],
         category: offer.category || "",
         checked: offer.checked || group.checked || ""
       }));
@@ -356,6 +379,7 @@
       themes: facility.themes || [],
       subthemes: facility.subthemes || [],
       tags: uniq([...(facility.tags || []), facility.category]),
+      guidePaths: facility.guidePaths || [],
       category: facility.category || "",
       checked: facility.checked || ""
     }));
@@ -373,7 +397,8 @@
           themes: uniq(record.themes),
           subthemes: uniq(record.subthemes),
           tags: uniq(record.tags),
-          routeTags: uniq(record.routeTags)
+          routeTags: uniq(record.routeTags),
+          guidePaths: uniq(record.guidePaths)
         });
         return;
       }
@@ -383,6 +408,7 @@
       current.subthemes = uniq([...(current.subthemes || []), ...(record.subthemes || [])]);
       current.tags = uniq([...(current.tags || []), ...(record.tags || [])]);
       current.routeTags = uniq([...(current.routeTags || []), ...(record.routeTags || [])]);
+      current.guidePaths = uniq([...(current.guidePaths || []), ...(record.guidePaths || [])]);
       ["description","audience","access","costs","source","checked"].forEach(field => {
         if (record[field] && (!current[field] || String(record[field]).length > String(current[field]).length)) current[field] = record[field];
       });
