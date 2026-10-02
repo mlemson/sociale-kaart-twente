@@ -705,14 +705,14 @@
     },
     {
       "sourceKind": "first-party",
-      "checked": "2026-10-02",
+      "checked": "2026-10-03",
       "accessStatus": "source-check",
       "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
       "status": "candidate",
       "id": "extra-20261002-dewelle-kom-d-r-in-enter",
       "name": "De Welle · Kom d'r In Enter",
-      "source": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/",
-      "sourceTitle": "Activiteitencentrum ’t Zumpke",
+      "source": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
+      "sourceTitle": "De Welle / Evenmens",
       "municipalities": [
         "Wierden"
       ],
@@ -730,25 +730,21 @@
         "activiteit",
         "ontmoeten"
       ],
-      "description": "Maandelijkse laagdrempelige inloop van De Welle en Evenmens voor koffie, ontmoeting en contact.",
-      "audience": "Inwoners van de betreffende gemeente.",
-      "access": "Maandelijkse inloop; bekijk de actuele datum bij ’t Zumpke.",
-      "costs": "Controleer eventuele consumptiekosten bij de organisator.",
-      "address": "Reggestraat 85",
-      "postcode": "7468EJ",
+      "description": "Vrij toegankelijke ontmoeting voor mensen met beginnende geheugenproblemen en hun naasten, met professionele begeleiding, gesprek en activiteiten.",
+      "audience": "Mensen met beginnende geheugenproblemen en hun naasten in Enter en omgeving.",
+      "access": "In de even weken op maandagochtend 10.00-11.30 uur; geen verwijzing of indicatie nodig.",
+      "costs": "Gratis.",
+      "address": "Dorpsstraat 55",
       "town": "Enter",
       "locationType": "visiting",
-      "locationSource": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/",
+      "locationSource": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
       "mapPin": true,
       "guidePaths": [
         "zorg/mantelzorg",
         "ontmoeten/inloop"
       ],
-      "lat": 52.29359952,
-      "lon": 6.5805698,
       "locationMunicipality": "Wierden",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "mapLocationType": "address"
     },
     {
       "sourceKind": "first-party",
