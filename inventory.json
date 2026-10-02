@@ -24617,17 +24617,14 @@
       "audience": "Ouderen en buurtbewoners.",
       "access": "Neem contact op met Wijkracht voor actuele informatie.",
       "costs": "Laagdrempelig.",
-      "address": "Geerdinksweg 112-I",
-      "postcode": "7555DR",
+      "address": "Woolderesweg 53",
+      "postcode": "7555LH",
       "town": "Hengelo",
-      "locationMunicipality": "Hengelo (O)",
+      "locationMunicipality": "Hengelo",
       "locationType": "visiting",
-      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "locationSource": "https://www.carintreggeland.nl/Content/UserContent/Documents/locations/2/640/D-378-1221-%20Carintreggeland%20Huis%20Het%20Woolde%20LR.pdf",
       "mapLocationType": "address",
-      "mapPin": true,
-      "lat": 52.26479923,
-      "lon": 6.77462037,
-      "addressChecked": "2026-10-02"
+      "mapPin": true
     },
     {
       "sourceKind": "first-party",
