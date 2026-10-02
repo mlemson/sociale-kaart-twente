@@ -12721,6 +12721,370 @@
       "lon": 7.00478612,
       "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
       "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "koffie",
+        "Oldenzaal"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-oldenzaal-symfonie-koffieinloop",
+      "name": "Impuls · Koffie-inloop De Symfonie",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/koffie-inloop-de-symfonie/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "locationMunicipality": "Oldenzaal",
+      "subthemes": [
+        "koffie",
+        "wijkinloop",
+        "sociaal contact"
+      ],
+      "description": "Wekelijkse huiskamerinloop in gezondheidscentrum De Symfonie om koffie te drinken, wijkbewoners te ontmoeten en ideeën voor de huiskamer te delen.",
+      "audience": "Buurtbewoners en andere inwoners van Oldenzaal.",
+      "access": "Iedere donderdag 10.00-12.00 uur; aanmelden is niet nodig.",
+      "costs": "Koffie of thee €1; tweede kopje wordt aangeboden.",
+      "address": "Paukenlaan 1",
+      "town": "Oldenzaal",
+      "phone": "0541 571414",
+      "email": "info@impuls-oldenzaal.nl"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "tags": [
+        "bewegen",
+        "ontmoeten",
+        "walking football",
+        "Oldenzaal"
+      ],
+      "guidePaths": [
+        "ontmoeten/bewegen"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-oldenzaal-walking-football-de-esch",
+      "name": "Impuls · Walking Football VV De Esch",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "locationMunicipality": "Oldenzaal",
+      "subthemes": [
+        "walking football",
+        "sociaal contact"
+      ],
+      "description": "Wekelijkse laagdrempelige walking-footballactiviteit waarbij bewegen en gezelligheid centraal staan.",
+      "audience": "Volwassenen die op wandeltempo willen voetballen en anderen willen ontmoeten.",
+      "access": "Vrijdag 10.00-11.00 uur volgens de actuele agenda; neem bij twijfel contact op met Impuls.",
+      "costs": "Controleer de actuele bijdrage bij Impuls.",
+      "address": "Operalaan 100",
+      "town": "Oldenzaal",
+      "phone": "0541 571414"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "tags": [
+        "bewegen",
+        "ontmoeten",
+        "walking football",
+        "Oldenzaal"
+      ],
+      "guidePaths": [
+        "ontmoeten/bewegen"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-oldenzaal-walking-football-berghuizen",
+      "name": "Impuls · Walking Football FC Berghuizen",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "locationMunicipality": "Oldenzaal",
+      "subthemes": [
+        "walking football",
+        "sociaal contact"
+      ],
+      "description": "Terugkerende beweeg- en ontmoetingsactiviteit bij FC Berghuizen, gericht op laagdrempelig samen actief zijn.",
+      "audience": "Volwassenen die samen willen bewegen en nieuwe contacten willen opdoen.",
+      "access": "Volgens de actuele Impuls-agenda.",
+      "costs": "Controleer de actuele bijdrage bij Impuls.",
+      "address": "Schapendijk 37",
+      "town": "Oldenzaal",
+      "phone": "0541 571414"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "buurthuiskamer",
+        "senioren",
+        "Holten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-rijssen-holten-buurthuiskamer-hmv",
+      "name": "ViaVie Welzijn · Buurthuiskamer HMV Holten",
+      "source": "https://viaviewelzijn.nl/events/buurthuiskamer-hmv/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "locationMunicipality": "Rijssen-Holten",
+      "subthemes": [
+        "buurthuiskamer",
+        "senioren",
+        "lunch"
+      ],
+      "description": "Maandelijkse buurthuiskamer voor oudere buurtbewoners met koffie, spel, gesprek en gezamenlijke lunch.",
+      "audience": "Oudere buurtbewoners die anderen willen ontmoeten en niet gemakkelijk zelfstandig verder weg gaan.",
+      "access": "Maandelijks volgens de actuele ViaVie-agenda; vooraf contact opnemen is mogelijk.",
+      "costs": "€6 per bijeenkomst volgens de actuele activiteitspagina.",
+      "address": "Dorpsstraat 24d",
+      "postcode": "7451BV",
+      "town": "Holten"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "buurthuiskamer",
+        "senioren",
+        "Holten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-rijssen-holten-buurthuiskamer-elshof",
+      "name": "ViaVie Welzijn · Buurthuiskamer De Elshof",
+      "source": "https://viaviewelzijn.nl/events/buurthuiskamer-de-elshof/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "locationMunicipality": "Rijssen-Holten",
+      "subthemes": [
+        "buurthuiskamer",
+        "senioren",
+        "lunch"
+      ],
+      "description": "Maandelijkse buurthuiskamer voor oudere buurtbewoners met koffie, een activiteit en gezamenlijke lunch.",
+      "audience": "Oudere inwoners van Holten en omgeving.",
+      "access": "Maandelijks volgens de actuele ViaVie-agenda.",
+      "costs": "€6 per bijeenkomst volgens de actuele activiteitspagina.",
+      "address": "Geskesdijk 34",
+      "postcode": "7451RL",
+      "town": "Holten"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "buurthuiskamer",
+        "senioren",
+        "Rijssen"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-rijssen-holten-buurthuiskamer-bolder",
+      "name": "ViaVie Welzijn · Buurthuiskamer De Bolder",
+      "source": "https://viaviewelzijn.nl/events/buurthuiskamer-de-haarschool-137/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "locationMunicipality": "Rijssen-Holten",
+      "subthemes": [
+        "buurthuiskamer",
+        "senioren",
+        "lunch"
+      ],
+      "description": "Maandelijkse buurthuiskamer voor oudere wijkbewoners met koffie, spel, gesprek en lunch.",
+      "audience": "Oudere buurtbewoners in Rijssen.",
+      "access": "Maandelijks volgens de actuele ViaVie-agenda.",
+      "costs": "€6 per bijeenkomst volgens de actuele activiteitspagina.",
+      "address": "Karel Doormanstraat 36",
+      "postcode": "7461ER",
+      "town": "Rijssen"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "senioren",
+        "soos",
+        "Rijssen"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-rijssen-holten-honk-seniorensoos",
+      "name": "ViaVie Welzijn · Seniorensoos Het Honk Rijssen",
+      "source": "https://viaviewelzijn.nl/events/soos-voor-senioren-657-495/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "locationMunicipality": "Rijssen-Holten",
+      "subthemes": [
+        "senioren",
+        "soos",
+        "spel"
+      ],
+      "description": "Wekelijkse seniorensoos met koffie, rummikub, kaarten, sjoelen, bingo en vooral ontmoeting en gezelligheid.",
+      "audience": "Iedere oudere uit Rijssen; mannen en vrouwen zijn welkom.",
+      "access": "Dinsdagmiddag in het seizoen volgens de actuele agenda.",
+      "costs": "€12 per maand volgens de actuele activiteitspagina.",
+      "address": "Rozengaarde 59",
+      "postcode": "7461DA",
+      "town": "Rijssen"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal",
+        "ontmoeten"
+      ],
+      "tags": [
+        "taal",
+        "Nederlands",
+        "taalcafé",
+        "ontmoeten",
+        "Rijssen"
+      ],
+      "guidePaths": [
+        "taal/nederlands",
+        "ontmoeten/inloop",
+        "migratie/taal"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-rijssen-holten-taalcafe-noabershof",
+      "name": "ViaVie Welzijn · Taalcafé Noabershof Rijssen",
+      "source": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "locationMunicipality": "Rijssen-Holten",
+      "subthemes": [
+        "Nederlands",
+        "taalcafé",
+        "sociaal contact"
+      ],
+      "description": "Gezellig taalcafé waar deelnemers onder begeleiding van vrijwilligers Nederlands blijven oefenen door te praten en spelletjes te doen.",
+      "audience": "Mensen die beter Nederlands willen spreken en na school, taalcoach of inburgering willen blijven oefenen.",
+      "access": "Dinsdag 19.00-20.30 uur volgens de actuele informatie.",
+      "costs": "Niet als betaalde les ingericht; controleer actuele informatie bij ViaVie.",
+      "address": "Op de Esch 26",
+      "town": "Rijssen"
     }
   ],
   "addressEnrichmentVersion": 1,
