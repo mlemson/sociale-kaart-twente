@@ -12766,7 +12766,12 @@
       "address": "Paukenlaan 1",
       "town": "Oldenzaal",
       "phone": "0541 571414",
-      "email": "info@impuls-oldenzaal.nl"
+      "email": "info@impuls-oldenzaal.nl",
+      "postcode": "7577LL",
+      "lat": 52.32242584,
+      "lon": 6.91283775,
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/koffie-inloop-de-symfonie/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -12811,7 +12816,12 @@
       "costs": "Controleer de actuele bijdrage bij Impuls.",
       "address": "Operalaan 100",
       "town": "Oldenzaal",
-      "phone": "0541 571414"
+      "phone": "0541 571414",
+      "postcode": "7577JA",
+      "lat": 52.3223256,
+      "lon": 6.91991655,
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -12856,7 +12866,12 @@
       "costs": "Controleer de actuele bijdrage bij Impuls.",
       "address": "Schapendijk 37",
       "town": "Oldenzaal",
-      "phone": "0541 571414"
+      "phone": "0541 571414",
+      "postcode": "7574PG",
+      "lat": 52.29850296,
+      "lon": 6.93919448,
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -12899,9 +12914,13 @@
       "audience": "Oudere buurtbewoners die anderen willen ontmoeten en niet gemakkelijk zelfstandig verder weg gaan.",
       "access": "Maandelijks volgens de actuele ViaVie-agenda; vooraf contact opnemen is mogelijk.",
       "costs": "€6 per bijeenkomst volgens de actuele activiteitspagina.",
-      "address": "Dorpsstraat 24d",
+      "address": "Dorpsstraat 24D",
       "postcode": "7451BV",
-      "town": "Holten"
+      "town": "Holten",
+      "lat": 52.28251508,
+      "lon": 6.4197451,
+      "locationSource": "https://viaviewelzijn.nl/events/buurthuiskamer-hmv/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -12946,7 +12965,11 @@
       "costs": "€6 per bijeenkomst volgens de actuele activiteitspagina.",
       "address": "Geskesdijk 34",
       "postcode": "7451RL",
-      "town": "Holten"
+      "town": "Holten",
+      "lat": 52.28471352,
+      "lon": 6.46304519,
+      "locationSource": "https://viaviewelzijn.nl/events/buurthuiskamer-de-elshof/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -12991,7 +13014,11 @@
       "costs": "€6 per bijeenkomst volgens de actuele activiteitspagina.",
       "address": "Karel Doormanstraat 36",
       "postcode": "7461ER",
-      "town": "Rijssen"
+      "town": "Rijssen",
+      "lat": 52.30295595,
+      "lon": 6.52510799,
+      "locationSource": "https://viaviewelzijn.nl/events/buurthuiskamer-de-haarschool-137/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -13036,7 +13063,11 @@
       "costs": "€12 per maand volgens de actuele activiteitspagina.",
       "address": "Rozengaarde 59",
       "postcode": "7461DA",
-      "town": "Rijssen"
+      "town": "Rijssen",
+      "lat": 52.30778227,
+      "lon": 6.52330371,
+      "locationSource": "https://viaviewelzijn.nl/events/soos-voor-senioren-657-495/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -13083,8 +13114,13 @@
       "audience": "Mensen die beter Nederlands willen spreken en na school, taalcoach of inburgering willen blijven oefenen.",
       "access": "Dinsdag 19.00-20.30 uur volgens de actuele informatie.",
       "costs": "Niet als betaalde les ingericht; controleer actuele informatie bij ViaVie.",
-      "address": "Op de Esch 26",
-      "town": "Rijssen"
+      "address": "Noabershof op de Esch 26",
+      "town": "Rijssen",
+      "postcode": "7462DZ",
+      "lat": 52.30006098,
+      "lon": 6.51810532,
+      "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234/",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
