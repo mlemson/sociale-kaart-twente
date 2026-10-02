@@ -405,7 +405,10 @@
       "locationMunicipality": "Enschede",
       "locationType": "contact",
       "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-bc42d591cc63c342",
@@ -1899,7 +1902,8 @@
       "locationMunicipality": "Almelo",
       "locationType": "contact",
       "locationSource": "https://www.avedan.nl/contact/",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guideExclude": true
     },
     {
       "id": "candidate-54a8f482714c00a6",
@@ -3919,7 +3923,10 @@
       "locationMunicipality": "Losser",
       "locationType": "contact",
       "locationSource": "https://www.fundamentlosser.nl/contact/",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-167303f4dc81b65d",
@@ -3982,7 +3989,10 @@
       "locationMunicipality": "Losser",
       "locationType": "contact",
       "locationSource": "https://www.fundamentlosser.nl/contact/",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-9c96f97d831db9a7",
@@ -4237,7 +4247,10 @@
       "locationMunicipality": "Losser",
       "locationType": "contact",
       "locationSource": "https://www.fundamentlosser.nl/contact/",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-c57d2c0e90a871db",
@@ -7103,7 +7116,10 @@
       "locationMunicipality": "Haaksbergen",
       "locationType": "source-address",
       "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "migratie/nieuwkomer"
+      ]
     },
     {
       "id": "candidate-7612bebc6ca21f5b",
@@ -9507,7 +9523,10 @@
       "locationMunicipality": "Tubbergen",
       "locationType": "contact",
       "locationSource": "https://swtd.nl/contact",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-47a1d9f1466d0445",
@@ -9992,7 +10011,10 @@
       "locationMunicipality": "Tubbergen",
       "locationType": "contact",
       "locationSource": "https://swtd.nl/contact",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/clientsteun"
+      ]
     },
     {
       "id": "candidate-0ee0e58005b423df",
@@ -11808,7 +11830,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-b889dc06e03211da",
@@ -16013,7 +16038,10 @@
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/clientsteun"
+      ]
     },
     {
       "id": "candidate-413f357b7cfc9980",
@@ -16073,7 +16101,10 @@
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-175047a3e20b1e8a",
@@ -16138,7 +16169,10 @@
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-130dc5335ce91d1d",
@@ -17143,7 +17177,11 @@
       "lat": 52.26033093,
       "lon": 6.8047408,
       "locationMunicipality": "Hengelo (O)",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden",
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -18570,7 +18608,12 @@
       "lon": 6.89338546,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/nederlands",
+        "taal/digitaal",
+        "migratie/taal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -18750,7 +18793,11 @@
       "lon": 6.89338546,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/nederlands",
+        "migratie/taal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -22899,7 +22946,10 @@
       "locationType": "source-address",
       "locationSource": "https://www.humanitas.nl/afdeling/twente/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -22955,7 +23005,10 @@
       "locationType": "source-address",
       "locationSource": "https://www.humanitas.nl/afdeling/twente/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "mentaal/eenzaamheid"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -23012,7 +23065,11 @@
       "locationType": "source-address",
       "locationSource": "https://www.humanitas.nl/afdeling/twente/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/jongeren",
+        "mentaal/eenzaamheid"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -27711,7 +27768,11 @@
       "lon": 6.89338546,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "taal/nederlands",
+        "migratie/taal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -27756,7 +27817,11 @@
       "lon": 6.89338546,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/vrijwillig",
+        "migratie/taal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -27889,7 +27954,11 @@
       "lon": 6.89338546,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "taal/nederlands",
+        "migratie/taal"
+      ]
     },
     {
       "sourceKind": "first-party",
