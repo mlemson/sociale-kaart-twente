@@ -78,6 +78,14 @@
     return found || [node.id];
   }
 
+  function termMatches(text, term) {
+    const needle = norm(term);
+    if (!needle) return false;
+    if (needle.includes(" ")) return (" " + text + " ").includes(" " + needle + " ");
+    if (needle.length <= 4) return (" " + text + " ").includes(" " + needle + " ");
+    return text.includes(needle);
+  }
+
   function matchesNode(node, record) {
     const explicit = record.guidePaths || [];
     if (explicit.length) {
@@ -86,7 +94,7 @@
     }
     if (node.children && node.children.length) return node.children.some(child => matchesNode(child, record));
     const text = record._text || recordText(record);
-    return (node.include || []).some(term => text.includes(norm(term)));
+    return (node.include || []).some(term => termMatches(text, term));
   }
 
   function municipality() {
