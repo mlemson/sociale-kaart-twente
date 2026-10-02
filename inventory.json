@@ -21432,17 +21432,22 @@
       "audience": "Senioren uit Dinkelland die behoefte hebben aan gezelligheid, structuur of ondersteuning.",
       "access": "Wekelijkse inloop; neem bij vragen over deelname of vervoer contact op met de coördinator.",
       "costs": "De actuele agenda vermeldt dat deelname laagdrempelig is; controleer de bijdrage per datum, omdat SWTD verschillende vermeldingen toont.",
-      "address": "Kerkstraat 5-7",
+      "address": "Wiemselweg 5A",
       "town": "Tilligte",
       "locationType": "visiting",
       "locationSource": "https://swtd.nl/agenda/",
       "mapPin": true,
       "openingHours": "Dinsdag 10.00-14.00 uur volgens de actuele agenda.",
-      "postcode": "",
+      "postcode": "7634PX",
       "guidePaths": [
         "ontmoeten/inloop",
         "meedoen/daginvulling"
-      ]
+      ],
+      "lat": 52.40797699,
+      "lon": 6.93544161,
+      "locationMunicipality": "Dinkelland",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26370,7 +26375,12 @@
       "town": "Overdinkel",
       "locationType": "visiting",
       "locationSource": "https://trefhuus.com/contact/",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.23875481,
+      "lon": 7.03503715,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
