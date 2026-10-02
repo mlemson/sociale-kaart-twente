@@ -10123,7 +10123,11 @@
       "costs": "Gratis informatie en bemiddeling naar vrijwilligerswerk.",
       "guidePaths": [
         "meedoen/vrijwillig"
-      ]
+      ],
+      "postcode": "7651CV",
+      "lat": 52.40837485,
+      "lon": 6.78133142,
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "candidate-4481029b62a86dce",
@@ -21934,7 +21938,11 @@
         "meedoen/daginvulling",
         "ontmoeten/inloop"
       ],
-      "openingHours": "Dinsdag afwisselend huiskamer/dagbesteding en open eettafel; zie de actuele agenda."
+      "openingHours": "Dinsdag afwisselend huiskamer/dagbesteding en open eettafel; zie de actuele agenda.",
+      "postcode": "7679VP",
+      "lat": 52.45183869,
+      "lon": 6.74317609,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -21976,7 +21984,11 @@
       "mapPin": true,
       "locationMunicipality": "Dinkelland",
       "mapLocationType": "address",
-      "openingHours": "Dinsdag 10.00-12.00 uur volgens de actuele agenda."
+      "openingHours": "Dinsdag 10.00-12.00 uur volgens de actuele agenda.",
+      "postcode": "7591GA",
+      "lat": 52.37472391,
+      "lon": 7.0003195,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -22012,14 +22024,18 @@
       "audience": "Senioren uit Dinkelland die behoefte hebben aan gezelligheid, structuur of ondersteuning.",
       "access": "Wekelijkse inloop; neem bij vragen over deelname of vervoer contact op met de coördinator.",
       "costs": "Eigen bijdrage €12,50 per keer, inclusief lunch en koffie/thee.",
-      "address": "Kerkstraat 5-7",
+      "address": "Wiemselweg 5A",
       "town": "Tilligte",
       "locationType": "visiting",
       "locationSource": "https://swtd.nl/agenda/",
       "mapPin": true,
       "locationMunicipality": "Dinkelland",
       "mapLocationType": "address",
-      "openingHours": "Dinsdag 10.00-14.00 uur volgens de actuele agenda."
+      "openingHours": "Dinsdag 10.00-14.00 uur volgens de actuele agenda.",
+      "postcode": "7634PX",
+      "lat": 52.40797699,
+      "lon": 6.93544161,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
