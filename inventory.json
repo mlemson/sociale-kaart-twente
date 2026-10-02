@@ -5404,17 +5404,17 @@
     {
       "id": "candidate-729433f217b2a499",
       "name": "Ixta Noa Praktijkhuis Enschede",
-      "source": "https://www.ixtanoa.nl/locaties/enschede/",
+      "source": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
       "municipalities": [
         "Enschede"
       ],
       "sourceTitle": "Ixta Noa",
       "sourceKind": "first-party",
-      "checked": "2026-09-15",
+      "checked": "2026-10-02",
       "category": "mentaal",
       "accessStatus": "confirmed",
       "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
-      "description": "",
+      "description": "Laagdrempelig Praktijkhuis van Ixta Noa voor inloop, herstelondersteuning, activiteiten, groepen en cursussen. De locatie in Enschede gebruikt Molenstraat 30 en 36.",
       "address": "Molenstraat 30",
       "town": "Enschede",
       "scope": "Lokaal aanbod Enschede",
@@ -5466,7 +5466,11 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "mentaal/lotgenoten"
-      ]
+      ],
+      "phone": "053 230 74 46",
+      "email": "enschede@ixtanoa.nl",
+      "openingHours": "Maandag t/m vrijdag 09.00-17.00 uur; dinsdag en donderdag ook 18.00-20.00 uur; zaterdag 10.00-15.00 uur.",
+      "mapPin": true
     },
     {
       "id": "candidate-b373b9f843178750",
@@ -19023,7 +19027,18 @@
       "costs": "Gratis.",
       "guidePaths": [
         "mentaal/lotgenoten"
-      ]
+      ],
+      "address": "Molenstraat 30",
+      "postcode": "7514DK",
+      "town": "Enschede",
+      "phone": "053 230 74 46",
+      "email": "enschede@ixtanoa.nl",
+      "locationType": "contact",
+      "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "lat": 52.22323189,
+      "lon": 6.89435653
     },
     {
       "sourceKind": "first-party",
@@ -19061,7 +19076,18 @@
       "costs": "Gratis.",
       "guidePaths": [
         "mentaal/lotgenoten"
-      ]
+      ],
+      "address": "Molenstraat 30",
+      "postcode": "7514DK",
+      "town": "Enschede",
+      "phone": "053 230 74 46",
+      "email": "enschede@ixtanoa.nl",
+      "locationType": "contact",
+      "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "lat": 52.22323189,
+      "lon": 6.89435653
     },
     {
       "sourceKind": "first-party",
@@ -19099,7 +19125,18 @@
       "costs": "Gratis.",
       "guidePaths": [
         "mentaal/lotgenoten"
-      ]
+      ],
+      "address": "Molenstraat 30",
+      "postcode": "7514DK",
+      "town": "Enschede",
+      "phone": "053 230 74 46",
+      "email": "enschede@ixtanoa.nl",
+      "locationType": "contact",
+      "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "lat": 52.22323189,
+      "lon": 6.89435653
     },
     {
       "sourceKind": "first-party",
@@ -19151,7 +19188,15 @@
       "description": "Gratis en vrijblijvend preventief advies over alcohol, drugs, medicijnen, gokken, gamen en beeldschermgebruik.",
       "audience": "Mensen met vragen over eigen gebruik of dat van iemand anders.",
       "access": "Rechtstreeks telefonisch of op locatie; geen verwijzing nodig.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Raiffeisenstraat 75",
+      "postcode": "7514AM",
+      "town": "Enschede",
+      "phone": "088 382 28 87",
+      "locationType": "contact",
+      "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address"
     },
     {
       "sourceKind": "first-party",
@@ -20341,7 +20386,14 @@
       "description": "Gratis hulp bij vragen over computer, internet, laptop, tablet en telefoon.",
       "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
       "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
-      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit."
+      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit.",
+      "address": "Beursstraat 34",
+      "postcode": "7551HV",
+      "town": "Hengelo",
+      "locationType": "contact",
+      "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address"
     },
     {
       "sourceKind": "first-party",
@@ -20381,7 +20433,14 @@
       "guidePaths": [
         "taal/digitaal",
         "taal/basis"
-      ]
+      ],
+      "address": "Beursstraat 34",
+      "postcode": "7551HV",
+      "town": "Hengelo",
+      "locationType": "contact",
+      "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address"
     },
     {
       "sourceKind": "first-party",
@@ -20421,7 +20480,14 @@
       "guidePaths": [
         "geld/formulieren",
         "taal/digitaal"
-      ]
+      ],
+      "address": "Beursstraat 34",
+      "postcode": "7551HV",
+      "town": "Hengelo",
+      "locationType": "contact",
+      "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address"
     },
     {
       "sourceKind": "first-party",
@@ -20457,7 +20523,14 @@
       "description": "Hulp voor mensen die beter Nederlands willen spreken, lezen of schrijven.",
       "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
       "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
-      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit."
+      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit.",
+      "address": "Beursstraat 34",
+      "postcode": "7551HV",
+      "town": "Hengelo",
+      "locationType": "contact",
+      "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address"
     },
     {
       "sourceKind": "first-party",
@@ -20493,7 +20566,14 @@
       "description": "Samen Nederlands spreken en oefenen in een laagdrempelige groep.",
       "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
       "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
-      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit."
+      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit.",
+      "address": "Beursstraat 34",
+      "postcode": "7551HV",
+      "town": "Hengelo",
+      "locationType": "contact",
+      "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address"
     },
     {
       "sourceKind": "first-party",
@@ -20529,7 +20609,14 @@
       "description": "Gratis workshops en cursussen om digitale vaardigheden te verbeteren.",
       "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
       "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
-      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit."
+      "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit.",
+      "address": "Beursstraat 34",
+      "postcode": "7551HV",
+      "town": "Hengelo",
+      "locationType": "contact",
+      "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address"
     },
     {
       "sourceKind": "first-party",
@@ -22822,8 +22909,8 @@
       "status": "candidate",
       "id": "c-20261002-twentsfonds",
       "name": "Twents Fonds voor Vakmanschap · bijdrage voor scholing",
-      "source": "https://wijkwijzerenschede.nl/geld-voor-leren",
-      "sourceTitle": "Twents Fonds voor Vakmanschap",
+      "source": "https://www.ikbindr.nl/aanmelden",
+      "sourceTitle": "IKBINDR / Twents Fonds voor Vakmanschap",
       "municipality": "Enschede",
       "municipalities": [
         "Almelo",
@@ -22859,8 +22946,11 @@
       ],
       "description": "Financiële bijdrage voor om- of bijscholing om kansen op werk en vakmanschap te vergroten.",
       "audience": "Inwoners die aan de actuele voorwaarden van het fonds voldoen.",
-      "access": "Zelf aanvragen volgens de fondsvoorwaarden.",
-      "costs": "Subsidie tot het actuele maximum; voorwaarden kunnen wijzigen."
+      "access": "Online aanmelden voor een persoonlijk loopbaanadviesgesprek en/of scholingscheque volgens de actuele voorwaarden.",
+      "costs": "Subsidie tot het actuele maximum; voorwaarden kunnen wijzigen.",
+      "email": "info@twentsfondsvoorvakmanschap.nl",
+      "locationType": "online",
+      "mapLocationType": "service-area"
     },
     {
       "sourceKind": "first-party",
@@ -22870,7 +22960,7 @@
       "status": "candidate",
       "id": "c-20261002-werkcentrum",
       "name": "Werkcentrum Twente · vrij inloopspreekuur leren en werken",
-      "source": "https://www.enschede.nl/hulp-bij-vinden-van-werk-of-opleiding",
+      "source": "https://www.werkcentrumtwente.nl/contact/",
       "sourceTitle": "Werkcentrum Twente",
       "municipality": "Enschede",
       "municipalities": [
@@ -22906,8 +22996,17 @@
       ],
       "description": "Vrij toegankelijk advies voor werkzoekenden en werkenden over werk, scholing en ontwikkeling.",
       "audience": "Werkenden, werkzoekenden en anderen met vragen over leren en werken.",
-      "access": "Met of zonder afspraak.",
-      "costs": "Gratis advies."
+      "access": "Vrije inloop voor vragen over werk, scholing en loopbaan; gratis en zonder afspraak.",
+      "costs": "Gratis advies.",
+      "address": "Pijpenstraat 15",
+      "postcode": "7511GM",
+      "town": "Enschede",
+      "openingHours": "Donderdag 09.30-12.00 uur voor het vrije inloopspreekuur in Bibliotheek Enschede.",
+      "locationType": "visiting",
+      "locationSource": "https://www.werkcentrumtwente.nl/contact/",
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "mapPin": true
     },
     {
       "sourceKind": "first-party",
