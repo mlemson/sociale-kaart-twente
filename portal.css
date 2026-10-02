@@ -332,7 +332,9 @@ body[data-theme="wijkwijzer"]{
 }
 .portal-header{background:#fffdf8}
 .portal-brand{color:var(--primary);font-weight:700}
-.portal-brand:first-letter{color:var(--accent)}
+.portal-brand-symbol{color:var(--accent);font-weight:800;letter-spacing:-1.1px;font-size:20px;line-height:1}
+.portal-brand-sub{display:block;font-size:8px;letter-spacing:.28em;margin-top:3px;font-weight:600;color:var(--primary)}
+.portal-header .nav-guide{display:inline-flex!important;visibility:visible!important;opacity:1!important}
 .portal-main>.eyebrow,.portal-main>.lead,.portal-main>.notice,.steps{display:none}
 .portal-main>h1{margin-top:8px;margin-bottom:24px}
 .portal-footer{display:flex;justify-content:space-between;gap:24px;align-items:center}
