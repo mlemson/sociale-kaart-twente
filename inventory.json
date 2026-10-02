@@ -25021,7 +25021,17 @@
       "description": "Gratis cursus met oefeningen voor balans, spierkracht en steviger staan en lopen.",
       "audience": "Inwoners van Almelo van 65 jaar en ouder.",
       "access": "Aanmelden via een deelnemende fysiotherapeut of het Fysiocollectief Almelo.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Haven Zuidzijde 30",
+      "postcode": "7607EW",
+      "town": "Almelo",
+      "lat": 52.35722016,
+      "lon": 6.6592867,
+      "locationMunicipality": "Almelo",
+      "locationType": "source-address",
+      "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/ouder-worden-almelo/cursus-valpreventie-zo-blijft-u-overeind",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25068,7 +25078,17 @@
       "description": "Training voor ouders die uit elkaar gaan of gescheiden zijn, gericht op ouderschap en het welzijn van kinderen.",
       "audience": "Ouders met kinderen die met een scheiding te maken hebben.",
       "access": "Actuele trainingen en aanmelding via LOES Twente.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Haven Zuidzijde 30",
+      "postcode": "7607EW",
+      "town": "Almelo",
+      "lat": 52.35722016,
+      "lon": 6.6592867,
+      "locationMunicipality": "Almelo",
+      "locationType": "source-address",
+      "locationSource": "https://www.almelo.nl/jeugd-en-onderwijs/veiligheid-en-thuissituatie/scheiden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25101,7 +25121,17 @@
       "description": "Training waarin kinderen leren omgaan met de scheiding van hun ouders; ouders krijgen informatie in ouderbijeenkomsten.",
       "audience": "Kinderen van 7 tot 12 jaar uit Losser en hun ouders.",
       "access": "Aanmelden via schoolmaatschappelijk werk of gemeente.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "visiting",
+      "locationSource": "https://www.losser.nl/contact-en-openingstijden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25134,7 +25164,17 @@
       "description": "Vrije inloop voor koffie, gesprek, krant lezen en informatie over activiteiten, op meerdere plekken in Oldenzaal.",
       "audience": "Inwoners van Oldenzaal.",
       "access": "Vrij inlopen volgens de openingstijden.",
-      "costs": "Bezoek is gratis; koffie of thee kost een kleine bijdrage."
+      "costs": "Bezoek is gratis; koffie of thee kost een kleine bijdrage.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25167,7 +25207,17 @@
       "description": "Hulp bij vragen over toeslagen en het regelen van financiële administratie.",
       "audience": "Inwoners van Oldenzaal.",
       "access": "Via Impuls.",
-      "costs": "Laagdrempelige ondersteuning."
+      "costs": "Laagdrempelige ondersteuning.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25206,7 +25256,13 @@
       "address": "Wilhelminastraat 5",
       "postcode": "7571CE",
       "town": "Oldenzaal",
-      "locationType": "visiting"
+      "locationType": "visiting",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/formulierenservice/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25239,7 +25295,17 @@
       "description": "Ondersteuning bij het ordenen en bijhouden van administratie thuis.",
       "audience": "Inwoners die hulp nodig hebben bij administratie.",
       "access": "Via Impuls.",
-      "costs": "Laagdrempelige ondersteuning."
+      "costs": "Laagdrempelige ondersteuning.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25273,7 +25339,17 @@
       "description": "Informatie en materialen rond dementie voor mensen met geheugenproblemen, naasten en andere geïnteresseerden.",
       "audience": "Mensen met geheugenproblemen en hun naasten.",
       "access": "Via Impuls.",
-      "costs": "Controleer actuele voorwaarden."
+      "costs": "Controleer actuele voorwaarden.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25306,7 +25382,17 @@
       "description": "Clubactiviteit binnen het laagdrempelige welzijnsaanbod van Impuls.",
       "audience": "Doelgroep en actuele invulling navragen bij Impuls.",
       "access": "Via Impuls.",
-      "costs": "Controleer actuele bijdrage."
+      "costs": "Controleer actuele bijdrage.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25340,7 +25426,17 @@
       "description": "Inloop voor informatie en advies over stevig blijven staan, bewegen en valpreventie.",
       "audience": "Ouderen en andere inwoners met vragen over valpreventie.",
       "access": "Vrije inloop volgens de actuele agenda.",
-      "costs": "Gratis informatie en advies."
+      "costs": "Gratis informatie en advies.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25374,7 +25470,17 @@
       "description": "Project waarmee oudere inwoners worden ondersteund om gezond, actief en zo zelfstandig mogelijk ouder te worden.",
       "audience": "Oudere inwoners van Wierden.",
       "access": "Via De Welle.",
-      "costs": "Laagdrempelige welzijnsondersteuning."
+      "costs": "Laagdrempelige welzijnsondersteuning.",
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "locationType": "source-address",
+      "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25409,7 +25515,17 @@
       "description": "Gezamenlijk bewegen met warming-up en oefeningen voor kracht, conditie en balans.",
       "audience": "Oudere inwoners die laagdrempelig willen bewegen.",
       "access": "Via De Welle; actuele tijden controleren.",
-      "costs": "Controleer actuele bijdrage."
+      "costs": "Controleer actuele bijdrage.",
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "locationType": "source-address",
+      "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25443,7 +25559,17 @@
       "description": "Cursussen gericht op valpreventie en veilig blijven bewegen.",
       "audience": "Oudere inwoners van Wierden.",
       "access": "Via De Welle; actuele cursusronde controleren.",
-      "costs": "Controleer actuele voorwaarden."
+      "costs": "Controleer actuele voorwaarden.",
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "locationType": "source-address",
+      "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25476,7 +25602,17 @@
       "description": "Biljarten in Vroomshoop en Den Ham, met ruimte voor sociaal contact en deelname op eigen niveau.",
       "audience": "Inwoners van Twenterand.",
       "access": "Volgens de actuele tijden op de website.",
-      "costs": "Controleer eventuele bijdrage."
+      "costs": "Controleer eventuele bijdrage.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25509,7 +25645,17 @@
       "description": "Groepslessen volksdansen in Den Ham en Westerhaar-Vriezenveensewijk, met aandacht voor bewegen en gezelligheid.",
       "audience": "Volwassenen en senioren; ervaring is niet nodig.",
       "access": "Meedoen volgens de actuele lestijden.",
-      "costs": "Controleer actuele bijdrage."
+      "costs": "Controleer actuele bijdrage.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25544,7 +25690,17 @@
       "description": "Gratis inloop in Vriezenveen en Den Ham voor mensen met beginnende geheugenproblemen en hun naasten, met activiteiten, informatie en lotgenotencontact.",
       "audience": "Mensen met beginnende geheugenproblemen en mantelzorgers.",
       "access": "Vrije inloop; geen verwijzing of indicatie nodig.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25580,7 +25736,17 @@
       "description": "Wekelijkse MaakLab-middag met onder meer 3D-printer, lasersnijder, micro:bits en andere maakapparatuur.",
       "audience": "Jeugd van 9 tot 18 jaar.",
       "access": "Inschrijven op de intekenlijst bij de bibliotheek; beperkte plekken.",
-      "costs": "Controleer de actuele activiteit."
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25615,7 +25781,17 @@
       "description": "Wekelijkse middag in Overdinkel met knutselen en andere activiteiten voor kinderen.",
       "audience": "Kinderen van 5 tot en met 12 jaar.",
       "access": "Volgens de actuele agenda.",
-      "costs": "Controleer actuele activiteit."
+      "costs": "Controleer actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25650,7 +25826,17 @@
       "description": "Terugkerende ontmoetings- en beweegactiviteit in Losser, Overdinkel en De Lutte met aandacht voor een gezonde leefstijl.",
       "audience": "Ouderen die actief willen blijven en anderen willen ontmoeten.",
       "access": "Volgens de actuele agenda.",
-      "costs": "Controleer actuele bijdrage."
+      "costs": "Controleer actuele bijdrage.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25683,7 +25869,17 @@
       "description": "Koffie-inloop voor inwoners die sociale contacten zoeken, daginvulling willen of willen ontdekken welke activiteiten passen.",
       "audience": "Inwoners van de gemeente Losser.",
       "access": "Vrije inloop volgens de actuele agenda.",
-      "costs": "Laagdrempelig."
+      "costs": "Laagdrempelig.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     }
   ],
   "sources": [

@@ -7213,6 +7213,37 @@
     "catalogOrganizationId": "org-evenmens-wierden-6t5uzi"
   },
   {
+    "id": "catalog-org-gemeente-almelo-lg1xtf",
+    "name": "Gemeente Almelo",
+    "category": "bewegen",
+    "address": "Haven Zuidzijde 30",
+    "postcode": "7607EW",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.35722016,
+    "lon": 6.6592867,
+    "source": "https://www.almelo.nl/zorg-en-ondersteuning/ouder-worden-almelo/cursus-valpreventie-zo-blijft-u-overeind",
+    "checked": "2026-10-02",
+    "tags": [
+      "bewegen"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Gemeente Almelo. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van Almelo van 65 jaar en ouder.",
+    "costs": "Gratis.",
+    "access": "Aanmelden via een deelnemende fysiotherapeut of het Fysiocollectief Almelo.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/ouder-worden-almelo/cursus-valpreventie-zo-blijft-u-overeind",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-gemeente-almelo-lg1xtf"
+  },
+  {
     "id": "catalog-org-gemeente-dinkelland-9dz08l",
     "name": "Gemeente Dinkelland",
     "category": "geld",
@@ -7296,13 +7327,14 @@
     "tags": [
       "geld",
       "bewegen",
-      "ontmoeten"
+      "ontmoeten",
+      "jeugd"
     ],
     "subthemes": [],
-    "description": "Locatie voor Gemeente Losser. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
-    "audience": "Inwoners van Losser van 18 jaar en ouder met een laag inkomen of weinig vermogen die aan de voorwaarden voldoen.",
-    "costs": "De actuele maximale vergoeding en voorwaarden staan op de gemeentepagina.",
-    "access": "Online aanvragen met DigiD; hulp is mogelijk via toegangsteam wijz in 't Lossers hoes.",
+    "description": "Locatie voor Gemeente Losser. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Kinderen van 7 tot 12 jaar uit Losser en hun ouders.",
+    "costs": "Gratis.",
+    "access": "Aanmelden via schoolmaatschappelijk werk of gemeente.",
     "openingHours": "",
     "phone": "",
     "email": "",
@@ -8049,6 +8081,50 @@
     "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-loes-r3cfqg"
+  },
+  {
+    "id": "catalog-org-loes-twente-jjapup",
+    "name": "LOES Twente",
+    "category": "jeugd",
+    "address": "Haven Zuidzijde 30",
+    "postcode": "7607EW",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
+      "Rijssen-Holten",
+      "Tubbergen",
+      "Twenterand",
+      "Wierden"
+    ],
+    "lat": 52.35722016,
+    "lon": 6.6592867,
+    "source": "https://www.almelo.nl/jeugd-en-onderwijs/veiligheid-en-thuissituatie/scheiden",
+    "checked": "2026-10-02",
+    "tags": [
+      "jeugd"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor LOES Twente. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Ouders met kinderen die met een scheiding te maken hebben.",
+    "costs": "Gratis.",
+    "access": "Actuele trainingen en aanmelding via LOES Twente.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://www.almelo.nl/jeugd-en-onderwijs/veiligheid-en-thuissituatie/scheiden",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-loes-twente-jjapup"
   },
   {
     "id": "catalog-org-mantelzorg-almelo-at2mlq",
