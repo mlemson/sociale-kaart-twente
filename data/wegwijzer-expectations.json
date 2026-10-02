@@ -78,5 +78,31 @@
     "nameContains": "hulp voor naasten",
     "municipality": "Enschede",
     "path": "verslaving/naasten"
+  },
+  {
+    "nameContains": "Samen Actief",
+    "municipality": "Almelo",
+    "path": "migratie/nieuwkomer",
+    "shouldExist": false
+  },
+  {
+    "nameContains": "Noaberpoort",
+    "municipality": "Haaksbergen",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "Maatschappelijke begeleiding nieuwkomers",
+    "municipality": "Hengelo",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "Maatschappelijke begeleiding nieuwkomers",
+    "municipality": "Haaksbergen",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "Financiële Zelfredzaamheid",
+    "municipality": "Enschede",
+    "path": "migratie/nieuwkomer"
   }
 ]
