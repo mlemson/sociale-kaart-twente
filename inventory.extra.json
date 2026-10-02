@@ -359,6 +359,48 @@
       "municipalities": [
         "Hengelo"
       ]
+    },
+    {
+      "title": "Stichting De Welle",
+      "url": "https://www.dewelledoet.nl/activiteiten/352",
+      "municipalities": [
+        "Hellendoorn"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/agenda/soofi-bewegen-en-ontmoeten/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
     }
   ],
   "candidates": [
@@ -403,7 +445,10 @@
       "lon": 6.58036385,
       "locationMunicipality": "Wierden",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -446,7 +491,10 @@
       "lon": 6.58036385,
       "locationMunicipality": "Wierden",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -489,7 +537,10 @@
       "lon": 6.58036385,
       "locationMunicipality": "Wierden",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -532,7 +583,11 @@
       "lon": 6.58036385,
       "locationMunicipality": "Wierden",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/mantelzorg",
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -542,8 +597,8 @@
       "status": "candidate",
       "id": "extra-20261002-dewelle-kom-d-r-in-enter",
       "name": "De Welle · Kom d'r In Enter",
-      "source": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
-      "sourceTitle": "Stichting De Welle",
+      "source": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/",
+      "sourceTitle": "Activiteitencentrum ’t Zumpke",
       "municipalities": [
         "Wierden"
       ],
@@ -561,21 +616,20 @@
         "activiteit",
         "ontmoeten"
       ],
-      "description": "Vrij toegankelijke ontmoeting voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
+      "description": "Maandelijkse laagdrempelige inloop van De Welle en Evenmens voor koffie, ontmoeting en contact.",
       "audience": "Inwoners van de betreffende gemeente.",
-      "access": "Bekijk de actuele tijden bij De Welle.",
-      "costs": "Gratis.",
-      "address": "Dorpsstraat 55",
-      "postcode": "7468CE",
+      "access": "Maandelijkse inloop; bekijk de actuele datum bij ’t Zumpke.",
+      "costs": "Controleer eventuele consumptiekosten bij de organisator.",
+      "address": "Reggestraat 85",
+      "postcode": "7468 EJ",
       "town": "Enter",
       "locationType": "visiting",
-      "locationSource": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
+      "locationSource": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/",
       "mapPin": true,
-      "lat": 52.29697899,
-      "lon": 6.57791904,
-      "locationMunicipality": "Wierden",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "guidePaths": [
+        "zorg/mantelzorg",
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -618,7 +672,10 @@
       "lon": 6.59677896,
       "locationMunicipality": "Wierden",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/bewegen"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -661,7 +718,10 @@
       "lon": 6.45999551,
       "locationMunicipality": "Hellendoorn",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -690,21 +750,19 @@
         "activiteit",
         "ontmoeten"
       ],
-      "description": "Gratis terugkerende koffie-inloop en ontmoeting.",
+      "description": "Wekelijkse gratis koffie-inloop voor ontmoeting in de Bendien Smitshof.",
       "audience": "Inwoners van de betreffende gemeente.",
-      "access": "Bekijk de actuele tijden bij De Welle.",
+      "access": "Vrije inloop op vrijdag van 09.30 tot 11.30 uur volgens de actuele agenda.",
       "costs": "Gratis.",
-      "address": "Dokter G.H. Beensweg 21",
+      "address": "Bendien Smitshof 38",
       "postcode": "7642CH",
-      "town": "Wierden",
+      "town": "Nijverdal",
       "locationType": "source-address",
-      "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
       "mapPin": false,
-      "lat": 52.35470544,
-      "lon": 6.58036385,
-      "locationMunicipality": "Wierden",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -747,7 +805,10 @@
       "lon": 6.58036385,
       "locationMunicipality": "Wierden",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/bewegen"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -2298,7 +2359,11 @@
       "lon": 6.90839465,
       "locationMunicipality": "Oldenzaal",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -2341,7 +2406,10 @@
       "lon": 6.93145973,
       "locationMunicipality": "Oldenzaal",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -2384,7 +2452,10 @@
       "lon": 6.92796947,
       "locationMunicipality": "Oldenzaal",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -5849,7 +5920,11 @@
       "lon": 6.73850472,
       "locationMunicipality": "Borne",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "municipal-directory",
@@ -5894,7 +5969,10 @@
       "lon": 6.75907499,
       "locationMunicipality": "Borne",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "municipal-directory",
@@ -5940,7 +6018,10 @@
       "lon": 6.74612156,
       "locationMunicipality": "Borne",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "municipal-directory",
@@ -5986,7 +6067,10 @@
       "lon": 6.75907499,
       "locationMunicipality": "Borne",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "sourceKind": "municipal-directory",
@@ -6031,7 +6115,10 @@
       "lon": 6.75448676,
       "locationMunicipality": "Borne",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "zorg/mantelzorg"
+      ]
     },
     {
       "sourceKind": "municipal-directory",
@@ -6078,7 +6165,11 @@
       "lon": 6.74505822,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "municipal-directory",
@@ -6125,7 +6216,11 @@
       "lon": 6.74673402,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "municipal-directory",
@@ -6172,7 +6267,11 @@
       "lon": 6.70226589,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "municipal-directory",
@@ -6219,7 +6318,11 @@
       "lon": 6.83268679,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "municipal-directory",
@@ -6266,7 +6369,11 @@
       "lon": 6.72786895,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "municipal-directory",
@@ -6311,7 +6418,10 @@
       "lon": 6.74505822,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -6358,7 +6468,10 @@
       "lon": 6.74505822,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "sourceKind": "municipal-directory",
@@ -6402,7 +6515,10 @@
       "lon": 6.74339248,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -6451,7 +6567,11 @@
       "lon": 6.7819718,
       "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -6497,7 +6617,531 @@
       "lon": 6.7819718,
       "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/bewegen"
+      ]
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wierden-gezellig-eatn-enter",
+      "name": "De Welle · Gezellig eat'n Enter",
+      "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "samen eten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "samen eten",
+        "maaltijd",
+        "Enter"
+      ],
+      "guidePaths": [
+        "ontmoeten/samen"
+      ],
+      "description": "Maandelijkse gezamenlijke eetactiviteit in Activiteitencentrum ’t Zumpke in Enter.",
+      "audience": "Inwoners die graag samen met anderen willen eten en ontmoeten.",
+      "access": "Iedere eerste dinsdag van de maand volgens de actuele agenda van De Welle.",
+      "costs": "Gratis volgens de actuele agenda.",
+      "address": "Reggestraat 85",
+      "postcode": "7468 EJ",
+      "town": "Enter",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-hellendoorn-crea-doe",
+      "name": "De Welle · Crea Doe",
+      "source": "https://www.dewelledoet.nl/activiteiten/352",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "creatief",
+        "daginvulling"
+      ],
+      "tags": [
+        "ontmoeten",
+        "creatief",
+        "hobby",
+        "daginvulling"
+      ],
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ],
+      "description": "Maandelijkse creatieve ochtend om met eigen hobby of materiaal bezig te zijn, inspiratie uit te wisselen en anderen te ontmoeten.",
+      "audience": "Inwoners die graag creatief bezig zijn en anderen willen ontmoeten.",
+      "access": "Iedere vierde maandag van de maand van 09.30 tot 11.30 uur.",
+      "costs": "€1,75 per keer via een deelnamekaart van 10 keer voor €17,50.",
+      "address": "Bendien Smitshof 38",
+      "town": "Nijverdal",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/352",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-hellendoorn-internetcafe",
+      "name": "De Welle · Internetcafé De Cirkel",
+      "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "digitaal"
+      ],
+      "tags": [
+        "digitaal",
+        "computer",
+        "internet",
+        "hulp",
+        "senioren"
+      ],
+      "guidePaths": [
+        "taal/digitaal"
+      ],
+      "description": "Wekelijks internetcafé in De Cirkel voor oefenen en hulp rond computer en internet.",
+      "audience": "Inwoners die ondersteuning of oefening met computer en internet kunnen gebruiken.",
+      "access": "Wekelijks op woensdagmiddag volgens de actuele agenda.",
+      "costs": "€1,75 per keer volgens de actuele agenda.",
+      "address": "Nijkerkendijk 15",
+      "town": "Nijverdal",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-hellendoorn-samen-eten-de-cirkel",
+      "name": "De Welle · Samen Eten De Cirkel",
+      "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "samen eten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "samen eten",
+        "maaltijd",
+        "senioren"
+      ],
+      "guidePaths": [
+        "ontmoeten/samen"
+      ],
+      "description": "Gezamenlijke warme maaltijd in De Cirkel met ruimte voor ontmoeting.",
+      "audience": "Inwoners die graag samen met anderen willen eten.",
+      "access": "Meerdere dagen per week volgens de actuele agenda.",
+      "costs": "€7,25 per maaltijd volgens de actuele agenda.",
+      "address": "Nijkerkendijk 15",
+      "town": "Nijverdal",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-hellendoorn-joinus-18-25",
+      "name": "De Welle · Join Us 18-25",
+      "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal",
+        "jeugd",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "eenzaamheid",
+        "jongvolwassenen"
+      ],
+      "tags": [
+        "eenzaamheid",
+        "jongvolwassenen",
+        "contact",
+        "ontmoeten",
+        "18-25"
+      ],
+      "guidePaths": [
+        "mentaal/eenzaamheid"
+      ],
+      "description": "Tweewekelijkse groep voor jongvolwassenen van 18 tot 25 jaar die nieuwe contacten willen opbouwen en samen activiteiten willen doen.",
+      "audience": "Jongvolwassenen van 18 tot 25 jaar.",
+      "access": "Iedere twee weken bij Place2Be volgens de actuele agenda.",
+      "costs": "Gratis.",
+      "address": "Duivecatelaan 4",
+      "town": "Nijverdal",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-oldenzaal-actieve-ontmoeting-paal12",
+      "name": "Impuls · Actieve Ontmoeting Paal 12",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "activering"
+      ],
+      "tags": [
+        "ontmoeten",
+        "daginvulling",
+        "bewegen",
+        "creatief",
+        "gezonde leefstijl"
+      ],
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ],
+      "description": "Laagdrempelige actieve ontmoeting met koffie, sociale contacten en wisselende activiteiten zoals bewegen, wandelen, sport, spel en creatief bezig zijn.",
+      "audience": "Inwoners die nieuwe sociale contacten willen maken en actiever mee willen doen.",
+      "access": "Maandag 09.30-12.00 en woensdag 13.00-15.30 bij Paal 12; aanmelden via Impuls.",
+      "costs": "€1 per keer; lunch op maandag is optioneel en kost €2.",
+      "address": "Vondellaan 12",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-oldenzaal-actieve-ontmoeting-stakenboer",
+      "name": "Impuls · Actieve Ontmoeting Stakenboer",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "activering"
+      ],
+      "tags": [
+        "ontmoeten",
+        "daginvulling",
+        "bewegen",
+        "creatief",
+        "gezonde leefstijl"
+      ],
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ],
+      "description": "Laagdrempelige actieve ontmoeting met koffie, sociale contacten en wisselende activiteiten zoals sport, spel, wandelen en creatieve activiteiten.",
+      "audience": "Inwoners die nieuwe sociale contacten willen maken en actiever mee willen doen.",
+      "access": "Dinsdag en donderdag 09.30-12.00 bij Boerderij Stakenboer; aanmelden via Impuls.",
+      "costs": "€1 per keer; lunch op dinsdag is optioneel en kost €2.",
+      "address": "Burgemeester Wallerstraat 115",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-oldenzaal-taalpunt",
+      "name": "Impuls · Taalpunt Oldenzaal",
+      "source": "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "nederlands",
+        "basisvaardigheden"
+      ],
+      "tags": [
+        "taal",
+        "lezen",
+        "schrijven",
+        "rekenen",
+        "computer",
+        "taalmaatje"
+      ],
+      "guidePaths": [
+        "taal/nederlands",
+        "taal/basis"
+      ],
+      "description": "Inloop voor mensen met vragen over lezen, schrijven, spreken, rekenen of computervaardigheden, met overzicht van passend cursusaanbod en doorverwijzing.",
+      "audience": "Volwassenen met een taalvraag of moeite met basisvaardigheden.",
+      "access": "Wekelijkse inloop in Bibliotheek Oldenzaal; controleer de actuele tijd bij Impuls.",
+      "costs": "Geen kosten genoemd op de bronpagina.",
+      "address": "In den Vijfhoek 75",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-oldenzaal-praathuis",
+      "name": "Impuls · Praathuis Oldenzaal",
+      "source": "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "nederlands"
+      ],
+      "tags": [
+        "taal",
+        "nederlands",
+        "spreken",
+        "lezen",
+        "migranten",
+        "oefenen"
+      ],
+      "guidePaths": [
+        "taal/nederlands",
+        "migratie/taal"
+      ],
+      "description": "Vrije oefengroep waar migranten Nederlands spreken, lezen en via taalspelletjes oefenen.",
+      "audience": "Migranten die Nederlands willen oefenen.",
+      "access": "Iedere vrijdagmiddag in Bibliotheek Oldenzaal; vrij binnenlopen.",
+      "costs": "Gratis.",
+      "address": "In den Vijfhoek 75",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-oldenzaal-ouder-kindgroep",
+      "name": "Impuls · Ouder- en Kindgroep",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "ouders",
+        "opvoeden"
+      ],
+      "tags": [
+        "jeugd",
+        "ouders",
+        "opvoeden",
+        "kind",
+        "ontmoeten"
+      ],
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ],
+      "description": "Wekelijkse groep waar ouders elkaar ontmoeten, ervaringen delen en vragen rond hun kind en opvoeding kunnen bespreken.",
+      "audience": "Ouders met jonge kinderen.",
+      "access": "Wekelijks op woensdagochtend bij Boerderij Stakenboer volgens de actuele agenda.",
+      "costs": "Controleer eventuele kosten bij Impuls.",
+      "address": "Burgemeester Wallerstraat 115",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-oldenzaal-soofi",
+      "name": "Impuls · Soofi bewegen en ontmoeten",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/soofi-bewegen-en-ontmoeten/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "wandelen"
+      ],
+      "tags": [
+        "bewegen",
+        "wandelen",
+        "balans",
+        "spierkracht",
+        "ontmoeten",
+        "gratis"
+      ],
+      "guidePaths": [
+        "ontmoeten/bewegen"
+      ],
+      "description": "Wekelijkse laagdrempelige beweeggroep in de buitenlucht met wandelen en eenvoudige oefeningen voor spierkracht en balans.",
+      "audience": "Iedereen die samen met buurtgenoten wil bewegen.",
+      "access": "Iedere donderdag om 10.00 uur; aanmelden via Impuls.",
+      "costs": "Gratis.",
+      "address": "Ada Kokstraat",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/soofi-bewegen-en-ontmoeten/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-oldenzaal-creatief-cafe",
+      "name": "Impuls · Creatief Café",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "creatief",
+        "daginvulling"
+      ],
+      "tags": [
+        "creatief",
+        "schilderen",
+        "tekenen",
+        "haken",
+        "breien",
+        "naaien",
+        "ontmoeten"
+      ],
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ],
+      "description": "Creatieve inloop om samen te tekenen, schilderen, breien, haken, naaien of met een andere eigen hobby bezig te zijn.",
+      "audience": "Inwoners die graag creatief bezig zijn en anderen willen ontmoeten.",
+      "access": "Iedere even maandag van de maand van 09.30 tot 12.00 uur.",
+      "costs": "€3,50 per keer inclusief koffie/thee en iets lekkers.",
+      "address": "Wilhelminastraat 5",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
+      "mapPin": true
     }
   ],
   "addressEnrichmentVersion": 1,
