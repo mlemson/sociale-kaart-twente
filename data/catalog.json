@@ -16492,11 +16492,10 @@
       "advies"
     ],
     "sources": [
-      "https://www.thechessclub.nl/hulp-nodig/power",
+      "https://www.m-pact.nl/o/Power-Enschede",
       "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
-      "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
-      "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
-      "https://www.m-pact.nl/o/Power-Zuid"
+      "https://www.m-pact.nl/o/Power-Zuid",
+      "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet"
     ],
     "offerCount": 10,
     "reviewNeeded": 0,
@@ -16576,18 +16575,18 @@
         "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
         "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
         "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
-        "source": "https://www.thechessclub.nl/hulp-nodig/power",
+        "source": "https://www.m-pact.nl/o/Power-Enschede",
         "sourceKind": "first-party",
         "sourceTitle": "Power Enschede",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Zaanstraat 22",
-        "postcode": "7523HC",
+        "address": "Olympialaan 20",
+        "postcode": "7541BK",
         "town": "Enschede",
-        "lat": 52.23976464,
-        "lon": 6.88626963,
+        "lat": 52.20672753,
+        "lon": 6.90826728,
         "locationType": "visiting",
-        "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+        "locationSource": "https://www.m-pact.nl/o/Power-Enschede/activiteiten/Vrijwilliger-Nederlandse-les-Power-Oost/28771",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": true
@@ -16785,7 +16784,7 @@
         "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
         "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
         "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
-        "source": "https://www.thechessclub.nl/hulp-nodig/power",
+        "source": "https://www.m-pact.nl/o/Power-Enschede",
         "sourceKind": "first-party",
         "sourceTitle": "Power Enschede",
         "checked": "2026-10-02",
@@ -16796,7 +16795,7 @@
         "lat": 52.23976464,
         "lon": 6.88626963,
         "locationType": "visiting",
-        "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+        "locationSource": "https://www.m-pact.nl/o/Power-Enschede",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": true
@@ -16835,13 +16834,13 @@
         "sourceTitle": "Power Enschede",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Zaanstraat 22",
-        "postcode": "7523HC",
+        "address": "Plataanstraat 50",
+        "postcode": "7545MN",
         "town": "Enschede",
-        "lat": 52.23976464,
-        "lon": 6.88626963,
+        "lat": 52.2152973,
+        "lon": 6.86596047,
         "locationType": "visiting",
-        "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+        "locationSource": "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": true
@@ -16916,36 +16915,36 @@
         "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
         "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
         "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
-        "source": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
+        "source": "https://www.m-pact.nl/o/Power-Zuid",
         "sourceKind": "first-party",
         "sourceTitle": "Power Enschede",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Zaanstraat 22",
-        "postcode": "7523HC",
+        "address": "Het Lang 78",
+        "postcode": "7544XC",
         "town": "Enschede",
-        "lat": 52.23976464,
-        "lon": 6.88626963,
+        "lat": 52.19574097,
+        "lon": 6.88257941,
         "locationType": "visiting",
-        "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+        "locationSource": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": true
       }
     ],
     "location": {
-      "address": "Zaanstraat 22",
-      "postcode": "7523HC",
+      "address": "Het Lang 78",
+      "postcode": "7544XC",
       "town": "Enschede",
-      "lat": 52.23976464,
-      "lon": 6.88626963,
+      "lat": 52.19574097,
+      "lon": 6.88257941,
       "locationMunicipality": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+      "locationSource": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
       "mapLocationType": "address"
     },
     "status": "source-backed",
-    "primarySource": "https://www.thechessclub.nl/hulp-nodig/power"
+    "primarySource": "https://www.m-pact.nl/o/Power-Enschede"
   },
   {
     "id": "org-realcovery-inloophuis-locatie-almelo-65scv5",
@@ -26130,6 +26129,666 @@
     },
     "status": "review-needed",
     "primarySource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/aanstaande-ouders-kansrijke-kaart"
+  },
+  {
+    "id": "org-wijkteams-enschede-1abi5nx",
+    "organization": "Wijkteams Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "jeugd",
+      "mentaal",
+      "ontmoeten",
+      "mantelzorg",
+      "advies",
+      "geld"
+    ],
+    "sources": [
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/piep-zei-de-muis/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/billy-boem/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/kinderen-echtscheidingssituaties-kies/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/sociale-vaardigheidstraining-voor-kinderen/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/sociale-vaardigheidstraining-jongeren/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/goldsteintraining/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/opkomen-voor-jezelf-voor-mannen-en-vrouwen/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/opkomen-voor-jezelf-voor-vrouwen/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/rouw-en-verlies/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/mantelzorger-balans/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/zelfstandig-wonen/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/sterker/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/gericht-op-de-toekomst/",
+      "https://www.wijkteamsenschede.nl/trainingen-en-groepen/houd-me-vast/"
+    ],
+    "offerCount": 14,
+    "reviewNeeded": 0,
+    "sourceBacked": 14,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "candidate-20261002-wijkteams-billy-boem",
+        "title": "Billy Boem",
+        "name": "Wijkteams Enschede · Billy Boem",
+        "description": "Training voor kinderen van 8 tot en met 12 jaar die thuis veel spanning en stress ervaren.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "mentaal"
+        ],
+        "subthemes": [
+          "stress thuis",
+          "gevoelens",
+          "weerbaarheid"
+        ],
+        "tags": [
+          "jeugd",
+          "mentaal",
+          "stress",
+          "gezin"
+        ],
+        "audience": "Kinderen van 8 t/m 12 jaar die extra steun kunnen gebruiken bij spanning en stress thuis.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Wijkteams Enschede; vooraf is er een kennismakingsgesprek met ouder(s) of verzorger(s).",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/billy-boem/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "contact",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-gericht-toekomst",
+        "title": "Gericht op de Toekomst",
+        "name": "Wijkteams Enschede · Gericht op de Toekomst",
+        "description": "Groep gericht op herstel na relationeel geweld, grenzen stellen, zelfbeeld en het voorkomen van herhaling.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal"
+        ],
+        "subthemes": [
+          "relationeel geweld",
+          "grenzen",
+          "herstel"
+        ],
+        "tags": [
+          "mentaal",
+          "relationeel geweld",
+          "vrouwen",
+          "herstel"
+        ],
+        "audience": "Vrouwen vanaf 22 jaar die relationeel geweld hebben meegemaakt en bij wie het geweld gestopt is.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Wijkteams Enschede. Naast de groep is contact met een hulpverlener nodig.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/gericht-op-de-toekomst/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "contact",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-houd-me-vast",
+        "title": "Houd me Vast",
+        "name": "Wijkteams Enschede · Houd me Vast",
+        "description": "Relatietraining voor stellen die hun communicatie en verbinding willen versterken en terugkerende patronen willen doorbreken.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "jeugd"
+        ],
+        "subthemes": [
+          "relatie",
+          "ouders",
+          "communicatie"
+        ],
+        "tags": [
+          "advies",
+          "relatie",
+          "ouders",
+          "gezin"
+        ],
+        "audience": "Stellen uit Enschede, met name ouders met kinderen, die willen investeren in hun relatie.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via trainingen@wijkteamsenschede.nl; na aanmelding volgt een gesprek.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/houd-me-vast/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Noordhollandstraat 4",
+        "postcode": "7543WB",
+        "town": "Enschede",
+        "lat": 52.20502893,
+        "lon": 6.88230934,
+        "locationType": "visiting",
+        "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-kies",
+        "title": "KIES",
+        "name": "Wijkteams Enschede · KIES",
+        "description": "Spel- en praatgroep voor kinderen die de scheiding van hun ouders meemaken.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "mentaal"
+        ],
+        "subthemes": [
+          "scheiding",
+          "gevoelens",
+          "kinderen"
+        ],
+        "tags": [
+          "jeugd",
+          "scheiding",
+          "gezin"
+        ],
+        "audience": "Kinderen van groep 4 t/m 8 die een scheiding van hun ouders meemaken.",
+        "costs": "Gratis.",
+        "access": "Aanmelding loopt via de interne begeleider op school. De training wordt op verschillende scholen en IKC's in Enschede aangeboden.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/kinderen-echtscheidingssituaties-kies/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "contact",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-mantelzorger-balans",
+        "title": "Mantelzorger in balans",
+        "name": "Wijkteams Enschede · Mantelzorger in balans",
+        "description": "Training over de balans tussen zorgen voor een ander en zorgen voor jezelf, energie en grenzen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mantelzorg",
+        "themes": [
+          "mantelzorg",
+          "mentaal"
+        ],
+        "subthemes": [
+          "grenzen",
+          "balans",
+          "zelfzorg"
+        ],
+        "tags": [
+          "mantelzorg",
+          "zelfzorg",
+          "balans"
+        ],
+        "audience": "Mantelzorgers van 20 jaar en ouder.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/mantelzorger-balans/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "visiting",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-opkomen-volwassenen",
+        "title": "Opkomen voor jezelf",
+        "name": "Wijkteams Enschede · Opkomen voor jezelf",
+        "description": "Assertiviteitstraining over communicatie, grenzen aangeven, nee zeggen, omgaan met spanning en kritiek.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal"
+        ],
+        "subthemes": [
+          "assertiviteit",
+          "grenzen",
+          "stress",
+          "zelfvertrouwen"
+        ],
+        "tags": [
+          "mentaal",
+          "assertiviteit",
+          "zelfvertrouwen",
+          "grenzen"
+        ],
+        "audience": "Volwassenen vanaf 18 jaar die moeite hebben met grenzen, onzekerheid of opkomen voor zichzelf.",
+        "costs": "Gratis.",
+        "access": "Rechtstreeks aanmelden via Wijkteams Enschede; na aanmelding volgt een passendheidsgesprek.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/opkomen-voor-jezelf-voor-mannen-en-vrouwen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "visiting",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-opkomen-vrouwen",
+        "title": "Opkomen voor jezelf voor vrouwen",
+        "name": "Wijkteams Enschede · Opkomen voor jezelf voor vrouwen",
+        "description": "Assertiviteitstraining gericht op grenzen stellen, voor je mening uitkomen en omgaan met kritiek en complimenten.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal"
+        ],
+        "subthemes": [
+          "assertiviteit",
+          "grenzen",
+          "zelfvertrouwen"
+        ],
+        "tags": [
+          "mentaal",
+          "assertiviteit",
+          "zelfvertrouwen",
+          "vrouwen"
+        ],
+        "audience": "Vrouwen vanaf 20 jaar die willen leren beter voor zichzelf op te komen.",
+        "costs": "Gratis.",
+        "access": "Rechtstreeks aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/opkomen-voor-jezelf-voor-vrouwen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "visiting",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-piep",
+        "title": "Piep zei de Muis",
+        "name": "Wijkteams Enschede · Piep zei de Muis",
+        "description": "Training voor kinderen van 4 tot en met 7 jaar die thuis of in hun directe omgeving veel spanning en stress meemaken.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "mentaal"
+        ],
+        "subthemes": [
+          "stress thuis",
+          "gevoelens",
+          "weerbaarheid"
+        ],
+        "tags": [
+          "jeugd",
+          "mentaal",
+          "stress",
+          "gezin"
+        ],
+        "audience": "Kinderen van 4 t/m 7 jaar die extra steun kunnen gebruiken bij spanning en stress thuis.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Wijkteams Enschede; vooraf is er een kennismakingsgesprek met ouder(s) of verzorger(s).",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/piep-zei-de-muis/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Roomweg 167D",
+        "postcode": "7523BM",
+        "town": "Enschede",
+        "lat": 52.23192595,
+        "lon": 6.89612155,
+        "locationType": "visiting",
+        "locationSource": "https://prismare.nl/contact",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-rouw-verlies",
+        "title": "Rouw en verlies",
+        "name": "Wijkteams Enschede · Rouw en verlies",
+        "description": "Groep over omgaan met rouw en verlies, gevoelens en het verlies een plek geven.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "rouw",
+          "verlies",
+          "lotgenoten"
+        ],
+        "tags": [
+          "mentaal",
+          "rouw",
+          "verlies",
+          "lotgenoten"
+        ],
+        "audience": "Volwassenen vanaf 18 jaar die een dierbare door overlijden hebben verloren en daar dagelijks last van hebben.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/rouw-en-verlies/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "visiting",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-sociaal-vaardig",
+        "title": "Sociaal Vaardig",
+        "name": "Wijkteams Enschede · Sociaal Vaardig",
+        "description": "Praktische training waarin deelnemers sociale vaardigheden oefenen, zoals luisteren, een gesprek voeren, nee zeggen en omgaan met kritiek.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "sociale vaardigheden",
+          "communicatie",
+          "weerbaarheid"
+        ],
+        "tags": [
+          "mentaal",
+          "sociale vaardigheden",
+          "communicatie"
+        ],
+        "audience": "Volwassenen vanaf 18 jaar die vooral leren door te doen.",
+        "costs": "Gratis.",
+        "access": "Rechtstreeks aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek om te kijken of de training past.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/goldsteintraining/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "visiting",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-sova-jongeren",
+        "title": "sociale vaardigheidstraining jongeren",
+        "name": "Wijkteams Enschede · sociale vaardigheidstraining jongeren",
+        "description": "Training voor jongeren om sociale vaardigheden, zelfvertrouwen, grenzen stellen en opkomen voor jezelf te versterken.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "mentaal"
+        ],
+        "subthemes": [
+          "sociale vaardigheden",
+          "zelfvertrouwen",
+          "weerbaarheid"
+        ],
+        "tags": [
+          "jeugd",
+          "sociale vaardigheden",
+          "zelfvertrouwen"
+        ],
+        "audience": "Jongeren van 12 t/m 17 jaar op het voortgezet onderwijs in Enschede.",
+        "costs": "Gratis.",
+        "access": "Aanmelden loopt via de wijkcoach op school, bijvoorbeeld via mentor of leerlingbegeleider.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/sociale-vaardigheidstraining-jongeren/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "contact",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-sova-kinderen",
+        "title": "sociale vaardigheidstraining kinderen",
+        "name": "Wijkteams Enschede · sociale vaardigheidstraining kinderen",
+        "description": "Training gericht op sociale vaardigheden, zelfvertrouwen, omgaan met kritiek en opkomen voor jezelf.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "mentaal"
+        ],
+        "subthemes": [
+          "sociale vaardigheden",
+          "zelfvertrouwen",
+          "weerbaarheid"
+        ],
+        "tags": [
+          "jeugd",
+          "sociale vaardigheden",
+          "zelfvertrouwen"
+        ],
+        "audience": "Kinderen uit groep 6, 7 en 8 van basisscholen in Enschede.",
+        "costs": "Gratis.",
+        "access": "Aanmelden kan uitsluitend via de interne begeleider of schoolwijkcoach.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/sociale-vaardigheidstraining-voor-kinderen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "contact",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-sterker",
+        "title": "STERker",
+        "name": "Wijkteams Enschede · STERker",
+        "description": "Verwerkingsgroep voor vrouwen die in hun jeugd seksueel misbruikt zijn.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal"
+        ],
+        "subthemes": [
+          "trauma",
+          "seksueel geweld",
+          "lotgenoten"
+        ],
+        "tags": [
+          "mentaal",
+          "trauma",
+          "seksueel geweld",
+          "vrouwen"
+        ],
+        "audience": "Vrouwen vanaf 23 jaar die in hun jeugd seksueel misbruikt zijn.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek om te kijken of de groep passend is.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/sterker/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "contact",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-wijkteams-zelfstandig-wonen",
+        "title": "Zelfstandig wonen",
+        "name": "Wijkteams Enschede · Zelfstandig wonen",
+        "description": "Praktische training over zelfstandig wonen, inkomsten en uitgaven, verzekeringen, huishouden, boodschappen en vrije tijd.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "geld",
+          "jeugd"
+        ],
+        "subthemes": [
+          "wonen",
+          "huishouden",
+          "administratie"
+        ],
+        "tags": [
+          "advies",
+          "wonen",
+          "geld",
+          "jongvolwassenen"
+        ],
+        "audience": "Jongvolwassenen vanaf 18 jaar die zelfstandig willen gaan wonen of al zelfstandig wonen.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek.",
+        "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/zelfstandig-wonen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkteams Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61A",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "visiting",
+        "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Laaressingel 61A",
+      "postcode": "7514EL",
+      "town": "Enschede",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/piep-zei-de-muis/"
   },
   {
     "id": "org-wijkwijzer-enschede-jrixo6",

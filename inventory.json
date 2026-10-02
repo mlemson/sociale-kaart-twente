@@ -17701,7 +17701,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.m-pact.nl/o/Power-Enschede",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.23976464,
+      "lon": 6.88626963,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -17744,7 +17749,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.m-pact.nl/o/Power-Enschede/activiteiten/Vrijwilliger-Nederlandse-les-Power-Oost/28771",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.20672753,
+      "lon": 6.90826728,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -17787,7 +17797,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.2152973,
+      "lon": 6.86596047,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -17830,7 +17845,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.19574097,
+      "lon": 6.88257941,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26468,7 +26488,12 @@
       ],
       "description": "Training voor kinderen van 4 tot en met 7 jaar die thuis of in hun directe omgeving veel spanning en stress meemaken.",
       "audience": "Kinderen van 4 t/m 7 jaar die extra steun kunnen gebruiken bij spanning en stress thuis.",
-      "access": "Aanmelden via Wijkteams Enschede; vooraf is er een kennismakingsgesprek met ouder(s) of verzorger(s)."
+      "access": "Aanmelden via Wijkteams Enschede; vooraf is er een kennismakingsgesprek met ouder(s) of verzorger(s).",
+      "lat": 52.23192595,
+      "lon": 6.89612155,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26481,7 +26506,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "contact",
@@ -26509,7 +26534,12 @@
       ],
       "description": "Training voor kinderen van 8 tot en met 12 jaar die thuis veel spanning en stress ervaren.",
       "audience": "Kinderen van 8 t/m 12 jaar die extra steun kunnen gebruiken bij spanning en stress thuis.",
-      "access": "Aanmelden via Wijkteams Enschede; vooraf is er een kennismakingsgesprek met ouder(s) of verzorger(s)."
+      "access": "Aanmelden via Wijkteams Enschede; vooraf is er een kennismakingsgesprek met ouder(s) of verzorger(s).",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26522,7 +26552,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "contact",
@@ -26549,7 +26579,12 @@
       ],
       "description": "Spel- en praatgroep voor kinderen die de scheiding van hun ouders meemaken.",
       "audience": "Kinderen van groep 4 t/m 8 die een scheiding van hun ouders meemaken.",
-      "access": "Aanmelding loopt via de interne begeleider op school. De training wordt op verschillende scholen en IKC's in Enschede aangeboden."
+      "access": "Aanmelding loopt via de interne begeleider op school. De training wordt op verschillende scholen en IKC's in Enschede aangeboden.",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26562,7 +26597,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "contact",
@@ -26589,7 +26624,12 @@
       ],
       "description": "Training gericht op sociale vaardigheden, zelfvertrouwen, omgaan met kritiek en opkomen voor jezelf.",
       "audience": "Kinderen uit groep 6, 7 en 8 van basisscholen in Enschede.",
-      "access": "Aanmelden kan uitsluitend via de interne begeleider of schoolwijkcoach."
+      "access": "Aanmelden kan uitsluitend via de interne begeleider of schoolwijkcoach.",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26602,7 +26642,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "contact",
@@ -26629,7 +26669,12 @@
       ],
       "description": "Training voor jongeren om sociale vaardigheden, zelfvertrouwen, grenzen stellen en opkomen voor jezelf te versterken.",
       "audience": "Jongeren van 12 t/m 17 jaar op het voortgezet onderwijs in Enschede.",
-      "access": "Aanmelden loopt via de wijkcoach op school, bijvoorbeeld via mentor of leerlingbegeleider."
+      "access": "Aanmelden loopt via de wijkcoach op school, bijvoorbeeld via mentor of leerlingbegeleider.",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26642,7 +26687,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "visiting",
@@ -26669,7 +26714,12 @@
       ],
       "description": "Praktische training waarin deelnemers sociale vaardigheden oefenen, zoals luisteren, een gesprek voeren, nee zeggen en omgaan met kritiek.",
       "audience": "Volwassenen vanaf 18 jaar die vooral leren door te doen.",
-      "access": "Rechtstreeks aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek om te kijken of de training past."
+      "access": "Rechtstreeks aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek om te kijken of de training past.",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26682,7 +26732,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "visiting",
@@ -26710,7 +26760,12 @@
       ],
       "description": "Assertiviteitstraining over communicatie, grenzen aangeven, nee zeggen, omgaan met spanning en kritiek.",
       "audience": "Volwassenen vanaf 18 jaar die moeite hebben met grenzen, onzekerheid of opkomen voor zichzelf.",
-      "access": "Rechtstreeks aanmelden via Wijkteams Enschede; na aanmelding volgt een passendheidsgesprek."
+      "access": "Rechtstreeks aanmelden via Wijkteams Enschede; na aanmelding volgt een passendheidsgesprek.",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26723,7 +26778,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "visiting",
@@ -26750,7 +26805,12 @@
       ],
       "description": "Assertiviteitstraining gericht op grenzen stellen, voor je mening uitkomen en omgaan met kritiek en complimenten.",
       "audience": "Vrouwen vanaf 20 jaar die willen leren beter voor zichzelf op te komen.",
-      "access": "Rechtstreeks aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek."
+      "access": "Rechtstreeks aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek.",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26763,7 +26823,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "visiting",
@@ -26791,7 +26851,12 @@
       ],
       "description": "Groep over omgaan met rouw en verlies, gevoelens en het verlies een plek geven.",
       "audience": "Volwassenen vanaf 18 jaar die een dierbare door overlijden hebben verloren en daar dagelijks last van hebben.",
-      "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek."
+      "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek.",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26804,7 +26869,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "visiting",
@@ -26831,7 +26896,12 @@
       ],
       "description": "Training over de balans tussen zorgen voor een ander en zorgen voor jezelf, energie en grenzen.",
       "audience": "Mantelzorgers van 20 jaar en ouder.",
-      "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek."
+      "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek.",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26844,7 +26914,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "visiting",
@@ -26873,7 +26943,12 @@
       ],
       "description": "Praktische training over zelfstandig wonen, inkomsten en uitgaven, verzekeringen, huishouden, boodschappen en vrije tijd.",
       "audience": "Jongvolwassenen vanaf 18 jaar die zelfstandig willen gaan wonen of al zelfstandig wonen.",
-      "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek."
+      "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek.",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26886,7 +26961,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "contact",
@@ -26913,7 +26988,12 @@
       ],
       "description": "Verwerkingsgroep voor vrouwen die in hun jeugd seksueel misbruikt zijn.",
       "audience": "Vrouwen vanaf 23 jaar die in hun jeugd seksueel misbruikt zijn.",
-      "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek om te kijken of de groep passend is."
+      "access": "Aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek om te kijken of de groep passend is.",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26926,7 +27006,7 @@
       ],
       "municipality": "Enschede",
       "costs": "Gratis.",
-      "address": "Laaressingel 61",
+      "address": "Laaressingel 61A",
       "postcode": "7514EL",
       "town": "Enschede",
       "locationType": "contact",
@@ -26953,7 +27033,12 @@
       ],
       "description": "Groep gericht op herstel na relationeel geweld, grenzen stellen, zelfbeeld en het voorkomen van herhaling.",
       "audience": "Vrouwen vanaf 22 jaar die relationeel geweld hebben meegemaakt en bij wie het geweld gestopt is.",
-      "access": "Aanmelden via Wijkteams Enschede. Naast de groep is contact met een hulpverlener nodig."
+      "access": "Aanmelden via Wijkteams Enschede. Naast de groep is contact met een hulpverlener nodig.",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26994,7 +27079,12 @@
       ],
       "description": "Relatietraining voor stellen die hun communicatie en verbinding willen versterken en terugkerende patronen willen doorbreken.",
       "audience": "Stellen uit Enschede, met name ouders met kinderen, die willen investeren in hun relatie.",
-      "access": "Aanmelden via trainingen@wijkteamsenschede.nl; na aanmelding volgt een gesprek."
+      "access": "Aanmelden via trainingen@wijkteamsenschede.nl; na aanmelding volgt een gesprek.",
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     }
   ],
   "sources": [

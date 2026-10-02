@@ -4104,16 +4104,16 @@
     "id": "offer-candidate-20261002-power-centrum-oost",
     "name": "Power Enschede · Centrum-Oost",
     "category": "ontmoeten",
-    "address": "Zaanstraat 22",
-    "postcode": "7523HC",
+    "address": "Olympialaan 20",
+    "postcode": "7541BK",
     "town": "Enschede",
     "municipality": "Enschede",
     "serviceMunicipalities": [
       "Enschede"
     ],
-    "lat": 52.23976464,
-    "lon": 6.88626963,
-    "source": "https://www.thechessclub.nl/hulp-nodig/power",
+    "lat": 52.20672753,
+    "lon": 6.90826728,
+    "source": "https://www.m-pact.nl/o/Power-Enschede",
     "checked": "2026-10-02",
     "tags": [
       "ontmoeten",
@@ -4136,7 +4136,7 @@
     "phone": "",
     "email": "",
     "locationType": "visiting",
-    "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+    "locationSource": "https://www.m-pact.nl/o/Power-Enschede/activiteiten/Vrijwilliger-Nederlandse-les-Power-Oost/28771",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-power-enschede-1tp85zf"
   },
@@ -4153,7 +4153,7 @@
     ],
     "lat": 52.23976464,
     "lon": 6.88626963,
-    "source": "https://www.thechessclub.nl/hulp-nodig/power",
+    "source": "https://www.m-pact.nl/o/Power-Enschede",
     "checked": "2026-10-02",
     "tags": [
       "ontmoeten",
@@ -4176,7 +4176,7 @@
     "phone": "",
     "email": "",
     "locationType": "visiting",
-    "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+    "locationSource": "https://www.m-pact.nl/o/Power-Enschede",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-power-enschede-1tp85zf"
   },
@@ -4184,15 +4184,15 @@
     "id": "offer-candidate-20261002-power-royael",
     "name": "Power Enschede · Royael",
     "category": "ontmoeten",
-    "address": "Zaanstraat 22",
-    "postcode": "7523HC",
+    "address": "Plataanstraat 50",
+    "postcode": "7545MN",
     "town": "Enschede",
     "municipality": "Enschede",
     "serviceMunicipalities": [
       "Enschede"
     ],
-    "lat": 52.23976464,
-    "lon": 6.88626963,
+    "lat": 52.2152973,
+    "lon": 6.86596047,
     "source": "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
     "checked": "2026-10-02",
     "tags": [
@@ -4216,7 +4216,7 @@
     "phone": "",
     "email": "",
     "locationType": "visiting",
-    "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+    "locationSource": "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-power-enschede-1tp85zf"
   },
@@ -4224,16 +4224,16 @@
     "id": "offer-candidate-20261002-power-zuid",
     "name": "Power Enschede · Zuid",
     "category": "ontmoeten",
-    "address": "Zaanstraat 22",
-    "postcode": "7523HC",
+    "address": "Het Lang 78",
+    "postcode": "7544XC",
     "town": "Enschede",
     "municipality": "Enschede",
     "serviceMunicipalities": [
       "Enschede"
     ],
-    "lat": 52.23976464,
-    "lon": 6.88626963,
-    "source": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
+    "lat": 52.19574097,
+    "lon": 6.88257941,
+    "source": "https://www.m-pact.nl/o/Power-Zuid",
     "checked": "2026-10-02",
     "tags": [
       "ontmoeten",
@@ -4256,7 +4256,7 @@
     "phone": "",
     "email": "",
     "locationType": "visiting",
-    "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+    "locationSource": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-power-enschede-1tp85zf"
   },
@@ -9644,6 +9644,42 @@
     "locationSource": "https://www.wijkrachtborne.nl/jmz",
     "mapLocationType": "service-area",
     "catalogOrganizationId": "org-wijkracht-borne-1vcxyoy"
+  },
+  {
+    "id": "catalog-org-wijkteams-enschede-1abi5nx",
+    "name": "Wijkteams Enschede",
+    "category": "jeugd",
+    "address": "Laaressingel 61A",
+    "postcode": "7514EL",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22841574,
+    "lon": 6.90218641,
+    "source": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/piep-zei-de-muis/",
+    "checked": "2026-10-02",
+    "tags": [
+      "jeugd",
+      "mentaal",
+      "ontmoeten",
+      "mantelzorg",
+      "advies",
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Locatie voor Wijkteams Enschede. Via de bron zijn 14 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Kinderen van 8 t/m 12 jaar die extra steun kunnen gebruiken bij spanning en stress thuis.",
+    "costs": "Gratis.",
+    "access": "Aanmelden via Wijkteams Enschede; vooraf is er een kennismakingsgesprek met ouder(s) of verzorger(s).",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.wijkteamsenschede.nl/contact/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-wijkteams-enschede-1abi5nx"
   },
   {
     "id": "catalog-org-wilbertsoos-1u5m1g8",
