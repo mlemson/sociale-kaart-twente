@@ -21406,7 +21406,7 @@
       "status": "candidate",
       "id": "candidate-20261002-swtd-terra-nova",
       "name": "Sociaal, dat werkt! · Inloop Terra Nova Tilligte",
-      "source": "https://swtd.nl/agenda/",
+      "source": "https://www.zorggroepsintmaarten.nl/welzijn-en-dagbesteding-voor-ouderen/overzicht-dagvoorzieningen/de-inloop-in-terra-nova-te-tilligte/",
       "sourceTitle": "Sociaal, dat werkt!",
       "municipalities": [
         "Dinkelland"
@@ -21430,24 +21430,19 @@
       ],
       "description": "Inloop in MFA Terra Nova voor senioren die sociale contacten willen opdoen, met activiteiten, lichte begeleiding en een gezamenlijke lunch.",
       "audience": "Senioren uit Dinkelland die behoefte hebben aan gezelligheid, structuur of ondersteuning.",
-      "access": "Wekelijkse inloop; neem bij vragen over deelname of vervoer contact op met de coördinator.",
-      "costs": "De actuele agenda vermeldt dat deelname laagdrempelig is; controleer de bijdrage per datum, omdat SWTD verschillende vermeldingen toont.",
-      "address": "Wiemselweg 5A",
+      "access": "Inloop voor senioren uit Dinkelland; de aanbieder vermeldt dinsdag en donderdag van 10.00 tot 14.00 uur.",
+      "costs": "Eigen bijdrage €12,50; volgens de aanbieder inclusief lunch en koffie/thee.",
+      "address": "Kerkweg 3",
       "town": "Tilligte",
       "locationType": "visiting",
-      "locationSource": "https://swtd.nl/agenda/",
+      "locationSource": "https://www.zorggroepsintmaarten.nl/welzijn-en-dagbesteding-voor-ouderen/overzicht-dagvoorzieningen/de-inloop-in-terra-nova-te-tilligte/",
       "mapPin": true,
       "openingHours": "Dinsdag 10.00-14.00 uur volgens de actuele agenda.",
-      "postcode": "7634PX",
+      "postcode": "7634PL",
       "guidePaths": [
         "ontmoeten/inloop",
         "meedoen/daginvulling"
-      ],
-      "lat": 52.40797699,
-      "lon": 6.93544161,
-      "locationMunicipality": "Dinkelland",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      ]
     },
     {
       "sourceKind": "first-party",
