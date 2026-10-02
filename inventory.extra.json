@@ -1,6 +1,6 @@
 {
   "checked": "2026-10-02",
-  "method": "Aanvullende, handmatig onderzochte concrete trainingen, inlopen, cursussen en daginvulling zonder indicatie. Wordt automatisch gegeocodeerd en samengevoegd met inventory.json.",
+  "method": "Aanvullende, handmatig onderzochte én systematisch uit officiële gemeentelijke sociale kaarten, welzijnskalenders en eerstelijns aanbieders gevonden voorliggende voorzieningen. Focus: gratis/vrij toegankelijke inloop, algemene Wmo-voorzieningen, daginvulling zonder indicatie, lotgenotencontact, opvoedsteun en praktische hulp.",
   "sources": [
     {
       "title": "Stichting De Welle",
@@ -400,6 +400,120 @@
       "url": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
       "municipalities": [
         "Oldenzaal"
+      ]
+    },
+    {
+      "title": "De Viermarken",
+      "url": "https://viermarken.nl/werken-bij/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Kick ASS Enschede",
+      "url": "https://www.kickass-enschede.nl/cafe/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "De Posten · dagopvang en ontmoeten",
+      "url": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "De Posten · algemene voorzieningen",
+      "url": "https://kwaliteitinbeeld.deposten.nl/onze-basis",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Sociaal Plein Almelo",
+      "url": "https://socialekaart.almelo.nl/is/organisatie/329199/invis2/sociaal-plein-almelo-de-inloop",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Almelo Sociaal",
+      "url": "https://almelosociaal.nl/",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Fundament Losser · MamaPapacafé",
+      "url": "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "SWTD · activiteiten en cursussen",
+      "url": "https://swtd.nl/ons-aanbod/ouder-worden/activiteiten-en-cursussen/",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "SWTD · actuele agenda",
+      "url": "https://swtd.nl/agenda/",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "Tubbergen Verbindt",
+      "url": "https://tubbergenverbindt.nl/",
+      "municipalities": [
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "Gemeente Almelo · wijkteams",
+      "url": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Avedan · wijkondersteuning",
+      "url": "https://www.avedan.nl/gemeentepagina/wijkondersteuning/",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Gemeente Rijssen-Holten · Sociaal VraagPlein",
+      "url": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand · Zorginformatiepunten",
+      "url": "https://www.zorgsaamtwenterand.nl/contact/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "Gemeente Twenterand · vrij toegankelijk ondersteuningsaanbod",
+      "url": "https://www.twenterand.nl/vrij-toegankelijk-ondersteuningsaanbod",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "Gemeente Almelo · ontmoetingsplekken",
+      "url": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "municipalities": [
+        "Almelo"
       ]
     }
   ],
@@ -1352,48 +1466,6 @@
       "guidePaths": [
         "onderwijs/jongeren"
       ]
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
-      "id": "extra-20261002-fundament-mamapapacaf-",
-      "name": "Fundament Losser · MamaPapacafé",
-      "source": "https://www.fundamentlosser.nl/agenda/",
-      "sourceTitle": "Fundament Losser",
-      "municipalities": [
-        "Losser"
-      ],
-      "municipality": "Losser",
-      "category": "jeugd",
-      "primaryTheme": "jeugd",
-      "themes": [
-        "jeugd"
-      ],
-      "subthemes": [
-        "terugkerende activiteit"
-      ],
-      "tags": [
-        "jeugd",
-        "activiteit",
-        "ontmoeten"
-      ],
-      "description": "Laagdrempelige terugkerende ontmoeting voor ouders en jonge kinderen.",
-      "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
-      "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
-      "costs": "Controleer de actuele activiteit.",
-      "address": "Raadhuisplein 1",
-      "postcode": "7581AG",
-      "town": "Losser",
-      "lat": 52.26284211,
-      "lon": 7.00588809,
-      "locationMunicipality": "Losser",
-      "locationType": "contact",
-      "locationSource": "https://www.fundamentlosser.nl/contact/",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -7514,11 +7586,1678 @@
       "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
       "mapLocationType": "address",
       "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-viermarken-algemene-voorziening",
+      "name": "De Viermarken · dagbesteding / participatieboerderij",
+      "source": "https://viermarken.nl/werken-bij/",
+      "sourceTitle": "De Viermarken",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten",
+        "vrijwillig"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "participatie",
+        "werkervaring",
+        "groen"
+      ],
+      "tags": [
+        "dagbesteding",
+        "algemene voorziening",
+        "zonder indicatie",
+        "boerderij",
+        "participatie",
+        "vrijwilligerswerk",
+        "buiten",
+        "werkervaring"
+      ],
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ],
+      "description": "Participatieboerderij met begeleide, zinvolle werkzaamheden in onder meer dierenzorg, tuin, winkel, bezorging en hout- of metaalwerk. De Viermarken is voor inwoners van Enschede een algemene voorziening en biedt laagdrempelige instroom.",
+      "audience": "Inwoners van Enschede die ondersteuning, structuur, sociale contacten en zinvolle daginvulling nodig hebben. Voor inwoners uit andere Twentse gemeenten kan De Viermarken via maatwerk of andere financiering toegankelijk zijn.",
+      "access": "Neem rechtstreeks contact op met De Viermarken voor een intake. Voor inwoners van Enschede is dit een algemene voorziening met laagdrempelige instroom.",
+      "costs": "Voor inwoners van Enschede geen eigen bijdrage aan het CAK volgens De Viermarken. Buiten Enschede gelden andere financieringsroutes.",
+      "address": "Viermarkenweg 85A",
+      "postcode": "7522LC",
+      "town": "Enschede",
+      "phone": "053 435 95 72",
+      "email": "info@viermarken.nl",
+      "locationType": "visiting",
+      "locationSource": "https://viermarken.nl/contact/",
+      "mapPin": true,
+      "lat": 52.2397199,
+      "lon": 6.86796556,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-kickass-cafe",
+      "name": "Kick ASS Enschede · autisme café",
+      "source": "https://www.kickass-enschede.nl/cafe/",
+      "sourceTitle": "Stichting Kick ASS Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "autisme",
+        "neurodiversiteit",
+        "lotgenoten",
+        "prikkelarm"
+      ],
+      "tags": [
+        "autisme",
+        "ASS",
+        "neurodiversiteit",
+        "lotgenoten",
+        "ontmoeten",
+        "gratis",
+        "zonder diagnose",
+        "prikkelarm"
+      ],
+      "guidePaths": [
+        "mentaal/lotgenoten",
+        "mentaal/eenzaamheid",
+        "ontmoeten/inloop"
+      ],
+      "description": "Prikkelarme, laagdrempelige ontmoetingsavond voor volwassenen met autisme of een vermoeden daarvan. Er is ruimte voor gesprek, spellen en contact op een eigen tempo; een buddy mag mee.",
+      "audience": "Volwassenen met autisme of een vermoeden van autisme, ongeacht of er een formele diagnose is.",
+      "access": "Vrije inloop op de tweede en laatste dinsdag van de maand, 19.00-23.00 uur. Je kunt binnenkomen en vertrekken wanneer je wilt.",
+      "costs": "Geen entree. Koffie, thee en kraanwater zijn gratis; frisdrank, alcohol en eten zijn tegen betaling.",
+      "address": "Stadsgravenstraat 47",
+      "postcode": "7511EP",
+      "town": "Enschede",
+      "phone": "06 2123 5204",
+      "email": "info@kickass-enschede.nl",
+      "openingHours": "Tweede en laatste dinsdag van de maand 19.00-23.00 uur.",
+      "locationType": "visiting",
+      "locationSource": "https://www.kickass-enschede.nl/cafe/",
+      "mapPin": true,
+      "lat": 52.22135346,
+      "lon": 6.89607578,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-deposten-huiskamer-van-de-buurt",
+      "name": "De Posten · Huiskamer van de Buurt Wesselerbrink",
+      "source": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+      "sourceTitle": "De Posten",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop",
+        "senioren",
+        "daginvulling"
+      ],
+      "tags": [
+        "ontmoeten",
+        "huiskamer",
+        "inloop",
+        "ouderen",
+        "senioren",
+        "daginvulling",
+        "vrij toegankelijk"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "description": "Open ontmoetingsplek in Gezondheidscentrum Wesselerbrink voor wijkbewoners die graag extra gezelligheid en aanspraak willen.",
+      "audience": "Wijkbewoners die zichzelf goed kunnen redden en graag anderen ontmoeten.",
+      "access": "Aanmelden is niet nodig. Vrij binnenlopen tijdens de openingstijden.",
+      "costs": "Geen toegangskosten genoemd; vraag De Posten naar eventuele kosten voor consumpties of activiteiten.",
+      "address": "Wesseler-nering 60",
+      "postcode": "7544JC",
+      "town": "Enschede",
+      "phone": "053 4753 753",
+      "email": "info@deposten.nl",
+      "openingHours": "09.30-12.00 en 14.00-16.00 uur; controleer actuele dagen bij De Posten.",
+      "locationType": "visiting",
+      "locationSource": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+      "mapPin": true,
+      "lat": 52.19234918,
+      "lon": 6.88426139,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-deposten-noabers",
+      "name": "De Posten · Noabers",
+      "source": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+      "sourceTitle": "De Posten",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten",
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "senioren",
+        "geheugenproblemen",
+        "daginvulling",
+        "algemene voorziening"
+      ],
+      "tags": [
+        "senioren",
+        "geheugen",
+        "dementie",
+        "daginvulling",
+        "algemene voorziening",
+        "ontmoeten"
+      ],
+      "guidePaths": [
+        "zorg/dementie",
+        "meedoen/daginvulling"
+      ],
+      "description": "Kleine groep voor zelfstandig wonende senioren uit Enschede-Zuid die behoefte hebben aan gezelligheid, structuur en lichte ondersteuning, bijvoorbeeld bij beginnende vergeetachtigheid.",
+      "audience": "Zelfstandig wonende senioren uit Enschede-Zuid met behoefte aan contact, dagstructuur of lichte ondersteuning bij geheugenproblemen.",
+      "access": "Aanmelden via wijkverpleegkundige, Wijkteam Enschede of huisarts.",
+      "costs": "Algemene voorziening; een eventuele bijdrage wordt niet op de bronpagina vermeld. Vraag dit na bij De Posten.",
+      "address": "De Posten 135A-207",
+      "postcode": "7544LR",
+      "town": "Enschede",
+      "phone": "053 4753 753",
+      "email": "info@deposten.nl",
+      "locationType": "contact",
+      "locationSource": "https://www.deposten.nl/contact/",
+      "mapPin": false,
+      "lat": 52.1886872,
+      "lon": 6.88247168,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-deposten-bsayno",
+      "name": "De Posten · Bsayno",
+      "source": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+      "sourceTitle": "De Posten",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "Suryoye",
+        "senioren",
+        "daginvulling",
+        "praktische hulp",
+        "algemene voorziening"
+      ],
+      "tags": [
+        "Suryoye",
+        "Syrie",
+        "senioren",
+        "ontmoeten",
+        "brieven",
+        "daginvulling",
+        "algemene voorziening"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "description": "Ontmoetingsgroep voor mensen met een Suryoye-achtergrond met koffie, gesprek, handwerken en praktische hulp, bijvoorbeeld bij moeilijke brieven.",
+      "audience": "Mensen met een Suryoye-achtergrond die gelijkgestemden, gezelligheid of lichte praktische ondersteuning zoeken.",
+      "access": "Aanmelden via wijkverpleegkundige, Wijkteam Enschede of huisarts.",
+      "costs": "Algemene voorziening; een eventuele bijdrage wordt niet op de bronpagina vermeld. Vraag dit na bij De Posten.",
+      "address": "De Posten 135A-207",
+      "postcode": "7544LR",
+      "town": "Enschede",
+      "phone": "053 4753 753",
+      "email": "info@deposten.nl",
+      "locationType": "contact",
+      "locationSource": "https://www.deposten.nl/contact/",
+      "mapPin": false,
+      "lat": 52.1886872,
+      "lon": 6.88247168,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-deposten-mampir-sadja",
+      "name": "De Posten · Mampir Sadja",
+      "source": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+      "sourceTitle": "De Posten",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "Indisch",
+        "senioren",
+        "daginvulling",
+        "algemene voorziening"
+      ],
+      "tags": [
+        "Indisch",
+        "senioren",
+        "ontmoeten",
+        "samen koken",
+        "daginvulling",
+        "algemene voorziening"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "description": "Ontmoetingsgroep in Indische sfeer voor senioren, met samen praten, herinneringen ophalen, lachen en koken.",
+      "audience": "Senioren met Indische roots die graag anderen ontmoeten.",
+      "access": "Aanmelden of informatie via De Posten: 053 4753 753 of info@deposten.nl.",
+      "costs": "Algemene voorziening; een eventuele bijdrage wordt niet op de bronpagina vermeld. Vraag dit na bij De Posten.",
+      "address": "De Posten 135A-207",
+      "postcode": "7544LR",
+      "town": "Enschede",
+      "phone": "053 4753 753",
+      "email": "info@deposten.nl",
+      "locationType": "contact",
+      "locationSource": "https://www.deposten.nl/contact/",
+      "mapPin": false,
+      "lat": 52.1886872,
+      "lon": 6.88247168,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-sociaal-plein-almelo-inloop",
+      "name": "Sociaal Plein Almelo · De Inloop",
+      "source": "https://socialekaart.almelo.nl/is/organisatie/329199/invis2/sociaal-plein-almelo-de-inloop",
+      "sourceTitle": "Sociaal Plein Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop",
+        "praktische hulp",
+        "welzijn",
+        "geld",
+        "zorg"
+      ],
+      "tags": [
+        "inloop",
+        "advies",
+        "ontmoeten",
+        "geld",
+        "zorg",
+        "welzijn",
+        "opvoeding",
+        "werk",
+        "laagdrempelig"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "zorg/clientsteun",
+        "geld/formulieren"
+      ],
+      "description": "Drempelloze inloop waar inwoners met én zonder hulpvraag welkom zijn voor koffie, ontmoeting en activiteiten. Medewerkers luisteren mee bij vragen over onder meer geld, zorg, welzijn, opvoeding en werk.",
+      "audience": "Inwoners van Almelo met een praktische, sociale of welzijnsvraag, maar ook mensen die gewoon willen binnenlopen en anderen ontmoeten.",
+      "access": "Vrije inloop; je hoeft niets voor te bereiden of vooraf precies te weten wat je vraag is.",
+      "costs": "Geen kosten voor de inloop vermeld op de officiële Sociale Kaart Almelo.",
+      "address": "Wierdensestraat 22a-1",
+      "postcode": "7607GJ",
+      "town": "Almelo",
+      "phone": "0546 729 096",
+      "email": "info@sociaalpleinalmelo.nl",
+      "openingHours": "Maandag t/m vrijdag 09.00-16.30 uur; zaterdag 13.00-16.00 uur.",
+      "locationType": "visiting",
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/329199/invis2/sociaal-plein-almelo-de-inloop",
+      "mapPin": true,
+      "lat": 52.35491383,
+      "lon": 6.66151401,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-fietsclub-dinkelland",
+      "name": "Sociaal, dat werkt! · Fiets- en Activiteitenclub Dinkelland",
+      "source": "https://swtd.nl/ons-aanbod/ouder-worden/activiteiten-en-cursussen/",
+      "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+      "municipalities": [
+        "Dinkelland"
+      ],
+      "municipality": "Dinkelland",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "fietsen",
+        "senioren",
+        "sociaal contact"
+      ],
+      "tags": [
+        "fietsen",
+        "bewegen",
+        "ontmoeten",
+        "gratis",
+        "senioren",
+        "Dinkelland"
+      ],
+      "guidePaths": [
+        "ontmoeten/bewegen"
+      ],
+      "description": "Wekelijkse fietsactiviteit om samen actief te zijn en sociale contacten op te doen.",
+      "audience": "Inwoners van Dinkelland die graag samen willen fietsen en anderen ontmoeten.",
+      "access": "Wekelijks op zondagmiddag vanaf 14.00 uur; verzamelpunt bij de Drie Zusters op het Sint Nicolaasplein in Denekamp.",
+      "costs": "Gratis.",
+      "town": "Tubbergen",
+      "phone": "085 0479 400",
+      "email": "info@swtd.nl",
+      "openingHours": "Zondag vanaf 14.00 uur, afhankelijk van weersomstandigheden.",
+      "locationType": "contact",
+      "mapPin": false,
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "locationSource": "https://swtd.nl/contact",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-tubbergen-verbindt-koffieochtend",
+      "name": "Tubbergen Verbindt · koffieochtend",
+      "source": "https://swtd.nl/agenda/",
+      "sourceTitle": "Tubbergen Verbindt / SWTD",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop",
+        "koffie",
+        "sociaal contact"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "koffie",
+        "sociaal contact",
+        "Tubbergen"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "description": "Terugkerende koffieochtend in de Bibliotheek Tubbergen, georganiseerd door Tubbergen Verbindt, bedoeld om laagdrempelig anderen te ontmoeten.",
+      "audience": "Inwoners van Tubbergen die behoefte hebben aan een praatje, contact of gewoon samen koffie willen drinken.",
+      "access": "Vrije koffieochtend; volgens de actuele agenda op vrijdag van 10.00-12.00 uur.",
+      "costs": "Eventuele consumptiekosten worden niet op de agenda vermeld.",
+      "address": "Raadhuisplein 4",
+      "town": "Tubbergen",
+      "email": "info@tubbergenverbindt.nl",
+      "openingHours": "Vrijdag 10.00-12.00 uur volgens de actuele SWTD-agenda.",
+      "locationType": "visiting",
+      "locationSource": "https://swtd.nl/agenda/",
+      "mapPin": true,
+      "postcode": "7651CV",
+      "lat": 52.40837485,
+      "lon": 6.78133142,
+      "locationMunicipality": "Tubbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-walking-voetbal-denekamp",
+      "name": "Sociaal, dat werkt! · Walking Voetbal Denekamp",
+      "source": "https://swtd.nl/agenda/",
+      "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+      "municipalities": [
+        "Dinkelland"
+      ],
+      "municipality": "Dinkelland",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "walking football",
+        "senioren",
+        "sociaal contact"
+      ],
+      "tags": [
+        "walking voetbal",
+        "bewegen",
+        "ontmoeten",
+        "gratis",
+        "Denekamp"
+      ],
+      "guidePaths": [
+        "ontmoeten/bewegen"
+      ],
+      "description": "Voetballen op wandeltempo in een laagdrempelige setting, gericht op samen bewegen en ontmoeten.",
+      "audience": "Iedereen die op wandeltempo wil voetballen; de activiteit staat in het seniorenaanbod van SWTD.",
+      "access": "Donderdag 13.30-14.30 uur volgens de actuele SWTD-agenda.",
+      "costs": "Geen kosten.",
+      "address": "Kappelhofsweg 12",
+      "postcode": "7591ZZ",
+      "town": "Denekamp",
+      "phone": "085 0479 400",
+      "email": "info@swtd.nl",
+      "openingHours": "Donderdag 13.30-14.30 uur volgens de actuele agenda.",
+      "locationType": "visiting",
+      "locationSource": "https://swtd.nl/agenda/",
+      "mapPin": true,
+      "lat": 52.37529332,
+      "lon": 6.99673651,
+      "locationMunicipality": "Dinkelland",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-inloop-eschede",
+      "name": "Sociaal, dat werkt! · Inloop Eschede Tubbergen",
+      "source": "https://swtd.nl/events/inloop-eschede/var/ri-63.l-L1/",
+      "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "huiskamer",
+        "inloop",
+        "senioren"
+      ],
+      "tags": [
+        "inloop",
+        "huiskamer",
+        "koffie",
+        "spel",
+        "ontmoeten",
+        "senioren"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "description": "Vrijwillige huiskamerinloop waar bezoekers terechtkunnen voor koffie, een praatje en een spelletje.",
+      "audience": "Met name oudere inwoners van Tubbergen die behoefte hebben aan laagdrempelig sociaal contact.",
+      "access": "Vrije inloop op donderdagochtend 10.00-12.00 uur volgens de actuele agenda.",
+      "costs": "Geen deelnamekosten genoemd; eventuele consumptiekosten zijn niet vermeld.",
+      "town": "Tubbergen",
+      "phone": "085 0479 400",
+      "email": "info@swtd.nl",
+      "openingHours": "Donderdag 10.00-12.00 uur.",
+      "locationType": "contact",
+      "mapPin": false,
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "locationSource": "https://swtd.nl/contact",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-wijkteam-noord",
+      "name": "Gemeente Almelo · Wijkteam Noord - De Schelf",
+      "source": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "wijkteam",
+        "zorg",
+        "geld",
+        "gezondheid",
+        "sociaal contact"
+      ],
+      "tags": [
+        "wijkteam",
+        "gratis",
+        "zorg",
+        "gezondheid",
+        "werk",
+        "geld",
+        "ontmoeten",
+        "inloop"
+      ],
+      "guidePaths": [
+        "zorg/clientsteun",
+        "geld/formulieren"
+      ],
+      "description": "Gratis wijkteam voor inwoners met vragen over zorg, gezondheid, werk, geld of contact met andere mensen. Het team denkt mee, biedt kortdurende steun en verwijst zo nodig verder.",
+      "audience": "Inwoners van postcodegebieden 7603, 7608, 7610 en 7611 in Almelo.",
+      "access": "Gratis inloopspreekuur op werkdagen van 09.00-12.00 uur.",
+      "costs": "Gratis.",
+      "address": "Binnenhof 51",
+      "postcode": "7608KH",
+      "town": "Almelo",
+      "openingHours": "Maandag t/m vrijdag 09.00-12.00 uur.",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+      "mapPin": true,
+      "lat": 52.37901596,
+      "lon": 6.67665057,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-wijkteam-oost",
+      "name": "Gemeente Almelo · Wijkteam Oost - De Schöppe",
+      "source": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "wijkteam",
+        "zorg",
+        "geld",
+        "gezondheid",
+        "sociaal contact"
+      ],
+      "tags": [
+        "wijkteam",
+        "gratis",
+        "zorg",
+        "gezondheid",
+        "werk",
+        "geld",
+        "ontmoeten",
+        "inloop"
+      ],
+      "guidePaths": [
+        "zorg/clientsteun",
+        "geld/formulieren"
+      ],
+      "description": "Gratis wijkteam voor inwoners met vragen over zorg, gezondheid, werk, geld of contact met andere mensen. Het team denkt mee, biedt kortdurende steun en verwijst zo nodig verder.",
+      "audience": "Inwoners van postcodegebieden 7601 en 7607 in Almelo.",
+      "access": "Gratis inloopspreekuur op werkdagen van 09.00-12.00 uur.",
+      "costs": "Gratis.",
+      "address": "Clematisstraat 2a",
+      "postcode": "7601EJ",
+      "town": "Almelo",
+      "openingHours": "Maandag t/m vrijdag 09.00-12.00 uur.",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+      "mapPin": true,
+      "lat": 52.34318768,
+      "lon": 6.6741563,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-wijkteam-zuid",
+      "name": "Gemeente Almelo · Wijkteam Zuid - De Driehoek",
+      "source": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "wijkteam",
+        "zorg",
+        "geld",
+        "gezondheid",
+        "sociaal contact"
+      ],
+      "tags": [
+        "wijkteam",
+        "gratis",
+        "zorg",
+        "gezondheid",
+        "werk",
+        "geld",
+        "ontmoeten",
+        "inloop"
+      ],
+      "guidePaths": [
+        "zorg/clientsteun",
+        "geld/formulieren"
+      ],
+      "description": "Gratis wijkteam voor inwoners met vragen over zorg, gezondheid, werk, geld of contact met andere mensen. Het team denkt mee, biedt kortdurende steun en verwijst zo nodig verder.",
+      "audience": "Inwoners van postcodegebieden 7606, 7609 en 7627 in Almelo.",
+      "access": "Gratis inloopspreekuur op werkdagen van 09.00-12.00 uur.",
+      "costs": "Gratis.",
+      "address": "Jan Tooropstraat 27",
+      "postcode": "7606JS",
+      "town": "Almelo",
+      "openingHours": "Maandag t/m vrijdag 09.00-12.00 uur.",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+      "mapPin": true,
+      "lat": 52.34258922,
+      "lon": 6.64264109,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-wijkteam-west",
+      "name": "Gemeente Almelo · Wijkteam West - Eninver",
+      "source": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "wijkteam",
+        "zorg",
+        "geld",
+        "gezondheid",
+        "sociaal contact"
+      ],
+      "tags": [
+        "wijkteam",
+        "gratis",
+        "zorg",
+        "gezondheid",
+        "werk",
+        "geld",
+        "ontmoeten",
+        "inloop"
+      ],
+      "guidePaths": [
+        "zorg/clientsteun",
+        "geld/formulieren"
+      ],
+      "description": "Gratis wijkteam voor inwoners met vragen over zorg, gezondheid, werk, geld of contact met andere mensen. Het team denkt mee, biedt kortdurende steun en verwijst zo nodig verder.",
+      "audience": "Inwoners van postcodegebieden 7602, 7604 en 7605 in Almelo.",
+      "access": "Gratis inloopspreekuur op werkdagen van 09.00-12.00 uur.",
+      "costs": "Gratis.",
+      "address": "Apollolaan 1a",
+      "postcode": "7604EH",
+      "town": "Almelo",
+      "openingHours": "Maandag t/m vrijdag 09.00-12.00 uur.",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+      "mapPin": true,
+      "lat": 52.35769101,
+      "lon": 6.64530355,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-avedan-wijkondersteuning",
+      "name": "Avedan · Wijkondersteuning Almelo",
+      "source": "https://www.avedan.nl/gemeentepagina/wijkondersteuning/",
+      "sourceTitle": "Avedan",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "vrijwillig",
+      "primaryTheme": "vrijwillig",
+      "themes": [
+        "vrijwillig",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "bewonersinitiatief",
+        "leefbaarheid",
+        "wijk"
+      ],
+      "tags": [
+        "wijkondersteuning",
+        "bewonersinitiatief",
+        "vrijwilligerswerk",
+        "leefbaarheid",
+        "buurt",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "meedoen/vrijwillig"
+      ],
+      "description": "Wijkondersteuners helpen inwoners die een idee hebben voor een activiteit, voorziening of verbetering in hun buurt om dat plan verder te brengen en verbinding te leggen met andere bewoners en organisaties.",
+      "audience": "Inwoners van Almelo met een idee of initiatief voor hun straat, buurt of wijk.",
+      "access": "Rechtstreeks contact opnemen met de wijkondersteuner van het eigen gebied of met Avedan.",
+      "costs": "Gratis ondersteuning; de officiële Sociale Kaart Almelo vermeldt wijkondersteuning als gratis.",
+      "phone": "0546 544 100",
+      "email": "info@avedan.nl",
+      "locationType": "contact",
+      "mapPin": false,
+      "address": "Stadionlaan 60",
+      "postcode": "7606JZ",
+      "town": "Almelo",
+      "lat": 52.33927899,
+      "lon": 6.64702943,
+      "locationMunicipality": "Almelo",
+      "locationSource": "https://www.avedan.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-sociaal-vraagplein-rijssen",
+      "name": "Gemeente Rijssen-Holten · Sociaal VraagPlein Rijssen",
+      "source": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
+      "sourceTitle": "Gemeente Rijssen-Holten",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies",
+        "geld",
+        "jeugd"
+      ],
+      "subthemes": [
+        "zorg",
+        "ondersteuning",
+        "opvoeden",
+        "rondkomen",
+        "schulden",
+        "gezond leven"
+      ],
+      "tags": [
+        "inloop",
+        "zorg",
+        "opvoeden",
+        "geld",
+        "schulden",
+        "gezondheid",
+        "advies",
+        "sociaal vraagplein"
+      ],
+      "guidePaths": [
+        "zorg/clientsteun",
+        "geld/formulieren",
+        "onderwijs/opvoeden"
+      ],
+      "description": "Gemeentelijk inlooppunt voor vragen over zorg, ondersteuning, opvoeden, rondkomen, schulden en gezond leven. Medewerkers denken mee en helpen direct of wijzen naar passende ondersteuning.",
+      "audience": "Inwoners van Rijssen-Holten met een sociale, financiële, opvoed- of zorgvraag.",
+      "access": "Vrij binnenlopen tijdens de openingstijden van het inlooppunt.",
+      "costs": "Voor het gesprek bij het gemeentelijke inlooppunt worden geen kosten vermeld.",
+      "address": "Schild 1",
+      "postcode": "7461DD",
+      "town": "Rijssen",
+      "phone": "0548 854 854",
+      "email": "sociaalvraagplein@rijssen-holten.nl",
+      "openingHours": "Maandag en dinsdag 09.00-13.00 uur; vrijdag 09.00-12.00 uur. Controleer tijdelijke sluitingen op de gemeentepagina.",
+      "locationType": "visiting",
+      "locationSource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
+      "mapPin": true,
+      "lat": 52.3073607,
+      "lon": 6.52203914,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-sociaal-vraagplein-holten",
+      "name": "Gemeente Rijssen-Holten · Sociaal VraagPlein Holten",
+      "source": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
+      "sourceTitle": "Gemeente Rijssen-Holten",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies",
+        "geld",
+        "jeugd"
+      ],
+      "subthemes": [
+        "zorg",
+        "ondersteuning",
+        "opvoeden",
+        "rondkomen",
+        "schulden",
+        "gezond leven"
+      ],
+      "tags": [
+        "inloop",
+        "zorg",
+        "opvoeden",
+        "geld",
+        "schulden",
+        "gezondheid",
+        "advies",
+        "sociaal vraagplein"
+      ],
+      "guidePaths": [
+        "zorg/clientsteun",
+        "geld/formulieren",
+        "onderwijs/opvoeden"
+      ],
+      "description": "Gemeentelijk inlooppunt voor vragen over zorg, ondersteuning, opvoeden, rondkomen, schulden en gezond leven. Medewerkers denken mee en helpen direct of wijzen naar passende ondersteuning.",
+      "audience": "Inwoners van Rijssen-Holten met een sociale, financiële, opvoed- of zorgvraag.",
+      "access": "Vrij binnenlopen tijdens de openingstijden in Kulturhus Holten.",
+      "costs": "Voor het gesprek bij het gemeentelijke inlooppunt worden geen kosten vermeld.",
+      "address": "Smidsbelt 6",
+      "postcode": "7451BL",
+      "town": "Holten",
+      "phone": "0548 854 854",
+      "email": "sociaalvraagplein@rijssen-holten.nl",
+      "openingHours": "Dinsdag 09.00-13.00 uur.",
+      "locationType": "visiting",
+      "locationSource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
+      "mapPin": true,
+      "lat": 52.28131306,
+      "lon": 6.42165509,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-zorginformatiepunt-vriezenveen",
+      "name": "ZorgSaam Twenterand · Zorginformatiepunt Vriezenveen",
+      "source": "https://www.zorgsaamtwenterand.nl/contact/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies",
+        "jeugd"
+      ],
+      "subthemes": [
+        "Wmo",
+        "wonen",
+        "welzijn",
+        "Loes",
+        "jeugdzorg"
+      ],
+      "tags": [
+        "zorginformatiepunt",
+        "Wmo",
+        "wonen",
+        "welzijn",
+        "jeugd",
+        "opvoeden",
+        "advies",
+        "inloop"
+      ],
+      "guidePaths": [
+        "zorg/clientsteun",
+        "onderwijs/opvoeden"
+      ],
+      "description": "Laagdrempelig informatiepunt voor vragen over welzijn, Wmo, wonen, het Loes-loket, (jeugd)zorg en andere ondersteuningsmogelijkheden.",
+      "audience": "Inwoners van Twenterand met vragen over zorg, welzijn, wonen, opvoeden of ondersteuning.",
+      "access": "Inloop tijdens de gepubliceerde openingstijden; telefonisch en per e-mail bereikbaar.",
+      "costs": "Voor informatie en advies worden op de bronpagina geen kosten vermeld.",
+      "address": "Manitobaplein 1",
+      "postcode": "7671GS",
+      "town": "Vriezenveen",
+      "phone": "0546 481 450",
+      "email": "info@zorginformatietwenterand.nl",
+      "openingHours": "Dinsdag, woensdag en donderdag 09.00-13.00 uur.",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
+      "mapPin": true,
+      "lat": 52.40876601,
+      "lon": 6.62460489,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-zorginformatiepunt-vroomshoop",
+      "name": "ZorgSaam Twenterand · Zorginformatiepunt Vroomshoop",
+      "source": "https://www.zorgsaamtwenterand.nl/contact/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies",
+        "jeugd"
+      ],
+      "subthemes": [
+        "Wmo",
+        "wonen",
+        "welzijn",
+        "Loes",
+        "jeugdzorg"
+      ],
+      "tags": [
+        "zorginformatiepunt",
+        "Wmo",
+        "wonen",
+        "welzijn",
+        "jeugd",
+        "opvoeden",
+        "advies",
+        "inloop"
+      ],
+      "guidePaths": [
+        "zorg/clientsteun",
+        "onderwijs/opvoeden"
+      ],
+      "description": "Laagdrempelig informatiepunt voor vragen over welzijn, Wmo, wonen, het Loes-loket, (jeugd)zorg en andere ondersteuningsmogelijkheden.",
+      "audience": "Inwoners van Twenterand met vragen over zorg, welzijn, wonen, opvoeden of ondersteuning.",
+      "access": "Inloop tijdens de gepubliceerde openingstijden; telefonisch en per e-mail bereikbaar.",
+      "costs": "Voor informatie en advies worden op de bronpagina geen kosten vermeld.",
+      "address": "Oranjeplein 7",
+      "postcode": "7681AZ",
+      "town": "Vroomshoop",
+      "phone": "0546 481 450",
+      "email": "info@zorginformatietwenterand.nl",
+      "openingHours": "Maandag, dinsdag en vrijdag 09.00-13.00 uur.",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
+      "mapPin": true,
+      "lat": 52.45822244,
+      "lon": 6.56611839,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-zorginformatiepunt-westerhaar",
+      "name": "ZorgSaam Twenterand · Zorginformatiepunt Westerhaar",
+      "source": "https://www.zorgsaamtwenterand.nl/contact/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies",
+        "jeugd"
+      ],
+      "subthemes": [
+        "Wmo",
+        "wonen",
+        "welzijn",
+        "Loes",
+        "jeugdzorg"
+      ],
+      "tags": [
+        "zorginformatiepunt",
+        "Wmo",
+        "wonen",
+        "welzijn",
+        "jeugd",
+        "opvoeden",
+        "advies",
+        "inloop"
+      ],
+      "guidePaths": [
+        "zorg/clientsteun",
+        "onderwijs/opvoeden"
+      ],
+      "description": "Laagdrempelig informatiepunt voor vragen over welzijn, Wmo, wonen, het Loes-loket, (jeugd)zorg en andere ondersteuningsmogelijkheden.",
+      "audience": "Inwoners van Twenterand met vragen over zorg, welzijn, wonen, opvoeden of ondersteuning.",
+      "access": "Inloop tijdens de gepubliceerde openingstijden; telefonisch en per e-mail bereikbaar.",
+      "costs": "Voor informatie en advies worden op de bronpagina geen kosten vermeld.",
+      "address": "Hoofdweg 132a",
+      "postcode": "7676AJ",
+      "town": "Westerhaar-Vriezenveensewijk",
+      "phone": "0546 481 450",
+      "email": "info@zorginformatietwenterand.nl",
+      "openingHours": "Maandag 14.00-16.00 uur en donderdag 09.00-13.00 uur.",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
+      "mapPin": true,
+      "lat": 52.4551472,
+      "lon": 6.62017906,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "id": "extra-20261002-zorginformatiepunt-den-ham",
+      "name": "ZorgSaam Twenterand · Zorginformatiepunt Den Ham",
+      "source": "https://www.zorgsaamtwenterand.nl/contact/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies",
+        "jeugd"
+      ],
+      "subthemes": [
+        "Wmo",
+        "wonen",
+        "welzijn",
+        "Loes",
+        "jeugdzorg"
+      ],
+      "tags": [
+        "zorginformatiepunt",
+        "Wmo",
+        "wonen",
+        "welzijn",
+        "jeugd",
+        "opvoeden",
+        "advies",
+        "inloop"
+      ],
+      "guidePaths": [
+        "zorg/clientsteun",
+        "onderwijs/opvoeden"
+      ],
+      "description": "Laagdrempelig informatiepunt voor vragen over welzijn, Wmo, wonen, het Loes-loket, (jeugd)zorg en andere ondersteuningsmogelijkheden.",
+      "audience": "Inwoners van Twenterand met vragen over zorg, welzijn, wonen, opvoeden of ondersteuning.",
+      "access": "Inloop tijdens de gepubliceerde openingstijden; telefonisch en per e-mail bereikbaar.",
+      "costs": "Voor informatie en advies worden op de bronpagina geen kosten vermeld.",
+      "address": "Goosensplein 1",
+      "postcode": "7683CG",
+      "town": "Den Ham",
+      "phone": "0546 481 450",
+      "email": "info@zorginformatietwenterand.nl",
+      "openingHours": "Maandag 09.00-13.00 uur en woensdag 14.00-16.00 uur.",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
+      "mapPin": true,
+      "lat": 52.4615661,
+      "lon": 6.49442661,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / buurtontmoeting",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-wijkkamer-trefpunt-elisabeth",
+      "name": "Almelo · Wijkkamer Trefpunt Elisabeth",
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "wijkkamer",
+        "buurtontmoeting",
+        "Hofkamp"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijkkamer",
+        "buurt",
+        "inloop",
+        "Hofkamp"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "description": "Door gemeente Almelo genoemde ontmoetingsplek in Hofkamp. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+      "audience": "Inwoners van Almelo, in het bijzonder bewoners van Hofkamp en omgeving.",
+      "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+      "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+      "address": "Hofkampstraat 96",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapPin": true,
+      "postcode": "7607NJ",
+      "lat": 52.35318077,
+      "lon": 6.67014332,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / buurtontmoeting",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-wijkkamer-luctor",
+      "name": "Almelo · Wijkkamer Luctor et Emergo",
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "wijkkamer",
+        "buurtontmoeting",
+        "Noorderkwartier"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijkkamer",
+        "buurt",
+        "inloop",
+        "Noorderkwartier"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "description": "Door gemeente Almelo genoemde ontmoetingsplek in Noorderkwartier. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+      "audience": "Inwoners van Almelo, in het bijzonder bewoners van Noorderkwartier en omgeving.",
+      "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+      "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+      "address": "Horstlaan 3",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapPin": true,
+      "postcode": "7602AM",
+      "lat": 52.37065534,
+      "lon": 6.6684921,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / buurtontmoeting",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-wijkkamer-de-bridge",
+      "name": "Almelo · Wijkkamer De Bridge",
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "wijkkamer",
+        "buurtontmoeting",
+        "Sluitersveld"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijkkamer",
+        "buurt",
+        "inloop",
+        "Sluitersveld"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "description": "Door gemeente Almelo genoemde ontmoetingsplek in Sluitersveld. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+      "audience": "Inwoners van Almelo, in het bijzonder bewoners van Sluitersveld en omgeving.",
+      "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+      "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+      "address": "Piet Heinstraat 51",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapPin": true,
+      "postcode": "7603CB",
+      "lat": 52.36693695,
+      "lon": 6.67732715,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / buurtontmoeting",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-wijkkamer-eninver",
+      "name": "Almelo · Wijkkamer Eninver",
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "wijkkamer",
+        "buurtontmoeting",
+        "Wierdensehoek"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijkkamer",
+        "buurt",
+        "inloop",
+        "Wierdensehoek"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "description": "Door gemeente Almelo genoemde ontmoetingsplek in Wierdensehoek. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+      "audience": "Inwoners van Almelo, in het bijzonder bewoners van Wierdensehoek en omgeving.",
+      "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+      "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+      "address": "Apollolaan 1a",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapPin": true,
+      "postcode": "7604EH",
+      "lat": 52.35769101,
+      "lon": 6.64530355,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / buurtontmoeting",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-wijkkamer-hoog-schuilenburg",
+      "name": "Almelo · Wijkkamer Hoog Schuilenburg",
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "wijkkamer",
+        "buurtontmoeting",
+        "Wierdensehoek"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijkkamer",
+        "buurt",
+        "inloop",
+        "Wierdensehoek"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "description": "Door gemeente Almelo genoemde ontmoetingsplek in Wierdensehoek. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+      "audience": "Inwoners van Almelo, in het bijzonder bewoners van Wierdensehoek en omgeving.",
+      "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+      "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+      "address": "Beethovenlaan 1a-1",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapPin": true,
+      "postcode": "7604GC",
+      "lat": 52.35880222,
+      "lon": 6.63831445,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / buurtontmoeting",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-kom-erbij-groenedael",
+      "name": "Almelo · Kom Erbij 't Groenedael",
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "wijkkamer",
+        "buurtontmoeting",
+        "Windmolenbroek"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijkkamer",
+        "buurt",
+        "inloop",
+        "Windmolenbroek"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "description": "Door gemeente Almelo genoemde ontmoetingsplek in Windmolenbroek. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+      "audience": "Inwoners van Almelo, in het bijzonder bewoners van Windmolenbroek en omgeving.",
+      "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+      "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+      "address": "Willem de Clercqstraat 93",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapPin": true,
+      "postcode": "7604AR",
+      "lat": 52.35163143,
+      "lon": 6.64542527,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / buurtontmoeting",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-wijkkamer-noabershoes",
+      "name": "Almelo · Wijkkamer 't Noabershoes",
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "wijkkamer",
+        "buurtontmoeting",
+        "Windmolenbroek"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijkkamer",
+        "buurt",
+        "inloop",
+        "Windmolenbroek"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "description": "Door gemeente Almelo genoemde ontmoetingsplek in Windmolenbroek. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+      "audience": "Inwoners van Almelo, in het bijzonder bewoners van Windmolenbroek en omgeving.",
+      "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+      "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+      "address": "De Gors 6",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapPin": true,
+      "postcode": "7609DV",
+      "lat": 52.33618558,
+      "lon": 6.63131148,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / buurtontmoeting",
+      "status": "candidate",
+      "id": "extra-20261002-almelo-wijkkamer-karekiet",
+      "name": "Almelo · Wijkkamer De Karekiet",
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "wijkkamer",
+        "buurtontmoeting",
+        "Windmolenbroek"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijkkamer",
+        "buurt",
+        "inloop",
+        "Windmolenbroek"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "description": "Door gemeente Almelo genoemde ontmoetingsplek in Windmolenbroek. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+      "audience": "Inwoners van Almelo, in het bijzonder bewoners van Windmolenbroek en omgeving.",
+      "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+      "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+      "address": "De Karekiet 309",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapPin": true,
+      "postcode": "7609KD",
+      "lat": 52.33490062,
+      "lon": 6.63097705,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
   "addressEnrichedAt": "2026-10-02",
   "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin.",
   "contentExpansionVersion": 6,
-  "note": "Vierde verdiepingslaag: dagbesteding zonder indicatie, voorliggende jeugdlocaties, Repair Cafés, Nivon en buurtinloop."
+  "note": "Doorlopende verdiepingslaag voor voorliggende voorzieningen. Vindroute: per Twentse gemeente officiële sociale kaart + lokale welzijnsorganisatie + gemeentelijke Wmo/algemene-voorzieningenpagina + onafhankelijke initiatieven. Alleen concreet en actueel aanbod wordt toegevoegd; fysieke kaartpins alleen bij een bevestigde bezoeklocatie. Gemeentesweep 2 oktober 2026: aanvullende buurtinlopen, gemeentelijke informatiepunten, algemene voorzieningen en zelfstandige lotgenoten-/participatieplekken toegevoegd."
 }

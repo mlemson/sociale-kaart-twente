@@ -104,5 +104,61 @@
     "nameContains": "Financiële Zelfredzaamheid",
     "municipality": "Enschede",
     "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "Viermarken",
+    "municipality": "Enschede",
+    "path": "meedoen/daginvulling"
+  },
+  {
+    "nameContains": "Viermarken",
+    "municipality": "Hengelo",
+    "path": "meedoen/daginvulling",
+    "shouldExist": false
+  },
+  {
+    "nameContains": "Kick ASS",
+    "municipality": "Enschede",
+    "path": "mentaal/lotgenoten"
+  },
+  {
+    "nameContains": "Huiskamer van de Buurt",
+    "municipality": "Enschede",
+    "path": "ontmoeten/inloop"
+  },
+  {
+    "nameContains": "Noabers",
+    "municipality": "Enschede",
+    "path": "zorg/dementie"
+  },
+  {
+    "nameContains": "Sociaal Plein Almelo",
+    "municipality": "Almelo",
+    "path": "zorg/clientsteun"
+  },
+  {
+    "nameContains": "MamaPapacafé",
+    "municipality": "Losser",
+    "path": "onderwijs/opvoeden"
+  },
+  {
+    "nameContains": "Walking Voetbal",
+    "municipality": "Dinkelland",
+    "path": "ontmoeten/bewegen"
+  },
+  {
+    "nameContains": "Sociaal VraagPlein Rijssen",
+    "municipality": "Rijssen-Holten",
+    "path": "zorg/clientsteun"
+  },
+  {
+    "nameContains": "Wijkteam Noord",
+    "municipality": "Almelo",
+    "path": "zorg/clientsteun"
+  },
+  {
+    "nameContains": "Zorginformatiepunt Vriezenveen",
+    "municipality": "Twenterand",
+    "path": "zorg/clientsteun"
   }
 ]
