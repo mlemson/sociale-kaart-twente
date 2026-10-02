@@ -4249,6 +4249,80 @@
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/328767/invis2/buurtbemiddeling-wierden"
   },
   {
+    "id": "org-carintreggeland-backenhagen-bd5hxm",
+    "organization": "Carintreggeland Backenhagen",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-carint-backenhagen",
+        "title": "wijkactiviteiten en ontmoeting",
+        "name": "Carintreggeland Backenhagen · wijkactiviteiten en ontmoeting",
+        "description": "Wijkbewoners kunnen gebruikmaken van het restaurant en deelnemen aan activiteiten op locatie Backenhagen.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "wijkbewoners",
+          "activiteiten"
+        ],
+        "tags": [
+          "ontmoeten",
+          "wijk",
+          "activiteiten"
+        ],
+        "audience": "Bewoners en wijkbewoners.",
+        "costs": "Afhankelijk van activiteit of consumptie.",
+        "access": "Rechtstreeks bij de locatie; vraag naar het actuele activiteitenprogramma.",
+        "source": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
+        "sourceKind": "first-party",
+        "sourceTitle": "Carintreggeland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Backenhagenlaan 200",
+        "postcode": "7557KE",
+        "town": "Hengelo",
+        "lat": 52.27345879,
+        "lon": 6.80657924,
+        "locationType": "visiting",
+        "locationSource": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Backenhagenlaan 200",
+      "postcode": "7557KE",
+      "town": "Hengelo",
+      "lat": 52.27345879,
+      "lon": 6.80657924,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "visiting",
+      "locationSource": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3"
+  },
+  {
     "id": "org-chess-club-enschede-inclusief-l1e8j6",
     "organization": "Chess Club Enschede Inclusief",
     "municipalities": [
@@ -7333,9 +7407,9 @@
       "https://www.fundamentlosser.nl/agenda/maaklab-2-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-2026-09-30-2026-10-07-2026-10-14-2026-10-21-2026-10-28-2026-11-04-2026-11-11-2026-11-18-2026-11-25-2026-12-02-09-2027-06-16/",
       "https://www.fundamentlosser.nl/agenda/"
     ],
-    "offerCount": 26,
+    "offerCount": 31,
     "reviewNeeded": 0,
-    "sourceBacked": 21,
+    "sourceBacked": 26,
     "manual": 5,
     "checked": "2026-09-15",
     "offers": [
@@ -7543,6 +7617,47 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-fundament-cultureel",
+        "title": "Culturele Ontmoeting",
+        "name": "Fundament Losser · Culturele Ontmoeting",
+        "description": "Terugkerende ontmoeting bij Erve Kraesgenberg voor ouderen met gedeelde interesse in cultuur en gezelligheid.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "cultuur",
+          "ouderen"
+        ],
+        "tags": [
+          "ontmoeten",
+          "cultuur",
+          "ouderen"
+        ],
+        "audience": "Ouderen in de gemeente Losser.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.fundamentlosser.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Fundament Losser",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Raadhuisplein 1",
+        "postcode": "7581AG",
+        "town": "Losser",
+        "lat": 52.26284211,
+        "lon": 7.00588809,
+        "locationType": "contact",
+        "locationSource": "https://www.fundamentlosser.nl/contact/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-429fbffe699ed285",
         "title": "Cursussen",
         "name": "Fundament Losser · Cursussen",
@@ -7725,6 +7840,89 @@
         "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
         "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
         "source": "https://www.fundamentlosser.nl/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Fundament Losser",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Raadhuisplein 1",
+        "postcode": "7581AG",
+        "town": "Losser",
+        "lat": 52.26284211,
+        "lon": 7.00588809,
+        "locationType": "contact",
+        "locationSource": "https://www.fundamentlosser.nl/contact/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-fundament-moestuin",
+        "title": "gezamenlijke moestuin",
+        "name": "Fundament Losser · gezamenlijke moestuin",
+        "description": "Samen tuinieren, bloemen en groente zien groeien en leren over gezonde voeding.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten",
+          "bewegen"
+        ],
+        "subthemes": [
+          "moestuin",
+          "gezonde voeding"
+        ],
+        "tags": [
+          "ontmoeten",
+          "moestuin",
+          "gezondheid"
+        ],
+        "audience": "Inwoners die samen buiten actief willen zijn.",
+        "costs": "Laagdrempelig.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.fundamentlosser.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Fundament Losser",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Raadhuisplein 1",
+        "postcode": "7581AG",
+        "town": "Losser",
+        "lat": 52.26284211,
+        "lon": 7.00588809,
+        "locationType": "contact",
+        "locationSource": "https://www.fundamentlosser.nl/contact/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-fundament-hera",
+        "title": "Internationaal restaurant HERA",
+        "name": "Fundament Losser · Internationaal restaurant HERA",
+        "description": "Maandelijkse gezamenlijke maaltijd in Overdinkel, georganiseerd rond internationale gerechten en ontmoeting.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "maaltijd",
+          "internationaal"
+        ],
+        "tags": [
+          "ontmoeten",
+          "maaltijd",
+          "culturen"
+        ],
+        "audience": "Inwoners van Losser en omgeving.",
+        "costs": "Controleer actuele maaltijdprijs.",
+        "access": "Volgens de actuele agenda; reserveren kan nodig zijn.",
+        "source": "https://www.fundamentlosser.nl/agenda/",
         "sourceKind": "first-party",
         "sourceTitle": "Fundament Losser",
         "checked": "2026-10-02",
@@ -7989,6 +8187,49 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-fundament-mamapapa",
+        "title": "MamaPapacafé",
+        "name": "Fundament Losser · MamaPapacafé",
+        "description": "Laagdrempelige inloop voor (aanstaande) ouders en verzorgers met kinderen, met ontmoeting en wisselende thema’s.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "ouders",
+          "baby",
+          "peuter"
+        ],
+        "tags": [
+          "jeugd",
+          "ouders",
+          "ontmoeten"
+        ],
+        "audience": "Aanstaande ouders, ouders/verzorgers en jonge kinderen.",
+        "costs": "Laagdrempelig.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.fundamentlosser.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Fundament Losser",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Raadhuisplein 1",
+        "postcode": "7581AG",
+        "town": "Losser",
+        "lat": 52.26284211,
+        "lon": 7.00588809,
+        "locationType": "contact",
+        "locationSource": "https://www.fundamentlosser.nl/contact/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "extra-20261002-fundament-mamapapacaf-",
         "title": "MamaPapacafé",
         "name": "Fundament Losser · MamaPapacafé",
@@ -8053,6 +8294,47 @@
         "sourceTitle": "Fundament Losser",
         "checked": "2026-09-15",
         "reviewStatus": "manual",
+        "address": "Raadhuisplein 1",
+        "postcode": "7581AG",
+        "town": "Losser",
+        "lat": 52.26284211,
+        "lon": 7.00588809,
+        "locationType": "contact",
+        "locationSource": "https://www.fundamentlosser.nl/contact/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-fundament-slechtzienden",
+        "title": "ontmoeting voor slechtzienden",
+        "name": "Fundament Losser · ontmoeting voor slechtzienden",
+        "description": "Maandelijkse samenkomst in 't Lossers hoes voor mensen die slechtziend zijn.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "slechtziend",
+          "lotgenoten"
+        ],
+        "tags": [
+          "ontmoeten",
+          "slechtziend",
+          "lotgenoten"
+        ],
+        "audience": "Inwoners met een visuele beperking.",
+        "costs": "Laagdrempelig.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.fundamentlosser.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Fundament Losser",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
         "address": "Raadhuisplein 1",
         "postcode": "7581AG",
         "town": "Losser",
@@ -9873,12 +10155,54 @@
       "https://www.impuls-oldenzaal.nl/diensten/huiskamers/",
       "https://www.impuls-oldenzaal.nl/agenda/formulierenservice/"
     ],
-    "offerCount": 32,
+    "offerCount": 35,
     "reviewNeeded": 1,
-    "sourceBacked": 31,
+    "sourceBacked": 34,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
+      {
+        "id": "c-20261002-impuls-actiefnaschool",
+        "title": "Actief na school",
+        "name": "Impuls · Actief na school",
+        "description": "Naschoolse activiteit voor leerlingen van Twents Carmel College locatie De Thij.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "jongeren",
+          "naschools"
+        ],
+        "tags": [
+          "jeugd",
+          "jongeren",
+          "activiteit"
+        ],
+        "audience": "Leerlingen van TCC De Thij.",
+        "costs": "Laagdrempelig.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.impuls-oldenzaal.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "contact",
+        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "candidate-20261002-impuls-actieve-ontmoeting-paal-12",
         "title": "Actieve Ontmoeting Paal 12",
@@ -10572,6 +10896,48 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-impuls-meidengroep",
+        "title": "Meidengroep groep 7 en 8",
+        "name": "Impuls · Meidengroep groep 7 en 8",
+        "description": "Terugkerende meidengroep met ruimte om te praten, nieuwe contacten te maken en samen activiteiten te doen.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "meiden",
+          "groep 7-8"
+        ],
+        "tags": [
+          "jeugd",
+          "meiden",
+          "ontmoeten"
+        ],
+        "audience": "Meiden uit groep 7 en 8.",
+        "costs": "Laagdrempelig.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.impuls-oldenzaal.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "visiting",
+        "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-27bbc8c4ad3529e3",
         "title": "Opgroeien",
         "name": "Impuls · Opgroeien",
@@ -10725,6 +11091,48 @@
         "lon": 6.92796947,
         "locationType": "visiting",
         "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-impuls-soofi",
+        "title": "Soofi bewegen en ontmoeten",
+        "name": "Impuls · Soofi bewegen en ontmoeten",
+        "description": "Vaste laagdrempelige beweeggroep om samen met buurtgenoten buiten actief te zijn.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "buiten bewegen",
+          "buurt"
+        ],
+        "tags": [
+          "bewegen",
+          "ontmoeten",
+          "buurt"
+        ],
+        "audience": "Inwoners van Oldenzaal.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.impuls-oldenzaal.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "contact",
+        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
         "locationMunicipality": "Oldenzaal",
         "mapLocationType": "address",
         "mapPin": false
@@ -12834,6 +13242,125 @@
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt"
+  },
+  {
+    "id": "org-liberein-16a7yrp",
+    "organization": "Liberein",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "ontmoeten",
+      "mantelzorg"
+    ],
+    "sources": [
+      "https://www.liberein.nl/veelgestelde-vragen-2",
+      "https://www.liberein.nl/faciliteiten/eten-en-drinken/sfeervolle-restaurants"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 0,
+    "sourceBacked": 2,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-liberein-ontmoetingscentra",
+        "title": "ontmoetingscentra Enschede en Glanerbrug",
+        "name": "Liberein · ontmoetingscentra Enschede en Glanerbrug",
+        "description": "Ontmoetingscentra voor mensen met lichte vergeetachtigheid en hun partners of mantelzorgers. Liberein heeft meerdere locaties in Enschede en Glanerbrug.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten",
+          "mantelzorg"
+        ],
+        "subthemes": [
+          "geheugenproblemen",
+          "dementie"
+        ],
+        "tags": [
+          "ontmoeten",
+          "dementie",
+          "mantelzorg",
+          "daginvulling"
+        ],
+        "audience": "Mensen met beginnende geheugenproblemen en hun naasten.",
+        "costs": "Gesubsidieerd door de gemeente; actuele voorwaarden navragen.",
+        "access": "Geen indicatie nodig; neem contact op met Liberein voor de passende locatie.",
+        "source": "https://www.liberein.nl/veelgestelde-vragen-2",
+        "sourceKind": "first-party",
+        "sourceTitle": "Liberein",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Pater Ten Winkelstraat 3-3",
+        "postcode": "7532DC",
+        "town": "Enschede",
+        "lat": 52.21596662,
+        "lon": 6.97751466,
+        "locationType": "source-address",
+        "locationSource": "https://www.liberein.nl/faciliteiten/eten-en-drinken/sfeervolle-restaurants",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-liberein-wijkrestaurants",
+        "title": "restaurants open voor wijkbewoners",
+        "name": "Liberein · restaurants open voor wijkbewoners",
+        "description": "Restaurants en grand cafés op meerdere Liberein-locaties waar ook buurt- en wijkbewoners welkom zijn om iets te drinken of samen te eten.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "maaltijd",
+          "wijk"
+        ],
+        "tags": [
+          "ontmoeten",
+          "maaltijd",
+          "wijkbewoners"
+        ],
+        "audience": "Wijkbewoners, ouderen, bewoners en bezoekers.",
+        "costs": "Consumpties en maaltijden tegen betaling.",
+        "access": "Vrij toegankelijk tijdens openingstijden; voor een dagmenu wordt reserveren aangeraden.",
+        "source": "https://www.liberein.nl/faciliteiten/eten-en-drinken/sfeervolle-restaurants",
+        "sourceKind": "first-party",
+        "sourceTitle": "Liberein",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Pater Ten Winkelstraat 3-3",
+        "postcode": "7532DC",
+        "town": "Enschede",
+        "lat": 52.21596662,
+        "lon": 6.97751466,
+        "locationType": "source-address",
+        "locationSource": "https://www.liberein.nl/faciliteiten/eten-en-drinken/sfeervolle-restaurants",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Pater Ten Winkelstraat 3-3",
+      "postcode": "7532DC",
+      "town": "Enschede",
+      "lat": 52.21596662,
+      "lon": 6.97751466,
+      "locationMunicipality": "Enschede",
+      "locationType": "source-address",
+      "locationSource": "https://www.liberein.nl/faciliteiten/eten-en-drinken/sfeervolle-restaurants",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.liberein.nl/veelgestelde-vragen-2"
   },
   {
     "id": "org-livio-1b9v30",
@@ -27273,14 +27800,15 @@
       "https://www.zorgsaamtwenterand.nl/activiteiten/biljarten/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/volksdansen/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "https://www.zorgsaamtwenterand.nl/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/creatieve-club/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/keerls-proat/",
       "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/"
     ],
-    "offerCount": 53,
+    "offerCount": 55,
     "reviewNeeded": 2,
-    "sourceBacked": 51,
+    "sourceBacked": 53,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -29200,6 +29728,47 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-zorgsaam-rank",
+        "title": "Soos De Rank",
+        "name": "ZorgSaam Twenterand · Soos De Rank",
+        "description": "Gezelligheidsvereniging en ontmoetingsplek voor jong en oud in Den Ham.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "soos",
+          "Den Ham"
+        ],
+        "tags": [
+          "ontmoeten",
+          "soos",
+          "buurt"
+        ],
+        "audience": "Inwoners van Den Ham en omgeving.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Via het actuele programma van ZorgSaam.",
+        "source": "https://www.zorgsaamtwenterand.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-130dc5335ce91d1d",
         "title": "Tis tied veur ’n bakkie",
         "name": "ZorgSaam Twenterand · Tis tied veur ’n bakkie",
@@ -29341,6 +29910,48 @@
         "sourceKind": "provider",
         "sourceTitle": "ZorgSaam Twenterand",
         "checked": "2026-09-15",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-zorgsaam-loop",
+        "title": "wandelclub Loop maar raak",
+        "name": "ZorgSaam Twenterand · wandelclub Loop maar raak",
+        "description": "Wandelclub in Den Ham om samen actief te zijn en anderen te ontmoeten.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "wandelen",
+          "Den Ham"
+        ],
+        "tags": [
+          "bewegen",
+          "wandelen",
+          "ontmoeten"
+        ],
+        "audience": "Inwoners die graag samen wandelen.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Via het actuele programma van ZorgSaam.",
+        "source": "https://www.zorgsaamtwenterand.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Burgemeester Koetjestraat 2",
         "postcode": "7681ZP",

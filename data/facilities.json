@@ -6805,6 +6805,37 @@
     "catalogOrganizationId": "org-buurtbemiddeling-wierden-uhm64j"
   },
   {
+    "id": "catalog-org-carintreggeland-backenhagen-bd5hxm",
+    "name": "Carintreggeland Backenhagen",
+    "category": "ontmoeten",
+    "address": "Backenhagenlaan 200",
+    "postcode": "7557KE",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.27345879,
+    "lon": 6.80657924,
+    "source": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten"
+    ],
+    "subthemes": [],
+    "description": "Locatie voor Carintreggeland Backenhagen. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Bewoners en wijkbewoners.",
+    "costs": "Afhankelijk van activiteit of consumptie.",
+    "access": "Rechtstreeks bij de locatie; vraag naar het actuele activiteitenprogramma.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
+    "mapLocationType": "service-area",
+    "catalogOrganizationId": "org-carintreggeland-backenhagen-bd5hxm"
+  },
+  {
     "id": "catalog-org-christelijke-mantelzorghulp-rijssen-1kh8uvg",
     "name": "Christelijke Mantelzorghulp Rijssen",
     "category": "mantelzorg",
@@ -8006,6 +8037,38 @@
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-leger-des-heils-buurthuiskamer-bij-bosshardt-1keez9u"
+  },
+  {
+    "id": "catalog-org-liberein-16a7yrp",
+    "name": "Liberein",
+    "category": "ontmoeten",
+    "address": "Pater Ten Winkelstraat 3-3",
+    "postcode": "7532DC",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.21596662,
+    "lon": 6.97751466,
+    "source": "https://www.liberein.nl/veelgestelde-vragen-2",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "mantelzorg"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Liberein. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Mensen met beginnende geheugenproblemen en hun naasten.",
+    "costs": "Gesubsidieerd door de gemeente; actuele voorwaarden navragen.",
+    "access": "Geen indicatie nodig; neem contact op met Liberein voor de passende locatie.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://www.liberein.nl/faciliteiten/eten-en-drinken/sfeervolle-restaurants",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-liberein-16a7yrp"
   },
   {
     "id": "catalog-org-livio-het-saalmerink-hinmvy",

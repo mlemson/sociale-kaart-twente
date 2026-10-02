@@ -25914,7 +25914,17 @@
       "description": "Ontmoetingscentra voor mensen met lichte vergeetachtigheid en hun partners of mantelzorgers. Liberein heeft meerdere locaties in Enschede en Glanerbrug.",
       "audience": "Mensen met beginnende geheugenproblemen en hun naasten.",
       "access": "Geen indicatie nodig; neem contact op met Liberein voor de passende locatie.",
-      "costs": "Gesubsidieerd door de gemeente; actuele voorwaarden navragen."
+      "costs": "Gesubsidieerd door de gemeente; actuele voorwaarden navragen.",
+      "address": "Pater Ten Winkelstraat 3-3",
+      "postcode": "7532DC",
+      "town": "Enschede",
+      "lat": 52.21596662,
+      "lon": 6.97751466,
+      "locationMunicipality": "Enschede",
+      "locationType": "source-address",
+      "locationSource": "https://www.liberein.nl/faciliteiten/eten-en-drinken/sfeervolle-restaurants",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25947,7 +25957,17 @@
       "description": "Restaurants en grand cafés op meerdere Liberein-locaties waar ook buurt- en wijkbewoners welkom zijn om iets te drinken of samen te eten.",
       "audience": "Wijkbewoners, ouderen, bewoners en bezoekers.",
       "access": "Vrij toegankelijk tijdens openingstijden; voor een dagmenu wordt reserveren aangeraden.",
-      "costs": "Consumpties en maaltijden tegen betaling."
+      "costs": "Consumpties en maaltijden tegen betaling.",
+      "address": "Pater Ten Winkelstraat 3-3",
+      "postcode": "7532DC",
+      "town": "Enschede",
+      "lat": 52.21596662,
+      "lon": 6.97751466,
+      "locationMunicipality": "Enschede",
+      "locationType": "source-address",
+      "locationSource": "https://www.liberein.nl/faciliteiten/eten-en-drinken/sfeervolle-restaurants",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -25984,7 +26004,13 @@
       "address": "Backenhagenlaan 200",
       "postcode": "7557KE",
       "town": "Hengelo",
-      "locationType": "visiting"
+      "locationType": "visiting",
+      "lat": 52.27345879,
+      "lon": 6.80657924,
+      "locationMunicipality": "Hengelo (O)",
+      "locationSource": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26017,7 +26043,17 @@
       "description": "Terugkerende ontmoeting bij Erve Kraesgenberg voor ouderen met gedeelde interesse in cultuur en gezelligheid.",
       "audience": "Ouderen in de gemeente Losser.",
       "access": "Volgens de actuele agenda.",
-      "costs": "Controleer actuele bijdrage."
+      "costs": "Controleer actuele bijdrage.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26050,7 +26086,17 @@
       "description": "Maandelijkse samenkomst in 't Lossers hoes voor mensen die slechtziend zijn.",
       "audience": "Inwoners met een visuele beperking.",
       "access": "Volgens de actuele agenda.",
-      "costs": "Laagdrempelig."
+      "costs": "Laagdrempelig.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26085,7 +26131,17 @@
       "description": "Laagdrempelige inloop voor (aanstaande) ouders en verzorgers met kinderen, met ontmoeting en wisselende thema’s.",
       "audience": "Aanstaande ouders, ouders/verzorgers en jonge kinderen.",
       "access": "Volgens de actuele agenda.",
-      "costs": "Laagdrempelig."
+      "costs": "Laagdrempelig.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26118,7 +26174,17 @@
       "description": "Maandelijkse gezamenlijke maaltijd in Overdinkel, georganiseerd rond internationale gerechten en ontmoeting.",
       "audience": "Inwoners van Losser en omgeving.",
       "access": "Volgens de actuele agenda; reserveren kan nodig zijn.",
-      "costs": "Controleer actuele maaltijdprijs."
+      "costs": "Controleer actuele maaltijdprijs.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26152,7 +26218,17 @@
       "description": "Samen tuinieren, bloemen en groente zien groeien en leren over gezonde voeding.",
       "audience": "Inwoners die samen buiten actief willen zijn.",
       "access": "Volgens de actuele agenda.",
-      "costs": "Laagdrempelig."
+      "costs": "Laagdrempelig.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26186,7 +26262,17 @@
       "description": "Vaste laagdrempelige beweeggroep om samen met buurtgenoten buiten actief te zijn.",
       "audience": "Inwoners van Oldenzaal.",
       "access": "Volgens de actuele agenda.",
-      "costs": "Controleer actuele bijdrage."
+      "costs": "Controleer actuele bijdrage.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26220,7 +26306,17 @@
       "description": "Naschoolse activiteit voor leerlingen van Twents Carmel College locatie De Thij.",
       "audience": "Leerlingen van TCC De Thij.",
       "access": "Volgens de actuele agenda.",
-      "costs": "Laagdrempelig."
+      "costs": "Laagdrempelig.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26258,7 +26354,13 @@
       "address": "Wilhelminastraat 5",
       "postcode": "7571CE",
       "town": "Oldenzaal",
-      "locationType": "visiting"
+      "locationType": "visiting",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26291,7 +26393,17 @@
       "description": "Gezelligheidsvereniging en ontmoetingsplek voor jong en oud in Den Ham.",
       "audience": "Inwoners van Den Ham en omgeving.",
       "access": "Via het actuele programma van ZorgSaam.",
-      "costs": "Controleer actuele bijdrage."
+      "costs": "Controleer actuele bijdrage.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26325,7 +26437,17 @@
       "description": "Wandelclub in Den Ham om samen actief te zijn en anderen te ontmoeten.",
       "audience": "Inwoners die graag samen wandelen.",
       "access": "Via het actuele programma van ZorgSaam.",
-      "costs": "Controleer actuele bijdrage."
+      "costs": "Controleer actuele bijdrage.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     }
   ],
   "sources": [
