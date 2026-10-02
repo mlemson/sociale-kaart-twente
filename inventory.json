@@ -4526,7 +4526,7 @@
       "sourceTitle": "Impuls",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "advies",
+      "category": "jeugd",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -4535,13 +4535,13 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "advies",
-        "jeugd"
+        "jeugd",
+        "advies"
       ],
       "subthemes": [],
       "tags": [
-        "advies",
-        "jeugd"
+        "jeugd",
+        "advies"
       ],
       "municipality": "Oldenzaal",
       "enrichment": {
@@ -4574,7 +4574,7 @@
           "town"
         ]
       },
-      "primaryTheme": "advies",
+      "primaryTheme": "jeugd",
       "postcode": "7571CE",
       "lat": 52.31188249,
       "lon": 6.93145973,
@@ -4584,7 +4584,10 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "onderwijs/opvoeden"
-      ]
+      ],
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-39307b9e2fb5648e",
@@ -5317,7 +5320,10 @@
       "lon": 6.8702088,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-653c4f9e44aa0e89",
@@ -5752,7 +5758,7 @@
       "sourceTitle": "Noaberpoort",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "vrijwillig",
+      "category": "vervoer",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -5761,15 +5767,15 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "vrijwillig",
-        "vervoer"
+        "vervoer",
+        "vrijwillig"
       ],
       "subthemes": [
         "vervoer"
       ],
       "tags": [
-        "vrijwillig",
-        "vervoer"
+        "vervoer",
+        "vrijwillig"
       ],
       "municipality": "Haaksbergen",
       "enrichment": {
@@ -5802,7 +5808,7 @@
           "town"
         ]
       },
-      "primaryTheme": "vrijwillig",
+      "primaryTheme": "vervoer",
       "postcode": "7481EB",
       "lat": 52.15500987,
       "lon": 6.74219044,
@@ -5812,7 +5818,10 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "vervoer/sociaal"
-      ]
+      ],
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-90bb25530d6fef0e",
@@ -5824,7 +5833,7 @@
       "sourceTitle": "Noaberpoort",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "ontmoeten",
+      "category": "advies",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -5833,13 +5842,13 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "ontmoeten",
-        "advies"
+        "advies",
+        "ontmoeten"
       ],
       "subthemes": [],
       "tags": [
-        "ontmoeten",
-        "advies"
+        "advies",
+        "ontmoeten"
       ],
       "municipality": "Haaksbergen",
       "enrichment": {
@@ -5872,7 +5881,7 @@
           "town"
         ]
       },
-      "primaryTheme": "ontmoeten",
+      "primaryTheme": "advies",
       "postcode": "7481EB",
       "lat": 52.15500987,
       "lon": 6.74219044,
@@ -5882,7 +5891,10 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "veiligheid/buren"
-      ]
+      ],
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-05d1a1bf459a137d",
@@ -5958,7 +5970,7 @@
       "sourceTitle": "Noaberpoort",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "ontmoeten",
+      "category": "advies",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -5967,15 +5979,15 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "ontmoeten",
-        "advies"
+        "advies",
+        "ontmoeten"
       ],
       "subthemes": [
         "maatschappelijke ondersteuning"
       ],
       "tags": [
-        "ontmoeten",
         "advies",
+        "ontmoeten",
         "maatschappelijke ondersteuning"
       ],
       "municipality": "Haaksbergen",
@@ -6009,7 +6021,7 @@
           "town"
         ]
       },
-      "primaryTheme": "ontmoeten",
+      "primaryTheme": "advies",
       "postcode": "7481EB",
       "lat": 52.15500987,
       "lon": 6.74219044,
@@ -6019,7 +6031,10 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "zorg/clientsteun"
-      ]
+      ],
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-525880103378b258",
@@ -6300,7 +6315,7 @@
       "sourceTitle": "Noaberpoort",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "ontmoeten",
+      "category": "advies",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -6309,15 +6324,15 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "ontmoeten",
-        "advies"
+        "advies",
+        "ontmoeten"
       ],
       "subthemes": [
         "maatschappelijke ondersteuning"
       ],
       "tags": [
-        "ontmoeten",
         "advies",
+        "ontmoeten",
         "maatschappelijke ondersteuning"
       ],
       "municipality": "Haaksbergen",
@@ -6351,14 +6366,17 @@
           "town"
         ]
       },
-      "primaryTheme": "ontmoeten",
+      "primaryTheme": "advies",
       "postcode": "7481EB",
       "lat": 52.15500987,
       "lon": 6.74219044,
       "locationMunicipality": "Haaksbergen",
       "locationType": "source-address",
       "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-e17a5f7a56bd6fa2",
@@ -7176,15 +7194,15 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "ontmoeten",
-        "mentaal"
+        "mentaal",
+        "ontmoeten"
       ],
       "subthemes": [
         "ontmoeting"
       ],
       "tags": [
-        "ontmoeten",
         "mentaal",
+        "ontmoeten",
         "ontmoeting"
       ],
       "municipality": "Almelo",
@@ -7226,7 +7244,10 @@
       "locationMunicipality": "Almelo",
       "locationType": "contact",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327924/invis2/realcovery-inloophuis-locatie-almelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-a755d2b0913553dc",
@@ -7496,7 +7517,7 @@
       "sourceTitle": "Salut",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "taal",
+      "category": "mentaal",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -7505,16 +7526,16 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "taal",
-        "mentaal"
+        "mentaal",
+        "taal"
       ],
       "subthemes": [
         "mentaal welzijn & herstel"
       ],
       "audience": "Mensen met psychische kwetsbaarheid of herstelvragen",
       "tags": [
-        "taal",
         "mentaal",
+        "taal",
         "mentaal welzijn & herstel"
       ],
       "municipality": "Hof van Twente",
@@ -7550,7 +7571,7 @@
           "town"
         ]
       },
-      "primaryTheme": "taal",
+      "primaryTheme": "mentaal",
       "postcode": "7471BR",
       "lat": 52.23293368,
       "lon": 6.58569353,
@@ -7560,7 +7581,10 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "mentaal/welzijn"
-      ]
+      ],
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-0b44a165b483f67b",
@@ -8223,7 +8247,7 @@
       "sourceTitle": "Sociaal, dat werkt!",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "vrijwillig",
+      "category": "vervoer",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -8232,15 +8256,15 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "vrijwillig",
-        "vervoer"
+        "vervoer",
+        "vrijwillig"
       ],
       "subthemes": [
         "vervoer"
       ],
       "tags": [
-        "vrijwillig",
-        "vervoer"
+        "vervoer",
+        "vrijwillig"
       ],
       "enrichment": {
         "version": 2,
@@ -8273,7 +8297,7 @@
           "town"
         ]
       },
-      "primaryTheme": "vrijwillig",
+      "primaryTheme": "vervoer",
       "postcode": "7651LZ",
       "lat": 52.41076671,
       "lon": 6.78027092,
@@ -8283,7 +8307,10 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "vervoer/sociaal"
-      ]
+      ],
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-7e6b275e7be29ad9",
@@ -9987,7 +10014,10 @@
       "locationMunicipality": "Enschede",
       "locationType": "source-address",
       "locationSource": "https://stichtingpresent.nl/enschede/ik-zoek-hulp-2/",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-c7dc126af907188c",
@@ -10639,7 +10669,7 @@
       "sourceTitle": "ViaVie Welzijn",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "advies",
+      "category": "jeugd",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -10648,13 +10678,13 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "advies",
-        "jeugd"
+        "jeugd",
+        "advies"
       ],
       "subthemes": [],
       "tags": [
-        "advies",
-        "jeugd"
+        "jeugd",
+        "advies"
       ],
       "municipality": "Rijssen-Holten",
       "enrichment": {
@@ -10687,7 +10717,7 @@
           "town"
         ]
       },
-      "primaryTheme": "advies",
+      "primaryTheme": "jeugd",
       "postcode": "7462MZ",
       "lat": 52.30176737,
       "lon": 6.50070389,
@@ -10697,7 +10727,10 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "onderwijs/opvoeden"
-      ]
+      ],
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-6f708acd5b6eda78",
@@ -11643,7 +11676,10 @@
       "addressChecked": "2026-10-02",
       "guidePaths": [
         "vervoer/sociaal"
-      ]
+      ],
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-ccffe23858300861",
@@ -12078,7 +12114,7 @@
       "sourceTitle": "Wijkracht Borne",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "ontmoeten",
+      "category": "advies",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -12087,14 +12123,14 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "ontmoeten",
-        "advies"
+        "advies",
+        "ontmoeten"
       ],
       "subthemes": [],
       "audience": "Ouderen / senioren",
       "tags": [
-        "ontmoeten",
-        "advies"
+        "advies",
+        "ontmoeten"
       ],
       "municipality": "Borne",
       "enrichment": {
@@ -12129,14 +12165,17 @@
           "town"
         ]
       },
-      "primaryTheme": "ontmoeten",
+      "primaryTheme": "advies",
       "postcode": "7555CR",
       "lat": 52.26218618,
       "lon": 6.77660084,
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkrachtborne.nl/jmz",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-3c4b090b9414c602",
@@ -12687,7 +12726,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-2a66e59763d5060f",
@@ -12767,7 +12809,7 @@
       "sourceTitle": "Wijkracht Hengelo",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "vrijwillig",
+      "category": "vervoer",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -12776,15 +12818,15 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "vrijwillig",
-        "vervoer"
+        "vervoer",
+        "vrijwillig"
       ],
       "subthemes": [
         "vervoer"
       ],
       "tags": [
-        "vrijwillig",
-        "vervoer"
+        "vervoer",
+        "vrijwillig"
       ],
       "municipality": "Hengelo",
       "enrichment": {
@@ -12817,7 +12859,7 @@
           "town"
         ]
       },
-      "primaryTheme": "vrijwillig",
+      "primaryTheme": "vervoer",
       "postcode": "7555CR",
       "lat": 52.26218618,
       "lon": 6.77660084,
@@ -12827,7 +12869,10 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "vervoer/sociaal"
-      ]
+      ],
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-2fa843b02871fa7d",
@@ -13419,7 +13464,10 @@
         "migratie/nieuwkomer"
       ],
       "phone": "088 945 57 22",
-      "email": "info@wijkracht.nl"
+      "email": "info@wijkracht.nl",
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-09cde8ea27ce396b",
@@ -13563,7 +13611,7 @@
       "sourceTitle": "Wijkracht Hengelo",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "ontmoeten",
+      "category": "advies",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -13572,14 +13620,14 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "ontmoeten",
-        "advies"
+        "advies",
+        "ontmoeten"
       ],
       "subthemes": [],
       "audience": "Ouderen / senioren",
       "tags": [
-        "ontmoeten",
-        "advies"
+        "advies",
+        "ontmoeten"
       ],
       "municipality": "Hengelo",
       "enrichment": {
@@ -13613,14 +13661,17 @@
           "town"
         ]
       },
-      "primaryTheme": "ontmoeten",
+      "primaryTheme": "advies",
       "postcode": "7555CR",
       "lat": 52.26218618,
       "lon": 6.77660084,
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-8a9a61433175ee0b",
@@ -14369,7 +14420,7 @@
       "sourceTitle": "ZorgSaam Twenterand",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "ontmoeten",
+      "category": "jeugd",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -14418,7 +14469,7 @@
           "town"
         ]
       },
-      "primaryTheme": "ontmoeten",
+      "primaryTheme": "jeugd",
       "postcode": "7681ZP",
       "lat": 52.45816146,
       "lon": 6.56844898,
@@ -14428,7 +14479,10 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "onderwijs/opvoeden"
-      ]
+      ],
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-30ec75a0832d7945",
@@ -14642,7 +14696,7 @@
       "sourceTitle": "ZorgSaam Twenterand",
       "sourceKind": "provider",
       "checked": "2026-09-15",
-      "category": "taal",
+      "category": "vrijwillig",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -14651,16 +14705,16 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "taal",
-        "vrijwillig"
+        "vrijwillig",
+        "taal"
       ],
       "subthemes": [
         "vrijwillige inzet"
       ],
       "audience": "(Potentiële) vrijwilligers",
       "tags": [
-        "taal",
         "vrijwillig",
+        "taal",
         "vrijwillige inzet"
       ],
       "municipality": "Twenterand",
@@ -14696,14 +14750,17 @@
           "town"
         ]
       },
-      "primaryTheme": "taal",
+      "primaryTheme": "vrijwillig",
       "postcode": "7681ZP",
       "lat": 52.45816146,
       "lon": 6.56844898,
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "categoryReviewed": true,
+      "categoryReviewedAt": "2026-10-02",
+      "categoryReviewNote": "Handmatig gecontroleerd op basis van naam, bron en Wegwijzer-route."
     },
     {
       "id": "candidate-f4b0a015d9120de6",
