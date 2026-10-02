@@ -13201,6 +13201,53 @@
       "locationType": "visiting",
       "mapLocationType": "address",
       "mapPin": true
+    },
+    {
+      "id": "extra-20261003-oldenzaal-alzheimer-cafe-rouwhorst",
+      "name": "Alzheimer Café Oldenzaal · Rouwhorst",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/alzheimercafe/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "sourceKind": "first-party",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / lotgenoten en informatie",
+      "status": "candidate",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "locationMunicipality": "Oldenzaal",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "dementie",
+        "lotgenoten",
+        "informatie"
+      ],
+      "tags": [
+        "dementie",
+        "mantelzorg",
+        "lotgenoten",
+        "Alzheimer Café",
+        "Oldenzaal"
+      ],
+      "guidePaths": [
+        "zorg/dementie",
+        "zorg/mantelzorg"
+      ],
+      "description": "Informeel trefpunt voor mensen met dementie, naasten, hulpverleners en andere belangstellenden met informatie, ontmoeting en uitwisseling van ervaringen.",
+      "audience": "Mensen met dementie, partners, familie, vrienden, hulpverleners en belangstellenden.",
+      "access": "Zes avonden per jaar; aanmelden is niet nodig, bezoekers kunnen zo binnenlopen.",
+      "costs": "Gratis toegankelijk.",
+      "address": "Ootmarsumsestraat 9",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true
     }
   ],
   "addressEnrichmentVersion": 1,
