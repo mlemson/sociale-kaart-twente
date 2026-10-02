@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'inventory.json'
+      - 'inventory.extra.json'
       - 'tools/enrich_addresses.py'
       - 'tools/build_catalog.py'
   workflow_dispatch:
@@ -32,12 +33,12 @@ jobs:
         run: python tools/build_catalog.py
       - name: Sla gewijzigde bron- en kaartdata op
         run: |
-          if git diff --quiet -- inventory.json data/; then
+          if git diff --quiet -- inventory.json inventory.extra.json data/; then
             echo "Geen wijzigingen"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add inventory.json data/facilities.json data/catalog.json data/review-queue.json
+          git add inventory.json inventory.extra.json data/facilities.json data/catalog.json data/review-queue.json
           git commit -m "Werk adressen en sociale kaart catalogus bij"
           git push
