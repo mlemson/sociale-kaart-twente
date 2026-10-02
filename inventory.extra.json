@@ -1,0 +1,5765 @@
+{
+  "checked": "2026-10-02",
+  "method": "Aanvullende, handmatig onderzochte concrete trainingen, inlopen, cursussen en daginvulling zonder indicatie. Wordt automatisch gegeocodeerd en samengevoegd met inventory.json.",
+  "sources": [
+    {
+      "title": "Stichting De Welle",
+      "url": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+      "municipalities": [
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Stichting De Welle",
+      "url": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
+      "municipalities": [
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Stichting De Welle",
+      "url": "https://www.dewelledoet.nl/activiteiten/20",
+      "municipalities": [
+        "Hellendoorn"
+      ]
+    },
+    {
+      "title": "Stichting De Welle",
+      "url": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
+      "municipalities": [
+        "Hellendoorn"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/onderwerpen/ouder-worden/anwb-automaatje/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/onderwerpen/vrijwilligerszaken/steungezinnen/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/trainingen-cursussen/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/onderwerpen/geldzaken-en-formulieren/jouw-loket/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Salut",
+      "url": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Fundament Losser",
+      "url": "https://www.fundamentlosser.nl/agenda/",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "Wijkracht",
+      "url": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+      "municipalities": [
+        "Hengelo"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/creatieve-club/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/keerls-proat/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/agenda/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Sociaal, dat werkt!",
+      "url": "https://swtd.nl/",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/jongerencentrum-hole-10-3-548-922-720/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/taalcafe-holten-336-292/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/buurthuiskamer-oude-plus/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/wandelgroep-923-544/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/wandelgroep/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/buurtband-repetitie-287/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/wereldse-vrouwen/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Welzijn",
+      "url": "https://viaviewelzijn.nl/events/fietslessen-voor-statushouders/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "Wijkwijzer Enschede",
+      "url": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Gemeente Enschede",
+      "url": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Resto VanHarte",
+      "url": "https://www.restovanharte.nl/locaties/enschede",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Seniorenwijzer Enschede 2026",
+      "url": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Alifa",
+      "url": "https://www.alifa.nl/activiteiten",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Noaberpoort",
+      "url": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+      "municipalities": [
+        "Haaksbergen"
+      ]
+    },
+    {
+      "title": "Noaberpoort",
+      "url": "https://www.noaberpoort.nl/%2891362%29-Noaberpoort/Welzijn-ampamp-Zorg/Odensehuis.html",
+      "municipalities": [
+        "Haaksbergen"
+      ]
+    },
+    {
+      "title": "Chess Club Enschede Inclusief",
+      "url": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Kracht van Verenigingen / Wijkwijzer Enschede",
+      "url": "https://rigtersbleek.nl/voorliggende-voorziening/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Kracht van Verenigingen / Wijkwijzer Enschede",
+      "url": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Repair Café",
+      "url": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Repair Café",
+      "url": "https://www.stroinkshuis.nl/huisgenoten-en-huurders/85/repair-caf",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Repair Café",
+      "url": "https://repaircafeenschedezuiderspeeltuin.wordpress.com/about/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Nivon Enschede",
+      "url": "https://enschede.nivon.nl/agenda/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Nivon Enschede",
+      "url": "https://enschede.nivon.nl/activiteiten/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Gemeente Enschede",
+      "url": "https://www.enschede.nl/kent-u-al-de-nieuwe-ontmoetingsplek-in-sportkantine-de-brug-in-glanerbrug",
+      "municipalities": [
+        "Enschede"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-dewelle-inloop-wierden",
+      "name": "De Welle · Inloop Wierden",
+      "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Gratis wekelijkse inloop voor ontmoeting en vragen.",
+      "audience": "Inwoners van de betreffende gemeente.",
+      "access": "Bekijk de actuele tijden bij De Welle.",
+      "costs": "Gratis.",
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+      "mapPin": true,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-dewelle-hobbyclub-wierden",
+      "name": "De Welle · Hobbyclub Wierden",
+      "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Gratis wekelijkse hobby- en handwerkgroep.",
+      "audience": "Inwoners van de betreffende gemeente.",
+      "access": "Bekijk de actuele tijden bij De Welle.",
+      "costs": "Gratis.",
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+      "mapPin": true,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-dewelle-schilderclub-wierden",
+      "name": "De Welle · Schilderclub Wierden",
+      "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Gratis wekelijkse schildergroep voor inwoners.",
+      "audience": "Inwoners van de betreffende gemeente.",
+      "access": "Bekijk de actuele tijden bij De Welle.",
+      "costs": "Gratis.",
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+      "mapPin": true,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-dewelle-kom-d-r-in-wierden",
+      "name": "De Welle · Kom d'r In Wierden",
+      "source": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "mantelzorg",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Vrij toegankelijke ontmoeting voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
+      "audience": "Inwoners van de betreffende gemeente.",
+      "access": "Bekijk de actuele tijden bij De Welle.",
+      "costs": "Gratis.",
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "locationType": "visiting",
+      "locationSource": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
+      "mapPin": true,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-dewelle-kom-d-r-in-enter",
+      "name": "De Welle · Kom d'r In Enter",
+      "source": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "mantelzorg",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Vrij toegankelijke ontmoeting voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
+      "audience": "Inwoners van de betreffende gemeente.",
+      "access": "Bekijk de actuele tijden bij De Welle.",
+      "costs": "Gratis.",
+      "address": "Dorpsstraat 55",
+      "postcode": "7468CE",
+      "town": "Enter",
+      "locationType": "visiting",
+      "locationSource": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
+      "mapPin": true,
+      "lat": 52.29697899,
+      "lon": 6.57791904,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-dewelle-beweegtuin-wierden",
+      "name": "De Welle · Beweegtuin Wierden",
+      "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "bewegen",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelig samen bewegen met aandacht voor kracht, conditie en balans.",
+      "audience": "Inwoners van de betreffende gemeente.",
+      "access": "Bekijk de actuele tijden bij De Welle.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "'t Wedervoort 2",
+      "postcode": "7641VB",
+      "town": "Wierden",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
+      "mapPin": true,
+      "lat": 52.35859255,
+      "lon": 6.59677896,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-dewelle-jongerencentrum-place2be",
+      "name": "De Welle · Jongerencentrum Place2Be",
+      "source": "https://www.dewelledoet.nl/activiteiten/20",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "jeugd",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Gratis jongerencentrum met inloop, activiteiten en jongerenwerk.",
+      "audience": "Inwoners van de betreffende gemeente.",
+      "access": "Bekijk de actuele tijden bij De Welle.",
+      "costs": "Gratis.",
+      "address": "Duivecatelaan 4",
+      "postcode": "7443PS",
+      "town": "Nijverdal",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/20",
+      "mapPin": true,
+      "lat": 52.37336055,
+      "lon": 6.45999551,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-dewelle-koffieklets-nijverdal",
+      "name": "De Welle · Koffieklets Nijverdal",
+      "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Gratis terugkerende koffie-inloop en ontmoeting.",
+      "audience": "Inwoners van de betreffende gemeente.",
+      "access": "Bekijk de actuele tijden bij De Welle.",
+      "costs": "Gratis.",
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "locationType": "source-address",
+      "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
+      "mapPin": false,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-dewelle-wandelgroep-hellendoorn",
+      "name": "De Welle · Wandelgroep Hellendoorn",
+      "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
+      "sourceTitle": "Stichting De Welle",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "bewegen",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Gratis terugkerende wandelgroep.",
+      "audience": "Inwoners van de betreffende gemeente.",
+      "access": "Bekijk de actuele tijden bij De Welle.",
+      "costs": "Gratis.",
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "locationType": "source-address",
+      "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
+      "mapPin": false,
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-salut-anwb-automaatje",
+      "name": "Salut · ANWB AutoMaatje",
+      "source": "https://salut-welzijn.nl/onderwerpen/ouder-worden/anwb-automaatje/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "vervoer",
+      "primaryTheme": "vervoer",
+      "themes": [
+        "vervoer"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "vervoer",
+        "gratis",
+        "training"
+      ],
+      "description": "Vrijwilligers vervoeren minder mobiele plaatsgenoten naar afspraken en sociale activiteiten.",
+      "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
+      "access": "Rechtstreeks via Salut; controleer actuele startdata.",
+      "costs": "Onkostenvergoeding per kilometer.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-salut-steungezinnen",
+      "name": "Salut · Steungezinnen",
+      "source": "https://salut-welzijn.nl/onderwerpen/vrijwilligerszaken/steungezinnen/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "jeugd",
+        "gratis",
+        "training"
+      ],
+      "description": "Koppelt gezinnen die tijdelijk steun kunnen gebruiken aan een vrijwillig steungezin.",
+      "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
+      "access": "Rechtstreeks via Salut; controleer actuele startdata.",
+      "costs": "Gratis.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-salut-omgaan-met-dementie",
+      "name": "Salut · Omgaan met dementie",
+      "source": "https://salut-welzijn.nl/trainingen-cursussen/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "mantelzorg",
+        "gratis",
+        "training"
+      ],
+      "description": "Gratis groepstraining over herkennen van dementie en praktisch omgaan met situaties.",
+      "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
+      "access": "Rechtstreeks via Salut; controleer actuele startdata.",
+      "costs": "Gratis.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-salut-iedereen-doet-mee-dementievriendelijk",
+      "name": "Salut · Iedereen doet mee - dementievriendelijk",
+      "source": "https://salut-welzijn.nl/trainingen-cursussen/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "mantelzorg",
+        "gratis",
+        "training"
+      ],
+      "description": "Gratis themabijeenkomst voor verenigingen en clubs over mensen met dementie blijven betrekken.",
+      "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
+      "access": "Rechtstreeks via Salut; controleer actuele startdata.",
+      "costs": "Gratis.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-salut-ido-en-oefenplein-bibliotheek-goor",
+      "name": "Salut · IDO en Oefenplein Bibliotheek Goor",
+      "source": "https://salut-welzijn.nl/onderwerpen/geldzaken-en-formulieren/jouw-loket/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "taal",
+        "gratis",
+        "training"
+      ],
+      "description": "Gratis hulp bij digitale overheidszaken en oefenen met digitale, taal- en rekenvaardigheden.",
+      "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
+      "access": "Rechtstreeks via Salut; controleer actuele startdata.",
+      "costs": "Gratis.",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-salut-alzheimer-cafe",
+      "name": "Salut · Alzheimer Café Hof van Twente",
+      "source": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
+      "sourceTitle": "Salut",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "dementie",
+        "ontmoeten"
+      ],
+      "tags": [
+        "dementie",
+        "mantelzorg",
+        "ontmoeten",
+        "gratis"
+      ],
+      "description": "Gratis ontmoetings- en informatieavond voor mensen met dementie, naasten en geïnteresseerden.",
+      "audience": "Mensen met dementie, mantelzorgers, naasten en geïnteresseerden.",
+      "access": "Vrije inloop; aanmelden is niet nodig.",
+      "costs": "Gratis.",
+      "address": "de Höfte 5",
+      "postcode": "7471DK",
+      "town": "Goor",
+      "locationType": "visiting",
+      "locationSource": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
+      "mapPin": true,
+      "lat": 52.23333695,
+      "lon": 6.58441448,
+      "locationMunicipality": "Hof van Twente",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-fundament-actieve-ontmoeting-losser",
+      "name": "Fundament Losser · Actieve Ontmoeting Losser",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "daginvulling",
+        "taal"
+      ],
+      "description": "Vaste daginvulling met bewegen, samen koken, eten en ontmoeting.",
+      "audience": "Inwoners van de gemeente Losser.",
+      "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
+      "costs": "Bijdrage volgens het actuele programma.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "locationType": "service",
+      "locationSource": "https://www.fundamentlosser.nl/agenda/",
+      "mapPin": true,
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-fundament-actieve-ontmoeting-overdinkel",
+      "name": "Fundament Losser · Actieve Ontmoeting Overdinkel",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "daginvulling",
+        "taal"
+      ],
+      "description": "Vaste daginvulling met bewegen, samen koken, eten en ontmoeting.",
+      "audience": "Inwoners van de gemeente Losser.",
+      "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
+      "costs": "Bijdrage volgens het actuele programma.",
+      "address": "Prins Hendrikstraat 1",
+      "postcode": "7586BG",
+      "town": "Overdinkel",
+      "locationType": "service",
+      "locationSource": "https://www.fundamentlosser.nl/agenda/",
+      "mapPin": true,
+      "lat": 52.23875481,
+      "lon": 7.03503715,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-fundament-koffie-inloop-kiekerskaamp",
+      "name": "Fundament Losser · Koffie Inloop Kiekerskaamp",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "daginvulling",
+        "taal"
+      ],
+      "description": "Terugkerende koffie-inloop voor sociale contacten en daginvulling.",
+      "audience": "Inwoners van de gemeente Losser.",
+      "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
+      "costs": "Laagdrempelig; controleer eventuele bijdrage.",
+      "address": "Denekamperdijk 46",
+      "postcode": "7581PJ",
+      "town": "Losser",
+      "locationType": "service",
+      "locationSource": "https://www.fundamentlosser.nl/agenda/",
+      "mapPin": true,
+      "lat": 52.27295387,
+      "lon": 7.01981524,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-fundament-taalpunt-losser",
+      "name": "Fundament Losser · Taalpunt Losser",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "daginvulling",
+        "taal"
+      ],
+      "description": "Hulp bij Nederlands spreken, lezen en schrijven en digitale basisvaardigheden.",
+      "audience": "Inwoners van de gemeente Losser.",
+      "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
+      "costs": "Laagdrempelig; controleer eventuele bijdrage.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "locationType": "service",
+      "locationSource": "https://www.fundamentlosser.nl/agenda/",
+      "mapPin": true,
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-fundament-kidsplay",
+      "name": "Fundament Losser · Kidsplay",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "jeugd",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Wekelijkse creatieve en spelactiviteit voor kinderen van 5 tot en met 12 jaar in Overdinkel.",
+      "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-fundament-maaklab",
+      "name": "Fundament Losser · MaakLab",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "jeugd",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Wekelijkse maakactiviteit met onder meer 3D-printer, lasersnijder en micro:bits.",
+      "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-fundament-mamapapacaf-",
+      "name": "Fundament Losser · MamaPapacafé",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "jeugd",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige terugkerende ontmoeting voor ouders en jonge kinderen.",
+      "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-fundament-digitaal-inloopcaf-",
+      "name": "Fundament Losser · Digitaal inloopcafé",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "taal",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Inloop voor vragen over tablet, smartphone, laptop en digitale zaken.",
+      "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-fundament-slechtzienden-ontmoeting",
+      "name": "Fundament Losser · Slechtzienden ontmoeting",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Maandelijkse ontmoeting voor slechtziende inwoners.",
+      "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-fundament-de-culturele-ontmoeting",
+      "name": "Fundament Losser · De Culturele Ontmoeting",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Terugkerende ontmoeting voor ouderen rond cultuur en samenzijn.",
+      "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "locationType": "contact",
+      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkracht-wijkhuys-hasselo",
+      "name": "Wijkracht Hengelo · Wijkhuys Hasselo",
+      "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+      "sourceTitle": "Wijkracht",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "vrij toegankelijke voorziening",
+        "daginvulling"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijkhuys",
+        "daginvulling",
+        "vrij toegankelijk"
+      ],
+      "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
+      "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
+      "access": "Vrij toegankelijk; vraag naar het actuele programma.",
+      "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
+      "address": "Henry Woodstraat 62",
+      "postcode": "7558CP",
+      "town": "Hengelo",
+      "locationType": "service",
+      "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+      "mapPin": true,
+      "lat": 52.28498888,
+      "lon": 6.829373,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkracht-wijkhuys-nijverheid",
+      "name": "Wijkracht Hengelo · Wijkhuys Nijverheid",
+      "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+      "sourceTitle": "Wijkracht",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "vrij toegankelijke voorziening",
+        "daginvulling"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijkhuys",
+        "daginvulling",
+        "vrij toegankelijk"
+      ],
+      "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
+      "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
+      "access": "Vrij toegankelijk; vraag naar het actuele programma.",
+      "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
+      "address": "Wilderinksstraat 5-9",
+      "postcode": "7555DS",
+      "town": "Hengelo",
+      "locationType": "service",
+      "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+      "mapPin": true,
+      "lat": 52.25817303,
+      "lon": 6.7758793,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkracht-wijkhuys-weidedorp",
+      "name": "Wijkracht Hengelo · Wijkhuys Weidedorp",
+      "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+      "sourceTitle": "Wijkracht",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "vrij toegankelijke voorziening",
+        "daginvulling"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijkhuys",
+        "daginvulling",
+        "vrij toegankelijk"
+      ],
+      "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
+      "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
+      "access": "Vrij toegankelijk; vraag naar het actuele programma.",
+      "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
+      "address": "Curaçaostraat 10",
+      "postcode": "7556TM",
+      "town": "Hengelo",
+      "locationType": "service",
+      "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+      "mapPin": true,
+      "lat": 52.27074775,
+      "lon": 6.7819718,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-de-creatieve-club-vroomshoop",
+      "name": "ZorgSaam Twenterand · De Creatieve Club Vroomshoop",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/creatieve-club/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Wekelijkse creatieve club met onder meer breien, haken, tekenen en diamond painting.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/creatieve-club/",
+      "mapPin": true,
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-keerls-proat-vriezenveen",
+      "name": "ZorgSaam Twenterand · Keerls Proat Vriezenveen",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/keerls-proat/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Wekelijkse ontmoetingsmiddag voor mannen met biljart, spel, koffie en gesprekken.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
+      "address": "Westeinde 6",
+      "postcode": "7671CC",
+      "town": "Vriezenveen",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/keerls-proat/",
+      "mapPin": true,
+      "lat": 52.41304108,
+      "lon": 6.62769739,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-ontmoetingscentrum-vriezenveen",
+      "name": "ZorgSaam Twenterand · Ontmoetingscentrum Vriezenveen",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "mantelzorg",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Gratis ontmoetingscentrum voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Gratis.",
+      "address": "Schout Doddestraat 46b",
+      "postcode": "7671GT",
+      "town": "Vriezenveen",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "mapPin": true,
+      "lat": 52.40303647,
+      "lon": 6.62495457,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-ontmoetingscentrum-den-ham",
+      "name": "ZorgSaam Twenterand · Ontmoetingscentrum Den Ham",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "mantelzorg",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Gratis ontmoetingscentrum voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Gratis.",
+      "address": "Slingerweg 3",
+      "postcode": "7683BR",
+      "town": "Den Ham",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "mapPin": true,
+      "lat": 52.46270593,
+      "lon": 6.4974865,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-buurthuiskamer-vroomshoop",
+      "name": "ZorgSaam Twenterand · Buurthuiskamer Vroomshoop",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Gratis wekelijkse buurthuiskamer voor ontmoeting en praktische vragen.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Gratis.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "mapPin": true,
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-buurthuiskamer-westerhaar",
+      "name": "ZorgSaam Twenterand · Buurthuiskamer Westerhaar",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Gratis wekelijkse buurthuiskamer voor ontmoeting en praktische vragen.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Gratis.",
+      "address": "Beeklaan 1",
+      "postcode": "7676BC",
+      "town": "Westerhaar-Vriezenveensewijk",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "mapPin": true,
+      "lat": 52.45605307,
+      "lon": 6.62049369,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-buurthuiskamer-vriezenveen",
+      "name": "ZorgSaam Twenterand · Buurthuiskamer Vriezenveen",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Gratis wekelijkse buurthuiskamer voor ontmoeting en praktische vragen.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "Gratis.",
+      "address": "Schout Doddestraat 46a",
+      "postcode": "7671GT",
+      "town": "Vriezenveen",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
+      "mapPin": true,
+      "lat": 52.40293607,
+      "lon": 6.62598507,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-eetmee-westerhaar",
+      "name": "ZorgSaam Twenterand · EetMee Westerhaar",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "€7 per maaltijd volgens de actuele bron.",
+      "address": "Beeklaan 1",
+      "postcode": "7676BC",
+      "town": "Westerhaar-Vriezenveensewijk",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "mapPin": true,
+      "lat": 52.45605307,
+      "lon": 6.62049369,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-eetmee-den-ham",
+      "name": "ZorgSaam Twenterand · EetMee Den Ham",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "€7 per maaltijd volgens de actuele bron.",
+      "address": "Ommerweg 1a",
+      "postcode": "7683AV",
+      "town": "Den Ham",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "mapPin": true,
+      "lat": 52.46293802,
+      "lon": 6.48868664,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-eetmee-vroomshoop",
+      "name": "ZorgSaam Twenterand · EetMee Vroomshoop",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "€7 per maaltijd volgens de actuele bron.",
+      "address": "Burgemeester Koetjestraat 4",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "mapPin": true,
+      "lat": 52.45827574,
+      "lon": 6.56844426,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-eetmee-vriezenveen",
+      "name": "ZorgSaam Twenterand · EetMee Vriezenveen",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "terugkerende activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
+      "costs": "€7 per maaltijd volgens de actuele bron.",
+      "address": "Westeinde 342",
+      "postcode": "7671CM",
+      "town": "Vriezenveen",
+      "locationType": "service",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "mapPin": true,
+      "lat": 52.40882173,
+      "lon": 6.61493538,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-koffiekamer",
+      "name": "ZorgSaam Twenterand · Koffiekamer",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige ontmoetingsplek voor een praatje en afleiding.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-instuif",
+      "name": "ZorgSaam Twenterand · Instuif",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Vrijblijvende ontmoeting voor senioren met een wisselend programma.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-kakelklup",
+      "name": "ZorgSaam Twenterand · Kakelklup",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Gezellige club voor mensen met een verstandelijke beperking.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-fietsclub",
+      "name": "ZorgSaam Twenterand · Fietsclub",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "bewegen",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Wekelijks samen fietsen in een gemoedelijke sfeer.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgsaam-keep-fit",
+      "name": "ZorgSaam Twenterand · Keep Fit",
+      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "bewegen",
+        "activiteit",
+        "ontmoeten"
+      ],
+      "description": "Beweegactiviteit voor senioren met aandacht voor fit blijven en ontmoeting.",
+      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-impuls-huiskamer-de-thij-koffieplus",
+      "name": "Impuls · Huiskamer De Thij / KoffiePlus",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "creatief"
+      ],
+      "description": "Terugkerende huiskamer en koffie-inloop om buurtgenoten te ontmoeten en creatief bezig te zijn.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Vrije inloop volgens de actuele agenda.",
+      "costs": "Laagdrempelig; controleer eventuele materiaal- of consumptiekosten.",
+      "address": "Willem Dingeldeinstraat 53",
+      "postcode": "7576TT",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "mapPin": true,
+      "lat": 52.31423073,
+      "lon": 6.90839465,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-impuls-zaterdaginloop-aveleijn-impuls",
+      "name": "Impuls · Zaterdaginloop Aveleijn-Impuls",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "creatief"
+      ],
+      "description": "Tweewekelijkse zaterdaginloop voor mensen die anderen willen ontmoeten en zich minder thuis voelen bij grote groepen.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Vrije inloop volgens de actuele agenda.",
+      "costs": "Laagdrempelig; controleer eventuele materiaal- of consumptiekosten.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "mapPin": true,
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-impuls-laplab",
+      "name": "Impuls · Laplab",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "creatief"
+      ],
+      "description": "Wekelijkse creatieve inloopruimte voor textiel en duurzame projecten.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Vrije inloop volgens de actuele agenda.",
+      "costs": "Laagdrempelig; controleer eventuele materiaal- of consumptiekosten.",
+      "address": "Nijverheidsstraat 97",
+      "postcode": "7575BH",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+      "mapPin": true,
+      "lat": 52.29378759,
+      "lon": 6.92796947,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-inloop-ochtend-eschede",
+      "name": "Sociaal, dat werkt! · Inloop ochtend Eschede",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Huiskamer/inloopochtend voor ontmoeting in Tubbergen.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "town": "Tubbergen",
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-sociaal-inloopcaf-ootmarsum",
+      "name": "Sociaal, dat werkt! · Sociaal inloopcafé Ootmarsum",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Terugkerend sociaal inloopcafé in Ootmarsum.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "town": "Tubbergen",
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-open-eettafel-weerselo",
+      "name": "Sociaal, dat werkt! · Open Eettafel Weerselo",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Terugkerende gezamenlijke eettafel en ontmoeting in Weerselo.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "town": "Tubbergen",
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-open-eettafel-geesteren",
+      "name": "Sociaal, dat werkt! · Open Eettafel Geesteren",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Terugkerende gezamenlijke eettafel en ontmoeting in Geesteren.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "town": "Tubbergen",
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-crea-club",
+      "name": "Sociaal, dat werkt! · Crea Club",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Terugkerende creatieve club voor ontmoeting en samen bezig zijn.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "town": "Tubbergen",
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-soek",
+      "name": "Sociaal, dat werkt! · SOEK",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Terugkerend sociaal aanbod voor oudere inwoners.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "town": "Tubbergen",
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-tuin-en-klushulp",
+      "name": "Sociaal, dat werkt! · Tuin- en Klushulp",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "advies",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Vrijwillige praktische hulp bij kleine tuin- en klussen.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "town": "Tubbergen",
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-swtd-opfriscursus-auto",
+      "name": "Sociaal, dat werkt! · Opfriscursus auto",
+      "source": "https://swtd.nl/",
+      "sourceTitle": "Sociaal, dat werkt!",
+      "municipalities": [
+        "Dinkelland",
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "laagdrempelig"
+      ],
+      "tags": [
+        "advies",
+        "activiteit",
+        "sociaal werk"
+      ],
+      "description": "Opfriscursus voor oudere automobilisten rond verkeerskennis en rijvaardigheid.",
+      "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
+      "costs": "Controleer de actuele bijdrage.",
+      "address": "Eeshoflaan 21k-121",
+      "postcode": "7651LZ",
+      "town": "Tubbergen",
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-voorliggende-dagvoorziening-de-paraplu",
+      "name": "ViaVie Welzijn · Voorliggende dagvoorziening De Paraplu",
+      "source": "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Voorliggende daginvulling met ontmoeting, koken, creativiteit en bewegen; bedoeld voor mensen die zichzelf lichamelijk kunnen verzorgen.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer de actuele bijdrage.",
+      "address": "Brandlicht 54A",
+      "postcode": "7463CM",
+      "town": "Rijssen",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "mapPin": true,
+      "lat": 52.31093636,
+      "lon": 6.49399134,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-voorliggende-dagvoorziening-holten-hole-10",
+      "name": "ViaVie Welzijn · Voorliggende dagvoorziening Holten / Hole-10",
+      "source": "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Voorliggende daginvulling met ontmoeting en activiteiten in Holten.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer de actuele bijdrage.",
+      "address": "Tuinstraat 2",
+      "postcode": "7451EX",
+      "town": "Holten",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "mapPin": true,
+      "lat": 52.28046412,
+      "lon": 6.42264746,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-jongerencentrum-hole-10",
+      "name": "ViaVie Welzijn · Jongerencentrum Hole-10",
+      "source": "https://viaviewelzijn.nl/events/jongerencentrum-hole-10-3-548-922-720/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "jeugd",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Vrije inloop en activiteiten voor jongeren, met jongerenwerkers als luisterend oor.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer de actuele bijdrage.",
+      "address": "Tuinstraat 2",
+      "postcode": "7451EX",
+      "town": "Holten",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/jongerencentrum-hole-10-3-548-922-720/",
+      "mapPin": true,
+      "lat": 52.28046412,
+      "lon": 6.42264746,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-taalcaf-holten",
+      "name": "ViaVie Welzijn · Taalcafé Holten",
+      "source": "https://viaviewelzijn.nl/events/taalcafe-holten-336-292/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "taal",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Terugkerend taalcafé om Nederlands spreken in een ontspannen sfeer te oefenen.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer de actuele bijdrage.",
+      "address": "Tuinstraat 2",
+      "postcode": "7451EX",
+      "town": "Holten",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-336-292/",
+      "mapPin": true,
+      "lat": 52.28046412,
+      "lon": 6.42264746,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-buurthuiskamer-oude-plus",
+      "name": "ViaVie Welzijn · Buurthuiskamer Oude Plus",
+      "source": "https://viaviewelzijn.nl/events/buurthuiskamer-oude-plus/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Maandelijkse buurthuiskamer voor oudere buurtbewoners met koffie, activiteiten en lunch.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "€6 volgens de actuele agenda.",
+      "address": "Roelf Bosmastraat 47",
+      "postcode": "7462MZ",
+      "town": "Rijssen",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/buurthuiskamer-oude-plus/",
+      "mapPin": true,
+      "lat": 52.30176737,
+      "lon": 6.50070389,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-wandelgroep-rijssen",
+      "name": "ViaVie Welzijn · Wandelgroep Rijssen",
+      "source": "https://viaviewelzijn.nl/events/wandelgroep-923-544/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "bewegen",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Gratis wekelijkse wandelgroep.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Gratis.",
+      "address": "Arend Baanstraat 105",
+      "postcode": "7461DT",
+      "town": "Rijssen",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/wandelgroep-923-544/",
+      "mapPin": true,
+      "lat": 52.29570232,
+      "lon": 6.52280624,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-wandelgroep-holten",
+      "name": "ViaVie Welzijn · Wandelgroep Holten",
+      "source": "https://viaviewelzijn.nl/events/wandelgroep/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "bewegen",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Gratis rustige wandelgroep; aanmelden is niet nodig.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Gratis.",
+      "address": "Boschkampsstraat 6",
+      "postcode": "7451GC",
+      "town": "Holten",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/wandelgroep/",
+      "mapPin": true,
+      "lat": 52.28065702,
+      "lon": 6.42199421,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-buurtband",
+      "name": "ViaVie Welzijn · BuurtBand",
+      "source": "https://viaviewelzijn.nl/events/buurtband-repetitie-287/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Gratis muziekproject waar inwoners met laagdrempelige instrumenten kunnen meespelen.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Gratis.",
+      "address": "Johannes Vermeerstraat 8",
+      "postcode": "7462BN",
+      "town": "Rijssen",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/buurtband-repetitie-287/",
+      "mapPin": true,
+      "lat": 52.29933586,
+      "lon": 6.51831106,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-wereldse-vrouwen-rijssen",
+      "name": "ViaVie Welzijn · Wereldse Vrouwen Rijssen",
+      "source": "https://viaviewelzijn.nl/events/wereldse-vrouwen/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "ontmoeten",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Terugkerende vrouwenontmoeting gericht op sociale contacten, zelfvertrouwen en samen activiteiten doen.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Laagdrempelig; controleer de actuele bijdrage.",
+      "address": "Johannes Vermeerstraat 8",
+      "postcode": "7462BN",
+      "town": "Rijssen",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/wereldse-vrouwen/",
+      "mapPin": true,
+      "lat": 52.29933586,
+      "lon": 6.51831106,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-viavie-fietslessen-statushouders-holten",
+      "name": "ViaVie Welzijn · Fietslessen statushouders Holten",
+      "source": "https://viaviewelzijn.nl/events/fietslessen-voor-statushouders/",
+      "sourceTitle": "ViaVie Welzijn",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "voorliggend"
+      ],
+      "tags": [
+        "bewegen",
+        "ontmoeten",
+        "activiteit",
+        "dagbesteding",
+        "daginvulling"
+      ],
+      "description": "Gratis reeks fietslessen voor statushouders om zelfstandig en veilig te leren fietsen.",
+      "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
+      "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
+      "costs": "Gratis.",
+      "address": "Aaltinksweg 1B",
+      "postcode": "7451DX",
+      "town": "Holten",
+      "locationType": "service",
+      "locationSource": "https://viaviewelzijn.nl/events/fietslessen-voor-statushouders/",
+      "mapPin": true,
+      "lat": 52.27723781,
+      "lon": 6.40674914,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-centrum",
+      "name": "Wijkwijzer Enschede · Centrum",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Hoge Bothofstraat 49",
+      "postcode": "7511ZA",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.22306902,
+      "lon": 6.90400645,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-de-magneet",
+      "name": "Wijkwijzer Enschede · De Magneet",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Hertmebrink 1",
+      "postcode": "7544DC",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.19270077,
+      "lon": 6.8756301,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-stroinkshuis",
+      "name": "Wijkwijzer Enschede · Stroinkshuis",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Het Stroink 64",
+      "postcode": "7542GT",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.18841466,
+      "lon": 6.90096801,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer--t-proathuus",
+      "name": "Wijkwijzer Enschede · 't Proathuus",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Zevensterstraat 3",
+      "postcode": "7521GN",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.23090016,
+      "lon": 6.86113824,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-het-kompas",
+      "name": "Wijkwijzer Enschede · Het Kompas",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Lijsterstraat 11",
+      "postcode": "7523ER",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.23839329,
+      "lon": 6.88498393,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-lumen",
+      "name": "Wijkwijzer Enschede · Lumen",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Velveweg 54",
+      "postcode": "7533XK",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.2203326,
+      "lon": 6.91847412,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-vosta",
+      "name": "Wijkwijzer Enschede · Vosta",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Minkmaatstraat 173",
+      "postcode": "7531AX",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.23068894,
+      "lon": 6.90914497,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-de-dorpskamer",
+      "name": "Wijkwijzer Enschede · De Dorpskamer",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Schipholtstraat 48B",
+      "postcode": "7534CZ",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.21370556,
+      "lon": 6.97164919,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-de-vrije-ruimte",
+      "name": "Wijkwijzer Enschede · De Vrije Ruimte",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Olympialaan 20",
+      "postcode": "7541BK",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.20672753,
+      "lon": 6.90826728,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-ontmoetingskerk",
+      "name": "Wijkwijzer Enschede · Ontmoetingskerk",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Dr. Wagenaarstraat 6",
+      "postcode": "7541XK",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.20997965,
+      "lon": 6.89902378,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-de-boei",
+      "name": "Wijkwijzer Enschede · De Boei",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Spinnerstraat 27A",
+      "postcode": "7545TP",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.2115792,
+      "lon": 6.87571778,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-boswinkel-t-ni-je-terphoes",
+      "name": "Wijkwijzer Enschede · Boswinkel - 't Ni-je Terphoes",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Noordhollandstraat 4",
+      "postcode": "7543WB",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-wijkwijzer-boswinkel-speeltuin-boswinkel",
+      "name": "Wijkwijzer Enschede · Boswinkel - Speeltuin Boswinkel",
+      "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "sourceTitle": "Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "inloop",
+        "informatie",
+        "geld",
+        "opvoeden"
+      ],
+      "tags": [
+        "advies",
+        "inloop",
+        "geld",
+        "administratie",
+        "werk en inkomen",
+        "opvoeden",
+        "buurt"
+      ],
+      "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
+      "audience": "Inwoners van Enschede.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis.",
+      "address": "Beneluxlaan 50",
+      "postcode": "7543XT",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+      "mapPin": true,
+      "lat": 52.20398081,
+      "lon": 6.8768224,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-familiehuis-familiehuis-enschede-west",
+      "name": "Familiehuis Enschede-West · Familiehuis Enschede-West",
+      "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "sourceTitle": "Gemeente Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "ouders",
+        "jonge kinderen"
+      ],
+      "tags": [
+        "jeugd",
+        "ouders",
+        "kinderen",
+        "gratis",
+        "training",
+        "inloop"
+      ],
+      "description": "Gratis inloopplek voor ouders met jonge kinderen, met ontmoeting, advies en wekelijkse activiteiten.",
+      "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
+      "access": "Vrije inloop of deelname volgens het actuele programma.",
+      "costs": "Gratis.",
+      "address": "Noordhollandstraat 4",
+      "postcode": "7543WB",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "mapPin": true,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-familiehuis-mama-papa-caf-",
+      "name": "Familiehuis Enschede-West · Mama & Papa Café",
+      "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "sourceTitle": "Gemeente Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "ouders",
+        "jonge kinderen"
+      ],
+      "tags": [
+        "jeugd",
+        "ouders",
+        "kinderen",
+        "gratis",
+        "training",
+        "inloop"
+      ],
+      "description": "Dagelijkse laagdrempelige koffie-inloop voor ouders met jonge kinderen.",
+      "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
+      "access": "Vrije inloop of deelname volgens het actuele programma.",
+      "costs": "Gratis.",
+      "address": "Noordhollandstraat 4",
+      "postcode": "7543WB",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "mapPin": false,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-familiehuis-ontmoetingsgroepen-ouders",
+      "name": "Familiehuis Enschede-West · Ontmoetingsgroepen ouders",
+      "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "sourceTitle": "Gemeente Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "ouders",
+        "jonge kinderen"
+      ],
+      "tags": [
+        "jeugd",
+        "ouders",
+        "kinderen",
+        "gratis",
+        "training",
+        "inloop"
+      ],
+      "description": "Gratis groepen voor ouders om ervaringen over opvoeding te delen, inclusief kinderopvang.",
+      "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
+      "access": "Vrije inloop of deelname volgens het actuele programma.",
+      "costs": "Gratis.",
+      "address": "Noordhollandstraat 4",
+      "postcode": "7543WB",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "mapPin": false,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-familiehuis-speelhoes",
+      "name": "Familiehuis Enschede-West · Speelhoes",
+      "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "sourceTitle": "Gemeente Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "ouders",
+        "jonge kinderen"
+      ],
+      "tags": [
+        "jeugd",
+        "ouders",
+        "kinderen",
+        "gratis",
+        "training",
+        "inloop"
+      ],
+      "description": "Gratis speelinloop voor ouders met kinderen van ongeveer 6 maanden tot 4 jaar.",
+      "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
+      "access": "Vrije inloop of deelname volgens het actuele programma.",
+      "costs": "Gratis.",
+      "address": "Noordhollandstraat 4",
+      "postcode": "7543WB",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "mapPin": false,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-familiehuis-gratis-familierechtspreekuur",
+      "name": "Familiehuis Enschede-West · Gratis familierechtspreekuur",
+      "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "sourceTitle": "Gemeente Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "ouders",
+        "jonge kinderen"
+      ],
+      "tags": [
+        "advies",
+        "ouders",
+        "kinderen",
+        "gratis",
+        "training",
+        "inloop"
+      ],
+      "description": "Maandelijks gratis inloopspreekuur voor vragen over scheiding, alimentatie, gezag en omgang.",
+      "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
+      "access": "Vrije inloop of deelname volgens het actuele programma.",
+      "costs": "Gratis.",
+      "address": "Noordhollandstraat 4",
+      "postcode": "7543WB",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "mapPin": false,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-familiehuis-houd-me-vast-training",
+      "name": "Familiehuis Enschede-West · Houd me vast training",
+      "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "sourceTitle": "Gemeente Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "ouders",
+        "jonge kinderen"
+      ],
+      "tags": [
+        "jeugd",
+        "ouders",
+        "kinderen",
+        "gratis",
+        "training",
+        "inloop"
+      ],
+      "description": "Acht bijeenkomsten voor stellen met jonge kinderen, gericht op verbinding en communicatie binnen de relatie.",
+      "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
+      "access": "Aanmelden via Wijkteams Enschede.",
+      "costs": "Controleer de actuele voorwaarden.",
+      "address": "Noordhollandstraat 4",
+      "postcode": "7543WB",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+      "mapPin": false,
+      "lat": 52.20502893,
+      "lon": 6.88230934,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-resto-vanharte-de-magneet",
+      "name": "Resto VanHarte Enschede · De Magneet",
+      "source": "https://www.restovanharte.nl/locaties/enschede",
+      "sourceTitle": "Resto VanHarte",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "samen eten",
+        "eenzaamheid"
+      ],
+      "tags": [
+        "ontmoeten",
+        "maaltijd",
+        "samen eten",
+        "eenzaamheid"
+      ],
+      "description": "Wekelijks buurtdiner om buurtgenoten te ontmoeten. Iedere donderdag.",
+      "audience": "Iedereen is welkom.",
+      "access": "Reserveren via Resto VanHarte.",
+      "costs": "€8 voor een driegangendiner volgens de actuele bron.",
+      "address": "Hertmebrink 1",
+      "postcode": "7544DC",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.restovanharte.nl/locaties/enschede",
+      "mapPin": true,
+      "lat": 52.19270077,
+      "lon": 6.8756301,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-resto-vanharte-twekkelerveld",
+      "name": "Resto VanHarte Enschede · Twekkelerveld",
+      "source": "https://www.restovanharte.nl/locaties/enschede",
+      "sourceTitle": "Resto VanHarte",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "samen eten",
+        "eenzaamheid"
+      ],
+      "tags": [
+        "ontmoeten",
+        "maaltijd",
+        "samen eten",
+        "eenzaamheid"
+      ],
+      "description": "Wekelijks buurtdiner om buurtgenoten te ontmoeten. Iedere dinsdag.",
+      "audience": "Iedereen is welkom.",
+      "access": "Reserveren via Resto VanHarte.",
+      "costs": "€8 voor een driegangendiner volgens de actuele bron.",
+      "address": "Schorpioenstraat 33",
+      "postcode": "7521HN",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.restovanharte.nl/locaties/enschede",
+      "mapPin": true,
+      "lat": 52.22836417,
+      "lon": 6.85720441,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-citypastoraat",
+      "name": "Oecumenisch Citypastoraat Enschede · inloophuis",
+      "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "sourceTitle": "Seniorenwijzer Enschede 2026",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop",
+        "gesprek"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloophuis",
+        "luisterend oor",
+        "eenzaamheid"
+      ],
+      "description": "Gastvrij inloophuis in het centrum waar iedereen welkom is voor een gesprek, ontmoeting of een luisterend oor.",
+      "audience": "Iedereen.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Gratis inloop.",
+      "address": "Langestraat 51A",
+      "postcode": "7511HB",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "mapPin": true,
+      "lat": 52.22003597,
+      "lon": 6.89556262,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-alifa-lees-en-schrijfhuis",
+      "name": "Alifa · Lees- en schrijfhuis",
+      "source": "https://www.alifa.nl/activiteiten",
+      "sourceTitle": "Alifa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "taal",
+        "activiteit",
+        "inloop",
+        "taal",
+        "jongeren"
+      ],
+      "description": "Terugkerende taalactiviteit om lezen en schrijven te oefenen.",
+      "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda van Alifa.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-alifa-praathuis-centrum",
+      "name": "Alifa · Praathuis Centrum",
+      "source": "https://www.alifa.nl/activiteiten",
+      "sourceTitle": "Alifa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "taal",
+        "activiteit",
+        "inloop",
+        "taal",
+        "jongeren"
+      ],
+      "description": "Terugkerende groep om Nederlands spreken te oefenen.",
+      "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda van Alifa.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-alifa-steun-empowermentgroep-voor-vrouwen",
+      "name": "Alifa · Steun- & Empowermentgroep voor vrouwen",
+      "source": "https://www.alifa.nl/activiteiten",
+      "sourceTitle": "Alifa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "ontmoeten",
+        "activiteit",
+        "inloop",
+        "taal",
+        "jongeren"
+      ],
+      "description": "Groep voor vrouwen gericht op steun, ontmoeting en empowerment.",
+      "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda van Alifa.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-alifa-huiskamer-wethouder-beverstraat",
+      "name": "Alifa · Huiskamer Wethouder Beverstraat",
+      "source": "https://www.alifa.nl/activiteiten",
+      "sourceTitle": "Alifa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "jeugd",
+        "activiteit",
+        "inloop",
+        "taal",
+        "jongeren"
+      ],
+      "description": "Jongerenhuiskamer voor ontmoeting en laagdrempelig contact.",
+      "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda van Alifa.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-alifa-huiskamer-bonhoeffer-geessinkweg",
+      "name": "Alifa · Huiskamer Bonhoeffer Geessinkweg",
+      "source": "https://www.alifa.nl/activiteiten",
+      "sourceTitle": "Alifa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "jeugd",
+        "activiteit",
+        "inloop",
+        "taal",
+        "jongeren"
+      ],
+      "description": "Jongerenhuiskamer voor ontmoeting en laagdrempelig contact.",
+      "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda van Alifa.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-alifa-huiskamer-stedelijk-diekman",
+      "name": "Alifa · Huiskamer Stedelijk Diekman",
+      "source": "https://www.alifa.nl/activiteiten",
+      "sourceTitle": "Alifa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "jeugd",
+        "activiteit",
+        "inloop",
+        "taal",
+        "jongeren"
+      ],
+      "description": "Jongerenhuiskamer voor ontmoeting en laagdrempelig contact.",
+      "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda van Alifa.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-alifa-sportinloop-12-noord",
+      "name": "Alifa · Sportinloop 12+ Noord",
+      "source": "https://www.alifa.nl/activiteiten",
+      "sourceTitle": "Alifa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "jeugd",
+        "activiteit",
+        "inloop",
+        "taal",
+        "jongeren"
+      ],
+      "description": "Terugkerende sportinloop voor jongeren.",
+      "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda van Alifa.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-alifa-jongereninloop-robina",
+      "name": "Alifa · Jongereninloop Robina",
+      "source": "https://www.alifa.nl/activiteiten",
+      "sourceTitle": "Alifa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "jeugd",
+        "activiteit",
+        "inloop",
+        "taal",
+        "jongeren"
+      ],
+      "description": "Terugkerende jongereninloop in stadsdeel West.",
+      "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda van Alifa.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-alifa-jongereninloop-de-hut",
+      "name": "Alifa · Jongereninloop De Hut",
+      "source": "https://www.alifa.nl/activiteiten",
+      "sourceTitle": "Alifa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "jeugd",
+        "activiteit",
+        "inloop",
+        "taal",
+        "jongeren"
+      ],
+      "description": "Terugkerende jongereninloop in stadsdeel Oost.",
+      "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda van Alifa.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-alifa-jongereninloop-helmerhoek",
+      "name": "Alifa · Jongereninloop Helmerhoek",
+      "source": "https://www.alifa.nl/activiteiten",
+      "sourceTitle": "Alifa",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "activiteit"
+      ],
+      "tags": [
+        "jeugd",
+        "activiteit",
+        "inloop",
+        "taal",
+        "jongeren"
+      ],
+      "description": "Terugkerende jongereninloop voor 12-20 jaar in Zuid.",
+      "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
+      "access": "Bekijk de actuele agenda van Alifa.",
+      "costs": "Controleer de actuele activiteit.",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
+      "town": "Enschede",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-haaksbergen-digitaalhuis-taalcaf-",
+      "name": "Noaberpoort / Wijkracht · DigiTaalhuis Taalcafé",
+      "source": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+      "sourceTitle": "Noaberpoort",
+      "municipalities": [
+        "Haaksbergen"
+      ],
+      "municipality": "Haaksbergen",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "taal",
+        "inloop",
+        "gratis",
+        "taal",
+        "digitaal",
+        "dementie"
+      ],
+      "description": "Wekelijks Nederlands spreken oefenen met taalvrijwilligers in een ontspannen groep.",
+      "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
+      "access": "Vrije inloop op de actuele tijden.",
+      "costs": "Gratis.",
+      "address": "Blankenburgerstraat 42",
+      "postcode": "7481EB",
+      "town": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+      "mapPin": false,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-haaksbergen-digitaalhuis-digitaal-inloopspreekuur",
+      "name": "Noaberpoort / Wijkracht · DigiTaalhuis digitaal inloopspreekuur",
+      "source": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+      "sourceTitle": "Noaberpoort",
+      "municipalities": [
+        "Haaksbergen"
+      ],
+      "municipality": "Haaksbergen",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "taal",
+        "inloop",
+        "gratis",
+        "taal",
+        "digitaal",
+        "dementie"
+      ],
+      "description": "Wekelijkse inloop voor vragen over computer, smartphone, tablet en internet.",
+      "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
+      "access": "Vrije inloop op de actuele tijden.",
+      "costs": "Gratis.",
+      "address": "Blankenburgerstraat 42",
+      "postcode": "7481EB",
+      "town": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+      "mapPin": false,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-haaksbergen-digitaalhuis-formulierenservice",
+      "name": "Noaberpoort / Wijkracht · DigiTaalhuis Formulierenservice",
+      "source": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+      "sourceTitle": "Noaberpoort",
+      "municipalities": [
+        "Haaksbergen"
+      ],
+      "municipality": "Haaksbergen",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "geld",
+        "inloop",
+        "gratis",
+        "taal",
+        "digitaal",
+        "dementie"
+      ],
+      "description": "Inloop voor hulp met formulieren, toeslagen en online aanvragen.",
+      "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
+      "access": "Vrije inloop op de actuele tijden.",
+      "costs": "Gratis.",
+      "address": "Blankenburgerstraat 42",
+      "postcode": "7481EB",
+      "town": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+      "mapPin": false,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-haaksbergen-odensehuis-haaksbergen",
+      "name": "Noaberpoort / Wijkracht · Odensehuis Haaksbergen",
+      "source": "https://www.noaberpoort.nl/%2891362%29-Noaberpoort/Welzijn-ampamp-Zorg/Odensehuis.html",
+      "sourceTitle": "Noaberpoort",
+      "municipalities": [
+        "Haaksbergen"
+      ],
+      "municipality": "Haaksbergen",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "mantelzorg",
+        "inloop",
+        "gratis",
+        "taal",
+        "digitaal",
+        "dementie"
+      ],
+      "description": "Ontmoetingsplek voor mensen met beginnende dementie of geheugenklachten en hun naasten; indicatie of diagnose is niet nodig.",
+      "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
+      "access": "Vrij toegankelijk; geen indicatie of diagnose nodig.",
+      "costs": "Kleine bijdrage per bezoek volgens de actuele bron.",
+      "address": "Blankenburgerstraat 42",
+      "postcode": "7481EB",
+      "town": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+      "mapPin": true,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-haaksbergen-ziens-haaksbergen",
+      "name": "Noaberpoort / Wijkracht · ZIENS Haaksbergen",
+      "source": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+      "sourceTitle": "Noaberpoort",
+      "municipalities": [
+        "Haaksbergen"
+      ],
+      "municipality": "Haaksbergen",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal"
+      ],
+      "subthemes": [
+        "inloop"
+      ],
+      "tags": [
+        "mentaal",
+        "inloop",
+        "gratis",
+        "taal",
+        "digitaal",
+        "dementie"
+      ],
+      "description": "Vrije inloop met gezellige, leerzame, creatieve en ontspannende activiteiten.",
+      "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
+      "access": "Vrije inloop op de actuele tijden.",
+      "costs": "Gratis.",
+      "address": "Blankenburgerstraat 42",
+      "postcode": "7481EB",
+      "town": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
+      "mapPin": true,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-chessclub-lumen",
+      "name": "Chess Club Enschede Inclusief · Lumen",
+      "source": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+      "sourceTitle": "Chess Club Enschede Inclusief",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "schaken",
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "schaken",
+        "inloop",
+        "gratis",
+        "inclusief"
+      ],
+      "description": "Gratis inclusieve schaakinloop. Donderdagavond.",
+      "audience": "Iedereen die samen wil schaken; locaties werken samen met sociale en welzijnspartners.",
+      "access": "Vrij aansluiten binnen de actuele capaciteit.",
+      "costs": "Gratis.",
+      "address": "Velveweg 54",
+      "postcode": "7533XK",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+      "mapPin": true,
+      "lat": 52.2203326,
+      "lon": 6.91847412,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-chessclub-tubanters-olympialaan",
+      "name": "Chess Club Enschede Inclusief · Tubanters / Olympialaan",
+      "source": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+      "sourceTitle": "Chess Club Enschede Inclusief",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "schaken",
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "schaken",
+        "inloop",
+        "gratis",
+        "inclusief"
+      ],
+      "description": "Gratis inclusieve schaakinloop. Dinsdagmiddag.",
+      "audience": "Iedereen die samen wil schaken; locaties werken samen met sociale en welzijnspartners.",
+      "access": "Vrij aansluiten binnen de actuele capaciteit.",
+      "costs": "Gratis.",
+      "address": "Olympialaan 20",
+      "postcode": "7541BK",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+      "mapPin": true,
+      "lat": 52.20672753,
+      "lon": 6.90826728,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-chessclub-wopit-javastraat",
+      "name": "Chess Club Enschede Inclusief · Wopit Javastraat",
+      "source": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+      "sourceTitle": "Chess Club Enschede Inclusief",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "schaken",
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "schaken",
+        "inloop",
+        "gratis",
+        "inclusief"
+      ],
+      "description": "Gratis inclusieve schaakinloop. Donderdagmiddag.",
+      "audience": "Iedereen die samen wil schaken; locaties werken samen met sociale en welzijnspartners.",
+      "access": "Vrij aansluiten binnen de actuele capaciteit.",
+      "costs": "Gratis.",
+      "address": "Javastraat 92",
+      "postcode": "7512ZK",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
+      "mapPin": true,
+      "lat": 52.21298813,
+      "lon": 6.90317994,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-enschede-ontmoetingscentrum-glanerbrug",
+      "name": "Enschede · Ontmoetingscentrum Glanerbrug",
+      "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "sourceTitle": "Seniorenwijzer Enschede 2026",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "dagbesteding zonder indicatie",
+        "daginvulling"
+      ],
+      "tags": [
+        "dagbesteding",
+        "dagopvang",
+        "daginvulling",
+        "zonder indicatie",
+        "ontmoeten"
+      ],
+      "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
+      "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
+      "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
+      "costs": "Controleer de actuele bijdrage bij de aanbieder.",
+      "address": "Jacob Roggeveenstraat 33",
+      "postcode": "7534CD",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "mapPin": true,
+      "lat": 52.21420756,
+      "lon": 6.9723338,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-enschede-ontmoetingscentrum-t-ribbet",
+      "name": "Enschede · Ontmoetingscentrum 't Ribbet",
+      "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "sourceTitle": "Seniorenwijzer Enschede 2026",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "dagbesteding zonder indicatie",
+        "daginvulling"
+      ],
+      "tags": [
+        "dagbesteding",
+        "dagopvang",
+        "daginvulling",
+        "zonder indicatie",
+        "ontmoeten"
+      ],
+      "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
+      "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
+      "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
+      "costs": "Controleer de actuele bijdrage bij de aanbieder.",
+      "address": "Magnoliastraat 5",
+      "postcode": "7531EC",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "mapPin": true,
+      "lat": 52.22859243,
+      "lon": 6.9189731,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-enschede-ontmoetingscentrum-twekkelerveld",
+      "name": "Enschede · Ontmoetingscentrum Twekkelerveld",
+      "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "sourceTitle": "Seniorenwijzer Enschede 2026",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "dagbesteding zonder indicatie",
+        "daginvulling"
+      ],
+      "tags": [
+        "dagbesteding",
+        "dagopvang",
+        "daginvulling",
+        "zonder indicatie",
+        "ontmoeten"
+      ],
+      "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
+      "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
+      "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
+      "costs": "Controleer de actuele bijdrage bij de aanbieder.",
+      "address": "J.W. Swiersstraat 43A",
+      "postcode": "7521DM",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "mapPin": true,
+      "lat": 52.2291005,
+      "lon": 6.86366682,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-enschede-ontmoetingscentrum-lal-",
+      "name": "Enschede · Ontmoetingscentrum Lalé",
+      "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "sourceTitle": "Seniorenwijzer Enschede 2026",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "dagbesteding zonder indicatie",
+        "daginvulling"
+      ],
+      "tags": [
+        "dagbesteding",
+        "dagopvang",
+        "daginvulling",
+        "zonder indicatie",
+        "ontmoeten"
+      ],
+      "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
+      "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
+      "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
+      "costs": "Controleer de actuele bijdrage bij de aanbieder.",
+      "address": "Lijsterstraat 30",
+      "postcode": "7523ET",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "mapPin": true,
+      "lat": 52.23729035,
+      "lon": 6.88853814,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-zorgadvies-twente-dagopvang-zonder-indicatie",
+      "name": "Zorgadvies Twente · dagopvang zonder indicatie",
+      "source": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "sourceTitle": "Seniorenwijzer Enschede 2026",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "dagbesteding zonder indicatie",
+        "daginvulling"
+      ],
+      "tags": [
+        "dagbesteding",
+        "dagopvang",
+        "daginvulling",
+        "zonder indicatie",
+        "ontmoeten"
+      ],
+      "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
+      "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
+      "access": "Rechtstreeks contact opnemen met de locatie voor actuele deelname en tijden.",
+      "costs": "Controleer de actuele bijdrage bij de aanbieder.",
+      "address": "De Reulver 126",
+      "postcode": "7544RT",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "mapPin": true,
+      "lat": 52.19096285,
+      "lon": 6.88775938,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-kracht-van-verenigingen-rigtersbleek",
+      "name": "Kracht van Verenigingen · Rigtersbleek",
+      "source": "https://rigtersbleek.nl/voorliggende-voorziening/",
+      "sourceTitle": "Kracht van Verenigingen / Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "sport",
+        "ontwikkeling"
+      ],
+      "tags": [
+        "jeugd",
+        "dagbesteding",
+        "daginvulling",
+        "sport",
+        "ontwikkeling",
+        "voorliggende voorziening"
+      ],
+      "description": "Voorliggende activiteiten met sport, ontwikkeling en ontmoeting bij een lokale vereniging.",
+      "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
+      "access": "Neem contact op met Wijkwijzer, Wijkteam of de vereniging voor de actuele route.",
+      "costs": "",
+      "address": "G.J. van Heekstraat 15A",
+      "postcode": "7521EB",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://rigtersbleek.nl/voorliggende-voorziening/",
+      "mapPin": true,
+      "lat": 52.22678614,
+      "lon": 6.87222283,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-kracht-van-verenigingen-de-tubanters",
+      "name": "Kracht van Verenigingen · De Tubanters",
+      "source": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+      "sourceTitle": "Kracht van Verenigingen / Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "sport",
+        "ontwikkeling"
+      ],
+      "tags": [
+        "jeugd",
+        "dagbesteding",
+        "daginvulling",
+        "sport",
+        "ontwikkeling",
+        "voorliggende voorziening"
+      ],
+      "description": "Voorliggende activiteiten met sport, ontwikkeling en ontmoeting bij een lokale vereniging.",
+      "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
+      "access": "Neem contact op met Wijkwijzer, Wijkteam of de vereniging voor de actuele route.",
+      "costs": "",
+      "address": "Olympialaan 20",
+      "postcode": "7541BK",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+      "mapPin": true,
+      "lat": 52.20672753,
+      "lon": 6.90826728,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-kracht-van-verenigingen-avanti-wilskracht",
+      "name": "Kracht van Verenigingen · Avanti Wilskracht",
+      "source": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+      "sourceTitle": "Kracht van Verenigingen / Wijkwijzer Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "sport",
+        "ontwikkeling"
+      ],
+      "tags": [
+        "jeugd",
+        "dagbesteding",
+        "daginvulling",
+        "sport",
+        "ontwikkeling",
+        "voorliggende voorziening"
+      ],
+      "description": "Voorliggende activiteiten met sport, ontwikkeling en ontmoeting bij een lokale vereniging.",
+      "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
+      "access": "Neem contact op met Wijkwijzer, Wijkteam of de vereniging voor de actuele route.",
+      "costs": "",
+      "address": "Gronausestraat 846",
+      "postcode": "7534AM",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+      "mapPin": true,
+      "lat": 52.21581304,
+      "lon": 6.95413156,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-thuis-rigtersbleek",
+      "name": "Thuis@Rigtersbleek",
+      "source": "https://rigtersbleek.nl/voorliggende-voorziening/",
+      "sourceTitle": "v.v. Rigtersbleek",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "voorliggende voorziening",
+        "na school",
+        "vakanties"
+      ],
+      "tags": [
+        "jeugd",
+        "voorliggende voorziening",
+        "sport",
+        "leren",
+        "cultuur",
+        "ontwikkeling"
+      ],
+      "description": "Voorliggende voorziening voor kinderen met professionele begeleiding, activiteiten en een gezamenlijke maaltijd na school en in vakanties.",
+      "audience": "Kinderen van ongeveer 6 tot en met 16 jaar die extra ondersteuning kunnen gebruiken.",
+      "access": "Neem rechtstreeks contact op met Thuis@Rigtersbleek of bespreek passendheid met een wijkcoach.",
+      "costs": "",
+      "address": "G.J. van Heekstraat 15A",
+      "postcode": "7521EB",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://rigtersbleek.nl/voorliggende-voorziening/",
+      "mapPin": true,
+      "lat": 52.22678614,
+      "lon": 6.87222283,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-repair-caf-enschede-glanerbrug",
+      "name": "Repair Café Enschede-Glanerbrug",
+      "source": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
+      "sourceTitle": "Repair Café",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "repareren",
+        "duurzaamheid"
+      ],
+      "tags": [
+        "repair cafe",
+        "repareren",
+        "vrijwilligers",
+        "duurzaamheid",
+        "gratis",
+        "praktische hulp"
+      ],
+      "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
+      "audience": "Iedereen met een repareerbaar voorwerp.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
+      "address": "Gronausestraat 846",
+      "postcode": "7534AM",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
+      "mapPin": true,
+      "lat": 52.21581304,
+      "lon": 6.95413156,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-repair-caf-enschede-stroinkshuis",
+      "name": "Repair Café Enschede-Stroinkshuis",
+      "source": "https://www.stroinkshuis.nl/huisgenoten-en-huurders/85/repair-caf",
+      "sourceTitle": "Repair Café",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "repareren",
+        "duurzaamheid"
+      ],
+      "tags": [
+        "repair cafe",
+        "repareren",
+        "vrijwilligers",
+        "duurzaamheid",
+        "gratis",
+        "praktische hulp"
+      ],
+      "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
+      "audience": "Iedereen met een repareerbaar voorwerp.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
+      "address": "Het Stroink 64",
+      "postcode": "7542GT",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.stroinkshuis.nl/huisgenoten-en-huurders/85/repair-caf",
+      "mapPin": true,
+      "lat": 52.18841466,
+      "lon": 6.90096801,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-repair-caf-enschede-zuiderspeeltuin",
+      "name": "Repair Café Enschede-Zuiderspeeltuin",
+      "source": "https://repaircafeenschedezuiderspeeltuin.wordpress.com/about/",
+      "sourceTitle": "Repair Café",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "repareren",
+        "duurzaamheid"
+      ],
+      "tags": [
+        "repair cafe",
+        "repareren",
+        "vrijwilligers",
+        "duurzaamheid",
+        "gratis",
+        "praktische hulp"
+      ],
+      "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
+      "audience": "Iedereen met een repareerbaar voorwerp.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
+      "address": "Kuipersdijk 83",
+      "postcode": "7512CB",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://repaircafeenschedezuiderspeeltuin.wordpress.com/about/",
+      "mapPin": true,
+      "lat": 52.21400488,
+      "lon": 6.89691129,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-repair-caf-sportpark-enschede-zuid",
+      "name": "Repair Café Sportpark Enschede-Zuid",
+      "source": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
+      "sourceTitle": "Repair Café",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "repareren",
+        "duurzaamheid"
+      ],
+      "tags": [
+        "repair cafe",
+        "repareren",
+        "vrijwilligers",
+        "duurzaamheid",
+        "gratis",
+        "praktische hulp"
+      ],
+      "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
+      "audience": "Iedereen met een repareerbaar voorwerp.",
+      "access": "Vrije inloop op de actuele openingstijden.",
+      "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
+      "address": "Geessinkweg 282",
+      "postcode": "7544RB",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
+      "mapPin": true,
+      "lat": 52.19060268,
+      "lon": 6.86315787,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-nivon-gratis-wandelgroepen",
+      "name": "Nivon Enschede · gratis wandelgroepen",
+      "source": "https://enschede.nivon.nl/agenda/",
+      "sourceTitle": "Nivon Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "wandelen",
+        "ontmoeten"
+      ],
+      "tags": [
+        "wandelen",
+        "gratis",
+        "ontmoeten",
+        "bewegen"
+      ],
+      "description": "Wekelijkse wandelgroepen op dinsdagmiddag en donderdagochtend met wisselende startlocaties. Iedereen is welkom.",
+      "audience": "Iedereen die in groepsverband wil wandelen.",
+      "access": "Bekijk de actuele startlocatie in de agenda.",
+      "costs": "Gratis.",
+      "address": "Dotterbloemstraat 120",
+      "postcode": "7531TE",
+      "town": "Enschede",
+      "lat": 52.22996476,
+      "lon": 6.91492443,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://enschede.nivon.nl/activiteiten/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-nivon-enschede-cursussen-en-activiteiten",
+      "name": "Nivon Enschede · cursussen en activiteiten",
+      "source": "https://enschede.nivon.nl/activiteiten/",
+      "sourceTitle": "Nivon Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "cursussen",
+        "taal",
+        "creatief",
+        "bewegen"
+      ],
+      "tags": [
+        "cursus",
+        "taal",
+        "schilderen",
+        "yoga",
+        "dans",
+        "lezing",
+        "ontmoeten"
+      ],
+      "description": "Breed cursus- en activiteitenaanbod, waaronder conversatietalen, tekenen en schilderen, yoga, dans en lezingen.",
+      "audience": "Volwassen inwoners; leden en niet-leden kunnen deelnemen.",
+      "access": "Inschrijven per cursus of activiteit.",
+      "costs": "Kosten verschillen per cursus; de wandelgroepen zijn gratis.",
+      "address": "Dotterbloemstraat 120",
+      "postcode": "7531TE",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://enschede.nivon.nl/activiteiten/",
+      "mapPin": true,
+      "lat": 52.22996476,
+      "lon": 6.91492443,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261002-ontmoetingsplek-sportkantine-de-brug-glanerbrug",
+      "name": "Ontmoetingsplek Sportkantine De Brug Glanerbrug",
+      "source": "https://www.enschede.nl/kent-u-al-de-nieuwe-ontmoetingsplek-in-sportkantine-de-brug-in-glanerbrug",
+      "sourceTitle": "Gemeente Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "buurt",
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "buurt",
+        "gratis",
+        "Glanerbrug"
+      ],
+      "description": "Vrije ontmoetingsplek voor buurtbewoners om anderen te ontmoeten, ideeën te delen of activiteiten te organiseren.",
+      "audience": "Iedereen uit Glanerbrug en omgeving.",
+      "access": "Vrije inloop op dinsdag, woensdag en donderdag van 09.00 tot 12.00 uur volgens de actuele gemeentepagina.",
+      "costs": "Gratis.",
+      "address": "Schipholtstraat 45A",
+      "postcode": "7534CR",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/kent-u-al-de-nieuwe-ontmoetingsplek-in-sportkantine-de-brug-in-glanerbrug",
+      "mapPin": true,
+      "lat": 52.2124124,
+      "lon": 6.97142262,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-01"
+    }
+  ],
+  "addressEnrichmentVersion": 1,
+  "addressEnrichedAt": "2026-10-02",
+  "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin.",
+  "contentExpansionVersion": 6,
+  "note": "Vierde verdiepingslaag: dagbesteding zonder indicatie, voorliggende jeugdlocaties, Repair Cafés, Nivon en buurtinloop."
+}
