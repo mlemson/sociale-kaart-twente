@@ -539,6 +539,16 @@
           "kinderen van ouders met",
           "kopp",
           "kvo"
+        ],
+        "requireAny": [
+          "verslaving",
+          "alcohol",
+          "drugs",
+          "middelengebruik",
+          "gokken",
+          "gamen",
+          "tactus",
+          "intact"
         ]
       }
     ]
