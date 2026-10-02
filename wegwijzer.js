@@ -242,8 +242,9 @@
     if (record.audience) rows.push(["Voor wie", record.audience]);
     if (record.access) rows.push(["Toegang", record.access]);
     if (record.costs) rows.push(["Kosten", record.costs]);
-    if (record.address && record.mapLocationType !== "service-area") {
-      rows.push(["Adres", [record.address, record.postcode, record.town].filter(Boolean).join(", ")]);
+    if (record.address) {
+      const addressLabel = ["contact", "source-address"].includes(record.locationType) ? "Contactadres" : "Adres";
+      rows.push([addressLabel, [record.address, record.postcode, record.town].filter(Boolean).join(", ")]);
     }
     if (record.openingHours) rows.push(["Opening", record.openingHours]);
     if (record.phone) rows.push(["Telefoon", record.phone]);
@@ -381,6 +382,7 @@
           address: offer.address || "",
           postcode: offer.postcode || "",
           town: offer.town || "",
+          locationType: offer.locationType || "",
           mapLocationType: offer.mapLocationType || "",
           source: offer.source || group.primarySource || (group.sources || [])[0] || "",
           themes: offer.themes || [],
@@ -409,6 +411,7 @@
       address: facility.address || "",
       postcode: facility.postcode || "",
       town: facility.town || "",
+      locationType: facility.locationType || "",
       mapLocationType: facility.mapLocationType || "",
       source: facility.source || "",
       themes: facility.themes || [],
@@ -450,6 +453,7 @@
       ["description","audience","access","costs","openingHours","phone","email","address","postcode","town","source","checked"].forEach(field => {
         if (record[field] && (!current[field] || String(record[field]).length > String(current[field]).length)) current[field] = record[field];
       });
+      if (!current.locationType && record.locationType) current.locationType = record.locationType;
       if (!current.mapLocationType && record.mapLocationType) current.mapLocationType = record.mapLocationType;
       current.referenceOnly = Boolean(current.referenceOnly && record.referenceOnly);
     });
