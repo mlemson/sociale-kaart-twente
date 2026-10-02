@@ -2654,7 +2654,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197220/invis2/de-fakkel",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "id": "candidate-636d4f5d178aa08f",
@@ -7763,7 +7766,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197050/invis2/pand-11",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "id": "candidate-5b7e5527fb2f63b8",
@@ -12205,7 +12211,11 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkrachtborne.nl/jmz",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-e4a0af938ed5bb3b",
@@ -12483,7 +12493,11 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkrachtborne.nl/jmz",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/schulden",
+        "geld/formulieren"
+      ]
     },
     {
       "id": "candidate-415e10a55b9a74eb",
@@ -12902,7 +12916,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkrachtborne.nl/jmz",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "id": "candidate-a2a0ccdf9858341a",
@@ -13107,7 +13124,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkrachtborne.nl/jmz",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/eenzaamheid"
+      ]
     },
     {
       "id": "candidate-fa641bf0cfce4573",
@@ -13580,7 +13600,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/eenzaamheid"
+      ]
     },
     {
       "id": "candidate-38a10450e5d67078",
@@ -13640,7 +13663,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/eenzaamheid"
+      ]
     },
     {
       "id": "candidate-07344c99a3b6ad85",
@@ -13961,7 +13987,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "id": "candidate-ccc785a0d99ab86d",
@@ -14362,7 +14391,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "id": "candidate-be27a84dd9088896",
@@ -14552,7 +14584,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-08c344c6564d52c8",
@@ -14752,7 +14787,11 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-e8c27d7d091c5ec6",
@@ -14817,7 +14856,11 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/welzijn",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-aea75a5652d5e220",
@@ -15017,7 +15060,11 @@
       "lon": 4.81272958,
       "locationMunicipality": "Breda",
       "mapLocationType": "service-area",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/eenzaamheid",
+        "zorg/beperking"
+      ]
     },
     {
       "id": "candidate-ad70389770ed984a",
@@ -15085,7 +15132,10 @@
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "id": "candidate-30ec75a0832d7945",
@@ -15149,7 +15199,10 @@
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-f60a6a061e42e88d",
@@ -15211,7 +15264,10 @@
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "id": "candidate-0db34030ca74888a",
@@ -15278,7 +15334,10 @@
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-786ac9d3868a6604",
@@ -15551,7 +15610,10 @@
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "id": "candidate-f44653da76dace7d",
@@ -15611,7 +15673,10 @@
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-0f89e70101475c10",
@@ -16133,7 +16198,10 @@
       "locationMunicipality": "Twenterand",
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-c7c9af62eef76f98",
@@ -16422,7 +16490,10 @@
       "lat": 52.21667309,
       "lon": 6.87642107,
       "locationMunicipality": "Enschede",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -23739,7 +23810,10 @@
       "locationMunicipality": "Oldenzaal",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -24350,7 +24424,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -25011,7 +25088,10 @@
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -25139,7 +25219,10 @@
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -25182,7 +25265,10 @@
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -26889,7 +26975,10 @@
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -27205,7 +27294,10 @@
       "lon": 6.90218641,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "mentaal/welzijn"
+      ]
     },
     {
       "sourceKind": "first-party",
