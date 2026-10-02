@@ -64,7 +64,10 @@
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326808/invis2/t-noaberhoes",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-cb44bf8a60f04fb8",
@@ -535,7 +538,10 @@
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/clientsteun"
+      ]
     },
     {
       "id": "candidate-1857eda904a96cfa",
@@ -731,7 +737,10 @@
       "lon": 4.88761066,
       "locationMunicipality": "Woerden",
       "mapLocationType": "service-area",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-0b46b7b4765aab3c",
@@ -1045,7 +1054,11 @@
       "locationMunicipality": "Almelo",
       "locationType": "contact",
       "locationSource": "https://www.avedan.nl/contact/",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden",
+        "mentaal/welzijn"
+      ]
     },
     {
       "id": "candidate-2c1b3ab1031ee519",
@@ -1946,7 +1959,10 @@
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/328454/invis2/bewonersinitiatief-de-hagedoorn",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-c3f9ee8a50889380",
@@ -2265,7 +2281,10 @@
       "lon": 6.58036385,
       "locationMunicipality": "Wierden",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "veiligheid/buren"
+      ]
     },
     {
       "id": "candidate-0fe0b26a53a55526",
@@ -2695,7 +2714,11 @@
       "locationMunicipality": "Almelo",
       "locationType": "contact",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/beperking",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-aab59830148826eb",
@@ -2755,7 +2778,11 @@
       "locationMunicipality": "Almelo",
       "locationType": "contact",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/beperking",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-70465b5a9d80e6c4",
@@ -2823,7 +2850,11 @@
       "locationMunicipality": "Lochem",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "mentaal/eenzaamheid"
+      ]
     },
     {
       "id": "candidate-6d667e134ace5017",
@@ -2891,7 +2922,11 @@
       "locationMunicipality": "Lochem",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "mentaal/eenzaamheid"
+      ]
     },
     {
       "id": "candidate-a692f6a0b4140ebe",
@@ -3144,7 +3179,10 @@
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
       "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-ed958b4e3ca07c0d",
@@ -3613,7 +3651,11 @@
       "locationMunicipality": "Almelo",
       "locationType": "contact",
       "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/eenzaamheid",
+        "zorg/beperking"
+      ]
     },
     {
       "id": "candidate-1c33ed2308f16437",
@@ -3673,7 +3715,11 @@
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220584/invis2/de-zonnebloem-afd-wierden",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/eenzaamheid",
+        "zorg/beperking"
+      ]
     },
     {
       "id": "candidate-d160dec7c8166ac6",
@@ -3733,7 +3779,10 @@
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220517/invis2/evenmens-wierden",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/mantelzorg"
+      ]
     },
     {
       "id": "candidate-6701c37ee41b9627",
@@ -3800,7 +3849,11 @@
       "locationMunicipality": "Losser",
       "locationType": "contact",
       "locationSource": "https://www.fundamentlosser.nl/contact/",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-429fbffe699ed285",
@@ -4316,7 +4369,12 @@
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/318449/invis2/gemeente-wierden-geldloket",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/schulden",
+        "geld/regelingen",
+        "geld/formulieren"
+      ]
     },
     {
       "id": "candidate-f282483ab776f415",
@@ -4898,7 +4956,10 @@
       "locationMunicipality": "Oldenzaal",
       "locationType": "contact",
       "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-27bbc8c4ad3529e3",
@@ -4965,7 +5026,10 @@
       "locationMunicipality": "Oldenzaal",
       "locationType": "contact",
       "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "id": "candidate-39307b9e2fb5648e",
@@ -5155,7 +5219,10 @@
       "locationMunicipality": "Oldenzaal",
       "locationType": "contact",
       "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/mantelzorg"
+      ]
     },
     {
       "id": "candidate-cfa42a05f17329b8",
@@ -5354,7 +5421,10 @@
       "lon": 6.89435653,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/lotgenoten"
+      ]
     },
     {
       "id": "candidate-b373b9f843178750",
@@ -5477,7 +5547,10 @@
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/326205/invis2/kbo-enter",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-cd41f76edde47131",
@@ -6263,7 +6336,10 @@
       "locationMunicipality": "Zwolle",
       "locationType": "contact",
       "locationSource": "https://www.meesamen.nl/contact",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/clientsteun"
+      ]
     },
     {
       "id": "candidate-cdcaa9fabeba931e",
@@ -6485,7 +6561,10 @@
       "locationMunicipality": "Haaksbergen",
       "locationType": "source-address",
       "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "veiligheid/buren"
+      ]
     },
     {
       "id": "candidate-05d1a1bf459a137d",
@@ -6619,7 +6698,10 @@
       "locationMunicipality": "Haaksbergen",
       "locationType": "source-address",
       "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/clientsteun"
+      ]
     },
     {
       "id": "candidate-525880103378b258",
@@ -6812,7 +6894,11 @@
       "locationMunicipality": "Haaksbergen",
       "locationType": "source-address",
       "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch",
+        "meedoen/vrijwillig"
+      ]
     },
     {
       "id": "candidate-0cbe0604051d3e42",
@@ -7494,7 +7580,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/210743/invis2/open-hof-cafe-protestantse-gemeente-te-rijssen-open-hof",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-a73e1c7c75883bcf",
@@ -7734,7 +7823,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/201140/invis2/pcob-rijssen-holten",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-fff6b8c15369620f",
@@ -7865,7 +7957,10 @@
       "locationMunicipality": "Hof van Twente",
       "locationType": "source-address",
       "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-7588ac9f33d67579",
@@ -8396,7 +8491,10 @@
       "locationMunicipality": "Hof van Twente",
       "locationType": "source-address",
       "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/welzijn"
+      ]
     },
     {
       "id": "candidate-0cef73df66a10d82",
@@ -8780,7 +8878,10 @@
       "locationMunicipality": "Tubbergen",
       "locationType": "contact",
       "locationSource": "https://swtd.nl/contact",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-dc8ef63a98ac44be",
@@ -8992,7 +9093,10 @@
       "locationMunicipality": "Tubbergen",
       "locationType": "contact",
       "locationSource": "https://swtd.nl/contact",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "veiligheid/buren"
+      ]
     },
     {
       "id": "candidate-ef64040f87943425",
@@ -9600,7 +9704,10 @@
       "locationMunicipality": "Tubbergen",
       "locationType": "contact",
       "locationSource": "https://swtd.nl/contact",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/samen"
+      ]
     },
     {
       "id": "candidate-ab3502a001b5bdce",
@@ -10280,7 +10387,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/221649/invis2/speelotheek-pippeloentje",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "id": "candidate-37026a7471bd7de6",
@@ -10461,7 +10571,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "contact",
       "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197275/invis2/stichting-kulturhus-holten-locatie-smidsbelt",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-426d177435ba16e1",
@@ -10588,7 +10701,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/220987/invis2/stichting-samenzijn",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-a94aab5d98e3e678",
@@ -10648,7 +10764,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/220987/invis2/stichting-samenzijn",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-32973521d7808a4f",
@@ -11016,7 +11135,11 @@
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/jongeren",
+        "mentaal/welzijn"
+      ]
     },
     {
       "id": "candidate-0dd870c02eb65c0b",
@@ -11080,7 +11203,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "veiligheid/buren"
+      ]
     },
     {
       "id": "candidate-561e3d6bae2a6df2",
@@ -11140,7 +11266,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "id": "candidate-c60fa826d7e541fc",
@@ -11207,7 +11336,11 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-ca109680a00b0566",
@@ -11274,7 +11407,10 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "id": "candidate-6f708acd5b6eda78",
@@ -11996,7 +12132,10 @@
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/224536/invis2/wierden-met-mekaar",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-3d799bd48067683f",
@@ -12274,7 +12413,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkrachtborne.nl/jmz",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "veiligheid/buren"
+      ]
     },
     {
       "id": "candidate-8a9d6af60a7b60dc",
@@ -12623,7 +12765,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkrachtborne.nl/jmz",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/clientsteun"
+      ]
     },
     {
       "id": "candidate-692be3189e757958",
@@ -13620,7 +13765,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "veiligheid/buren"
+      ]
     },
     {
       "id": "candidate-f5f6648c82aa7822",
@@ -18699,7 +18847,10 @@
       "description": "Acht bijeenkomsten om met een persoonlijk herstelplan meer grip te krijgen op welbevinden en ontregeling.",
       "audience": "Mensen die aan persoonlijk of psychisch herstel willen werken.",
       "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "guidePaths": [
+        "mentaal/lotgenoten"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -18734,7 +18885,10 @@
       "description": "Twaalf bijeenkomsten over herstel, regie, doelen, participatie, steun en empowerment.",
       "audience": "Mensen die aan persoonlijk of psychisch herstel willen werken.",
       "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "guidePaths": [
+        "mentaal/lotgenoten"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -18769,7 +18923,10 @@
       "description": "Acht bijeenkomsten over levensverhaal, patronen, verbinding, afscheid en betekenisgeving.",
       "audience": "Mensen die aan persoonlijk of psychisch herstel willen werken.",
       "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "guidePaths": [
+        "mentaal/lotgenoten"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -19468,7 +19625,10 @@
       "locationType": "source-address",
       "locationSource": "https://www.wijkrachtacademie.nl/aanbod/item/assertiviteitstraining-volwassenen-18",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/welzijn"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -19514,7 +19674,10 @@
       "locationType": "source-address",
       "locationSource": "https://www.wijkrachtacademie.nl/aanbod/item/assertiviteitstraining-volwassenen-18",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/welzijn"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -20335,7 +20498,11 @@
       "locationType": "contact",
       "locationSource": "https://www.avedan.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden",
+        "mentaal/welzijn"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -20425,7 +20592,11 @@
       "locationType": "contact",
       "locationSource": "https://www.avedan.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden",
+        "mentaal/welzijn"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -20602,7 +20773,10 @@
       "locationType": "source-address",
       "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/welzijn"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -21992,7 +22166,10 @@
       "locationType": "visiting",
       "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -22909,7 +23086,10 @@
       "locationType": "contact",
       "locationSource": "https://www.avedan.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -22951,7 +23131,10 @@
       "locationType": "contact",
       "locationSource": "https://www.avedan.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -23035,7 +23218,10 @@
       "locationType": "contact",
       "locationSource": "https://www.avedan.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -23077,7 +23263,10 @@
       "locationType": "contact",
       "locationSource": "https://www.avedan.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -23353,7 +23542,10 @@
       "locationType": "contact",
       "locationSource": "https://www.avedan.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "mentaal/welzijn"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -26022,7 +26214,10 @@
       "locationType": "contact",
       "locationSource": "https://www.fundamentlosser.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -26067,7 +26262,10 @@
       "locationType": "contact",
       "locationSource": "https://www.fundamentlosser.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -26291,7 +26489,11 @@
       "locationMunicipality": "Hengelo (O)",
       "locationSource": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -26641,7 +26843,10 @@
       "locationMunicipality": "Oldenzaal",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "sourceKind": "first-party",
