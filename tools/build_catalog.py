@@ -35,6 +35,104 @@ def org_name(v):
 def has_location(v):
     return bool(v.get("address") and v.get("town") and isinstance(v.get("lat"), (int, float)) and isinstance(v.get("lon"), (int, float)))
 
+def candidate_quality(v):
+    location_rank = {"visiting": 5, "service": 5, "existing": 4, "contact": 1, "source-address": 0}.get(v.get("locationType") or "", 2)
+    return (
+        1 if v.get("mapPin") else 0,
+        location_rank,
+        1 if has_location(v) else 0,
+        str(v.get("checked") or ""),
+        str(v.get("addressChecked") or ""),
+    )
+
+def dedupe_candidates(candidates):
+    """Laat aantoonbaar gecorrigeerde varianten oude zwakkere varianten vervangen.
+
+    Bij twee even sterke fysieke vermeldingen op verschillende adressen bewaren we
+    beide: dat kan een echte multi-locatie activiteit zijn.
+    """
+    grouped = {}
+    order = []
+    for v in candidates:
+        key = normalized(v.get("name") or "")
+        if not key:
+            order.append((None, v))
+            continue
+        if key not in grouped:
+            grouped[key] = []
+            order.append((key, None))
+        grouped[key].append(v)
+
+    result = []
+    for key, passthrough in order:
+        if key is None:
+            result.append(passthrough)
+            continue
+        group = grouped.pop(key, None)
+        if group is None:
+            continue
+        if len(group) == 1:
+            result.append(group[0])
+            continue
+        strong_physical = [
+            v for v in group
+            if v.get("mapPin") and v.get("locationType") in {"visiting", "service", "existing"} and has_location(v)
+        ]
+        strong_sites = {
+            (normalized(v.get("address") or ""), normalized(v.get("town") or ""))
+            for v in strong_physical
+        }
+        if len(strong_sites) > 1:
+            result.extend(group)
+            continue
+        ranked = sorted(group, key=candidate_quality, reverse=True)
+        if len(ranked) > 1 and candidate_quality(ranked[0]) == candidate_quality(ranked[1]):
+            result.extend(group)
+        else:
+            result.append(ranked[0])
+    return result
+
+def facility_site_key(v):
+    if not has_location(v):
+        return ""
+    return "|".join([
+        normalized(v.get("address") or ""),
+        re.sub(r"\s+", "", (v.get("postcode") or "")).casefold(),
+        normalized(v.get("town") or ""),
+    ])
+
+def dedupe_facilities(facilities):
+    """Één fysieke kaartvermelding per bron en exact bezoekadres.
+
+    Het volledige onderliggende aanbod blijft in catalog.json staan; alleen de
+    kaart/lijst wordt niet meer opgeblazen door meerdere activiteiten op één plek.
+    """
+    out = []
+    seen = {}
+    for item in facilities:
+        site = facility_site_key(item)
+        source = (item.get("source") or "").strip().casefold()
+        if not item.get("physicalLocation") or not site or not source:
+            out.append(item)
+            continue
+        key = (site, source)
+        if key not in seen:
+            seen[key] = item
+            out.append(item)
+            continue
+        current = seen[key]
+        for field in ("tags", "subthemes", "serviceMunicipalities"):
+            merged = []
+            for value in [*(current.get(field) or []), *(item.get(field) or [])]:
+                if value and value not in merged:
+                    merged.append(value)
+            current[field] = merged
+        if len((item.get("name") or "")) < len((current.get("name") or "")):
+            current["name"] = item.get("name") or current.get("name")
+        if not current.get("description") and item.get("description"):
+            current["description"] = item.get("description")
+    return out
+
 def review_status(v):
     if v.get("status") == "published" or v.get("accessStatus") == "confirmed":
         return "manual"
@@ -124,7 +222,8 @@ def main():
     groups = {}
     review = []
 
-    for v in inv.get("candidates", []):
+    candidates = dedupe_candidates(inv.get("candidates", []))
+    for v in candidates:
         org = org_name(v)
         key = org.casefold()
         g = groups.setdefault(key, {
@@ -298,12 +397,15 @@ def main():
         })
         synthetic += 1
 
+    facilities_before_dedupe = len(facilities)
+    facilities = dedupe_facilities(facilities)
+
     DATA.mkdir(parents=True, exist_ok=True)
     dump(DATA / "facilities.json", facilities)
     dump(DATA / "catalog.json", catalog)
     dump(DATA / "review-queue.json", review)
     print(
-        f"{len(facilities)} kaartlocaties ({len(base_facilities)} bestaand + {explicit} concrete + {synthetic} bron/contact) · "
+        f"{len(facilities)} kaartlocaties ({facilities_before_dedupe - len(facilities)} dubbele kaartvermeldingen samengevoegd) · "
         f"{len(catalog)} organisaties · {sum(g['offerCount'] for g in catalog)} aanbodregels · {len(review)} aandachtspunten"
     )
 
