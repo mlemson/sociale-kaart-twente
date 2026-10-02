@@ -7162,13 +7162,13 @@
     "reviewNeeded": 0,
     "sourceBacked": 1,
     "manual": 0,
-    "checked": "2026-09-15",
+    "checked": "2026-10-03",
     "offers": [
       {
         "id": "candidate-636d4f5d178aa08f",
         "title": "De Klup - locatie Almelo",
         "name": "De Klup - locatie Almelo",
-        "description": "",
+        "description": "Ontmoetings- en activiteitenlocatie van De Klup in Almelo, met sociaal en recreatief aanbod voor mensen die ondersteuning bij meedoen kunnen gebruiken.",
         "municipality": "Almelo",
         "municipalities": [
           "Almelo",
@@ -7183,8 +7183,8 @@
           "ontmoeten"
         ],
         "guidePaths": [
-          "zorg/beperking",
-          "meedoen/daginvulling"
+          "meedoen/daginvulling",
+          "ontmoeten/inloop"
         ],
         "guideExclude": false,
         "audience": "",
@@ -7196,18 +7196,18 @@
         "source": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
         "sourceKind": "municipal-directory",
         "sourceTitle": "Sociale kaart Almelo",
-        "checked": "2026-09-15",
+        "checked": "2026-10-03",
         "reviewStatus": "source-backed",
         "address": "Berlagelaan 2",
         "postcode": "7606ST",
         "town": "Almelo",
         "lat": 52.35039444,
         "lon": 6.64594796,
-        "locationType": "contact",
+        "locationType": "visiting",
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
     "location": {
@@ -7217,7 +7217,7 @@
       "lat": 52.35039444,
       "lon": 6.64594796,
       "locationMunicipality": "Almelo",
-      "locationType": "contact",
+      "locationType": "visiting",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
       "mapLocationType": "address"
     },
@@ -19585,13 +19585,13 @@
     "reviewNeeded": 0,
     "sourceBacked": 1,
     "manual": 0,
-    "checked": "2026-09-15",
+    "checked": "2026-10-03",
     "offers": [
       {
         "id": "candidate-653c4f9e44aa0e89",
         "title": "Leger des Heils - Buurthuiskamer Bij Bosshardt",
         "name": "Leger des Heils - Buurthuiskamer Bij Bosshardt",
-        "description": "",
+        "description": "Buurthuiskamer van het Leger des Heils waar buurtbewoners laagdrempelig kunnen binnenlopen voor koffie, ontmoeting en activiteiten.",
         "municipality": "Almelo",
         "municipalities": [
           "Almelo"
@@ -19607,29 +19607,32 @@
           "ontmoeten",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "guideExclude": false,
         "audience": "",
         "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+        "access": "Vrije inloop volgens het actuele programma.",
         "openingHours": "",
         "phone": "",
         "email": "",
         "source": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
         "sourceKind": "municipal-directory",
         "sourceTitle": "Sociale kaart Almelo",
-        "checked": "2026-09-15",
+        "checked": "2026-10-03",
         "reviewStatus": "source-backed",
         "address": "Troelstralaan 1",
         "postcode": "7604VW",
         "town": "Almelo",
         "lat": 52.35761573,
         "lon": 6.65236287,
-        "locationType": "source-address",
+        "locationType": "visiting",
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
     "location": {
@@ -19639,7 +19642,7 @@
       "lat": 52.35761573,
       "lon": 6.65236287,
       "locationMunicipality": "Almelo",
-      "locationType": "source-address",
+      "locationType": "visiting",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
       "mapLocationType": "address"
     },
@@ -32064,13 +32067,13 @@
     "reviewNeeded": 0,
     "sourceBacked": 1,
     "manual": 0,
-    "checked": "2026-09-15",
+    "checked": "2026-10-03",
     "offers": [
       {
         "id": "candidate-2d81c01f72ce1f2a",
         "title": "TEJO-huis Almelo",
         "name": "TEJO-huis Almelo",
-        "description": "",
+        "description": "Laagdrempelige plek voor jongeren waar zij zonder verwijzing terechtkunnen voor een gesprek, steun en een luisterend oor.",
         "municipality": "Almelo",
         "municipalities": [
           "Almelo"
@@ -32089,26 +32092,26 @@
         ],
         "guideExclude": false,
         "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+        "costs": "Gratis.",
+        "access": "Jongeren kunnen rechtstreeks binnenlopen of contact opnemen; geen verwijzing nodig.",
         "openingHours": "",
         "phone": "",
         "email": "",
         "source": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
         "sourceKind": "municipal-directory",
         "sourceTitle": "Sociale kaart Almelo",
-        "checked": "2026-09-15",
+        "checked": "2026-10-03",
         "reviewStatus": "source-backed",
         "address": "Wierdensestraat 18",
         "postcode": "7607GH",
         "town": "Almelo",
         "lat": 52.35495064,
         "lon": 6.66199027,
-        "locationType": "source-address",
+        "locationType": "visiting",
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
     "location": {
@@ -32118,7 +32121,7 @@
       "lat": 52.35495064,
       "lon": 6.66199027,
       "locationMunicipality": "Almelo",
-      "locationType": "source-address",
+      "locationType": "visiting",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
       "mapLocationType": "address"
     },

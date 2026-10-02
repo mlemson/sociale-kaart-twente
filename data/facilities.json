@@ -3675,6 +3675,44 @@
     "catalogOrganizationId": "org-de-kappen-g0qov5"
   },
   {
+    "id": "offer-candidate-636d4f5d178aa08f",
+    "name": "De Klup - locatie Almelo",
+    "category": "ontmoeten",
+    "address": "Berlagelaan 2",
+    "postcode": "7606ST",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo",
+      "Wierden"
+    ],
+    "lat": 52.35039444,
+    "lon": 6.64594796,
+    "source": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
+    "checked": "2026-10-03",
+    "tags": [
+      "ontmoeten"
+    ],
+    "subthemes": [],
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Ontmoetings- en activiteitenlocatie van De Klup in Almelo, met sociaal en recreatief aanbod voor mensen die ondersteuning bij meedoen kunnen gebruiken.",
+    "audience": "",
+    "costs": "",
+    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-de-klup-locatie-almelo-1x3ssps"
+  },
+  {
     "id": "offer-extra-20261002-deposten-huiskamer-van-de-buurt",
     "name": "De Posten · Huiskamer van de Buurt Wesselerbrink",
     "category": "ontmoeten",
@@ -7450,6 +7488,46 @@
     "catalogOrganizationId": "org-kulturhus-kruidenwijk-n3l3p3"
   },
   {
+    "id": "offer-candidate-653c4f9e44aa0e89",
+    "name": "Leger des Heils - Buurthuiskamer Bij Bosshardt",
+    "category": "ontmoeten",
+    "address": "Troelstralaan 1",
+    "postcode": "7604VW",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.35761573,
+    "lon": 6.65236287,
+    "source": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
+    "checked": "2026-10-03",
+    "tags": [
+      "ontmoeten",
+      "ontmoeting"
+    ],
+    "subthemes": [
+      "ontmoeting"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Buurthuiskamer van het Leger des Heils waar buurtbewoners laagdrempelig kunnen binnenlopen voor koffie, ontmoeting en activiteiten.",
+    "audience": "",
+    "costs": "",
+    "access": "Vrije inloop volgens het actuele programma.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-leger-des-heils-buurthuiskamer-bij-bosshardt-1keez9u"
+  },
+  {
     "id": "offer-candidate-20261002-livio-huiskamer-de-berke",
     "name": "Livio · Huiskamer van de wijk De Berke",
     "category": "ontmoeten",
@@ -10357,6 +10435,43 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-tactus-intact-54ij04"
+  },
+  {
+    "id": "offer-candidate-2d81c01f72ce1f2a",
+    "name": "TEJO-huis Almelo",
+    "category": "jeugd",
+    "address": "Wierdensestraat 18",
+    "postcode": "7607GH",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.35495064,
+    "lon": 6.66199027,
+    "source": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
+    "checked": "2026-10-03",
+    "tags": [
+      "jeugd"
+    ],
+    "subthemes": [],
+    "guidePaths": [
+      "onderwijs/jongeren",
+      "mentaal/welzijn"
+    ],
+    "guideExclude": false,
+    "description": "Laagdrempelige plek voor jongeren waar zij zonder verwijzing terechtkunnen voor een gesprek, steun en een luisterend oor.",
+    "audience": "",
+    "costs": "Gratis.",
+    "access": "Jongeren kunnen rechtstreeks binnenlopen of contact opnemen; geen verwijzing nodig.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-tejo-huis-almelo-dlmyhr"
   },
   {
     "id": "offer-extra-20261002-borne-hertme-theaterhoes",
@@ -13901,39 +14016,6 @@
     "catalogOrganizationId": "org-de-fakkel-1ab1io8"
   },
   {
-    "id": "catalog-org-de-klup-locatie-almelo-1x3ssps",
-    "name": "De Klup - locatie Almelo",
-    "category": "ontmoeten",
-    "address": "Berlagelaan 2",
-    "postcode": "7606ST",
-    "town": "Almelo",
-    "municipality": "Almelo",
-    "serviceMunicipalities": [
-      "Almelo",
-      "Wierden"
-    ],
-    "lat": 52.35039444,
-    "lon": 6.64594796,
-    "source": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
-    "checked": "2026-09-15",
-    "tags": [
-      "ontmoeten"
-    ],
-    "subthemes": [],
-    "description": "Contact-/vestigingsadres voor De Klup - locatie Almelo. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
-    "audience": "",
-    "costs": "",
-    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "contact",
-    "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
-    "mapLocationType": "address",
-    "physicalLocation": false,
-    "catalogOrganizationId": "org-de-klup-locatie-almelo-1x3ssps"
-  },
-  {
     "id": "catalog-org-de-kringen-wees-jezelf-ontmoet-een-ander-ckewws",
     "name": "De Kringen - Wees jezelf, ontmoet een ander!",
     "category": "ontmoeten",
@@ -14786,38 +14868,6 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-leendert-vriel-enschede-n9uz4f"
-  },
-  {
-    "id": "catalog-org-leger-des-heils-buurthuiskamer-bij-bosshardt-1keez9u",
-    "name": "Leger des Heils - Buurthuiskamer Bij Bosshardt",
-    "category": "ontmoeten",
-    "address": "Troelstralaan 1",
-    "postcode": "7604VW",
-    "town": "Almelo",
-    "municipality": "Almelo",
-    "serviceMunicipalities": [
-      "Almelo"
-    ],
-    "lat": 52.35761573,
-    "lon": 6.65236287,
-    "source": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
-    "checked": "2026-09-15",
-    "tags": [
-      "ontmoeten"
-    ],
-    "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Leger des Heils - Buurthuiskamer Bij Bosshardt. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
-    "audience": "",
-    "costs": "",
-    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "source-address",
-    "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
-    "mapLocationType": "address",
-    "physicalLocation": false,
-    "catalogOrganizationId": "org-leger-des-heils-buurthuiskamer-bij-bosshardt-1keez9u"
   },
   {
     "id": "catalog-org-liberein-16a7yrp",
@@ -16255,38 +16305,6 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-tafeltje-dekje-wa2vbj"
-  },
-  {
-    "id": "catalog-org-tejo-huis-almelo-dlmyhr",
-    "name": "TEJO-huis Almelo",
-    "category": "jeugd",
-    "address": "Wierdensestraat 18",
-    "postcode": "7607GH",
-    "town": "Almelo",
-    "municipality": "Almelo",
-    "serviceMunicipalities": [
-      "Almelo"
-    ],
-    "lat": 52.35495064,
-    "lon": 6.66199027,
-    "source": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
-    "checked": "2026-09-15",
-    "tags": [
-      "jeugd"
-    ],
-    "subthemes": [],
-    "description": "Contact-/vestigingsadres voor TEJO-huis Almelo. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
-    "audience": "",
-    "costs": "",
-    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "source-address",
-    "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
-    "mapLocationType": "address",
-    "physicalLocation": false,
-    "catalogOrganizationId": "org-tejo-huis-almelo-dlmyhr"
   },
   {
     "id": "catalog-org-voedsel-kledingbank-rijssen-holten-6l2bdb",

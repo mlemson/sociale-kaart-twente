@@ -2632,7 +2632,10 @@
       ],
       "mapPin": true,
       "guideExclude": false,
-      "mapLocationType": "address"
+      "mapLocationType": "address",
+      "lat": 52.35039444,
+      "lon": 6.64594796,
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "candidate-70465b5a9d80e6c4",
@@ -5387,7 +5390,10 @@
         "meedoen/daginvulling"
       ],
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.35761573,
+      "lon": 6.65236287,
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "candidate-5ad733a463c4a16d",
@@ -10457,7 +10463,10 @@
       ],
       "costs": "Gratis.",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.35495064,
+      "lon": 6.66199027,
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "candidate-0dd870c02eb65c0b",
