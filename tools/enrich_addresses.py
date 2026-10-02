@@ -35,6 +35,7 @@ from urllib.request import Request, build_opener, HTTPRedirectHandler
 
 ROOT = Path(__file__).resolve().parents[1]
 INVENTORY = ROOT / "inventory.json"
+EXTRA = ROOT / "inventory.extra.json"
 UA = "SocialeKaartTwente/1.0 (+https://github.com/mlemson/sociale-kaart-twente)"
 TIMEOUT = 15
 MAX_BYTES = 2_500_000
@@ -455,6 +456,10 @@ def main():
     args = parser.parse_args()
 
     inv = load(INVENTORY)
+    extra = load(EXTRA) if EXTRA.exists() else {"checked": "", "sources": [], "candidates": []}
+    base_count = len(inv.get("candidates", []))
+    inv.setdefault("candidates", []).extend(extra.get("candidates", []))
+
     groups = defaultdict(list)
     for candidate in inv.get("candidates", []):
         groups[norm(org_name(candidate))].append(candidate)
@@ -465,6 +470,42 @@ def main():
     today = date.today().isoformat()
 
     for key, group in sorted(groups.items()):
+        # Geocodeer eerst ieder expliciet aanbodadres afzonderlijk. Dit is belangrijk
+        # voor organisaties met meerdere echte locaties: die mogen niet allemaal
+        # het eerste contactadres van de organisatie erven.
+        for candidate in group:
+            if not (candidate.get("address") and candidate.get("town")):
+                continue
+            if isinstance(candidate.get("lat"), (int, float)) and isinstance(candidate.get("lon"), (int, float)):
+                continue
+            candidate_expected = sorted(set(
+                (candidate.get("municipalities") or []) +
+                ([candidate.get("municipality")] if candidate.get("municipality") else [])
+            ))
+            geo = pdok_geocode({
+                "address": candidate.get("address") or "",
+                "postcode": candidate.get("postcode") or "",
+                "town": candidate.get("town") or "",
+            }, candidate_expected)
+            time.sleep(REQUEST_DELAY)
+            if geo:
+                geo["locationType"] = candidate.get("locationType") or "visiting"
+                geo["locationSource"] = candidate.get("locationSource") or candidate.get("source") or ""
+                geo = mark_map_mode(geo, candidate_expected)
+                candidate.update({
+                    "address": geo["address"],
+                    "postcode": geo.get("postcode") or candidate.get("postcode") or "",
+                    "town": geo["town"],
+                    "lat": geo["lat"],
+                    "lon": geo["lon"],
+                    "locationMunicipality": geo.get("locationMunicipality") or "",
+                    "locationType": geo.get("locationType") or candidate.get("locationType") or "visiting",
+                    "locationSource": geo.get("locationSource") or candidate.get("locationSource") or candidate.get("source") or "",
+                    "mapLocationType": geo.get("mapLocationType") or "address",
+                    "addressChecked": today,
+                })
+                changed += 1
+
         already = next((
             v for v in group
             if v.get("address") and v.get("town") and isinstance(v.get("lat"), (int, float)) and isinstance(v.get("lon"), (int, float))
@@ -492,8 +533,9 @@ def main():
 
         resolved_groups += 1
         for candidate in group:
-            # Een specifiek bestaand adres nooit vervangen door een generiek groepsadres.
-            if candidate.get("address") and candidate.get("town") and isinstance(candidate.get("lat"), (int, float)) and isinstance(candidate.get("lon"), (int, float)):
+            # Een expliciet aanbodadres nooit vervangen door een generiek groepsadres,
+            # ook niet wanneer PDOK het adres nog niet kon geocoderen.
+            if candidate.get("address") and candidate.get("town"):
                 continue
             before = (
                 candidate.get("address"), candidate.get("postcode"), candidate.get("town"),
@@ -531,7 +573,14 @@ def main():
             print(f"... en {len(unresolved) - 40} andere.")
 
     if not args.dry_run:
+        combined = inv.get("candidates", [])
+        inv["candidates"] = combined[:base_count]
+        extra["candidates"] = combined[base_count:]
+        extra["addressEnrichmentVersion"] = inv["addressEnrichmentVersion"]
+        extra["addressEnrichedAt"] = inv["addressEnrichedAt"]
+        extra["addressEnrichmentMethod"] = inv["addressEnrichmentMethod"]
         dump(INVENTORY, inv)
+        dump(EXTRA, extra)
 
 if __name__ == "__main__":
     main()

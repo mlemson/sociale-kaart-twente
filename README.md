@@ -36,7 +36,7 @@ De redactionele workflow is gebaseerd op uitzonderingen:
 
 De kaart verwijst bij aanbod altijd terug naar de bron, omdat openingstijden, voorwaarden, bedragen en beschikbaarheid kunnen wijzigen.
 
-**Laatste automatische adrescontrole (1 oktober 2026):** 105 organisaties, 281 aanbodregels en 129 kaartlocaties; alle 281 aanbodregels hebben een adres en geocodeerde coördinaten.
+**Laatste automatische inventarisatie (2 oktober 2026):** 476 aanbodregels, 151 organisaties en 253 kaartlocaties. De inventarisatie omvat naast informatie- en ontmoetingsaanbod nu ook gratis trainingen, cursussen, jeugdactiviteiten, open daginvulling zonder indicatie, herstel/maatjes, vrijwilligersscholing en laagdrempelige beweeg- en ouderenactiviteiten.
 
 ## Nieuwe bronnen toevoegen
 
