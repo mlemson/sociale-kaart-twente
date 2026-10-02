@@ -129,10 +129,17 @@ for item in expectations:
         and serves(rec, item["municipality"])
         and matches_path(rec, item["path"])
     ]
-    assert found, (
-        f"Kritieke Wegwijzer-combinatie ontbreekt: {item['nameContains']} "
-        f"bij {item['municipality']} op {item['path']}"
-    )
+    should_exist = item.get("shouldExist", True)
+    if should_exist:
+        assert found, (
+            f"Kritieke Wegwijzer-combinatie ontbreekt: {item['nameContains']} "
+            f"bij {item['municipality']} op {item['path']}"
+        )
+    else:
+        assert not found, (
+            f"Kritieke Wegwijzer-combinatie staat ten onrechte zichtbaar: {item['nameContains']} "
+            f"bij {item['municipality']} op {item['path']}"
+        )
 print(f"{len(expectations)} kritieke thema+gemeente-combinaties gecontroleerd")
 
 
