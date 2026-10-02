@@ -197,5 +197,36 @@
       "meedoen/daginvulling",
       "meedoen/werk"
     ]
+  },
+  {
+    "id": "ref-attendiz-extra-ondersteuning",
+    "organization": "Attendiz",
+    "title": "Speciaal onderwijs met extra ondersteuning",
+    "municipalities": [
+      "Almelo",
+      "Enschede",
+      "Hengelo",
+      "Losser"
+    ],
+    "routeTags": [
+      "speciaal onderwijs",
+      "vso",
+      "gedrag",
+      "autisme",
+      "ass",
+      "adhd",
+      "psychiatrische problematiek",
+      "extra ondersteuning"
+    ],
+    "guidePaths": [
+      "onderwijs/school/speciaal/gedrag",
+      "onderwijs/school/speciaal/specialistisch"
+    ],
+    "description": "Attendiz heeft scholen voor (voortgezet) speciaal onderwijs in Twente voor leerlingen met extra ondersteuningsbehoeften, waaronder gedragsproblematiek, autisme en andere psychiatrische of sociaal-emotionele problematiek.",
+    "audience": "Leerlingen van ongeveer 4 tot 20 jaar die extra of intensieve onderwijs- en begeleidingsondersteuning nodig hebben.",
+    "access": "Voor plaatsing in het speciaal onderwijs is doorgaans een toelaatbaarheidsverklaring van het samenwerkingsverband nodig.",
+    "source": "https://attendiz.nl/scholen/",
+    "checked": "2026-10-02",
+    "referenceOnly": true
   }
 ]
