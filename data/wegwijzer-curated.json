@@ -3,8 +3,20 @@
     "id": "ref-ocr-attendiz",
     "organization": "OCR (Attendiz)",
     "title": "Onderwijscentrum Het Roessingh (OCR)",
-    "municipalities": ["Enschede", "Losser"],
-    "routeTags": ["onderwijs", "school", "speciaal onderwijs", "voortgezet speciaal onderwijs", "specialistisch", "OCR", "Attendiz", "Roessingh"],
+    "municipalities": [
+      "Enschede",
+      "Losser"
+    ],
+    "routeTags": [
+      "onderwijs",
+      "school",
+      "speciaal onderwijs",
+      "voortgezet speciaal onderwijs",
+      "specialistisch",
+      "OCR",
+      "Attendiz",
+      "Roessingh"
+    ],
     "description": "Speciaal onderwijs en voortgezet speciaal onderwijs voor leerlingen met onder meer een lichamelijke of meervoudige beperking en/of langdurige ziekte.",
     "audience": "Leerlingen van ongeveer 4 tot 18 jaar; de school kent meerdere leerstromen en locaties.",
     "access": "Bekijk de actuele toelatings- en plaatsingsroute bij OCR/Attendiz en het passende samenwerkingsverband.",
@@ -15,8 +27,18 @@
     "id": "ref-hod-24uurs",
     "organization": "Humanitas Onder Dak",
     "title": "24-uurs opvang",
-    "municipalities": ["Almelo", "Enschede", "Hengelo"],
-    "routeTags": ["dakloos", "thuisloos", "maatschappelijke opvang", "24-uurs opvang", "wonen"],
+    "municipalities": [
+      "Almelo",
+      "Enschede",
+      "Hengelo"
+    ],
+    "routeTags": [
+      "dakloos",
+      "thuisloos",
+      "maatschappelijke opvang",
+      "24-uurs opvang",
+      "wonen"
+    ],
     "description": "Tijdelijke woon- en opvangplek met begeleiding voor volwassenen die dak- of thuisloos zijn en actief willen werken aan verbetering van hun leefsituatie.",
     "audience": "Volwassenen vanaf 26 jaar die dak- of thuisloos zijn en tijdelijke ondersteuning nodig hebben.",
     "access": "Aanmelding en intake via Humanitas Onder Dak; voor plaatsing wordt toestemming via CIMOT gevraagd.",
@@ -27,21 +49,46 @@
     "id": "ref-hod-kamerraad",
     "organization": "Humanitas Onder Dak",
     "title": "Kamer-Raad",
-    "municipalities": ["Almelo", "Enschede", "Hengelo"],
-    "routeTags": ["kamer raad", "jongvolwassen", "student", "opleiding", "wonen", "begeleid wonen"],
+    "municipalities": [
+      "Almelo",
+      "Enschede",
+      "Hengelo"
+    ],
+    "routeTags": [
+      "kamer raad",
+      "jongvolwassen",
+      "student",
+      "opleiding",
+      "wonen",
+      "begeleid wonen"
+    ],
     "description": "Woon-, werk- en leerhuis voor jongvolwassenen die door problemen thuis tijdelijk ondersteuning nodig hebben om hun opleiding en ontwikkeling vol te houden.",
     "audience": "Twentse jongvolwassenen van 18 tot 27 jaar die onderwijs volgen en redelijk zelfstandig kunnen functioneren.",
     "access": "Aanmelden via Humanitas Onder Dak. Voor starten is toestemming van de gemeente nodig; in Almelo loopt dit ook via CIMOT. Beschikbaarheid is bepalend.",
     "costs": "Bewoners betalen een eigen bijdrage voor huur, gas, water, elektriciteit en borg.",
     "source": "https://humanitasonderdak.nl/wonen/kamer-raad/",
-    "checked": "2026-10-02"
+    "checked": "2026-10-02",
+    "guidePaths": [
+      "wonen/begeleid-wonen",
+      "onderwijs/school/studie",
+      "meedoen/werk"
+    ]
   },
   {
     "id": "ref-hod-tov",
     "organization": "Humanitas Onder Dak",
     "title": "Twentse Opvang Voorziening voor Jongeren (TOV)",
-    "municipalities": ["Enschede"],
-    "routeTags": ["dakloos", "thuisloos", "jongeren", "zwerfjongeren", "opvang", "TOV"],
+    "municipalities": [
+      "Enschede"
+    ],
+    "routeTags": [
+      "dakloos",
+      "thuisloos",
+      "jongeren",
+      "zwerfjongeren",
+      "opvang",
+      "TOV"
+    ],
     "description": "Tijdelijke opvang voor jongeren die onderdak nodig hebben en met begeleiding hun leven weer op de rails willen krijgen.",
     "audience": "Jongeren van 18 tot en met 25 jaar.",
     "source": "https://humanitasonderdak.nl/vestigingen/twente/enschede/",
@@ -51,8 +98,19 @@
     "id": "ref-hod-housing-first",
     "organization": "Humanitas Onder Dak",
     "title": "Housing First",
-    "municipalities": ["Almelo", "Enschede", "Hengelo", "Oldenzaal"],
-    "routeTags": ["dakloos", "thuisloos", "housing first", "wonen", "begeleid wonen"],
+    "municipalities": [
+      "Almelo",
+      "Enschede",
+      "Hengelo",
+      "Oldenzaal"
+    ],
+    "routeTags": [
+      "dakloos",
+      "thuisloos",
+      "housing first",
+      "wonen",
+      "begeleid wonen"
+    ],
     "description": "Woonvorm waarbij eerst een woning wordt geboden en van daaruit begeleiding wordt ingezet.",
     "source": "https://humanitasonderdak.nl/vestigingen/twente/",
     "checked": "2026-10-02"
@@ -61,8 +119,16 @@
     "id": "ref-hod-bwm",
     "organization": "Humanitas Onder Dak",
     "title": "Beschermd Wonen Modulair",
-    "municipalities": ["Enschede", "Oldenzaal"],
-    "routeTags": ["beschermd wonen", "begeleid wonen", "woonbegeleiding", "wonen"],
+    "municipalities": [
+      "Enschede",
+      "Oldenzaal"
+    ],
+    "routeTags": [
+      "beschermd wonen",
+      "begeleid wonen",
+      "woonbegeleiding",
+      "wonen"
+    ],
     "description": "Beschermde woonomgeving met begeleiding door een persoonlijk begeleider.",
     "source": "https://humanitasonderdak.nl/vestigingen/twente/",
     "checked": "2026-10-02"
@@ -71,8 +137,18 @@
     "id": "ref-hod-inloop",
     "organization": "Humanitas Onder Dak",
     "title": "Inloop",
-    "municipalities": ["Enschede", "Hengelo", "Oldenzaal"],
-    "routeTags": ["dakloos", "thuisloos", "inloop", "ontmoeten", "praktische hulp"],
+    "municipalities": [
+      "Enschede",
+      "Hengelo",
+      "Oldenzaal"
+    ],
+    "routeTags": [
+      "dakloos",
+      "thuisloos",
+      "inloop",
+      "ontmoeten",
+      "praktische hulp"
+    ],
     "description": "Laagdrempelige inloop voor koffie, contact, lichte hulpvragen en activiteiten.",
     "source": "https://humanitasonderdak.nl/vestigingen/twente/",
     "checked": "2026-10-02"
@@ -81,8 +157,18 @@
     "id": "ref-hod-ambulant",
     "organization": "Humanitas Onder Dak",
     "title": "Ambulante woonbegeleiding",
-    "municipalities": ["Almelo", "Enschede", "Hengelo", "Oldenzaal"],
-    "routeTags": ["woonbegeleiding", "begeleid wonen", "zelfstandig wonen", "wonen"],
+    "municipalities": [
+      "Almelo",
+      "Enschede",
+      "Hengelo",
+      "Oldenzaal"
+    ],
+    "routeTags": [
+      "woonbegeleiding",
+      "begeleid wonen",
+      "zelfstandig wonen",
+      "wonen"
+    ],
     "description": "Begeleiding voor mensen die zelfstandig wonen en ondersteuning nodig hebben op verschillende leefgebieden.",
     "source": "https://humanitasonderdak.nl/vestigingen/twente/",
     "checked": "2026-10-02"
@@ -91,10 +177,25 @@
     "id": "ref-hod-talent",
     "organization": "Humanitas Onder Dak",
     "title": "Talentontwikkeling",
-    "municipalities": ["Almelo", "Enschede", "Hengelo", "Oldenzaal"],
-    "routeTags": ["talentontwikkeling", "leer werk", "daginvulling", "werk", "jongeren"],
+    "municipalities": [
+      "Almelo",
+      "Enschede",
+      "Hengelo",
+      "Oldenzaal"
+    ],
+    "routeTags": [
+      "talentontwikkeling",
+      "leer werk",
+      "daginvulling",
+      "werk",
+      "jongeren"
+    ],
     "description": "Leer- en werktrajecten waarin deelnemers vaardigheden en interesses kunnen ontwikkelen richting arbeid, scholing of vrijwilligerswerk.",
     "source": "https://humanitasonderdak.nl/vestigingen/twente/",
-    "checked": "2026-10-02"
+    "checked": "2026-10-02",
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "meedoen/werk"
+    ]
   }
 ]
