@@ -17668,7 +17668,7 @@
       "status": "candidate",
       "id": "candidate-20261002-power-noord",
       "name": "Power Enschede · Noord",
-      "source": "https://www.thechessclub.nl/hulp-nodig/power",
+      "source": "https://www.m-pact.nl/o/Power-Enschede",
       "sourceTitle": "Power Enschede",
       "municipalities": [
         "Enschede"
@@ -17700,13 +17700,8 @@
       "postcode": "7523HC",
       "town": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
-      "mapPin": true,
-      "lat": 52.23976464,
-      "lon": 6.88626963,
-      "locationMunicipality": "Enschede",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "locationSource": "https://www.m-pact.nl/o/Power-Enschede",
+      "mapPin": true
     },
     {
       "sourceKind": "first-party",
@@ -17716,7 +17711,7 @@
       "status": "candidate",
       "id": "candidate-20261002-power-centrum-oost",
       "name": "Power Enschede · Centrum-Oost",
-      "source": "https://www.thechessclub.nl/hulp-nodig/power",
+      "source": "https://www.m-pact.nl/o/Power-Enschede",
       "sourceTitle": "Power Enschede",
       "municipalities": [
         "Enschede"
@@ -17744,17 +17739,12 @@
       "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
       "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
       "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
-      "address": "Zaanstraat 22",
-      "postcode": "7523HC",
+      "address": "Olympialaan 20",
+      "postcode": "7541BK",
       "town": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
-      "mapPin": true,
-      "lat": 52.23976464,
-      "lon": 6.88626963,
-      "locationMunicipality": "Enschede",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "locationSource": "https://www.m-pact.nl/o/Power-Enschede/activiteiten/Vrijwilliger-Nederlandse-les-Power-Oost/28771",
+      "mapPin": true
     },
     {
       "sourceKind": "first-party",
@@ -17792,17 +17782,12 @@
       "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
       "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
       "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
-      "address": "Zaanstraat 22",
-      "postcode": "7523HC",
+      "address": "Plataanstraat 50",
+      "postcode": "7545MN",
       "town": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
-      "mapPin": true,
-      "lat": 52.23976464,
-      "lon": 6.88626963,
-      "locationMunicipality": "Enschede",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "locationSource": "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
+      "mapPin": true
     },
     {
       "sourceKind": "first-party",
@@ -17812,7 +17797,7 @@
       "status": "candidate",
       "id": "candidate-20261002-power-zuid",
       "name": "Power Enschede · Zuid",
-      "source": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
+      "source": "https://www.m-pact.nl/o/Power-Zuid",
       "sourceTitle": "Power Enschede",
       "municipalities": [
         "Enschede"
@@ -17840,17 +17825,12 @@
       "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
       "access": "Laagdrempelig; neem contact op met de locatie voor het actuele programma.",
       "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
-      "address": "Zaanstraat 22",
-      "postcode": "7523HC",
+      "address": "Het Lang 78",
+      "postcode": "7544XC",
       "town": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
-      "mapPin": true,
-      "lat": 52.23976464,
-      "lon": 6.88626963,
-      "locationMunicipality": "Enschede",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "locationSource": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
+      "mapPin": true
     },
     {
       "sourceKind": "first-party",
