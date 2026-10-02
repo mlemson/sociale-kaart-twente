@@ -2292,6 +2292,7 @@
       "eenzaamheid"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Om-de-weekse ontmoetingsgroep waar jongeren nieuwe mensen leren kennen en werken aan een fijner sociaal leven.",
     "audience": "Jongeren van 16 tot en met 23 jaar in Almelo.",
     "costs": "Gratis.",
@@ -2329,6 +2330,7 @@
       "inloop"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Maandelijks ontmoetingscafé voor een praatje, nieuwe contacten en vragen over gezondheid, welzijn en de wijk.",
     "audience": "Iedereen.",
     "costs": "Gratis.",
@@ -2372,6 +2374,7 @@
       "taal/nederlands",
       "taal/basis"
     ],
+    "guideExclude": false,
     "description": "Taalpunt voor hulp bij Nederlands spreken, lezen, schrijven en rekenen; oefenen kan één-op-één of in groepen.",
     "audience": "Volwassen inwoners van Almelo.",
     "costs": "Taalondersteuning via vrijwilligers is laagdrempelig.",
@@ -2410,6 +2413,7 @@
       "digitaal"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis hulp bij vragen over laptop, tablet, telefoon en internet.",
     "audience": "Inwoners die taal- of digitale vaardigheden willen oefenen.",
     "costs": "Gratis aanbod; controleer de actuele activiteit.",
@@ -2449,6 +2453,7 @@
       "inloop"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis inclusieve schaakinloop. Donderdagavond.",
     "audience": "Iedereen die samen wil schaken; locaties werken samen met sociale en welzijnspartners.",
     "costs": "Gratis.",
@@ -2488,6 +2493,7 @@
       "inloop"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis inclusieve schaakinloop. Dinsdagmiddag.",
     "audience": "Iedereen die samen wil schaken; locaties werken samen met sociale en welzijnspartners.",
     "costs": "Gratis.",
@@ -2527,6 +2533,7 @@
       "inloop"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis inclusieve schaakinloop. Donderdagmiddag.",
     "audience": "Iedereen die samen wil schaken; locaties werken samen met sociale en welzijnspartners.",
     "costs": "Gratis.",
@@ -2566,6 +2573,7 @@
       "ouderen"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Dagontmoeting met gezelschap, activiteiten en een warme maaltijd voor mensen die meer structuur of sociale contacten wensen. Een Wmo-indicatie is niet nodig.",
     "audience": "Volwassenen in Hof van Twente die behoefte hebben aan activiteit, gezelschap of structuur.",
     "costs": "Eigen bijdrage voor het dagprogramma; controleer het actuele tarief.",
@@ -2606,6 +2614,7 @@
     "guidePaths": [
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Wekelijkse handwerkmiddag waar deelnemers aan eigen projecten werken, tips uitwisselen en nieuwe vaardigheden delen.",
     "audience": "Iedereen die samen wil handwerken.",
     "costs": "Controleer eventuele consumptiekosten bij de organisator.",
@@ -2644,6 +2653,7 @@
     "guidePaths": [
       "ontmoeten/bewegen"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelig samen bewegen met aandacht voor kracht, conditie en balans.",
     "audience": "Inwoners van de betreffende gemeente.",
     "costs": "Controleer de actuele bijdrage.",
@@ -2684,6 +2694,7 @@
     "guidePaths": [
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Maandelijkse creatieve ochtend om met eigen hobby of materiaal bezig te zijn, inspiratie uit te wisselen en anderen te ontmoeten.",
     "audience": "Inwoners die graag creatief bezig zijn en anderen willen ontmoeten.",
     "costs": "€1,75 per keer via een deelnamekaart van 10 keer voor €17,50.",
@@ -2723,6 +2734,7 @@
     "guidePaths": [
       "ontmoeten/samen"
     ],
+    "guideExclude": false,
     "description": "Maandelijkse gezamenlijke eetactiviteit in Activiteitencentrum ’t Zumpke in Enter.",
     "audience": "Inwoners die graag samen met anderen willen eten en ontmoeten.",
     "costs": "Gratis volgens de actuele agenda.",
@@ -2761,6 +2773,7 @@
     "guidePaths": [
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Gratis wekelijkse hobby- en handwerkgroep.",
     "audience": "Inwoners van de betreffende gemeente.",
     "costs": "Gratis.",
@@ -2799,6 +2812,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Gratis wekelijkse inloop voor ontmoeting en vragen.",
     "audience": "Inwoners van de betreffende gemeente.",
     "costs": "Gratis.",
@@ -2839,6 +2853,7 @@
     "guidePaths": [
       "taal/digitaal"
     ],
+    "guideExclude": false,
     "description": "Wekelijks internetcafé in De Cirkel voor oefenen en hulp rond computer en internet.",
     "audience": "Inwoners die ondersteuning of oefening met computer en internet kunnen gebruiken.",
     "costs": "€1,75 per keer volgens de actuele agenda.",
@@ -2880,6 +2895,7 @@
     "guidePaths": [
       "mentaal/eenzaamheid"
     ],
+    "guideExclude": false,
     "description": "Tweewekelijkse groep voor jongvolwassenen van 18 tot 25 jaar die nieuwe contacten willen opbouwen en samen activiteiten willen doen.",
     "audience": "Jongvolwassenen van 18 tot 25 jaar.",
     "costs": "Gratis.",
@@ -2918,6 +2934,7 @@
     "guidePaths": [
       "onderwijs/jongeren"
     ],
+    "guideExclude": false,
     "description": "Gratis jongerencentrum met inloop, activiteiten en jongerenwerk.",
     "audience": "Inwoners van de betreffende gemeente.",
     "costs": "Gratis.",
@@ -2957,6 +2974,7 @@
       "zorg/mantelzorg",
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Maandelijkse laagdrempelige inloop van De Welle en Evenmens voor koffie, ontmoeting en contact.",
     "audience": "Inwoners van de betreffende gemeente.",
     "costs": "Controleer eventuele consumptiekosten bij de organisator.",
@@ -2996,6 +3014,7 @@
       "zorg/mantelzorg",
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Vrij toegankelijke ontmoeting voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
     "audience": "Inwoners van de betreffende gemeente.",
     "costs": "Gratis.",
@@ -3035,6 +3054,7 @@
     "guidePaths": [
       "ontmoeten/samen"
     ],
+    "guideExclude": false,
     "description": "Gezamenlijke warme maaltijd in De Cirkel met ruimte voor ontmoeting.",
     "audience": "Inwoners die graag samen met anderen willen eten.",
     "costs": "€7,25 per maaltijd volgens de actuele agenda.",
@@ -3073,6 +3093,7 @@
     "guidePaths": [
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Gratis wekelijkse schildergroep voor inwoners.",
     "audience": "Inwoners van de betreffende gemeente.",
     "costs": "Gratis.",
@@ -3112,6 +3133,7 @@
       "daginvulling"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
     "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
     "costs": "Controleer de actuele bijdrage bij de aanbieder.",
@@ -3151,6 +3173,7 @@
       "daginvulling"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
     "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
     "costs": "Controleer de actuele bijdrage bij de aanbieder.",
@@ -3190,6 +3213,7 @@
       "daginvulling"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
     "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
     "costs": "Controleer de actuele bijdrage bij de aanbieder.",
@@ -3229,6 +3253,7 @@
       "daginvulling"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
     "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
     "costs": "Controleer de actuele bijdrage bij de aanbieder.",
@@ -3271,6 +3296,7 @@
     "guidePaths": [
       "onderwijs/opvoeden"
     ],
+    "guideExclude": false,
     "description": "Gratis inloopplek voor ouders met jonge kinderen, met ontmoeting, advies en wekelijkse activiteiten.",
     "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -3307,6 +3333,7 @@
       "laagdrempelig"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Vaste daginvulling met bewegen, samen koken, eten en ontmoeting.",
     "audience": "Inwoners van de gemeente Losser.",
     "costs": "Bijdrage volgens het actuele programma.",
@@ -3343,6 +3370,7 @@
       "laagdrempelig"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Vaste daginvulling met bewegen, samen koken, eten en ontmoeting.",
     "audience": "Inwoners van de gemeente Losser.",
     "costs": "Bijdrage volgens het actuele programma.",
@@ -3379,6 +3407,7 @@
       "laagdrempelig"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Terugkerende koffie-inloop voor sociale contacten en daginvulling.",
     "audience": "Inwoners van de gemeente Losser.",
     "costs": "Laagdrempelig; controleer eventuele bijdrage.",
@@ -3416,6 +3445,7 @@
       "taalpunt"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Fysieke locatie van het Taalpunt Losser in 't Lossers hoes.",
     "audience": "Inwoners die taal- of digitale basisvaardigheden willen verbeteren.",
     "costs": "Laagdrempelig.",
@@ -3455,6 +3485,7 @@
       "taal/nederlands",
       "taal/basis"
     ],
+    "guideExclude": false,
     "description": "Hulp bij Nederlands spreken, lezen en schrijven en digitale basisvaardigheden.",
     "audience": "Inwoners van de gemeente Losser.",
     "costs": "Laagdrempelig; controleer eventuele bijdrage.",
@@ -3495,6 +3526,7 @@
     "guidePaths": [
       "onderwijs/opvoeden"
     ],
+    "guideExclude": false,
     "description": "Terugkerend laagdrempelig ontmoetingsmoment voor ouders en jonge kinderen.",
     "audience": "Ouders met jonge kinderen.",
     "costs": "Controleer de actuele kosten op de agenda.",
@@ -3536,7 +3568,12 @@
       "spreken",
       "digitale vaardigheden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "taal/nederlands",
+      "taal/digitaal",
+      "migratie/taal"
+    ],
+    "guideExclude": false,
     "description": "Hulp om beter te leren lezen, schrijven en spreken en om handiger te worden met de computer en digitale zaken.",
     "audience": "Volwassen inwoners van Enschede die basisvaardigheden willen verbeteren.",
     "costs": "Veel aanbod is gratis.",
@@ -3575,6 +3612,7 @@
       "zonder indicatie"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Wekelijkse laagdrempelige daginvulling met ontmoeting, bewegen en activiteiten.",
     "audience": "Inwoners van Oldenzaal.",
     "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
@@ -3616,6 +3654,7 @@
     "guidePaths": [
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige actieve ontmoeting met koffie, sociale contacten en wisselende activiteiten zoals bewegen, wandelen, sport, spel en creatief bezig zijn.",
     "audience": "Inwoners die nieuwe sociale contacten willen maken en actiever mee willen doen.",
     "costs": "€1 per keer; lunch op maandag is optioneel en kost €2.",
@@ -3654,6 +3693,7 @@
       "zonder indicatie"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Wekelijkse laagdrempelige daginvulling met ontmoeting, bewegen en activiteiten.",
     "audience": "Inwoners van Oldenzaal.",
     "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
@@ -3695,6 +3735,7 @@
     "guidePaths": [
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige actieve ontmoeting met koffie, sociale contacten en wisselende activiteiten zoals sport, spel, wandelen en creatieve activiteiten.",
     "audience": "Inwoners die nieuwe sociale contacten willen maken en actiever mee willen doen.",
     "costs": "€1 per keer; lunch op dinsdag is optioneel en kost €2.",
@@ -3733,6 +3774,7 @@
       "zonder indicatie"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Terugkerende inloop voor tekenen, schilderen, breien, haken en andere creatieve activiteiten.",
     "audience": "Inwoners van Oldenzaal.",
     "costs": "Laagdrempelig; controleer eventuele bijdrage.",
@@ -3776,6 +3818,7 @@
     "guidePaths": [
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Creatieve inloop om samen te tekenen, schilderen, breien, haken, naaien of met een andere eigen hobby bezig te zijn.",
     "audience": "Inwoners die graag creatief bezig zijn en anderen willen ontmoeten.",
     "costs": "€3,50 per keer inclusief koffie/thee en iets lekkers.",
@@ -3815,6 +3858,7 @@
       "ontmoeten/inloop",
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Terugkerende huiskamer en koffie-inloop om buurtgenoten te ontmoeten en creatief bezig te zijn.",
     "audience": "Inwoners van Oldenzaal.",
     "costs": "Laagdrempelig; controleer eventuele materiaal- of consumptiekosten.",
@@ -3853,6 +3897,7 @@
       "zonder indicatie"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Dagelijkse koffie-inloop om buurtbewoners te ontmoeten en bij te praten.",
     "audience": "Inwoners van Oldenzaal.",
     "costs": "Laagdrempelig; controleer eventuele bijdrage.",
@@ -3891,6 +3936,7 @@
     "guidePaths": [
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Wekelijkse creatieve inloopruimte voor textiel en duurzame projecten.",
     "audience": "Inwoners van Oldenzaal.",
     "costs": "Laagdrempelig; controleer eventuele materiaal- of consumptiekosten.",
@@ -3932,6 +3978,7 @@
     "guidePaths": [
       "onderwijs/opvoeden"
     ],
+    "guideExclude": false,
     "description": "Wekelijkse groep waar ouders elkaar ontmoeten, ervaringen delen en vragen rond hun kind en opvoeding kunnen bespreken.",
     "audience": "Ouders met jonge kinderen.",
     "costs": "Controleer eventuele kosten bij Impuls.",
@@ -3974,6 +4021,7 @@
       "taal/nederlands",
       "migratie/taal"
     ],
+    "guideExclude": false,
     "description": "Vrije oefengroep waar migranten Nederlands spreken, lezen en via taalspelletjes oefenen.",
     "audience": "Migranten die Nederlands willen oefenen.",
     "costs": "Gratis.",
@@ -4015,6 +4063,7 @@
     "guidePaths": [
       "ontmoeten/bewegen"
     ],
+    "guideExclude": false,
     "description": "Wekelijkse laagdrempelige beweeggroep in de buitenlucht met wandelen en eenvoudige oefeningen voor spierkracht en balans.",
     "audience": "Iedereen die samen met buurtgenoten wil bewegen.",
     "costs": "Gratis.",
@@ -4053,6 +4102,7 @@
       "zonder indicatie"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Inloop voor inwoners die beter Nederlands willen leren spreken, lezen of schrijven.",
     "audience": "Inwoners van Oldenzaal.",
     "costs": "Laagdrempelig; controleer eventuele bijdrage.",
@@ -4096,6 +4146,7 @@
       "taal/nederlands",
       "taal/basis"
     ],
+    "guideExclude": false,
     "description": "Inloop voor mensen met vragen over lezen, schrijven, spreken, rekenen of computervaardigheden, met overzicht van passend cursusaanbod en doorverwijzing.",
     "audience": "Volwassenen met een taalvraag of moeite met basisvaardigheden.",
     "costs": "Geen kosten genoemd op de bronpagina.",
@@ -4134,6 +4185,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Tweewekelijkse zaterdaginloop voor mensen die anderen willen ontmoeten en zich minder thuis voelen bij grote groepen.",
     "audience": "Inwoners van Oldenzaal.",
     "costs": "Laagdrempelig; controleer eventuele materiaal- of consumptiekosten.",
@@ -4175,6 +4227,7 @@
       "ontwikkeling"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Voorliggende activiteiten met sport, ontwikkeling en ontmoeting bij een lokale vereniging.",
     "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
     "costs": "",
@@ -4216,6 +4269,7 @@
       "ontwikkeling"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Voorliggende activiteiten met sport, ontwikkeling en ontmoeting bij een lokale vereniging.",
     "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
     "costs": "",
@@ -4257,6 +4311,7 @@
       "ontwikkeling"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Voorliggende activiteiten met sport, ontwikkeling en ontmoeting bij een lokale vereniging.",
     "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
     "costs": "",
@@ -4298,6 +4353,7 @@
       "senioren"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
     "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
     "costs": "Gratis.",
@@ -4339,6 +4395,7 @@
       "senioren"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
     "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
     "costs": "Gratis.",
@@ -4380,6 +4437,7 @@
       "senioren"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
     "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
     "costs": "Gratis.",
@@ -4421,6 +4479,7 @@
       "senioren"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
     "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
     "costs": "Gratis.",
@@ -4462,6 +4521,7 @@
       "senioren"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
     "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
     "costs": "Gratis.",
@@ -4503,6 +4563,7 @@
       "senioren"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis huiskamer van de wijk voor ontmoeting en een zinvolle invulling van de dag. Deelnemen kan zonder zorgindicatie.",
     "audience": "Wijkbewoners die behoefte hebben aan ontmoeting, activiteiten of structuur.",
     "costs": "Gratis.",
@@ -4541,6 +4602,7 @@
       "workshop"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Workshops, trainingen en bijeenkomsten voor vrijwilligers en vrijwilligersorganisaties in Enschede.",
     "audience": "Vrijwilligers en organisaties die met vrijwilligers werken.",
     "costs": "Veel aanbod is gratis; controleer de activiteit.",
@@ -4584,6 +4646,7 @@
       "bewegen"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Breed cursus- en activiteitenaanbod, waaronder conversatietalen, tekenen en schilderen, yoga, dans en lezingen.",
     "audience": "Volwassen inwoners; leden en niet-leden kunnen deelnemen.",
     "costs": "Kosten verschillen per cursus; de wandelgroepen zijn gratis.",
@@ -4627,6 +4690,7 @@
       "zorg/dementie",
       "zorg/mantelzorg"
     ],
+    "guideExclude": false,
     "description": "Ontmoetingsplek voor mensen met beginnende dementie of geheugenklachten en hun naasten, met vrijblijvende activiteiten zoals samen koken, schilderen en spelletjes.",
     "audience": "Mensen met beginnende dementie of geheugenklachten en hun naasten.",
     "costs": "Kleine bijdrage per bezoek voor consumpties en maaltijd/lunch; controleer het actuele bedrag op de bron.",
@@ -4670,6 +4734,7 @@
       "meedoen/daginvulling",
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
     "audience": "Senioren in de gemeente Haaksbergen.",
     "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
@@ -4713,6 +4778,7 @@
       "meedoen/daginvulling",
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
     "audience": "Senioren in de gemeente Haaksbergen.",
     "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
@@ -4756,6 +4822,7 @@
       "meedoen/daginvulling",
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
     "audience": "Senioren in de gemeente Haaksbergen.",
     "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
@@ -4799,6 +4866,7 @@
       "meedoen/daginvulling",
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
     "audience": "Senioren in de gemeente Haaksbergen.",
     "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
@@ -4842,6 +4910,7 @@
       "meedoen/daginvulling",
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
     "audience": "Senioren in de gemeente Haaksbergen.",
     "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
@@ -4883,6 +4952,7 @@
     "guidePaths": [
       "onderwijs/opvoeden"
     ],
+    "guideExclude": false,
     "description": "Tweewekelijkse laagdrempelige ontmoetingsplek voor zwangeren en ouders met kinderen van 0 tot 4 jaar, met wisselende thema's en ruimte voor vragen.",
     "audience": "Zwangeren en ouders met kinderen van 0 tot 4 jaar.",
     "costs": "Gratis.",
@@ -4927,6 +4997,7 @@
       "mentaal/welzijn",
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Vrije inloop met gezellige, leerzame, creatieve en ontspannende activiteiten voor inwoners die nieuwe contacten zoeken of weer actiever mee willen doen.",
     "audience": "Inwoners die nieuwe contacten zoeken of ondersteuning kunnen gebruiken bij actief meedoen.",
     "costs": "Kleine bijdrage; controleer het actuele tarief op de bron.",
@@ -4969,6 +5040,7 @@
       "zorg/dementie",
       "zorg/mantelzorg"
     ],
+    "guideExclude": false,
     "description": "Ontmoetingsplek voor mensen met beginnende dementie of geheugenklachten en hun naasten; indicatie of diagnose is niet nodig.",
     "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
     "costs": "Kleine bijdrage per bezoek volgens de actuele bron.",
@@ -5011,6 +5083,7 @@
       "mentaal/welzijn",
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Vrije inloop met gezellige, leerzame, creatieve en ontspannende activiteiten.",
     "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -5049,6 +5122,7 @@
       "gesprek"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gastvrij inloophuis in het centrum waar iedereen welkom is voor een gesprek, ontmoeting of een luisterend oor.",
     "audience": "Iedereen.",
     "costs": "Gratis inloop.",
@@ -5088,6 +5162,7 @@
       "inloop"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Vrije ontmoetingsplek voor buurtbewoners om anderen te ontmoeten, ideeën te delen of activiteiten te organiseren.",
     "audience": "Iedereen uit Glanerbrug en omgeving.",
     "costs": "Gratis.",
@@ -5129,6 +5204,7 @@
       "werkervaring"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
     "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
     "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
@@ -5170,6 +5246,7 @@
       "werkervaring"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
     "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
     "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
@@ -5211,6 +5288,7 @@
       "werkervaring"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
     "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
     "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
@@ -5252,6 +5330,7 @@
       "werkervaring"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
     "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
     "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig; controleer het actuele programma.",
@@ -5294,6 +5373,7 @@
     "guidePaths": [
       "basis/praktisch"
     ],
+    "guideExclude": false,
     "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
     "audience": "Iedereen met een repareerbaar voorwerp.",
     "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
@@ -5336,6 +5416,7 @@
     "guidePaths": [
       "basis/praktisch"
     ],
+    "guideExclude": false,
     "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
     "audience": "Iedereen met een repareerbaar voorwerp.",
     "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
@@ -5378,6 +5459,7 @@
     "guidePaths": [
       "basis/praktisch"
     ],
+    "guideExclude": false,
     "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
     "audience": "Iedereen met een repareerbaar voorwerp.",
     "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
@@ -5420,6 +5502,7 @@
     "guidePaths": [
       "basis/praktisch"
     ],
+    "guideExclude": false,
     "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
     "audience": "Iedereen met een repareerbaar voorwerp.",
     "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
@@ -5458,6 +5541,7 @@
       "eenzaamheid"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Wekelijks buurtdiner om buurtgenoten te ontmoeten. Iedere donderdag.",
     "audience": "Iedereen is welkom.",
     "costs": "€8 voor een driegangendiner volgens de actuele bron.",
@@ -5496,6 +5580,7 @@
       "eenzaamheid"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Wekelijks buurtdiner om buurtgenoten te ontmoeten. Iedere dinsdag.",
     "audience": "Iedereen is welkom.",
     "costs": "€8 voor een driegangendiner volgens de actuele bron.",
@@ -5535,6 +5620,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Wekelijkse koffieochtend waar iedereen welkom is om elkaar te ontmoeten.",
     "audience": "Iedereen.",
     "costs": "Gratis.",
@@ -5576,6 +5662,7 @@
       "zorg/dementie",
       "zorg/mantelzorg"
     ],
+    "guideExclude": false,
     "description": "Gratis ontmoetings- en informatieavond voor mensen met dementie, naasten en geïnteresseerden.",
     "audience": "Mensen met dementie, mantelzorgers, naasten en geïnteresseerden.",
     "costs": "Gratis.",
@@ -5615,6 +5702,7 @@
       "senioren"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Laagdrempelige inloop met ontmoeting, activiteiten, lunch en waar nodig lichte begeleiding.",
     "audience": "Senioren uit Dinkelland die behoefte hebben aan gezelligheid, structuur of ondersteuning.",
     "costs": "Eigen bijdrage per dagdeel volgens de actuele bron.",
@@ -5653,6 +5741,7 @@
       "inloop"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Wekelijkse inloopochtend voor ouderen om bij te praten of een spelletje te doen.",
     "audience": "Oudere inwoners van Dinkelland.",
     "costs": "Gratis; consumpties voor eigen rekening.",
@@ -5695,6 +5784,7 @@
       "meedoen/daginvulling",
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Vrijwillige dagbesteding in huiskamervorm met koffie, activiteiten, een maaltijd en ontmoeting.",
     "audience": "Senioren die behoefte hebben aan gezelschap en een zinvolle daginvulling.",
     "costs": "€15 voor een hele dag inclusief maaltijd volgens de bron.",
@@ -5747,6 +5837,7 @@
       "verslaving"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Herstelcursus van twaalf bijeenkomsten over zelfwaardering, hoop, regie en kwaliteit van leven.",
     "audience": "Mensen met een verslavingsprobleem en/of psychische kwetsbaarheid die aan herstel willen werken.",
     "costs": "Gratis.",
@@ -5788,6 +5879,7 @@
       "vakanties"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Voorliggende voorziening voor kinderen met professionele begeleiding, activiteiten en een gezamenlijke maaltijd na school en in vakanties.",
     "audience": "Kinderen van ongeveer 6 tot en met 16 jaar die extra ondersteuning kunnen gebruiken.",
     "costs": "",
@@ -5826,6 +5918,7 @@
       "voorliggend"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis muziekproject waar inwoners met laagdrempelige instrumenten kunnen meespelen.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -5864,6 +5957,7 @@
       "voorliggend"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Maandelijkse buurthuiskamer voor oudere buurtbewoners met koffie, activiteiten en lunch.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "€6 volgens de actuele agenda.",
@@ -5905,6 +5999,7 @@
       "migratie/taal",
       "vervoer/leren"
     ],
+    "guideExclude": false,
     "description": "Gratis reeks fietslessen voor statushouders om zelfstandig en veilig te leren fietsen.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -5943,6 +6038,7 @@
       "voorliggend"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Vrije inloop en activiteiten voor jongeren, met jongerenwerkers als luisterend oor.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "Laagdrempelig; controleer de actuele bijdrage.",
@@ -5981,6 +6077,7 @@
       "voorliggend"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Terugkerend taalcafé om Nederlands spreken in een ontspannen sfeer te oefenen.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "Laagdrempelig; controleer de actuele bijdrage.",
@@ -6019,6 +6116,7 @@
       "voorliggend"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Voorliggende daginvulling met ontmoeting, koken, creativiteit en bewegen; bedoeld voor mensen die zichzelf lichamelijk kunnen verzorgen.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "Laagdrempelig; controleer de actuele bijdrage.",
@@ -6057,6 +6155,7 @@
       "voorliggend"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Voorliggende daginvulling met ontmoeting en activiteiten in Holten.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "Laagdrempelig; controleer de actuele bijdrage.",
@@ -6095,6 +6194,7 @@
       "voorliggend"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis rustige wandelgroep; aanmelden is niet nodig.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -6133,6 +6233,7 @@
       "voorliggend"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis wekelijkse wandelgroep.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -6174,6 +6275,7 @@
       "mentaal/eenzaamheid",
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Terugkerende vrouwenontmoeting gericht op sociale contacten, zelfvertrouwen en samen activiteiten doen.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "Laagdrempelig; controleer de actuele bijdrage.",
@@ -6213,6 +6315,7 @@
     "guidePaths": [
       "vervoer/sociaal"
     ],
+    "guideExclude": false,
     "description": "Vrijwilligers rijden minder mobiele inwoners uit Borne in hun eigen auto naar afspraken of activiteiten.",
     "audience": "Inwoners van Borne die niet eenvoudig zelf vervoer kunnen regelen.",
     "costs": "In 2026 €0,38 per kilometer plus eventuele parkeerkosten.",
@@ -6252,6 +6355,7 @@
     "guidePaths": [
       "zorg/mantelzorg"
     ],
+    "guideExclude": false,
     "description": "Maandelijks ontmoetings- en informatiemoment voor mantelzorgers.",
     "audience": "Mantelzorgers in Borne.",
     "costs": "Controleer de actuele kosten op de agenda.",
@@ -6294,6 +6398,7 @@
       "zorg/dementie",
       "zorg/mantelzorg"
     ],
+    "guideExclude": false,
     "description": "Wekelijkse ontmoetingsplek in De Spil voor mensen met beginnende dementie of geheugenklachten en hun naasten.",
     "audience": "Volwassenen en senioren met beginnende dementie of geheugenklachten, met of zonder diagnose, en hun naasten.",
     "costs": "Deelname inclusief lunch met een eigen bijdrage van €4,00 volgens de agenda van oktober 2026.",
@@ -6337,6 +6442,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Vrij toegankelijke plek voor vragen over welzijn, opvoeden, zorg, wonen, financiën, gezin, relatie, vrijwilligerswerk en meedoen.",
     "audience": "Inwoners van Borne, Hertme en Zenderen.",
     "costs": "Gratis.",
@@ -6377,6 +6483,7 @@
     "guidePaths": [
       "ontmoeten/bewegen"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige beweegactiviteit waarbij rekening wordt gehouden met ieders mogelijkheden.",
     "audience": "Iedereen die op eigen niveau wil bewegen.",
     "costs": "Gratis.",
@@ -6418,6 +6525,7 @@
       "ontmoeten/inloop",
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
     "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
     "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
@@ -6459,6 +6567,7 @@
       "ontmoeten/inloop",
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
     "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
     "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
@@ -6500,6 +6609,7 @@
       "ontmoeten/inloop",
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
     "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
     "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
@@ -6545,6 +6655,7 @@
       "ontmoeten/inloop",
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Een van de drie Wijkhuyzen in Hengelo: een vrij toegankelijke plek om te ontmoeten, ontspannen en ontwikkelen, met inloop en een activiteitenprogramma.",
     "audience": "Inwoners van Hengelo, met extra aandacht voor mensen die een steuntje in de rug kunnen gebruiken.",
     "costs": "Vrije inloop; losse activiteiten kunnen eigen kosten hebben.",
@@ -6586,6 +6697,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Wekelijkse inloop om samen koffie te drinken en verhalen en herinneringen te delen.",
     "audience": "Volwassenen, senioren en alleenstaanden.",
     "costs": "Controleer eventuele consumptiekosten bij de organisator.",
@@ -6626,6 +6738,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Wekelijks laagdrempelig ontmoetingsmoment op zondag, georganiseerd met Wijkracht Ouderen Borne, ABOB en Stichting Aandacht.",
     "audience": "Volwassenen en senioren in Borne.",
     "costs": "Controleer eventuele consumptiekosten bij de organisator.",
@@ -6668,6 +6781,7 @@
       "ontmoeten/inloop",
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Wekelijkse open inloop voor senioren met gevarieerde activiteiten en een gezamenlijke warme lunch.",
     "audience": "Senioren in Borne.",
     "costs": "Controleer de actuele bijdrage voor lunch of consumpties bij de organisator.",
@@ -6713,6 +6827,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6758,6 +6873,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6803,6 +6919,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6848,6 +6965,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6893,6 +7011,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6938,6 +7057,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6983,6 +7103,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7028,6 +7149,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7073,6 +7195,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7118,6 +7241,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7163,6 +7287,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7208,6 +7333,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7253,6 +7379,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7292,6 +7419,7 @@
       "daginvulling"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Dagopvang of daginvulling zonder gemeentelijke indicatie, opgenomen in de Seniorenwijzer Enschede 2026.",
     "audience": "Inwoners die behoefte hebben aan ontmoeting, structuur of een zinvolle daginvulling.",
     "costs": "Controleer de actuele bijdrage bij de aanbieder.",
@@ -7329,6 +7457,7 @@
       "terugkerende activiteit"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis wekelijkse buurthuiskamer voor ontmoeting en praktische vragen.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -7366,6 +7495,7 @@
       "terugkerende activiteit"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis wekelijkse buurthuiskamer voor ontmoeting en praktische vragen.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -7403,6 +7533,7 @@
       "terugkerende activiteit"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Gratis wekelijkse buurthuiskamer voor ontmoeting en praktische vragen.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -7442,6 +7573,7 @@
     "guidePaths": [
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Wekelijkse creatieve club met onder meer breien, haken, tekenen en diamond painting.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
@@ -7479,6 +7611,7 @@
       "terugkerende activiteit"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "€7 per maaltijd volgens de actuele bron.",
@@ -7516,6 +7649,7 @@
       "terugkerende activiteit"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "€7 per maaltijd volgens de actuele bron.",
@@ -7553,6 +7687,7 @@
       "terugkerende activiteit"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "€7 per maaltijd volgens de actuele bron.",
@@ -7590,6 +7725,7 @@
       "terugkerende activiteit"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Terugkerende gezamenlijke maaltijd voor ontmoeting en gezelschap.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "€7 per maaltijd volgens de actuele bron.",
@@ -7628,6 +7764,7 @@
       "DigiD"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Inloopspreekuur voor hulp bij formulieren en online zaken.",
     "audience": "Inwoners van Twenterand.",
     "costs": "Gratis hulp.",
@@ -7666,6 +7803,7 @@
       "DigiD"
     ],
     "guidePaths": [],
+    "guideExclude": false,
     "description": "Inloopspreekuur voor hulp bij formulieren en online zaken.",
     "audience": "Inwoners van Twenterand.",
     "costs": "Gratis hulp.",
@@ -7705,6 +7843,7 @@
     "guidePaths": [
       "ontmoeten/inloop"
     ],
+    "guideExclude": false,
     "description": "Wekelijkse ontmoetingsmiddag voor mannen met biljart, spel, koffie en gesprekken.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
@@ -7746,6 +7885,7 @@
       "zorg/mantelzorg",
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Gratis ontmoetingscentrum voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -7787,6 +7927,7 @@
       "zorg/mantelzorg",
       "meedoen/daginvulling"
     ],
+    "guideExclude": false,
     "description": "Gratis ontmoetingscentrum voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -9106,7 +9247,7 @@
       "ontmoeten"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Humanitas Twente. Via de bron zijn 10 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor Humanitas Twente. Via de bron zijn 11 vormen van voorliggend aanbod opgenomen.",
     "audience": "Gescheiden ouders en hun kinderen.",
     "costs": "",
     "access": "Vrijwillige ondersteuning; neem contact op met Humanitas Twente voor aanmelding en voorwaarden.",
@@ -10847,6 +10988,50 @@
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326953/invis2/stichting-vluchtelingenwerk-almelo",
     "mapLocationType": "address",
     "catalogOrganizationId": "org-stichting-vluchtelingenwerk-almelo-1exkpbf"
+  },
+  {
+    "id": "catalog-org-tactus-intact-1pv6ocf",
+    "name": "Tactus / Intact",
+    "category": "verslaving",
+    "address": "Raiffeisenstraat 75",
+    "postcode": "7514AM",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
+      "Rijssen-Holten",
+      "Tubbergen",
+      "Twenterand",
+      "Wierden"
+    ],
+    "lat": 52.22530111,
+    "lon": 6.89059513,
+    "source": "https://www.tactus.nl/hulp-voor-naasten/",
+    "checked": "2026-10-02",
+    "tags": [
+      "verslaving"
+    ],
+    "subthemes": [],
+    "description": "Locatie voor Tactus / Intact. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Partners, ouders, kinderen, broers, zussen en andere naasten van iemand met een verslavingsprobleem.",
+    "costs": "Advies en zelfhulp zijn laagdrempelig; controleer per activiteit of er voorwaarden gelden.",
+    "access": "Vrijblijvend advies via Tactus; Intact biedt zelfhulp en lotgenotencontact. Voor kinderen van ouders met verslavingsproblemen is Preventie Twente bereikbaar.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-tactus-intact-1pv6ocf"
   },
   {
     "id": "catalog-org-tafeltje-dekje-wa2vbj",

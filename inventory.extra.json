@@ -7435,9 +7435,17 @@
       "audience": "Mensen met een migratieachtergrond, waaronder mensen die nieuw in Nederland zijn en statushouders.",
       "access": "Aanmelden bij Humanitas Twente; ondersteuning is tijdelijk en wordt gekoppeld aan een passende vrijwilliger.",
       "costs": "Gratis.",
-      "town": "Enschede",
-      "locationType": "service-area",
-      "mapPin": false
+      "town": "Hengelo",
+      "locationType": "source-address",
+      "mapPin": false,
+      "address": "Enschedesestraat 164",
+      "postcode": "7552CL",
+      "lat": 52.26033093,
+      "lon": 6.8047408,
+      "locationMunicipality": "Hengelo (O)",
+      "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "candidate-20261002-tactus-naasten",
@@ -7494,8 +7502,16 @@
       "access": "Vrijblijvend advies via Tactus; Intact biedt zelfhulp en lotgenotencontact. Voor kinderen van ouders met verslavingsproblemen is Preventie Twente bereikbaar.",
       "costs": "Advies en zelfhulp zijn laagdrempelig; controleer per activiteit of er voorwaarden gelden.",
       "town": "Enschede",
-      "locationType": "service-area",
-      "mapPin": false
+      "locationType": "visiting",
+      "mapPin": false,
+      "address": "Raiffeisenstraat 75",
+      "postcode": "7514AM",
+      "lat": 52.22530111,
+      "lon": 6.89059513,
+      "locationMunicipality": "Enschede",
+      "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
