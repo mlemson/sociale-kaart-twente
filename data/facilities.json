@@ -2303,6 +2303,358 @@
     "physicalLocation": true
   },
   {
+    "id": "offer-extra-20261002-almelo-kom-erbij-groenedael",
+    "name": "Almelo · Kom Erbij 't Groenedael",
+    "category": "ontmoeten",
+    "address": "Willem de Clercqstraat 93",
+    "postcode": "7604AR",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.35163143,
+    "lon": 6.64542527,
+    "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijkkamer",
+      "buurt",
+      "inloop",
+      "Windmolenbroek"
+    ],
+    "subthemes": [
+      "wijkkamer",
+      "buurtontmoeting",
+      "Windmolenbroek"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Door gemeente Almelo genoemde ontmoetingsplek in Windmolenbroek. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+    "audience": "Inwoners van Almelo, in het bijzonder bewoners van Windmolenbroek en omgeving.",
+    "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+    "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-almelo-a23tkj"
+  },
+  {
+    "id": "offer-extra-20261002-almelo-wijkkamer-noabershoes",
+    "name": "Almelo · Wijkkamer 't Noabershoes",
+    "category": "ontmoeten",
+    "address": "De Gors 6",
+    "postcode": "7609DV",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.33618558,
+    "lon": 6.63131148,
+    "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijkkamer",
+      "buurt",
+      "inloop",
+      "Windmolenbroek"
+    ],
+    "subthemes": [
+      "wijkkamer",
+      "buurtontmoeting",
+      "Windmolenbroek"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Door gemeente Almelo genoemde ontmoetingsplek in Windmolenbroek. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+    "audience": "Inwoners van Almelo, in het bijzonder bewoners van Windmolenbroek en omgeving.",
+    "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+    "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-almelo-a23tkj"
+  },
+  {
+    "id": "offer-extra-20261002-almelo-wijkkamer-de-bridge",
+    "name": "Almelo · Wijkkamer De Bridge",
+    "category": "ontmoeten",
+    "address": "Piet Heinstraat 51",
+    "postcode": "7603CB",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.36693695,
+    "lon": 6.67732715,
+    "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijkkamer",
+      "buurt",
+      "inloop",
+      "Sluitersveld"
+    ],
+    "subthemes": [
+      "wijkkamer",
+      "buurtontmoeting",
+      "Sluitersveld"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Door gemeente Almelo genoemde ontmoetingsplek in Sluitersveld. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+    "audience": "Inwoners van Almelo, in het bijzonder bewoners van Sluitersveld en omgeving.",
+    "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+    "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-almelo-a23tkj"
+  },
+  {
+    "id": "offer-extra-20261002-almelo-wijkkamer-karekiet",
+    "name": "Almelo · Wijkkamer De Karekiet",
+    "category": "ontmoeten",
+    "address": "De Karekiet 309",
+    "postcode": "7609KD",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.33490062,
+    "lon": 6.63097705,
+    "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijkkamer",
+      "buurt",
+      "inloop",
+      "Windmolenbroek"
+    ],
+    "subthemes": [
+      "wijkkamer",
+      "buurtontmoeting",
+      "Windmolenbroek"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Door gemeente Almelo genoemde ontmoetingsplek in Windmolenbroek. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+    "audience": "Inwoners van Almelo, in het bijzonder bewoners van Windmolenbroek en omgeving.",
+    "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+    "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-almelo-a23tkj"
+  },
+  {
+    "id": "offer-extra-20261002-almelo-wijkkamer-eninver",
+    "name": "Almelo · Wijkkamer Eninver",
+    "category": "ontmoeten",
+    "address": "Apollolaan 1a",
+    "postcode": "7604EH",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.35769101,
+    "lon": 6.64530355,
+    "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijkkamer",
+      "buurt",
+      "inloop",
+      "Wierdensehoek"
+    ],
+    "subthemes": [
+      "wijkkamer",
+      "buurtontmoeting",
+      "Wierdensehoek"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Door gemeente Almelo genoemde ontmoetingsplek in Wierdensehoek. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+    "audience": "Inwoners van Almelo, in het bijzonder bewoners van Wierdensehoek en omgeving.",
+    "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+    "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-almelo-a23tkj"
+  },
+  {
+    "id": "offer-extra-20261002-almelo-wijkkamer-hoog-schuilenburg",
+    "name": "Almelo · Wijkkamer Hoog Schuilenburg",
+    "category": "ontmoeten",
+    "address": "Beethovenlaan 1a-1",
+    "postcode": "7604GC",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.35880222,
+    "lon": 6.63831445,
+    "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijkkamer",
+      "buurt",
+      "inloop",
+      "Wierdensehoek"
+    ],
+    "subthemes": [
+      "wijkkamer",
+      "buurtontmoeting",
+      "Wierdensehoek"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Door gemeente Almelo genoemde ontmoetingsplek in Wierdensehoek. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+    "audience": "Inwoners van Almelo, in het bijzonder bewoners van Wierdensehoek en omgeving.",
+    "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+    "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-almelo-a23tkj"
+  },
+  {
+    "id": "offer-extra-20261002-almelo-wijkkamer-luctor",
+    "name": "Almelo · Wijkkamer Luctor et Emergo",
+    "category": "ontmoeten",
+    "address": "Horstlaan 3",
+    "postcode": "7602AM",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.37065534,
+    "lon": 6.6684921,
+    "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijkkamer",
+      "buurt",
+      "inloop",
+      "Noorderkwartier"
+    ],
+    "subthemes": [
+      "wijkkamer",
+      "buurtontmoeting",
+      "Noorderkwartier"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Door gemeente Almelo genoemde ontmoetingsplek in Noorderkwartier. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+    "audience": "Inwoners van Almelo, in het bijzonder bewoners van Noorderkwartier en omgeving.",
+    "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+    "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-almelo-a23tkj"
+  },
+  {
+    "id": "offer-extra-20261002-almelo-wijkkamer-trefpunt-elisabeth",
+    "name": "Almelo · Wijkkamer Trefpunt Elisabeth",
+    "category": "ontmoeten",
+    "address": "Hofkampstraat 96",
+    "postcode": "7607NJ",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.35318077,
+    "lon": 6.67014332,
+    "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijkkamer",
+      "buurt",
+      "inloop",
+      "Hofkamp"
+    ],
+    "subthemes": [
+      "wijkkamer",
+      "buurtontmoeting",
+      "Hofkamp"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Door gemeente Almelo genoemde ontmoetingsplek in Hofkamp. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
+    "audience": "Inwoners van Almelo, in het bijzonder bewoners van Hofkamp en omgeving.",
+    "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
+    "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-almelo-a23tkj"
+  },
+  {
     "id": "offer-candidate-a6341350a90f2412",
     "name": "Almelo Sociaal - team clientondersteuners",
     "category": "advies",

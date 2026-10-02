@@ -8953,7 +8953,13 @@
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7607NJ",
+      "lat": 52.35318077,
+      "lon": 6.67014332,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -8997,7 +9003,13 @@
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7602AM",
+      "lat": 52.37065534,
+      "lon": 6.6684921,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9041,7 +9053,13 @@
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7603CB",
+      "lat": 52.36693695,
+      "lon": 6.67732715,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9081,11 +9099,17 @@
       "audience": "Inwoners van Almelo, in het bijzonder bewoners van Wierdensehoek en omgeving.",
       "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
       "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
-      "address": "Apollolaan 1",
+      "address": "Apollolaan 1a",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7604EH",
+      "lat": 52.35769101,
+      "lon": 6.64530355,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9125,11 +9149,17 @@
       "audience": "Inwoners van Almelo, in het bijzonder bewoners van Wierdensehoek en omgeving.",
       "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
       "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
-      "address": "Beethovenlaan 1",
+      "address": "Beethovenlaan 1a-1",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7604GC",
+      "lat": 52.35880222,
+      "lon": 6.63831445,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9169,11 +9199,17 @@
       "audience": "Inwoners van Almelo, in het bijzonder bewoners van Windmolenbroek en omgeving.",
       "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
       "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
-      "address": "Willem De Clercqstraat 93",
+      "address": "Willem de Clercqstraat 93",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7604AR",
+      "lat": 52.35163143,
+      "lon": 6.64542527,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9213,11 +9249,17 @@
       "audience": "Inwoners van Almelo, in het bijzonder bewoners van Windmolenbroek en omgeving.",
       "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
       "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
-      "address": "De Gors 2-6",
+      "address": "De Gors 6",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7609DV",
+      "lat": 52.33618558,
+      "lon": 6.63131148,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9257,11 +9299,17 @@
       "audience": "Inwoners van Almelo, in het bijzonder bewoners van Windmolenbroek en omgeving.",
       "access": "Bekijk bij de locatie of organisator welke inloopmomenten en activiteiten actueel zijn.",
       "costs": "Niet vermeld op de gemeentelijke overzichtspagina; controleer eventuele kosten per activiteit.",
-      "address": "De Karekiet 55-309",
+      "address": "De Karekiet 309",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7609KD",
+      "lat": 52.33490062,
+      "lon": 6.63097705,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
