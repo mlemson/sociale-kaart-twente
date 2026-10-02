@@ -24,7 +24,7 @@ Een organisatie hoeft daardoor niet voor iedere activiteit een aparte kaartpin t
 
 Het gevonden adres wordt gegeocodeerd via de **PDOK Locatieserver**. Daarna bouwt `tools/build_catalog.py` de kaartdata opnieuw op.
 
-Als een regionale voorziening alleen een contactadres buiten het eigen werkgebied heeft, blijft het echte contactadres zichtbaar in het detailvenster. De kaart gebruikt dan een **werkgebied-pin** in de gekozen Twentse gemeente, zodat bijvoorbeeld een provinciaal fonds met kantoor in Zwolle niet ten onrechte als voorziening in Zwolle wordt gepresenteerd.
+Als een regionale voorziening alleen een contactadres of werkgebied heeft, blijft die informatie beschikbaar in de detailweergave maar krijgt de voorziening **geen kunstmatige kaartpin**. De openbare kaart toont standaard alleen bevestigde fysieke bezoek- of uitvoeringslocaties. Organisaties die wel in een gemeente actief zijn maar daar geen bevestigde fysieke locatie hebben, kunnen apart worden getoond via **Ook in [gemeente] actief**.
 
 ## Controle zonder alles handmatig af te lopen
 
@@ -38,11 +38,24 @@ De kaart verwijst bij aanbod altijd terug naar de bron, omdat openingstijden, vo
 
 **Laatste automatische inventarisatie (2 oktober 2026):** 476 aanbodregels, 151 organisaties en 253 kaartlocaties. De inventarisatie omvat naast informatie- en ontmoetingsaanbod nu ook gratis trainingen, cursussen, jeugdactiviteiten, open daginvulling zonder indicatie, herstel/maatjes, vrijwilligersscholing en laagdrempelige beweeg- en ouderenactiviteiten.
 
+## Voorliggende voorzieningen systematisch vinden
+
+De inventarisatie gebruikt niet alleen de websites van de grote welzijnsorganisaties. Per Twentse gemeente worden vier bronlagen gecontroleerd:
+
+1. de officiële gemeentelijke sociale kaart en pagina's over algemene / voorliggende Wmo-voorzieningen;
+2. agenda's en aanbodpagina's van de lokale welzijnsorganisatie;
+3. gemeentelijke inloop-, wijkteam-, cliëntondersteunings- en informatiepunten;
+4. zelfstandige laagdrempelige initiatieven zoals lotgenotencafés, ouder-kind-inlopen, participatieplekken en buurtinitiatieven.
+
+`inventory.extra.json` bevat naast de aanvullende aanbodregels ook een groeiend `sources`-register. Daardoor is zichtbaar welke lokale bronnen al gericht zijn gecontroleerd en kunnen nieuwe rondes gemeente voor gemeente worden uitgevoerd. Bij opname gaat de voorkeur uit naar concrete, actuele en rechtstreeks toegankelijke voorzieningen met een eerstelijns of officiële bron.
+
+Gratis is niet hetzelfde als voorliggend: ook een kleine eigen bijdrage kan bij vrij toegankelijk aanbod passen. Kosten worden daarom per aanbodregel letterlijk en zo concreet mogelijk beschreven. Een Wmo-maatwerkvoorziening waarvoor eerst een indicatie nodig is, wordt niet als vrij toegankelijke voorziening gepresenteerd.
+
 ## Nieuwe bronnen toevoegen
 
-Voeg een aanbodregel toe aan `inventory.json` met minimaal naam, bron, gemeente(n), onderwerp en een korte beschrijving. Een adres mag worden meegegeven, maar hoeft geen coördinaten te hebben.
+Voeg een aanbodregel toe aan `inventory.json` of, voor gericht nagezochte aanvullende voorzieningen, aan `inventory.extra.json` met minimaal naam, bron, gemeente(n), onderwerp en een korte beschrijving. Een adres mag worden meegegeven, maar hoeft geen coördinaten te hebben.
 
-Bij wijzigingen in `inventory.json` start `.github/workflows/enrich.yml` automatisch:
+Bij wijzigingen in `inventory.json` of `inventory.extra.json` start `.github/workflows/enrich.yml` automatisch:
 
 ```
 bron → adres zoeken → PDOK geocoderen → catalogus bouwen → kaartdata opslaan
