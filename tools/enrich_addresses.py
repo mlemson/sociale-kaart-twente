@@ -563,6 +563,12 @@ def main():
                 candidate.get("address"), candidate.get("postcode"), candidate.get("town"),
                 candidate.get("lat"), candidate.get("lon"), candidate.get("locationType"), candidate.get("mapLocationType")
             )
+            inherited_type = location.get("locationType") or ("contact" if len(group) > 1 else "source-address")
+            # Een adres dat via een andere aanbodregel van dezelfde organisatie is
+            # gevonden is géén bewijs dat deze concrete activiteit daar plaatsvindt.
+            # Vooral mapPin-regels mogen daardoor nooit automatisch een bezoeklocatie worden.
+            if candidate.get("mapPin") and inherited_type in {"visiting", "service", "existing"}:
+                inherited_type = "contact"
             candidate.update({
                 "address": location["address"],
                 "postcode": location.get("postcode") or "",
@@ -570,9 +576,10 @@ def main():
                 "lat": location["lat"],
                 "lon": location["lon"],
                 "locationMunicipality": location.get("locationMunicipality") or "",
-                "locationType": location.get("locationType") or ("contact" if len(group) > 1 else "source-address"),
+                "locationType": inherited_type,
                 "locationSource": location.get("locationSource") or "",
                 "mapLocationType": location.get("mapLocationType") or "address",
+                "locationInheritedFromGroup": True,
                 "addressChecked": today,
             })
             after = (
