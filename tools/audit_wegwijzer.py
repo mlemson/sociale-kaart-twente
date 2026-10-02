@@ -81,6 +81,8 @@ print(f"Wegwijzer-audit: {len(records)} records · {len(records)-len(automatic)}
 print(f"Automatisch zonder match: {len(unmatched)} · automatisch met 4+ routes: {len(ambiguous)}")
 for rec, matches in ambiguous[:40]:
     print(f"AMBIGU {rec.get('organization')} · {rec.get('title')} -> {', '.join(matches)}")
+for rec in unmatched[:80]:
+    print(f"GEEN ROUTE {rec.get('organization')} · {rec.get('title')}")
 
 # Deze grens bewaakt dat de trefwoordindeling niet opnieuw extreem breed wordt.
 assert len(ambiguous) <= 60, f"Te veel brede automatische Wegwijzer-matches: {len(ambiguous)}"
