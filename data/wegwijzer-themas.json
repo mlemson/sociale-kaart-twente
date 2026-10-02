@@ -1,0 +1,691 @@
+[
+  {
+    "id": "onderwijs",
+    "label": "School, ontwikkeling & jeugd",
+    "description": "School, passend onderwijs, opvoeden en ondersteuning voor kinderen en jongeren.",
+    "children": [
+      {
+        "id": "school",
+        "label": "School & onderwijs",
+        "description": "Onderwijs, schoolondersteuning en routes rond leren.",
+        "children": [
+          {
+            "id": "speciaal",
+            "label": "Speciaal onderwijs",
+            "description": "SO, VSO en onderwijs voor leerlingen die extra ondersteuning nodig hebben.",
+            "children": [
+              {
+                "id": "specialistisch",
+                "label": "Specialistisch SO / VSO",
+                "description": "Onderwijs voor onder meer lichamelijke, meervoudige of langdurige ondersteuningsvragen.",
+                "include": [
+                  "speciaal onderwijs",
+                  "voortgezet speciaal onderwijs",
+                  "vso",
+                  "attendiz",
+                  "ocr",
+                  "roessingh",
+                  "mytyl",
+                  "meervoudige beperking",
+                  "lichamelijke beperking",
+                  "langdurig ziek",
+                  "prikkelverwerking"
+                ]
+              },
+              {
+                "id": "gedrag",
+                "label": "Gedrag & extra ondersteuning",
+                "description": "Onderwijs en ondersteuning bij gedrag, ontwikkeling of sociaal-emotionele problemen.",
+                "include": [
+                  "onderwijs",
+                  "school",
+                  "gedrag",
+                  "autisme",
+                  "ass",
+                  "adhd",
+                  "sociaal emotioneel",
+                  "onderwijszorg",
+                  "zorgonderwijs"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "passend",
+            "label": "Passend onderwijs & schoolondersteuning",
+            "description": "Ondersteuning op school, thuiszitten, leerproblemen en samenwerkingsverbanden.",
+            "include": [
+              "passend onderwijs",
+              "samenwerkingsverband",
+              "schoolondersteuning",
+              "onderwijsconsulent",
+              "leerplicht",
+              "thuiszitter",
+              "leerrecht",
+              "dyslexie",
+              "dyscalculie",
+              "schoolmaatschappelijk"
+            ]
+          },
+          {
+            "id": "studie",
+            "label": "Studie & jongvolwassenen",
+            "description": "Ondersteuning om opleiding, wonen en ontwikkeling vol te houden.",
+            "include": [
+              "student",
+              "studie",
+              "opleiding",
+              "roc",
+              "saxion",
+              "kamer raad",
+              "jongvolwassen"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "opvoeden",
+        "label": "Opvoeden & gezin",
+        "description": "Opvoedvragen, ouderondersteuning, gezinsactiviteiten en steun voor ouders.",
+        "include": [
+          "opvoed",
+          "ouder",
+          "ouders",
+          "gezin",
+          "familiehuis",
+          "steungezin",
+          "kind",
+          "jeugd",
+          "baby",
+          "peuter"
+        ]
+      },
+      {
+        "id": "jongeren",
+        "label": "Jongeren & vrije tijd",
+        "description": "Jongerenwerk, ontmoetingsplekken, activiteiten en talentontwikkeling.",
+        "include": [
+          "jongerenwerk",
+          "jongerencentrum",
+          "jongere",
+          "jeugd",
+          "talentontwikkeling",
+          "talent",
+          "inloop jeugd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wonen",
+    "label": "Wonen, opvang & dakloosheid",
+    "description": "Dak- en thuisloosheid, wonen, opvang en ondersteuning bij zelfstandig wonen.",
+    "children": [
+      {
+        "id": "dakloos",
+        "label": "Dak- en thuisloos",
+        "description": "Opvang, tijdelijke woonplekken, inloop en begeleiding voor mensen zonder stabiele woonplek.",
+        "include": [
+          "dakloos",
+          "thuisloos",
+          "maatschappelijke opvang",
+          "24 uurs opvang",
+          "24-uurs opvang",
+          "nachtopvang",
+          "crisisopvang",
+          "zwerfjong",
+          "tov",
+          "housing first"
+        ]
+      },
+      {
+        "id": "begeleid-wonen",
+        "label": "Begeleid & beschermd wonen",
+        "description": "Ondersteund wonen, woonbegeleiding en routes naar zelfstandig wonen.",
+        "include": [
+          "begeleid wonen",
+          "beschermd wonen",
+          "woonbegeleiding",
+          "ambulante woonbegeleiding",
+          "housing first",
+          "woonvoorziening",
+          "kamer raad",
+          "zelfstandig wonen"
+        ]
+      },
+      {
+        "id": "woning",
+        "label": "Woning zoeken & behouden",
+        "description": "Hulp bij huren, woonvragen, woning vinden, urgentie of dreigend woningverlies.",
+        "include": [
+          "woning",
+          "wonen",
+          "huur",
+          "huurder",
+          "woningzoek",
+          "urgentie",
+          "huisvesting",
+          "woonruimte",
+          "huisuitzetting"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "geld",
+    "label": "Geld, schulden & administratie",
+    "description": "Rondkomen, schulden, formulieren, regelingen en financiële hulp.",
+    "children": [
+      {
+        "id": "schulden",
+        "label": "Schulden & betalingsproblemen",
+        "description": "Hulp bij schulden, betalingsachterstanden en financieel overzicht.",
+        "include": [
+          "schuld",
+          "betalingsachterstand",
+          "budget",
+          "geldproblemen",
+          "bewind",
+          "financieel",
+          "rondkomen"
+        ]
+      },
+      {
+        "id": "regelingen",
+        "label": "Regelingen & laag inkomen",
+        "description": "Toeslagen, minimaregelingen, fondsen en voorzieningen voor lage inkomens.",
+        "include": [
+          "minima",
+          "laag inkomen",
+          "inkomen",
+          "toeslag",
+          "regeling",
+          "voorzieningenwijzer",
+          "fonds",
+          "bijzondere bijstand",
+          "kindpakket"
+        ]
+      },
+      {
+        "id": "formulieren",
+        "label": "Formulieren & administratie",
+        "description": "Hulp met post, formulieren, DigiD en contact met instanties.",
+        "include": [
+          "formulier",
+          "administratie",
+          "papierwerk",
+          "digid",
+          "overheid",
+          "brieven",
+          "post",
+          "sociaal raadslieden",
+          "jouw loket",
+          "ido"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mentaal",
+    "label": "Mentale gezondheid & herstel",
+    "description": "Laagdrempelige steun, herstel, lotgenotencontact en psychisch welzijn.",
+    "children": [
+      {
+        "id": "welzijn",
+        "label": "Mentaal welzijn",
+        "description": "Gesprekken, trainingen en ondersteuning bij stress, somberheid, angst of veerkracht.",
+        "include": [
+          "mentale gezondheid",
+          "psychisch",
+          "stress",
+          "somber",
+          "angst",
+          "veerkracht",
+          "mindfit",
+          "welzijn",
+          "zelfvertrouwen",
+          "rouw"
+        ]
+      },
+      {
+        "id": "lotgenoten",
+        "label": "Lotgenoten & herstel",
+        "description": "Herstelgroepen, zelfregie, ervaringsdeskundigheid en lotgenotencontact.",
+        "include": [
+          "lotgenoot",
+          "herstel",
+          "zelfregie",
+          "ervaringsdeskund",
+          "zelfhulpgroep",
+          "supportgroep"
+        ]
+      },
+      {
+        "id": "eenzaamheid",
+        "label": "Eenzaamheid & contact",
+        "description": "Ondersteuning wanneer iemand weinig contacten heeft of zich alleen voelt.",
+        "include": [
+          "eenzaam",
+          "maatje",
+          "maatjes",
+          "vriendschap",
+          "sociaal contact",
+          "ontmoeten",
+          "inloop"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zorg",
+    "label": "Gezondheid, beperking & mantelzorg",
+    "description": "Ondersteuning bij ziekte, beperking, mantelzorg en dagelijks functioneren.",
+    "children": [
+      {
+        "id": "mantelzorg",
+        "label": "Mantelzorg",
+        "description": "Steun, advies, ontmoeting en respijt voor mantelzorgers.",
+        "include": [
+          "mantelzorg",
+          "respijt",
+          "mantelzorger",
+          "jonge mantelzorger"
+        ]
+      },
+      {
+        "id": "beperking",
+        "label": "Leven met een beperking",
+        "description": "Ondersteuning en praktische hulp bij lichamelijke, zintuiglijke, verstandelijke of neurologische beperkingen.",
+        "include": [
+          "beperking",
+          "nah",
+          "niet aangeboren hersenletsel",
+          "slechtziend",
+          "blind",
+          "doof",
+          "slechthorend",
+          "lichamelijk",
+          "verstandelijke beperking",
+          "autisme",
+          "ass"
+        ]
+      },
+      {
+        "id": "dementie",
+        "label": "Geheugen & dementie",
+        "description": "Ontmoeting, informatie en steun rond geheugenproblemen en dementie.",
+        "include": [
+          "dementie",
+          "alzheimer",
+          "geheugen",
+          "geheugenproblemen"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "veiligheid",
+    "label": "Relaties, gezin & veiligheid",
+    "description": "Veiligheid thuis, relaties, scheiding, geweld en steun na ingrijpende gebeurtenissen.",
+    "children": [
+      {
+        "id": "huiselijk",
+        "label": "Veilig thuis & geweld",
+        "description": "Hulp bij huiselijk geweld, mishandeling, dreiging of onveilige thuissituaties.",
+        "include": [
+          "huiselijk geweld",
+          "veilig thuis",
+          "mishandeling",
+          "geweld",
+          "dreiging",
+          "eergerelateerd",
+          "seksueel geweld"
+        ]
+      },
+      {
+        "id": "relaties",
+        "label": "Relaties & scheiding",
+        "description": "Relatievragen, scheiding, ouderschap na scheiding en contactherstel.",
+        "include": [
+          "relatie",
+          "scheiding",
+          "echtscheiding",
+          "ouderschap",
+          "omgang",
+          "mediation"
+        ]
+      },
+      {
+        "id": "slachtoffer",
+        "label": "Slachtofferhulp & verlies",
+        "description": "Praktische en emotionele steun na verlies, misdrijf of een ingrijpende gebeurtenis.",
+        "include": [
+          "slachtoffer",
+          "verlies",
+          "rouw",
+          "nabestaande",
+          "misdrijf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "meedoen",
+    "label": "Werk, daginvulling & meedoen",
+    "description": "Vrijwilligerswerk, activering, daginvulling, talenten en stappen richting werk.",
+    "children": [
+      {
+        "id": "daginvulling",
+        "label": "Daginvulling & activiteiten",
+        "description": "Een zinvolle weekinvulling, laagdrempelige activiteiten en structuur.",
+        "include": [
+          "daginvulling",
+          "dagbesteding",
+          "activiteit",
+          "inloop",
+          "creatief",
+          "werkplaats",
+          "tuin",
+          "boerderij"
+        ]
+      },
+      {
+        "id": "vrijwillig",
+        "label": "Vrijwilligerswerk",
+        "description": "Vrijwilligerswerk vinden, vrijwilligerssteun en iets betekenen voor anderen.",
+        "include": [
+          "vrijwillig",
+          "vrijwilligerswerk",
+          "vrijwilliger",
+          "vacaturebank"
+        ]
+      },
+      {
+        "id": "werk",
+        "label": "Werk & talentontwikkeling",
+        "description": "Oriëntatie, leer-werk, participatie en ontwikkeling richting werk.",
+        "include": [
+          "werk",
+          "arbeid",
+          "leer werk",
+          "leer-werk",
+          "talentontwikkeling",
+          "participatie",
+          "re-integratie",
+          "sollicit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ontmoeten",
+    "label": "Ontmoeten, buurt & activiteiten",
+    "description": "Inlopen, buurtkamers, samen eten, clubs en activiteiten dichtbij huis.",
+    "children": [
+      {
+        "id": "inloop",
+        "label": "Inloop & buurthuiskamer",
+        "description": "Vrij binnenlopen voor koffie, contact, vragen of activiteiten.",
+        "include": [
+          "inloop",
+          "buurthuiskamer",
+          "wijkhuys",
+          "wijkhuis",
+          "ontmoetingscentrum",
+          "huiskamer",
+          "koffie"
+        ]
+      },
+      {
+        "id": "samen",
+        "label": "Samen eten & ontmoeten",
+        "description": "Maaltijden, eettafels en activiteiten met andere inwoners.",
+        "include": [
+          "samen eten",
+          "eetmee",
+          "resto",
+          "maaltijd",
+          "ontmoeten",
+          "wereldse vrouwen",
+          "koffie proat"
+        ]
+      },
+      {
+        "id": "bewegen",
+        "label": "Sport & bewegen",
+        "description": "Wandelen, bewegen en laagdrempelige sportactiviteiten.",
+        "include": [
+          "sport",
+          "bewegen",
+          "wandel",
+          "fiets",
+          "gym",
+          "zwem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "taal",
+    "label": "Taal, digitaal & basisvaardigheden",
+    "description": "Nederlands leren, digitaal sterker worden en hulp met online zaken.",
+    "children": [
+      {
+        "id": "nederlands",
+        "label": "Nederlands & taal",
+        "description": "Taalcafés, taalmaatjes en oefenen met lezen, schrijven en spreken.",
+        "include": [
+          "taal",
+          "taalcafe",
+          "taalcafé",
+          "taalpunt",
+          "nederlands",
+          "lezen",
+          "schrijven",
+          "taalmaatje"
+        ]
+      },
+      {
+        "id": "digitaal",
+        "label": "Digitaal & DigiD",
+        "description": "Hulp met computer, smartphone, internet en digitale overheid.",
+        "include": [
+          "digitaal",
+          "digid",
+          "computer",
+          "smartphone",
+          "tablet",
+          "ido",
+          "oefenplein",
+          "internet"
+        ]
+      },
+      {
+        "id": "basis",
+        "label": "Rekenen & basisvaardigheden",
+        "description": "Oefenen met rekenen en andere basisvaardigheden voor dagelijks leven.",
+        "include": [
+          "rekenen",
+          "basisvaardigheid",
+          "oefenplein",
+          "laaggeletterd"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "verslaving",
+    "label": "Verslaving & herstel",
+    "description": "Informatie, ondersteuning, zelfhulp en herstel rond middelen of gedrag.",
+    "children": [
+      {
+        "id": "middelen",
+        "label": "Alcohol & drugs",
+        "description": "Ondersteuning rond alcohol, drugs en herstel.",
+        "include": [
+          "verslaving",
+          "alcohol",
+          "drugs",
+          "middelengebruik",
+          "cannabis",
+          "cocaine",
+          "3-mmc",
+          "speed"
+        ]
+      },
+      {
+        "id": "gedrag",
+        "label": "Gamen, gokken & gedrag",
+        "description": "Hulp bij gokken, gamen of ander gedrag dat uit de hand loopt.",
+        "include": [
+          "gok",
+          "gamen",
+          "gameverslaving",
+          "gedragsverslaving"
+        ]
+      },
+      {
+        "id": "naasten",
+        "label": "Naasten & familie",
+        "description": "Steun voor partners, ouders, kinderen en andere naasten.",
+        "include": [
+          "naasten",
+          "familie",
+          "partner",
+          "kinderen van ouders met",
+          "kopp",
+          "kvo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "migratie",
+    "label": "Nieuwkomers & meedoen in Nederland",
+    "description": "Taal, integratie, vluchtelingenwerk en praktische ondersteuning bij het opbouwen van een leven in Twente.",
+    "children": [
+      {
+        "id": "nieuwkomer",
+        "label": "Nieuwkomers & statushouders",
+        "description": "Praktische steun, wegwijs worden en deelnemen in de gemeente.",
+        "include": [
+          "statushouder",
+          "nieuwkomer",
+          "vluchteling",
+          "vluchtelingenwerk",
+          "integratie",
+          "inburger"
+        ]
+      },
+      {
+        "id": "taal",
+        "label": "Taal & participatie",
+        "description": "Taal oefenen en via activiteiten andere mensen leren kennen.",
+        "include": [
+          "taal",
+          "taalcafe",
+          "taalcafé",
+          "fietslessen",
+          "wereldse vrouwen",
+          "participatie",
+          "inburger"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vervoer",
+    "label": "Vervoer & mobiliteit",
+    "description": "Hulp om ergens te komen wanneer zelfstandig reizen lastig is.",
+    "children": [
+      {
+        "id": "sociaal",
+        "label": "Sociaal vervoer",
+        "description": "Vrijwilligersvervoer en vervoer voor sociale of praktische ritten.",
+        "include": [
+          "automaatje",
+          "vervoer",
+          "vrijwilligersvervoer",
+          "ritten",
+          "chauffeur"
+        ]
+      },
+      {
+        "id": "leren",
+        "label": "Leren fietsen & zelfstandig reizen",
+        "description": "Oefenen met fietsen, openbaar vervoer of zelfstandig op pad gaan.",
+        "include": [
+          "fietsles",
+          "fietslessen",
+          "zelfstandig reizen",
+          "openbaar vervoer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "recht",
+    "label": "Recht, discriminatie & advies",
+    "description": "Juridische vragen, sociaal raadslieden, discriminatie en ondersteuning bij rechten.",
+    "children": [
+      {
+        "id": "juridisch",
+        "label": "Juridisch & sociaal advies",
+        "description": "Hulp bij brieven, rechten, bezwaar en contact met instanties.",
+        "include": [
+          "juridisch",
+          "rechtshulp",
+          "sociaal raadslieden",
+          "bezwaar",
+          "rechtswinkel",
+          "juridisch loket"
+        ]
+      },
+      {
+        "id": "discriminatie",
+        "label": "Discriminatie & inclusie",
+        "description": "Melden, advies en ondersteuning bij discriminatie of uitsluiting.",
+        "include": [
+          "discriminatie",
+          "racisme",
+          "uitsluiting",
+          "lhbti",
+          "inclusie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "basis",
+    "label": "Eten, kleding & basisbehoeften",
+    "description": "Voedsel, kleding, spullen en andere praktische basissteun.",
+    "children": [
+      {
+        "id": "eten",
+        "label": "Eten & voedsel",
+        "description": "Voedselhulp, maaltijden en goedkope of gratis eetmogelijkheden.",
+        "include": [
+          "voedselbank",
+          "voedsel",
+          "maaltijd",
+          "eten",
+          "resto",
+          "brood"
+        ]
+      },
+      {
+        "id": "kleding",
+        "label": "Kleding & spullen",
+        "description": "Kleding, meubels, speelgoed en andere noodzakelijke spullen.",
+        "include": [
+          "kleding",
+          "kledingbank",
+          "meubel",
+          "spullen",
+          "speelgoed",
+          "kringloop"
+        ]
+      }
+    ]
+  }
+]
