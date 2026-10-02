@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-02",
+  "checked": "2026-10-03",
   "method": "Aanvullende, handmatig onderzochte én systematisch uit officiële gemeentelijke sociale kaarten, welzijnskalenders en eerstelijns aanbieders gevonden voorliggende voorzieningen. Focus: gratis/vrij toegankelijke inloop, algemene Wmo-voorzieningen, daginvulling zonder indicatie, lotgenotencontact, opvoedsteun en praktische hulp.",
   "sources": [
     {
@@ -12741,6 +12741,295 @@
       "lat": 52.23175032,
       "lon": 7.00293822,
       "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "locationMunicipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Almelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+      "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+      "id": "extra-20261003-almelo-aahoes",
+      "name": "Dorpshuis 't Aahoes · ontmoeting Aadorp",
+      "address": "Albardastraat 20",
+      "town": "Aadorp",
+      "description": "Dorpshuis en ontmoetingsplek voor inwoners van Aadorp met buurt- en verenigingsactiviteiten.",
+      "subthemes": [
+        "dorpshuis",
+        "buurt"
+      ]
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "locationMunicipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Almelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+      "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+      "id": "extra-20261003-almelo-huis-van-katoen",
+      "name": "Huis van Katoen en Nu · ontmoetingsplek",
+      "address": "Marktplein 35",
+      "town": "Almelo",
+      "description": "Centrale ontmoetingsplek in de binnenstad met activiteiten rond verhalen, cultuur, historie en verbinding tussen inwoners.",
+      "subthemes": [
+        "cultuur",
+        "sociaal contact"
+      ]
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "locationMunicipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Almelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+      "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+      "id": "extra-20261003-almelo-wijkkamer-dok",
+      "name": "Wijkkamer 't Dok · buurtontmoeting",
+      "address": "Sumatraplein 1",
+      "town": "Almelo",
+      "description": "Wijkkamer in de binnenstad voor koffie, gesprek en buurtactiviteiten.",
+      "subthemes": [
+        "wijkkamer",
+        "buurt"
+      ]
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "locationMunicipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Almelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+      "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+      "id": "extra-20261003-almelo-natuurhus",
+      "name": "Natuurhus Almelo · ontmoeting en activiteiten",
+      "address": "Hagenborgh 4",
+      "town": "Almelo",
+      "description": "Ontmoetingsplek rond natuur, duurzaamheid en educatie met activiteiten voor verschillende leeftijden.",
+      "subthemes": [
+        "natuur",
+        "activiteiten"
+      ]
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "locationMunicipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Almelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+      "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+      "id": "extra-20261003-almelo-kulturhus-bornerbroek",
+      "name": "Kulturhus Bornerbroek · ontmoeting en activiteiten",
+      "address": "Pastoor Ossestraat 21",
+      "town": "Bornerbroek",
+      "description": "Kulturhus en dorpsontmoetingsplek voor verenigingen, activiteiten en sociaal contact in Bornerbroek.",
+      "subthemes": [
+        "kulturhus",
+        "dorpsontmoeting"
+      ]
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "locationMunicipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Almelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+      "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+      "id": "extra-20261003-almelo-mensdoormens",
+      "name": "Mensdoormens · Inloop Almelo",
+      "address": "Hoornbladstraat 17",
+      "town": "Almelo",
+      "description": "Laagdrempelige inloopplek waar inwoners anderen kunnen ontmoeten en mee kunnen doen aan activiteiten.",
+      "subthemes": [
+        "inloop",
+        "sociaal contact"
+      ]
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "locationMunicipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Almelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+      "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+      "id": "extra-20261003-almelo-hagedoorn",
+      "name": "Buurthuiskamer De Hagedoorn · ontmoeting",
+      "address": "Wilgenstraat 11",
+      "town": "Almelo",
+      "description": "Buurthuiskamer in het Nieuwstraatkwartier voor laagdrempelige ontmoeting, koffie en buurtactiviteiten.",
+      "subthemes": [
+        "buurthuiskamer",
+        "buurt"
+      ]
     }
   ],
   "addressEnrichmentVersion": 1,
