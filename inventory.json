@@ -22143,7 +22143,11 @@
       "postcode": "7634PX",
       "lat": 52.40797699,
       "lon": 6.93544161,
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
