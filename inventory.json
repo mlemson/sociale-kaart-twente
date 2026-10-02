@@ -26562,13 +26562,13 @@
     },
     {
       "sourceKind": "first-party",
-      "checked": "2026-10-02",
+      "checked": "2026-10-03",
       "accessStatus": "source-check",
       "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
       "status": "candidate",
       "id": "c-20261002-zorgsaam-rank",
       "name": "ZorgSaam Twenterand · Soos De Rank",
-      "source": "https://www.zorgsaamtwenterand.nl/",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
       "sourceTitle": "ZorgSaam Twenterand",
       "municipality": "Twenterand",
       "municipalities": [
@@ -26588,23 +26588,21 @@
         "soos",
         "buurt"
       ],
-      "description": "Gezelligheidsvereniging en ontmoetingsplek voor jong en oud in Den Ham.",
+      "description": "Laagdrempelige soos in Den Ham met koffie, gesprek, biljart, kaarten, rummikub en sjoelen voor jong en oud.",
       "audience": "Inwoners van Den Ham en omgeving.",
-      "access": "Via het actuele programma van ZorgSaam.",
+      "access": "Iedere maandag 14.00-16.30 uur; inwoners kunnen laagdrempelig aansluiten.",
       "costs": "Controleer actuele bijdrage.",
-      "address": "Burgemeester Koetjestraat 2",
+      "address": "Brinkstraat 6",
       "postcode": "7681ZP",
-      "town": "Vroomshoop",
-      "lat": 52.45816146,
-      "lon": 6.56844898,
+      "town": "Den Ham",
       "locationMunicipality": "Twenterand",
-      "locationType": "source-address",
-      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02",
       "guidePaths": [
         "ontmoeten/inloop"
-      ]
+      ],
+      "mapPin": true
     },
     {
       "sourceKind": "first-party",
