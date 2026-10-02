@@ -68,5 +68,15 @@
     "nameContains": "Sociaal Juridisch Spreekuur",
     "municipality": "Hof van Twente",
     "path": "recht/juridisch"
+  },
+  {
+    "nameContains": "Attendiz",
+    "municipality": "Enschede",
+    "path": "onderwijs/school/speciaal/gedrag"
+  },
+  {
+    "nameContains": "hulp voor naasten",
+    "municipality": "Enschede",
+    "path": "verslaving/naasten"
   }
 ]
