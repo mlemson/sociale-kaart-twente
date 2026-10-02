@@ -24,6 +24,27 @@ jobs:
           python -m json.tool twente.geojson > /dev/null
           python -m json.tool data/wegwijzer-curated.json > /dev/null
           python -m json.tool data/wegwijzer-themas.json > /dev/null
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          taxonomy=json.loads(Path("data/wegwijzer-themas.json").read_text())
+          valid=set()
+          def walk(nodes, prefix=()):
+              for node in nodes:
+                  path=(*prefix, node["id"])
+                  valid.add("/".join(path))
+                  walk(node.get("children") or [], path)
+          walk(taxonomy)
+
+          for filename in ("inventory.json", "inventory.extra.json", "data/wegwijzer-curated.json"):
+              data=json.loads(Path(filename).read_text())
+              rows=data if isinstance(data, list) else data.get("candidates", [])
+              for row in rows:
+                  for path in row.get("guidePaths") or []:
+                      assert path in valid, f"Onbekend Wegwijzer-pad {path!r} in {filename}: {row.get('name') or row.get('title')}"
+          print(f"{len(valid)} geldige Wegwijzer-paden gecontroleerd")
+          PY
       - name: Test catalogusgenerator
         run: |
           python tools/build_catalog.py
