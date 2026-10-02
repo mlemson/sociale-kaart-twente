@@ -395,15 +395,22 @@ def discover_for_group(group: list[dict]):
             return mark_map_mode(geo, expected)
 
     ranked_sources = sorted(
-        [v for v in group if v.get("source")],
+        [v for v in group if v.get("source") or v.get("locationSource")],
         key=lambda v: ({"first-party": 0, "provider": 0, "regional": 1, "municipal-directory": 2}.get(v.get("sourceKind"), 3), v.get("source", ""))
     )
     tried = set()
     best = None
     best_score = -1
 
+    source_candidates = []
     for v in ranked_sources[:10]:
-        source_url = v.get("source")
+        # locationSource is an explicit hint for pages where the actual offer page
+        # contains no address (for example a course page plus a regional location page).
+        for url in (v.get("locationSource"), v.get("source")):
+            if url and url not in source_candidates:
+                source_candidates.append(url)
+
+    for source_url in source_candidates[:16]:
         if source_url in tried:
             continue
         tried.add(source_url)
