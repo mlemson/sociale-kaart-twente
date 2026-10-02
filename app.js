@@ -275,6 +275,16 @@ function catalogOfferSummary(group, max = 3) {
     const extra = Math.max(0, pool.length - shown.length);
     return {pool, text: shown.join(' · ') + (extra ? ` · +${extra}` : '')};
 }
+function physicalSiteKey(p) {
+    const parts = [
+        actualMunicipality(p),
+        String(p.address || '').trim().toLocaleLowerCase('nl'),
+        String(p.postcode || '').replace(/\s+/g, '').toLocaleLowerCase('nl'),
+        String(p.town || '').trim().toLocaleLowerCase('nl')
+    ];
+    if (parts.slice(1).some(Boolean)) return parts.join('|');
+    return [parts[0], p.lat, p.lon].join('|');
+}
 
 function render() {
     filtered = matchedLocations();
@@ -305,17 +315,24 @@ function render() {
         activeToggle.checked = false;
     }
 
-    $('result-count').textContent = sortedCatalog.length
-        ? `${sortedLocations.length} locaties · ${sortedCatalog.length} ook actief`
-        : (sortedLocations.length ? `${sortedLocations.length} locaties` : '');
+    const physicalSiteCount = new Set(sortedLocations.map(physicalSiteKey)).size;
+    const matchingOfferCount = catalogFiltered.reduce((sum, group) => sum + catalogOffersForGroup(group).length, 0);
+    const resultBits = [];
+    if (physicalSiteCount) resultBits.push(`${physicalSiteCount} fysieke ${physicalSiteCount === 1 ? 'plek' : 'plekken'}`);
+    if (matchingOfferCount) resultBits.push(`${matchingOfferCount} ${matchingOfferCount === 1 ? 'vorm' : 'vormen'} van aanbod`);
+    if (sortedCatalog.length) resultBits.push(`${sortedCatalog.length} zonder lokale kaartlocatie`);
+    $('result-count').textContent = resultBits.join(' · ');
 
-    const locationTitle = state.municipality ? `Locaties in ${areaName}` : 'Fysieke locaties in Twente';
+    const locationTitle = state.municipality ? `Fysieke plekken in ${areaName}` : 'Fysieke plekken in Twente';
     const locationHtml = sortedLocations.map(p => {
         const meta = [p.town, categories[p.category] || ''].filter(Boolean).join(' · ');
         return `<button class="result-card ${p.id === state.selected ? 'active' : ''}" data-id="${esc(p.id)}"><span class="category-icon">${icon(p.category)}</span><span class="result-body"><span class="result-title">${esc(p.name)}</span><span class="result-address">${esc(meta)}</span></span></button>`;
     }).join('');
-    const physicalSection = `<div class="results-section-title"><strong>${esc(locationTitle)}</strong><span>${sortedLocations.length}</span></div>` +
-        (locationHtml || '<div class="empty compact">Geen fysieke locaties gevonden met deze filters.</div>');
+    const locationCountLabel = sortedLocations.length === physicalSiteCount
+        ? String(physicalSiteCount)
+        : `${physicalSiteCount} plekken · ${sortedLocations.length} vermeldingen`;
+    const physicalSection = `<div class="results-section-title"><strong>${esc(locationTitle)}</strong><span>${esc(locationCountLabel)}</span></div>` +
+        (locationHtml || '<div class="empty compact">Geen fysieke plekken gevonden met deze filters.</div>');
 
     const catalogLimit = (state.search || state.category || state.municipality) ? 30 : 12;
     const shownCatalog = sortedCatalog.slice(0, catalogLimit);
@@ -506,7 +523,7 @@ function renderMarkers() {
         if (regional && counts[name]) {
             const pt = map.latLngToLayerPoint(center).add([0, 27])
               , pos = map.layerPointToLatLng(pt);
-            const m = makeMarker(pos, `<span class="cluster-button">${counts[name]}</span>`, 'cluster-icon', [34, 34], `${name}: ${counts[name]} voorzieningen met een kaartbaar adres`);
+            const m = makeMarker(pos, `<span class="cluster-button">${counts[name]}</span>`, 'cluster-icon', [34, 34], `${name}: ${counts[name]} fysieke plekken`);
             m.on('click', () => chooseMunicipality(name));
             m.on('keypress', e => {
                 if (e.originalEvent.key === 'Enter')
@@ -549,7 +566,7 @@ function renderMarkers() {
             const coords = items.map(markerCoords);
             const lat = coords.reduce((s, p) => s + p[0], 0) / coords.length
               , lon = coords.reduce((s, p) => s + p[1], 0) / coords.length;
-            const m = makeMarker([lat, lon], `<span class="cluster-button">${items.length}</span>`, 'cluster-icon', [34, 34], `${items.length} locaties, klik om te bekijken`);
+            const m = makeMarker([lat, lon], `<span class="cluster-button">${items.length}</span>`, 'cluster-icon', [34, 34], `${items.length} voorzieningen in dit gebied, klik om te bekijken`);
             m.on('click', () => {
                 const b = L.latLngBounds(items.map(markerCoords));
                 if (map.getZoom() < 17 && b.getNorthEast().distanceTo(b.getSouthWest()) > 40) {
