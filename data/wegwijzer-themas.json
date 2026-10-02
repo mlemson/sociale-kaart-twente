@@ -1,7 +1,7 @@
 [
   {
     "id": "onderwijs",
-    "label": "Jeugd & school",
+    "label": "Jeugd",
     "description": "School, opvoeden en ondersteuning voor jeugd.",
     "children": [
       {
@@ -118,7 +118,7 @@
   },
   {
     "id": "wonen",
-    "label": "Wonen & opvang",
+    "label": "Wonen",
     "description": "Woonvragen, opvang en begeleiding.",
     "children": [
       {
@@ -173,7 +173,7 @@
   },
   {
     "id": "geld",
-    "label": "Geldzaken",
+    "label": "Geld",
     "description": "Schulden, regelingen en administratie.",
     "children": [
       {
@@ -278,7 +278,7 @@
   },
   {
     "id": "zorg",
-    "label": "Gezondheid & zorg",
+    "label": "Gezondheid",
     "description": "Ziekte, beperking, dementie en mantelzorg.",
     "children": [
       {
@@ -325,7 +325,7 @@
   },
   {
     "id": "veiligheid",
-    "label": "Gezin & veiligheid",
+    "label": "Veiligheid",
     "description": "Relaties, scheiding en veiligheid thuis.",
     "children": [
       {
@@ -371,7 +371,7 @@
   },
   {
     "id": "meedoen",
-    "label": "Werk & daginvulling",
+    "label": "Werk",
     "description": "Werk, vrijwilligerswerk en daginvulling.",
     "children": [
       {
@@ -419,7 +419,7 @@
   },
   {
     "id": "ontmoeten",
-    "label": "Ontmoeten & buurt",
+    "label": "Ontmoeten",
     "description": "Buurtplekken, contact en activiteiten.",
     "children": [
       {
@@ -625,7 +625,7 @@
   },
   {
     "id": "recht",
-    "label": "Recht & advies",
+    "label": "Recht",
     "description": "Juridische hulp en discriminatie.",
     "children": [
       {
