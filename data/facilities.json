@@ -5198,47 +5198,6 @@
     "catalogOrganizationId": "org-fundament-losser-l8a8wn"
   },
   {
-    "id": "offer-extra-20261002-fundament-taalpunt-losser",
-    "name": "Fundament Losser · Taalpunt Losser",
-    "category": "taal",
-    "address": "Raadhuisplein 1",
-    "postcode": "7581AG",
-    "town": "Losser",
-    "municipality": "Losser",
-    "serviceMunicipalities": [
-      "Losser"
-    ],
-    "lat": 52.26284211,
-    "lon": 7.00588809,
-    "source": "https://www.fundamentlosser.nl/agenda/",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten",
-      "daginvulling",
-      "taal"
-    ],
-    "subthemes": [
-      "laagdrempelig"
-    ],
-    "guidePaths": [
-      "taal/nederlands",
-      "taal/basis"
-    ],
-    "guideExclude": false,
-    "description": "Hulp bij Nederlands spreken, lezen en schrijven en digitale basisvaardigheden.",
-    "audience": "Inwoners van de gemeente Losser.",
-    "costs": "Laagdrempelig; controleer eventuele bijdrage.",
-    "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "service",
-    "locationSource": "https://www.fundamentlosser.nl/agenda/",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
-  },
-  {
     "id": "offer-extra-20261002-dinkelland-trefpunt-weerselo",
     "name": "Gemeenschapscentrum 't Trefpunt Weerselo · dorpsontmoeting",
     "category": "ontmoeten",
@@ -6148,51 +6107,6 @@
     "audience": "Inwoners die graag creatief bezig zijn en anderen willen ontmoeten.",
     "costs": "€3,50 per keer inclusief koffie/thee en iets lekkers.",
     "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
-  },
-  {
-    "id": "offer-extra-20261002-oldenzaal-creatief-cafe",
-    "name": "Impuls · Creatief Café",
-    "category": "ontmoeten",
-    "address": "Wilhelminastraat 5",
-    "postcode": "7571CE",
-    "town": "Oldenzaal",
-    "municipality": "Oldenzaal",
-    "serviceMunicipalities": [
-      "Oldenzaal"
-    ],
-    "lat": 52.31188249,
-    "lon": 6.93145973,
-    "source": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
-    "checked": "2026-10-02",
-    "tags": [
-      "creatief",
-      "schilderen",
-      "tekenen",
-      "haken",
-      "breien",
-      "naaien",
-      "ontmoeten"
-    ],
-    "subthemes": [
-      "creatief",
-      "daginvulling"
-    ],
-    "guidePaths": [
-      "meedoen/daginvulling"
-    ],
-    "guideExclude": false,
-    "description": "Creatieve inloop om samen te tekenen, schilderen, breien, haken, naaien of met een andere eigen hobby bezig te zijn.",
-    "audience": "Inwoners die graag creatief bezig zijn en anderen willen ontmoeten.",
-    "costs": "€3,50 per keer inclusief koffie/thee en iets lekkers.",
-    "access": "Iedere even maandag van de maand van 09.30 tot 12.00 uur.",
     "openingHours": "",
     "phone": "",
     "email": "",
@@ -11656,49 +11570,6 @@
     "catalogOrganizationId": "org-wijkracht-hengelo-19691n6"
   },
   {
-    "id": "offer-extra-20261002-wijkracht-wijkhuys-weidedorp",
-    "name": "Wijkracht Hengelo · Wijkhuys Weidedorp",
-    "category": "ontmoeten",
-    "address": "Curaçaostraat 10",
-    "postcode": "7556TM",
-    "town": "Hengelo",
-    "municipality": "Hengelo",
-    "serviceMunicipalities": [
-      "Hengelo"
-    ],
-    "lat": 52.27074775,
-    "lon": 6.7819718,
-    "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten",
-      "wijkhuys",
-      "daginvulling",
-      "vrij toegankelijk"
-    ],
-    "subthemes": [
-      "vrij toegankelijke voorziening",
-      "daginvulling"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop",
-      "meedoen/daginvulling"
-    ],
-    "guideExclude": false,
-    "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
-    "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
-    "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
-    "access": "Vrij toegankelijk; vraag naar het actuele programma.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "service",
-    "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6"
-  },
-  {
     "id": "offer-extra-20261002-hengelo-wijkhuys-weidedorp",
     "name": "Wijkracht Hengelo · Wijkhuys Weidedorp",
     "category": "ontmoeten",
@@ -11717,14 +11588,16 @@
       "ontmoeten",
       "wijkhuys",
       "daginvulling",
+      "vrij toegankelijk",
       "inloop",
       "activiteiten",
       "LVB",
       "senioren"
     ],
     "subthemes": [
-      "wijkhuys",
+      "vrij toegankelijke voorziening",
       "daginvulling",
+      "wijkhuys",
       "vrij toegankelijk"
     ],
     "guidePaths": [
@@ -11734,12 +11607,12 @@
     "guideExclude": false,
     "description": "Een van de drie Wijkhuyzen in Hengelo: een vrij toegankelijke plek om te ontmoeten, ontspannen en ontwikkelen, met inloop en een activiteitenprogramma.",
     "audience": "Inwoners van Hengelo, met extra aandacht voor mensen die een steuntje in de rug kunnen gebruiken.",
-    "costs": "Vrije inloop; losse activiteiten kunnen eigen kosten hebben.",
+    "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
     "access": "Vrij toegankelijk; maandag t/m donderdag 09.00-16.00 en vrijdag 09.00-13.00 volgens de bron.",
     "openingHours": "",
     "phone": "",
     "email": "",
-    "locationType": "visiting",
+    "locationType": "service",
     "locationSource": "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp",
     "mapLocationType": "address",
     "physicalLocation": true,
@@ -15388,7 +15261,7 @@
   {
     "id": "catalog-org-realcovery-inloophuis-locatie-almelo-65scv5",
     "name": "Realcovery inloophuis - locatie Almelo",
-    "category": "ontmoeten",
+    "category": "mentaal",
     "address": "Hoornbladstraat 17",
     "postcode": "7601SZ",
     "town": "Almelo",
@@ -15401,8 +15274,8 @@
     "source": "https://socialekaart.almelo.nl/is/organisatie/327924/invis2/realcovery-inloophuis-locatie-almelo",
     "checked": "2026-09-15",
     "tags": [
-      "ontmoeten",
-      "mentaal"
+      "mentaal",
+      "ontmoeten"
     ],
     "subthemes": [],
     "description": "Contact-/vestigingsadres voor Realcovery inloophuis - locatie Almelo. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
