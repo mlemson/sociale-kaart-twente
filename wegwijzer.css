@@ -369,6 +369,15 @@ html[data-color-scheme="dark"] .guide-root-view .guide-note{border-top-color:#3a
   flex:1 1 225px;
   background:#ece9e8;
 }
+.guide-map-unavailable{
+  min-height:225px;
+  display:grid;
+  place-items:center;
+  padding:18px;
+  color:#756b76;
+  font-size:12px;
+  text-align:center;
+}
 .guide-mini-map-caption{
   display:grid;
   grid-template-columns:1fr auto;
