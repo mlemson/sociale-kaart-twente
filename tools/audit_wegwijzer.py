@@ -92,7 +92,8 @@ for rec in unmatched[:80]:
     print(f"GEEN ROUTE {rec.get('organization')} · {rec.get('title')}")
 
 # Deze grens bewaakt dat de trefwoordindeling niet opnieuw extreem breed wordt.
-assert len(ambiguous) <= 60, f"Te veel brede automatische Wegwijzer-matches: {len(ambiguous)}"
+assert len(ambiguous) == 0, f"Brede automatische Wegwijzer-matches gevonden: {len(ambiguous)}"
+assert len(unmatched) == 0, f"Automatisch aanbod zonder Wegwijzer-route gevonden: {len(unmatched)}"
 
 
 # Kritieke combinatietests: thema + gemeente moeten bekende voorzieningen behouden.
