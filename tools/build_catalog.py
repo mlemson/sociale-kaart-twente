@@ -40,7 +40,7 @@ def review_status(v):
         return "manual"
     if not v.get("source") or not v.get("name") or not (v.get("municipality") or v.get("municipalities")):
         return "review-needed"
-    if (v.get("enrichment") or {}).get("categoryConflict"):
+    if (v.get("enrichment") or {}).get("categoryConflict") and not v.get("categoryReviewed"):
         return "review-needed"
     location_optional = v.get("locationType") in {"online", "remote"} or v.get("mapLocationType") == "service-area"
     if not has_location(v) and not location_optional:
@@ -148,7 +148,7 @@ def main():
             g["reviewNeeded"] += 1
             if not v.get("source"):
                 reason = "Bron ontbreekt"
-            elif (v.get("enrichment") or {}).get("categoryConflict"):
+            elif (v.get("enrichment") or {}).get("categoryConflict") and not v.get("categoryReviewed"):
                 reason = "Categorie uit bron en automatische indeling spreken elkaar tegen"
             elif not has_location(v):
                 reason = "Adres of kaartcoördinaten ontbreken"
