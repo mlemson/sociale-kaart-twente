@@ -582,7 +582,7 @@
     "children": [
       {
         "id": "nieuwkomer",
-        "label": "Nieuwkomers",
+        "label": "Wegwijs worden",
         "description": "Praktische steun, wegwijs worden en deelnemen in de gemeente.",
         "include": [
           "statushouder",

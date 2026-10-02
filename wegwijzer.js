@@ -56,6 +56,7 @@
   function recordText(record) {
     return norm([
       record.organization, record.title, record.description, record.audience, record.access, record.costs,
+      record.address, record.postcode, record.town, record.openingHours, record.phone, record.email,
       (record.themes || []).join(" "), (record.subthemes || []).join(" "),
       (record.tags || []).join(" "), (record.routeTags || []).join(" ")
     ].join(" "));
@@ -241,6 +242,13 @@
     if (record.audience) rows.push(["Voor wie", record.audience]);
     if (record.access) rows.push(["Toegang", record.access]);
     if (record.costs) rows.push(["Kosten", record.costs]);
+    if (record.address) {
+      const addressLabel = ["contact", "source-address"].includes(record.locationType) ? "Contactadres" : "Adres";
+      rows.push([addressLabel, [record.address, record.postcode, record.town].filter(Boolean).join(", ")]);
+    }
+    if (record.openingHours) rows.push(["Opening", record.openingHours]);
+    if (record.phone) rows.push(["Telefoon", record.phone]);
+    if (record.email) rows.push(["E-mail", record.email]);
     if ((record.municipalities || []).length) rows.push(["Gebied", uniq(record.municipalities).join(", ")]);
     return rows.map(row => "<dt>" + esc(row[0]) + "</dt><dd>" + esc(row[1]) + "</dd>").join("");
   }
@@ -261,7 +269,7 @@
         (record.description ? "<p>" + esc(record.description) + "</p>" : "") +
         (rows ? "<dl>" + rows + "</dl>" : "") +
         '<div class="guide-offer-actions">' +
-        (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">Website / bron</a>' : "") +
+        (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">Website</a>' : "") +
         '<a class="secondary" href="voorzieningen.html">Alle voorzieningen</a></div></article>';
     }).join("");
 
@@ -357,24 +365,35 @@
 
     (catalog || []).forEach(group => {
       const organization = group.organization || group.name || "Onbekende organisatie";
-      (group.offers || []).forEach((offer, index) => list.push({
-        id: offer.id || (group.id || norm(organization)) + "-" + index,
-        organization,
-        title: offer.title || offer.name || organization,
-        municipalities: uniq([...(group.municipalities || []), ...(offer.municipalities || [])]),
-        description: offer.description || "",
-        audience: offer.audience || "",
-        access: offer.access || "",
-        costs: offer.costs || "",
-        source: offer.source || group.primarySource || (group.sources || [])[0] || "",
-        themes: offer.themes || [],
-        subthemes: offer.subthemes || [],
-        tags: offer.tags || [],
-        guidePaths: offer.guidePaths || [],
-        guideExclude: Boolean(offer.guideExclude),
-        category: offer.category || "",
-        checked: offer.checked || group.checked || ""
-      }));
+      (group.offers || []).forEach((offer, index) => {
+        const offerAreas = uniq([...(offer.municipalities || []), offer.municipality]);
+        list.push({
+          id: offer.id || (group.id || norm(organization)) + "-" + index,
+          organization,
+          title: offer.title || offer.name || organization,
+          municipalities: offerAreas.length ? offerAreas : uniq(group.municipalities || []),
+          description: offer.description || "",
+          audience: offer.audience || "",
+          access: offer.access || "",
+          costs: offer.costs || "",
+          openingHours: offer.openingHours || "",
+          phone: offer.phone || "",
+          email: offer.email || "",
+          address: offer.address || "",
+          postcode: offer.postcode || "",
+          town: offer.town || "",
+          locationType: offer.locationType || "",
+          mapLocationType: offer.mapLocationType || "",
+          source: offer.source || group.primarySource || (group.sources || [])[0] || "",
+          themes: offer.themes || [],
+          subthemes: offer.subthemes || [],
+          tags: offer.tags || [],
+          guidePaths: offer.guidePaths || [],
+          guideExclude: Boolean(offer.guideExclude),
+          category: offer.category || "",
+          checked: offer.checked || group.checked || ""
+        });
+      });
     });
 
     (facilities || []).forEach(facility => list.push({
@@ -386,6 +405,14 @@
       audience: facility.audience || "",
       access: facility.access || "",
       costs: facility.costs || "",
+      openingHours: facility.openingHours || "",
+      phone: facility.phone || "",
+      email: facility.email || "",
+      address: facility.address || "",
+      postcode: facility.postcode || "",
+      town: facility.town || "",
+      locationType: facility.locationType || "",
+      mapLocationType: facility.mapLocationType || "",
       source: facility.source || "",
       themes: facility.themes || [],
       subthemes: facility.subthemes || [],
@@ -423,9 +450,11 @@
       current.routeTags = uniq([...(current.routeTags || []), ...(record.routeTags || [])]);
       current.guidePaths = uniq([...(current.guidePaths || []), ...(record.guidePaths || [])]);
       current.guideExclude = Boolean(current.guideExclude || record.guideExclude);
-      ["description","audience","access","costs","source","checked"].forEach(field => {
+      ["description","audience","access","costs","openingHours","phone","email","address","postcode","town","source","checked"].forEach(field => {
         if (record[field] && (!current[field] || String(record[field]).length > String(current[field]).length)) current[field] = record[field];
       });
+      if (!current.locationType && record.locationType) current.locationType = record.locationType;
+      if (!current.mapLocationType && record.mapLocationType) current.mapLocationType = record.mapLocationType;
       current.referenceOnly = Boolean(current.referenceOnly && record.referenceOnly);
     });
 

@@ -49,10 +49,14 @@ records = []
 for group in catalog:
     org = group.get("organization") or group.get("name") or ""
     for offer in group.get("offers") or []:
+        offer_areas = list(dict.fromkeys([
+            *(offer.get("municipalities") or []),
+            *([offer.get("municipality")] if offer.get("municipality") else []),
+        ]))
         records.append({
             "organization": org,
             "title": offer.get("title") or offer.get("name") or org,
-            "municipalities": list(dict.fromkeys([*(group.get("municipalities") or []), *(offer.get("municipalities") or [])])),
+            "municipalities": offer_areas or list(group.get("municipalities") or []),
             "description": offer.get("description") or "",
             "audience": offer.get("audience") or "",
             "access": offer.get("access") or "",
@@ -125,10 +129,17 @@ for item in expectations:
         and serves(rec, item["municipality"])
         and matches_path(rec, item["path"])
     ]
-    assert found, (
-        f"Kritieke Wegwijzer-combinatie ontbreekt: {item['nameContains']} "
-        f"bij {item['municipality']} op {item['path']}"
-    )
+    should_exist = item.get("shouldExist", True)
+    if should_exist:
+        assert found, (
+            f"Kritieke Wegwijzer-combinatie ontbreekt: {item['nameContains']} "
+            f"bij {item['municipality']} op {item['path']}"
+        )
+    else:
+        assert not found, (
+            f"Kritieke Wegwijzer-combinatie staat ten onrechte zichtbaar: {item['nameContains']} "
+            f"bij {item['municipality']} op {item['path']}"
+        )
 print(f"{len(expectations)} kritieke thema+gemeente-combinaties gecontroleerd")
 
 

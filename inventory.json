@@ -7078,11 +7078,11 @@
       ],
       "sourceTitle": "Noaberpoort",
       "sourceKind": "provider",
-      "checked": "2026-09-15",
+      "checked": "2026-10-02",
       "category": "ontmoeten",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
+      "access": "De eerste drie maanden is er intensieve begeleiding. Daarna kunnen vragen via het spreekuur of een huisbezoek worden opgepakt; voor het spreekuur is een afspraak mogelijk via 06 - 2889 0643.",
+      "description": "Maatschappelijke begeleiding voor statushouders in Haaksbergen bij de eerste huisvesting en opvang, met ondersteuning rond wonen, inkomen, financiën, zorg en wet- en regelgeving.",
       "address": "Blankenburgerstraat 28",
       "town": "Haaksbergen",
       "scope": "Aanbod van lokale welzijnsorganisatie",
@@ -7130,7 +7130,12 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "migratie/nieuwkomer"
-      ]
+      ],
+      "audience": "Statushouders die in Haaksbergen worden gehuisvest.",
+      "costs": "Geen kosten vermeld op de bronpagina.",
+      "openingHours": "Spreekuur dinsdag en donderdag 10.00–13.00 uur.",
+      "phone": "06 2889 0643",
+      "email": "info@noaberpoort.nl"
     },
     {
       "id": "candidate-7612bebc6ca21f5b",
@@ -14100,15 +14105,16 @@
       "name": "Wijkracht Hengelo · Maatschappelijke begeleiding nieuwkomers",
       "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/maatschappelijke-begeleiding-nieuwkomers",
       "municipalities": [
-        "Hengelo"
+        "Hengelo",
+        "Haaksbergen"
       ],
       "sourceTitle": "Wijkracht Hengelo",
       "sourceKind": "provider",
-      "checked": "2026-09-15",
+      "checked": "2026-10-02",
       "category": "advies",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
+      "access": "Neem voor informatie of een afspraak contact op met Wijkracht via 088 - 945 57 22 of info@wijkracht.nl.",
+      "description": "Maatschappelijke begeleiding voor nieuwkomers om deel te nemen aan de samenleving, met aandacht voor Nederlandse taal en het begrijpen van normen, waarden, gewoonten en cultuur.",
       "address": "Johannaweg 26",
       "town": "Hengelo",
       "scope": "Aanbod van lokale welzijnsorganisatie",
@@ -14118,7 +14124,7 @@
         "taal"
       ],
       "subthemes": [],
-      "audience": "Nieuwkomers / mensen die de Nederlandse taal leren",
+      "audience": "Nieuwkomers in Hengelo en Haaksbergen.",
       "tags": [
         "advies",
         "taal"
@@ -14164,7 +14170,12 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.wijkracht.nl/andere-diensten/hulpdienst-hengelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "migratie/nieuwkomer"
+      ],
+      "phone": "088 945 57 22",
+      "email": "info@wijkracht.nl"
     },
     {
       "id": "candidate-09cde8ea27ce396b",
@@ -18626,7 +18637,10 @@
         "taal/nederlands",
         "taal/digitaal",
         "migratie/taal"
-      ]
+      ],
+      "phone": "06 420 793 78",
+      "email": "info@huisvoortaalenmeedoen.nl",
+      "openingHours": "Taalspreekuur: maandag 13.30–17.00, dinsdag 09.30–12.00, woensdag 13.30–17.00 en donderdag 09.30–12.00 uur."
     },
     {
       "sourceKind": "first-party",
@@ -23091,8 +23105,8 @@
       "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
       "status": "candidate",
       "id": "c-20261002-humanitas-fin-nieuwkomers",
-      "name": "Humanitas Twente · financiële zelfredzaamheid voor nieuwkomers",
-      "source": "https://www.humanitas.nl/districten/district-oost/activiteiten/thuisadministratie/",
+      "name": "Humanitas Twente · Financiële Zelfredzaamheid",
+      "source": "https://humanitastwente.nl/watwedoen/",
       "sourceTitle": "Humanitas Twente",
       "municipality": "Enschede",
       "municipalities": [
@@ -23125,10 +23139,10 @@
         "administratie",
         "nieuwkomers"
       ],
-      "description": "Ondersteuning om als nieuwkomer zelfstandig grip te krijgen op administratie en geldzaken.",
-      "audience": "Nieuwkomers in Twente.",
-      "access": "Via Humanitas Twente.",
-      "costs": "Vrijwillige ondersteuning.",
+      "description": "Themabijeenkomsten die nieuwkomers helpen hun financiële administratie te begrijpen en zelfstandiger met geldzaken om te gaan.",
+      "audience": "Nieuwkomers die ondersteuning willen bij financiële administratie en geldzaken.",
+      "access": "Neem contact op met Humanitas Twente voor informatie over deelname en actuele bijeenkomsten.",
+      "costs": "Gratis vrijwilligersaanbod.",
       "address": "Enschedesestraat 164",
       "postcode": "7552CL",
       "town": "Hengelo",
@@ -23142,7 +23156,9 @@
       "guidePaths": [
         "geld/formulieren",
         "migratie/nieuwkomer"
-      ]
+      ],
+      "phone": "074 243 7733",
+      "email": "twente@humanitas.nl"
     },
     {
       "sourceKind": "first-party",
@@ -27788,7 +27804,10 @@
       "guidePaths": [
         "taal/nederlands",
         "migratie/taal"
-      ]
+      ],
+      "phone": "06 420 793 78",
+      "email": "info@huisvoortaalenmeedoen.nl",
+      "openingHours": "Maandag 13.30–17.00, dinsdag 09.30–12.00, woensdag 13.30–17.00 en donderdag 09.30–12.00 uur."
     },
     {
       "sourceKind": "first-party",
@@ -27837,7 +27856,11 @@
       "guidePaths": [
         "meedoen/vrijwillig",
         "migratie/taal"
-      ]
+      ],
+      "phone": "06 420 793 78",
+      "email": "info@huisvoortaalenmeedoen.nl",
+      "openingHours": "Maandag 10.00–15.00, dinsdag 10.00–15.00 en donderdag 10.00–15.00 uur.",
+      "costs": "Gratis advies."
     },
     {
       "sourceKind": "first-party",
