@@ -132,13 +132,13 @@
     grid.hidden = false;
     results.hidden = true;
 
-    grid.innerHTML = nodes.map((node, index) => {
+    grid.innerHTML = nodes.map(node => {
       const count = forNode(node).length;
-      const examples = (node.children || []).slice(0, 3).map(child => child.label).join(" · ");
+      const countLabel = count + " " + (count === 1 ? "resultaat" : "resultaten");
       return '<button class="guide-card" type="button" data-node="' + esc(node.id) + '"' + (count ? "" : " disabled") + ">" +
-        '<span class="guide-card-top"><span class="guide-card-index">' + String(index + 1).padStart(2, "0") + '</span><span class="guide-card-count">' + count + " " + (count === 1 ? "resultaat" : "resultaten") + "</span></span>" +
-        "<span><strong>" + esc(node.label) + "</strong><p>" + esc(node.description || "") + "</p></span>" +
-        '<span class="guide-card-foot">' + esc(examples || (count ? "Bekijk organisaties" : "Nog geen passend aanbod")) + "</span></button>";
+        '<span class="guide-card-heading"><strong>' + esc(node.label) + '</strong><span class="guide-card-count" title="' + esc(countLabel) + '" aria-label="' + esc(countLabel) + '">' + count + "</span></span>" +
+        (node.description ? "<p>" + esc(node.description) + "</p>" : "") +
+        "</button>";
     }).join("");
 
     grid.querySelectorAll("[data-node]").forEach(button => {
