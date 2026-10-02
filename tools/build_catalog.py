@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Bouw publieke kaartdata en catalogus, inclusief zichtbare contact- en locatiegegevens."""
+"""Bouw publieke kaartdata en catalogus, met expliciet onderscheid tussen fysieke locaties en werkgebied."""
 from __future__ import annotations
 import json, re, unicodedata
 from pathlib import Path
