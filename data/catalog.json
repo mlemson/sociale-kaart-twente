@@ -5078,6 +5078,81 @@
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197220/invis2/de-fakkel"
   },
   {
+    "id": "org-de-kappen-g0qov5",
+    "organization": "De Kappen",
+    "municipalities": [
+      "Haaksbergen"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-haaksbergen-handwerkclub-kappen",
+        "title": "Handwerkclub",
+        "name": "De Kappen · Handwerkclub",
+        "description": "Wekelijkse handwerkmiddag waar deelnemers aan eigen projecten werken, tips uitwisselen en nieuwe vaardigheden delen.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "creatief",
+          "inloop"
+        ],
+        "tags": [
+          "ontmoeten",
+          "handwerken",
+          "creatief",
+          "inloop"
+        ],
+        "audience": "Iedereen die samen wil handwerken.",
+        "costs": "Controleer eventuele consumptiekosten bij de organisator.",
+        "access": "Iedere donderdag van 14.00 tot 16.00 uur; vrij binnenlopen volgens de Informatiewijzer.",
+        "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Haaksbergen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Blankenburgerstraat 42",
+        "postcode": "7481EB",
+        "town": "Haaksbergen",
+        "lat": 52.15512071,
+        "lon": 6.74505822,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Blankenburgerstraat 42",
+      "postcode": "7481EB",
+      "town": "Haaksbergen",
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten"
+  },
+  {
     "id": "org-de-klup-locatie-almelo-1x3ssps",
     "organization": "De Klup - locatie Almelo",
     "municipalities": [
@@ -8886,6 +8961,83 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.almelo.nl/zorg-en-ondersteuning/ouder-worden-almelo/cursus-valpreventie-zo-blijft-u-overeind"
+  },
+  {
+    "id": "org-gemeente-borne-jntns1",
+    "organization": "Gemeente Borne",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "jeugd",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-borne-ouder-kindcafe",
+        "title": "Ouder-kindcafé Borne",
+        "name": "Gemeente Borne · Ouder-kindcafé Borne",
+        "description": "Terugkerend laagdrempelig ontmoetingsmoment voor ouders en jonge kinderen.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "ouders",
+          "jonge kinderen"
+        ],
+        "tags": [
+          "jeugd",
+          "ouders",
+          "ontmoeten",
+          "ouder-kindcafé"
+        ],
+        "audience": "Ouders met jonge kinderen.",
+        "costs": "Controleer de actuele kosten op de agenda.",
+        "access": "Om de week op dinsdag van 10.00 tot 11.30 uur volgens de agenda.",
+        "source": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Marktstraat 16a",
+        "postcode": "7622CR",
+        "town": "Borne",
+        "lat": 52.30148711,
+        "lon": 6.75907499,
+        "locationType": "visiting",
+        "locationSource": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Marktstraat 16a",
+      "postcode": "7622CR",
+      "town": "Borne",
+      "lat": 52.30148711,
+      "lon": 6.75907499,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders"
   },
   {
     "id": "org-gemeente-dinkelland-9dz08l",
@@ -15323,11 +15475,13 @@
       "https://www.noaberpoort.nl/ouderkindcafe",
       "https://www.noaberpoort.nl/Ouderenwerk",
       "https://www.noaberpoort.nl/Bijstand/Vrijwilligerswerk.html",
-      "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/ZIENS.html"
+      "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/ZIENS.html",
+      "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+      "https://www.noaberpoort.nl/%2891362%29-Noaberpoort/Sociaal-Domein-Nieuws/Ouder-en-Kindcafe-september2026.html"
     ],
-    "offerCount": 16,
+    "offerCount": 22,
     "reviewNeeded": 4,
-    "sourceBacked": 12,
+    "sourceBacked": 18,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -15757,7 +15911,52 @@
         "id": "candidate-222caea85e36dd65",
         "title": "Odensehuis",
         "name": "Noaberpoort · Odensehuis",
-        "description": "",
+        "description": "Ontmoetingsplek voor mensen met beginnende dementie of geheugenklachten en hun naasten, met vrijblijvende activiteiten zoals samen koken, schilderen en spelletjes.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten",
+          "mantelzorg"
+        ],
+        "subthemes": [
+          "dementie",
+          "geheugen",
+          "zonder indicatie"
+        ],
+        "tags": [
+          "ontmoeten",
+          "dementie",
+          "geheugen",
+          "mantelzorg",
+          "zonder indicatie"
+        ],
+        "audience": "Mensen met beginnende dementie of geheugenklachten en hun naasten.",
+        "costs": "Kleine bijdrage per bezoek voor consumpties en maaltijd/lunch; controleer het actuele bedrag op de bron.",
+        "access": "Zonder indicatie of diagnose toegankelijk; aanmelden is niet verplicht maar heeft de voorkeur.",
+        "source": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/Odensehuis.html",
+        "sourceKind": "provider",
+        "sourceTitle": "Noaberpoort",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Blankenburgerstraat 42",
+        "postcode": "7481EB",
+        "town": "Haaksbergen",
+        "lat": 52.15512071,
+        "lon": 6.74505822,
+        "locationType": "visiting",
+        "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/Odensehuis.html",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-haaksbergen-senioren-bon-boys",
+        "title": "Ontmoetingsactiviteit senioren Bon Boys",
+        "name": "Noaberpoort · Ontmoetingsactiviteit senioren Bon Boys",
+        "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
         "municipality": "Haaksbergen",
         "municipalities": [
           "Haaksbergen"
@@ -15766,28 +15965,212 @@
         "themes": [
           "ontmoeten"
         ],
-        "subthemes": [],
-        "tags": [
-          "ontmoeten"
+        "subthemes": [
+          "senioren",
+          "daginvulling"
         ],
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "source": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/Odensehuis.html",
-        "sourceKind": "provider",
-        "sourceTitle": "Noaberpoort",
-        "checked": "2026-09-15",
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "daginvulling",
+          "samen eten",
+          "bewegen",
+          "spel"
+        ],
+        "audience": "Senioren in de gemeente Haaksbergen.",
+        "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
+        "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op dinsdag- en donderdagochtend.",
+        "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Haaksbergen",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Blankenburgerstraat 28",
-        "postcode": "7481EB",
+        "address": "Kolenbranderweg 11",
+        "postcode": "7482SE",
         "town": "Haaksbergen",
-        "lat": 52.15500987,
-        "lon": 6.74219044,
-        "locationType": "source-address",
-        "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html",
+        "lat": 52.169349,
+        "lon": 6.74673402,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
         "locationMunicipality": "Haaksbergen",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-haaksbergen-senioren-de-kappen",
+        "title": "Ontmoetingsactiviteit senioren De Kappen",
+        "name": "Noaberpoort · Ontmoetingsactiviteit senioren De Kappen",
+        "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "daginvulling"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "daginvulling",
+          "samen eten",
+          "bewegen",
+          "spel"
+        ],
+        "audience": "Senioren in de gemeente Haaksbergen.",
+        "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
+        "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op maandag- en donderdagochtend.",
+        "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Haaksbergen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Blankenburgerstraat 42",
+        "postcode": "7481EB",
+        "town": "Haaksbergen",
+        "lat": 52.15512071,
+        "lon": 6.74505822,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-haaksbergen-senioren-trefkoel",
+        "title": "Ontmoetingsactiviteit senioren De Trefkoel",
+        "name": "Noaberpoort · Ontmoetingsactiviteit senioren De Trefkoel",
+        "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "daginvulling"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "daginvulling",
+          "samen eten",
+          "bewegen",
+          "spel"
+        ],
+        "audience": "Senioren in de gemeente Haaksbergen.",
+        "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
+        "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op eerste en derde woensdag van de maand.",
+        "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Haaksbergen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "de Noor 111",
+        "postcode": "7481RP",
+        "town": "Haaksbergen",
+        "lat": 52.14610578,
+        "lon": 6.83268679,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-haaksbergen-senioren-hsc21",
+        "title": "Ontmoetingsactiviteit senioren HSC'21",
+        "name": "Noaberpoort · Ontmoetingsactiviteit senioren HSC'21",
+        "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "daginvulling"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "daginvulling",
+          "samen eten",
+          "bewegen",
+          "spel"
+        ],
+        "audience": "Senioren in de gemeente Haaksbergen.",
+        "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
+        "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op vrijdagochtend.",
+        "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Haaksbergen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Scholtenhagenweg 29",
+        "postcode": "7481VN",
+        "town": "Haaksbergen",
+        "lat": 52.14724525,
+        "lon": 6.72786895,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-haaksbergen-senioren-meuken",
+        "title": "Ontmoetingsactiviteit senioren ’t Meûken",
+        "name": "Noaberpoort · Ontmoetingsactiviteit senioren ’t Meûken",
+        "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "daginvulling"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "daginvulling",
+          "samen eten",
+          "bewegen",
+          "spel"
+        ],
+        "audience": "Senioren in de gemeente Haaksbergen.",
+        "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
+        "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op donderdagochtend.",
+        "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Haaksbergen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Beckummerweg 11",
+        "postcode": "7482ST",
+        "town": "Haaksbergen",
+        "lat": 52.17836566,
+        "lon": 6.70226589,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "candidate-ebdc403e97ad5593",
@@ -15826,6 +16209,50 @@
         "locationMunicipality": "Haaksbergen",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261002-haaksbergen-ouder-kindcafe",
+        "title": "Ouder- en Kindcafé Haaksbergen",
+        "name": "Noaberpoort · Ouder- en Kindcafé Haaksbergen",
+        "description": "Tweewekelijkse laagdrempelige ontmoetingsplek voor zwangeren en ouders met kinderen van 0 tot 4 jaar, met wisselende thema's en ruimte voor vragen.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "ouders",
+          "0-4 jaar"
+        ],
+        "tags": [
+          "jeugd",
+          "ouders",
+          "0-4",
+          "ontmoeten",
+          "advies"
+        ],
+        "audience": "Zwangeren en ouders met kinderen van 0 tot 4 jaar.",
+        "costs": "Gratis.",
+        "access": "Om de twee weken in Bibliotheek Haaksbergen; aanmelden is niet nodig.",
+        "source": "https://www.noaberpoort.nl/%2891362%29-Noaberpoort/Sociaal-Domein-Nieuws/Ouder-en-Kindcafe-september2026.html",
+        "sourceKind": "first-party",
+        "sourceTitle": "Noaberpoort",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Blankenburgerstraat 42",
+        "postcode": "7481EB",
+        "town": "Haaksbergen",
+        "lat": 52.15512071,
+        "lon": 6.74505822,
+        "locationType": "visiting",
+        "locationSource": "https://www.noaberpoort.nl/%2891362%29-Noaberpoort/Sociaal-Domein-Nieuws/Ouder-en-Kindcafe-september2026.html",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "candidate-e9d364dd38be1747",
@@ -15906,48 +16333,58 @@
         "id": "candidate-b28fcf74de8d3323",
         "title": "ZIENS",
         "name": "Noaberpoort · ZIENS",
-        "description": "",
+        "description": "Vrije inloop met gezellige, leerzame, creatieve en ontspannende activiteiten voor inwoners die nieuwe contacten zoeken of weer actiever mee willen doen.",
         "municipality": "Haaksbergen",
         "municipalities": [
           "Haaksbergen"
         ],
         "category": "mentaal",
         "themes": [
-          "mentaal"
+          "mentaal",
+          "ontmoeten"
         ],
-        "subthemes": [],
+        "subthemes": [
+          "inloop",
+          "activering",
+          "herstel"
+        ],
         "tags": [
-          "mentaal"
+          "mentaal",
+          "ontmoeten",
+          "inloop",
+          "creatief",
+          "activering",
+          "computerhulp"
         ],
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+        "audience": "Inwoners die nieuwe contacten zoeken of ondersteuning kunnen gebruiken bij actief meedoen.",
+        "costs": "Kleine bijdrage; controleer het actuele tarief op de bron.",
+        "access": "Vrije inloop op maandag-, dinsdag- en donderdagochtend; geen verwijzing genoemd.",
         "source": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/ZIENS.html",
         "sourceKind": "provider",
         "sourceTitle": "Noaberpoort",
-        "checked": "2026-09-15",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Blankenburgerstraat 28",
+        "address": "Blankenburgerstraat 42",
         "postcode": "7481EB",
         "town": "Haaksbergen",
-        "lat": 52.15500987,
-        "lon": 6.74219044,
-        "locationType": "source-address",
-        "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html",
+        "lat": 52.15512071,
+        "lon": 6.74505822,
+        "locationType": "visiting",
+        "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/ZIENS.html",
         "locationMunicipality": "Haaksbergen",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
     "location": {
-      "address": "Blankenburgerstraat 28",
-      "postcode": "7481EB",
+      "address": "Beckummerweg 11",
+      "postcode": "7482ST",
       "town": "Haaksbergen",
-      "lat": 52.15500987,
-      "lon": 6.74219044,
+      "lat": 52.17836566,
+      "lon": 6.70226589,
       "locationMunicipality": "Haaksbergen",
-      "locationType": "source-address",
-      "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
       "mapLocationType": "address"
     },
     "status": "review-needed",
@@ -17570,6 +18007,80 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.restovanharte.nl/locaties/enschede"
+  },
+  {
+    "id": "org-richtershof-e7k1g",
+    "organization": "Richtershof",
+    "municipalities": [
+      "Haaksbergen"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-haaksbergen-koffie-richtershof",
+        "title": "gratis koffieochtend",
+        "name": "Richtershof · gratis koffieochtend",
+        "description": "Wekelijkse koffieochtend waar iedereen welkom is om elkaar te ontmoeten.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop"
+        ],
+        "tags": [
+          "ontmoeten",
+          "koffie",
+          "inloop",
+          "gratis"
+        ],
+        "audience": "Iedereen.",
+        "costs": "Gratis.",
+        "access": "Woensdagochtend van 10.00 tot 11.30 uur volgens de Informatiewijzer.",
+        "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Haaksbergen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Jhr.von Heijdenstraat 8",
+        "postcode": "7481ED",
+        "town": "Haaksbergen",
+        "lat": 52.15416907,
+        "lon": 6.74339248,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Jhr.von Heijdenstraat 8",
+      "postcode": "7481ED",
+      "town": "Haaksbergen",
+      "lat": 52.15416907,
+      "lon": 6.74339248,
+      "locationMunicipality": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten"
   },
   {
     "id": "org-salut-c7ahou",
@@ -24736,10 +25247,10 @@
     "categories": [
       "ontmoeten",
       "advies",
-      "vrijwillig",
       "vervoer",
       "mantelzorg",
-      "jeugd"
+      "jeugd",
+      "vrijwillig"
     ],
     "sources": [
       "https://www.wijkrachtborne.nl/ouderen/activiteiten-en-ontmoeting",
@@ -24749,18 +25260,19 @@
       "https://www.wijkrachtborne.nl/onze-diensten/hulp-bij-financiele-problemen",
       "https://www.wijkrachtborne.nl/jmz",
       "https://www.wijkrachtborne.nl/ouderen/themas/mantelzorg-1",
-      "https://www.wijkrachtborne.nl/onze-diensten/persoonlijke-ondersteuning/odensehuis",
+      "https://sociaalhus.nl/agenda/18824/odensehuis",
       "https://www.wijkrachtborne.nl/onze-diensten/onafhankelijke-clientondersteuning",
       "https://www.wijkrachtborne.nl/ouderen-ondersteuning",
       "https://www.wijkrachtborne.nl/praktische-hulp",
       "https://www.wijkrachtborne.nl/onze-diensten/jongerenwerk-skillz-1",
-      "https://www.wijkrachtborne.nl/sociaal-hus",
+      "https://www.borne.nl/sociaal-hus",
       "https://www.wijkrachtborne.nl/ontmoetingsmogelijkheden",
-      "https://www.wijkrachtborne.nl/ouderen/vrijwilligers"
+      "https://www.wijkrachtborne.nl/ouderen/vrijwilligers",
+      "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders"
     ],
-    "offerCount": 15,
+    "offerCount": 16,
     "reviewNeeded": 2,
-    "sourceBacked": 13,
+    "sourceBacked": 14,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -24844,43 +25356,44 @@
       },
       {
         "id": "candidate-3bf89bc92e8be805",
-        "title": "ANWB Automaatje",
-        "name": "Wijkracht Borne · ANWB Automaatje",
-        "description": "",
+        "title": "ANWB AutoMaatje",
+        "name": "Wijkracht Borne · ANWB AutoMaatje",
+        "description": "Vrijwilligers rijden minder mobiele inwoners uit Borne in hun eigen auto naar afspraken of activiteiten.",
         "municipality": "Borne",
         "municipalities": [
           "Borne"
         ],
-        "category": "vrijwillig",
+        "category": "vervoer",
         "themes": [
-          "vrijwillig",
           "vervoer"
         ],
         "subthemes": [
-          "vervoer"
+          "sociaal vervoer"
         ],
         "tags": [
-          "vrijwillig",
-          "vervoer"
+          "vervoer",
+          "automaatje",
+          "ouderen",
+          "vrijwilligers"
         ],
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+        "audience": "Inwoners van Borne die niet eenvoudig zelf vervoer kunnen regelen.",
+        "costs": "In 2026 €0,38 per kilometer plus eventuele parkeerkosten.",
+        "access": "Aanvragen via ANWB AutoMaatje Borne; het loket is op werkdagen bereikbaar vanuit het Sociaal Hus.",
         "source": "https://www.wijkrachtborne.nl/onze-diensten/volwassenen/anwb-automaatje",
         "sourceKind": "provider",
         "sourceTitle": "Wijkracht Borne",
-        "checked": "2026-09-15",
+        "checked": "2026-10-02",
         "reviewStatus": "review-needed",
-        "address": "Johannaweg 26",
-        "postcode": "7555CR",
-        "town": "Hengelo",
-        "lat": 52.26218618,
-        "lon": 6.77660084,
-        "locationType": "source-address",
-        "locationSource": "https://www.wijkrachtborne.nl/jmz",
-        "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "service-area",
-        "mapPin": false
+        "address": "De Haven 1a",
+        "postcode": "7622DH",
+        "town": "Borne",
+        "lat": 52.30216649,
+        "lon": 6.75804917,
+        "locationType": "visiting",
+        "locationSource": "https://www.wijkrachtborne.nl/onze-diensten/volwassenen/anwb-automaatje",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "candidate-ccffe23858300861",
@@ -25034,40 +25547,90 @@
         "mapPin": false
       },
       {
-        "id": "candidate-339491fe9dc52f8c",
-        "title": "Odensehuis",
-        "name": "Wijkracht Borne · Odensehuis",
-        "description": "",
+        "id": "extra-20261002-borne-mantelzorgcafe",
+        "title": "Mantelzorgcafé",
+        "name": "Wijkracht Borne · Mantelzorgcafé",
+        "description": "Maandelijks ontmoetings- en informatiemoment voor mantelzorgers.",
         "municipality": "Borne",
         "municipalities": [
           "Borne"
         ],
-        "category": "advies",
+        "category": "mantelzorg",
         "themes": [
-          "advies"
+          "mantelzorg",
+          "ontmoeten"
         ],
-        "subthemes": [],
+        "subthemes": [
+          "lotgenotencontact"
+        ],
         "tags": [
-          "advies"
+          "mantelzorg",
+          "ontmoeten",
+          "informatie",
+          "lotgenoten"
         ],
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "source": "https://www.wijkrachtborne.nl/onze-diensten/persoonlijke-ondersteuning/odensehuis",
-        "sourceKind": "provider",
-        "sourceTitle": "Wijkracht Borne",
-        "checked": "2026-09-15",
+        "audience": "Mantelzorgers in Borne.",
+        "costs": "Controleer de actuele kosten op de agenda.",
+        "access": "Iedere eerste donderdag van de maand volgens de actuele agenda.",
+        "source": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Johannaweg 26",
-        "postcode": "7555CR",
-        "town": "Hengelo",
-        "lat": 52.26218618,
-        "lon": 6.77660084,
-        "locationType": "source-address",
-        "locationSource": "https://www.wijkrachtborne.nl/jmz",
-        "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "service-area",
-        "mapPin": false
+        "address": "Esstraat 3",
+        "postcode": "7622CG",
+        "town": "Borne",
+        "lat": 52.30204499,
+        "lon": 6.75448676,
+        "locationType": "visiting",
+        "locationSource": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "candidate-339491fe9dc52f8c",
+        "title": "Odensehuis",
+        "name": "Wijkracht Borne · Odensehuis",
+        "description": "Wekelijkse ontmoetingsplek in De Spil voor mensen met beginnende dementie of geheugenklachten en hun naasten.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten",
+          "mantelzorg"
+        ],
+        "subthemes": [
+          "dementie",
+          "geheugen"
+        ],
+        "tags": [
+          "ontmoeten",
+          "dementie",
+          "geheugen",
+          "mantelzorg",
+          "zonder diagnose"
+        ],
+        "audience": "Volwassenen en senioren met beginnende dementie of geheugenklachten, met of zonder diagnose, en hun naasten.",
+        "costs": "Deelname inclusief lunch met een eigen bijdrage van €4,00 volgens de agenda van oktober 2026.",
+        "access": "Wekelijks op dinsdag; toegankelijk met of zonder diagnose.",
+        "source": "https://sociaalhus.nl/agenda/18824/odensehuis",
+        "sourceKind": "provider",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Deldensestraat 84",
+        "postcode": "7621EK",
+        "town": "Borne",
+        "lat": 52.29408615,
+        "lon": 6.74612156,
+        "locationType": "visiting",
+        "locationSource": "https://sociaalhus.nl/agenda/18824/odensehuis",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "candidate-4bf10ae8379b46fc",
@@ -25224,7 +25787,7 @@
         "id": "candidate-949a61a6c9069512",
         "title": "Sociaal Hus",
         "name": "Wijkracht Borne · Sociaal Hus",
-        "description": "",
+        "description": "Vrij toegankelijke plek voor vragen over welzijn, opvoeden, zorg, wonen, financiën, gezin, relatie, vrijwilligerswerk en meedoen.",
         "municipality": "Borne",
         "municipalities": [
           "Borne"
@@ -25233,28 +25796,37 @@
         "themes": [
           "advies"
         ],
-        "subthemes": [],
-        "tags": [
-          "advies"
+        "subthemes": [
+          "inloop",
+          "meedoen"
         ],
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "source": "https://www.wijkrachtborne.nl/sociaal-hus",
+        "tags": [
+          "advies",
+          "inloop",
+          "meedoen",
+          "welzijn",
+          "opvoeden",
+          "geld",
+          "wonen"
+        ],
+        "audience": "Inwoners van Borne, Hertme en Zenderen.",
+        "costs": "Gratis.",
+        "access": "Zonder verwijzing of indicatie. Vrije inloop maandag 16.00-18.30 en dinsdag t/m vrijdag 09.00-11.30.",
+        "source": "https://www.borne.nl/sociaal-hus",
         "sourceKind": "provider",
-        "sourceTitle": "Wijkracht Borne",
-        "checked": "2026-09-15",
+        "sourceTitle": "Gemeente Borne",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Johannaweg 26",
-        "postcode": "7555CR",
-        "town": "Hengelo",
-        "lat": 52.26218618,
-        "lon": 6.77660084,
-        "locationType": "source-address",
-        "locationSource": "https://www.wijkrachtborne.nl/jmz",
-        "locationMunicipality": "Hengelo (O)",
-        "mapLocationType": "service-area",
-        "mapPin": false
+        "address": "De Haven 1a",
+        "postcode": "7622DH",
+        "town": "Borne",
+        "lat": 52.30216649,
+        "lon": 6.75804917,
+        "locationType": "visiting",
+        "locationSource": "https://www.borne.nl/sociaal-hus",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "candidate-8055b343cd2fe4ed",
@@ -25336,15 +25908,15 @@
       }
     ],
     "location": {
-      "address": "Johannaweg 26",
-      "postcode": "7555CR",
-      "town": "Hengelo",
-      "lat": 52.26218618,
-      "lon": 6.77660084,
-      "locationMunicipality": "Hengelo (O)",
-      "locationType": "source-address",
-      "locationSource": "https://www.wijkrachtborne.nl/jmz",
-      "mapLocationType": "service-area"
+      "address": "De Haven 1a",
+      "postcode": "7622DH",
+      "town": "Borne",
+      "lat": 52.30216649,
+      "lon": 6.75804917,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://www.wijkrachtborne.nl/onze-diensten/volwassenen/anwb-automaatje",
+      "mapLocationType": "address"
     },
     "status": "review-needed",
     "primarySource": "https://www.wijkrachtborne.nl/ouderen/activiteiten-en-ontmoeting"
@@ -25392,11 +25964,12 @@
       "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/taalondersteuning",
       "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/vrijwilligerswerk",
       "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
-      "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/ziens"
+      "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/ziens",
+      "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp"
     ],
-    "offerCount": 28,
+    "offerCount": 30,
     "reviewNeeded": 4,
-    "sourceBacked": 24,
+    "sourceBacked": 26,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -25813,6 +26386,49 @@
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "service-area",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261002-hengelo-fit-weidedorp",
+        "title": "Fit met Weidedorp",
+        "name": "Wijkracht Hengelo · Fit met Weidedorp",
+        "description": "Laagdrempelige beweegactiviteit waarbij rekening wordt gehouden met ieders mogelijkheden.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "laagdrempelig bewegen"
+        ],
+        "tags": [
+          "bewegen",
+          "gratis",
+          "wijkhuys",
+          "fit",
+          "ontmoeten"
+        ],
+        "audience": "Iedereen die op eigen niveau wil bewegen.",
+        "costs": "Gratis.",
+        "access": "Opgeven is niet nodig.",
+        "source": "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkracht Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Curaçaostraat 10",
+        "postcode": "7556TM",
+        "town": "Hengelo",
+        "lat": 52.27074775,
+        "lon": 6.7819718,
+        "locationType": "visiting",
+        "locationSource": "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "candidate-8485b1bdaa7cd9e9",
@@ -26389,6 +27005,52 @@
         "mapPin": true
       },
       {
+        "id": "extra-20261002-hengelo-wijkhuys-weidedorp",
+        "title": "Wijkhuys Weidedorp",
+        "name": "Wijkracht Hengelo · Wijkhuys Weidedorp",
+        "description": "Een van de drie Wijkhuyzen in Hengelo: een vrij toegankelijke plek om te ontmoeten, ontspannen en ontwikkelen, met inloop en een activiteitenprogramma.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "wijkhuys",
+          "daginvulling",
+          "vrij toegankelijk"
+        ],
+        "tags": [
+          "ontmoeten",
+          "wijkhuys",
+          "daginvulling",
+          "inloop",
+          "activiteiten",
+          "LVB",
+          "senioren"
+        ],
+        "audience": "Inwoners van Hengelo, met extra aandacht voor mensen die een steuntje in de rug kunnen gebruiken.",
+        "costs": "Vrije inloop; losse activiteiten kunnen eigen kosten hebben.",
+        "access": "Vrij toegankelijk; maandag t/m donderdag 09.00-16.00 en vrijdag 09.00-13.00 volgens de bron.",
+        "source": "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkracht Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Curaçaostraat 10",
+        "postcode": "7556TM",
+        "town": "Hengelo",
+        "lat": 52.27074775,
+        "lon": 6.7819718,
+        "locationType": "visiting",
+        "locationSource": "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
         "id": "candidate-8b3e97fbf48c4a5b",
         "title": "Wijkhuyzen Hengelo",
         "name": "Wijkracht Hengelo · Wijkhuyzen Hengelo",
@@ -26468,12 +27130,175 @@
       "lat": 52.27074775,
       "lon": 6.7819718,
       "locationMunicipality": "Hengelo (O)",
-      "locationType": "service",
-      "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp",
       "mapLocationType": "service-area"
     },
     "status": "review-needed",
     "primarySource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/aanstaande-ouders-kansrijke-kaart"
+  },
+  {
+    "id": "org-wijkracht-ouderen-borne-15tvhym",
+    "organization": "Wijkracht Ouderen Borne",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.sociaalhus.nl/agenda/24218/ontmoetingsgroep-in-de-letterbak",
+      "https://sociaalhus.nl/agenda/ontmoeten",
+      "https://www.sociaalhus.nl/agenda/28400/koffie-proat-in-de-spil"
+    ],
+    "offerCount": 3,
+    "reviewNeeded": 0,
+    "sourceBacked": 3,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-borne-koffie-proat",
+        "title": "Koffie-proat in De Spil",
+        "name": "Wijkracht Ouderen Borne · Koffie-proat in De Spil",
+        "description": "Wekelijkse inloop om samen koffie te drinken en verhalen en herinneringen te delen.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "senioren"
+        ],
+        "tags": [
+          "ontmoeten",
+          "koffie",
+          "inloop",
+          "senioren",
+          "alleenstaanden"
+        ],
+        "audience": "Volwassenen, senioren en alleenstaanden.",
+        "costs": "Controleer eventuele consumptiekosten bij de organisator.",
+        "access": "Wekelijks op maandag van 10.00 tot 12.00 uur volgens de actuele agenda.",
+        "source": "https://www.sociaalhus.nl/agenda/28400/koffie-proat-in-de-spil",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Deldensestraat 84",
+        "postcode": "7621EK",
+        "town": "Borne",
+        "lat": 52.29408615,
+        "lon": 6.74612156,
+        "locationType": "visiting",
+        "locationSource": "https://www.sociaalhus.nl/agenda/28400/koffie-proat-in-de-spil",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-borne-ontmoeting-zondag",
+        "title": "Ontmoeting op zondag",
+        "name": "Wijkracht Ouderen Borne · Ontmoeting op zondag",
+        "description": "Wekelijks laagdrempelig ontmoetingsmoment op zondag, georganiseerd met Wijkracht Ouderen Borne, ABOB en Stichting Aandacht.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "senioren"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "zondag",
+          "inloop"
+        ],
+        "audience": "Volwassenen en senioren in Borne.",
+        "costs": "Controleer eventuele consumptiekosten bij de organisator.",
+        "access": "Wekelijks op zondag van 11.00 tot 13.00 uur volgens de agenda.",
+        "source": "https://sociaalhus.nl/agenda/ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Marktstraat 16a",
+        "postcode": "7622CR",
+        "town": "Borne",
+        "lat": 52.30148711,
+        "lon": 6.75907499,
+        "locationType": "visiting",
+        "locationSource": "https://sociaalhus.nl/agenda/ontmoeten",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-borne-letterbak",
+        "title": "Ontmoetingsgroep De Letterbak",
+        "name": "Wijkracht Ouderen Borne · Ontmoetingsgroep De Letterbak",
+        "description": "Wekelijkse open inloop voor senioren met gevarieerde activiteiten en een gezamenlijke warme lunch.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "senioren"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "inloop",
+          "activiteiten",
+          "samen eten"
+        ],
+        "audience": "Senioren in Borne.",
+        "costs": "Controleer de actuele bijdrage voor lunch of consumpties bij de organisator.",
+        "access": "Wekelijks op donderdag van 11.00 tot 15.00 uur; vrije inloop volgens de actuele agenda.",
+        "source": "https://www.sociaalhus.nl/agenda/24218/ontmoetingsgroep-in-de-letterbak",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Clematishof 6",
+        "postcode": "7621CV",
+        "town": "Borne",
+        "lat": 52.29411998,
+        "lon": 6.73850472,
+        "locationType": "visiting",
+        "locationSource": "https://www.sociaalhus.nl/agenda/24218/ontmoetingsgroep-in-de-letterbak",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Clematishof 6",
+      "postcode": "7621CV",
+      "town": "Borne",
+      "lat": 52.29411998,
+      "lon": 6.73850472,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://www.sociaalhus.nl/agenda/24218/ontmoetingsgroep-in-de-letterbak",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.sociaalhus.nl/agenda/24218/ontmoetingsgroep-in-de-letterbak"
   },
   {
     "id": "org-wijkteams-enschede-1abi5nx",

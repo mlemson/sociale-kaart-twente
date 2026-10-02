@@ -5843,7 +5843,13 @@
       "town": "Borne",
       "locationType": "visiting",
       "locationSource": "https://www.sociaalhus.nl/agenda/24218/ontmoetingsgroep-in-de-letterbak",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7621CV",
+      "lat": 52.29411998,
+      "lon": 6.73850472,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -5878,11 +5884,17 @@
       "description": "Wekelijks laagdrempelig ontmoetingsmoment op zondag, georganiseerd met Wijkracht Ouderen Borne, ABOB en Stichting Aandacht.",
       "access": "Wekelijks op zondag van 11.00 tot 13.00 uur volgens de agenda.",
       "costs": "Controleer eventuele consumptiekosten bij de organisator.",
-      "address": "Marktstraat 23",
+      "address": "Marktstraat 16a",
       "town": "Borne",
       "locationType": "visiting",
       "locationSource": "https://sociaalhus.nl/agenda/ontmoeten",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7622CR",
+      "lat": 52.30148711,
+      "lon": 6.75907499,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -5919,11 +5931,16 @@
       "access": "Wekelijks op maandag van 10.00 tot 12.00 uur volgens de actuele agenda.",
       "costs": "Controleer eventuele consumptiekosten bij de organisator.",
       "address": "Deldensestraat 84",
-      "postcode": "7621 EK",
+      "postcode": "7621EK",
       "town": "Borne",
       "locationType": "visiting",
       "locationSource": "https://www.sociaalhus.nl/agenda/28400/koffie-proat-in-de-spil",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.29408615,
+      "lon": 6.74612156,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -5959,11 +5976,17 @@
       "description": "Terugkerend laagdrempelig ontmoetingsmoment voor ouders en jonge kinderen.",
       "access": "Om de week op dinsdag van 10.00 tot 11.30 uur volgens de agenda.",
       "costs": "Controleer de actuele kosten op de agenda.",
-      "address": "Marktstraat 23",
+      "address": "Marktstraat 16a",
       "town": "Borne",
       "locationType": "visiting",
       "locationSource": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7622CR",
+      "lat": 52.30148711,
+      "lon": 6.75907499,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -6002,7 +6025,13 @@
       "town": "Borne",
       "locationType": "visiting",
       "locationSource": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7622CG",
+      "lat": 52.30204499,
+      "lon": 6.75448676,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -6029,9 +6058,9 @@
       "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
       "id": "extra-20261002-haaksbergen-senioren-de-kappen",
       "name": "Noaberpoort · Ontmoetingsactiviteit senioren De Kappen",
-      "address": "Blankenburgerstraat 40-42",
+      "address": "Blankenburgerstraat 42",
       "town": "Haaksbergen",
-      "postcode": "7481 EB",
+      "postcode": "7481EB",
       "tags": [
         "ontmoeten",
         "senioren",
@@ -6044,7 +6073,12 @@
       "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op maandag- en donderdagochtend.",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -6085,7 +6119,13 @@
       "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op dinsdag- en donderdagochtend.",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7482SE",
+      "lat": 52.169349,
+      "lon": 6.74673402,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -6113,7 +6153,7 @@
       "id": "extra-20261002-haaksbergen-senioren-meuken",
       "name": "Noaberpoort · Ontmoetingsactiviteit senioren ’t Meûken",
       "address": "Beckummerweg 11",
-      "town": "Sint Isidorushoeve",
+      "town": "Haaksbergen",
       "tags": [
         "ontmoeten",
         "senioren",
@@ -6126,7 +6166,13 @@
       "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op donderdagochtend.",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7482ST",
+      "lat": 52.17836566,
+      "lon": 6.70226589,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -6153,8 +6199,8 @@
       "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
       "id": "extra-20261002-haaksbergen-senioren-trefkoel",
       "name": "Noaberpoort · Ontmoetingsactiviteit senioren De Trefkoel",
-      "address": "De Noor 111",
-      "town": "Buurse",
+      "address": "de Noor 111",
+      "town": "Haaksbergen",
       "tags": [
         "ontmoeten",
         "senioren",
@@ -6167,7 +6213,13 @@
       "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op eerste en derde woensdag van de maand.",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7481RP",
+      "lat": 52.14610578,
+      "lon": 6.83268679,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -6208,7 +6260,13 @@
       "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op vrijdagochtend.",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7481VN",
+      "lat": 52.14724525,
+      "lon": 6.72786895,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -6243,12 +6301,17 @@
       "audience": "Iedereen die samen wil handwerken.",
       "access": "Iedere donderdag van 14.00 tot 16.00 uur; vrij binnenlopen volgens de Informatiewijzer.",
       "costs": "Controleer eventuele consumptiekosten bij de organisator.",
-      "address": "Blankenburgerstraat 40-42",
-      "postcode": "7481 EB",
+      "address": "Blankenburgerstraat 42",
+      "postcode": "7481EB",
       "town": "Haaksbergen",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -6285,12 +6348,17 @@
       "audience": "Zwangeren en ouders met kinderen van 0 tot 4 jaar.",
       "access": "Om de twee weken in Bibliotheek Haaksbergen; aanmelden is niet nodig.",
       "costs": "Gratis.",
-      "address": "Blankenburgerstraat 40-42",
-      "postcode": "7481 EB",
+      "address": "Blankenburgerstraat 42",
+      "postcode": "7481EB",
       "town": "Haaksbergen",
       "locationType": "visiting",
       "locationSource": "https://www.noaberpoort.nl/%2891362%29-Noaberpoort/Sociaal-Domein-Nieuws/Ouder-en-Kindcafe-september2026.html",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -6324,12 +6392,17 @@
       "audience": "Iedereen.",
       "access": "Woensdagochtend van 10.00 tot 11.30 uur volgens de Informatiewijzer.",
       "costs": "Gratis.",
-      "address": "Jhr. Von Heijdenstraat 8",
-      "postcode": "7481 ED",
+      "address": "Jhr.von Heijdenstraat 8",
+      "postcode": "7481ED",
       "town": "Haaksbergen",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.15416907,
+      "lon": 6.74339248,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -6369,11 +6442,16 @@
       "access": "Vrij toegankelijk; maandag t/m donderdag 09.00-16.00 en vrijdag 09.00-13.00 volgens de bron.",
       "costs": "Vrije inloop; losse activiteiten kunnen eigen kosten hebben.",
       "address": "Curaçaostraat 10",
-      "postcode": "7556 TM",
+      "postcode": "7556TM",
       "town": "Hengelo",
       "locationType": "visiting",
       "locationSource": "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.27074775,
+      "lon": 6.7819718,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -6410,11 +6488,16 @@
       "access": "Opgeven is niet nodig.",
       "costs": "Gratis.",
       "address": "Curaçaostraat 10",
-      "postcode": "7556 TM",
+      "postcode": "7556TM",
       "town": "Hengelo",
       "locationType": "visiting",
       "locationSource": "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.27074775,
+      "lon": 6.7819718,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,

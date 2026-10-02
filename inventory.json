@@ -7088,7 +7088,7 @@
       "accessStatus": "source-check",
       "access": "Zonder indicatie of diagnose toegankelijk; aanmelden is niet verplicht maar heeft de voorkeur.",
       "description": "Ontmoetingsplek voor mensen met beginnende dementie of geheugenklachten en hun naasten, met vrijblijvende activiteiten zoals samen koken, schilderen en spelletjes.",
-      "address": "Blankenburgerstraat 40-42",
+      "address": "Blankenburgerstraat 42",
       "town": "Haaksbergen",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
@@ -7135,12 +7135,17 @@
         ]
       },
       "primaryTheme": "ontmoeten",
-      "postcode": "7481 EB",
+      "postcode": "7481EB",
       "locationType": "visiting",
       "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/Odensehuis.html",
       "audience": "Mensen met beginnende dementie of geheugenklachten en hun naasten.",
       "costs": "Kleine bijdrage per bezoek voor consumpties en maaltijd/lunch; controleer het actuele bedrag op de bron.",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "candidate-ebdc403e97ad5593",
@@ -7348,7 +7353,7 @@
       "accessStatus": "source-check",
       "access": "Vrije inloop op maandag-, dinsdag- en donderdagochtend; geen verwijzing genoemd.",
       "description": "Vrije inloop met gezellige, leerzame, creatieve en ontspannende activiteiten voor inwoners die nieuwe contacten zoeken of weer actiever mee willen doen.",
-      "address": "Blankenburgerstraat 40-42",
+      "address": "Blankenburgerstraat 42",
       "town": "Haaksbergen",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
@@ -7400,12 +7405,17 @@
         ]
       },
       "primaryTheme": "mentaal",
-      "postcode": "7481 EB",
+      "postcode": "7481EB",
       "locationType": "visiting",
       "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/ZIENS.html",
       "audience": "Inwoners die nieuwe contacten zoeken of ondersteuning kunnen gebruiken bij actief meedoen.",
       "costs": "Kleine bijdrage; controleer het actuele tarief op de bron.",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "candidate-1ba3dd49a227de2c",
@@ -12110,7 +12120,7 @@
       "accessStatus": "source-check",
       "access": "Aanvragen via ANWB AutoMaatje Borne; het loket is op werkdagen bereikbaar vanuit het Sociaal Hus.",
       "description": "Vrijwilligers rijden minder mobiele inwoners uit Borne in hun eigen auto naar afspraken of activiteiten.",
-      "address": "De Haven 1",
+      "address": "De Haven 1a",
       "town": "Borne",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
@@ -12158,12 +12168,17 @@
         ]
       },
       "primaryTheme": "vervoer",
-      "postcode": "7622 DH",
+      "postcode": "7622DH",
       "locationType": "visiting",
       "locationSource": "https://www.wijkrachtborne.nl/onze-diensten/volwassenen/anwb-automaatje",
       "audience": "Inwoners van Borne die niet eenvoudig zelf vervoer kunnen regelen.",
       "costs": "In 2026 €0,38 per kilometer plus eventuele parkeerkosten.",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.30216649,
+      "lon": 6.75804917,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "candidate-ccffe23858300861",
@@ -12495,12 +12510,17 @@
         ]
       },
       "primaryTheme": "ontmoeten",
-      "postcode": "7621 EK",
+      "postcode": "7621EK",
       "locationType": "visiting",
       "locationSource": "https://sociaalhus.nl/agenda/18824/odensehuis",
       "audience": "Volwassenen en senioren met beginnende dementie of geheugenklachten, met of zonder diagnose, en hun naasten.",
       "costs": "Deelname inclusief lunch met een eigen bijdrage van €4,00 volgens de agenda van oktober 2026.",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.29408615,
+      "lon": 6.74612156,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "candidate-4bf10ae8379b46fc",
@@ -12783,7 +12803,7 @@
       "accessStatus": "source-check",
       "access": "Zonder verwijzing of indicatie. Vrije inloop maandag 16.00-18.30 en dinsdag t/m vrijdag 09.00-11.30.",
       "description": "Vrij toegankelijke plek voor vragen over welzijn, opvoeden, zorg, wonen, financiën, gezin, relatie, vrijwilligerswerk en meedoen.",
-      "address": "De Haven 1",
+      "address": "De Haven 1a",
       "town": "Borne",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
@@ -12830,12 +12850,17 @@
         ]
       },
       "primaryTheme": "advies",
-      "postcode": "7622 DH",
+      "postcode": "7622DH",
       "locationType": "visiting",
       "locationSource": "https://www.borne.nl/sociaal-hus",
       "audience": "Inwoners van Borne, Hertme en Zenderen.",
       "costs": "Gratis.",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.30216649,
+      "lon": 6.75804917,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "candidate-8055b343cd2fe4ed",
