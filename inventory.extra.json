@@ -621,7 +621,7 @@
       "access": "Maandelijkse inloop; bekijk de actuele datum bij ’t Zumpke.",
       "costs": "Controleer eventuele consumptiekosten bij de organisator.",
       "address": "Reggestraat 85",
-      "postcode": "7468 EJ",
+      "postcode": "7468EJ",
       "town": "Enter",
       "locationType": "visiting",
       "locationSource": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/",
@@ -629,7 +629,12 @@
       "guidePaths": [
         "zorg/mantelzorg",
         "ontmoeten/inloop"
-      ]
+      ],
+      "lat": 52.29359952,
+      "lon": 6.5805698,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -754,15 +759,20 @@
       "audience": "Inwoners van de betreffende gemeente.",
       "access": "Vrije inloop op vrijdag van 09.30 tot 11.30 uur volgens de actuele agenda.",
       "costs": "Gratis.",
-      "address": "Bendien Smitshof 38",
-      "postcode": "7642CH",
+      "address": "Bendien-Smitshof 38",
+      "postcode": "7442NV",
       "town": "Nijverdal",
       "locationType": "source-address",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
       "mapPin": false,
       "guidePaths": [
         "ontmoeten/inloop"
-      ]
+      ],
+      "lat": 52.36357273,
+      "lon": 6.45751026,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -6658,11 +6668,16 @@
       "access": "Iedere eerste dinsdag van de maand volgens de actuele agenda van De Welle.",
       "costs": "Gratis volgens de actuele agenda.",
       "address": "Reggestraat 85",
-      "postcode": "7468 EJ",
+      "postcode": "7468EJ",
       "town": "Enter",
       "locationType": "visiting",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.29359952,
+      "lon": 6.5805698,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -6700,11 +6715,17 @@
       "audience": "Inwoners die graag creatief bezig zijn en anderen willen ontmoeten.",
       "access": "Iedere vierde maandag van de maand van 09.30 tot 11.30 uur.",
       "costs": "€1,75 per keer via een deelnamekaart van 10 keer voor €17,50.",
-      "address": "Bendien Smitshof 38",
+      "address": "Bendien-Smitshof 38",
       "town": "Nijverdal",
       "locationType": "visiting",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/352",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7442NV",
+      "lat": 52.36357273,
+      "lon": 6.45751026,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -6742,11 +6763,17 @@
       "audience": "Inwoners die ondersteuning of oefening met computer en internet kunnen gebruiken.",
       "access": "Wekelijks op woensdagmiddag volgens de actuele agenda.",
       "costs": "€1,75 per keer volgens de actuele agenda.",
-      "address": "Nijkerkendijk 15",
+      "address": "Nijkerkendijk 15-B11",
       "town": "Nijverdal",
       "locationType": "visiting",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7442LR",
+      "lat": 52.36127548,
+      "lon": 6.46448552,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -6783,11 +6810,17 @@
       "audience": "Inwoners die graag samen met anderen willen eten.",
       "access": "Meerdere dagen per week volgens de actuele agenda.",
       "costs": "€7,25 per maaltijd volgens de actuele agenda.",
-      "address": "Nijkerkendijk 15",
+      "address": "Nijkerkendijk 15-B11",
       "town": "Nijverdal",
       "locationType": "visiting",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7442LR",
+      "lat": 52.36127548,
+      "lon": 6.46448552,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -6832,7 +6865,13 @@
       "town": "Nijverdal",
       "locationType": "visiting",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7443PS",
+      "lat": 52.37336055,
+      "lon": 6.45999551,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -6875,7 +6914,13 @@
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7576AC",
+      "lat": 52.31169866,
+      "lon": 6.91194275,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -6918,7 +6963,13 @@
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7574AL",
+      "lat": 52.3016685,
+      "lon": 6.93500986,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -6963,7 +7014,13 @@
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7571DV",
+      "lat": 52.31261419,
+      "lon": 6.92691476,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -7008,7 +7065,13 @@
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7571DV",
+      "lat": 52.31261419,
+      "lon": 6.92691476,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -7052,7 +7115,13 @@
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7574AL",
+      "lat": 52.3016685,
+      "lon": 6.93500986,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -7092,11 +7161,17 @@
       "audience": "Iedereen die samen met buurtgenoten wil bewegen.",
       "access": "Iedere donderdag om 10.00 uur; aanmelden via Impuls.",
       "costs": "Gratis.",
-      "address": "Ada Kokstraat",
+      "address": "Ada Kokstraat 20-TR",
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/soofi-bewegen-en-ontmoeten/",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "",
+      "lat": 52.31052578,
+      "lon": 6.91609592,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -7141,7 +7216,13 @@
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7571CE",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
