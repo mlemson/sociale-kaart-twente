@@ -5715,6 +5715,89 @@
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
   },
   {
+    "id": "org-buurt-en-speeltuinvereniging-de-jeugd-us28gy",
+    "organization": "Buurt- en Speeltuinvereniging De Jeugd",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "jeugd",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hengelo-de-jeugd",
+        "title": "buurtactiviteiten",
+        "name": "Buurt- en Speeltuinvereniging De Jeugd · buurtactiviteiten",
+        "description": "Buurt- en speeltuinvereniging in Hengelo-Zuid met activiteiten en ontmoeting voor buurtbewoners.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "jeugd",
+          "gezinnen",
+          "buurt",
+          "ontmoeten",
+          "Hengelo"
+        ],
+        "guidePaths": [
+          "onderwijs/jongeren",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Kinderen, gezinnen en buurtbewoners.",
+        "costs": "Afhankelijk van de activiteit.",
+        "access": "Bekijk het actuele programma bij de vereniging.",
+        "openingHours": "",
+        "phone": "074 291 7546",
+        "email": "dejeugd@home.nl",
+        "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Anthoniusstraat 52",
+        "postcode": "7553WE",
+        "town": "Hengelo",
+        "lat": 52.25521901,
+        "lon": 6.79443313,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Anthoniusstraat 52",
+      "postcode": "7553WE",
+      "town": "Hengelo",
+      "lat": 52.25521901,
+      "lon": 6.79443313,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
+  },
+  {
     "id": "org-buurtbemiddeling-wierden-uhm64j",
     "organization": "Buurtbemiddeling Wierden",
     "municipalities": [
@@ -15976,6 +16059,87 @@
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
   },
   {
+    "id": "org-inloophuis-hengelo-cf16mh",
+    "organization": "Inloophuis Hengelo",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hengelo-inloophuis",
+        "title": "ontmoeting en luisterend oor",
+        "name": "Inloophuis Hengelo · ontmoeting en luisterend oor",
+        "description": "Warme laagdrempelige inloop voor iedereen die behoefte heeft aan ontspanning, ontmoeting of een luisterend oor; er zijn koffie, thee en op sommige momenten een gratis lunch.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "inloop",
+          "luisterend oor",
+          "ontmoeten",
+          "gratis lunch",
+          "Hengelo"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "mentaal/welzijn"
+        ],
+        "guideExclude": false,
+        "audience": "Iedereen die behoefte heeft aan contact, rust of een luisterend oor.",
+        "costs": "Koffie en thee zijn laagdrempelig; de laatste zondag van de maand is er volgens de Informatiewijzer een gratis lunch.",
+        "access": "Vrije inloop volgens de actuele openingstijden.",
+        "openingHours": "",
+        "phone": "06 1820 9581",
+        "email": "info@inloophuishengelo.nl",
+        "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "de Wetstraat 29",
+        "postcode": "7551GA",
+        "town": "Hengelo",
+        "lat": 52.26576074,
+        "lon": 6.79636071,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "de Wetstraat 29",
+      "postcode": "7551GA",
+      "town": "Hengelo",
+      "lat": 52.26576074,
+      "lon": 6.79636071,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
+  },
+  {
     "id": "org-inlooppunt-de-open-deur-15mg6al",
     "organization": "Inlooppunt - De Open Deur",
     "municipalities": [
@@ -19793,6 +19957,83 @@
     "primarySource": "https://enschede.nivon.nl/agenda/"
   },
   {
+    "id": "org-nivon-hengelo-1wm670l",
+    "organization": "Nivon Hengelo",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hengelo-nivon",
+        "title": "activiteiten en ontmoeting",
+        "name": "Nivon Hengelo · activiteiten en ontmoeting",
+        "description": "Breed sociaal en recreatief activiteitenaanbod rond cultuur, natuur, vrijetijdsbesteding en ontmoeting; kennismaken kan zonder directe contributieverplichting.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "ontmoeten",
+          "Hengelo"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Volwassenen die anderen willen ontmoeten of samen activiteiten willen ondernemen.",
+        "costs": "Tijdens de snuffelperiode betaal je alleen de bijdrage voor de activiteit.",
+        "access": "Volgens de Informatiewijzer is een snuffelperiode mogelijk zonder contributieverplichting.",
+        "openingHours": "",
+        "phone": "",
+        "email": "nivon074@gmail.com",
+        "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Lodewijkstraat 1",
+        "postcode": "7553LB",
+        "town": "Hengelo",
+        "lat": 52.25330286,
+        "lon": 6.79930407,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Lodewijkstraat 1",
+      "postcode": "7553LB",
+      "town": "Hengelo",
+      "lat": 52.25330286,
+      "lon": 6.79930407,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+  },
+  {
     "id": "org-noaberpoort-1ynn51m",
     "organization": "Noaberpoort",
     "municipalities": [
@@ -21409,6 +21650,83 @@
       "town": "Hengelo",
       "lat": 52.25832412,
       "lon": 6.80923935,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+  },
+  {
+    "id": "org-ontmoetingsruimte-vossenburcht-i6jz0c",
+    "organization": "Ontmoetingsruimte Vossenburcht",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hengelo-vossenburcht",
+        "title": "buurtactiviteiten",
+        "name": "Ontmoetingsruimte Vossenburcht · buurtactiviteiten",
+        "description": "Ontmoetingsruimte in Hengelo-Noord met terugkerende activiteiten, waaronder een maandelijkse bingomiddag.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "ontmoeten",
+          "Hengelo"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners die laagdrempelig anderen willen ontmoeten.",
+        "costs": "Niet vermeld; controleer per activiteit.",
+        "access": "Activiteiten volgens de actuele Informatiewijzer.",
+        "openingHours": "",
+        "phone": "088 945 5722",
+        "email": "",
+        "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Straatsburg 170",
+        "postcode": "7559NM",
+        "town": "Hengelo",
+        "lat": 52.29500096,
+        "lon": 6.80670781,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Straatsburg 170",
+      "postcode": "7559NM",
+      "town": "Hengelo",
+      "lat": 52.29500096,
+      "lon": 6.80670781,
       "locationMunicipality": "Hengelo (O)",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
@@ -36134,6 +36452,83 @@
       "town": "Hengelo",
       "lat": 52.27554192,
       "lon": 6.79233313,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+  },
+  {
+    "id": "org-wooncentrum-t-voskamp-jmzuoq",
+    "organization": "Wooncentrum 't Voskamp",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hengelo-voskamp",
+        "title": "ontmoetingsgroep en koffie",
+        "name": "Wooncentrum 't Voskamp · ontmoetingsgroep en koffie",
+        "description": "Ontmoetingsgroep en koffieochtend met onder meer biljart, bridge, scrabble, sjoelen en kaarten.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "ontmoeten",
+          "Hengelo"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Met name oudere inwoners en buurtbewoners.",
+        "costs": "Niet vermeld; controleer bij de activiteit.",
+        "access": "Dinsdagmiddag ontmoetingsgroep en donderdagochtend koffie volgens de actuele Informatiewijzer.",
+        "openingHours": "",
+        "phone": "088 945 5722",
+        "email": "",
+        "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Carl Muckstraat 21",
+        "postcode": "7558EX",
+        "town": "Hengelo",
+        "lat": 52.28451127,
+        "lon": 6.83064879,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Carl Muckstraat 21",
+      "postcode": "7558EX",
+      "town": "Hengelo",
+      "lat": 52.28451127,
+      "lon": 6.83064879,
       "locationMunicipality": "Hengelo (O)",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",

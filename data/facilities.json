@@ -3115,6 +3115,47 @@
     "catalogOrganizationId": "org-bij-mozart-1lib7zh"
   },
   {
+    "id": "offer-extra-20261002-hengelo-de-jeugd",
+    "name": "Buurt- en Speeltuinvereniging De Jeugd · buurtactiviteiten",
+    "category": "jeugd",
+    "address": "Anthoniusstraat 52",
+    "postcode": "7553WE",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.25521901,
+    "lon": 6.79443313,
+    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+    "checked": "2026-10-02",
+    "tags": [
+      "jeugd",
+      "gezinnen",
+      "buurt",
+      "ontmoeten",
+      "Hengelo"
+    ],
+    "subthemes": [],
+    "guidePaths": [
+      "onderwijs/jongeren",
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Buurt- en speeltuinvereniging in Hengelo-Zuid met activiteiten en ontmoeting voor buurtbewoners.",
+    "audience": "Kinderen, gezinnen en buurtbewoners.",
+    "costs": "Afhankelijk van de activiteit.",
+    "access": "Bekijk het actuele programma bij de vereniging.",
+    "openingHours": "",
+    "phone": "074 291 7546",
+    "email": "dejeugd@home.nl",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-buurt-en-speeltuinvereniging-de-jeugd-us28gy"
+  },
+  {
     "id": "offer-c-20261002-carint-backenhagen",
     "name": "Carintreggeland Backenhagen · wijkactiviteiten en ontmoeting",
     "category": "ontmoeten",
@@ -5624,6 +5665,47 @@
     "catalogOrganizationId": "org-informatiewijzer-hengelo-1gn59de"
   },
   {
+    "id": "offer-extra-20261002-hengelo-inloophuis",
+    "name": "Inloophuis Hengelo · ontmoeting en luisterend oor",
+    "category": "ontmoeten",
+    "address": "de Wetstraat 29",
+    "postcode": "7551GA",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.26576074,
+    "lon": 6.79636071,
+    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+    "checked": "2026-10-02",
+    "tags": [
+      "inloop",
+      "luisterend oor",
+      "ontmoeten",
+      "gratis lunch",
+      "Hengelo"
+    ],
+    "subthemes": [],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "mentaal/welzijn"
+    ],
+    "guideExclude": false,
+    "description": "Warme laagdrempelige inloop voor iedereen die behoefte heeft aan ontspanning, ontmoeting of een luisterend oor; er zijn koffie, thee en op sommige momenten een gratis lunch.",
+    "audience": "Iedereen die behoefte heeft aan contact, rust of een luisterend oor.",
+    "costs": "Koffie en thee zijn laagdrempelig; de laatste zondag van de maand is er volgens de Informatiewijzer een gratis lunch.",
+    "access": "Vrije inloop volgens de actuele openingstijden.",
+    "openingHours": "",
+    "phone": "06 1820 9581",
+    "email": "info@inloophuishengelo.nl",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-inloophuis-hengelo-cf16mh"
+  },
+  {
     "id": "offer-candidate-729433f217b2a499",
     "name": "Ixta Noa Praktijkhuis Enschede · inloop en herstelondersteuning",
     "category": "mentaal",
@@ -6264,6 +6346,43 @@
     "catalogOrganizationId": "org-nivon-enschede-c5rgu0"
   },
   {
+    "id": "offer-extra-20261002-hengelo-nivon",
+    "name": "Nivon Hengelo · activiteiten en ontmoeting",
+    "category": "ontmoeten",
+    "address": "Lodewijkstraat 1",
+    "postcode": "7553LB",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.25330286,
+    "lon": 6.79930407,
+    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "Hengelo"
+    ],
+    "subthemes": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Breed sociaal en recreatief activiteitenaanbod rond cultuur, natuur, vrijetijdsbesteding en ontmoeting; kennismaken kan zonder directe contributieverplichting.",
+    "audience": "Volwassenen die anderen willen ontmoeten of samen activiteiten willen ondernemen.",
+    "costs": "Tijdens de snuffelperiode betaal je alleen de bijdrage voor de activiteit.",
+    "access": "Volgens de Informatiewijzer is een snuffelperiode mogelijk zonder contributieverplichting.",
+    "openingHours": "",
+    "phone": "",
+    "email": "nivon074@gmail.com",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-nivon-hengelo-1wm670l"
+  },
+  {
     "id": "offer-candidate-222caea85e36dd65",
     "name": "Noaberpoort · Odensehuis",
     "category": "ontmoeten",
@@ -6828,6 +6947,43 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-ontmoetingsruimte-de-schoof-uhkj1v"
+  },
+  {
+    "id": "offer-extra-20261002-hengelo-vossenburcht",
+    "name": "Ontmoetingsruimte Vossenburcht · buurtactiviteiten",
+    "category": "ontmoeten",
+    "address": "Straatsburg 170",
+    "postcode": "7559NM",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.29500096,
+    "lon": 6.80670781,
+    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "Hengelo"
+    ],
+    "subthemes": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Ontmoetingsruimte in Hengelo-Noord met terugkerende activiteiten, waaronder een maandelijkse bingomiddag.",
+    "audience": "Inwoners die laagdrempelig anderen willen ontmoeten.",
+    "costs": "Niet vermeld; controleer per activiteit.",
+    "access": "Activiteiten volgens de actuele Informatiewijzer.",
+    "openingHours": "",
+    "phone": "088 945 5722",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-ontmoetingsruimte-vossenburcht-i6jz0c"
   },
   {
     "id": "offer-candidate-20261002-power-centrum-oost",
@@ -9972,6 +10128,43 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+  },
+  {
+    "id": "offer-extra-20261002-hengelo-voskamp",
+    "name": "Wooncentrum 't Voskamp · ontmoetingsgroep en koffie",
+    "category": "ontmoeten",
+    "address": "Carl Muckstraat 21",
+    "postcode": "7558EX",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.28451127,
+    "lon": 6.83064879,
+    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "Hengelo"
+    ],
+    "subthemes": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Ontmoetingsgroep en koffieochtend met onder meer biljart, bridge, scrabble, sjoelen en kaarten.",
+    "audience": "Met name oudere inwoners en buurtbewoners.",
+    "costs": "Niet vermeld; controleer bij de activiteit.",
+    "access": "Dinsdagmiddag ontmoetingsgroep en donderdagochtend koffie volgens de actuele Informatiewijzer.",
+    "openingHours": "",
+    "phone": "088 945 5722",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wooncentrum-t-voskamp-jmzuoq"
   },
   {
     "id": "offer-extra-20261002-zorgadvies-twente-dagopvang-zonder-indicatie",

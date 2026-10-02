@@ -10417,7 +10417,7 @@
         "mentaal/welzijn"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-inloophuis",
@@ -10432,7 +10432,11 @@
       "postcode": "7551GA",
       "town": "Hengelo",
       "phone": "06 1820 9581",
-      "email": "info@inloophuishengelo.nl"
+      "email": "info@inloophuishengelo.nl",
+      "lat": 52.26576074,
+      "lon": 6.79636071,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10457,7 +10461,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-vossenburcht",
@@ -10471,7 +10475,11 @@
       "address": "Straatsburg 170",
       "postcode": "7559NM",
       "town": "Hengelo",
-      "phone": "088 945 5722"
+      "phone": "088 945 5722",
+      "lat": 52.29500096,
+      "lon": 6.80670781,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10496,7 +10504,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-voskamp",
@@ -10510,7 +10518,11 @@
       "address": "Carl Muckstraat 21",
       "postcode": "7558EX",
       "town": "Hengelo",
-      "phone": "088 945 5722"
+      "phone": "088 945 5722",
+      "lat": 52.28451127,
+      "lon": 6.83064879,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10540,7 +10552,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-de-jeugd",
@@ -10555,7 +10567,11 @@
       "postcode": "7553WE",
       "town": "Hengelo",
       "phone": "074 291 7546",
-      "email": "dejeugd@home.nl"
+      "email": "dejeugd@home.nl",
+      "lat": 52.25521901,
+      "lon": 6.79443313,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10580,7 +10596,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-nivon",
@@ -10594,7 +10610,11 @@
       "address": "Lodewijkstraat 1",
       "postcode": "7553LB",
       "town": "Hengelo",
-      "email": "nivon074@gmail.com"
+      "email": "nivon074@gmail.com",
+      "lat": 52.25330286,
+      "lon": 6.79930407,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
