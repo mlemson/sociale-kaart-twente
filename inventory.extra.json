@@ -1027,48 +1027,6 @@
       "accessStatus": "source-check",
       "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
       "status": "candidate",
-      "id": "extra-20261002-salut-omgaan-met-dementie",
-      "name": "Salut · Omgaan met dementie",
-      "source": "https://salut-welzijn.nl/trainingen-cursussen/",
-      "sourceTitle": "Salut",
-      "municipalities": [
-        "Hof van Twente"
-      ],
-      "municipality": "Hof van Twente",
-      "category": "mantelzorg",
-      "primaryTheme": "mantelzorg",
-      "themes": [
-        "mantelzorg"
-      ],
-      "subthemes": [
-        "voorliggend"
-      ],
-      "tags": [
-        "mantelzorg",
-        "gratis",
-        "training"
-      ],
-      "description": "Gratis groepstraining over herkennen van dementie en praktisch omgaan met situaties.",
-      "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
-      "access": "Rechtstreeks via Salut; controleer actuele startdata.",
-      "costs": "Gratis.",
-      "address": "Grotestraat 86",
-      "postcode": "7471BR",
-      "town": "Goor",
-      "lat": 52.23293368,
-      "lon": 6.58569353,
-      "locationMunicipality": "Hof van Twente",
-      "locationType": "source-address",
-      "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
       "id": "extra-20261002-salut-iedereen-doet-mee-dementievriendelijk",
       "name": "Salut · Iedereen doet mee - dementievriendelijk",
       "source": "https://salut-welzijn.nl/trainingen-cursussen/",
@@ -1336,53 +1294,6 @@
       "accessStatus": "source-check",
       "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
       "status": "candidate",
-      "id": "extra-20261002-fundament-taalpunt-losser",
-      "name": "Fundament Losser · Taalpunt Losser",
-      "source": "https://www.fundamentlosser.nl/agenda/",
-      "sourceTitle": "Fundament Losser",
-      "municipalities": [
-        "Losser"
-      ],
-      "municipality": "Losser",
-      "category": "taal",
-      "primaryTheme": "taal",
-      "themes": [
-        "taal"
-      ],
-      "subthemes": [
-        "laagdrempelig"
-      ],
-      "tags": [
-        "ontmoeten",
-        "daginvulling",
-        "taal"
-      ],
-      "description": "Hulp bij Nederlands spreken, lezen en schrijven en digitale basisvaardigheden.",
-      "audience": "Inwoners van de gemeente Losser.",
-      "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
-      "costs": "Laagdrempelig; controleer eventuele bijdrage.",
-      "address": "Raadhuisplein 1",
-      "postcode": "7581AG",
-      "town": "Losser",
-      "locationType": "service",
-      "locationSource": "https://www.fundamentlosser.nl/agenda/",
-      "mapPin": true,
-      "lat": 52.26284211,
-      "lon": 7.00588809,
-      "locationMunicipality": "Losser",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01",
-      "guidePaths": [
-        "taal/nederlands",
-        "taal/basis"
-      ]
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
       "id": "extra-20261002-fundament-kidsplay",
       "name": "Fundament Losser · Kidsplay",
       "source": "https://www.fundamentlosser.nl/agenda/",
@@ -1421,93 +1332,6 @@
       "guidePaths": [
         "onderwijs/jongeren"
       ]
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
-      "id": "extra-20261002-fundament-maaklab",
-      "name": "Fundament Losser · MaakLab",
-      "source": "https://www.fundamentlosser.nl/agenda/",
-      "sourceTitle": "Fundament Losser",
-      "municipalities": [
-        "Losser"
-      ],
-      "municipality": "Losser",
-      "category": "jeugd",
-      "primaryTheme": "jeugd",
-      "themes": [
-        "jeugd"
-      ],
-      "subthemes": [
-        "terugkerende activiteit"
-      ],
-      "tags": [
-        "jeugd",
-        "activiteit",
-        "ontmoeten"
-      ],
-      "description": "Wekelijkse maakactiviteit met onder meer 3D-printer, lasersnijder en micro:bits.",
-      "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
-      "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
-      "costs": "Controleer de actuele activiteit.",
-      "address": "Raadhuisplein 1",
-      "postcode": "7581AG",
-      "town": "Losser",
-      "lat": 52.26284211,
-      "lon": 7.00588809,
-      "locationMunicipality": "Losser",
-      "locationType": "contact",
-      "locationSource": "https://www.fundamentlosser.nl/contact/",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01",
-      "guidePaths": [
-        "onderwijs/jongeren"
-      ]
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
-      "id": "extra-20261002-fundament-digitaal-inloopcaf-",
-      "name": "Fundament Losser · Digitaal inloopcafé",
-      "source": "https://www.fundamentlosser.nl/agenda/",
-      "sourceTitle": "Fundament Losser",
-      "municipalities": [
-        "Losser"
-      ],
-      "municipality": "Losser",
-      "category": "taal",
-      "primaryTheme": "taal",
-      "themes": [
-        "taal"
-      ],
-      "subthemes": [
-        "terugkerende activiteit"
-      ],
-      "tags": [
-        "taal",
-        "activiteit",
-        "ontmoeten"
-      ],
-      "description": "Inloop voor vragen over tablet, smartphone, laptop en digitale zaken.",
-      "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
-      "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
-      "costs": "Controleer de actuele activiteit.",
-      "address": "Raadhuisplein 1",
-      "postcode": "7581AG",
-      "town": "Losser",
-      "lat": 52.26284211,
-      "lon": 7.00588809,
-      "locationMunicipality": "Losser",
-      "locationType": "contact",
-      "locationSource": "https://www.fundamentlosser.nl/contact/",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -1683,55 +1507,6 @@
       "mapPin": true,
       "lat": 52.25817303,
       "lon": 6.7758793,
-      "locationMunicipality": "Hengelo (O)",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01",
-      "guidePaths": [
-        "ontmoeten/inloop",
-        "meedoen/daginvulling"
-      ]
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
-      "id": "extra-20261002-wijkracht-wijkhuys-weidedorp",
-      "name": "Wijkracht Hengelo · Wijkhuys Weidedorp",
-      "source": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
-      "sourceTitle": "Wijkracht",
-      "municipalities": [
-        "Hengelo"
-      ],
-      "municipality": "Hengelo",
-      "category": "ontmoeten",
-      "primaryTheme": "ontmoeten",
-      "themes": [
-        "ontmoeten"
-      ],
-      "subthemes": [
-        "vrij toegankelijke voorziening",
-        "daginvulling"
-      ],
-      "tags": [
-        "ontmoeten",
-        "wijkhuys",
-        "daginvulling",
-        "vrij toegankelijk"
-      ],
-      "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
-      "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
-      "access": "Vrij toegankelijk; vraag naar het actuele programma.",
-      "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
-      "address": "Curaçaostraat 10",
-      "postcode": "7556TM",
-      "town": "Hengelo",
-      "locationType": "service",
-      "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
-      "mapPin": true,
-      "lat": 52.27074775,
-      "lon": 6.7819718,
       "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "addressChecked": "2026-10-01",
@@ -2246,48 +2021,6 @@
       "accessStatus": "source-check",
       "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
       "status": "candidate",
-      "id": "extra-20261002-zorgsaam-koffiekamer",
-      "name": "ZorgSaam Twenterand · Koffiekamer",
-      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
-      "sourceTitle": "ZorgSaam Twenterand",
-      "municipalities": [
-        "Twenterand"
-      ],
-      "municipality": "Twenterand",
-      "category": "ontmoeten",
-      "primaryTheme": "ontmoeten",
-      "themes": [
-        "ontmoeten"
-      ],
-      "subthemes": [
-        "activiteit"
-      ],
-      "tags": [
-        "ontmoeten",
-        "activiteit",
-        "ontmoeten"
-      ],
-      "description": "Laagdrempelige ontmoetingsplek voor een praatje en afleiding.",
-      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
-      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
-      "costs": "Controleer de actuele bijdrage.",
-      "address": "Burgemeester Koetjestraat 2",
-      "postcode": "7681ZP",
-      "town": "Vroomshoop",
-      "lat": 52.45816146,
-      "lon": 6.56844898,
-      "locationMunicipality": "Twenterand",
-      "locationType": "source-address",
-      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
       "id": "extra-20261002-zorgsaam-instuif",
       "name": "ZorgSaam Twenterand · Instuif",
       "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
@@ -2326,132 +2059,6 @@
       "guidePaths": [
         "ontmoeten/inloop"
       ]
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
-      "id": "extra-20261002-zorgsaam-kakelklup",
-      "name": "ZorgSaam Twenterand · Kakelklup",
-      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
-      "sourceTitle": "ZorgSaam Twenterand",
-      "municipalities": [
-        "Twenterand"
-      ],
-      "municipality": "Twenterand",
-      "category": "ontmoeten",
-      "primaryTheme": "ontmoeten",
-      "themes": [
-        "ontmoeten"
-      ],
-      "subthemes": [
-        "activiteit"
-      ],
-      "tags": [
-        "ontmoeten",
-        "activiteit",
-        "ontmoeten"
-      ],
-      "description": "Gezellige club voor mensen met een verstandelijke beperking.",
-      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
-      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
-      "costs": "Controleer de actuele bijdrage.",
-      "address": "Burgemeester Koetjestraat 2",
-      "postcode": "7681ZP",
-      "town": "Vroomshoop",
-      "lat": 52.45816146,
-      "lon": 6.56844898,
-      "locationMunicipality": "Twenterand",
-      "locationType": "source-address",
-      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
-      "id": "extra-20261002-zorgsaam-fietsclub",
-      "name": "ZorgSaam Twenterand · Fietsclub",
-      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
-      "sourceTitle": "ZorgSaam Twenterand",
-      "municipalities": [
-        "Twenterand"
-      ],
-      "municipality": "Twenterand",
-      "category": "bewegen",
-      "primaryTheme": "bewegen",
-      "themes": [
-        "bewegen"
-      ],
-      "subthemes": [
-        "activiteit"
-      ],
-      "tags": [
-        "bewegen",
-        "activiteit",
-        "ontmoeten"
-      ],
-      "description": "Wekelijks samen fietsen in een gemoedelijke sfeer.",
-      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
-      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
-      "costs": "Controleer de actuele bijdrage.",
-      "address": "Burgemeester Koetjestraat 2",
-      "postcode": "7681ZP",
-      "town": "Vroomshoop",
-      "lat": 52.45816146,
-      "lon": 6.56844898,
-      "locationMunicipality": "Twenterand",
-      "locationType": "source-address",
-      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
-      "id": "extra-20261002-zorgsaam-keep-fit",
-      "name": "ZorgSaam Twenterand · Keep Fit",
-      "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
-      "sourceTitle": "ZorgSaam Twenterand",
-      "municipalities": [
-        "Twenterand"
-      ],
-      "municipality": "Twenterand",
-      "category": "bewegen",
-      "primaryTheme": "bewegen",
-      "themes": [
-        "bewegen"
-      ],
-      "subthemes": [
-        "activiteit"
-      ],
-      "tags": [
-        "bewegen",
-        "activiteit",
-        "ontmoeten"
-      ],
-      "description": "Beweegactiviteit voor senioren met aandacht voor fit blijven en ontmoeting.",
-      "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
-      "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
-      "costs": "Controleer de actuele bijdrage.",
-      "address": "Burgemeester Koetjestraat 2",
-      "postcode": "7681ZP",
-      "town": "Vroomshoop",
-      "lat": 52.45816146,
-      "lon": 6.56844898,
-      "locationMunicipality": "Twenterand",
-      "locationType": "source-address",
-      "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
     },
     {
       "sourceKind": "first-party",
@@ -4155,156 +3762,6 @@
       "accessStatus": "source-check",
       "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
       "status": "candidate",
-      "id": "extra-20261002-familiehuis-mama-papa-caf-",
-      "name": "Familiehuis Enschede-West · Mama & Papa Café",
-      "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "sourceTitle": "Gemeente Enschede",
-      "municipalities": [
-        "Enschede"
-      ],
-      "municipality": "Enschede",
-      "category": "jeugd",
-      "primaryTheme": "jeugd",
-      "themes": [
-        "jeugd"
-      ],
-      "subthemes": [
-        "ouders",
-        "jonge kinderen"
-      ],
-      "tags": [
-        "jeugd",
-        "ouders",
-        "kinderen",
-        "gratis",
-        "training",
-        "inloop"
-      ],
-      "description": "Dagelijkse laagdrempelige koffie-inloop voor ouders met jonge kinderen.",
-      "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
-      "access": "Vrije inloop of deelname volgens het actuele programma.",
-      "costs": "Gratis.",
-      "address": "Noordhollandstraat 4",
-      "postcode": "7543WB",
-      "town": "Enschede",
-      "locationType": "visiting",
-      "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "mapPin": false,
-      "lat": 52.20502893,
-      "lon": 6.88230934,
-      "locationMunicipality": "Enschede",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01",
-      "guidePaths": [
-        "onderwijs/opvoeden"
-      ]
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
-      "id": "extra-20261002-familiehuis-ontmoetingsgroepen-ouders",
-      "name": "Familiehuis Enschede-West · Ontmoetingsgroepen ouders",
-      "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "sourceTitle": "Gemeente Enschede",
-      "municipalities": [
-        "Enschede"
-      ],
-      "municipality": "Enschede",
-      "category": "jeugd",
-      "primaryTheme": "jeugd",
-      "themes": [
-        "jeugd"
-      ],
-      "subthemes": [
-        "ouders",
-        "jonge kinderen"
-      ],
-      "tags": [
-        "jeugd",
-        "ouders",
-        "kinderen",
-        "gratis",
-        "training",
-        "inloop"
-      ],
-      "description": "Gratis groepen voor ouders om ervaringen over opvoeding te delen, inclusief kinderopvang.",
-      "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
-      "access": "Vrije inloop of deelname volgens het actuele programma.",
-      "costs": "Gratis.",
-      "address": "Noordhollandstraat 4",
-      "postcode": "7543WB",
-      "town": "Enschede",
-      "locationType": "visiting",
-      "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "mapPin": false,
-      "lat": 52.20502893,
-      "lon": 6.88230934,
-      "locationMunicipality": "Enschede",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01",
-      "guidePaths": [
-        "onderwijs/opvoeden"
-      ]
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
-      "id": "extra-20261002-familiehuis-speelhoes",
-      "name": "Familiehuis Enschede-West · Speelhoes",
-      "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "sourceTitle": "Gemeente Enschede",
-      "municipalities": [
-        "Enschede"
-      ],
-      "municipality": "Enschede",
-      "category": "jeugd",
-      "primaryTheme": "jeugd",
-      "themes": [
-        "jeugd"
-      ],
-      "subthemes": [
-        "ouders",
-        "jonge kinderen"
-      ],
-      "tags": [
-        "jeugd",
-        "ouders",
-        "kinderen",
-        "gratis",
-        "training",
-        "inloop"
-      ],
-      "description": "Gratis speelinloop voor ouders met kinderen van ongeveer 6 maanden tot 4 jaar.",
-      "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
-      "access": "Vrije inloop of deelname volgens het actuele programma.",
-      "costs": "Gratis.",
-      "address": "Noordhollandstraat 4",
-      "postcode": "7543WB",
-      "town": "Enschede",
-      "locationType": "visiting",
-      "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "mapPin": false,
-      "lat": 52.20502893,
-      "lon": 6.88230934,
-      "locationMunicipality": "Enschede",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01",
-      "guidePaths": [
-        "onderwijs/opvoeden"
-      ]
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
       "id": "extra-20261002-familiehuis-gratis-familierechtspreekuur",
       "name": "Familiehuis Enschede-West · Gratis familierechtspreekuur",
       "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
@@ -4347,57 +3804,6 @@
       "addressChecked": "2026-10-01",
       "guidePaths": [
         "recht/juridisch",
-        "veiligheid/relaties"
-      ]
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
-      "id": "extra-20261002-familiehuis-houd-me-vast-training",
-      "name": "Familiehuis Enschede-West · Houd me vast training",
-      "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "sourceTitle": "Gemeente Enschede",
-      "municipalities": [
-        "Enschede"
-      ],
-      "municipality": "Enschede",
-      "category": "jeugd",
-      "primaryTheme": "jeugd",
-      "themes": [
-        "jeugd"
-      ],
-      "subthemes": [
-        "ouders",
-        "jonge kinderen"
-      ],
-      "tags": [
-        "jeugd",
-        "ouders",
-        "kinderen",
-        "gratis",
-        "training",
-        "inloop"
-      ],
-      "description": "Acht bijeenkomsten voor stellen met jonge kinderen, gericht op verbinding en communicatie binnen de relatie.",
-      "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
-      "access": "Aanmelden via Wijkteams Enschede.",
-      "costs": "Controleer de actuele voorwaarden.",
-      "address": "Noordhollandstraat 4",
-      "postcode": "7543WB",
-      "town": "Enschede",
-      "locationType": "visiting",
-      "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
-      "mapPin": false,
-      "lat": 52.20502893,
-      "lon": 6.88230934,
-      "locationMunicipality": "Enschede",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01",
-      "guidePaths": [
-        "onderwijs/opvoeden",
         "veiligheid/relaties"
       ]
     },
@@ -6803,14 +6209,16 @@
         "ontmoeten"
       ],
       "subthemes": [
-        "wijkhuys",
+        "vrij toegankelijke voorziening",
         "daginvulling",
+        "wijkhuys",
         "vrij toegankelijk"
       ],
       "tags": [
         "ontmoeten",
         "wijkhuys",
         "daginvulling",
+        "vrij toegankelijk",
         "inloop",
         "activiteiten",
         "LVB",
@@ -6819,22 +6227,23 @@
       "description": "Een van de drie Wijkhuyzen in Hengelo: een vrij toegankelijke plek om te ontmoeten, ontspannen en ontwikkelen, met inloop en een activiteitenprogramma.",
       "audience": "Inwoners van Hengelo, met extra aandacht voor mensen die een steuntje in de rug kunnen gebruiken.",
       "access": "Vrij toegankelijk; maandag t/m donderdag 09.00-16.00 en vrijdag 09.00-13.00 volgens de bron.",
-      "costs": "Vrije inloop; losse activiteiten kunnen eigen kosten hebben.",
+      "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
       "address": "Curaçaostraat 10",
       "postcode": "7556TM",
       "town": "Hengelo",
-      "locationType": "visiting",
+      "locationType": "service",
       "locationSource": "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp",
       "mapPin": true,
       "lat": 52.27074775,
       "lon": 6.7819718,
       "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02",
+      "addressChecked": "2026-10-01",
       "guidePaths": [
         "ontmoeten/inloop",
         "meedoen/daginvulling"
-      ]
+      ],
+      "guideExclude": false
     },
     {
       "sourceKind": "first-party",
@@ -7422,57 +6831,6 @@
       "postcode": "",
       "lat": 52.31052578,
       "lon": 6.91609592,
-      "locationMunicipality": "Oldenzaal",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
-    },
-    {
-      "sourceKind": "first-party",
-      "checked": "2026-10-02",
-      "accessStatus": "source-check",
-      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
-      "status": "candidate",
-      "id": "extra-20261002-oldenzaal-creatief-cafe",
-      "name": "Impuls · Creatief Café",
-      "source": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
-      "sourceTitle": "Impuls Oldenzaal",
-      "municipalities": [
-        "Oldenzaal"
-      ],
-      "municipality": "Oldenzaal",
-      "category": "ontmoeten",
-      "primaryTheme": "ontmoeten",
-      "themes": [
-        "ontmoeten"
-      ],
-      "subthemes": [
-        "creatief",
-        "daginvulling"
-      ],
-      "tags": [
-        "creatief",
-        "schilderen",
-        "tekenen",
-        "haken",
-        "breien",
-        "naaien",
-        "ontmoeten"
-      ],
-      "guidePaths": [
-        "meedoen/daginvulling"
-      ],
-      "description": "Creatieve inloop om samen te tekenen, schilderen, breien, haken, naaien of met een andere eigen hobby bezig te zijn.",
-      "audience": "Inwoners die graag creatief bezig zijn en anderen willen ontmoeten.",
-      "access": "Iedere even maandag van de maand van 09.30 tot 12.00 uur.",
-      "costs": "€3,50 per keer inclusief koffie/thee en iets lekkers.",
-      "address": "Wilhelminastraat 5",
-      "town": "Oldenzaal",
-      "locationType": "visiting",
-      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
-      "mapPin": true,
-      "postcode": "7571CE",
-      "lat": 52.31188249,
-      "lon": 6.93145973,
       "locationMunicipality": "Oldenzaal",
       "mapLocationType": "address",
       "addressChecked": "2026-10-02"
