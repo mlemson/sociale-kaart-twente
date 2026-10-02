@@ -24620,11 +24620,14 @@
       "address": "Woolderesweg 53",
       "postcode": "7555LH",
       "town": "Hengelo",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "locationType": "visiting",
       "locationSource": "https://www.carintreggeland.nl/Content/UserContent/Documents/locations/2/640/D-378-1221-%20Carintreggeland%20Huis%20Het%20Woolde%20LR.pdf",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.2673171,
+      "lon": 6.77647563,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
