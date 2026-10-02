@@ -937,7 +937,8 @@
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guideExclude": true
     },
     {
       "id": "candidate-9a03ced55118b34f",
@@ -997,7 +998,8 @@
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guideExclude": true
     },
     {
       "id": "candidate-7145f1748801d4cd",
@@ -2410,7 +2412,8 @@
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326812/invis2/cosbo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guideExclude": true
     },
     {
       "id": "candidate-5f514cd2841a42d2",
@@ -2470,7 +2473,8 @@
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326812/invis2/cosbo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guideExclude": true
     },
     {
       "id": "candidate-5c0ca1e533635046",
@@ -4450,7 +4454,8 @@
       "locationMunicipality": "Almelo",
       "locationType": "contact",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guideExclude": true
     },
     {
       "id": "candidate-2c0d64b522ae4fb7",
@@ -4510,7 +4515,8 @@
       "locationMunicipality": "Almelo",
       "locationType": "contact",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guideExclude": true
     },
     {
       "id": "candidate-f1dce9c8d1b85661",
@@ -4570,7 +4576,8 @@
       "locationMunicipality": "Almelo",
       "locationType": "contact",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guideExclude": true
     },
     {
       "id": "candidate-9c2fc61c149feb1d",
@@ -4630,7 +4637,8 @@
       "locationMunicipality": "Hengelo (O)",
       "locationType": "source-address",
       "locationSource": "https://www.humanitas.nl/afdeling/twente/",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guideExclude": true
     },
     {
       "id": "candidate-57200ab3d718aae1",
@@ -6141,7 +6149,10 @@
       "locationMunicipality": "Almelo",
       "locationType": "contact",
       "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "id": "candidate-f63edf8c2892bc24",
@@ -10539,7 +10550,8 @@
       "locationMunicipality": "Wierden",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220582/invis2/stichting-de-welle",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guideExclude": true
     },
     {
       "id": "candidate-f45c5e10fe6cd019",
@@ -10855,7 +10867,8 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197659/invis2/stichting-teripang",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guideExclude": true
     },
     {
       "id": "candidate-fcafbad14806f46d",
@@ -24619,7 +24632,10 @@
       "locationMunicipality": "Hengelo (O)",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
