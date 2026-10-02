@@ -27124,7 +27124,12 @@
       "description": "Gratis spreekuur voor inwoners die beter willen worden in lezen, schrijven, Nederlands spreken of digitaal meedoen.",
       "audience": "Volwassenen in Enschede met vragen over taal, lezen, schrijven of digitaal meedoen.",
       "access": "Binnenlopen tijdens het Taalspreekuur of contact opnemen met Huis voor Taal & Meedoen.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -27164,7 +27169,12 @@
       ],
       "description": "Spreekuur voor inwoners die willen kijken welke activiteiten, leertrajecten of vrijwilligerswerk bij hen passen.",
       "audience": "Volwassen inwoners van Enschede die actiever willen meedoen of vrijwilligerswerk zoeken.",
-      "access": "Vrije inloop tijdens de gepubliceerde spreekuren."
+      "access": "Vrije inloop tijdens de gepubliceerde spreekuren.",
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -27205,7 +27215,12 @@
       "description": "Workshop over digitale zorg, het medisch dossier en het patiëntenportaal van huisarts of ziekenhuis.",
       "audience": "Volwassenen die meer vertrouwen willen krijgen in digitale zorg.",
       "access": "Reserveren via de bibliotheek of telefonisch aanmelden.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -27243,7 +27258,12 @@
       ],
       "description": "In kleine groepjes oefenen met Nederlands lezen en schrijven onder begeleiding van een vrijwilliger.",
       "audience": "Volwassenen die al wat Nederlands kunnen lezen en schrijven en dit verder willen verbeteren.",
-      "access": "Bekijk de actuele momenten in de agenda van de bibliotheek."
+      "access": "Bekijk de actuele momenten in de agenda van de bibliotheek.",
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -27282,7 +27302,12 @@
       ],
       "description": "Taalcafé waar vrouwen samen Nederlands spreken oefenen en andere vrouwen ontmoeten.",
       "audience": "Vrouwen die hun gesproken Nederlands willen verbeteren.",
-      "access": "Bekijk de actuele momenten in de agenda van de bibliotheek."
+      "access": "Bekijk de actuele momenten in de agenda van de bibliotheek.",
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -27323,7 +27348,12 @@
       "description": "Wekelijkse groep voor ontmoeting, persoonlijke groei, zelfvertrouwen en elkaar versterken.",
       "audience": "Vrouwen die behoefte hebben aan herkenning, persoonlijke groei, ondersteuning en een sociaal netwerk.",
       "access": "Aanmelden kan bij SIVE / Alifa; kinderen mogen mee.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -27363,7 +27393,12 @@
       "description": "Praktische cursus over zelfstandig reizen met bus en trein en het gebruiken van reisinformatie.",
       "audience": "Volwassenen die zekerder willen worden in reizen met het openbaar vervoer.",
       "access": "Reserveren via de bibliotheek.",
-      "costs": "Gratis."
+      "costs": "Gratis.",
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     }
   ],
   "sources": [

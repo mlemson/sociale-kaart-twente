@@ -8634,6 +8634,39 @@
     "catalogOrganizationId": "org-seniorweb-almelo-x8bp5x"
   },
   {
+    "id": "catalog-org-sive-alifa-3ecn10",
+    "name": "SIVE / Alifa",
+    "category": "taal",
+    "address": "Pijpenstraat 15",
+    "postcode": "7511GM",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.21910175,
+    "lon": 6.89338546,
+    "source": "https://bibliotheekenschede.op-shop.nl/",
+    "checked": "2026-10-02",
+    "tags": [
+      "taal",
+      "ontmoeten",
+      "mentaal"
+    ],
+    "subthemes": [],
+    "description": "Locatie voor SIVE / Alifa. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Vrouwen die behoefte hebben aan herkenning, persoonlijke groei, ondersteuning en een sociaal netwerk.",
+    "costs": "Gratis.",
+    "access": "Aanmelden kan bij SIVE / Alifa; kinderen mogen mee.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+    "mapLocationType": "address",
+    "catalogOrganizationId": "org-sive-alifa-3ecn10"
+  },
+  {
     "id": "catalog-org-slachtofferhulp-nederland-19vn0ru",
     "name": "Slachtofferhulp Nederland",
     "category": "advies",

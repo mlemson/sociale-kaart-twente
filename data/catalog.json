@@ -3445,14 +3445,17 @@
       "Enschede"
     ],
     "categories": [
-      "taal"
+      "taal",
+      "advies",
+      "vervoer"
     ],
     "sources": [
-      "https://bibliotheekenschede.op-shop.nl/"
+      "https://bibliotheekenschede.op-shop.nl/",
+      "https://bibliotheekenschede.op-shop.nl/9149/digivitaler/16-09-2026"
     ],
-    "offerCount": 5,
+    "offerCount": 8,
     "reviewNeeded": 0,
-    "sourceBacked": 5,
+    "sourceBacked": 8,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
@@ -3499,6 +3502,49 @@
         "mapPin": true
       },
       {
+        "id": "candidate-20261002-bibliotheek-ov-cursus",
+        "title": "cursus reizen met het OV",
+        "name": "Bibliotheek Enschede-Haaksbergen · cursus reizen met het OV",
+        "description": "Praktische cursus over zelfstandig reizen met bus en trein en het gebruiken van reisinformatie.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "vervoer",
+        "themes": [
+          "vervoer",
+          "taal"
+        ],
+        "subthemes": [
+          "openbaar vervoer",
+          "zelfstandig reizen",
+          "digitaal"
+        ],
+        "tags": [
+          "vervoer",
+          "OV",
+          "digitaal"
+        ],
+        "audience": "Volwassenen die zekerder willen worden in reizen met het openbaar vervoer.",
+        "costs": "Gratis.",
+        "access": "Reserveren via de bibliotheek.",
+        "source": "https://bibliotheekenschede.op-shop.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Bibliotheek Enschede-Haaksbergen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Pijpenstraat 15",
+        "postcode": "7511GM",
+        "town": "Enschede",
+        "lat": 52.21910175,
+        "lon": 6.89338546,
+        "locationType": "visiting",
+        "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-20261002-bieb-enschede-digisterker",
         "title": "Digisterker",
         "name": "Bibliotheek Enschede-Haaksbergen · Digisterker",
@@ -3525,6 +3571,50 @@
         "costs": "Gratis aanbod; controleer de actuele activiteit.",
         "access": "Bekijk de actuele agenda; voor sommige cursussen is aanmelden nodig.",
         "source": "https://bibliotheekenschede.op-shop.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Bibliotheek Enschede-Haaksbergen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Pijpenstraat 15",
+        "postcode": "7511GM",
+        "town": "Enschede",
+        "lat": 52.21910175,
+        "lon": 6.89338546,
+        "locationType": "visiting",
+        "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-bibliotheek-digivitaler",
+        "title": "DigiVitaler",
+        "name": "Bibliotheek Enschede-Haaksbergen · DigiVitaler",
+        "description": "Workshop over digitale zorg, het medisch dossier en het patiëntenportaal van huisarts of ziekenhuis.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "advies"
+        ],
+        "subthemes": [
+          "digitale zorg",
+          "patiëntenportaal",
+          "digitale vaardigheden"
+        ],
+        "tags": [
+          "taal",
+          "digitaal",
+          "zorg",
+          "computer"
+        ],
+        "audience": "Volwassenen die meer vertrouwen willen krijgen in digitale zorg.",
+        "costs": "Gratis.",
+        "access": "Reserveren via de bibliotheek of telefonisch aanmelden.",
+        "source": "https://bibliotheekenschede.op-shop.nl/9149/digivitaler/16-09-2026",
         "sourceKind": "first-party",
         "sourceTitle": "Bibliotheek Enschede-Haaksbergen",
         "checked": "2026-10-02",
@@ -3608,6 +3698,48 @@
         "audience": "Inwoners die taal- of digitale vaardigheden willen oefenen.",
         "costs": "Gratis aanbod; controleer de actuele activiteit.",
         "access": "Bekijk de actuele agenda; voor sommige cursussen is aanmelden nodig.",
+        "source": "https://bibliotheekenschede.op-shop.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Bibliotheek Enschede-Haaksbergen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Pijpenstraat 15",
+        "postcode": "7511GM",
+        "town": "Enschede",
+        "lat": 52.21910175,
+        "lon": 6.89338546,
+        "locationType": "visiting",
+        "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-bibliotheek-lees-schrijfhuis",
+        "title": "Lees- en Schrijfhuis",
+        "name": "Bibliotheek Enschede-Haaksbergen · Lees- en Schrijfhuis",
+        "description": "In kleine groepjes oefenen met Nederlands lezen en schrijven onder begeleiding van een vrijwilliger.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal"
+        ],
+        "subthemes": [
+          "lezen",
+          "schrijven",
+          "oefenen"
+        ],
+        "tags": [
+          "taal",
+          "lezen",
+          "schrijven"
+        ],
+        "audience": "Volwassenen die al wat Nederlands kunnen lezen en schrijven en dit verder willen verbeteren.",
+        "costs": "",
+        "access": "Bekijk de actuele momenten in de agenda van de bibliotheek.",
         "source": "https://bibliotheekenschede.op-shop.nl/",
         "sourceKind": "first-party",
         "sourceTitle": "Bibliotheek Enschede-Haaksbergen",
@@ -9363,17 +9495,64 @@
       "Enschede"
     ],
     "categories": [
-      "taal"
+      "taal",
+      "advies",
+      "vrijwillig"
     ],
     "sources": [
-      "https://www.huisvoortaalenmeedoen.nl/"
+      "https://www.huisvoortaalenmeedoen.nl/",
+      "https://www.kenniscentrum.m-pact.nl/huis-voor-taal-en-meedoen"
     ],
-    "offerCount": 1,
+    "offerCount": 3,
     "reviewNeeded": 0,
-    "sourceBacked": 1,
+    "sourceBacked": 3,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
+      {
+        "id": "candidate-20261002-huis-taal-meedoen-spreekuur",
+        "title": "Meedoen-spreekuur",
+        "name": "Huis voor Taal & Meedoen · Meedoen-spreekuur",
+        "description": "Spreekuur voor inwoners die willen kijken welke activiteiten, leertrajecten of vrijwilligerswerk bij hen passen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "vrijwillig",
+          "taal"
+        ],
+        "subthemes": [
+          "meedoen",
+          "vrijwilligerswerk",
+          "ontwikkeling"
+        ],
+        "tags": [
+          "advies",
+          "vrijwillig",
+          "meedoen"
+        ],
+        "audience": "Volwassen inwoners van Enschede die actiever willen meedoen of vrijwilligerswerk zoeken.",
+        "costs": "",
+        "access": "Vrije inloop tijdens de gepubliceerde spreekuren.",
+        "source": "https://www.kenniscentrum.m-pact.nl/huis-voor-taal-en-meedoen",
+        "sourceKind": "first-party",
+        "sourceTitle": "Huis voor Taal & Meedoen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Pijpenstraat 15",
+        "postcode": "7511GM",
+        "town": "Enschede",
+        "lat": 52.21910175,
+        "lon": 6.89338546,
+        "locationType": "visiting",
+        "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "candidate-20261002-huis-taal-meedoen",
         "title": "taal- en digitale hulp",
@@ -9419,6 +9598,49 @@
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": true
+      },
+      {
+        "id": "candidate-20261002-huis-taal-taalspreekuur",
+        "title": "Taalspreekuur",
+        "name": "Huis voor Taal & Meedoen · Taalspreekuur",
+        "description": "Gratis spreekuur voor inwoners die beter willen worden in lezen, schrijven, Nederlands spreken of digitaal meedoen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "advies"
+        ],
+        "subthemes": [
+          "lezen",
+          "schrijven",
+          "Nederlands"
+        ],
+        "tags": [
+          "taal",
+          "advies",
+          "spreekuur"
+        ],
+        "audience": "Volwassenen in Enschede met vragen over taal, lezen, schrijven of digitaal meedoen.",
+        "costs": "Gratis.",
+        "access": "Binnenlopen tijdens het Taalspreekuur of contact opnemen met Huis voor Taal & Meedoen.",
+        "source": "https://www.huisvoortaalenmeedoen.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Huis voor Taal & Meedoen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Pijpenstraat 15",
+        "postcode": "7511GM",
+        "town": "Enschede",
+        "lat": 52.21910175,
+        "lon": 6.89338546,
+        "locationType": "visiting",
+        "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
       }
     ],
     "location": {
@@ -9429,7 +9651,7 @@
       "lon": 6.89338546,
       "locationMunicipality": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.huisvoortaalenmeedoen.nl/",
+      "locationSource": "https://bibliotheekenschede.op-shop.nl/",
       "mapLocationType": "address"
     },
     "status": "source-backed",
@@ -18737,6 +18959,129 @@
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326816/invis2/seniorweb-almelo"
+  },
+  {
+    "id": "org-sive-alifa-3ecn10",
+    "organization": "SIVE / Alifa",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "taal",
+      "ontmoeten",
+      "mentaal"
+    ],
+    "sources": [
+      "https://bibliotheekenschede.op-shop.nl/",
+      "https://www.alifa.nl/dienst/115/steun-empowermentgroep-voor-vrouwen"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 0,
+    "sourceBacked": 2,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "candidate-20261002-sive-empowerment",
+        "title": "Steun- en Empowermentgroep",
+        "name": "SIVE / Alifa · Steun- en Empowermentgroep",
+        "description": "Wekelijkse groep voor ontmoeting, persoonlijke groei, zelfvertrouwen en elkaar versterken.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "persoonlijke groei",
+          "zelfvertrouwen",
+          "netwerk"
+        ],
+        "tags": [
+          "mentaal",
+          "ontmoeten",
+          "vrouwen",
+          "zelfvertrouwen"
+        ],
+        "audience": "Vrouwen die behoefte hebben aan herkenning, persoonlijke groei, ondersteuning en een sociaal netwerk.",
+        "costs": "Gratis.",
+        "access": "Aanmelden kan bij SIVE / Alifa; kinderen mogen mee.",
+        "source": "https://www.alifa.nl/dienst/115/steun-empowermentgroep-voor-vrouwen",
+        "sourceKind": "first-party",
+        "sourceTitle": "SIVE / Alifa",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Pijpenstraat 15",
+        "postcode": "7511GM",
+        "town": "Enschede",
+        "lat": 52.21910175,
+        "lon": 6.89338546,
+        "locationType": "visiting",
+        "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "candidate-20261002-sive-taalcafe-vrouwen",
+        "title": "Taalcafé voor vrouwen",
+        "name": "SIVE / Alifa · Taalcafé voor vrouwen",
+        "description": "Taalcafé waar vrouwen samen Nederlands spreken oefenen en andere vrouwen ontmoeten.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "Nederlands spreken",
+          "vrouwen",
+          "taalcafé"
+        ],
+        "tags": [
+          "taal",
+          "ontmoeten",
+          "vrouwen"
+        ],
+        "audience": "Vrouwen die hun gesproken Nederlands willen verbeteren.",
+        "costs": "",
+        "access": "Bekijk de actuele momenten in de agenda van de bibliotheek.",
+        "source": "https://bibliotheekenschede.op-shop.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "SIVE / Alifa",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Pijpenstraat 15",
+        "postcode": "7511GM",
+        "town": "Enschede",
+        "lat": 52.21910175,
+        "lon": 6.89338546,
+        "locationType": "visiting",
+        "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Pijpenstraat 15",
+      "postcode": "7511GM",
+      "town": "Enschede",
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://bibliotheekenschede.op-shop.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://bibliotheekenschede.op-shop.nl/"
   },
   {
     "id": "org-slachtofferhulp-nederland-19vn0ru",
