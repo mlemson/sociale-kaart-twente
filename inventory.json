@@ -26593,7 +26593,7 @@
       "access": "Iedere maandag 14.00-16.30 uur; inwoners kunnen laagdrempelig aansluiten.",
       "costs": "Controleer actuele bijdrage.",
       "address": "Brinkstraat 6",
-      "postcode": "7681ZP",
+      "postcode": "7683BN",
       "town": "Den Ham",
       "locationMunicipality": "Twenterand",
       "locationType": "visiting",
@@ -26602,7 +26602,10 @@
       "guidePaths": [
         "ontmoeten/inloop"
       ],
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.46350489,
+      "lon": 6.49471061,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",

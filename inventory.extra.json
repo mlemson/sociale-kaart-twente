@@ -13108,7 +13108,11 @@
         "buurthuiskamer",
         "wijk",
         "activiteiten"
-      ]
+      ],
+      "lat": 52.29933586,
+      "lon": 6.51831106,
+      "locationSource": "https://viaviewelzijn.nl/events/recreatiebridge/?occurrence=2026-09-18",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -13154,7 +13158,12 @@
       "subthemes": [
         "Nederlands",
         "taalcafé"
-      ]
+      ],
+      "postcode": "7462CE",
+      "lat": 52.30043418,
+      "lon": 6.5180879,
+      "locationSource": "https://viaviewelzijn.nl/taalpunt/",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "extra-20261003-twenterand-kerkenwinkeltje",
@@ -13200,7 +13209,12 @@
       "town": "Westerhaar-Vriezenveensewijk",
       "locationType": "visiting",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7676BP",
+      "lat": 52.461602,
+      "lon": 6.62265463,
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/het-kerkenwinkeltje-westerhaar/",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "extra-20261003-oldenzaal-alzheimer-cafe-rouwhorst",
@@ -13247,7 +13261,12 @@
       "town": "Oldenzaal",
       "locationType": "visiting",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7572AA",
+      "lat": 52.31583838,
+      "lon": 6.93030845,
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/alzheimercafe/",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,

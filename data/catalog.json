@@ -2134,6 +2134,93 @@
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/327294/invis2/almelo-voor-elkaar"
   },
   {
+    "id": "org-alzheimer-cafe-oldenzaal-1u2eopb",
+    "organization": "Alzheimer Café Oldenzaal",
+    "municipalities": [
+      "Oldenzaal"
+    ],
+    "categories": [
+      "mantelzorg",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.impuls-oldenzaal.nl/agenda/alzheimercafe/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-oldenzaal-alzheimer-cafe-rouwhorst",
+        "title": "Rouwhorst",
+        "name": "Alzheimer Café Oldenzaal · Rouwhorst",
+        "description": "Informeel trefpunt voor mensen met dementie, naasten, hulpverleners en andere belangstellenden met informatie, ontmoeting en uitwisseling van ervaringen.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "mantelzorg",
+        "themes": [
+          "mantelzorg",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "dementie",
+          "lotgenoten",
+          "informatie"
+        ],
+        "tags": [
+          "dementie",
+          "mantelzorg",
+          "lotgenoten",
+          "Alzheimer Café",
+          "Oldenzaal"
+        ],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg"
+        ],
+        "guideExclude": false,
+        "audience": "Mensen met dementie, partners, familie, vrienden, hulpverleners en belangstellenden.",
+        "costs": "Gratis toegankelijk.",
+        "access": "Zes avonden per jaar; aanmelden is niet nodig, bezoekers kunnen zo binnenlopen.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.impuls-oldenzaal.nl/agenda/alzheimercafe/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls Oldenzaal",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Ootmarsumsestraat 9",
+        "postcode": "7572AA",
+        "town": "Oldenzaal",
+        "lat": 52.31583838,
+        "lon": 6.93030845,
+        "locationType": "visiting",
+        "locationSource": "https://www.impuls-oldenzaal.nl/agenda/alzheimercafe/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Ootmarsumsestraat 9",
+      "postcode": "7572AA",
+      "town": "Oldenzaal",
+      "lat": 52.31583838,
+      "lon": 6.93030845,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/alzheimercafe/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.impuls-oldenzaal.nl/agenda/alzheimercafe/"
+  },
+  {
     "id": "org-alzheimer-trefpunt-almelo-lgc7vu",
     "organization": "Alzheimer Trefpunt Almelo",
     "municipalities": [
@@ -13590,6 +13677,91 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.herbergdepol.nl/"
+  },
+  {
+    "id": "org-het-kerkenwinkeltje-westerhaar-27f2fr",
+    "organization": "Het Kerkenwinkeltje Westerhaar",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://www.zorgsaamtwenterand.nl/activiteiten/het-kerkenwinkeltje-westerhaar/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-twenterand-kerkenwinkeltje",
+        "title": "kleding, huisraad en voedsel",
+        "name": "Het Kerkenwinkeltje Westerhaar · kleding, huisraad en voedsel",
+        "description": "Laagdrempelige voorziening waar inwoners terechtkunnen voor kleding, huisraad, schoonmaakartikelen, verzorgingsproducten en voedsel.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "kleding",
+          "huisraad",
+          "voedsel",
+          "praktische hulp"
+        ],
+        "tags": [
+          "praktische hulp",
+          "kleding",
+          "huisraad",
+          "voedsel",
+          "Westerhaar"
+        ],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Twenterand die praktische ondersteuning met basisbehoeften nodig hebben.",
+        "costs": "Laagdrempelige hulp; op de bron staat geen reguliere toegangsprijs vermeld.",
+        "access": "Maandag 09.30-11.30 uur en donderdag 12.30-14.30 uur; vrijdagavond uitgifte van verse producten.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.zorgsaamtwenterand.nl/activiteiten/het-kerkenwinkeltje-westerhaar/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Wollegrasstraat 8",
+        "postcode": "7676BP",
+        "town": "Westerhaar-Vriezenveensewijk",
+        "lat": 52.461602,
+        "lon": 6.62265463,
+        "locationType": "visiting",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/het-kerkenwinkeltje-westerhaar/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Wollegrasstraat 8",
+      "postcode": "7676BP",
+      "town": "Westerhaar-Vriezenveensewijk",
+      "lat": 52.461602,
+      "lon": 6.62265463,
+      "locationMunicipality": "Twenterand",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/het-kerkenwinkeltje-westerhaar/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.zorgsaamtwenterand.nl/activiteiten/het-kerkenwinkeltje-westerhaar/"
   },
   {
     "id": "org-het-noaberhuus-hellendoorn-iapdqg",
@@ -33001,11 +33173,13 @@
       "https://viaviewelzijn.nl/events/buurthuiskamer-de-elshof/",
       "https://viaviewelzijn.nl/events/buurthuiskamer-de-haarschool-137/",
       "https://viaviewelzijn.nl/events/soos-voor-senioren-657-495/",
-      "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234/"
+      "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234/",
+      "https://viaviewelzijn.nl/events/recreatiebridge/?occurrence=2026-09-18",
+      "https://viaviewelzijn.nl/taalpunt/"
     ],
-    "offerCount": 25,
+    "offerCount": 27,
     "reviewNeeded": 0,
-    "sourceBacked": 25,
+    "sourceBacked": 27,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -33245,6 +33419,55 @@
         "lon": 6.4197451,
         "locationType": "visiting",
         "locationSource": "https://viaviewelzijn.nl/events/buurthuiskamer-hmv/",
+        "locationMunicipality": "Rijssen-Holten",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261003-rijssen-kern-van-zuid",
+        "title": "Buurthuiskamer Kern van Zuid",
+        "name": "ViaVie Welzijn · Buurthuiskamer Kern van Zuid",
+        "description": "Buurthuiskamer in Rijssen met terugkerende sociale activiteiten, inloopspreekuren, recreatiebridge, BuurtBand en naschoolse activiteiten.",
+        "municipality": "Rijssen-Holten",
+        "municipalities": [
+          "Rijssen-Holten"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "buurthuiskamer",
+          "wijk",
+          "activiteiten"
+        ],
+        "tags": [
+          "ontmoeten",
+          "Rijssen-Holten"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Buurtbewoners van alle leeftijden; activiteiten verschillen per moment.",
+        "costs": "Verschilt per activiteit; een deel van het aanbod is gratis.",
+        "access": "Bekijk de actuele agenda; meerdere activiteiten zijn vrije inloop of gratis.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://viaviewelzijn.nl/events/recreatiebridge/?occurrence=2026-09-18",
+        "sourceKind": "first-party",
+        "sourceTitle": "ViaVie Welzijn",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Johannes Vermeerstraat 8",
+        "postcode": "7462BN",
+        "town": "Rijssen",
+        "lat": 52.29933586,
+        "lon": 6.51831106,
+        "locationType": "visiting",
+        "locationSource": "https://viaviewelzijn.nl/events/recreatiebridge/?occurrence=2026-09-18",
         "locationMunicipality": "Rijssen-Holten",
         "mapLocationType": "address",
         "mapPin": true
@@ -33805,6 +34028,58 @@
         "locationMunicipality": "Rijssen-Holten",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261003-rijssen-taalcafe-zuid",
+        "title": "Taalcafé Zuid",
+        "name": "ViaVie Welzijn · Taalcafé Zuid",
+        "description": "Laagdrempelig Taalcafé in Rijssen-Zuid om samen Nederlands te oefenen en anderen te ontmoeten.",
+        "municipality": "Rijssen-Holten",
+        "municipalities": [
+          "Rijssen-Holten"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "Nederlands",
+          "taalcafé"
+        ],
+        "tags": [
+          "taal",
+          "Nederlands",
+          "ontmoeten",
+          "gratis",
+          "Rijssen"
+        ],
+        "guidePaths": [
+          "taal/nederlands",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners die de Nederlandse taal willen oefenen in een informele groep.",
+        "costs": "Gratis.",
+        "access": "Dinsdagavond volgens het actuele programma; aanmelden is niet nodig.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://viaviewelzijn.nl/taalpunt/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ViaVie Welzijn",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 119",
+        "postcode": "7462CE",
+        "town": "Rijssen",
+        "lat": 52.30043418,
+        "lon": 6.5180879,
+        "locationType": "visiting",
+        "locationSource": "https://viaviewelzijn.nl/taalpunt/",
+        "locationMunicipality": "Rijssen-Holten",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "candidate-b134b2b414b729a2",
@@ -41028,6 +41303,7 @@
       "https://www.zorgsaamtwenterand.nl/activiteiten/biljarten/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/volksdansen/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
       "https://www.zorgsaamtwenterand.nl/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/creatieve-club/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/keerls-proat/",
@@ -43071,7 +43347,7 @@
         "id": "c-20261002-zorgsaam-rank",
         "title": "Soos De Rank",
         "name": "ZorgSaam Twenterand · Soos De Rank",
-        "description": "Gezelligheidsvereniging en ontmoetingsplek voor jong en oud in Den Ham.",
+        "description": "Laagdrempelige soos in Den Ham met koffie, gesprek, biljart, kaarten, rummikub en sjoelen voor jong en oud.",
         "municipality": "Twenterand",
         "municipalities": [
           "Twenterand"
@@ -43095,25 +43371,25 @@
         "guideExclude": false,
         "audience": "Inwoners van Den Ham en omgeving.",
         "costs": "Controleer actuele bijdrage.",
-        "access": "Via het actuele programma van ZorgSaam.",
+        "access": "Iedere maandag 14.00-16.30 uur; inwoners kunnen laagdrempelig aansluiten.",
         "openingHours": "",
         "phone": "",
         "email": "",
-        "source": "https://www.zorgsaamtwenterand.nl/",
+        "source": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
         "sourceKind": "first-party",
         "sourceTitle": "ZorgSaam Twenterand",
-        "checked": "2026-10-02",
+        "checked": "2026-10-03",
         "reviewStatus": "source-backed",
-        "address": "Burgemeester Koetjestraat 2",
-        "postcode": "7681ZP",
-        "town": "Vroomshoop",
-        "lat": 52.45816146,
-        "lon": 6.56844898,
-        "locationType": "source-address",
-        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "address": "Brinkstraat 6",
+        "postcode": "7683BN",
+        "town": "Den Ham",
+        "lat": 52.46350489,
+        "lon": 6.49471061,
+        "locationType": "visiting",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
         "locationMunicipality": "Twenterand",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       },
       {
         "id": "candidate-130dc5335ce91d1d",
