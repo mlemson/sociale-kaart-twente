@@ -13303,7 +13303,12 @@
       "town": "Lattrop-Breklenkamp",
       "locationType": "visiting",
       "locationSource": "https://lattrop-breklenkamp.nl/parochieblad-jaargang-46-nr-13-zaterdag-26-september-2026-t-m-vrijdag-16-oktober-2026/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.4274478,
+      "lon": 6.97744314,
+      "locationMunicipality": "Dinkelland",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "extra-20261003-wierden-wijkcentrum-kandjoli",
@@ -13338,12 +13343,17 @@
       "costs": "Niet vermeld.",
       "access": "Neem voor actuele activiteiten en openingstijden contact op met Stichting Kandjoli.",
       "description": "Molukse welzijnsorganisatie en wijkcentrum in Wierden met een centrale rol in de wijk en aandacht voor wonen, welzijn en zorg.",
-      "address": "Chris Soumokilstraat 69A",
+      "address": "Chris Soumokilstraat 69a",
       "postcode": "7642XX",
       "town": "Wierden",
       "locationType": "visiting",
       "locationSource": "https://www.wierden.nl/stembureaus-in-de-gemeente-wierden",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.35640596,
+      "lon": 6.57509464,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "extra-20261003-hof-stadscentrum-parochiehuis-delden",
@@ -13382,7 +13392,12 @@
       "town": "Delden",
       "locationType": "visiting",
       "locationSource": "https://www.stadscentrum-hetparochiehuis.nl/contact/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.26185668,
+      "lon": 6.70752621,
+      "locationMunicipality": "Hof van Twente",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "extra-20261003-losser-taalcafe-overdinkel",
@@ -13420,7 +13435,12 @@
       "town": "Overdinkel",
       "locationType": "visiting",
       "locationSource": "https://trefhuus.com/contact/",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.23875481,
+      "lon": 7.03503715,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "extra-20261003-losser-internationaal-restaurant-hestia",
@@ -13456,7 +13476,12 @@
       "town": "Losser",
       "locationType": "visiting",
       "locationSource": "https://www.fundamentlosser.nl/activiteiten/internationaal-restaurant-hestia/",
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
