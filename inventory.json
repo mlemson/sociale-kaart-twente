@@ -24617,17 +24617,14 @@
       "audience": "Ouderen en buurtbewoners.",
       "access": "Neem contact op met Wijkracht voor actuele informatie.",
       "costs": "Laagdrempelig.",
-      "address": "Geerdinksweg 36A",
-      "postcode": "7555DN",
+      "address": "Geerdinksweg 130",
+      "postcode": "7555DR",
       "town": "Hengelo",
-      "locationMunicipality": "Hengelo (O)",
+      "locationMunicipality": "Hengelo",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
-      "mapPin": true,
-      "lat": 52.26004038,
-      "lon": 6.7758446,
-      "addressChecked": "2026-10-02"
+      "mapPin": true
     },
     {
       "sourceKind": "first-party",
@@ -24710,17 +24707,14 @@
       "audience": "Buurtbewoners.",
       "access": "Rechtstreeks contact met de locatie.",
       "costs": "Controleer actuele bijdrage.",
-      "address": "Paul Krugerstraat 52",
+      "address": "Paul Krugerstraat 70-8",
       "postcode": "7551GZ",
       "town": "Hengelo",
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo (O)",
+      "locationMunicipality": "Hengelo",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
-      "mapPin": true,
-      "lat": 52.26763249,
-      "lon": 6.79912468,
-      "addressChecked": "2026-10-02"
+      "mapPin": true
     },
     {
       "sourceKind": "first-party",
