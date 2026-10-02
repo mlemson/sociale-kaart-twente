@@ -8133,7 +8133,10 @@
       "locationMunicipality": "Hof van Twente",
       "locationType": "source-address",
       "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/welzijn"
+      ]
     },
     {
       "id": "candidate-0b44a165b483f67b",
@@ -16399,7 +16402,12 @@
       "lat": 52.21667309,
       "lon": 6.87642107,
       "locationMunicipality": "Enschede",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "zorg/dementie",
+        "zorg/mantelzorg"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -16810,7 +16818,11 @@
       "lat": 52.26033093,
       "lon": 6.8047408,
       "locationMunicipality": "Hengelo (O)",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/schulden",
+        "geld/formulieren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -16865,7 +16877,11 @@
       "lat": 52.26033093,
       "lon": 6.8047408,
       "locationMunicipality": "Hengelo (O)",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden",
+        "veiligheid/relaties"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -17220,7 +17236,10 @@
       "lon": 6.59284021,
       "locationMunicipality": "Wierden",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/regelingen"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -17511,7 +17530,10 @@
       "lon": 6.79178677,
       "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/regelingen"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -20709,7 +20731,12 @@
       "locationType": "source-address",
       "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/formulieren",
+        "taal/nederlands",
+        "taal/digitaal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -20884,7 +20911,11 @@
       "locationType": "source-address",
       "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/dementie",
+        "zorg/mantelzorg"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -20973,7 +21004,11 @@
       "locationType": "contact",
       "locationSource": "https://www.fundamentlosser.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/nederlands",
+        "taal/basis"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -22002,7 +22037,11 @@
       "locationType": "visiting",
       "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/werk",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -22781,7 +22820,11 @@
       "locationType": "source-address",
       "locationSource": "https://www.humanitas.nl/afdeling/twente/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "geld/formulieren",
+        "migratie/nieuwkomer"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -24381,7 +24424,11 @@
       "locationType": "source-address",
       "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "zorg/dementie",
+        "zorg/mantelzorg"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -25347,7 +25394,11 @@
       "locationType": "visiting",
       "locationSource": "https://www.losser.nl/contact-en-openingstijden",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "onderwijs/opvoeden",
+        "veiligheid/relaties"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -25920,7 +25971,12 @@
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "zorg/dementie",
+        "zorg/mantelzorg",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -26144,7 +26200,12 @@
       "locationType": "source-address",
       "locationSource": "https://www.liberein.nl/faciliteiten/eten-en-drinken/sfeervolle-restaurants",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "zorg/dementie",
+        "zorg/mantelzorg",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
