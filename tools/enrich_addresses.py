@@ -314,10 +314,25 @@ def pdok_geocode(item: dict, expected_municipalities: list[str]):
         return None
 
     expected = set(expected_municipalities)
+    wanted_address = norm(item.get("address") or "")
+    wanted_postcode = re.sub(r"\\s+", "", item.get("postcode") or "").upper()
+    wanted_town = norm(item.get("town") or "")
     ranked = []
     for doc in docs:
         municipality = doc.get("gemeentenaam") or ""
         score = float(doc.get("score") or 0)
+        doc_address = norm(" ".join(x for x in [doc.get("straatnaam"), doc.get("huis_nlt") or doc.get("huisnummer")] if x))
+        doc_postcode = re.sub(r"\\s+", "", doc.get("postcode") or "").upper()
+        doc_town = norm(doc.get("woonplaatsnaam") or "")
+        # Bij een expliciet bronadres moet een exact huisnummer/postcode zwaarder
+        # wegen dan alleen 'de juiste gemeente'. Anders kan PDOK bijvoorbeeld
+        # Marktstraat 23 ten onrechte vervangen door Marktstraat 1.
+        if wanted_address and doc_address == wanted_address:
+            score += 140
+        if wanted_postcode and doc_postcode == wanted_postcode:
+            score += 90
+        if wanted_town and doc_town == wanted_town:
+            score += 35
         if municipality in expected:
             score += 50
         if municipality in TWENTE_MUNICIPALITIES:
