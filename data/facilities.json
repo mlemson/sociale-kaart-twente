@@ -3737,11 +3737,18 @@
       "ontmoeten",
       "handwerken",
       "creatief",
-      "inloop"
+      "inloop",
+      "senioren",
+      "daginvulling",
+      "samen eten",
+      "bewegen",
+      "spel"
     ],
     "subthemes": [
       "creatief",
-      "inloop"
+      "inloop",
+      "senioren",
+      "daginvulling"
     ],
     "guidePaths": [
       "meedoen/daginvulling"
@@ -4108,7 +4115,7 @@
   },
   {
     "id": "offer-extra-20261002-dewelle-hobbyclub-wierden",
-    "name": "De Welle · Hobbyclub Wierden",
+    "name": "De Welle · Inloop Wierden",
     "category": "ontmoeten",
     "address": "Dokter G.H. Beensweg 21",
     "postcode": "7642CH",
@@ -4123,8 +4130,7 @@
     "checked": "2026-10-02",
     "tags": [
       "ontmoeten",
-      "activiteit",
-      "ontmoeten"
+      "activiteit"
     ],
     "subthemes": [
       "laagdrempelig"
@@ -4147,48 +4153,8 @@
     "catalogOrganizationId": "org-de-welle-10mgx5x"
   },
   {
-    "id": "offer-extra-20261002-dewelle-inloop-wierden",
-    "name": "De Welle · Inloop Wierden",
-    "category": "ontmoeten",
-    "address": "Dokter G.H. Beensweg 21",
-    "postcode": "7642CH",
-    "town": "Wierden",
-    "municipality": "Wierden",
-    "serviceMunicipalities": [
-      "Wierden"
-    ],
-    "lat": 52.35470544,
-    "lon": 6.58036385,
-    "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten",
-      "activiteit",
-      "ontmoeten"
-    ],
-    "subthemes": [
-      "laagdrempelig"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Gratis wekelijkse inloop voor ontmoeting en vragen.",
-    "audience": "Inwoners van de betreffende gemeente.",
-    "costs": "Gratis.",
-    "access": "Bekijk de actuele tijden bij De Welle.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
-  },
-  {
     "id": "offer-extra-20261002-hellendoorn-internetcafe",
-    "name": "De Welle · Internetcafé De Cirkel",
+    "name": "De Welle · Samen Eten De Cirkel",
     "category": "taal",
     "address": "Nijkerkendijk 15-B11",
     "postcode": "7442LR",
@@ -4206,10 +4172,14 @@
       "computer",
       "internet",
       "hulp",
-      "senioren"
+      "senioren",
+      "ontmoeten",
+      "samen eten",
+      "maaltijd"
     ],
     "subthemes": [
-      "digitaal"
+      "digitaal",
+      "samen eten"
     ],
     "guidePaths": [
       "taal/digitaal"
@@ -4389,87 +4359,6 @@
     "email": "",
     "locationType": "visiting",
     "locationSource": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
-  },
-  {
-    "id": "offer-extra-20261002-hellendoorn-samen-eten-de-cirkel",
-    "name": "De Welle · Samen Eten De Cirkel",
-    "category": "ontmoeten",
-    "address": "Nijkerkendijk 15-B11",
-    "postcode": "7442LR",
-    "town": "Nijverdal",
-    "municipality": "Hellendoorn",
-    "serviceMunicipalities": [
-      "Hellendoorn"
-    ],
-    "lat": 52.36127548,
-    "lon": 6.46448552,
-    "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten",
-      "samen eten",
-      "maaltijd",
-      "senioren"
-    ],
-    "subthemes": [
-      "samen eten"
-    ],
-    "guidePaths": [
-      "ontmoeten/samen"
-    ],
-    "guideExclude": false,
-    "description": "Gezamenlijke warme maaltijd in De Cirkel met ruimte voor ontmoeting.",
-    "audience": "Inwoners die graag samen met anderen willen eten.",
-    "costs": "€7,25 per maaltijd volgens de actuele agenda.",
-    "access": "Meerdere dagen per week volgens de actuele agenda.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
-  },
-  {
-    "id": "offer-extra-20261002-dewelle-schilderclub-wierden",
-    "name": "De Welle · Schilderclub Wierden",
-    "category": "ontmoeten",
-    "address": "Dokter G.H. Beensweg 21",
-    "postcode": "7642CH",
-    "town": "Wierden",
-    "municipality": "Wierden",
-    "serviceMunicipalities": [
-      "Wierden"
-    ],
-    "lat": 52.35470544,
-    "lon": 6.58036385,
-    "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten",
-      "activiteit",
-      "ontmoeten"
-    ],
-    "subthemes": [
-      "laagdrempelig"
-    ],
-    "guidePaths": [
-      "meedoen/daginvulling"
-    ],
-    "guideExclude": false,
-    "description": "Gratis wekelijkse schildergroep voor inwoners.",
-    "audience": "Inwoners van de betreffende gemeente.",
-    "costs": "Gratis.",
-    "access": "Bekijk de actuele tijden bij De Welle.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-de-welle-10mgx5x"
@@ -4983,7 +4872,7 @@
   },
   {
     "id": "offer-extra-20261002-fundament-actieve-ontmoeting-losser",
-    "name": "Fundament Losser · Actieve Ontmoeting Losser",
+    "name": "Fundament Losser · Taalpunt Losser",
     "category": "ontmoeten",
     "address": "Raadhuisplein 1",
     "postcode": "7581AG",
@@ -4999,7 +4888,10 @@
     "tags": [
       "ontmoeten",
       "daginvulling",
-      "taal"
+      "taal",
+      "taalpunt losser",
+      "cursus",
+      "inloop"
     ],
     "subthemes": [
       "laagdrempelig"
@@ -5316,50 +5208,6 @@
     "locationSource": "https://www.fundamentlosser.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": false,
-    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
-  },
-  {
-    "id": "offer-candidate-20261002-fundament-taalpunt-losser",
-    "name": "Fundament Losser · Taalpunt Losser",
-    "category": "taal",
-    "address": "Raadhuisplein 1",
-    "postcode": "7581AG",
-    "town": "Losser",
-    "municipality": "Losser",
-    "serviceMunicipalities": [
-      "Losser"
-    ],
-    "lat": 52.26284211,
-    "lon": 7.00588809,
-    "source": "https://www.fundamentlosser.nl/agenda/",
-    "checked": "2026-10-02",
-    "tags": [
-      "taal",
-      "taalpunt losser",
-      "cursus",
-      "inloop",
-      "ontmoeten",
-      "daginvulling"
-    ],
-    "subthemes": [
-      "laagdrempelig"
-    ],
-    "guidePaths": [
-      "taal/nederlands",
-      "taal/basis"
-    ],
-    "guideExclude": false,
-    "description": "Hulp bij Nederlands spreken, lezen en schrijven, digitale vaardigheden en onder meer DigiD.",
-    "audience": "Inwoners van de gemeente Losser.",
-    "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
-    "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "service",
-    "locationSource": "https://www.fundamentlosser.nl/agenda/",
-    "mapLocationType": "address",
-    "physicalLocation": true,
     "catalogOrganizationId": "org-fundament-losser-l8a8wn"
   },
   {
@@ -6153,46 +6001,6 @@
     "catalogOrganizationId": "org-humanitas-onder-dak-1xocxxj"
   },
   {
-    "id": "offer-candidate-20261002-impuls-actieve-ontmoeting-paal-12",
-    "name": "Impuls · Actieve Ontmoeting Paal 12",
-    "category": "ontmoeten",
-    "address": "Wilhelminastraat 5",
-    "postcode": "7571CE",
-    "town": "Oldenzaal",
-    "municipality": "Oldenzaal",
-    "serviceMunicipalities": [
-      "Oldenzaal"
-    ],
-    "lat": 52.31188249,
-    "lon": 6.93145973,
-    "source": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten",
-      "ontmoeten",
-      "dagbesteding zonder indicatie",
-      "inloop"
-    ],
-    "subthemes": [
-      "meedoen",
-      "zonder indicatie"
-    ],
-    "guidePaths": [],
-    "guideExclude": false,
-    "description": "Wekelijkse laagdrempelige daginvulling met ontmoeting, bewegen en activiteiten.",
-    "audience": "Inwoners van Oldenzaal.",
-    "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
-    "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "contact",
-    "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
-    "mapLocationType": "address",
-    "physicalLocation": false,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
-  },
-  {
     "id": "offer-extra-20261002-oldenzaal-actieve-ontmoeting-paal12",
     "name": "Impuls · Actieve Ontmoeting Paal 12",
     "category": "ontmoeten",
@@ -6233,46 +6041,6 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
-  },
-  {
-    "id": "offer-candidate-20261002-impuls-actieve-ontmoeting-stakenboer",
-    "name": "Impuls · Actieve Ontmoeting Stakenboer",
-    "category": "ontmoeten",
-    "address": "Wilhelminastraat 5",
-    "postcode": "7571CE",
-    "town": "Oldenzaal",
-    "municipality": "Oldenzaal",
-    "serviceMunicipalities": [
-      "Oldenzaal"
-    ],
-    "lat": 52.31188249,
-    "lon": 6.93145973,
-    "source": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten",
-      "ontmoeten",
-      "dagbesteding zonder indicatie",
-      "inloop"
-    ],
-    "subthemes": [
-      "meedoen",
-      "zonder indicatie"
-    ],
-    "guidePaths": [],
-    "guideExclude": false,
-    "description": "Wekelijkse laagdrempelige daginvulling met ontmoeting, bewegen en activiteiten.",
-    "audience": "Inwoners van Oldenzaal.",
-    "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
-    "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "contact",
-    "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
-    "mapLocationType": "address",
-    "physicalLocation": false,
     "catalogOrganizationId": "org-impuls-1mtsxy1"
   },
   {
@@ -6576,7 +6344,7 @@
   },
   {
     "id": "offer-extra-20261002-oldenzaal-praathuis",
-    "name": "Impuls · Praathuis Oldenzaal",
+    "name": "Impuls · Taalpunt Oldenzaal",
     "category": "taal",
     "address": "In den Vijfhoek 75",
     "postcode": "7571DV",
@@ -6595,10 +6363,15 @@
       "spreken",
       "lezen",
       "migranten",
-      "oefenen"
+      "oefenen",
+      "schrijven",
+      "rekenen",
+      "computer",
+      "taalmaatje"
     ],
     "subthemes": [
-      "nederlands"
+      "nederlands",
+      "basisvaardigheden"
     ],
     "guidePaths": [
       "taal/nederlands",
@@ -6699,51 +6472,6 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": false,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
-  },
-  {
-    "id": "offer-extra-20261002-oldenzaal-taalpunt",
-    "name": "Impuls · Taalpunt Oldenzaal",
-    "category": "taal",
-    "address": "In den Vijfhoek 75",
-    "postcode": "7571DV",
-    "town": "Oldenzaal",
-    "municipality": "Oldenzaal",
-    "serviceMunicipalities": [
-      "Oldenzaal"
-    ],
-    "lat": 52.31261419,
-    "lon": 6.92691476,
-    "source": "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
-    "checked": "2026-10-02",
-    "tags": [
-      "taal",
-      "lezen",
-      "schrijven",
-      "rekenen",
-      "computer",
-      "taalmaatje"
-    ],
-    "subthemes": [
-      "nederlands",
-      "basisvaardigheden"
-    ],
-    "guidePaths": [
-      "taal/nederlands",
-      "taal/basis"
-    ],
-    "guideExclude": false,
-    "description": "Inloop voor mensen met vragen over lezen, schrijven, spreken, rekenen of computervaardigheden, met overzicht van passend cursusaanbod en doorverwijzing.",
-    "audience": "Volwassenen met een taalvraag of moeite met basisvaardigheden.",
-    "costs": "Geen kosten genoemd op de bronpagina.",
-    "access": "Wekelijkse inloop in Bibliotheek Oldenzaal; controleer de actuele tijd bij Impuls.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
-    "mapLocationType": "address",
-    "physicalLocation": true,
     "catalogOrganizationId": "org-impuls-1mtsxy1"
   },
   {
@@ -7249,7 +6977,7 @@
   },
   {
     "id": "offer-extra-20261002-kracht-van-verenigingen-rigtersbleek",
-    "name": "Kracht van Verenigingen · Rigtersbleek",
+    "name": "Thuis@Rigtersbleek",
     "category": "jeugd",
     "address": "G.J. van Heekstraat 15A",
     "postcode": "7521EB",
@@ -7268,12 +6996,17 @@
       "daginvulling",
       "sport",
       "ontwikkeling",
-      "voorliggende voorziening"
+      "voorliggende voorziening",
+      "leren",
+      "cultuur"
     ],
     "subthemes": [
       "daginvulling",
       "sport",
-      "ontwikkeling"
+      "ontwikkeling",
+      "voorliggende voorziening",
+      "na school",
+      "vakanties"
     ],
     "guidePaths": [],
     "guideExclude": false,
@@ -7786,15 +7519,15 @@
     "id": "offer-candidate-20261002-livio-huiskamer-de-berke",
     "name": "Livio · Huiskamer van de wijk De Berke",
     "category": "ontmoeten",
-    "address": "Rechterveldbrink 1",
-    "postcode": "7544NT",
+    "address": "Jan van Elburgstraat 111",
+    "postcode": "7548DC",
     "town": "Enschede",
     "municipality": "Enschede",
     "serviceMunicipalities": [
       "Enschede"
     ],
-    "lat": 52.1985123,
-    "lon": 6.87527536,
+    "lat": 52.20117191,
+    "lon": 6.79795384,
     "source": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "checked": "2026-10-02",
     "tags": [
@@ -7819,7 +7552,7 @@
     "openingHours": "",
     "phone": "",
     "email": "",
-    "locationType": "service",
+    "locationType": "visiting",
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
@@ -7829,15 +7562,15 @@
     "id": "offer-candidate-20261002-livio-huiskamer-de-bleekhof",
     "name": "Livio · Huiskamer van de wijk De Bleekhof",
     "category": "ontmoeten",
-    "address": "Rechterveldbrink 1",
-    "postcode": "7544NT",
+    "address": "Bleekhofstraat 1",
+    "postcode": "7543ED",
     "town": "Enschede",
     "municipality": "Enschede",
     "serviceMunicipalities": [
       "Enschede"
     ],
-    "lat": 52.1985123,
-    "lon": 6.87527536,
+    "lat": 52.20838378,
+    "lon": 6.88275786,
     "source": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "checked": "2026-10-02",
     "tags": [
@@ -7862,7 +7595,7 @@
     "openingHours": "",
     "phone": "",
     "email": "",
-    "locationType": "service",
+    "locationType": "visiting",
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
@@ -7905,7 +7638,7 @@
     "openingHours": "",
     "phone": "",
     "email": "",
-    "locationType": "service",
+    "locationType": "visiting",
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
@@ -7915,15 +7648,15 @@
     "id": "offer-candidate-20261002-livio-huiskamer-de-hatteler",
     "name": "Livio · Huiskamer van de wijk De Hatteler",
     "category": "ontmoeten",
-    "address": "Rechterveldbrink 1",
-    "postcode": "7544NT",
+    "address": "Gerard Terborghplein 1",
+    "postcode": "7545BB",
     "town": "Enschede",
     "municipality": "Enschede",
     "serviceMunicipalities": [
       "Enschede"
     ],
-    "lat": 52.1985123,
-    "lon": 6.87527536,
+    "lat": 52.21387697,
+    "lon": 6.85645007,
     "source": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "checked": "2026-10-02",
     "tags": [
@@ -7948,7 +7681,7 @@
     "openingHours": "",
     "phone": "",
     "email": "",
-    "locationType": "service",
+    "locationType": "visiting",
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
@@ -7958,15 +7691,15 @@
     "id": "offer-candidate-20261002-livio-huiskamer-de-hortensiastaete",
     "name": "Livio · Huiskamer van de wijk De Hortensiastaete",
     "category": "ontmoeten",
-    "address": "Rechterveldbrink 1",
-    "postcode": "7544NT",
+    "address": "Hortensiastraat 1",
+    "postcode": "7531GR",
     "town": "Enschede",
     "municipality": "Enschede",
     "serviceMunicipalities": [
       "Enschede"
     ],
-    "lat": 52.1985123,
-    "lon": 6.87527536,
+    "lat": 52.22966939,
+    "lon": 6.92184091,
     "source": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "checked": "2026-10-02",
     "tags": [
@@ -7991,7 +7724,7 @@
     "openingHours": "",
     "phone": "",
     "email": "",
-    "locationType": "service",
+    "locationType": "visiting",
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
@@ -8001,15 +7734,15 @@
     "id": "offer-candidate-20261002-livio-huiskamer-twekkelerveld",
     "name": "Livio · Huiskamer van de wijk Twekkelerveld",
     "category": "ontmoeten",
-    "address": "Rechterveldbrink 1",
-    "postcode": "7544NT",
+    "address": "Schorpioenstraat 33",
+    "postcode": "7521HN",
     "town": "Enschede",
     "municipality": "Enschede",
     "serviceMunicipalities": [
       "Enschede"
     ],
-    "lat": 52.1985123,
-    "lon": 6.87527536,
+    "lat": 52.22836417,
+    "lon": 6.85720441,
     "source": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "checked": "2026-10-02",
     "tags": [
@@ -8034,7 +7767,7 @@
     "openingHours": "",
     "phone": "",
     "email": "",
-    "locationType": "service",
+    "locationType": "visiting",
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
@@ -8413,51 +8146,6 @@
     "audience": "Senioren in de gemeente Haaksbergen.",
     "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
     "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op dinsdag- en donderdagochtend.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-noaberpoort-1ynn51m"
-  },
-  {
-    "id": "offer-extra-20261002-haaksbergen-senioren-de-kappen",
-    "name": "Noaberpoort · Ontmoetingsactiviteit senioren De Kappen",
-    "category": "ontmoeten",
-    "address": "Blankenburgerstraat 42",
-    "postcode": "7481EB",
-    "town": "Haaksbergen",
-    "municipality": "Haaksbergen",
-    "serviceMunicipalities": [
-      "Haaksbergen"
-    ],
-    "lat": 52.15512071,
-    "lon": 6.74505822,
-    "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten",
-      "senioren",
-      "daginvulling",
-      "samen eten",
-      "bewegen",
-      "spel"
-    ],
-    "subthemes": [
-      "senioren",
-      "daginvulling"
-    ],
-    "guidePaths": [
-      "meedoen/daginvulling",
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
-    "audience": "Senioren in de gemeente Haaksbergen.",
-    "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
-    "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op maandag- en donderdagochtend.",
     "openingHours": "",
     "phone": "",
     "email": "",
@@ -9740,12 +9428,18 @@
     "tags": [
       "ontmoeten",
       "activiteit",
-      "sociaal werk"
+      "sociaal werk",
+      "inloop",
+      "koffie",
+      "sociaal contact",
+      "Tubbergen"
     ],
     "subthemes": [
       "creatief",
       "senioren",
-      "sociaal contact"
+      "sociaal contact",
+      "inloop",
+      "koffie"
     ],
     "guidePaths": [
       "ontmoeten/inloop",
@@ -10851,93 +10545,6 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-theaterhoes-hertme-pjlhsy"
-  },
-  {
-    "id": "offer-extra-20261002-tubbergen-verbindt-koffieochtend",
-    "name": "Tubbergen Verbindt · koffieochtend",
-    "category": "ontmoeten",
-    "address": "Raadhuisplein 4",
-    "postcode": "7651CV",
-    "town": "Tubbergen",
-    "municipality": "Tubbergen",
-    "serviceMunicipalities": [
-      "Tubbergen"
-    ],
-    "lat": 52.40837485,
-    "lon": 6.78133142,
-    "source": "https://swtd.nl/agenda/",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten",
-      "inloop",
-      "koffie",
-      "sociaal contact",
-      "Tubbergen"
-    ],
-    "subthemes": [
-      "inloop",
-      "koffie",
-      "sociaal contact"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Terugkerende koffieochtend in de Bibliotheek Tubbergen, georganiseerd door Tubbergen Verbindt, bedoeld om laagdrempelig anderen te ontmoeten.",
-    "audience": "Inwoners van Tubbergen die behoefte hebben aan een praatje, contact of gewoon samen koffie willen drinken.",
-    "costs": "Eventuele consumptiekosten worden niet op de agenda vermeld.",
-    "access": "Vrije koffieochtend; volgens de actuele agenda op vrijdag van 10.00-12.00 uur.",
-    "openingHours": "Vrijdag 10.00-12.00 uur volgens de actuele SWTD-agenda.",
-    "phone": "",
-    "email": "info@tubbergenverbindt.nl",
-    "locationType": "visiting",
-    "locationSource": "https://swtd.nl/agenda/",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-tubbergen-verbindt-1baipa5"
-  },
-  {
-    "id": "offer-extra-20261002-thuis-rigtersbleek",
-    "name": "Thuis@Rigtersbleek",
-    "category": "jeugd",
-    "address": "G.J. van Heekstraat 15A",
-    "postcode": "7521EB",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.22678614,
-    "lon": 6.87222283,
-    "source": "https://rigtersbleek.nl/voorliggende-voorziening/",
-    "checked": "2026-10-02",
-    "tags": [
-      "jeugd",
-      "voorliggende voorziening",
-      "sport",
-      "leren",
-      "cultuur",
-      "ontwikkeling"
-    ],
-    "subthemes": [
-      "voorliggende voorziening",
-      "na school",
-      "vakanties"
-    ],
-    "guidePaths": [],
-    "guideExclude": false,
-    "description": "Voorliggende voorziening voor kinderen met professionele begeleiding, activiteiten en een gezamenlijke maaltijd na school en in vakanties.",
-    "audience": "Kinderen van ongeveer 6 tot en met 16 jaar die extra ondersteuning kunnen gebruiken.",
-    "costs": "",
-    "access": "Neem rechtstreeks contact op met Thuis@Rigtersbleek of bespreek passendheid met een wijkcoach.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "service",
-    "locationSource": "https://rigtersbleek.nl/voorliggende-voorziening/",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-v-v-rigtersbleek-btgef8"
   },
   {
     "id": "offer-extra-20261002-viavie-buurtband",

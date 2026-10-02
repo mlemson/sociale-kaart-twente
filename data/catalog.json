@@ -8012,9 +8012,9 @@
       "https://www.dewelledoet.nl/activiteiten/352",
       "https://www.socialekaartwierden.nl/is/product/157291/220582/bewegen-op-de-stoel-enter"
     ],
-    "offerCount": 25,
+    "offerCount": 24,
     "reviewNeeded": 0,
-    "sourceBacked": 25,
+    "sourceBacked": 24,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -8070,54 +8070,6 @@
         "locationMunicipality": "Wierden",
         "mapLocationType": "address",
         "mapPin": true
-      },
-      {
-        "id": "c-20261002-dewelle-beweegtuin",
-        "title": "Beweegtuin Wierden",
-        "name": "De Welle · Beweegtuin Wierden",
-        "description": "Gezamenlijk bewegen met warming-up en oefeningen voor kracht, conditie en balans.",
-        "municipality": "Wierden",
-        "municipalities": [
-          "Wierden"
-        ],
-        "category": "bewegen",
-        "themes": [
-          "bewegen",
-          "ontmoeten"
-        ],
-        "subthemes": [
-          "kracht",
-          "balans"
-        ],
-        "tags": [
-          "bewegen",
-          "senioren",
-          "balans",
-          "ontmoeten"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "Oudere inwoners die laagdrempelig willen bewegen.",
-        "costs": "Controleer actuele bijdrage.",
-        "access": "Via De Welle; actuele tijden controleren.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.stichtingdewelle.nl/wp-content/uploads/2025/05/202520-De-Welle-Wierden-jaarverslag-2024-LR.pdf",
-        "sourceKind": "first-party",
-        "sourceTitle": "De Welle",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
-        "address": "Dokter G.H. Beensweg 21",
-        "postcode": "7642CH",
-        "town": "Wierden",
-        "lat": 52.35470544,
-        "lon": 6.58036385,
-        "locationType": "source-address",
-        "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
-        "locationMunicipality": "Wierden",
-        "mapLocationType": "address",
-        "mapPin": false
       },
       {
         "id": "extra-20261002-dewelle-beweegtuin-wierden",
@@ -10807,9 +10759,9 @@
       "https://dorpshoes.nl/",
       "https://www.fundamentlosser.nl/locaties-en-openingstijden/"
     ],
-    "offerCount": 31,
+    "offerCount": 29,
     "reviewNeeded": 0,
-    "sourceBacked": 26,
+    "sourceBacked": 24,
     "manual": 5,
     "checked": "2026-09-15",
     "offers": [
@@ -11177,51 +11129,6 @@
         "sourceTitle": "Fundament Losser",
         "checked": "2026-09-15",
         "reviewStatus": "manual",
-        "address": "Raadhuisplein 1",
-        "postcode": "7581AG",
-        "town": "Losser",
-        "lat": 52.26284211,
-        "lon": 7.00588809,
-        "locationType": "contact",
-        "locationSource": "https://www.fundamentlosser.nl/contact/",
-        "locationMunicipality": "Losser",
-        "mapLocationType": "address",
-        "mapPin": false
-      },
-      {
-        "id": "extra-20261002-fundament-de-culturele-ontmoeting",
-        "title": "De Culturele Ontmoeting",
-        "name": "Fundament Losser · De Culturele Ontmoeting",
-        "description": "Terugkerende ontmoeting voor ouderen rond cultuur en samenzijn.",
-        "municipality": "Losser",
-        "municipalities": [
-          "Losser"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [
-          "terugkerende activiteit"
-        ],
-        "tags": [
-          "ontmoeten",
-          "activiteit",
-          "ontmoeten"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
-        "costs": "Controleer de actuele activiteit.",
-        "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.fundamentlosser.nl/agenda/",
-        "sourceKind": "first-party",
-        "sourceTitle": "Fundament Losser",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
         "address": "Raadhuisplein 1",
         "postcode": "7581AG",
         "town": "Losser",
@@ -11658,52 +11565,6 @@
         "audience": "Kinderen van 5 tot en met 12 jaar.",
         "costs": "Controleer actuele activiteit.",
         "access": "Volgens de actuele agenda.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.fundamentlosser.nl/agenda/",
-        "sourceKind": "first-party",
-        "sourceTitle": "Fundament Losser",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
-        "address": "Raadhuisplein 1",
-        "postcode": "7581AG",
-        "town": "Losser",
-        "lat": 52.26284211,
-        "lon": 7.00588809,
-        "locationType": "contact",
-        "locationSource": "https://www.fundamentlosser.nl/contact/",
-        "locationMunicipality": "Losser",
-        "mapLocationType": "address",
-        "mapPin": false
-      },
-      {
-        "id": "c-20261002-fundament-koffie-kiekerskaamp",
-        "title": "Koffie Inloop Kiekerskaamp",
-        "name": "Fundament Losser · Koffie Inloop Kiekerskaamp",
-        "description": "Koffie-inloop voor inwoners die sociale contacten zoeken, daginvulling willen of willen ontdekken welke activiteiten passen.",
-        "municipality": "Losser",
-        "municipalities": [
-          "Losser"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [
-          "inloop",
-          "daginvulling"
-        ],
-        "tags": [
-          "ontmoeten",
-          "inloop",
-          "daginvulling"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "Inwoners van de gemeente Losser.",
-        "costs": "Laagdrempelig.",
-        "access": "Vrije inloop volgens de actuele agenda.",
         "openingHours": "",
         "phone": "",
         "email": "",
@@ -15239,13 +15100,13 @@
       "https://www.impuls-oldenzaal.nl/wat-we-doen/vrijwilligerswerk/",
       "https://www.impuls-oldenzaal.nl/diensten/huiskamers/",
       "https://www.impuls-oldenzaal.nl/agenda/formulierenservice/",
-      "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
       "https://www.impuls-oldenzaal.nl/agenda/soofi-bewegen-en-ontmoeten/",
+      "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
       "https://www.impuls-oldenzaal.nl/agenda/koffie-inloop-de-symfonie/"
     ],
-    "offerCount": 44,
+    "offerCount": 41,
     "reviewNeeded": 0,
-    "sourceBacked": 44,
+    "sourceBacked": 41,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -15297,53 +15158,6 @@
         "mapPin": false
       },
       {
-        "id": "candidate-20261002-impuls-actieve-ontmoeting-paal-12",
-        "title": "Actieve Ontmoeting Paal 12",
-        "name": "Impuls · Actieve Ontmoeting Paal 12",
-        "description": "Wekelijkse laagdrempelige daginvulling met ontmoeting, bewegen en activiteiten.",
-        "municipality": "Oldenzaal",
-        "municipalities": [
-          "Oldenzaal"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [
-          "meedoen",
-          "zonder indicatie"
-        ],
-        "tags": [
-          "ontmoeten",
-          "ontmoeten",
-          "dagbesteding zonder indicatie",
-          "inloop"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "Inwoners van Oldenzaal.",
-        "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
-        "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
-        "sourceKind": "first-party",
-        "sourceTitle": "Impuls Oldenzaal",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
-        "address": "Wilhelminastraat 5",
-        "postcode": "7571CE",
-        "town": "Oldenzaal",
-        "lat": 52.31188249,
-        "lon": 6.93145973,
-        "locationType": "contact",
-        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
-        "locationMunicipality": "Oldenzaal",
-        "mapLocationType": "address",
-        "mapPin": true
-      },
-      {
         "id": "extra-20261002-oldenzaal-actieve-ontmoeting-paal12",
         "title": "Actieve Ontmoeting Paal 12",
         "name": "Impuls · Actieve Ontmoeting Paal 12",
@@ -15389,53 +15203,6 @@
         "lon": 6.91194275,
         "locationType": "visiting",
         "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
-        "locationMunicipality": "Oldenzaal",
-        "mapLocationType": "address",
-        "mapPin": true
-      },
-      {
-        "id": "candidate-20261002-impuls-actieve-ontmoeting-stakenboer",
-        "title": "Actieve Ontmoeting Stakenboer",
-        "name": "Impuls · Actieve Ontmoeting Stakenboer",
-        "description": "Wekelijkse laagdrempelige daginvulling met ontmoeting, bewegen en activiteiten.",
-        "municipality": "Oldenzaal",
-        "municipalities": [
-          "Oldenzaal"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [
-          "meedoen",
-          "zonder indicatie"
-        ],
-        "tags": [
-          "ontmoeten",
-          "ontmoeten",
-          "dagbesteding zonder indicatie",
-          "inloop"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "Inwoners van Oldenzaal.",
-        "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
-        "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
-        "sourceKind": "first-party",
-        "sourceTitle": "Impuls Oldenzaal",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
-        "address": "Wilhelminastraat 5",
-        "postcode": "7571CE",
-        "town": "Oldenzaal",
-        "lat": 52.31188249,
-        "lon": 6.93145973,
-        "locationType": "contact",
-        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
         "locationMunicipality": "Oldenzaal",
         "mapLocationType": "address",
         "mapPin": true
@@ -16572,53 +16339,6 @@
         "lon": 6.92796947,
         "locationType": "visiting",
         "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
-        "locationMunicipality": "Oldenzaal",
-        "mapLocationType": "address",
-        "mapPin": false
-      },
-      {
-        "id": "c-20261002-impuls-soofi",
-        "title": "Soofi bewegen en ontmoeten",
-        "name": "Impuls · Soofi bewegen en ontmoeten",
-        "description": "Vaste laagdrempelige beweeggroep om samen met buurtgenoten buiten actief te zijn.",
-        "municipality": "Oldenzaal",
-        "municipalities": [
-          "Oldenzaal"
-        ],
-        "category": "bewegen",
-        "themes": [
-          "bewegen",
-          "ontmoeten"
-        ],
-        "subthemes": [
-          "buiten bewegen",
-          "buurt"
-        ],
-        "tags": [
-          "bewegen",
-          "ontmoeten",
-          "buurt"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "Inwoners van Oldenzaal.",
-        "costs": "Controleer actuele bijdrage.",
-        "access": "Volgens de actuele agenda.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.impuls-oldenzaal.nl/agenda/",
-        "sourceKind": "first-party",
-        "sourceTitle": "Impuls",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
-        "address": "Wilhelminastraat 5",
-        "postcode": "7571CE",
-        "town": "Oldenzaal",
-        "lat": 52.31188249,
-        "lon": 6.93145973,
-        "locationType": "contact",
-        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
         "locationMunicipality": "Oldenzaal",
         "mapLocationType": "address",
         "mapPin": false
@@ -20335,12 +20055,12 @@
         "sourceTitle": "Livio",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Rechterveldbrink 1",
-        "postcode": "7544NT",
+        "address": "Jan van Elburgstraat 111",
+        "postcode": "7548DC",
         "town": "Enschede",
-        "lat": 52.1985123,
-        "lon": 6.87527536,
-        "locationType": "service",
+        "lat": 52.20117191,
+        "lon": 6.79795384,
+        "locationType": "visiting",
         "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
@@ -20385,12 +20105,12 @@
         "sourceTitle": "Livio",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Rechterveldbrink 1",
-        "postcode": "7544NT",
+        "address": "Bleekhofstraat 1",
+        "postcode": "7543ED",
         "town": "Enschede",
-        "lat": 52.1985123,
-        "lon": 6.87527536,
-        "locationType": "service",
+        "lat": 52.20838378,
+        "lon": 6.88275786,
+        "locationType": "visiting",
         "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
@@ -20440,7 +20160,7 @@
         "town": "Enschede",
         "lat": 52.1985123,
         "lon": 6.87527536,
-        "locationType": "service",
+        "locationType": "visiting",
         "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
@@ -20485,12 +20205,12 @@
         "sourceTitle": "Livio",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Rechterveldbrink 1",
-        "postcode": "7544NT",
+        "address": "Gerard Terborghplein 1",
+        "postcode": "7545BB",
         "town": "Enschede",
-        "lat": 52.1985123,
-        "lon": 6.87527536,
-        "locationType": "service",
+        "lat": 52.21387697,
+        "lon": 6.85645007,
+        "locationType": "visiting",
         "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
@@ -20535,12 +20255,12 @@
         "sourceTitle": "Livio",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Rechterveldbrink 1",
-        "postcode": "7544NT",
+        "address": "Hortensiastraat 1",
+        "postcode": "7531GR",
         "town": "Enschede",
-        "lat": 52.1985123,
-        "lon": 6.87527536,
-        "locationType": "service",
+        "lat": 52.22966939,
+        "lon": 6.92184091,
+        "locationType": "visiting",
         "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
@@ -20585,12 +20305,12 @@
         "sourceTitle": "Livio",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Rechterveldbrink 1",
-        "postcode": "7544NT",
+        "address": "Schorpioenstraat 33",
+        "postcode": "7521HN",
         "town": "Enschede",
-        "lat": 52.1985123,
-        "lon": 6.87527536,
-        "locationType": "service",
+        "lat": 52.22836417,
+        "lon": 6.85720441,
+        "locationType": "visiting",
         "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
@@ -20598,13 +20318,13 @@
       }
     ],
     "location": {
-      "address": "Rechterveldbrink 1",
-      "postcode": "7544NT",
+      "address": "Bleekhofstraat 1",
+      "postcode": "7543ED",
       "town": "Enschede",
-      "lat": 52.1985123,
-      "lon": 6.87527536,
+      "lat": 52.20838378,
+      "lon": 6.88275786,
       "locationMunicipality": "Enschede",
-      "locationType": "service",
+      "locationType": "visiting",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
       "mapLocationType": "address"
     },
@@ -25882,61 +25602,12 @@
       "https://salut-welzijn.nl/trainingen-cursussen/",
       "https://salut-welzijn.nl/contact/"
     ],
-    "offerCount": 28,
+    "offerCount": 27,
     "reviewNeeded": 0,
-    "sourceBacked": 28,
+    "sourceBacked": 27,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
-      {
-        "id": "candidate-20261002-salut-alzheimer-caf-hof-van-twente",
-        "title": "Alzheimer Café Hof van Twente",
-        "name": "Salut · Alzheimer Café Hof van Twente",
-        "description": "Gratis ontmoetings- en informatieavond voor mensen met dementie, naasten en geïnteresseerden.",
-        "municipality": "Hof van Twente",
-        "municipalities": [
-          "Hof van Twente"
-        ],
-        "category": "mantelzorg",
-        "themes": [
-          "mantelzorg"
-        ],
-        "subthemes": [
-          "voorliggend"
-        ],
-        "tags": [
-          "mantelzorg",
-          "gratis",
-          "alzheimer café hof van twente",
-          "training"
-        ],
-        "guidePaths": [
-          "zorg/dementie",
-          "zorg/mantelzorg"
-        ],
-        "guideExclude": false,
-        "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
-        "costs": "Gratis/kosteloos volgens de bron.",
-        "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
-        "sourceKind": "first-party",
-        "sourceTitle": "Salut",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
-        "address": "Grotestraat 86",
-        "postcode": "7471BR",
-        "town": "Goor",
-        "lat": 52.23293368,
-        "lon": 6.58569353,
-        "locationType": "source-address",
-        "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
-        "locationMunicipality": "Hof van Twente",
-        "mapLocationType": "address",
-        "mapPin": false
-      },
       {
         "id": "extra-20261002-salut-alzheimer-cafe",
         "title": "Alzheimer Café Hof van Twente",
@@ -28051,14 +27722,14 @@
       "https://swtd.nl/ons-aanbod/geldzorgen/voedselbank",
       "https://swtd.nl/agenda/",
       "https://swtd.nl/",
+      "https://swtd.nl/events/open-eettafel-weerselo/var/ri-20.l-L1/",
       "https://swtd.nl/ons-aanbod/ouder-worden/activiteiten-en-cursussen/",
       "https://swtd.nl/events/inloop-eschede/var/ri-63.l-L1/",
-      "https://swtd.nl/events/open-eettafel-ootmarsum-met-spel/var/ri-6.l-L1/",
-      "https://swtd.nl/events/open-eettafel-weerselo/var/ri-20.l-L1/"
+      "https://swtd.nl/events/open-eettafel-ootmarsum-met-spel/var/ri-6.l-L1/"
     ],
-    "offerCount": 48,
+    "offerCount": 47,
     "reviewNeeded": 0,
-    "sourceBacked": 48,
+    "sourceBacked": 47,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -29459,51 +29130,6 @@
         "locationMunicipality": "Dinkelland",
         "mapLocationType": "address",
         "mapPin": true
-      },
-      {
-        "id": "extra-20261002-swtd-open-eettafel-weerselo",
-        "title": "Open Eettafel Weerselo",
-        "name": "Sociaal, dat werkt! · Open Eettafel Weerselo",
-        "description": "Terugkerende gezamenlijke eettafel en ontmoeting in Weerselo.",
-        "municipality": "Dinkelland",
-        "municipalities": [
-          "Dinkelland"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [
-          "laagdrempelig"
-        ],
-        "tags": [
-          "ontmoeten",
-          "activiteit",
-          "sociaal werk"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
-        "costs": "Controleer de actuele bijdrage.",
-        "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://swtd.nl/",
-        "sourceKind": "first-party",
-        "sourceTitle": "Sociaal, dat werkt!",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
-        "address": "Eeshoflaan 21k-121",
-        "postcode": "7651LZ",
-        "town": "Tubbergen",
-        "lat": 52.41076671,
-        "lon": 6.78027092,
-        "locationType": "contact",
-        "locationSource": "https://swtd.nl/contact",
-        "locationMunicipality": "Tubbergen",
-        "mapLocationType": "address",
-        "mapPin": false
       },
       {
         "id": "extra-20261002-dinkelland-open-eettafel-weerselo",
@@ -33155,7 +32781,7 @@
       "https://viaviewelzijn.nl/opgroeien-ontwikkelen",
       "https://viaviewelzijn.nl/sociaal-noodfonds",
       "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234",
-      "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-430-965",
+      "https://viaviewelzijn.nl/taalpunt/",
       "https://viaviewelzijn.nl/taalpunt",
       "https://viaviewelzijn.nl/vrijwilligerswerk-talentontwikkeling",
       "https://viaviewelzijn.nl/welzijn-ondersteuning",
@@ -33173,12 +32799,11 @@
       "https://viaviewelzijn.nl/events/buurthuiskamer-de-haarschool-137/",
       "https://viaviewelzijn.nl/events/soos-voor-senioren-657-495/",
       "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234/",
-      "https://viaviewelzijn.nl/events/recreatiebridge/?occurrence=2026-09-18",
-      "https://viaviewelzijn.nl/taalpunt/"
+      "https://viaviewelzijn.nl/events/recreatiebridge/?occurrence=2026-09-18"
     ],
-    "offerCount": 27,
+    "offerCount": 26,
     "reviewNeeded": 0,
-    "sourceBacked": 27,
+    "sourceBacked": 26,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -33970,49 +33595,6 @@
         "phone": "",
         "email": "",
         "source": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234",
-        "sourceKind": "provider",
-        "sourceTitle": "ViaVie Welzijn",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Roelf Bosmastraat 47",
-        "postcode": "7462MZ",
-        "town": "Rijssen",
-        "lat": 52.30176737,
-        "lon": 6.50070389,
-        "locationType": "source-address",
-        "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234",
-        "locationMunicipality": "Rijssen-Holten",
-        "mapLocationType": "address",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-ada8870cf1a6f360",
-        "title": "Taalcafé Zuid",
-        "name": "ViaVie Welzijn · Taalcafé Zuid",
-        "description": "",
-        "municipality": "Rijssen-Holten",
-        "municipalities": [
-          "Rijssen-Holten"
-        ],
-        "category": "taal",
-        "themes": [
-          "taal"
-        ],
-        "subthemes": [
-          "taal"
-        ],
-        "tags": [
-          "taal"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-430-965",
         "sourceKind": "provider",
         "sourceTitle": "ViaVie Welzijn",
         "checked": "2026-09-15",
