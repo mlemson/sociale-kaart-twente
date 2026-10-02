@@ -4263,12 +4263,11 @@
       "advies"
     ],
     "sources": [
-      "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn",
-      "https://www.socialekaartrijssen-holten.nl/is/organisatie/326871/invis2/avedan-welzijn"
+      "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn"
     ],
-    "offerCount": 2,
+    "offerCount": 1,
     "reviewNeeded": 0,
-    "sourceBacked": 2,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -4279,7 +4278,8 @@
         "description": "",
         "municipality": "Almelo",
         "municipalities": [
-          "Almelo"
+          "Almelo",
+          "Rijssen-Holten"
         ],
         "category": "advies",
         "themes": [
@@ -4311,47 +4311,6 @@
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn",
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-9a03ced55118b34f",
-        "title": "Avedan Welzijn",
-        "name": "Avedan Welzijn",
-        "description": "",
-        "municipality": "Rijssen-Holten",
-        "municipalities": [
-          "Rijssen-Holten"
-        ],
-        "category": "advies",
-        "themes": [
-          "advies"
-        ],
-        "subthemes": [],
-        "tags": [
-          "advies"
-        ],
-        "guidePaths": [],
-        "guideExclude": true,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/326871/invis2/avedan-welzijn",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Rijssen-Holten",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Stadionlaan 60",
-        "postcode": "7606JZ",
-        "town": "Almelo",
-        "lat": 52.33927899,
-        "lon": 6.64702943,
-        "locationType": "source-address",
-        "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
@@ -6567,12 +6526,11 @@
       "advies"
     ],
     "sources": [
-      "https://socialekaart.almelo.nl/is/organisatie/326812/invis2/cosbo",
-      "https://www.socialekaartwierden.nl/is/organisatie/326812/invis2/cosbo"
+      "https://socialekaart.almelo.nl/is/organisatie/326812/invis2/cosbo"
     ],
-    "offerCount": 2,
+    "offerCount": 1,
     "reviewNeeded": 0,
-    "sourceBacked": 2,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -6583,7 +6541,8 @@
         "description": "",
         "municipality": "Almelo",
         "municipalities": [
-          "Almelo"
+          "Almelo",
+          "Wierden"
         ],
         "category": "advies",
         "themes": [
@@ -6615,47 +6574,6 @@
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326812/invis2/cosbo",
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-5f514cd2841a42d2",
-        "title": "COSBO",
-        "name": "COSBO",
-        "description": "",
-        "municipality": "Wierden",
-        "municipalities": [
-          "Wierden"
-        ],
-        "category": "advies",
-        "themes": [
-          "advies"
-        ],
-        "subthemes": [],
-        "tags": [
-          "advies"
-        ],
-        "guidePaths": [],
-        "guideExclude": true,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartwierden.nl/is/organisatie/326812/invis2/cosbo",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Wierden",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Wierdensestraat 22a-1",
-        "postcode": "7607GJ",
-        "town": "Almelo",
-        "lat": 52.35491383,
-        "lon": 6.66151401,
-        "locationType": "source-address",
-        "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326812/invis2/cosbo",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
@@ -7238,12 +7156,11 @@
       "ontmoeten"
     ],
     "sources": [
-      "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
-      "https://www.socialekaartwierden.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo"
+      "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo"
     ],
-    "offerCount": 2,
+    "offerCount": 1,
     "reviewNeeded": 0,
-    "sourceBacked": 2,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -7254,7 +7171,8 @@
         "description": "",
         "municipality": "Almelo",
         "municipalities": [
-          "Almelo"
+          "Almelo",
+          "Wierden"
         ],
         "category": "ontmoeten",
         "themes": [
@@ -7290,50 +7208,6 @@
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
         "mapPin": false
-      },
-      {
-        "id": "candidate-aab59830148826eb",
-        "title": "De Klup - locatie Almelo",
-        "name": "De Klup - locatie Almelo",
-        "description": "",
-        "municipality": "Wierden",
-        "municipalities": [
-          "Wierden"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [],
-        "tags": [
-          "ontmoeten"
-        ],
-        "guidePaths": [
-          "zorg/beperking",
-          "meedoen/daginvulling"
-        ],
-        "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartwierden.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Wierden",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Berlagelaan 2",
-        "postcode": "7606ST",
-        "town": "Almelo",
-        "lat": 52.35039444,
-        "lon": 6.64594796,
-        "locationType": "contact",
-        "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "service-area",
-        "mapPin": false
       }
     ],
     "location": {
@@ -7361,12 +7235,11 @@
       "ontmoeten"
     ],
     "sources": [
-      "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander",
-      "https://www.socialekaartwierden.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander"
+      "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander"
     ],
-    "offerCount": 2,
+    "offerCount": 1,
     "reviewNeeded": 0,
-    "sourceBacked": 2,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -7377,7 +7250,8 @@
         "description": "",
         "municipality": "Rijssen-Holten",
         "municipalities": [
-          "Rijssen-Holten"
+          "Rijssen-Holten",
+          "Wierden"
         ],
         "category": "ontmoeten",
         "themes": [
@@ -7404,53 +7278,6 @@
         "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander",
         "sourceKind": "municipal-directory",
         "sourceTitle": "Sociale kaart Rijssen-Holten",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Lindenbergsdijk 6",
-        "postcode": "7245PB",
-        "town": "Laren",
-        "lat": 52.18357017,
-        "lon": 6.34632271,
-        "locationType": "source-address",
-        "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander",
-        "locationMunicipality": "Lochem",
-        "mapLocationType": "service-area",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-6d667e134ace5017",
-        "title": "De Kringen - Wees jezelf, ontmoet een ander!",
-        "name": "De Kringen - Wees jezelf, ontmoet een ander!",
-        "description": "",
-        "municipality": "Wierden",
-        "municipalities": [
-          "Wierden"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [
-          "ontmoeting"
-        ],
-        "tags": [
-          "ontmoeten",
-          "ontmoeting"
-        ],
-        "guidePaths": [
-          "ontmoeten/inloop",
-          "mentaal/eenzaamheid"
-        ],
-        "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartwierden.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Wierden",
         "checked": "2026-09-15",
         "reviewStatus": "source-backed",
         "address": "Lindenbergsdijk 6",
@@ -7918,13 +7745,11 @@
       "geld"
     ],
     "sources": [
-      "https://socialekaart.almelo.nl/is/organisatie/328387/invis2/de-voorzieningenwijzer",
-      "https://www.socialekaartrijssen-holten.nl/is/organisatie/328387/invis2/de-voorzieningenwijzer",
-      "https://www.socialekaartwierden.nl/is/organisatie/328387/invis2/de-voorzieningenwijzer"
+      "https://socialekaart.almelo.nl/is/organisatie/328387/invis2/de-voorzieningenwijzer"
     ],
-    "offerCount": 3,
+    "offerCount": 1,
     "reviewNeeded": 0,
-    "sourceBacked": 3,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -7935,7 +7760,9 @@
         "description": "",
         "municipality": "Almelo",
         "municipalities": [
-          "Almelo"
+          "Almelo",
+          "Rijssen-Holten",
+          "Wierden"
         ],
         "category": "geld",
         "themes": [
@@ -7967,88 +7794,6 @@
         "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-9075a080d9952418",
-        "title": "De VoorzieningenWijzer",
-        "name": "De VoorzieningenWijzer",
-        "description": "",
-        "municipality": "Rijssen-Holten",
-        "municipalities": [
-          "Rijssen-Holten"
-        ],
-        "category": "geld",
-        "themes": [
-          "geld"
-        ],
-        "subthemes": [],
-        "tags": [
-          "geld"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/328387/invis2/de-voorzieningenwijzer",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Rijssen-Holten",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Haven Zuidzijde 30",
-        "postcode": "7607EW",
-        "town": "Almelo",
-        "lat": 52.35722016,
-        "lon": 6.6592867,
-        "locationType": "contact",
-        "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "service-area",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-8803127ea7fa3f73",
-        "title": "De VoorzieningenWijzer",
-        "name": "De VoorzieningenWijzer",
-        "description": "",
-        "municipality": "Wierden",
-        "municipalities": [
-          "Wierden"
-        ],
-        "category": "geld",
-        "themes": [
-          "geld"
-        ],
-        "subthemes": [],
-        "tags": [
-          "geld"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartwierden.nl/is/organisatie/328387/invis2/de-voorzieningenwijzer",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Wierden",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Haven Zuidzijde 30",
-        "postcode": "7607EW",
-        "town": "Almelo",
-        "lat": 52.35722016,
-        "lon": 6.6592867,
-        "locationType": "contact",
-        "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
@@ -10390,7 +10135,7 @@
         "id": "c-20261002-familiehuis-houdmevast",
         "title": "Houd me vast training",
         "name": "Familiehuis Enschede-West · Houd me vast training",
-        "description": "Training voor stellen met jonge kinderen, gericht op verbinding en communicatie.",
+        "description": "Acht bijeenkomsten voor stellen met jonge kinderen, gericht op verbinding en communicatie binnen de relatie.",
         "municipality": "Enschede",
         "municipalities": [
           "Enschede"
@@ -10401,28 +10146,32 @@
         ],
         "subthemes": [
           "relatie",
-          "ouders"
+          "ouders",
+          "jonge kinderen"
         ],
         "tags": [
           "jeugd",
           "ouders",
           "relatie",
-          "training"
+          "training",
+          "kinderen",
+          "gratis",
+          "inloop"
         ],
         "guidePaths": [
           "onderwijs/opvoeden",
           "veiligheid/relaties"
         ],
         "guideExclude": false,
-        "audience": "Stellen met (jonge) kinderen.",
-        "costs": "Controleer actuele voorwaarden.",
+        "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
+        "costs": "Controleer de actuele voorwaarden.",
         "access": "Aanmelden via Wijkteams Enschede.",
         "openingHours": "",
         "phone": "",
         "email": "",
         "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
         "sourceKind": "first-party",
-        "sourceTitle": "Familiehuis Enschede-West",
+        "sourceTitle": "Gemeente Enschede",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Noordhollandstraat 4",
@@ -10509,21 +10258,25 @@
         "tags": [
           "jeugd",
           "ouders",
-          "ontmoeten"
+          "ontmoeten",
+          "kinderen",
+          "gratis",
+          "training",
+          "inloop"
         ],
         "guidePaths": [
           "onderwijs/opvoeden"
         ],
         "guideExclude": false,
-        "audience": "Ouders met jonge kinderen in Enschede-West.",
+        "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
-        "access": "Vrije inloop.",
+        "access": "Vrije inloop of deelname volgens het actuele programma.",
         "openingHours": "",
         "phone": "",
         "email": "",
         "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
         "sourceKind": "first-party",
-        "sourceTitle": "Familiehuis Enschede-West",
+        "sourceTitle": "Gemeente Enschede",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Noordhollandstraat 4",
@@ -10604,27 +10357,33 @@
         ],
         "subthemes": [
           "opvoeden",
-          "migratieachtergrond"
+          "migratieachtergrond",
+          "ouders",
+          "jonge kinderen"
         ],
         "tags": [
           "jeugd",
           "opvoeden",
           "ouders",
-          "ontmoeten"
+          "ontmoeten",
+          "kinderen",
+          "gratis",
+          "training",
+          "inloop"
         ],
         "guidePaths": [
           "onderwijs/opvoeden"
         ],
         "guideExclude": false,
-        "audience": "Ouders met jonge kinderen.",
+        "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
-        "access": "Vrije inloop volgens rooster.",
+        "access": "Vrije inloop of deelname volgens het actuele programma.",
         "openingHours": "",
         "phone": "",
         "email": "",
         "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
         "sourceKind": "first-party",
-        "sourceTitle": "Familiehuis Enschede-West",
+        "sourceTitle": "Gemeente Enschede",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Noordhollandstraat 4",
@@ -10693,7 +10452,7 @@
         "id": "c-20261002-familiehuis-speelhoes",
         "title": "Speelhoes",
         "name": "Familiehuis Enschede-West · Speelhoes",
-        "description": "Samen spelen voor ouders en jonge kinderen, met passend spelmateriaal.",
+        "description": "Gratis speelinloop voor ouders met kinderen van ongeveer 6 maanden tot 4 jaar.",
         "municipality": "Enschede",
         "municipalities": [
           "Enschede"
@@ -10705,26 +10464,33 @@
         ],
         "subthemes": [
           "spelen",
-          "peuters"
+          "peuters",
+          "ouders",
+          "jonge kinderen"
         ],
         "tags": [
           "jeugd",
           "spelen",
-          "peuters"
+          "peuters",
+          "ouders",
+          "kinderen",
+          "gratis",
+          "training",
+          "inloop"
         ],
         "guidePaths": [
           "onderwijs/opvoeden"
         ],
         "guideExclude": false,
-        "audience": "Ouders met kinderen van ongeveer 6 maanden tot 4 jaar.",
+        "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
-        "access": "Vrije inloop volgens rooster.",
+        "access": "Vrije inloop of deelname volgens het actuele programma.",
         "openingHours": "",
         "phone": "",
         "email": "",
         "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
         "sourceKind": "first-party",
-        "sourceTitle": "Familiehuis Enschede-West",
+        "sourceTitle": "Gemeente Enschede",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Noordhollandstraat 4",
@@ -10986,13 +10752,13 @@
     ],
     "sources": [
       "https://www.fundamentlosser.nl/sociaalwerk/",
-      "https://www.fundamentlosser.nl/ondersteuning/taalpunt-losser/",
+      "https://www.fundamentlosser.nl/agenda/",
       "https://www.fundamentlosser.nl/activiteiten/taallessen-taalpunt/",
       "https://www.fundamentlosser.nl/ondersteuning/anwb-automaatje/",
       "https://www.fundamentlosser.nl/ondersteuning/vrijwilligerswerk-in-losser/",
       "https://www.fundamentlosser.nl/activiteiten/",
+      "https://www.fundamentlosser.nl/ondersteuning/taalpunt-losser/",
       "https://www.fundamentlosser.nl/agenda/maaklab-2-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-2026-09-30-2026-10-07-2026-10-14-2026-10-21-2026-10-28-2026-11-04-2026-11-11-2026-11-18-2026-11-25-2026-12-02-09-2027-06-16/",
-      "https://www.fundamentlosser.nl/agenda/",
       "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/",
       "https://www.fundamentlosser.nl/agenda/de-culturele-ontmoeting-3-2026-09-10-2026-09-17-2026-09-24-2026-10-01-2026-10-08-2026-10-15-2026-10-22-2026-10-29-2026-11-05-2026-11-12-2026-11-19/",
       "https://dorpshoes.nl/",
@@ -11490,17 +11256,20 @@
           "taal"
         ],
         "subthemes": [
-          "laagdrempelig"
+          "laagdrempelig",
+          "terugkerende activiteit"
         ],
         "tags": [
           "taal",
           "digitaal inloopcafé",
           "cursus",
-          "inloop"
+          "inloop",
+          "activiteit",
+          "ontmoeten"
         ],
         "guidePaths": [],
         "guideExclude": false,
-        "audience": "Inwoners van de gemeente Losser.",
+        "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
         "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
         "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
         "openingHours": "",
@@ -12018,19 +11787,22 @@
         "subthemes": [
           "maken",
           "techniek",
-          "digitaal"
+          "digitaal",
+          "terugkerende activiteit"
         ],
         "tags": [
           "jeugd",
           "techniek",
           "creatief",
-          "digitaal"
+          "digitaal",
+          "activiteit",
+          "ontmoeten"
         ],
         "guidePaths": [
           "onderwijs/jongeren"
         ],
         "guideExclude": false,
-        "audience": "Jeugd van 9 tot 18 jaar.",
+        "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
         "costs": "Controleer de actuele activiteit.",
         "access": "Inschrijven op de intekenlijst bij de bibliotheek; beperkte plekken.",
         "openingHours": "",
@@ -12445,7 +12217,9 @@
           "taal",
           "taalpunt losser",
           "cursus",
-          "inloop"
+          "inloop",
+          "ontmoeten",
+          "daginvulling"
         ],
         "guidePaths": [
           "taal/nederlands",
@@ -12454,11 +12228,11 @@
         "guideExclude": false,
         "audience": "Inwoners van de gemeente Losser.",
         "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
-        "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
+        "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
         "openingHours": "",
         "phone": "",
         "email": "",
-        "source": "https://www.fundamentlosser.nl/ondersteuning/taalpunt-losser/",
+        "source": "https://www.fundamentlosser.nl/agenda/",
         "sourceKind": "first-party",
         "sourceTitle": "Fundament Losser",
         "checked": "2026-10-02",
@@ -12468,11 +12242,11 @@
         "town": "Losser",
         "lat": 52.26284211,
         "lon": 7.00588809,
-        "locationType": "contact",
-        "locationSource": "https://www.fundamentlosser.nl/contact/",
+        "locationType": "service",
+        "locationSource": "https://www.fundamentlosser.nl/agenda/",
         "locationMunicipality": "Losser",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       },
       {
         "id": "extra-20261002-fundament-taalpunt-losser",
@@ -14628,13 +14402,11 @@
       "advies"
     ],
     "sources": [
-      "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
-      "https://www.socialekaartrijssen-holten.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
-      "https://www.socialekaartwierden.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo"
+      "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo"
     ],
-    "offerCount": 3,
+    "offerCount": 1,
     "reviewNeeded": 0,
-    "sourceBacked": 3,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -14645,7 +14417,9 @@
         "description": "",
         "municipality": "Almelo",
         "municipalities": [
-          "Almelo"
+          "Almelo",
+          "Rijssen-Holten",
+          "Wierden"
         ],
         "category": "advies",
         "themes": [
@@ -14677,88 +14451,6 @@
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-2c0d64b522ae4fb7",
-        "title": "Humanitas Onder Dak - Locatie Almelo",
-        "name": "Humanitas Onder Dak - Locatie Almelo",
-        "description": "",
-        "municipality": "Rijssen-Holten",
-        "municipalities": [
-          "Rijssen-Holten"
-        ],
-        "category": "advies",
-        "themes": [
-          "advies"
-        ],
-        "subthemes": [],
-        "tags": [
-          "advies"
-        ],
-        "guidePaths": [],
-        "guideExclude": true,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Rijssen-Holten",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Adastraat 6",
-        "postcode": "7607HB",
-        "town": "Almelo",
-        "lat": 52.35418672,
-        "lon": 6.66114626,
-        "locationType": "contact",
-        "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "service-area",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-f1dce9c8d1b85661",
-        "title": "Humanitas Onder Dak - Locatie Almelo",
-        "name": "Humanitas Onder Dak - Locatie Almelo",
-        "description": "",
-        "municipality": "Wierden",
-        "municipalities": [
-          "Wierden"
-        ],
-        "category": "advies",
-        "themes": [
-          "advies"
-        ],
-        "subthemes": [],
-        "tags": [
-          "advies"
-        ],
-        "guidePaths": [],
-        "guideExclude": true,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartwierden.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Wierden",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Adastraat 6",
-        "postcode": "7607HB",
-        "town": "Almelo",
-        "lat": 52.35418672,
-        "lon": 6.66114626,
-        "locationType": "contact",
-        "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220695/invis2/humanitas-onder-dak-locatie-almelo",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
@@ -15468,6 +15160,7 @@
       "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
       "https://www.impuls-oldenzaal.nl/agenda/",
       "https://www.impuls-oldenzaal.nl/wat-we-doen/meedoen-en-ontmoeten/",
+      "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
       "https://www.impuls-oldenzaal.nl/diensten/scholing/",
       "https://www.impuls-oldenzaal.nl/wat-we-doen/",
       "https://www.impuls-oldenzaal.nl/diensten/ouder-en-kind/",
@@ -15479,7 +15172,6 @@
       "https://www.impuls-oldenzaal.nl/agenda/formulierenservice/",
       "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
       "https://www.impuls-oldenzaal.nl/agenda/soofi-bewegen-en-ontmoeten/",
-      "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
       "https://www.impuls-oldenzaal.nl/agenda/koffie-inloop-de-symfonie/"
     ],
     "offerCount": 45,
@@ -15774,7 +15466,7 @@
         "id": "candidate-20261002-impuls-creatief-caf-",
         "title": "Creatief Café",
         "name": "Impuls · Creatief Café",
-        "description": "Terugkerende inloop voor tekenen, schilderen, breien, haken en andere creatieve activiteiten.",
+        "description": "Creatieve inloop om samen te tekenen, schilderen, breien, haken, naaien of met een andere eigen hobby bezig te zijn.",
         "municipality": "Oldenzaal",
         "municipalities": [
           "Oldenzaal"
@@ -15785,23 +15477,32 @@
         ],
         "subthemes": [
           "meedoen",
-          "zonder indicatie"
+          "zonder indicatie",
+          "creatief",
+          "daginvulling"
         ],
         "tags": [
           "ontmoeten",
-          "ontmoeten",
           "dagbesteding zonder indicatie",
-          "inloop"
+          "inloop",
+          "creatief",
+          "schilderen",
+          "tekenen",
+          "haken",
+          "breien",
+          "naaien"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling"
+        ],
         "guideExclude": false,
-        "audience": "Inwoners van Oldenzaal.",
-        "costs": "Laagdrempelig; controleer eventuele bijdrage.",
+        "audience": "Inwoners die graag creatief bezig zijn en anderen willen ontmoeten.",
+        "costs": "€3,50 per keer inclusief koffie/thee en iets lekkers.",
         "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
         "openingHours": "",
         "phone": "",
         "email": "",
-        "source": "https://www.impuls-oldenzaal.nl/agenda/",
+        "source": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
         "sourceKind": "first-party",
         "sourceTitle": "Impuls Oldenzaal",
         "checked": "2026-10-02",
@@ -15811,8 +15512,8 @@
         "town": "Oldenzaal",
         "lat": 52.31188249,
         "lon": 6.93145973,
-        "locationType": "contact",
-        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+        "locationType": "visiting",
+        "locationSource": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
         "locationMunicipality": "Oldenzaal",
         "mapLocationType": "address",
         "mapPin": true
@@ -18922,13 +18623,11 @@
       "geld"
     ],
     "sources": [
-      "https://socialekaart.almelo.nl/is/organisatie/327307/invis2/kledingbank-almelo",
-      "https://www.socialekaartrijssen-holten.nl/is/organisatie/327307/invis2/kledingbank-almelo",
-      "https://www.socialekaartwierden.nl/is/organisatie/327307/invis2/kledingbank-almelo"
+      "https://socialekaart.almelo.nl/is/organisatie/327307/invis2/kledingbank-almelo"
     ],
-    "offerCount": 3,
+    "offerCount": 1,
     "reviewNeeded": 0,
-    "sourceBacked": 3,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -18939,7 +18638,9 @@
         "description": "",
         "municipality": "Almelo",
         "municipalities": [
-          "Almelo"
+          "Almelo",
+          "Rijssen-Holten",
+          "Wierden"
         ],
         "category": "geld",
         "themes": [
@@ -18974,94 +18675,6 @@
         "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327307/invis2/kledingbank-almelo",
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-a27bc70aff939b6d",
-        "title": "Kledingbank Almelo",
-        "name": "Kledingbank Almelo",
-        "description": "",
-        "municipality": "Rijssen-Holten",
-        "municipalities": [
-          "Rijssen-Holten"
-        ],
-        "category": "geld",
-        "themes": [
-          "geld"
-        ],
-        "subthemes": [
-          "bestaanszekerheid"
-        ],
-        "tags": [
-          "geld",
-          "bestaanszekerheid"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327307/invis2/kledingbank-almelo",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Rijssen-Holten",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Grotestraat 25a",
-        "postcode": "7607CB",
-        "town": "Almelo",
-        "lat": 52.35849813,
-        "lon": 6.66471976,
-        "locationType": "source-address",
-        "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327307/invis2/kledingbank-almelo",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "service-area",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-a422e9eaad60aa45",
-        "title": "Kledingbank Almelo",
-        "name": "Kledingbank Almelo",
-        "description": "",
-        "municipality": "Wierden",
-        "municipalities": [
-          "Wierden"
-        ],
-        "category": "geld",
-        "themes": [
-          "geld"
-        ],
-        "subthemes": [
-          "bestaanszekerheid"
-        ],
-        "tags": [
-          "geld",
-          "bestaanszekerheid"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartwierden.nl/is/organisatie/327307/invis2/kledingbank-almelo",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Wierden",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Grotestraat 25a",
-        "postcode": "7607CB",
-        "town": "Almelo",
-        "lat": 52.35849813,
-        "lon": 6.66471976,
-        "locationType": "source-address",
-        "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327307/invis2/kledingbank-almelo",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
@@ -20123,13 +19736,11 @@
       "mantelzorg"
     ],
     "sources": [
-      "https://socialekaart.almelo.nl/is/organisatie/200567/invis2/leendert-vriel-almelo",
-      "https://www.socialekaartrijssen-holten.nl/is/organisatie/200567/invis2/leendert-vriel-almelo",
-      "https://www.socialekaartwierden.nl/is/organisatie/200567/invis2/leendert-vriel-almelo"
+      "https://socialekaart.almelo.nl/is/organisatie/200567/invis2/leendert-vriel-almelo"
     ],
-    "offerCount": 3,
+    "offerCount": 1,
     "reviewNeeded": 0,
-    "sourceBacked": 3,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -20140,7 +19751,9 @@
         "description": "",
         "municipality": "Almelo",
         "municipalities": [
-          "Almelo"
+          "Almelo",
+          "Rijssen-Holten",
+          "Wierden"
         ],
         "category": "mantelzorg",
         "themes": [
@@ -20172,88 +19785,6 @@
         "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-8d4a7852f787921e",
-        "title": "Leendert Vriel Almelo",
-        "name": "Leendert Vriel Almelo",
-        "description": "",
-        "municipality": "Rijssen-Holten",
-        "municipalities": [
-          "Rijssen-Holten"
-        ],
-        "category": "mantelzorg",
-        "themes": [
-          "mantelzorg"
-        ],
-        "subthemes": [],
-        "tags": [
-          "mantelzorg"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartrijssen-holten.nl/is/organisatie/200567/invis2/leendert-vriel-almelo",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Rijssen-Holten",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Haven Zuidzijde 30",
-        "postcode": "7607EW",
-        "town": "Almelo",
-        "lat": 52.35722016,
-        "lon": 6.6592867,
-        "locationType": "contact",
-        "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "service-area",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-a0e3d65f7e472363",
-        "title": "Leendert Vriel Almelo",
-        "name": "Leendert Vriel Almelo",
-        "description": "",
-        "municipality": "Wierden",
-        "municipalities": [
-          "Wierden"
-        ],
-        "category": "mantelzorg",
-        "themes": [
-          "mantelzorg"
-        ],
-        "subthemes": [],
-        "tags": [
-          "mantelzorg"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartwierden.nl/is/organisatie/200567/invis2/leendert-vriel-almelo",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Wierden",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Haven Zuidzijde 30",
-        "postcode": "7607EW",
-        "town": "Almelo",
-        "lat": 52.35722016,
-        "lon": 6.6592867,
-        "locationType": "contact",
-        "locationSource": "https://socialekaart.almelo.nl/is/footer/contact-opnemen",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
@@ -26811,18 +26342,20 @@
         ],
         "subthemes": [
           "dementie",
-          "training"
+          "training",
+          "voorliggend"
         ],
         "tags": [
           "mantelzorg",
           "dementie",
-          "training"
+          "training",
+          "gratis"
         ],
         "guidePaths": [],
         "guideExclude": false,
         "audience": "Mantelzorgers, partners, kinderen en anderen die zorgen voor iemand met dementie.",
         "costs": "Controleer actuele ronde.",
-        "access": "Aanmelden via Salut.",
+        "access": "Rechtstreeks via Salut; controleer actuele startdata.",
         "openingHours": "",
         "phone": "",
         "email": "",
@@ -32102,12 +31635,11 @@
       "ontmoeten"
     ],
     "sources": [
-      "https://www.socialekaartrijssen-holten.nl/is/organisatie/220987/invis2/stichting-samenzijn",
-      "https://www.socialekaartwierden.nl/is/organisatie/220987/invis2/stichting-samenzijn"
+      "https://www.socialekaartrijssen-holten.nl/is/organisatie/220987/invis2/stichting-samenzijn"
     ],
-    "offerCount": 2,
+    "offerCount": 1,
     "reviewNeeded": 0,
-    "sourceBacked": 2,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -32118,7 +31650,8 @@
         "description": "",
         "municipality": "Rijssen-Holten",
         "municipalities": [
-          "Rijssen-Holten"
+          "Rijssen-Holten",
+          "Wierden"
         ],
         "category": "ontmoeten",
         "themes": [
@@ -32152,49 +31685,6 @@
         "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/220987/invis2/stichting-samenzijn",
         "locationMunicipality": "Rijssen-Holten",
         "mapLocationType": "address",
-        "mapPin": false
-      },
-      {
-        "id": "candidate-a94aab5d98e3e678",
-        "title": "Stichting Samenzijn",
-        "name": "Stichting Samenzijn",
-        "description": "",
-        "municipality": "Wierden",
-        "municipalities": [
-          "Wierden"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [],
-        "tags": [
-          "ontmoeten"
-        ],
-        "guidePaths": [
-          "ontmoeten/inloop"
-        ],
-        "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.socialekaartwierden.nl/is/organisatie/220987/invis2/stichting-samenzijn",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Wierden",
-        "checked": "2026-09-15",
-        "reviewStatus": "source-backed",
-        "address": "Reggesingel 12",
-        "postcode": "7461BA",
-        "town": "Rijssen",
-        "lat": 52.31698166,
-        "lon": 6.52951422,
-        "locationType": "source-address",
-        "locationSource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/220987/invis2/stichting-samenzijn",
-        "locationMunicipality": "Rijssen-Holten",
-        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
@@ -42079,7 +41569,7 @@
         "id": "c-20261002-zorgsaam-fietsclub",
         "title": "Fietsclub",
         "name": "ZorgSaam Twenterand · Fietsclub",
-        "description": "Samen fietsen in een gemoedelijke groep.",
+        "description": "Wekelijks samen fietsen in een gemoedelijke sfeer.",
         "municipality": "Twenterand",
         "municipalities": [
           "Twenterand"
@@ -42090,18 +41580,20 @@
           "ontmoeten"
         ],
         "subthemes": [
-          "fietsen"
+          "fietsen",
+          "activiteit"
         ],
         "tags": [
           "bewegen",
           "fietsen",
-          "ontmoeten"
+          "ontmoeten",
+          "activiteit"
         ],
         "guidePaths": [],
         "guideExclude": false,
-        "audience": "Inwoners die mee kunnen fietsen.",
-        "costs": "Controleer actuele bijdrage.",
-        "access": "Volgens de actuele agenda.",
+        "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+        "costs": "Controleer de actuele bijdrage.",
+        "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
         "openingHours": "",
         "phone": "",
         "email": "",
@@ -42641,18 +42133,20 @@
           "ontmoeten"
         ],
         "subthemes": [
-          "verstandelijke beperking"
+          "verstandelijke beperking",
+          "activiteit"
         ],
         "tags": [
           "ontmoeten",
           "verstandelijke beperking",
-          "club"
+          "club",
+          "activiteit"
         ],
         "guidePaths": [],
         "guideExclude": false,
-        "audience": "Mensen met een verstandelijke beperking.",
-        "costs": "Controleer actuele bijdrage.",
-        "access": "Volgens de actuele agenda.",
+        "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+        "costs": "Controleer de actuele bijdrage.",
+        "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
         "openingHours": "",
         "phone": "",
         "email": "",
@@ -42764,7 +42258,7 @@
         "id": "c-20261002-zorgsaam-keepfit",
         "title": "Keep Fit",
         "name": "ZorgSaam Twenterand · Keep Fit",
-        "description": "Beweegactiviteit voor senioren in een gezellige groep.",
+        "description": "Beweegactiviteit voor senioren met aandacht voor fit blijven en ontmoeting.",
         "municipality": "Twenterand",
         "municipalities": [
           "Twenterand"
@@ -42775,18 +42269,21 @@
           "ontmoeten"
         ],
         "subthemes": [
-          "senioren"
+          "senioren",
+          "activiteit"
         ],
         "tags": [
           "bewegen",
           "senioren",
-          "fit"
+          "fit",
+          "activiteit",
+          "ontmoeten"
         ],
         "guidePaths": [],
         "guideExclude": false,
-        "audience": "Senioren.",
-        "costs": "Controleer actuele bijdrage.",
-        "access": "Volgens de actuele agenda.",
+        "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+        "costs": "Controleer de actuele bijdrage.",
+        "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
         "openingHours": "",
         "phone": "",
         "email": "",
@@ -43051,18 +42548,20 @@
         ],
         "subthemes": [
           "koffie",
-          "inloop"
+          "inloop",
+          "activiteit"
         ],
         "tags": [
           "ontmoeten",
           "koffie",
-          "inloop"
+          "inloop",
+          "activiteit"
         ],
         "guidePaths": [],
         "guideExclude": false,
-        "audience": "Inwoners van Twenterand.",
-        "costs": "Controleer actuele bijdrage.",
-        "access": "Inloop volgens de agenda.",
+        "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+        "costs": "Controleer de actuele bijdrage.",
+        "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
         "openingHours": "",
         "phone": "",
         "email": "",

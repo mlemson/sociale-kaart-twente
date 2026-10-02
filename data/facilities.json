@@ -5154,6 +5154,50 @@
     "catalogOrganizationId": "org-fundament-losser-l8a8wn"
   },
   {
+    "id": "offer-candidate-20261002-fundament-taalpunt-losser",
+    "name": "Fundament Losser · Taalpunt Losser",
+    "category": "taal",
+    "address": "Raadhuisplein 1",
+    "postcode": "7581AG",
+    "town": "Losser",
+    "municipality": "Losser",
+    "serviceMunicipalities": [
+      "Losser"
+    ],
+    "lat": 52.26284211,
+    "lon": 7.00588809,
+    "source": "https://www.fundamentlosser.nl/agenda/",
+    "checked": "2026-10-02",
+    "tags": [
+      "taal",
+      "taalpunt losser",
+      "cursus",
+      "inloop",
+      "ontmoeten",
+      "daginvulling"
+    ],
+    "subthemes": [
+      "laagdrempelig"
+    ],
+    "guidePaths": [
+      "taal/nederlands",
+      "taal/basis"
+    ],
+    "guideExclude": false,
+    "description": "Hulp bij Nederlands spreken, lezen en schrijven, digitale vaardigheden en onder meer DigiD.",
+    "audience": "Inwoners van de gemeente Losser.",
+    "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
+    "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.fundamentlosser.nl/agenda/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+  },
+  {
     "id": "offer-extra-20261002-fundament-taalpunt-losser",
     "name": "Fundament Losser · Taalpunt Losser",
     "category": "taal",
@@ -6077,31 +6121,40 @@
     ],
     "lat": 52.31188249,
     "lon": 6.93145973,
-    "source": "https://www.impuls-oldenzaal.nl/agenda/",
+    "source": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
     "checked": "2026-10-02",
     "tags": [
       "ontmoeten",
-      "ontmoeten",
       "dagbesteding zonder indicatie",
-      "inloop"
+      "inloop",
+      "creatief",
+      "schilderen",
+      "tekenen",
+      "haken",
+      "breien",
+      "naaien"
     ],
     "subthemes": [
       "meedoen",
-      "zonder indicatie"
+      "zonder indicatie",
+      "creatief",
+      "daginvulling"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "meedoen/daginvulling"
+    ],
     "guideExclude": false,
-    "description": "Terugkerende inloop voor tekenen, schilderen, breien, haken en andere creatieve activiteiten.",
-    "audience": "Inwoners van Oldenzaal.",
-    "costs": "Laagdrempelig; controleer eventuele bijdrage.",
+    "description": "Creatieve inloop om samen te tekenen, schilderen, breien, haken, naaien of met een andere eigen hobby bezig te zijn.",
+    "audience": "Inwoners die graag creatief bezig zijn en anderen willen ontmoeten.",
+    "costs": "€3,50 per keer inclusief koffie/thee en iets lekkers.",
     "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
     "openingHours": "",
     "phone": "",
     "email": "",
-    "locationType": "contact",
-    "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+    "locationType": "visiting",
+    "locationSource": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
     "mapLocationType": "address",
-    "physicalLocation": false,
+    "physicalLocation": true,
     "catalogOrganizationId": "org-impuls-1mtsxy1"
   },
   {
@@ -13564,7 +13617,7 @@
       "advies"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Avedan Welzijn. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor Avedan Welzijn. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
     "audience": "",
     "costs": "",
     "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -13821,7 +13874,7 @@
       "advies"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor COSBO. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor COSBO. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
     "audience": "",
     "costs": "",
     "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -13950,7 +14003,7 @@
       "ontmoeten"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor De Klup - locatie Almelo. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor De Klup - locatie Almelo. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
     "audience": "",
     "costs": "",
     "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -13983,7 +14036,7 @@
       "ontmoeten"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor De Kringen - Wees jezelf, ontmoet een ander!. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor De Kringen - Wees jezelf, ontmoet een ander!. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
     "audience": "",
     "costs": "",
     "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -14017,7 +14070,7 @@
       "geld"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor De VoorzieningenWijzer. Via de bron zijn 3 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor De VoorzieningenWijzer. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
     "audience": "",
     "costs": "",
     "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -14384,7 +14437,7 @@
       "advies"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Humanitas Onder Dak - Locatie Almelo. Via de bron zijn 3 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor Humanitas Onder Dak - Locatie Almelo. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
     "audience": "",
     "costs": "",
     "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -14705,7 +14758,7 @@
       "geld"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Kledingbank Almelo. Via de bron zijn 3 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor Kledingbank Almelo. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
     "audience": "",
     "costs": "",
     "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -14771,7 +14824,7 @@
       "mantelzorg"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Leendert Vriel Almelo. Via de bron zijn 3 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor Leendert Vriel Almelo. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
     "audience": "",
     "costs": "",
     "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -16023,7 +16076,7 @@
       "ontmoeten"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Stichting Samenzijn. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor Stichting Samenzijn. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
     "audience": "",
     "costs": "",
     "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
