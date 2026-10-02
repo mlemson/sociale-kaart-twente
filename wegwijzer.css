@@ -342,3 +342,5 @@ html[data-color-scheme="dark"] .guide-topic:nth-child(6n+4){--topic-tint:#312d3b
 html[data-color-scheme="dark"] .guide-topic:nth-child(6n+5){--topic-tint:#293733}
 html[data-color-scheme="dark"] .guide-topic:nth-child(6n+6){--topic-tint:#392d2c}
 html[data-color-scheme="dark"] .guide-root-view .guide-note{border-top-color:#3a343a}
+
+.guide-filter-card label.guide-search-main{grid-column:auto;margin-top:0}
