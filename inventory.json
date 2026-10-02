@@ -13064,7 +13064,7 @@
     },
     {
       "id": "candidate-949a61a6c9069512",
-      "name": "Wijkracht Borne · Sociaal Hus",
+      "name": "Sociaal Hus Borne · vrije inloop",
       "source": "https://www.borne.nl/sociaal-hus",
       "municipalities": [
         "Borne"
@@ -13074,9 +13074,9 @@
       "checked": "2026-10-02",
       "category": "advies",
       "accessStatus": "source-check",
-      "access": "Zonder verwijzing of indicatie. Vrije inloop maandag 16.00-18.30 en dinsdag t/m vrijdag 09.00-11.30.",
-      "description": "Vrij toegankelijke plek voor vragen over welzijn, opvoeden, zorg, wonen, financiën, gezin, relatie, vrijwilligerswerk en meedoen.",
-      "address": "De Haven 1a",
+      "access": "Zonder afspraak binnenlopen tijdens de algemene inloopspreekuren.",
+      "description": "Vrij toegankelijk eerste aanspreekpunt voor inwoners van Borne, Hertme en Zenderen met vragen over onder meer zorg, opvoeding, geld, wonen, vervoer, werk en meedoen.",
+      "address": "De Haven 1",
       "town": "Borne",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
@@ -13126,17 +13126,17 @@
       "postcode": "7622DH",
       "locationType": "visiting",
       "locationSource": "https://www.borne.nl/sociaal-hus",
-      "audience": "Inwoners van Borne, Hertme en Zenderen.",
-      "costs": "Gratis.",
+      "audience": "Inwoners van Borne, Hertme en Zenderen met een vraag over het dagelijks leven of ondersteuning.",
+      "costs": "Gratis informatie en advies.",
       "mapPin": true,
-      "lat": 52.30216649,
-      "lon": 6.75804917,
       "locationMunicipality": "Borne",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02",
       "guidePaths": [
-        "ontmoeten/inloop"
-      ]
+        "basis/praktisch"
+      ],
+      "openingHours": "Maandag 16.00-18.30 uur; dinsdag t/m vrijdag 09.00-11.30 uur.",
+      "phone": "074 265 8590",
+      "email": "info@sociaalhus.nl"
     },
     {
       "id": "candidate-8055b343cd2fe4ed",
