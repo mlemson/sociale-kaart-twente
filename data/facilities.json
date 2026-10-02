@@ -5195,6 +5195,50 @@
     "catalogOrganizationId": "org-fundament-losser-l8a8wn"
   },
   {
+    "id": "offer-extra-20261002-dinkelland-trefpunt-weerselo",
+    "name": "Gemeenschapscentrum 't Trefpunt Weerselo · dorpsontmoeting",
+    "category": "ontmoeten",
+    "address": "Legtenbergerstraat 6",
+    "postcode": "7595XB",
+    "town": "Weerselo",
+    "municipality": "Dinkelland",
+    "serviceMunicipalities": [
+      "Dinkelland"
+    ],
+    "lat": 52.35279607,
+    "lon": 6.85775247,
+    "source": "https://www.dinkelland.nl/veel-gestelde-vragen-verkiezingen",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "gemeenschapscentrum",
+      "verenigingen",
+      "Weerselo"
+    ],
+    "subthemes": [
+      "gemeenschapscentrum",
+      "verenigingen",
+      "dorpsactiviteiten"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Gemeenschapscentrum in Weerselo dat wordt gebruikt door lokale verenigingen en voor dorps- en ontmoetingsactiviteiten.",
+    "audience": "Inwoners van Weerselo en omgeving.",
+    "costs": "Verschilt per activiteit.",
+    "access": "Toegankelijk bij activiteiten en bijeenkomsten.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.dinkelland.nl/veel-gestelde-vragen-verkiezingen",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-gemeenschapscentrum-t-trefpunt-weerselo-zszmm3"
+  },
+  {
     "id": "offer-extra-20261002-almelo-wijkteam-noord",
     "name": "Gemeente Almelo · Wijkteam Noord - De Schelf",
     "category": "advies",
@@ -5539,6 +5583,52 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-gemeente-rijssen-holten-1q3kn8s"
+  },
+  {
+    "id": "offer-extra-20261002-hof-herberg-de-pol-diepenheim",
+    "name": "Herberg De Pol Diepenheim · sociale en culturele ontmoetingsplek",
+    "category": "ontmoeten",
+    "address": "Raadhuisstraat 8",
+    "postcode": "7478AG",
+    "town": "Diepenheim",
+    "municipality": "Hof van Twente",
+    "serviceMunicipalities": [
+      "Hof van Twente"
+    ],
+    "lat": 52.20131024,
+    "lon": 6.55120673,
+    "source": "https://www.herbergdepol.nl/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "cultuurcentrum",
+      "bibliotheek",
+      "maatschappelijk",
+      "Diepenheim"
+    ],
+    "subthemes": [
+      "cultuurcentrum",
+      "bibliotheek",
+      "maatschappelijk",
+      "ontmoeting"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Laagdrempelig cultuurcentrum en ontmoetingsplek in Diepenheim voor sociale, culturele en maatschappelijke activiteiten, met onder meer bibliotheek en verenigingsactiviteiten.",
+    "audience": "Alle inwoners van Diepenheim en omgeving.",
+    "costs": "Toegang tot de ontmoetingsfunctie is laagdrempelig; kosten verschillen per activiteit.",
+    "access": "Publiek toegankelijk tijdens openingstijden, activiteiten en voorstellingen.",
+    "openingHours": "",
+    "phone": "0547 352122",
+    "email": "info@diepenheim.nl",
+    "locationType": "visiting",
+    "locationSource": "https://www.herbergdepol.nl/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-herberg-de-pol-diepenheim-12kpk56"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-noaberhuus",
@@ -7164,6 +7254,54 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-kulturhus-de-marke-hengevelde-1jzguq2"
+  },
+  {
+    "id": "offer-extra-20261002-dinkelland-kulturhus-denekamp",
+    "name": "Kulturhus Denekamp · activiteiten en ontmoeting",
+    "category": "ontmoeten",
+    "address": "Oranjestraat 21",
+    "postcode": "7591GA",
+    "town": "Denekamp",
+    "municipality": "Dinkelland",
+    "serviceMunicipalities": [
+      "Dinkelland"
+    ],
+    "lat": 52.37472391,
+    "lon": 7.0003195,
+    "source": "https://www.kulturhusdenekamp.nl/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "kulturhus",
+      "welzijn",
+      "sport",
+      "cultuur",
+      "Denekamp"
+    ],
+    "subthemes": [
+      "kulturhus",
+      "welzijn",
+      "sport",
+      "cultuur",
+      "educatie"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Kulturhus voor en door inwoners van Denekamp, met activiteiten en dienstverlening rond welzijn, sport, cultuur en educatie en ruimte om elkaar te ontmoeten.",
+    "audience": "Inwoners van Denekamp en omgeving van jong tot oud.",
+    "costs": "Verschilt per activiteit.",
+    "access": "Publiek toegankelijk tijdens ruime openingstijden en activiteiten.",
+    "openingHours": "",
+    "phone": "0541 745300",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.kulturhusdenekamp.nl/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-kulturhus-denekamp-se4yhp"
   },
   {
     "id": "offer-extra-20261002-wierden-kulturhus-hoge-hexel",
@@ -10021,6 +10159,52 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+  },
+  {
+    "id": "offer-extra-20261002-hof-gemeenschapscentrum-de-pol-bentelo",
+    "name": "Sport- en Gemeenschapscentrum De Pol Bentelo · dorpsontmoeting",
+    "category": "ontmoeten",
+    "address": "Burgemeester Buijvoetsplein 76",
+    "postcode": "7497LD",
+    "town": "Bentelo",
+    "municipality": "Hof van Twente",
+    "serviceMunicipalities": [
+      "Hof van Twente"
+    ],
+    "lat": 52.2243555,
+    "lon": 6.68086879,
+    "source": "https://www.hofvantwente.nl/direct-regelen/horeca-evenementen-en-vrije-tijd/vrije-tijd/cultuur/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "gemeenschapscentrum",
+      "sport",
+      "verenigingen",
+      "Bentelo"
+    ],
+    "subthemes": [
+      "gemeenschapscentrum",
+      "sport",
+      "verenigingen"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "ontmoeten/bewegen",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Multifunctioneel sport- en gemeenschapscentrum in Bentelo met ruimte voor verenigingen, bijeenkomsten, sport en dorpsactiviteiten.",
+    "audience": "Inwoners van Bentelo en omgeving, van jong tot oud.",
+    "costs": "Verschilt per activiteit.",
+    "access": "Toegankelijk bij activiteiten, verenigingsmomenten en bijeenkomsten.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.hofvantwente.nl/direct-regelen/horeca-evenementen-en-vrije-tijd/vrije-tijd/cultuur/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-sport-en-gemeenschapscentrum-de-pol-bentelo-z54c0t"
   },
   {
     "id": "offer-extra-20261002-borne-stefanshof",

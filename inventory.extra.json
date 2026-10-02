@@ -13168,7 +13168,11 @@
       "costs": "Verschilt per activiteit.",
       "address": "Burgemeester Buijvoetsplein 76",
       "postcode": "7497LD",
-      "town": "Bentelo"
+      "town": "Bentelo",
+      "lat": 52.2243555,
+      "lon": 6.68086879,
+      "locationSource": "https://www.hofvantwente.nl/direct-regelen/horeca-evenementen-en-vrije-tijd/vrije-tijd/cultuur/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -13218,7 +13222,11 @@
       "postcode": "7478AG",
       "town": "Diepenheim",
       "phone": "0547 352122",
-      "email": "info@diepenheim.nl"
+      "email": "info@diepenheim.nl",
+      "lat": 52.20131024,
+      "lon": 6.55120673,
+      "locationSource": "https://www.herbergdepol.nl/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -13269,7 +13277,11 @@
       "locationType": "visiting",
       "locationMunicipality": "Dinkelland",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.37472391,
+      "lon": 7.0003195,
+      "locationSource": "https://www.kulturhusdenekamp.nl/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -13315,7 +13327,11 @@
       "locationType": "visiting",
       "locationMunicipality": "Dinkelland",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.35279607,
+      "lon": 6.85775247,
+      "locationSource": "https://www.dinkelland.nl/veel-gestelde-vragen-verkiezingen",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
