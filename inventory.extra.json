@@ -12690,6 +12690,53 @@
       "lon": 6.85775247,
       "locationSource": "https://www.dinkelland.nl/veel-gestelde-vragen-verkiezingen",
       "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / dorpsontmoeting",
+      "status": "candidate",
+      "id": "extra-20261002-losser-kulturhus-de-glaan",
+      "name": "Kulturhus De Glaan · ontmoetingscentrum Glane",
+      "source": "https://www.losser.nl/kulturhus-de-glaan",
+      "sourceTitle": "Gemeente Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "kulturhus",
+        "dorpsontmoeting",
+        "verenigingen"
+      ],
+      "tags": [
+        "ontmoeten",
+        "kulturhus",
+        "dorpshuis",
+        "Glane"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "description": "Centraal ontmoetingscentrum van Glane voor dorpsactiviteiten, verenigingen en sociale ontmoeting.",
+      "audience": "Inwoners van Glane en omgeving.",
+      "access": "Toegankelijk tijdens activiteiten, bijeenkomsten en openingstijden van het Kulturhus.",
+      "costs": "Verschilt per activiteit; de ontmoetingsfunctie is laagdrempelig.",
+      "address": "Gronausestraat 330a",
+      "town": "Glane",
+      "phone": "053 538 38 38",
+      "locationType": "visiting",
+      "locationSource": "https://www.losser.nl/kulturhus-de-glaan",
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "mapPin": true
     }
   ],
   "addressEnrichmentVersion": 1,
