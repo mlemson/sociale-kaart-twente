@@ -25048,7 +25048,10 @@
           "ontmoeten",
           "lichte begeleiding"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "guideExclude": false,
         "audience": "Senioren uit Dinkelland die behoefte hebben aan gezelligheid, structuur of ondersteuning.",
         "costs": "Eigen bijdrage €12,50 per keer, inclusief lunch en koffie/thee.",
@@ -28674,8 +28677,8 @@
       "https://www.ikbindr.nl/aanmelden"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
@@ -28728,7 +28731,7 @@
         "sourceKind": "first-party",
         "sourceTitle": "IKBINDR / Twents Fonds voor Vakmanschap",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "",
         "postcode": "",
         "town": "",
@@ -28742,7 +28745,7 @@
       }
     ],
     "location": null,
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://www.ikbindr.nl/aanmelden"
   },
   {

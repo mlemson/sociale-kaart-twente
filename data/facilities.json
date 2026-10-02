@@ -7077,7 +7077,10 @@
       "daginvulling",
       "senioren"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
     "guideExclude": false,
     "description": "Inloop in MFA Terra Nova voor senioren die sociale contacten willen opdoen, met activiteiten, lichte begeleiding en een gezamenlijke lunch.",
     "audience": "Senioren uit Dinkelland die behoefte hebben aan gezelligheid, structuur of ondersteuning.",

@@ -169,14 +169,5 @@
     "sourceTitle": "ZorgSaam Twenterand",
     "reason": "Categorie uit bron en automatische indeling spreken elkaar tegen",
     "checked": "2026-09-15"
-  },
-  {
-    "id": "c-20261002-twentsfonds",
-    "name": "Twents Fonds voor Vakmanschap · bijdrage voor scholing",
-    "municipality": "Enschede",
-    "source": "https://www.ikbindr.nl/aanmelden",
-    "sourceTitle": "IKBINDR / Twents Fonds voor Vakmanschap",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
   }
 ]
