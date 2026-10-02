@@ -12405,7 +12405,12 @@
       "costs": "Verschilt per activiteit; ontmoeting is laagdrempelig.",
       "address": "Prinsenweg 10",
       "town": "Zenderen",
-      "email": "info@sindron.nl"
+      "email": "info@sindron.nl",
+      "postcode": "7625PJ",
+      "lat": 52.32492054,
+      "lon": 6.72492075,
+      "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -12449,7 +12454,12 @@
       "access": "Activiteiten volgens de agenda van de verschillende groepen.",
       "costs": "Verschilt per activiteit.",
       "address": "Twijnerstraat 6",
-      "town": "Borne"
+      "town": "Borne",
+      "postcode": "7621TK",
+      "lat": 52.29768404,
+      "lon": 6.74747781,
+      "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -12494,7 +12504,12 @@
       "access": "Bijeenkomsten volgens het programma van de gebruikers.",
       "costs": "Verschilt per activiteit.",
       "address": "Grotestraat 207",
-      "town": "Borne"
+      "town": "Borne",
+      "postcode": "7622GH",
+      "lat": 52.30098011,
+      "lon": 6.75473395,
+      "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -12546,7 +12561,11 @@
       "address": "Bretelerstraat 16",
       "postcode": "7496PP",
       "town": "Hengevelde",
-      "email": "info@kulturhusdemarke.nl"
+      "email": "info@kulturhusdemarke.nl",
+      "lat": 52.19733712,
+      "lon": 6.63815534,
+      "locationSource": "https://www.kulturhusdemarke.nl/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -12597,7 +12616,11 @@
       "address": "Nilantspad 3",
       "postcode": "7581BA",
       "town": "Losser",
-      "phone": "053 536 9400"
+      "phone": "053 536 9400",
+      "lat": 52.27037042,
+      "lon": 7.01719079,
+      "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -12644,7 +12667,11 @@
       "costs": "Controleer de activiteit; veel jongerenaanbod is laagdrempelig.",
       "address": "Hoofdstraat 68",
       "postcode": "7586BV",
-      "town": "Overdinkel"
+      "town": "Overdinkel",
+      "lat": 52.24100881,
+      "lon": 7.03026829,
+      "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -12687,9 +12714,13 @@
       "audience": "Gezinnen en (aanstaande) ouders die babyspullen kunnen gebruiken.",
       "access": "Neem contact op of controleer de actuele uitgiftemomenten.",
       "costs": "Gebruikte babyspullen; controleer de actuele voorwaarden.",
-      "address": "Industriestraat 7a",
+      "address": "Industriestraat 7A",
       "postcode": "7582CR",
-      "town": "Losser"
+      "town": "Losser",
+      "lat": 52.25105457,
+      "lon": 7.00478612,
+      "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,

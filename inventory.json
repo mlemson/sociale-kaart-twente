@@ -13136,7 +13136,10 @@
       ],
       "openingHours": "Maandag 16.00-18.30 uur; dinsdag t/m vrijdag 09.00-11.30 uur.",
       "phone": "074 265 8590",
-      "email": "info@sociaalhus.nl"
+      "email": "info@sociaalhus.nl",
+      "lat": 52.30236616,
+      "lon": 6.75844818,
+      "addressChecked": "2026-10-02"
     },
     {
       "id": "candidate-8055b343cd2fe4ed",

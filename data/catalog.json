@@ -6979,6 +6979,89 @@
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197220/invis2/de-fakkel"
   },
   {
+    "id": "org-de-fontein-borne-1ah9zuj",
+    "organization": "De Fontein Borne",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://sociaalhus.nl/publicaties/582/ontmoeten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-borne-de-fontein",
+        "title": "ontmoeting en verenigingsactiviteiten",
+        "name": "De Fontein Borne · ontmoeting en verenigingsactiviteiten",
+        "description": "Ontmoetingslocatie met onder meer bijeenkomsten van de ouderenbond, videoclub, damvereniging en een vrouwenontmoetingsgroep.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "vereniging",
+          "ontmoeting"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "vereniging",
+          "Borne"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Volwassenen en senioren in Borne.",
+        "costs": "Verschilt per activiteit.",
+        "access": "Activiteiten volgens de agenda van de verschillende groepen.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Twijnerstraat 6",
+        "postcode": "7621TK",
+        "town": "Borne",
+        "lat": 52.29768404,
+        "lon": 6.74747781,
+        "locationType": "visiting",
+        "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Twijnerstraat 6",
+      "postcode": "7621TK",
+      "town": "Borne",
+      "lat": 52.29768404,
+      "lon": 6.74747781,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://sociaalhus.nl/publicaties/582/ontmoeten"
+  },
+  {
     "id": "org-de-jordaan-de-bouwmeester-1awpxtf",
     "organization": "De Jordaan / De Bouwmeester",
     "municipalities": [
@@ -10912,11 +10995,12 @@
       "https://www.fundamentlosser.nl/agenda/",
       "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/",
       "https://www.fundamentlosser.nl/agenda/de-culturele-ontmoeting-3-2026-09-10-2026-09-17-2026-09-24-2026-10-01-2026-10-08-2026-10-15-2026-10-22-2026-10-29-2026-11-05-2026-11-12-2026-11-19/",
-      "https://dorpshoes.nl/"
+      "https://dorpshoes.nl/",
+      "https://www.fundamentlosser.nl/locaties-en-openingstijden/"
     ],
-    "offerCount": 32,
+    "offerCount": 34,
     "reviewNeeded": 0,
-    "sourceBacked": 27,
+    "sourceBacked": 29,
     "manual": 5,
     "checked": "2026-09-15",
     "offers": [
@@ -11621,6 +11705,113 @@
         "locationMunicipality": "Losser",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261002-losser-pax-christi-jeugdhuiskamer",
+        "title": "Jeugdhuiskamer Overdinkel",
+        "name": "Fundament Losser · Jeugdhuiskamer Overdinkel",
+        "description": "Jeugdhuiskamer in Pax Christi in Overdinkel, opgenomen als vaste activiteitenlocatie van Fundament.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "jeugdhuiskamer",
+          "jongeren",
+          "inloop"
+        ],
+        "tags": [
+          "jeugd",
+          "jongeren",
+          "jeugdhuiskamer",
+          "Overdinkel"
+        ],
+        "guidePaths": [
+          "onderwijs/jongeren",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Kinderen en jongeren uit Overdinkel en omgeving.",
+        "costs": "Controleer de activiteit; veel jongerenaanbod is laagdrempelig.",
+        "access": "Volgens het actuele jongerenprogramma van Fundament.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Fundament Losser",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Hoofdstraat 68",
+        "postcode": "7586BV",
+        "town": "Overdinkel",
+        "lat": 52.24100881,
+        "lon": 7.03026829,
+        "locationType": "visiting",
+        "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-losser-jongeren-activiteitencentrum",
+        "title": "Jongeren Activiteiten Centrum",
+        "name": "Fundament Losser · Jongeren Activiteiten Centrum",
+        "description": "Jongerenlocatie van Fundament met onder meer Join Us, Flexxen, sport-, vakantie- en creatieve activiteiten.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "jongeren",
+          "inloop",
+          "sport",
+          "vrije tijd"
+        ],
+        "tags": [
+          "jeugd",
+          "jongeren",
+          "ontmoeten",
+          "Join Us",
+          "Flexxen",
+          "Losser"
+        ],
+        "guidePaths": [
+          "onderwijs/jongeren",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Jongeren uit de gemeente Losser.",
+        "costs": "Veel activiteiten zijn gratis of laagdrempelig; controleer per activiteit.",
+        "access": "Activiteiten volgens de actuele jongerenagenda van Fundament.",
+        "openingHours": "",
+        "phone": "053 536 9400",
+        "email": "",
+        "source": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Fundament Losser",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Nilantspad 3",
+        "postcode": "7581BA",
+        "town": "Losser",
+        "lat": 52.27037042,
+        "lon": 7.01719079,
+        "locationType": "visiting",
+        "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "extra-20261002-fundament-kidsplay",
@@ -12804,27 +12995,27 @@
         "sourceTitle": "Sociaal Hus Borne",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Marktstraat 1",
+        "address": "Marktstraat 23",
         "postcode": "7622CP",
         "town": "Borne",
-        "lat": 52.30147418,
-        "lon": 6.75792253,
+        "lat": 52.302298,
+        "lon": 6.758147,
         "locationType": "visiting",
-        "locationSource": "https://www.kulturhusborne.nl/",
+        "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
         "locationMunicipality": "Borne",
         "mapLocationType": "address",
         "mapPin": true
       }
     ],
     "location": {
-      "address": "Marktstraat 1",
+      "address": "Marktstraat 23",
       "postcode": "7622CP",
       "town": "Borne",
-      "lat": 52.30147418,
-      "lon": 6.75792253,
+      "lat": 52.302298,
+      "lon": 6.758147,
       "locationMunicipality": "Borne",
       "locationType": "visiting",
-      "locationSource": "https://www.kulturhusborne.nl/",
+      "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
       "mapLocationType": "address"
     },
     "status": "source-backed",
@@ -14084,6 +14275,92 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.huisvoortaalenmeedoen.nl/"
+  },
+  {
+    "id": "org-huiskamer-van-zenderen-1payr0i",
+    "organization": "Huiskamer van Zenderen",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://sociaalhus.nl/publicaties/582/ontmoeten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-borne-sindron",
+        "title": "Sindron",
+        "name": "Huiskamer van Zenderen · Sindron",
+        "description": "Dorpshuiskamer in Zenderen met Huiskamer Maal, Repair Café en andere laagdrempelige ontmoetingsactiviteiten.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "huiskamer",
+          "samen eten",
+          "repair café"
+        ],
+        "tags": [
+          "ontmoeten",
+          "huiskamer",
+          "samen eten",
+          "repair café",
+          "Zenderen"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "ontmoeten/samen",
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Zenderen en omgeving.",
+        "costs": "Verschilt per activiteit; ontmoeting is laagdrempelig.",
+        "access": "Activiteiten volgens het actuele programma van Sindron.",
+        "openingHours": "",
+        "phone": "",
+        "email": "info@sindron.nl",
+        "source": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Prinsenweg 10",
+        "postcode": "7625PJ",
+        "town": "Zenderen",
+        "lat": 52.32492054,
+        "lon": 6.72492075,
+        "locationType": "visiting",
+        "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Prinsenweg 10",
+      "postcode": "7625PJ",
+      "town": "Zenderen",
+      "lat": 52.32492054,
+      "lon": 6.72492075,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://sociaalhus.nl/publicaties/582/ontmoeten"
   },
   {
     "id": "org-humanitas-onder-dak-1xocxxj",
@@ -18561,6 +18838,89 @@
     "primarySource": "https://www.kledingbankenschede.nl/klant-worden/"
   },
   {
+    "id": "org-kraambank-losser-1uum7sp",
+    "organization": "Kraambank Losser",
+    "municipalities": [
+      "Losser"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://www.fundamentlosser.nl/locaties-en-openingstijden/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-losser-kraambank",
+        "title": "gebruikte babyspullen",
+        "name": "Kraambank Losser · gebruikte babyspullen",
+        "description": "Lokale uitgifteplek voor gebruikte babyspullen, vermeld door Fundament als sociale voorziening in Losser.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "babyspullen",
+          "materiële hulp"
+        ],
+        "tags": [
+          "basis",
+          "babyspullen",
+          "spullen",
+          "Losser"
+        ],
+        "guidePaths": [
+          "basis/kleding",
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "audience": "Gezinnen en (aanstaande) ouders die babyspullen kunnen gebruiken.",
+        "costs": "Gebruikte babyspullen; controleer de actuele voorwaarden.",
+        "access": "Neem contact op of controleer de actuele uitgiftemomenten.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Fundament Losser",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Industriestraat 7A",
+        "postcode": "7582CR",
+        "town": "Losser",
+        "lat": 52.25105457,
+        "lon": 7.00478612,
+        "locationType": "visiting",
+        "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Industriestraat 7A",
+      "postcode": "7582CR",
+      "town": "Losser",
+      "lat": 52.25105457,
+      "lon": 7.00478612,
+      "locationMunicipality": "Losser",
+      "locationType": "visiting",
+      "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/"
+  },
+  {
     "id": "org-kracht-van-verenigingen-hd7qmu",
     "organization": "Kracht van Verenigingen",
     "municipalities": [
@@ -18912,6 +19272,180 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.akkerhus.nl/akkernoabers"
+  },
+  {
+    "id": "org-kulturhus-de-bijenkorf-425l5h",
+    "organization": "Kulturhus De Bijenkorf",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://sociaalhus.nl/publicaties/582/ontmoeten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-borne-kulturhus-bijenkorf",
+        "title": "ontmoetingsplek",
+        "name": "Kulturhus De Bijenkorf · ontmoetingsplek",
+        "description": "Centrale culturele en sociale ontmoetingsplek in Borne met bibliotheek, theater, cursussen, lezingen, workshops en bijeenkomsten.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "kulturhus",
+          "bibliotheek",
+          "cultuur",
+          "cursussen"
+        ],
+        "tags": [
+          "ontmoeten",
+          "kulturhus",
+          "bibliotheek",
+          "cursussen",
+          "Borne"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Borne en omgeving van verschillende leeftijden.",
+        "costs": "Toegang tot het gebouw en bibliotheekfuncties is laagdrempelig; kosten verschillen per activiteit.",
+        "access": "Publiek toegankelijk tijdens openingstijden en activiteiten.",
+        "openingHours": "",
+        "phone": "074 265 7200",
+        "email": "hallo@kulturhusborne.nl",
+        "source": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Marktstraat 23",
+        "postcode": "7622CP",
+        "town": "Borne",
+        "lat": 52.302298,
+        "lon": 6.758147,
+        "locationType": "visiting",
+        "locationSource": "",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Marktstraat 23",
+      "postcode": "7622CP",
+      "town": "Borne",
+      "lat": 52.302298,
+      "lon": 6.758147,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://sociaalhus.nl/publicaties/582/ontmoeten"
+  },
+  {
+    "id": "org-kulturhus-de-marke-hengevelde-1jzguq2",
+    "organization": "Kulturhus De Marke Hengevelde",
+    "municipalities": [
+      "Hof van Twente"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.kulturhusdemarke.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hof-kulturhus-de-marke",
+        "title": "dorpsontmoeting",
+        "name": "Kulturhus De Marke Hengevelde · dorpsontmoeting",
+        "description": "Dorpshuis van Hengevelde waar sport, cultuur, het sociale domein, verenigingen, vrijwilligers en een jeugdhonk samenkomen.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "kulturhus",
+          "dorpshuis",
+          "sport",
+          "cultuur",
+          "sociaal domein"
+        ],
+        "tags": [
+          "ontmoeten",
+          "kulturhus",
+          "dorpshuis",
+          "sport",
+          "cultuur",
+          "Hengevelde"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "ontmoeten/bewegen",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Jong en oud uit Hengevelde en omgeving.",
+        "costs": "Verschilt per activiteit; veel functies worden door vrijwilligers gedragen.",
+        "access": "Publiek toegankelijk bij activiteiten en als bezoeker; programma via het Kulturhus.",
+        "openingHours": "",
+        "phone": "",
+        "email": "info@kulturhusdemarke.nl",
+        "source": "https://www.kulturhusdemarke.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Kulturhus De Marke",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Bretelerstraat 16",
+        "postcode": "7496PP",
+        "town": "Hengevelde",
+        "lat": 52.19733712,
+        "lon": 6.63815534,
+        "locationType": "visiting",
+        "locationSource": "https://www.kulturhusdemarke.nl/",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Bretelerstraat 16",
+      "postcode": "7496PP",
+      "town": "Hengevelde",
+      "lat": 52.19733712,
+      "lon": 6.63815534,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "visiting",
+      "locationSource": "https://www.kulturhusdemarke.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.kulturhusdemarke.nl/"
   },
   {
     "id": "org-kulturhus-hoge-hexel-1iczozv",
@@ -27053,6 +27587,91 @@
     "primarySource": "https://www.borne.nl/sociaal-fonds"
   },
   {
+    "id": "org-sociaal-hus-borne-1delb1l",
+    "organization": "Sociaal Hus Borne",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "advies"
+    ],
+    "sources": [
+      "https://www.borne.nl/sociaal-hus"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "candidate-949a61a6c9069512",
+        "title": "vrije inloop",
+        "name": "Sociaal Hus Borne · vrije inloop",
+        "description": "Vrij toegankelijk eerste aanspreekpunt voor inwoners van Borne, Hertme en Zenderen met vragen over onder meer zorg, opvoeding, geld, wonen, vervoer, werk en meedoen.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [
+          "inloop",
+          "meedoen"
+        ],
+        "tags": [
+          "advies",
+          "inloop",
+          "meedoen",
+          "welzijn",
+          "opvoeden",
+          "geld",
+          "wonen"
+        ],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Borne, Hertme en Zenderen met een vraag over het dagelijks leven of ondersteuning.",
+        "costs": "Gratis informatie en advies.",
+        "access": "Zonder afspraak binnenlopen tijdens de algemene inloopspreekuren.",
+        "openingHours": "Maandag 16.00-18.30 uur; dinsdag t/m vrijdag 09.00-11.30 uur.",
+        "phone": "074 265 8590",
+        "email": "info@sociaalhus.nl",
+        "source": "https://www.borne.nl/sociaal-hus",
+        "sourceKind": "provider",
+        "sourceTitle": "Gemeente Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "De Haven 1",
+        "postcode": "7622DH",
+        "town": "Borne",
+        "lat": 52.30236616,
+        "lon": 6.75844818,
+        "locationType": "visiting",
+        "locationSource": "https://www.borne.nl/sociaal-hus",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "De Haven 1",
+      "postcode": "7622DH",
+      "town": "Borne",
+      "lat": 52.30236616,
+      "lon": 6.75844818,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://www.borne.nl/sociaal-hus",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.borne.nl/sociaal-hus"
+  },
+  {
     "id": "org-sociaal-plein-almelo-ka3maf",
     "organization": "Sociaal Plein Almelo",
     "municipalities": [
@@ -29968,6 +30587,90 @@
     },
     "status": "source-backed",
     "primarySource": "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/"
+  },
+  {
+    "id": "org-stefanshof-borne-1n0zcfu",
+    "organization": "Stefanshof Borne",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://sociaalhus.nl/publicaties/582/ontmoeten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-borne-stefanshof",
+        "title": "soos en bijeenkomsten",
+        "name": "Stefanshof Borne · soos en bijeenkomsten",
+        "description": "Ontmoetingslocatie met onder meer maandelijkse KBO-bijeenkomsten en soosmiddagen, cursussen en lezingen.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "soos",
+          "cursussen"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "soos",
+          "cursussen",
+          "Borne"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Met name oudere inwoners van Borne.",
+        "costs": "Verschilt per activiteit.",
+        "access": "Bijeenkomsten volgens het programma van de gebruikers.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Grotestraat 207",
+        "postcode": "7622GH",
+        "town": "Borne",
+        "lat": 52.30098011,
+        "lon": 6.75473395,
+        "locationType": "visiting",
+        "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Grotestraat 207",
+      "postcode": "7622GH",
+      "town": "Borne",
+      "lat": 52.30098011,
+      "lon": 6.75473395,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://sociaalhus.nl/publicaties/582/ontmoeten"
   },
   {
     "id": "org-stichting-aandacht-voor-elkaar-1o35l26",
@@ -34822,14 +35525,13 @@
       "https://www.wijkrachtborne.nl/ouderen-ondersteuning",
       "https://www.wijkrachtborne.nl/praktische-hulp",
       "https://www.wijkrachtborne.nl/onze-diensten/jongerenwerk-skillz-1",
-      "https://www.borne.nl/sociaal-hus",
       "https://www.wijkrachtborne.nl/ontmoetingsmogelijkheden",
       "https://www.wijkrachtborne.nl/ouderen/vrijwilligers",
       "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders"
     ],
-    "offerCount": 16,
+    "offerCount": 15,
     "reviewNeeded": 2,
-    "sourceBacked": 14,
+    "sourceBacked": 13,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -35423,58 +36125,6 @@
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "service-area",
         "mapPin": false
-      },
-      {
-        "id": "candidate-949a61a6c9069512",
-        "title": "Sociaal Hus",
-        "name": "Wijkracht Borne · Sociaal Hus",
-        "description": "Vrij toegankelijke plek voor vragen over welzijn, opvoeden, zorg, wonen, financiën, gezin, relatie, vrijwilligerswerk en meedoen.",
-        "municipality": "Borne",
-        "municipalities": [
-          "Borne"
-        ],
-        "category": "advies",
-        "themes": [
-          "advies"
-        ],
-        "subthemes": [
-          "inloop",
-          "meedoen"
-        ],
-        "tags": [
-          "advies",
-          "inloop",
-          "meedoen",
-          "welzijn",
-          "opvoeden",
-          "geld",
-          "wonen"
-        ],
-        "guidePaths": [
-          "ontmoeten/inloop"
-        ],
-        "guideExclude": false,
-        "audience": "Inwoners van Borne, Hertme en Zenderen.",
-        "costs": "Gratis.",
-        "access": "Zonder verwijzing of indicatie. Vrije inloop maandag 16.00-18.30 en dinsdag t/m vrijdag 09.00-11.30.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.borne.nl/sociaal-hus",
-        "sourceKind": "provider",
-        "sourceTitle": "Gemeente Borne",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
-        "address": "De Haven 1a",
-        "postcode": "7622DH",
-        "town": "Borne",
-        "lat": 52.30216649,
-        "lon": 6.75804917,
-        "locationType": "visiting",
-        "locationSource": "https://www.borne.nl/sociaal-hus",
-        "locationMunicipality": "Borne",
-        "mapLocationType": "address",
-        "mapPin": true
       },
       {
         "id": "candidate-8055b343cd2fe4ed",
@@ -37147,13 +37797,13 @@
         "sourceTitle": "Sociaal Hus Borne",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Marktstraat 1",
+        "address": "Marktstraat 23",
         "postcode": "7622CP",
         "town": "Borne",
-        "lat": 52.30147418,
-        "lon": 6.75792253,
+        "lat": 52.302298,
+        "lon": 6.758147,
         "locationType": "visiting",
-        "locationSource": "https://www.kulturhusborne.nl/",
+        "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
         "locationMunicipality": "Borne",
         "mapLocationType": "address",
         "mapPin": true
