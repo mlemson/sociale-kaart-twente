@@ -212,7 +212,9 @@
           "boodschappen",
           "senioren"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "Senioren die niet zelfstandig hun boodschappen kunnen doen.",
         "costs": "Kleine bijdrage voor de vrijwilliger; zie bron voor de actuele voorwaarden.",
         "access": "Aanmelden bij Alifa Welzijn Senioren.",
@@ -5201,7 +5203,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -12338,7 +12342,9 @@
           "repaircafé",
           "praktische hulp"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "Inwoners van Oldenzaal.",
         "costs": "Laagdrempelig; controleer eventuele materiaalkosten.",
         "access": "Vrije inloop volgens agenda.",
@@ -18213,7 +18219,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -22373,7 +22381,9 @@
           "activiteit",
           "sociaal werk"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
         "costs": "Controleer de actuele bijdrage.",
         "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
@@ -26739,7 +26749,10 @@
           "ontmoeten",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -26902,7 +26915,10 @@
           "advies",
           "geldzorgen"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/schulden",
+          "geld/formulieren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27191,7 +27207,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27318,7 +27336,9 @@
           "advies",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/eenzaamheid"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27662,7 +27682,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/eenzaamheid"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27699,7 +27721,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/eenzaamheid"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27937,7 +27961,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -28171,7 +28197,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -28284,7 +28312,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -28588,7 +28618,10 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -28625,7 +28658,10 @@
         "tags": [
           "mentaal"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -29297,7 +29333,9 @@
           "sociale vaardigheden",
           "communicatie"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn"
+        ],
         "audience": "Volwassenen vanaf 18 jaar die vooral leren door te doen.",
         "costs": "Gratis.",
         "access": "Rechtstreeks aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek om te kijken of de training past.",
@@ -30316,7 +30354,9 @@
           "kaarten",
           "senioren"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Buurtbewoners en senioren.",
         "costs": "Controleer actuele bijdrage.",
         "access": "Vrijblijvend een keer meedoen.",
@@ -30386,7 +30426,10 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/eenzaamheid",
+          "zorg/beperking"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -31311,7 +31354,9 @@
           "jeugd",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -31348,7 +31393,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -31600,7 +31647,9 @@
           "ontmoeten",
           "creatief"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners van Twenterand.",
         "costs": "Controleer actuele bijdrage.",
         "access": "Volgens de actuele agenda.",
@@ -31642,7 +31691,9 @@
           "inloop",
           "daginvulling"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
         "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
         "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
@@ -32057,7 +32108,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -32097,7 +32150,9 @@
           "ontmoeten",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -32305,7 +32360,9 @@
           "activiteit",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
         "costs": "Controleer de actuele bijdrage.",
         "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
@@ -32347,7 +32404,9 @@
           "senioren",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Senioren.",
         "costs": "Controleer actuele bijdrage.",
         "access": "Vrije of laagdrempelige deelname.",
@@ -32466,7 +32525,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -32591,7 +32652,9 @@
           "mannen",
           "gesprek"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Mannen in Twenterand.",
         "costs": "Controleer actuele bijdrage.",
         "access": "Volgens de actuele agenda.",
@@ -32633,7 +32696,9 @@
           "inloop",
           "daginvulling"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
         "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
         "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
@@ -32670,7 +32735,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -33246,7 +33313,9 @@
           "soos",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Den Ham en omgeving.",
         "costs": "Controleer actuele bijdrage.",
         "access": "Via het actuele programma van ZorgSaam.",
@@ -33283,7 +33352,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",

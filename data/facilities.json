@@ -7439,7 +7439,9 @@
     "subthemes": [
       "terugkerende activiteit"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "meedoen/daginvulling"
+    ],
     "description": "Wekelijkse creatieve club met onder meer breien, haken, tekenen en diamond painting.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
@@ -7700,7 +7702,9 @@
     "subthemes": [
       "terugkerende activiteit"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Wekelijkse ontmoetingsmiddag voor mannen met biljart, spel, koffie en gesprekken.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
