@@ -33,19 +33,23 @@
 
 <main class="guide-main" id="guide-content">
   <section class="guide-intro" aria-labelledby="guide-title">
-    <div>
+    <div class="guide-intro-copy">
       <p class="guide-kicker">Wegwijzer</p>
-      <h1 id="guide-title">Vind hulp stap voor stap</h1>
-      <p class="guide-lead">Kies eerst waar de vraag over gaat. Daarna verfijn je totdat je bij passende organisaties en concrete vormen van aanbod uitkomt.</p>
+      <h1 id="guide-title">Waar zoek je informatie over?</h1>
+      <p class="guide-lead">Kies een onderwerp en klik verder naar passend aanbod in Twente.</p>
     </div>
-    <div class="guide-filter-card">
-      <label for="guide-municipality">Gemeente</label>
-      <select id="guide-municipality"><option value="">Heel Twente</option></select>
-      <label for="guide-search">Weet je al wat je zoekt?</label>
-      <div class="guide-search-row">
-        <input id="guide-search" type="search" placeholder="Bijv. dakloos, autisme, schulden, taal…" autocomplete="off">
-        <button id="guide-search-clear" type="button" hidden>Wissen</button>
-      </div>
+    <div class="guide-filter-card" aria-label="Zoeken en filteren">
+      <label class="guide-search-main" for="guide-search">
+        <span>Zoeken</span>
+        <span class="guide-search-row">
+          <input id="guide-search" type="search" placeholder="Bijv. autisme, schulden of taal" autocomplete="off">
+          <button id="guide-search-clear" type="button" hidden>Wissen</button>
+        </span>
+      </label>
+      <label class="guide-municipality-main" for="guide-municipality">
+        <span>Gemeente</span>
+        <select id="guide-municipality"><option value="">Heel Twente</option></select>
+      </label>
     </div>
   </section>
 
