@@ -7174,6 +7174,50 @@
     "catalogOrganizationId": "org-kulturhus-de-bijenkorf-425l5h"
   },
   {
+    "id": "offer-extra-20261002-losser-kulturhus-de-glaan",
+    "name": "Kulturhus De Glaan · ontmoetingscentrum Glane",
+    "category": "ontmoeten",
+    "address": "Gronausestraat 330A",
+    "postcode": "7585PE",
+    "town": "Glane",
+    "municipality": "Losser",
+    "serviceMunicipalities": [
+      "Losser"
+    ],
+    "lat": 52.23175032,
+    "lon": 7.00293822,
+    "source": "https://www.losser.nl/kulturhus-de-glaan",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "kulturhus",
+      "dorpshuis",
+      "Glane"
+    ],
+    "subthemes": [
+      "kulturhus",
+      "dorpsontmoeting",
+      "verenigingen"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Centraal ontmoetingscentrum van Glane voor dorpsactiviteiten, verenigingen en sociale ontmoeting.",
+    "audience": "Inwoners van Glane en omgeving.",
+    "costs": "Verschilt per activiteit; de ontmoetingsfunctie is laagdrempelig.",
+    "access": "Toegankelijk tijdens activiteiten, bijeenkomsten en openingstijden van het Kulturhus.",
+    "openingHours": "",
+    "phone": "053 538 38 38",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.losser.nl/kulturhus-de-glaan",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-kulturhus-de-glaan-6yrbaw"
+  },
+  {
     "id": "offer-extra-20261002-hof-kulturhus-de-marke",
     "name": "Kulturhus De Marke Hengevelde · dorpsontmoeting",
     "category": "ontmoeten",

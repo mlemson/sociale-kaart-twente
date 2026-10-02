@@ -14830,8 +14830,8 @@
       "https://www.impuls-oldenzaal.nl/agenda/koffie-inloop-de-symfonie/"
     ],
     "offerCount": 44,
-    "reviewNeeded": 1,
-    "sourceBacked": 43,
+    "reviewNeeded": 0,
+    "sourceBacked": 44,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -15910,7 +15910,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Impuls",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Wilhelminastraat 5",
         "postcode": "7571CE",
         "town": "Oldenzaal",
@@ -16929,7 +16929,7 @@
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
       "mapLocationType": "address"
     },
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://www.impuls-oldenzaal.nl/wat-we-doen/bewegen"
   },
   {
@@ -18896,6 +18896,90 @@
     "primarySource": "https://sociaalhus.nl/publicaties/582/ontmoeten"
   },
   {
+    "id": "org-kulturhus-de-glaan-6yrbaw",
+    "organization": "Kulturhus De Glaan",
+    "municipalities": [
+      "Losser"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.losser.nl/kulturhus-de-glaan"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-losser-kulturhus-de-glaan",
+        "title": "ontmoetingscentrum Glane",
+        "name": "Kulturhus De Glaan · ontmoetingscentrum Glane",
+        "description": "Centraal ontmoetingscentrum van Glane voor dorpsactiviteiten, verenigingen en sociale ontmoeting.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "kulturhus",
+          "dorpsontmoeting",
+          "verenigingen"
+        ],
+        "tags": [
+          "ontmoeten",
+          "kulturhus",
+          "dorpshuis",
+          "Glane"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Glane en omgeving.",
+        "costs": "Verschilt per activiteit; de ontmoetingsfunctie is laagdrempelig.",
+        "access": "Toegankelijk tijdens activiteiten, bijeenkomsten en openingstijden van het Kulturhus.",
+        "openingHours": "",
+        "phone": "053 538 38 38",
+        "email": "",
+        "source": "https://www.losser.nl/kulturhus-de-glaan",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Gemeente Losser",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Gronausestraat 330A",
+        "postcode": "7585PE",
+        "town": "Glane",
+        "lat": 52.23175032,
+        "lon": 7.00293822,
+        "locationType": "visiting",
+        "locationSource": "https://www.losser.nl/kulturhus-de-glaan",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Gronausestraat 330A",
+      "postcode": "7585PE",
+      "town": "Glane",
+      "lat": 52.23175032,
+      "lon": 7.00293822,
+      "locationMunicipality": "Losser",
+      "locationType": "visiting",
+      "locationSource": "https://www.losser.nl/kulturhus-de-glaan",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.losser.nl/kulturhus-de-glaan"
+  },
+  {
     "id": "org-kulturhus-de-marke-hengevelde-1jzguq2",
     "organization": "Kulturhus De Marke Hengevelde",
     "municipalities": [
@@ -19419,8 +19503,8 @@
       "https://www.leendertvriel.nl/"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -19458,7 +19542,7 @@
         "sourceKind": "first-party",
         "sourceTitle": "Stichting Leendert Vriel Enschede",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Het Bijvank 155",
         "postcode": "7544DB",
         "town": "Enschede",
@@ -19482,7 +19566,7 @@
       "locationSource": "https://leendertvriel.nl/contact-post/enschede-haaksbergen/",
       "mapLocationType": "address"
     },
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://www.leendertvriel.nl/"
   },
   {
@@ -21838,8 +21922,8 @@
       "https://www.noaberpoort.nl/%2891362%29-Noaberpoort/Sociaal-Domein-Nieuws/Ouder-en-Kindcafe-september2026.html"
     ],
     "offerCount": 22,
-    "reviewNeeded": 4,
-    "sourceBacked": 18,
+    "reviewNeeded": 0,
+    "sourceBacked": 22,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -21878,7 +21962,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Noaberpoort",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Blankenburgerstraat 28",
         "postcode": "7481EB",
         "town": "Haaksbergen",
@@ -21923,7 +22007,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Noaberpoort",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Blankenburgerstraat 28",
         "postcode": "7481EB",
         "town": "Haaksbergen",
@@ -22012,7 +22096,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Noaberpoort",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Blankenburgerstraat 28",
         "postcode": "7481EB",
         "town": "Haaksbergen",
@@ -22236,7 +22320,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Noaberpoort",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Blankenburgerstraat 28",
         "postcode": "7481EB",
         "town": "Haaksbergen",
@@ -22892,7 +22976,7 @@
       "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
       "mapLocationType": "address"
     },
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://www.noaberpoort.nl/AutoMaatje"
   },
   {
@@ -24580,8 +24664,8 @@
       "https://socialekaart.almelo.nl/is/organisatie/327924/invis2/realcovery-inloophuis-locatie-almelo"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -24619,7 +24703,7 @@
         "sourceKind": "municipal-directory",
         "sourceTitle": "Sociale kaart Almelo",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Hoornbladstraat 17",
         "postcode": "7601SZ",
         "town": "Almelo",
@@ -24643,7 +24727,7 @@
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327924/invis2/realcovery-inloophuis-locatie-almelo",
       "mapLocationType": "address"
     },
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/327924/invis2/realcovery-inloophuis-locatie-almelo"
   },
   {
@@ -25137,8 +25221,8 @@
       "https://salut-welzijn.nl/contact/"
     ],
     "offerCount": 28,
-    "reviewNeeded": 1,
-    "sourceBacked": 27,
+    "reviewNeeded": 0,
+    "sourceBacked": 28,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -25779,7 +25863,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Salut",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Grotestraat 86",
         "postcode": "7471BR",
         "town": "Goor",
@@ -26446,7 +26530,7 @@
       "locationSource": "https://salut-welzijn.nl/contact/",
       "mapLocationType": "address"
     },
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt"
   },
   {
@@ -27311,8 +27395,8 @@
       "https://swtd.nl/events/open-eettafel-weerselo/var/ri-20.l-L1/"
     ],
     "offerCount": 48,
-    "reviewNeeded": 1,
-    "sourceBacked": 47,
+    "reviewNeeded": 0,
+    "sourceBacked": 48,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -27396,7 +27480,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Sociaal, dat werkt!",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Eeshoflaan 21k-121",
         "postcode": "7651LZ",
         "town": "Tubbergen",
@@ -29627,7 +29711,7 @@
       "locationSource": "https://swtd.nl/agenda/",
       "mapLocationType": "address"
     },
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://swtd.nl/ons-aanbod/ouder-worden/activiteiten-en-cursussen"
   },
   {
@@ -31119,8 +31203,8 @@
       "https://stichtingpresent.nl/enschede/ik-zoek-hulp-2/"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -31155,7 +31239,7 @@
         "sourceKind": "first-party",
         "sourceTitle": "Stichting Present Enschede",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Deurningerstraat 12A",
         "postcode": "7514BH",
         "town": "Enschede",
@@ -31179,7 +31263,7 @@
       "locationSource": "https://stichtingpresent.nl/enschede/ik-zoek-hulp-2/",
       "mapLocationType": "address"
     },
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://stichtingpresent.nl/enschede/ik-zoek-hulp-2/"
   },
   {
@@ -32429,8 +32513,8 @@
       "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234/"
     ],
     "offerCount": 25,
-    "reviewNeeded": 1,
-    "sourceBacked": 24,
+    "reviewNeeded": 0,
+    "sourceBacked": 25,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -32941,7 +33025,7 @@
         "sourceKind": "provider",
         "sourceTitle": "ViaVie Welzijn",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Roelf Bosmastraat 47",
         "postcode": "7462MZ",
         "town": "Rijssen",
@@ -33611,7 +33695,7 @@
       "locationSource": "https://viaviewelzijn.nl/events/fietslessen-voor-statushouders/",
       "mapLocationType": "address"
     },
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://www.viaviewelzijn.nl/buurtbemiddeling"
   },
   {
@@ -35332,8 +35416,8 @@
       "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders"
     ],
     "offerCount": 15,
-    "reviewNeeded": 2,
-    "sourceBacked": 13,
+    "reviewNeeded": 0,
+    "sourceBacked": 15,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -35464,7 +35548,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Wijkracht Borne",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "De Haven 1a",
         "postcode": "7622DH",
         "town": "Borne",
@@ -35830,7 +35914,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Wijkracht Borne",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Johannaweg 26",
         "postcode": "7555CR",
         "town": "Hengelo",
@@ -36030,7 +36114,7 @@
       "locationSource": "https://www.wijkrachtborne.nl/onze-diensten/volwassenen/anwb-automaatje",
       "mapLocationType": "address"
     },
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://www.wijkrachtborne.nl/ouderen/activiteiten-en-ontmoeting"
   },
   {
@@ -36082,8 +36166,8 @@
       "https://www.wijkrachthengelo.nl/groot-driene/agenda/31113/inloop"
     ],
     "offerCount": 30,
-    "reviewNeeded": 4,
-    "sourceBacked": 26,
+    "reviewNeeded": 0,
+    "sourceBacked": 30,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -36204,7 +36288,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Wijkracht Hengelo",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Johannaweg 26",
         "postcode": "7555CR",
         "town": "Hengelo",
@@ -36295,7 +36379,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Wijkracht Hengelo",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Johannaweg 26",
         "postcode": "7555CR",
         "town": "Hengelo",
@@ -36735,7 +36819,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Wijkracht Hengelo",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Johannaweg 26",
         "postcode": "7555CR",
         "town": "Hengelo",
@@ -36865,7 +36949,7 @@
         "sourceKind": "provider",
         "sourceTitle": "Wijkracht Hengelo",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Johannaweg 26",
         "postcode": "7555CR",
         "town": "Hengelo",
@@ -37440,7 +37524,7 @@
       "locationSource": "https://www.wijkrachthengelo.nl/groot-driene/agenda/31113/inloop",
       "mapLocationType": "service-area"
     },
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/aanstaande-ouders-kansrijke-kaart"
   },
   {
@@ -40380,8 +40464,8 @@
       "https://www.zorgsaamtwenterand.nl/contact/"
     ],
     "offerCount": 55,
-    "reviewNeeded": 2,
-    "sourceBacked": 53,
+    "reviewNeeded": 0,
+    "sourceBacked": 55,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -40465,7 +40549,7 @@
         "sourceKind": "provider",
         "sourceTitle": "ZorgSaam Twenterand",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Burgemeester Koetjestraat 2",
         "postcode": "7681ZP",
         "town": "Vroomshoop",
@@ -41340,7 +41424,7 @@
         "sourceKind": "provider",
         "sourceTitle": "ZorgSaam Twenterand",
         "checked": "2026-09-15",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "Burgemeester Koetjestraat 2",
         "postcode": "7681ZP",
         "town": "Vroomshoop",
@@ -42970,7 +43054,7 @@
       "locationSource": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
       "mapLocationType": "address"
     },
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://www.zorgsaamtwenterand.nl/kansrijk-opgroeien/activiteiten-bijeenkomsten-kansrijk-opgroeien"
   }
 ]

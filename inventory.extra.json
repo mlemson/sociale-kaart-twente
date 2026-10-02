@@ -12729,14 +12729,18 @@
       "audience": "Inwoners van Glane en omgeving.",
       "access": "Toegankelijk tijdens activiteiten, bijeenkomsten en openingstijden van het Kulturhus.",
       "costs": "Verschilt per activiteit; de ontmoetingsfunctie is laagdrempelig.",
-      "address": "Gronausestraat 330a",
+      "address": "Gronausestraat 330A",
       "town": "Glane",
       "phone": "053 538 38 38",
       "locationType": "visiting",
       "locationSource": "https://www.losser.nl/kulturhus-de-glaan",
       "locationMunicipality": "Losser",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "postcode": "7585PE",
+      "lat": 52.23175032,
+      "lon": 7.00293822,
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
