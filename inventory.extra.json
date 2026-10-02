@@ -13065,6 +13065,96 @@
       "lon": 6.65819525,
       "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
       "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "locationMunicipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "Rijssen-Holten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261003-rijssen-kern-van-zuid",
+      "name": "ViaVie Welzijn · Buurthuiskamer Kern van Zuid",
+      "source": "https://viaviewelzijn.nl/events/recreatiebridge/?occurrence=2026-09-18",
+      "sourceTitle": "ViaVie Welzijn",
+      "description": "Buurthuiskamer in Rijssen met terugkerende sociale activiteiten, inloopspreekuren, recreatiebridge, BuurtBand en naschoolse activiteiten.",
+      "audience": "Buurtbewoners van alle leeftijden; activiteiten verschillen per moment.",
+      "access": "Bekijk de actuele agenda; meerdere activiteiten zijn vrije inloop of gratis.",
+      "costs": "Verschilt per activiteit; een deel van het aanbod is gratis.",
+      "address": "Johannes Vermeerstraat 8",
+      "postcode": "7462BN",
+      "town": "Rijssen",
+      "subthemes": [
+        "buurthuiskamer",
+        "wijk",
+        "activiteiten"
+      ]
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "locationMunicipality": "Rijssen-Holten",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal",
+        "ontmoeten"
+      ],
+      "tags": [
+        "taal",
+        "Nederlands",
+        "ontmoeten",
+        "gratis",
+        "Rijssen"
+      ],
+      "guidePaths": [
+        "taal/nederlands",
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261003-rijssen-taalcafe-zuid",
+      "name": "ViaVie Welzijn · Taalcafé Zuid",
+      "source": "https://viaviewelzijn.nl/taalpunt/",
+      "sourceTitle": "ViaVie Welzijn",
+      "description": "Laagdrempelig Taalcafé in Rijssen-Zuid om samen Nederlands te oefenen en anderen te ontmoeten.",
+      "audience": "Inwoners die de Nederlandse taal willen oefenen in een informele groep.",
+      "access": "Dinsdagavond volgens het actuele programma; aanmelden is niet nodig.",
+      "costs": "Gratis.",
+      "address": "Wilhelminastraat 119",
+      "town": "Rijssen",
+      "subthemes": [
+        "Nederlands",
+        "taalcafé"
+      ]
     }
   ],
   "addressEnrichmentVersion": 1,
