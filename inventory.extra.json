@@ -860,7 +860,10 @@
       "locationType": "source-address",
       "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "vervoer/sociaal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1028,7 +1031,12 @@
       "locationType": "source-address",
       "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/formulieren",
+        "taal/digitaal",
+        "taal/basis"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1073,7 +1081,11 @@
       "lon": 6.58441448,
       "locationMunicipality": "Hof van Twente",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/dementie",
+        "zorg/mantelzorg"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1245,7 +1257,11 @@
       "lon": 7.00588809,
       "locationMunicipality": "Losser",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/nederlands",
+        "taal/basis"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1287,7 +1303,10 @@
       "locationType": "contact",
       "locationSource": "https://www.fundamentlosser.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1329,7 +1348,10 @@
       "locationType": "contact",
       "locationSource": "https://www.fundamentlosser.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/jongeren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1542,7 +1564,11 @@
       "lon": 6.829373,
       "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1587,7 +1613,11 @@
       "lon": 6.7758793,
       "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1632,7 +1662,11 @@
       "lon": 6.7819718,
       "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1676,7 +1710,10 @@
       "lon": 6.56844898,
       "locationMunicipality": "Twenterand",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1720,7 +1757,10 @@
       "lon": 6.62769739,
       "locationMunicipality": "Twenterand",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1764,7 +1804,12 @@
       "lon": 6.62495457,
       "locationMunicipality": "Twenterand",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/dementie",
+        "zorg/mantelzorg",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1808,7 +1853,12 @@
       "lon": 6.4974865,
       "locationMunicipality": "Twenterand",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/dementie",
+        "zorg/mantelzorg",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -2200,7 +2250,10 @@
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -2766,7 +2819,10 @@
       "locationType": "contact",
       "locationSource": "https://swtd.nl/contact",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3214,7 +3270,11 @@
       "lon": 6.51831106,
       "locationMunicipality": "Rijssen-Holten",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/eenzaamheid",
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3259,7 +3319,11 @@
       "lon": 6.40674914,
       "locationMunicipality": "Rijssen-Holten",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "migratie/taal",
+        "vervoer/leren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3309,7 +3373,10 @@
       "lon": 6.90400645,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3359,7 +3426,10 @@
       "lon": 6.8756301,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3409,7 +3479,10 @@
       "lon": 6.90096801,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3459,7 +3532,10 @@
       "lon": 6.86113824,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3509,7 +3585,10 @@
       "lon": 6.88498393,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3559,7 +3638,10 @@
       "lon": 6.91847412,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3609,7 +3691,10 @@
       "lon": 6.90914497,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3659,7 +3744,10 @@
       "lon": 6.97164919,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3709,7 +3797,10 @@
       "lon": 6.90826728,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3759,7 +3850,10 @@
       "lon": 6.89902378,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3809,7 +3903,10 @@
       "lon": 6.87571778,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3859,7 +3956,10 @@
       "lon": 6.88230934,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3909,7 +4009,10 @@
       "lon": 6.8768224,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -3956,7 +4059,10 @@
       "lon": 6.88230934,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4003,7 +4109,10 @@
       "lon": 6.88230934,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4050,7 +4159,10 @@
       "lon": 6.88230934,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4097,7 +4209,10 @@
       "lon": 6.88230934,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4144,7 +4259,11 @@
       "lon": 6.88230934,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "recht/juridisch",
+        "veiligheid/relaties"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4191,7 +4310,11 @@
       "lon": 6.88230934,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/opvoeden",
+        "veiligheid/relaties"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4502,7 +4625,10 @@
       "locationType": "contact",
       "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4634,7 +4760,11 @@
       "locationType": "contact",
       "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "onderwijs/jongeren",
+        "ontmoeten/bewegen"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4812,7 +4942,10 @@
       "lon": 6.74505822,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/nederlands"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4858,7 +4991,10 @@
       "lon": 6.74505822,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/digitaal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4904,7 +5040,11 @@
       "lon": 6.74505822,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/formulieren",
+        "taal/digitaal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4950,7 +5090,11 @@
       "lon": 6.74505822,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "zorg/dementie",
+        "zorg/mantelzorg"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4996,7 +5140,11 @@
       "lon": 6.74505822,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "mentaal/welzijn",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -5603,7 +5751,10 @@
       "lon": 6.95413156,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -5650,7 +5801,10 @@
       "lon": 6.90096801,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -5697,7 +5851,10 @@
       "lon": 6.89691129,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -5744,7 +5901,10 @@
       "lon": 6.86315787,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "sourceKind": "first-party",

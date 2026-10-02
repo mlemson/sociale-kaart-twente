@@ -65,6 +65,8 @@ jobs:
               assert -90 <= item["lat"] <= 90 and -180 <= item["lon"] <= 180, item.get("name")
           print(f"{len(facilities)} kaartlocaties · {len(catalog)} organisaties")
           PY
+      - name: Audit Wegwijzer-indeling
+        run: python tools/audit_wegwijzer.py
       - name: Controleer benodigde GitHub Pages bestanden
         run: |
           test -f index.html

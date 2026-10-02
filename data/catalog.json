@@ -34,7 +34,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -165,7 +167,9 @@
           "senioren",
           "automaatje"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "vervoer/sociaal"
+        ],
         "audience": "Senioren in Enschede die minder mobiel zijn.",
         "costs": "Kleine kilometervergoeding en eventuele parkeerkosten; zie bron voor het actuele tarief.",
         "access": "Vooraf gratis inschrijven bij Alifa; ritten worden door vrijwilligers uitgevoerd.",
@@ -208,7 +212,9 @@
           "boodschappen",
           "senioren"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "Senioren die niet zelfstandig hun boodschappen kunnen doen.",
         "costs": "Kleine bijdrage voor de vrijwilliger; zie bron voor de actuele voorwaarden.",
         "access": "Aanmelden bij Alifa Welzijn Senioren.",
@@ -377,7 +383,9 @@
           "taal",
           "jongeren"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
         "costs": "Controleer de actuele activiteit.",
         "access": "Bekijk de actuele agenda van Alifa.",
@@ -420,7 +428,11 @@
           "mantelzorg",
           "dementie"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "zorg/dementie",
+          "zorg/mantelzorg"
+        ],
         "audience": "Mensen met een lichte vorm van dementie en partners of mantelzorgers.",
         "costs": "",
         "access": "Neem contact op met het betreffende ontmoetingscentrum of Alifa.",
@@ -878,7 +890,10 @@
           "taal",
           "jongeren"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren",
+          "ontmoeten/bewegen"
+        ],
         "audience": "Inwoners van Enschede; doelgroep verschilt per activiteit.",
         "costs": "Controleer de actuele activiteit.",
         "access": "Bekijk de actuele agenda van Alifa.",
@@ -1200,7 +1215,9 @@
           "advies",
           "maatschappelijke ondersteuning"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/clientsteun"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -1418,7 +1435,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -1586,7 +1605,9 @@
           "assertiviteit",
           "training"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn"
+        ],
         "audience": "Volwassenen in het werkgebied van Avedan.",
         "costs": "Gratis.",
         "access": "Aanmelden via Avedan; geen verwijzing nodig.",
@@ -1630,7 +1651,10 @@
           "weerbaarheid",
           "sociale vaardigheden"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "mentaal/welzijn"
+        ],
         "audience": "Kinderen in de betreffende gemeente die baat hebben bij de training.",
         "costs": "Gratis.",
         "access": "Rechtstreeks aanmelden bij Avedan; groepen starten bij voldoende deelnemers.",
@@ -1674,7 +1698,10 @@
           "weerbaarheid",
           "sociale vaardigheden"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "mentaal/welzijn"
+        ],
         "audience": "Kinderen in de betreffende gemeente die baat hebben bij de training.",
         "costs": "Gratis.",
         "access": "Rechtstreeks aanmelden bij Avedan; groepen starten bij voldoende deelnemers.",
@@ -1757,7 +1784,10 @@
         "tags": [
           "jeugd"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "mentaal/welzijn"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -1813,7 +1843,10 @@
           "weerbaarheid",
           "training"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "veiligheid/huiselijk"
+        ],
         "audience": "Vrouwen vanaf 22 jaar waarbij het geweld is gestopt.",
         "costs": "Gratis.",
         "access": "Intake en aanmelding via Avedan.",
@@ -2026,7 +2059,9 @@
           "kinderen",
           "club"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "Kinderen in de wijk.",
         "costs": "Controleer actuele activiteit.",
         "access": "Laagdrempelig via Avedan.",
@@ -2067,7 +2102,9 @@
           "kinderen",
           "club"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "Kinderen in de wijk.",
         "costs": "Controleer actuele activiteit.",
         "access": "Via Avedan.",
@@ -2351,7 +2388,9 @@
           "meiden",
           "club"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "Meiden in de basisschoolleeftijd; actuele groep navragen.",
         "costs": "Controleer actuele activiteit.",
         "access": "Via Avedan.",
@@ -2392,7 +2431,9 @@
           "meiden",
           "club"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "Meiden in de basisschoolleeftijd; actuele groep navragen.",
         "costs": "Controleer actuele activiteit.",
         "access": "Via Avedan.",
@@ -2835,7 +2876,10 @@
           "oefenen",
           "basisvaardigheden"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "taal/nederlands",
+          "taal/basis"
+        ],
         "audience": "Volwassen inwoners van Almelo.",
         "costs": "Taalondersteuning via vrijwilligers is laagdrempelig.",
         "access": "Inloop/inschrijving bij Taalpunt Almelo.",
@@ -3405,7 +3449,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -3598,7 +3644,10 @@
           "OV",
           "digitaal"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "vervoer/leren",
+          "taal/digitaal"
+        ],
         "audience": "Volwassenen die zekerder willen worden in reizen met het openbaar vervoer.",
         "costs": "Gratis.",
         "access": "Reserveren via de bibliotheek.",
@@ -4170,7 +4219,10 @@
           "gratis",
           "informatiepunt digitale overheid"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/formulieren",
+          "taal/digitaal"
+        ],
         "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
         "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit.",
         "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
@@ -4215,7 +4267,10 @@
           "gratis",
           "oefenplein"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "taal/digitaal",
+          "taal/basis"
+        ],
         "audience": "Inwoners van Hengelo, Hof van Twente en Oldenzaal; ook niet-leden zijn welkom.",
         "costs": "Veel hulp en workshops zijn gratis; controleer de activiteit.",
         "access": "Vrije inloop of aanmelden afhankelijk van de activiteit.",
@@ -4435,7 +4490,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "veiligheid/buren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -4510,7 +4567,10 @@
           "wijk",
           "activiteiten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "audience": "Bewoners en wijkbewoners.",
         "costs": "Afhankelijk van activiteit of consumptie.",
         "access": "Rechtstreeks bij de locatie; vraag naar het actuele activiteitenprogramma.",
@@ -5143,7 +5203,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -5293,7 +5355,10 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/beperking",
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -5330,7 +5395,10 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/beperking",
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -5405,7 +5473,10 @@
           "ontmoeten",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "mentaal/eenzaamheid"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -5445,7 +5516,10 @@
           "ontmoeten",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "mentaal/eenzaamheid"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -5772,7 +5846,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -6815,7 +6891,10 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/eenzaamheid",
+          "zorg/beperking"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -6885,7 +6964,10 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/eenzaamheid",
+          "zorg/beperking"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -7240,7 +7322,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/mantelzorg"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -7319,7 +7403,10 @@
           "jeugd",
           "peuters"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "ontmoeten/bewegen"
+        ],
         "audience": "Ouders met peuters.",
         "costs": "Gratis.",
         "access": "Vrije inloop volgens rooster.",
@@ -7364,7 +7451,9 @@
           "training",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Vrije inloop of deelname volgens het actuele programma.",
@@ -7409,7 +7498,10 @@
           "training",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "recht/juridisch",
+          "veiligheid/relaties"
+        ],
         "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Vrije inloop of deelname volgens het actuele programma.",
@@ -7454,7 +7546,10 @@
           "scheiding",
           "ouders"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "recht/juridisch",
+          "veiligheid/relaties"
+        ],
         "audience": "Ouders en andere inwoners met familierechtvragen.",
         "costs": "Gratis.",
         "access": "Vrije inloop op het geplande spreekuur.",
@@ -7497,7 +7592,10 @@
           "relatie",
           "training"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "veiligheid/relaties"
+        ],
         "audience": "Stellen met (jonge) kinderen.",
         "costs": "Controleer actuele voorwaarden.",
         "access": "Aanmelden via Wijkteams Enschede.",
@@ -7542,7 +7640,10 @@
           "training",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "veiligheid/relaties"
+        ],
         "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
         "costs": "Controleer de actuele voorwaarden.",
         "access": "Aanmelden via Wijkteams Enschede.",
@@ -7585,7 +7686,9 @@
           "ouders",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "Ouders met jonge kinderen in Enschede-West.",
         "costs": "Gratis.",
         "access": "Vrije inloop.",
@@ -7630,7 +7733,9 @@
           "training",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Vrije inloop of deelname volgens het actuele programma.",
@@ -7674,7 +7779,9 @@
           "ouders",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "Ouders met jonge kinderen.",
         "costs": "Gratis.",
         "access": "Vrije inloop volgens rooster.",
@@ -7719,7 +7826,9 @@
           "training",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Vrije inloop of deelname volgens het actuele programma.",
@@ -7762,7 +7871,9 @@
           "spelen",
           "peuters"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "Ouders met kinderen van ongeveer 6 maanden tot 4 jaar.",
         "costs": "Gratis.",
         "access": "Vrije inloop volgens rooster.",
@@ -7807,7 +7918,9 @@
           "training",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Vrije inloop of deelname volgens het actuele programma.",
@@ -8170,7 +8283,10 @@
           "ontmoeten",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Voor iedereen; vrij binnenlopen of rechtstreeks contact opnemen. Activiteiten kunnen een kleine bijdrage hebben.",
@@ -8212,7 +8328,9 @@
           "cursus",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "vervoer/sociaal"
+        ],
         "audience": "Inwoners van de gemeente Losser.",
         "costs": "Kleine onkostenvergoeding per rit.",
         "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
@@ -8583,7 +8701,9 @@
           "activiteit",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
         "costs": "Controleer de actuele activiteit.",
         "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
@@ -8627,7 +8747,9 @@
           "spelen",
           "creatief"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "Kinderen van 5 tot en met 12 jaar.",
         "costs": "Controleer actuele activiteit.",
         "access": "Volgens de actuele agenda.",
@@ -8755,7 +8877,9 @@
           "creatief",
           "digitaal"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "Jeugd van 9 tot 18 jaar.",
         "costs": "Controleer de actuele activiteit.",
         "access": "Inschrijven op de intekenlijst bij de bibliotheek; beperkte plekken.",
@@ -8796,7 +8920,9 @@
           "activiteit",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
         "costs": "Controleer de actuele activiteit.",
         "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
@@ -9080,7 +9206,10 @@
           "cursus",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "taal/nederlands",
+          "meedoen/vrijwillig"
+        ],
         "audience": "Inwoners van de gemeente Losser.",
         "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
         "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
@@ -9164,7 +9293,10 @@
           "cursus",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "taal/nederlands",
+          "taal/basis"
+        ],
         "audience": "Inwoners van de gemeente Losser.",
         "costs": "Veel ondersteuning is gratis of laagdrempelig; controleer de activiteit.",
         "access": "Rechtstreeks via Fundament; bekijk de actuele tijden.",
@@ -9205,7 +9337,10 @@
           "daginvulling",
           "taal"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "taal/nederlands",
+          "taal/basis"
+        ],
         "audience": "Inwoners van de gemeente Losser.",
         "costs": "Laagdrempelig; controleer eventuele bijdrage.",
         "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
@@ -9608,7 +9743,9 @@
           "cultuur",
           "meedoen"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Inwoners van de gemeente Hellendoorn met een laag inkomen die aan de voorwaarden voldoen.",
         "costs": "De actuele budgetten en voorwaarden zijn zichtbaar na inloggen of op de gemeentelijke informatiepagina.",
         "access": "Aanvragen en besteden verloopt via de Meedoen-webwinkel met DigiD; hulp is beschikbaar via de gemeente.",
@@ -9687,7 +9824,10 @@
           "scheiding",
           "training"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "veiligheid/relaties"
+        ],
         "audience": "Kinderen van 7 tot 12 jaar uit Losser en hun ouders.",
         "costs": "Gratis.",
         "access": "Aanmelden via schoolmaatschappelijk werk of gemeente.",
@@ -9735,7 +9875,9 @@
           "cultuur",
           "meedoen"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Inwoners van Losser van 18 jaar en ouder met een laag inkomen of weinig vermogen die aan de voorwaarden voldoen.",
         "costs": "De actuele maximale vergoeding en voorwaarden staan op de gemeentepagina.",
         "access": "Online aanvragen met DigiD; hulp is mogelijk via toegangsteam wijz in 't Lossers hoes.",
@@ -10052,7 +10194,11 @@
         "tags": [
           "geld"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/schulden",
+          "geld/regelingen",
+          "geld/formulieren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -10481,7 +10627,10 @@
           "opvoeden & gezin",
           "scheiding"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "veiligheid/relaties"
+        ],
         "audience": "Gescheiden ouders en hun kinderen.",
         "costs": "",
         "access": "Vrijwillige ondersteuning; neem contact op met Humanitas Twente voor aanmelding en voorwaarden.",
@@ -10536,7 +10685,10 @@
           "administratie",
           "nieuwkomers"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/formulieren",
+          "migratie/nieuwkomer"
+        ],
         "audience": "Nieuwkomers in Twente.",
         "costs": "Vrijwillige ondersteuning.",
         "access": "Via Humanitas Twente.",
@@ -10583,7 +10735,10 @@
           "jeugd",
           "administratie"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/schulden",
+          "geld/formulieren"
+        ],
         "audience": "Jongeren en jongvolwassenen met vragen of stress rond geld en administratie.",
         "costs": "Gratis vrijwilligershulp.",
         "access": "Vrijwillige ondersteuning; neem contact op met Humanitas voor aanmelding en beschikbaarheid.",
@@ -11417,7 +11572,10 @@
           "formulieren",
           "digitaal"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/formulieren",
+          "taal/digitaal"
+        ],
         "audience": "Inwoners van Oldenzaal.",
         "costs": "Gratis.",
         "access": "Zonder afspraak binnenlopen tijdens het spreekuur.",
@@ -11878,7 +12036,9 @@
           "ontmoeten",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -11921,7 +12081,9 @@
           "meiden",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "Meiden uit groep 7 en 8.",
         "costs": "Laagdrempelig.",
         "access": "Volgens de actuele agenda.",
@@ -11960,7 +12122,9 @@
           "advies",
           "jeugd"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -12178,7 +12342,9 @@
           "repaircafé",
           "praktische hulp"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "Inwoners van Oldenzaal.",
         "costs": "Laagdrempelig; controleer eventuele materiaalkosten.",
         "access": "Vrije inloop volgens agenda.",
@@ -12732,7 +12898,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/mantelzorg"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -12848,7 +13016,10 @@
           "taal",
           "digitale vaardigheden"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/formulieren",
+          "taal/digitaal"
+        ],
         "audience": "",
         "costs": "",
         "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
@@ -13109,7 +13280,9 @@
         "tags": [
           "mentaal"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/lotgenoten"
+        ],
         "audience": "",
         "costs": "",
         "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
@@ -13188,7 +13361,9 @@
           "gratis",
           "ervaringsdeskundigheid"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/lotgenoten"
+        ],
         "audience": "Mensen die aan persoonlijk of psychisch herstel willen werken.",
         "costs": "Gratis.",
         "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
@@ -13232,7 +13407,9 @@
           "gratis",
           "ervaringsdeskundigheid"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/lotgenoten"
+        ],
         "audience": "Mensen die aan persoonlijk of psychisch herstel willen werken.",
         "costs": "Gratis.",
         "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
@@ -13276,7 +13453,9 @@
           "gratis",
           "ervaringsdeskundigheid"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/lotgenoten"
+        ],
         "audience": "Mensen die aan persoonlijk of psychisch herstel willen werken.",
         "costs": "Gratis.",
         "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
@@ -13347,7 +13526,9 @@
           "sport",
           "cultuur"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Kinderen en jongeren in de gemeente Wierden voor wie thuis onvoldoende geld is voor sport of cultuur.",
         "costs": "De bijdrage en voorwaarden staan op de actuele gemeentepagina.",
         "access": "Bekijk op de gemeentepagina de actuele voorwaarden en aanvraagroute.",
@@ -13501,7 +13682,9 @@
           "sport",
           "cultuur"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Kinderen tot en met 17 jaar uit gezinnen met geldzorgen.",
         "costs": "Voor deelnemers die aan de voorwaarden voldoen wordt de bijdrage door het fonds betaald.",
         "access": "Aanvraag voor ouders met geldzorgen; in Enschede loopt dit samen met Stichting Leergeld Enschede.",
@@ -13584,7 +13767,9 @@
           "sport",
           "cultuur"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Kinderen en jongeren uit gezinnen met weinig financiële ruimte in Borne en Hengelo.",
         "costs": "Na goedkeuring betaalt het fonds de bijdrage rechtstreeks aan de club of aanbieder.",
         "access": "Aanvragen kan via een Meerkracht/tussenpersoon of via de actuele aanvraagroute op de website.",
@@ -13675,7 +13860,9 @@
           "sport",
           "cultuur"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Kinderen en jongeren uit gezinnen met weinig financiële ruimte in aangesloten Twentse gemeenten.",
         "costs": "Het fonds betaalt na goedkeuring de club en kan in sommige gevallen benodigde materialen vergoeden.",
         "access": "Aanvragen kan via kieseenclub.nl of met hulp van een Meerkracht/tussenpersoon.",
@@ -13745,7 +13932,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -14525,7 +14714,11 @@
           "mantelzorg",
           "daginvulling"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg",
+          "meedoen/daginvulling"
+        ],
         "audience": "Mensen met beginnende geheugenproblemen en hun naasten.",
         "costs": "Gesubsidieerd door de gemeente; actuele voorwaarden navragen.",
         "access": "Geen indicatie nodig; neem contact op met Liberein voor de passende locatie.",
@@ -15751,7 +15944,10 @@
           "mentale gezondheid",
           "gratis of vergoed"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "onderwijs/opvoeden"
+        ],
         "audience": "Inwoners van Twente voor wie de training passend is.",
         "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden.",
         "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
@@ -15807,7 +16003,10 @@
           "mentale gezondheid",
           "gratis of vergoed"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "onderwijs/jongeren"
+        ],
         "audience": "Inwoners van Twente voor wie de training passend is.",
         "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden.",
         "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
@@ -15863,7 +16062,10 @@
           "mentale gezondheid",
           "gratis of vergoed"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "onderwijs/opvoeden"
+        ],
         "audience": "Inwoners van Twente voor wie de training passend is.",
         "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden.",
         "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
@@ -15919,7 +16121,9 @@
           "mentale gezondheid",
           "gratis of vergoed"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn"
+        ],
         "audience": "Inwoners van Twente voor wie de training passend is.",
         "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden.",
         "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
@@ -15975,7 +16179,10 @@
           "mentale gezondheid",
           "gratis of vergoed"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "onderwijs/opvoeden"
+        ],
         "audience": "Inwoners van Twente voor wie de training passend is.",
         "costs": "De meeste trainingen/cursussen worden door bijna alle Twentse gemeenten vergoed; controleer de actuele voorwaarden.",
         "access": "Geen huisartsverwijzing nodig en je hoeft geen cliënt van Mediant te zijn.",
@@ -16074,7 +16281,9 @@
           "advies",
           "maatschappelijke ondersteuning"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/clientsteun"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -16399,7 +16608,9 @@
           "vrijwillig",
           "vervoer"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "vervoer/sociaal"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -16438,7 +16649,9 @@
           "ontmoeten",
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "veiligheid/buren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -16517,7 +16730,9 @@
           "advies",
           "maatschappelijke ondersteuning"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/clientsteun"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -16595,7 +16810,10 @@
         "tags": [
           "geld"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/formulieren",
+          "taal/digitaal"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -16632,7 +16850,10 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch",
+          "meedoen/vrijwillig"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -16838,7 +17059,8 @@
           "zonder indicatie"
         ],
         "guidePaths": [
-          "zorg/dementie"
+          "zorg/dementie",
+          "zorg/mantelzorg"
         ],
         "audience": "Mensen met beginnende dementie of geheugenklachten en hun naasten.",
         "costs": "Kleine bijdrage per bezoek voor consumpties en maaltijd/lunch; controleer het actuele bedrag op de bron.",
@@ -17373,7 +17595,9 @@
           "digitaal",
           "dementie"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "taal/digitaal"
+        ],
         "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele tijden.",
@@ -17417,7 +17641,10 @@
           "digitaal",
           "dementie"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/formulieren",
+          "taal/digitaal"
+        ],
         "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele tijden.",
@@ -17461,7 +17688,9 @@
           "digitaal",
           "dementie"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "taal/nederlands"
+        ],
         "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele tijden.",
@@ -17505,7 +17734,10 @@
           "digitaal",
           "dementie"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg"
+        ],
         "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
         "costs": "Kleine bijdrage per bezoek volgens de actuele bron.",
         "access": "Vrij toegankelijk; geen indicatie of diagnose nodig.",
@@ -17549,7 +17781,10 @@
           "digitaal",
           "dementie"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele tijden.",
@@ -17772,7 +18007,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -17982,7 +18219,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -18052,7 +18291,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -18135,7 +18376,10 @@
           "werkervaring",
           "leren"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/werk",
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners die actief willen worden en ervaring willen opdoen.",
         "costs": "Geen reguliere zorgindicatie nodig.",
         "access": "Rechtstreeks contact met POWER.",
@@ -18265,7 +18509,9 @@
           "creatief",
           "handwerken"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Veel activiteiten zijn gratis of tegen een kleine bijdrage.",
         "access": "Via een POWER-locatie.",
@@ -18685,7 +18931,9 @@
           "gratis",
           "praktische hulp"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "Iedereen met een repareerbaar voorwerp.",
         "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -18730,7 +18978,9 @@
           "gratis",
           "praktische hulp"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "Iedereen met een repareerbaar voorwerp.",
         "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -18775,7 +19025,9 @@
           "gratis",
           "praktische hulp"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "Iedereen met een repareerbaar voorwerp.",
         "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -18820,7 +19072,9 @@
           "gratis",
           "praktische hulp"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "Iedereen met een repareerbaar voorwerp.",
         "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -19121,7 +19375,10 @@
           "alzheimer café hof van twente",
           "training"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg"
+        ],
         "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
         "costs": "Gratis/kosteloos volgens de bron.",
         "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
@@ -19164,7 +19421,10 @@
           "ontmoeten",
           "gratis"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg"
+        ],
         "audience": "Mensen met dementie, mantelzorgers, naasten en geïnteresseerden.",
         "costs": "Gratis.",
         "access": "Vrije inloop; aanmelden is niet nodig.",
@@ -19205,7 +19465,9 @@
           "gratis",
           "training"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "vervoer/sociaal"
+        ],
         "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
         "costs": "Onkostenvergoeding per kilometer.",
         "access": "Rechtstreeks via Salut; controleer actuele startdata.",
@@ -19247,7 +19509,9 @@
           "assertiviteitstraining volwassenen",
           "training"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn"
+        ],
         "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
         "costs": "Gratis/kosteloos volgens de bron.",
         "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
@@ -19284,7 +19548,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -19486,7 +19752,11 @@
           "gratis",
           "training"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/formulieren",
+          "taal/digitaal",
+          "taal/basis"
+        ],
         "audience": "Inwoners van Hof van Twente voor wie het aanbod passend is.",
         "costs": "Gratis.",
         "access": "Rechtstreeks via Salut; controleer actuele startdata.",
@@ -19608,7 +19878,11 @@
           "jouw loket",
           "training"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/formulieren",
+          "taal/nederlands",
+          "taal/digitaal"
+        ],
         "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
         "costs": "Gratis/kosteloos volgens de bron.",
         "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
@@ -19650,7 +19924,9 @@
           "mentaal",
           "mentaal welzijn & herstel"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn"
+        ],
         "audience": "Mensen met psychische kwetsbaarheid of herstelvragen",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -19774,7 +20050,10 @@
           "dementie",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg"
+        ],
         "audience": "Partners, familie, vrienden en andere naasten van mensen met dementie.",
         "costs": "Gratis.",
         "access": "Vrije inloop; aanmelden niet nodig.",
@@ -19976,7 +20255,9 @@
           "sociaal juridisch spreekuur",
           "training"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "recht/juridisch"
+        ],
         "audience": "Inwoners van Hof van Twente voor wie dit aanbod passend is.",
         "costs": "Gratis/kosteloos volgens de bron.",
         "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
@@ -20058,7 +20339,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -20843,7 +21126,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -20885,7 +21170,9 @@
           "vrijwillig",
           "vervoer"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "vervoer/sociaal"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -20966,7 +21253,9 @@
           "advies",
           "vrijwillige inzet"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "veiligheid/buren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -21125,7 +21414,10 @@
           "geld",
           "geldzorgen"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/formulieren",
+          "taal/digitaal"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -21582,7 +21874,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/samen"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -21755,7 +22049,10 @@
           "vrijwillige dagbesteding",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling",
+          "ontmoeten/inloop"
+        ],
         "audience": "Senioren die behoefte hebben aan gezelschap en een zinvolle daginvulling.",
         "costs": "€15 voor een hele dag inclusief maaltijd volgens de bron.",
         "access": "Aanmelden kan bij het Seniorenkabinet/SWTD.",
@@ -22084,7 +22381,9 @@
           "activiteit",
           "sociaal werk"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
         "costs": "Controleer de actuele bijdrage.",
         "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
@@ -22267,7 +22566,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -22347,7 +22648,9 @@
           "cultuur",
           "meedoen"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Inwoners van Hengelo met een laag inkomen die aan de gemeentelijke voorwaarden voldoen.",
         "costs": "De actuele vergoeding en voorwaarden staan op de gemeentepagina.",
         "access": "Aanvraag via de gemeente Hengelo, digitaal of met een formulier.",
@@ -22763,7 +23066,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -22849,7 +23154,9 @@
           "zwemles",
           "fiets"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Kinderen van 4 tot en met 17 jaar uit gezinnen met geldzorgen in Dinkelland.",
         "costs": "De ondersteuning hangt af van de aanvraag en de geldende voorwaarden.",
         "access": "Ouders of verzorgers kunnen rechtstreeks een aanvraag starten; Leergeld neemt daarna contact op.",
@@ -22929,7 +23236,9 @@
           "fiets",
           "meedoen"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Kinderen tot en met 17 jaar uit gezinnen met weinig financiële ruimte.",
         "costs": "Voor gezinnen die aan de voorwaarden voldoen worden voorzieningen geheel of gedeeltelijk betaald.",
         "access": "Aanvraag voor gezinnen met geldzorgen die aan de voorwaarden van Leergeld Enschede voldoen.",
@@ -22973,7 +23282,9 @@
           "school",
           "laptop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Kinderen tot en met 17 jaar uit gezinnen met weinig financiële ruimte.",
         "costs": "Voor gezinnen die aan de voorwaarden voldoen worden voorzieningen geheel of gedeeltelijk betaald.",
         "access": "Aanvraag voor gezinnen met geldzorgen die aan de voorwaarden van Leergeld Enschede voldoen.",
@@ -23021,7 +23332,9 @@
           "cultuur",
           "zwemles"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Kinderen tot en met 17 jaar uit gezinnen met weinig financiële ruimte.",
         "costs": "Voor gezinnen die aan de voorwaarden voldoen worden voorzieningen geheel of gedeeltelijk betaald.",
         "access": "Aanvraag voor gezinnen met geldzorgen die aan de voorwaarden van Leergeld Enschede voldoen.",
@@ -23104,7 +23417,9 @@
           "sport",
           "cultuur"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Kinderen en jongeren uit gezinnen met geldzorgen in Oldenzaal.",
         "costs": "De ondersteuning hangt af van de aanvraag en de geldende voorwaarden.",
         "access": "Ouders of verzorgers kunnen rechtstreeks een aanvraag starten via Leergeld Oldenzaal.",
@@ -23187,7 +23502,9 @@
           "sport",
           "cultuur"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "audience": "Kinderen en jongeren uit gezinnen met geldzorgen in de gemeente Tubbergen.",
         "costs": "De ondersteuning hangt af van de aanvraag en de geldende voorwaarden.",
         "access": "Ouders of verzorgers kunnen rechtstreeks een aanvraag starten; Leergeld neemt daarna contact op.",
@@ -23408,7 +23725,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -23445,7 +23764,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -24068,7 +24389,10 @@
         "tags": [
           "jeugd"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/jongeren",
+          "mentaal/welzijn"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -24378,7 +24702,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "veiligheid/buren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -24458,7 +24784,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -24501,7 +24829,10 @@
           "dagbesteding",
           "daginvulling"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "migratie/taal",
+          "vervoer/leren"
+        ],
         "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
@@ -24584,7 +24915,10 @@
           "ontmoeten",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -24623,7 +24957,9 @@
           "advies",
           "jeugd"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -25112,7 +25448,10 @@
           "dagbesteding",
           "daginvulling"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/eenzaamheid",
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
         "costs": "Laagdrempelig; controleer de actuele bijdrage.",
         "access": "Rechtstreeks via ViaVie; controleer actuele tijden en of aanmelden nodig is.",
@@ -25769,7 +26108,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -26119,7 +26460,9 @@
           "gratis",
           "assertiviteitstraining 18+"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn"
+        ],
         "audience": "Inwoners voor wie de training passend is.",
         "costs": "Gratis.",
         "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
@@ -26218,7 +26561,10 @@
           "gratis",
           "gericht op de toekomst"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "veiligheid/huiselijk"
+        ],
         "audience": "Inwoners voor wie de training passend is.",
         "costs": "Gratis.",
         "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
@@ -26308,7 +26654,9 @@
           "gratis",
           "sova: leren door te doen 18+"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn"
+        ],
         "audience": "Inwoners voor wie de training passend is.",
         "costs": "Gratis.",
         "access": "Rechtstreeks aanmelden via Wijkracht Academie; aanbod/startdata wisselen.",
@@ -26401,7 +26749,10 @@
           "ontmoeten",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -26522,7 +26873,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "veiligheid/buren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -26562,7 +26915,10 @@
           "advies",
           "geldzorgen"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/schulden",
+          "geld/formulieren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -26731,7 +27087,8 @@
           "zonder diagnose"
         ],
         "guidePaths": [
-          "zorg/dementie"
+          "zorg/dementie",
+          "zorg/mantelzorg"
         ],
         "audience": "Volwassenen en senioren met beginnende dementie of geheugenklachten, met of zonder diagnose, en hun naasten.",
         "costs": "Deelname inclusief lunch met een eigen bijdrage van €4,00 volgens de agenda van oktober 2026.",
@@ -26772,7 +27129,9 @@
           "advies",
           "maatschappelijke ondersteuning"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/clientsteun"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -26848,7 +27207,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -26933,7 +27294,9 @@
           "geld",
           "wonen"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Borne, Hertme en Zenderen.",
         "costs": "Gratis.",
         "access": "Zonder verwijzing of indicatie. Vrije inloop maandag 16.00-18.30 en dinsdag t/m vrijdag 09.00-11.30.",
@@ -26973,7 +27336,9 @@
           "advies",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/eenzaamheid"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27278,7 +27643,9 @@
           "vrijwillig",
           "vervoer"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "vervoer/sociaal"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27315,7 +27682,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/eenzaamheid"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27352,7 +27721,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/eenzaamheid"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27426,7 +27797,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "veiligheid/buren"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27588,7 +27961,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27743,7 +28118,10 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27819,7 +28197,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -27932,7 +28312,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -28054,7 +28436,10 @@
           "daginvulling",
           "vrij toegankelijk"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
         "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
         "access": "Vrij toegankelijk; vraag naar het actuele programma.",
@@ -28097,7 +28482,10 @@
           "daginvulling",
           "vrij toegankelijk"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
         "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
         "access": "Vrij toegankelijk; vraag naar het actuele programma.",
@@ -28140,7 +28528,10 @@
           "daginvulling",
           "vrij toegankelijk"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
         "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
         "access": "Vrij toegankelijk; vraag naar het actuele programma.",
@@ -28227,7 +28618,10 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -28264,7 +28658,10 @@
         "tags": [
           "mentaal"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -28577,7 +28974,10 @@
           "vrouwen",
           "herstel"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "veiligheid/huiselijk"
+        ],
         "audience": "Vrouwen vanaf 22 jaar die relationeel geweld hebben meegemaakt en bij wie het geweld gestopt is.",
         "costs": "Gratis.",
         "access": "Aanmelden via Wijkteams Enschede. Naast de groep is contact met een hulpverlener nodig.",
@@ -28933,7 +29333,9 @@
           "sociale vaardigheden",
           "communicatie"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/welzijn"
+        ],
         "audience": "Volwassenen vanaf 18 jaar die vooral leren door te doen.",
         "costs": "Gratis.",
         "access": "Rechtstreeks aanmelden via Wijkteams Enschede; na aanmelding volgt een gesprek om te kijken of de training past.",
@@ -29195,7 +29597,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29243,7 +29647,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29291,7 +29697,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29339,7 +29747,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29387,7 +29797,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29435,7 +29847,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29483,7 +29897,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29531,7 +29947,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29579,7 +29997,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29616,7 +30036,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
@@ -29664,7 +30086,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29703,7 +30127,9 @@
         "tags": [
           "mantelzorg"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/mantelzorg"
+        ],
         "audience": "",
         "costs": "",
         "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
@@ -29751,7 +30177,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29799,7 +30227,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29847,7 +30277,9 @@
           "opvoeden",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Enschede.",
         "costs": "Gratis.",
         "access": "Vrije inloop op de actuele openingstijden.",
@@ -29922,7 +30354,9 @@
           "kaarten",
           "senioren"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Buurtbewoners en senioren.",
         "costs": "Controleer actuele bijdrage.",
         "access": "Vrijblijvend een keer meedoen.",
@@ -29992,7 +30426,10 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "mentaal/eenzaamheid",
+          "zorg/beperking"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -30917,7 +31354,9 @@
           "jeugd",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -30954,7 +31393,9 @@
         "tags": [
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -31206,7 +31647,9 @@
           "ontmoeten",
           "creatief"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners van Twenterand.",
         "costs": "Controleer actuele bijdrage.",
         "access": "Volgens de actuele agenda.",
@@ -31248,7 +31691,9 @@
           "inloop",
           "daginvulling"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
         "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
         "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
@@ -31663,7 +32108,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -31703,7 +32150,9 @@
           "ontmoeten",
           "ontmoeting"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -31911,7 +32360,9 @@
           "activiteit",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
         "costs": "Controleer de actuele bijdrage.",
         "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
@@ -31953,7 +32404,9 @@
           "senioren",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Senioren.",
         "costs": "Controleer actuele bijdrage.",
         "access": "Vrije of laagdrempelige deelname.",
@@ -32072,7 +32525,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "onderwijs/opvoeden"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -32197,7 +32652,9 @@
           "mannen",
           "gesprek"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Mannen in Twenterand.",
         "costs": "Controleer actuele bijdrage.",
         "access": "Volgens de actuele agenda.",
@@ -32239,7 +32696,9 @@
           "inloop",
           "daginvulling"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
         "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
         "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
@@ -32276,7 +32735,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -32563,7 +33024,11 @@
           "inloop",
           "daginvulling"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg",
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
@@ -32607,7 +33072,11 @@
           "ontmoeten",
           "geheugen"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg",
+          "meedoen/daginvulling"
+        ],
         "audience": "Mensen met beginnende geheugenproblemen en mantelzorgers.",
         "costs": "Gratis.",
         "access": "Vrije inloop; geen verwijzing of indicatie nodig.",
@@ -32649,7 +33118,11 @@
           "inloop",
           "daginvulling"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg",
+          "meedoen/daginvulling"
+        ],
         "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
         "costs": "Gratis.",
         "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
@@ -32840,7 +33313,9 @@
           "soos",
           "buurt"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "Inwoners van Den Ham en omgeving.",
         "costs": "Controleer actuele bijdrage.",
         "access": "Via het actuele programma van ZorgSaam.",
@@ -32877,7 +33352,9 @@
         "tags": [
           "advies"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
         "audience": "",
         "costs": "",
         "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",

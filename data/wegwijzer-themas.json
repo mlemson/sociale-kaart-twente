@@ -37,8 +37,6 @@
                 "label": "Extra ondersteuning",
                 "description": "Onderwijs en ondersteuning bij gedrag, ontwikkeling of sociaal-emotionele problemen.",
                 "include": [
-                  "onderwijs",
-                  "school",
                   "gedrag",
                   "autisme",
                   "ass",
@@ -77,8 +75,7 @@
               "opleiding",
               "roc",
               "saxion",
-              "kamer raad",
-              "jongvolwassen"
+              "kamer raad"
             ]
           }
         ]
@@ -94,8 +91,6 @@
           "gezin",
           "familiehuis",
           "steungezin",
-          "kind",
-          "jeugd",
           "baby",
           "peuter"
         ]
@@ -108,9 +103,7 @@
           "jongerenwerk",
           "jongerencentrum",
           "jongere",
-          "jeugd",
           "talentontwikkeling",
-          "talent",
           "inloop jeugd"
         ]
       }
@@ -242,7 +235,6 @@
           "angst",
           "veerkracht",
           "mindfit",
-          "welzijn",
           "zelfvertrouwen",
           "rouw"
         ]
@@ -269,9 +261,7 @@
           "maatje",
           "maatjes",
           "vriendschap",
-          "sociaal contact",
-          "ontmoeten",
-          "inloop"
+          "sociaal contact"
         ]
       }
     ]
@@ -320,6 +310,17 @@
           "geheugen",
           "geheugenproblemen"
         ]
+      },
+      {
+        "id": "clientsteun",
+        "label": "Cliëntsteun",
+        "description": "Onafhankelijke hulp bij zorg, ondersteuning, gesprekken en het regelen van passende hulp.",
+        "include": [
+          "clientondersteun",
+          "cliëntondersteun",
+          "onafhankelijke clientondersteuning",
+          "onafhankelijke cliëntondersteuning"
+        ]
       }
     ]
   },
@@ -361,10 +362,19 @@
         "description": "Praktische en emotionele steun na verlies, misdrijf of een ingrijpende gebeurtenis.",
         "include": [
           "slachtoffer",
-          "verlies",
-          "rouw",
           "nabestaande",
           "misdrijf"
+        ]
+      },
+      {
+        "id": "buren",
+        "label": "Burenruzie",
+        "description": "Bemiddeling bij burenruzie, overlast of een conflict in de buurt.",
+        "include": [
+          "buurtbemiddeling",
+          "burenruzie",
+          "burenconflict",
+          "woonoverlast"
         ]
       }
     ]
@@ -381,9 +391,6 @@
         "include": [
           "daginvulling",
           "dagbesteding",
-          "activiteit",
-          "inloop",
-          "creatief",
           "werkplaats",
           "tuin",
           "boerderij"
@@ -445,7 +452,6 @@
           "eetmee",
           "resto",
           "maaltijd",
-          "ontmoeten",
           "wereldse vrouwen",
           "koffie proat"
         ]
@@ -555,6 +561,16 @@
           "kinderen van ouders met",
           "kopp",
           "kvo"
+        ],
+        "requireAny": [
+          "verslaving",
+          "alcohol",
+          "drugs",
+          "middelengebruik",
+          "gokken",
+          "gamen",
+          "tactus",
+          "intact"
         ]
       }
     ]
@@ -582,13 +598,12 @@
         "label": "Taal & meedoen",
         "description": "Taal oefenen en via activiteiten andere mensen leren kennen.",
         "include": [
-          "taal",
-          "taalcafe",
-          "taalcafé",
           "fietslessen",
           "wereldse vrouwen",
-          "participatie",
-          "inburger"
+          "inburger",
+          "nieuwkomer",
+          "statushouder",
+          "vluchteling"
         ]
       }
     ]
@@ -666,11 +681,11 @@
         "description": "Voedselhulp, maaltijden en goedkope of gratis eetmogelijkheden.",
         "include": [
           "voedselbank",
-          "voedsel",
-          "maaltijd",
-          "eten",
-          "resto",
-          "brood"
+          "voedselhulp",
+          "voedselpakket",
+          "noodpakket",
+          "boodschappenkaart",
+          "maaltijdservice"
         ]
       },
       {
@@ -684,6 +699,21 @@
           "spullen",
           "speelgoed",
           "kringloop"
+        ]
+      },
+      {
+        "id": "praktisch",
+        "label": "Praktische hulp",
+        "description": "Laagdrempelige hulp bij kleine klussen, reparaties en praktische zaken thuis.",
+        "include": [
+          "klushulp",
+          "klussendienst",
+          "repair cafe",
+          "repair café",
+          "repareren",
+          "boodschappendienst",
+          "kleine klus",
+          "tuinhulp"
         ]
       }
     ]
