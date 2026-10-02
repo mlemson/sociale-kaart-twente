@@ -490,7 +490,7 @@
     (facilities || []).forEach(facility => list.push({
       id: facility.id,
       organization: String(facility.name || "").split(" · ")[0] || facility.name,
-      title: facility.name,
+      title: String(facility.name || "").includes(" · ") ? String(facility.name || "").split(" · ").slice(1).join(" · ").trim() : facility.name,
       municipalities: uniq([facility.municipality, ...(facility.serviceMunicipalities || []), ...(facility.municipalities || [])]),
       description: facility.description || "",
       audience: facility.audience || "",
