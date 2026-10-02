@@ -19,6 +19,7 @@ jobs:
       - name: Controleer bron-JSON en GeoJSON
         run: |
           python -m json.tool inventory.json > /dev/null
+          python -m json.tool inventory.extra.json > /dev/null
           python -m json.tool twente.geojson > /dev/null
       - name: Test catalogusgenerator
         run: |
