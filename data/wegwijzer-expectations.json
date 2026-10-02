@@ -1,0 +1,72 @@
+[
+  {
+    "nameContains": "Humanitas Twente Samen Actief",
+    "municipality": "Enschede",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "Humanitas Twente Samen Actief",
+    "municipality": "Borne",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "Humanitas Twente Samen Actief",
+    "municipality": "Oldenzaal",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "Humanitas Twente Samen Actief",
+    "municipality": "Losser",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "Huis voor Taal Meedoen taal en digitale hulp",
+    "municipality": "Enschede",
+    "path": "migratie/taal"
+  },
+  {
+    "nameContains": "Huis voor Taal Meedoen Taalspreekuur",
+    "municipality": "Enschede",
+    "path": "migratie/taal"
+  },
+  {
+    "nameContains": "Huis voor Taal Meedoen Meedoen spreekuur",
+    "municipality": "Enschede",
+    "path": "migratie/taal"
+  },
+  {
+    "nameContains": "Praathuis Centrum",
+    "municipality": "Enschede",
+    "path": "migratie/taal"
+  },
+  {
+    "nameContains": "Humanitas Twente Home Start",
+    "municipality": "Enschede",
+    "path": "onderwijs/opvoeden"
+  },
+  {
+    "nameContains": "Humanitas Twente Tandem",
+    "municipality": "Enschede",
+    "path": "mentaal/eenzaamheid"
+  },
+  {
+    "nameContains": "Humanitas Twente Begeleide Omgangsregeling",
+    "municipality": "Enschede",
+    "path": "veiligheid/relaties"
+  },
+  {
+    "nameContains": "AutoMaatje",
+    "municipality": "Borne",
+    "path": "vervoer/sociaal"
+  },
+  {
+    "nameContains": "Odensehuis",
+    "municipality": "Haaksbergen",
+    "path": "zorg/dementie"
+  },
+  {
+    "nameContains": "Sociaal Juridisch Spreekuur",
+    "municipality": "Hof van Twente",
+    "path": "recht/juridisch"
+  }
+]
