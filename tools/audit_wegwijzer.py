@@ -61,6 +61,7 @@ for group in catalog:
             "tags": offer.get("tags") or [],
             "routeTags": offer.get("routeTags") or [],
             "guidePaths": offer.get("guidePaths") or [],
+            "guideExclude": bool(offer.get("guideExclude")),
         })
 records.extend(curated)
 
@@ -118,7 +119,7 @@ for item in expectations:
     found = [
         rec for rec in records
         if not rec.get("guideExclude")
-        and item["nameContains"].casefold() in f"{rec.get('organization','')} {rec.get('title','')}".casefold()
+        and norm(item["nameContains"]) in norm(f"{rec.get('organization','')} {rec.get('title','')}")
         and serves(rec, item["municipality"])
         and matches_path(rec, item["path"])
     ]
