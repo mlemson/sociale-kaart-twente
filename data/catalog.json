@@ -1286,83 +1286,96 @@
     "primarySource": "https://almelodoetmee.nl/"
   },
   {
-    "id": "org-almelo-sociaal-team-clientondersteuners-4uxbfn",
-    "organization": "Almelo Sociaal - team clientondersteuners",
+    "id": "org-almelo-sociaal-1wt3mwz",
+    "organization": "Almelo Sociaal",
     "municipalities": [
       "Almelo"
     ],
     "categories": [
-      "advies"
+      "advies",
+      "geld"
     ],
     "sources": [
-      "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners"
+      "https://almelosociaal.nl/"
     ],
     "offerCount": 1,
     "reviewNeeded": 0,
     "sourceBacked": 1,
     "manual": 0,
-    "checked": "2026-09-15",
+    "checked": "2026-10-02",
     "offers": [
       {
         "id": "candidate-a6341350a90f2412",
         "title": "Almelo Sociaal - team clientondersteuners",
         "name": "Almelo Sociaal - team clientondersteuners",
-        "description": "",
+        "description": "Gratis en onafhankelijke cliëntondersteuning voor inwoners van Almelo, onder meer bij brieven, zorgvragen, geldvragen en het vinden van passende ondersteuning.",
         "municipality": "Almelo",
         "municipalities": [
           "Almelo"
         ],
         "category": "advies",
         "themes": [
-          "advies"
+          "advies",
+          "geld"
         ],
         "subthemes": [
-          "maatschappelijke ondersteuning"
+          "clientondersteuning",
+          "brieven",
+          "zorgvragen",
+          "geldvragen"
         ],
         "tags": [
+          "clientondersteuning",
+          "gratis",
+          "brieven",
+          "zorg",
+          "geld",
+          "wonen",
           "advies",
-          "maatschappelijke ondersteuning"
+          "onafhankelijk"
         ],
         "guidePaths": [
-          "zorg/clientsteun"
+          "zorg/clientsteun",
+          "geld/formulieren",
+          "geld/schulden"
         ],
         "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners",
-        "sourceKind": "municipal-directory",
-        "sourceTitle": "Sociale kaart Almelo",
-        "checked": "2026-09-15",
+        "audience": "Inwoners van Almelo die informatie, advies of ondersteuning nodig hebben bij zorg, wonen, geld of andere sociale vragen.",
+        "costs": "Gratis. Almelo Sociaal vermeldt dat alle hulp die zij bieden gratis is.",
+        "access": "Vrije inloop op maandag, dinsdag en vrijdag van 09.30-11.30 uur bij Sociaal Plein Almelo. Voor andere vragen kan telefonisch contact worden opgenomen.",
+        "openingHours": "Gratis inloopspreekuur maandag, dinsdag en vrijdag 09.30-11.30 uur.",
+        "phone": "0546 456 909",
+        "email": "info@almelosociaal.nl",
+        "source": "https://almelosociaal.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Almelo Sociaal",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Wierdensestraat 22a-1",
-        "postcode": "7607GJ",
+        "address": "Wierdensestraat 22",
+        "postcode": "7607 GJ",
         "town": "Almelo",
         "lat": 52.35491383,
         "lon": 6.66151401,
-        "locationType": "source-address",
-        "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners",
+        "locationType": "visiting",
+        "locationSource": "https://almelosociaal.nl/",
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
     "location": {
-      "address": "Wierdensestraat 22a-1",
-      "postcode": "7607GJ",
+      "address": "Wierdensestraat 22",
+      "postcode": "7607 GJ",
       "town": "Almelo",
       "lat": 52.35491383,
       "lon": 6.66151401,
       "locationMunicipality": "Almelo",
-      "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners",
+      "locationType": "visiting",
+      "locationSource": "https://almelosociaal.nl/",
       "mapLocationType": "address"
     },
     "status": "source-backed",
-    "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners"
+    "primarySource": "https://almelosociaal.nl/"
   },
   {
     "id": "org-almelo-voor-elkaar-h0k283",

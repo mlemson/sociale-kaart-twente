@@ -2303,6 +2303,56 @@
     "physicalLocation": true
   },
   {
+    "id": "offer-candidate-a6341350a90f2412",
+    "name": "Almelo Sociaal - team clientondersteuners",
+    "category": "advies",
+    "address": "Wierdensestraat 22",
+    "postcode": "7607 GJ",
+    "town": "Almelo",
+    "municipality": "Almelo",
+    "serviceMunicipalities": [
+      "Almelo"
+    ],
+    "lat": 52.35491383,
+    "lon": 6.66151401,
+    "source": "https://almelosociaal.nl/",
+    "checked": "2026-10-02",
+    "tags": [
+      "clientondersteuning",
+      "gratis",
+      "brieven",
+      "zorg",
+      "geld",
+      "wonen",
+      "advies",
+      "onafhankelijk"
+    ],
+    "subthemes": [
+      "clientondersteuning",
+      "brieven",
+      "zorgvragen",
+      "geldvragen"
+    ],
+    "guidePaths": [
+      "zorg/clientsteun",
+      "geld/formulieren",
+      "geld/schulden"
+    ],
+    "guideExclude": false,
+    "description": "Gratis en onafhankelijke cliëntondersteuning voor inwoners van Almelo, onder meer bij brieven, zorgvragen, geldvragen en het vinden van passende ondersteuning.",
+    "audience": "Inwoners van Almelo die informatie, advies of ondersteuning nodig hebben bij zorg, wonen, geld of andere sociale vragen.",
+    "costs": "Gratis. Almelo Sociaal vermeldt dat alle hulp die zij bieden gratis is.",
+    "access": "Vrije inloop op maandag, dinsdag en vrijdag van 09.30-11.30 uur bij Sociaal Plein Almelo. Voor andere vragen kan telefonisch contact worden opgenomen.",
+    "openingHours": "Gratis inloopspreekuur maandag, dinsdag en vrijdag 09.30-11.30 uur.",
+    "phone": "0546 456 909",
+    "email": "info@almelosociaal.nl",
+    "locationType": "visiting",
+    "locationSource": "https://almelosociaal.nl/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-almelo-sociaal-1wt3mwz"
+  },
+  {
     "id": "offer-candidate-20261002-avedan-join-us",
     "name": "Avedan · Join Us Almelo",
     "category": "ontmoeten",
@@ -8502,38 +8552,6 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-almelo-doe-t-mee-1hgn41j"
-  },
-  {
-    "id": "catalog-org-almelo-sociaal-team-clientondersteuners-4uxbfn",
-    "name": "Almelo Sociaal - team clientondersteuners",
-    "category": "advies",
-    "address": "Wierdensestraat 22a-1",
-    "postcode": "7607GJ",
-    "town": "Almelo",
-    "municipality": "Almelo",
-    "serviceMunicipalities": [
-      "Almelo"
-    ],
-    "lat": 52.35491383,
-    "lon": 6.66151401,
-    "source": "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners",
-    "checked": "2026-09-15",
-    "tags": [
-      "advies"
-    ],
-    "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Almelo Sociaal - team clientondersteuners. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
-    "audience": "",
-    "costs": "",
-    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "source-address",
-    "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326787/invis2/almelo-sociaal-team-clientondersteuners",
-    "mapLocationType": "address",
-    "physicalLocation": false,
-    "catalogOrganizationId": "org-almelo-sociaal-team-clientondersteuners-4uxbfn"
   },
   {
     "id": "catalog-org-almelo-voor-elkaar-h0k283",
