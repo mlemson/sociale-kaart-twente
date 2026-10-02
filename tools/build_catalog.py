@@ -42,7 +42,8 @@ def review_status(v):
         return "review-needed"
     if (v.get("enrichment") or {}).get("categoryConflict"):
         return "review-needed"
-    if not has_location(v):
+    location_optional = v.get("locationType") in {"online", "remote"} or v.get("mapLocationType") == "service-area"
+    if not has_location(v) and not location_optional:
         return "review-needed"
     return "source-backed"
 
