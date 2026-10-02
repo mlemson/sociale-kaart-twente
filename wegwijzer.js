@@ -246,10 +246,10 @@
     detailMaps = [];
   }
 
-  function hasPhysicalMap(record) {
+  function hasLocationMap(record) {
     return Boolean(
       record &&
-      record.physicalLocation === true &&
+      record.detailMapType &&
       record.mapLocationType !== "service-area" &&
       Number.isFinite(record.lat) &&
       Number.isFinite(record.lon)
@@ -257,11 +257,12 @@
   }
 
   function miniMapHtml(record, index) {
-    if (!hasPhysicalMap(record)) return "";
+    if (!hasLocationMap(record)) return "";
     const address = [record.address, record.postcode, record.town].filter(Boolean).join(", ");
-    return '<aside class="guide-offer-map" aria-label="Locatie van ' + esc(record.title || record.organization) + '">' +
+    const label = record.detailMapType === "physical" ? "Locatie" : "Contactlocatie";
+    return '<aside class="guide-offer-map" aria-label="' + esc(label + " van " + (record.title || record.organization)) + '">' +
       '<div class="guide-mini-map" data-guide-map="' + index + '"></div>' +
-      '<div class="guide-mini-map-caption"><strong>Locatie</strong><span>' + esc(address || record.town || "") + '</span>' +
+      '<div class="guide-mini-map-caption"><strong>' + esc(label) + '</strong><span>' + esc(address || record.town || "") + '</span>' +
       '<a href="index.html?gemeente=' + encodeURIComponent(record.locationMunicipality || (record.municipalities || [])[0] || "") + '">Open grote kaart</a></div>' +
       '</aside>';
   }
@@ -271,7 +272,7 @@
     const primary = getComputedStyle(document.body).getPropertyValue("--primary").trim() || "#356b58";
     document.querySelectorAll("[data-guide-map]").forEach(element => {
       const record = items[Number(element.dataset.guideMap)];
-      if (!hasPhysicalMap(record)) return;
+      if (!hasLocationMap(record)) return;
       const map = L.map(element, {
         zoomControl: false,
         scrollWheelZoom: false,
@@ -334,7 +335,7 @@
         '<div class="guide-offer-actions">' +
         (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">Website</a>' : "") +
         '<a class="secondary" href="voorzieningen.html">Alle voorzieningen</a></div></div>';
-      return '<article class="guide-offer' + (hasPhysicalMap(record) ? " has-map" : "") + '">' +
+      return '<article class="guide-offer' + (hasLocationMap(record) ? " has-map" : "") + '">' +
         content + miniMapHtml(record, index) + "</article>";
     }).join("");
 
@@ -430,6 +431,20 @@
 
   function normalizeData(catalog, facilities, curated) {
     const list = [];
+    const physicalAddressIndex = new Map();
+    const addressKey = item => norm([item.address, item.town].filter(Boolean).join("|"));
+    (facilities || []).forEach(facility => {
+      if (
+        facility.physicalLocation === true &&
+        facility.mapLocationType !== "service-area" &&
+        Number.isFinite(facility.lat) &&
+        Number.isFinite(facility.lon) &&
+        facility.address &&
+        facility.town
+      ) {
+        physicalAddressIndex.set(addressKey(facility), facility);
+      }
+    });
 
     (catalog || []).forEach(group => {
       const organization = group.organization || group.name || "Onbekende organisatie";
@@ -552,7 +567,34 @@
       current.referenceOnly = Boolean(current.referenceOnly && record.referenceOnly);
     });
 
-    return [...merged.values()].map(record => ({...record, _text: recordText(record)}));
+    return [...merged.values()].map(record => {
+      const knownPlace = physicalAddressIndex.get(addressKey(record));
+      const enriched = {...record};
+      if (
+        knownPlace &&
+        (!Number.isFinite(enriched.lat) || !Number.isFinite(enriched.lon))
+      ) {
+        enriched.lat = knownPlace.lat;
+        enriched.lon = knownPlace.lon;
+        enriched.locationMunicipality = enriched.locationMunicipality || knownPlace.locationMunicipality || knownPlace.municipality || "";
+      }
+      if (
+        enriched.physicalLocation === true &&
+        Number.isFinite(enriched.lat) &&
+        Number.isFinite(enriched.lon)
+      ) {
+        enriched.detailMapType = "physical";
+      } else if (
+        knownPlace &&
+        Number.isFinite(enriched.lat) &&
+        Number.isFinite(enriched.lon)
+      ) {
+        enriched.detailMapType = "contact";
+      } else {
+        enriched.detailMapType = "";
+      }
+      return {...enriched, _text: recordText(enriched)};
+    });
   }
 
   async function loadJson(path) {
