@@ -1947,3 +1947,80 @@ html[data-color-scheme="dark"] .scheme-toggle{color:#eee9ee!important;border-col
 html[data-color-scheme="dark"] .site-header .nav-tools > a {
     color: #f0e9ef;
 }
+
+
+/* Fysieke locaties versus organisaties die alleen in het gebied actief zijn. */
+.active-area-toggle {
+    margin-top: 16px;
+    padding: 12px 11px;
+    border: 1px solid var(--border);
+    border-radius: 9px;
+    background: #faf8fa;
+    cursor: pointer;
+}
+.active-area-toggle.disabled {
+    opacity: .55;
+    cursor: default;
+}
+.active-area-toggle input:disabled {
+    cursor: default;
+}
+.active-here-count {
+    min-width: 24px;
+    padding: 3px 7px;
+    border-radius: 999px;
+    background: var(--tint);
+    color: var(--primary);
+    font-size: 11px;
+    font-weight: 700;
+    text-align: center;
+}
+.results-section-title {
+    min-height: 31px;
+}
+.results-section-title strong {
+    color: #716773;
+    font-size: 10px;
+}
+.results-section-title.secondary {
+    margin-top: 5px;
+    border-top: 1px solid var(--border);
+    padding-top: 15px;
+}
+.results-section-title.secondary strong {
+    color: var(--primary);
+}
+.results-section-title.secondary span {
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 10px;
+}
+.empty.compact {
+    padding: 16px 10px 20px;
+    font-size: 12px;
+    color: #8b828d;
+}
+html[data-color-scheme="dark"] .active-area-toggle {
+    background: #27242a;
+    border-color: #4a424b;
+}
+html[data-color-scheme="dark"] .active-here-count {
+    background: #34584d;
+    color: #f4eee8;
+}
+html[data-color-scheme="dark"] .results-section-title strong,
+html[data-color-scheme="dark"] .empty.compact {
+    color: #b9afb9;
+}
+html[data-color-scheme="dark"] .results-section-title.secondary strong {
+    color: #b8dfd2;
+}
+@media(max-width:760px) {
+    .active-area-toggle {
+        margin-top: 14px;
+        padding: 11px 10px;
+    }
+    .results-section-title.secondary span {
+        display: none;
+    }
+}

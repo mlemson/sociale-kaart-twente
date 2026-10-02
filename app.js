@@ -33,7 +33,7 @@ let state = {
     municipality: '',
     category: '',
     search: '',
-    nearby: false,
+    showActiveHere: false,
     selected: null,
     theme: 'wijkwijzer'
 };
@@ -127,8 +127,8 @@ $('clear-search').addEventListener('click', () => {
     $('search').focus();
 }
 );
-$('nearby').addEventListener('change', e => {
-    state.nearby = e.target.checked;
+$('active-here').addEventListener('change', e => {
+    state.showActiveHere = e.target.checked;
     state.selected = null;
     render();
 }
@@ -145,9 +145,41 @@ $('basemap').addEventListener('click', () => {
     $('basemap').textContent = on ? 'Ondergrond uit' : 'Ondergrond aan';
 }
 );
+function canonicalMunicipality(value) {
+    return value === 'Hengelo (O)' ? 'Hengelo' : String(value || '').trim();
+}
 function servesMunicipality(p, municipality) {
     if (!municipality) return true;
-    return p.municipality === municipality || (p.serviceMunicipalities || []).includes(municipality);
+    return canonicalMunicipality(p.municipality) === municipality || (p.serviceMunicipalities || []).some(area => canonicalMunicipality(area) === municipality);
+}
+function actualMunicipality(p) {
+    return canonicalMunicipality(p.locationMunicipality || p.municipality);
+}
+function isPhysicalLocation(p) {
+    return Boolean(
+        p &&
+        p.physicalLocation === true &&
+        p.mapLocationType !== 'service-area' &&
+        p.address &&
+        p.town &&
+        Number.isFinite(p.lat) &&
+        Number.isFinite(p.lon)
+    );
+}
+function physicallyInMunicipality(p, municipality) {
+    if (!isPhysicalLocation(p)) return false;
+    if (!municipality) return true;
+    return actualMunicipality(p) === municipality;
+}
+function offerMunicipalities(offer, group) {
+    const own = [...(offer.municipalities || []), offer.municipality]
+        .map(canonicalMunicipality)
+        .filter(Boolean);
+    return [...new Set(own.length ? own : (group.municipalities || []).map(canonicalMunicipality).filter(Boolean))];
+}
+function offerServesMunicipality(offer, group, municipality) {
+    if (!municipality) return true;
+    return offerMunicipalities(offer, group).includes(municipality);
 }
 function chooseMunicipality(name) {
     if (!map)
@@ -157,6 +189,8 @@ function chooseMunicipality(name) {
         return;
     state.municipality = name;
     state.selected = null;
+    state.showActiveHere = false;
+    $('active-here').checked = false;
     $('municipality').value = name;
     const u = new URL(location.href);
     if (name)
@@ -175,11 +209,10 @@ function fitSelection() {
         bounds = geoLayer.getBounds();
 
     const pts = locations
-        .filter(p => p.mapLocationType !== 'service-area' && Number.isFinite(p.lat) && Number.isFinite(p.lon) && p.lat >= 51.95 && p.lat <= 52.58 && p.lon >= 6.25 && p.lon <= 7.25 && (!state.municipality || servesMunicipality(p, state.municipality)))
+        .filter(p => physicallyInMunicipality(p, state.municipality) && p.lat >= 51.95 && p.lat <= 52.58 && p.lon >= 6.25 && p.lon <= 7.25)
         .map(p => [p.lat, p.lon]);
 
-    // Een regionaal aanbod kan een contactadres net buiten de gekozen gemeente hebben.
-    // Neem zulke adressen mee zodat de pin niet buiten beeld valt.
+    // Alleen echte bezoek-/voorzieningslocaties bepalen het kaartbeeld.
     if (pts.length) {
         const pointBounds = L.latLngBounds(pts);
         if (bounds && bounds.isValid && bounds.isValid())
@@ -201,11 +234,11 @@ function fitSelection() {
 function matchedLocations() {
     const q = state.search.toLocaleLowerCase('nl');
     return locations.filter(p => {
-        const areaMatch = !state.municipality || state.nearby || servesMunicipality(p, state.municipality);
+        const areaMatch = physicallyInMunicipality(p, state.municipality);
         const categoryMatch = !state.category || (p.tags || []).includes(state.category);
         const text = [
-            p.name, p.address, p.postcode, p.town, p.municipality, p.locationMunicipality,
-            ...(p.serviceMunicipalities || []), p.description, p.audience, p.phone, p.email,
+            p.name, p.address, p.postcode, p.town, actualMunicipality(p),
+            p.description, p.audience, p.phone, p.email,
             ...(p.subthemes || []), ...(p.tags || []), ...(p.tags || []).map(t => categories[t] || '')
         ].join(' ').toLocaleLowerCase('nl');
         return areaMatch && categoryMatch && (!q || text.includes(q));
@@ -217,20 +250,27 @@ function offerMatches(offer) {
     const text = [offer.title, offer.name, offer.description, offer.audience, offer.access, offer.costs, ...(offer.subthemes || []), ...(offer.tags || []), ...(offer.themes || [])].join(' ').toLocaleLowerCase('nl');
     return categoryMatch && (!q || text.includes(q));
 }
+function catalogOffersForGroup(group, applyTextFilter = true) {
+    const areaOffers = (group.offers || []).filter(offer => offerServesMunicipality(offer, group, state.municipality));
+    return applyTextFilter ? areaOffers.filter(offerMatches) : areaOffers;
+}
 function matchedCatalog() {
     const q = state.search.toLocaleLowerCase('nl');
     return catalog.filter(g => {
-        const areaMatch = !state.municipality || state.nearby || (g.municipalities || []).includes(state.municipality);
-        const offers = (g.offers || []).filter(offerMatches);
-        const categoryMatch = !state.category || (g.categories || []).includes(state.category) || offers.length;
-        const text = [g.organization, ...(g.municipalities || []), ...(g.categories || [])].join(' ').toLocaleLowerCase('nl');
-        const queryMatch = !q || text.includes(q) || offers.length;
-        return areaMatch && categoryMatch && queryMatch;
+        const areaOffers = catalogOffersForGroup(g, false);
+        if (!areaOffers.length) return false;
+        const offers = areaOffers.filter(offerMatches);
+        if (state.category && !offers.length) return false;
+        const text = [g.organization, ...offerMunicipalities({}, g), ...(g.categories || [])].join(' ').toLocaleLowerCase('nl');
+        return !q || text.includes(q) || offers.length;
     });
 }
 function catalogOfferSummary(group, max = 3) {
-    const matched = (group.offers || []).filter(offerMatches);
-    const pool = (state.search || state.category) ? matched : (group.offers || []);
+    const areaOffers = catalogOffersForGroup(group, false);
+    const matched = areaOffers.filter(offerMatches);
+    const q = state.search.toLocaleLowerCase('nl');
+    const groupText = [group.organization, ...(group.categories || [])].join(' ').toLocaleLowerCase('nl');
+    const pool = matched.length || state.category || (q && !groupText.includes(q)) ? matched : areaOffers;
     const shown = pool.slice(0, max).map(o => o.title || o.name);
     const extra = Math.max(0, pool.length - shown.length);
     return {pool, text: shown.join(' · ') + (extra ? ` · +${extra}` : '')};
@@ -239,44 +279,66 @@ function catalogOfferSummary(group, max = 3) {
 function render() {
     filtered = matchedLocations();
     catalogFiltered = matchedCatalog();
-    $('results-title').textContent = state.municipality || 'Twente';
-    $('map-title').textContent = state.municipality || 'Twente';
+    const areaName = state.municipality || 'Twente';
+    $('results-title').textContent = areaName;
+    $('map-title').textContent = areaName;
 
-    const sortedLocations = [...filtered].sort((a, b) => {
-        const av = servesMunicipality(a, state.municipality) ? -1 : 0,
-              bv = servesMunicipality(b, state.municipality) ? -1 : 0;
-        return av - bv || a.name.localeCompare(b.name, 'nl');
-    });
-    const mappedCatalogIds = new Set(filtered.map(p => p.catalogOrganizationId).filter(Boolean));
-    const sortedCatalog = catalogFiltered.filter(g => !mappedCatalogIds.has(g.id)).sort((a,b) => {
-        const am = (a.municipalities || []).includes(state.municipality) ? -1 : 0,
-              bm = (b.municipalities || []).includes(state.municipality) ? -1 : 0;
-        return am - bm || a.organization.localeCompare(b.organization, 'nl');
-    });
-    const total = sortedLocations.length + sortedCatalog.length;
-    $('result-count').textContent = total ? `${total} resultaten` : '';
+    const sortedLocations = [...filtered].sort((a, b) =>
+        a.name.localeCompare(b.name, 'nl')
+    );
+    const mappedCatalogIds = new Set(sortedLocations.map(p => p.catalogOrganizationId).filter(Boolean));
+    const mappedOrganizationNames = new Set(sortedLocations.map(p => String(p.name || '').split(' · ')[0].trim().toLocaleLowerCase('nl')).filter(Boolean));
+    const sortedCatalog = catalogFiltered
+        .filter(g => !mappedCatalogIds.has(g.id) && !mappedOrganizationNames.has(String(g.organization || '').trim().toLocaleLowerCase('nl')))
+        .sort((a, b) => a.organization.localeCompare(b.organization, 'nl'));
 
+    const activeToggle = $('active-here');
+    const activeToggleWrap = $('active-area-toggle');
+    const activeLabel = $('active-here-label');
+    const activeCount = $('active-here-count');
+    activeLabel.textContent = `Ook in ${areaName} actief`;
+    activeCount.textContent = sortedCatalog.length ? String(sortedCatalog.length) : '';
+    activeToggle.disabled = sortedCatalog.length === 0;
+    activeToggleWrap.classList.toggle('disabled', sortedCatalog.length === 0);
+    if (!sortedCatalog.length && state.showActiveHere) {
+        state.showActiveHere = false;
+        activeToggle.checked = false;
+    }
+
+    $('result-count').textContent = sortedCatalog.length
+        ? `${sortedLocations.length} locaties · ${sortedCatalog.length} ook actief`
+        : (sortedLocations.length ? `${sortedLocations.length} locaties` : '');
+
+    const locationTitle = state.municipality ? `Locaties in ${areaName}` : 'Fysieke locaties in Twente';
     const locationHtml = sortedLocations.map(p => {
         const meta = [p.town, categories[p.category] || ''].filter(Boolean).join(' · ');
         return `<button class="result-card ${p.id === state.selected ? 'active' : ''}" data-id="${esc(p.id)}"><span class="category-icon">${icon(p.category)}</span><span class="result-body"><span class="result-title">${esc(p.name)}</span><span class="result-address">${esc(meta)}</span></span></button>`;
     }).join('');
+    const physicalSection = `<div class="results-section-title"><strong>${esc(locationTitle)}</strong><span>${sortedLocations.length}</span></div>` +
+        (locationHtml || '<div class="empty compact">Geen fysieke locaties gevonden met deze filters.</div>');
 
     const catalogLimit = (state.search || state.category || state.municipality) ? 30 : 12;
     const shownCatalog = sortedCatalog.slice(0, catalogLimit);
     const catalogHtml = shownCatalog.map(g => {
         const summary = catalogOfferSummary(g);
         const category = g.categories?.[0] || 'advies';
-        const meta = [((g.municipalities || []).join(', ') || 'Twente'), g.offerCount > 1 ? `${g.offerCount} onderdelen` : ''].filter(Boolean).join(' · ');
-        return `<button class="result-card catalog-card ${'catalog:' + g.id === state.selected ? 'active' : ''}" data-catalog-id="${esc(g.id)}"><span class="category-icon">${icon(category)}</span><span class="result-body"><span class="result-title">${esc(g.organization)}</span><span class="result-address">${esc(meta)}</span>${(state.search || state.category) && summary.text ? `<span class="catalog-match">${esc(summary.text)}</span>` : ''}</span></button>`;
+        const meta = [`Actief in ${areaName}`, g.offerCount > 1 ? `${g.offerCount} onderdelen` : ''].filter(Boolean).join(' · ');
+        return `<button class="result-card catalog-card ${'catalog:' + g.id === state.selected ? 'active' : ''}" data-catalog-id="${esc(g.id)}"><span class="category-icon">${icon(category)}</span><span class="result-body"><span class="result-title">${esc(g.organization)}</span><span class="result-address">${esc(meta)}</span>${summary.text ? `<span class="catalog-match">${esc(summary.text)}</span>` : ''}</span></button>`;
     }).join('');
+    const activeSection = state.showActiveHere && sortedCatalog.length
+        ? `<div class="results-section-title secondary"><strong>Ook in ${esc(areaName)} actief</strong><span>geen lokale kaartlocatie</span></div>` +
+          catalogHtml +
+          (sortedCatalog.length > catalogLimit ? '<a class="all-offers-link" href="voorzieningen.html">Alle voorzieningen</a>' : '')
+        : '';
 
-    $('results').innerHTML = locationHtml + catalogHtml + (sortedCatalog.length > catalogLimit ? '<a class="all-offers-link" href="voorzieningen.html">Alle voorzieningen</a>' : '') ||
-        '<div class="empty">Geen resultaten.<button id="reset-filters">Filters wissen</button></div>';
+    $('results').innerHTML = physicalSection + activeSection;
     $('results').querySelectorAll('[data-id]').forEach(b => b.addEventListener('click', () => showLocation(b.dataset.id, true)));
     $('results').querySelectorAll('[data-catalog-id]').forEach(b => b.addEventListener('click', () => showCatalog(b.dataset.catalogId)));
     $('reset-filters')?.addEventListener('click', () => {
         state.category = '';
         state.search = '';
+        state.showActiveHere = false;
+        $('active-here').checked = false;
         $('search').value = '';
         $('clear-search').hidden = true;
         renderTopics();
@@ -295,11 +357,12 @@ function showCatalog(id) {
     render();
     const d = $('detail');
     d.hidden = false;
+    const areaName = state.municipality || 'Twente';
     const summary = catalogOfferSummary(g, 12);
-    const offers = summary.pool.length ? summary.pool : (g.offers || []);
+    const offers = summary.pool;
     const offerHtml = offers.slice(0,12).map(o => `<div class="detail-offer"><strong>${esc(o.title || o.name)}</strong>${o.audience ? `<span>Voor: ${esc(o.audience)}</span>` : ''}${o.source ? `<a href="${esc(o.source)}" target="_blank" rel="noopener">Bron</a>` : ''}</div>`).join('');
-    const first = (g.offers || [])[0];
-    d.innerHTML = `<button class="detail-close" aria-label="Sluiten">×</button><span class="category-icon">${icon(g.categories?.[0] || 'advies')}</span><h2>${esc(g.organization)}</h2><p class="detail-address">${esc((g.municipalities || []).join(', ') || 'Twente')}${g.offerCount > 1 ? ` · ${g.offerCount} onderdelen` : ''}</p><div class="detail-links">${g.primarySource ? `<a class="primary-link" href="${esc(g.primarySource)}" target="_blank" rel="noopener">Website</a>` : ''}<a href="voorzieningen.html">Alle voorzieningen</a></div><div class="detail-offers">${offerHtml}</div>${offers.length > 12 ? `<p class="meta">+${offers.length-12} meer</p>` : ''}${first ? `<p><a href="aanmelden.html?candidate=${encodeURIComponent(first.id)}">Correctie doorgeven</a></p>` : ''}`;
+    const first = offers[0] || (g.offers || [])[0];
+    d.innerHTML = `<button class="detail-close" aria-label="Sluiten">×</button><span class="category-icon">${icon(g.categories?.[0] || 'advies')}</span><h2>${esc(g.organization)}</h2><p class="detail-address"><strong>Ook actief in ${esc(areaName)}</strong><br>Deze organisatie heeft binnen deze selectie geen fysieke kaartlocatie.</p><div class="detail-links">${g.primarySource ? `<a class="primary-link" href="${esc(g.primarySource)}" target="_blank" rel="noopener">Website</a>` : ''}<a href="voorzieningen.html">Alle voorzieningen</a></div><div class="detail-offers">${offerHtml}</div>${offers.length > 12 ? `<p class="meta">+${offers.length-12} meer</p>` : ''}${first ? `<p><a href="aanmelden.html?candidate=${encodeURIComponent(first.id)}">Correctie doorgeven</a></p>` : ''}`;
     d.querySelector('.detail-close').addEventListener('click', () => {
         state.selected = null;
         render();
@@ -309,7 +372,7 @@ function showLocation(id, pan=false) {
     const p = locations.find(v => v.id === id);
     if (!p) return;
     const serviceAreas = (p.serviceMunicipalities && p.serviceMunicipalities.length) ? p.serviceMunicipalities : [p.municipality].filter(Boolean);
-    const defaultMunicipality = serviceAreas[0] || p.municipality;
+    const defaultMunicipality = actualMunicipality(p) || canonicalMunicipality(serviceAreas[0]) || canonicalMunicipality(p.municipality);
     if (!state.municipality && defaultMunicipality) {
         state.municipality = defaultMunicipality;
         $('municipality').value = defaultMunicipality;
@@ -647,8 +710,8 @@ async function init() {
                         state.category = input.onderwerp || '';
                         state.search = '';
                         $('search').value = '';
-                        state.nearby = false;
-                        $('nearby').checked = false;
+                        state.showActiveHere = false;
+                        $('active-here').checked = false;
                         renderTopics();
                         chooseMunicipality(input.gemeente || '');
                         return {
