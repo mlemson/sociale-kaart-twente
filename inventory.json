@@ -10055,17 +10055,16 @@
       "name": "Sociaal, dat werkt! · Spreekuur Vrijwillig in de Buurt",
       "source": "https://swtd.nl/ons-aanbod/vrijwillige-inzet-sociaal-contact/servicepunt",
       "municipalities": [
-        "Dinkelland",
         "Tubbergen"
       ],
       "sourceTitle": "Sociaal, dat werkt!",
       "sourceKind": "provider",
-      "checked": "2026-09-15",
+      "checked": "2026-10-02",
       "category": "vrijwillig",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
-      "address": "Eeshoflaan 21k-121",
+      "access": "Vrij inloopspreekuur in Bibliotheek Tubbergen.",
+      "description": "Spreekuur van Vrijwillig in de Buurt voor inwoners die vrijwilligerswerk zoeken of juist vrijwillige hulp en activiteiten willen vinden.",
+      "address": "Raadhuisplein 4",
       "town": "Tubbergen",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
@@ -10077,7 +10076,10 @@
       ],
       "tags": [
         "vrijwillig",
-        "vrijwillige inzet"
+        "vrijwillige inzet",
+        "vrijwilligerswerk",
+        "inloop",
+        "Tubbergen"
       ],
       "enrichment": {
         "version": 2,
@@ -10111,13 +10113,17 @@
         ]
       },
       "primaryTheme": "vrijwillig",
-      "postcode": "7651LZ",
-      "lat": 52.41076671,
-      "lon": 6.78027092,
       "locationMunicipality": "Tubbergen",
-      "locationType": "contact",
-      "locationSource": "https://swtd.nl/contact",
-      "addressChecked": "2026-10-01"
+      "locationType": "visiting",
+      "locationSource": "https://swtd.nl/ons-aanbod/vrijwillige-inzet-sociaal-contact/servicepunt",
+      "municipality": "Tubbergen",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "openingHours": "Dinsdag 10.00-12.00 uur.",
+      "costs": "Gratis informatie en bemiddeling naar vrijwilligerswerk.",
+      "guidePaths": [
+        "meedoen/vrijwillig"
+      ]
     },
     {
       "id": "candidate-4481029b62a86dce",
@@ -21891,7 +21897,7 @@
       "status": "candidate",
       "id": "candidate-20261002-swtd-seniorenkabinet-langeveen",
       "name": "Sociaal, dat werkt! · Seniorenkabinet Langeveen",
-      "source": "https://swtd.nl/events/seniorenkabinet-2/var/ri-107.l-L1/",
+      "source": "https://swtd.nl/agenda/",
       "sourceTitle": "Sociaal, dat werkt!",
       "municipalities": [
         "Tubbergen"
@@ -21913,25 +21919,22 @@
         "vrijwillige dagbesteding",
         "ontmoeten"
       ],
-      "description": "Vrijwillige dagbesteding in huiskamervorm met koffie, activiteiten, een maaltijd en ontmoeting.",
+      "description": "Seniorenkabinet in Langeveen met huiskamer/dagbesteding, ontmoeting en een terugkerende open eettafel.",
       "audience": "Senioren die behoefte hebben aan gezelschap en een zinvolle daginvulling.",
-      "access": "Aanmelden kan bij het Seniorenkabinet/SWTD.",
-      "costs": "€15 voor een hele dag inclusief maaltijd volgens de bron.",
-      "address": "Eeshoflaan 21k-121",
-      "postcode": "7651LZ",
-      "town": "Tubbergen",
-      "locationType": "contact",
-      "locationSource": "https://swtd.nl/contact",
+      "access": "Aanmelden of informatie via het Seniorenkabinet of de sociaal werker senioren/mantelzorg van SWTD.",
+      "costs": "Huiskamerdag €15; open eettafel €8,50 volgens de actuele agenda.",
+      "address": "Rouweweg 14",
+      "town": "Langeveen",
+      "locationType": "visiting",
+      "locationSource": "https://swtd.nl/agenda/",
       "mapPin": true,
-      "lat": 52.41076671,
-      "lon": 6.78027092,
       "locationMunicipality": "Tubbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01",
       "guidePaths": [
         "meedoen/daginvulling",
         "ontmoeten/inloop"
-      ]
+      ],
+      "openingHours": "Dinsdag afwisselend huiskamer/dagbesteding en open eettafel; zie de actuele agenda."
     },
     {
       "sourceKind": "first-party",
@@ -21941,7 +21944,7 @@
       "status": "candidate",
       "id": "candidate-20261002-swtd-inloop-veur-mekaar",
       "name": "Sociaal, dat werkt! · Inloop Veur Mekaar Denekamp",
-      "source": "https://swtd.nl/events/inloop-veur-mekaar/var/ri-106.l-L1/",
+      "source": "https://swtd.nl/agenda/",
       "sourceTitle": "Sociaal, dat werkt!",
       "municipalities": [
         "Dinkelland"
@@ -21962,21 +21965,18 @@
         "ouderen",
         "gratis"
       ],
-      "description": "Wekelijkse inloopochtend voor ouderen om bij te praten of een spelletje te doen.",
+      "description": "Laagdrempelige inloopochtend voor ouderen om bij te praten, een spelletje te doen en anderen te ontmoeten.",
       "audience": "Oudere inwoners van Dinkelland.",
-      "access": "Vrije inloop.",
-      "costs": "Gratis; consumpties voor eigen rekening.",
-      "address": "Eeshoflaan 21k-121",
-      "postcode": "7651LZ",
-      "town": "Tubbergen",
-      "locationType": "contact",
-      "locationSource": "https://swtd.nl/contact",
+      "access": "Vrije inloop voor ouderen op dinsdagochtend.",
+      "costs": "Deelname is gratis; consumpties zijn voor eigen rekening.",
+      "address": "Oranjestraat 21",
+      "town": "Denekamp",
+      "locationType": "visiting",
+      "locationSource": "https://swtd.nl/agenda/",
       "mapPin": true,
-      "lat": 52.41076671,
-      "lon": 6.78027092,
-      "locationMunicipality": "Tubbergen",
+      "locationMunicipality": "Dinkelland",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "openingHours": "Dinsdag 10.00-12.00 uur volgens de actuele agenda."
     },
     {
       "sourceKind": "first-party",
@@ -21986,7 +21986,7 @@
       "status": "candidate",
       "id": "candidate-20261002-swtd-terra-nova",
       "name": "Sociaal, dat werkt! · Inloop Terra Nova Tilligte",
-      "source": "https://swtd.nl/agenda-oud/",
+      "source": "https://swtd.nl/agenda/",
       "sourceTitle": "Sociaal, dat werkt!",
       "municipalities": [
         "Dinkelland"
@@ -22008,21 +22008,18 @@
         "ontmoeten",
         "lichte begeleiding"
       ],
-      "description": "Laagdrempelige inloop met ontmoeting, activiteiten, lunch en waar nodig lichte begeleiding.",
+      "description": "Inloop in MFA Terra Nova voor senioren die sociale contacten willen opdoen, met activiteiten, lichte begeleiding en een gezamenlijke lunch.",
       "audience": "Senioren uit Dinkelland die behoefte hebben aan gezelligheid, structuur of ondersteuning.",
-      "access": "Neem contact op voor actuele dagen en deelname.",
-      "costs": "Eigen bijdrage per dagdeel volgens de actuele bron.",
-      "address": "Eeshoflaan 21k-121",
-      "postcode": "7651LZ",
-      "town": "Tubbergen",
-      "locationType": "contact",
-      "locationSource": "https://swtd.nl/contact",
+      "access": "Wekelijkse inloop; neem bij vragen over deelname of vervoer contact op met de coördinator.",
+      "costs": "Eigen bijdrage €12,50 per keer, inclusief lunch en koffie/thee.",
+      "address": "Kerkstraat 5-7",
+      "town": "Tilligte",
+      "locationType": "visiting",
+      "locationSource": "https://swtd.nl/agenda/",
       "mapPin": true,
-      "lat": 52.41076671,
-      "lon": 6.78027092,
-      "locationMunicipality": "Tubbergen",
+      "locationMunicipality": "Dinkelland",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "openingHours": "Dinsdag 10.00-14.00 uur volgens de actuele agenda."
     },
     {
       "sourceKind": "first-party",
