@@ -480,9 +480,12 @@ function renderMarkers() {
     markerLayer.clearLayers();
     labelLayer.clearLayers();
     const counts = {};
+    // De regiobol telt alleen voorzieningen die fysiek in de gemeente liggen.
+    // Een locatie die meerdere gemeenten bedient mag dus niet in al die gemeenten
+    // als kaartlocatie worden meegeteld.
     filtered.forEach(p => {
-        const areas = (p.serviceMunicipalities && p.serviceMunicipalities.length) ? p.serviceMunicipalities : [p.municipality];
-        [...new Set(areas.filter(Boolean))].forEach(name => counts[name] = (counts[name] || 0) + 1);
+        const name = actualMunicipality(p);
+        if (name) counts[name] = (counts[name] || 0) + 1;
     });
     const regional = !state.municipality && map.getZoom() < 12 && Object.keys(anchors).length > 0;
     Object.entries(anchors).forEach( ([name,center]) => {
