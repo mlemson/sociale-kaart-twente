@@ -1932,3 +1932,18 @@ html[data-color-scheme="dark"] .scheme-toggle{color:#eee9ee!important;border-col
   main{padding:14px 12px 0}.workspace{height:auto}
   .site-footer{flex-direction:column;gap:10px;padding:18px 4px 28px}.footer-copy{flex-direction:column;gap:3px}.footer-links{justify-content:flex-start;gap:12px}
 }
+
+
+/* Headercorrectie · SKT + altijd zichtbare navigatie */
+.site-header .brand-symbol {
+    min-width: 38px;
+    letter-spacing: -1.6px;
+}
+.site-header .nav-tools > a {
+    color: var(--primary);
+    opacity: 1;
+    visibility: visible;
+}
+html[data-color-scheme="dark"] .site-header .nav-tools > a {
+    color: #f0e9ef;
+}
