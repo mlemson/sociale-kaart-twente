@@ -744,7 +744,11 @@
         "ontmoeten/inloop"
       ],
       "locationMunicipality": "Wierden",
-      "mapLocationType": "address"
+      "mapLocationType": "address",
+      "postcode": "7468CE",
+      "lat": 52.29697899,
+      "lon": 6.57791904,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
