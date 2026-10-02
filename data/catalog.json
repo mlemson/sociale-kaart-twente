@@ -6181,6 +6181,87 @@
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/328767/invis2/buurtbemiddeling-wierden"
   },
   {
+    "id": "org-buurthuiskamer-de-hagedoorn-i222va",
+    "organization": "Buurthuiskamer De Hagedoorn",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.almelo.nl/ontmoetingsplekken-almelo"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-almelo-hagedoorn",
+        "title": "ontmoeting",
+        "name": "Buurthuiskamer De Hagedoorn · ontmoeting",
+        "description": "Buurthuiskamer in het Nieuwstraatkwartier voor laagdrempelige ontmoeting, koffie en buurtactiviteiten.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "buurthuiskamer",
+          "buurt"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "Almelo"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "",
+        "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+        "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Wilgenstraat 11",
+        "postcode": "7605EG",
+        "town": "Almelo",
+        "lat": 52.34700064,
+        "lon": 6.65819525,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Wilgenstraat 11",
+      "postcode": "7605EG",
+      "town": "Almelo",
+      "lat": 52.34700064,
+      "lon": 6.65819525,
+      "locationMunicipality": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.almelo.nl/ontmoetingsplekken-almelo"
+  },
+  {
     "id": "org-carintreggeland-backenhagen-bd5hxm",
     "organization": "Carintreggeland Backenhagen",
     "municipalities": [
@@ -9355,6 +9436,87 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220584/invis2/de-zonnebloem-afd-wierden"
+  },
+  {
+    "id": "org-dorpshuis-t-aahoes-lzw8uy",
+    "organization": "Dorpshuis 't Aahoes",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.almelo.nl/ontmoetingsplekken-almelo"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-almelo-aahoes",
+        "title": "ontmoeting Aadorp",
+        "name": "Dorpshuis 't Aahoes · ontmoeting Aadorp",
+        "description": "Dorpshuis en ontmoetingsplek voor inwoners van Aadorp met buurt- en verenigingsactiviteiten.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "dorpshuis",
+          "buurt"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "Almelo"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "",
+        "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+        "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Albardastraat 20",
+        "postcode": "7611BD",
+        "town": "Aadorp",
+        "lat": 52.37842674,
+        "lon": 6.62663659,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Albardastraat 20",
+      "postcode": "7611BD",
+      "town": "Aadorp",
+      "lat": 52.37842674,
+      "lon": 6.62663659,
+      "locationMunicipality": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.almelo.nl/ontmoetingsplekken-almelo"
   },
   {
     "id": "org-dorpshuis-de-veldkamp-haarle-7tm5uk",
@@ -13680,6 +13842,87 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.visithofvantwente.nl/attracties/architectuur---erfgoed/1689-hofkerk/"
+  },
+  {
+    "id": "org-huis-van-katoen-en-nu-1n040c3",
+    "organization": "Huis van Katoen en Nu",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.almelo.nl/ontmoetingsplekken-almelo"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-almelo-huis-van-katoen",
+        "title": "ontmoetingsplek",
+        "name": "Huis van Katoen en Nu · ontmoetingsplek",
+        "description": "Centrale ontmoetingsplek in de binnenstad met activiteiten rond verhalen, cultuur, historie en verbinding tussen inwoners.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "cultuur",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "Almelo"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "",
+        "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+        "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Marktplein 35",
+        "postcode": "7607HM",
+        "town": "Almelo",
+        "lat": 52.35673637,
+        "lon": 6.66297879,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Marktplein 35",
+      "postcode": "7607HM",
+      "town": "Almelo",
+      "lat": 52.35673637,
+      "lon": 6.66297879,
+      "locationMunicipality": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.almelo.nl/ontmoetingsplekken-almelo"
   },
   {
     "id": "org-huis-voor-taal-meedoen-18hqdb3",
@@ -18811,6 +19054,88 @@
     "primarySource": "https://www.akkerhus.nl/akkernoabers"
   },
   {
+    "id": "org-kulturhus-bornerbroek-g1tocv",
+    "organization": "Kulturhus Bornerbroek",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.almelo.nl/ontmoetingsplekken-almelo"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-almelo-kulturhus-bornerbroek",
+        "title": "ontmoeting en activiteiten",
+        "name": "Kulturhus Bornerbroek · ontmoeting en activiteiten",
+        "description": "Kulturhus en dorpsontmoetingsplek voor verenigingen, activiteiten en sociaal contact in Bornerbroek.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "kulturhus",
+          "dorpsontmoeting"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "Almelo"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "",
+        "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+        "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Pastoor Ossestraat 21",
+        "postcode": "7627PJ",
+        "town": "Bornerbroek",
+        "lat": 52.31096942,
+        "lon": 6.65530148,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Pastoor Ossestraat 21",
+      "postcode": "7627PJ",
+      "town": "Bornerbroek",
+      "lat": 52.31096942,
+      "lon": 6.65530148,
+      "locationMunicipality": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.almelo.nl/ontmoetingsplekken-almelo"
+  },
+  {
     "id": "org-kulturhus-de-bijenkorf-425l5h",
     "organization": "Kulturhus De Bijenkorf",
     "municipalities": [
@@ -21486,6 +21811,169 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.meesamen.nl/"
+  },
+  {
+    "id": "org-mensdoormens-n1dg2h",
+    "organization": "Mensdoormens",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.almelo.nl/ontmoetingsplekken-almelo"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-almelo-mensdoormens",
+        "title": "Inloop Almelo",
+        "name": "Mensdoormens · Inloop Almelo",
+        "description": "Laagdrempelige inloopplek waar inwoners anderen kunnen ontmoeten en mee kunnen doen aan activiteiten.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "Almelo"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "",
+        "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+        "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Hoornbladstraat 17",
+        "postcode": "7601SZ",
+        "town": "Almelo",
+        "lat": 52.34345869,
+        "lon": 6.66823499,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Hoornbladstraat 17",
+      "postcode": "7601SZ",
+      "town": "Almelo",
+      "lat": 52.34345869,
+      "lon": 6.66823499,
+      "locationMunicipality": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.almelo.nl/ontmoetingsplekken-almelo"
+  },
+  {
+    "id": "org-natuurhus-almelo-dvbsvq",
+    "organization": "Natuurhus Almelo",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.almelo.nl/ontmoetingsplekken-almelo"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-almelo-natuurhus",
+        "title": "ontmoeting en activiteiten",
+        "name": "Natuurhus Almelo · ontmoeting en activiteiten",
+        "description": "Ontmoetingsplek rond natuur, duurzaamheid en educatie met activiteiten voor verschillende leeftijden.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "natuur",
+          "activiteiten"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "Almelo"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "",
+        "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+        "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Hagenborgh 4",
+        "postcode": "7607JT",
+        "town": "Almelo",
+        "lat": 52.35477743,
+        "lon": 6.66908537,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Hagenborgh 4",
+      "postcode": "7607JT",
+      "town": "Almelo",
+      "lat": 52.35477743,
+      "lon": 6.66908537,
+      "locationMunicipality": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.almelo.nl/ontmoetingsplekken-almelo"
   },
   {
     "id": "org-netwerk-het-twente-1v3qieb",
@@ -34800,6 +35288,87 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
+  },
+  {
+    "id": "org-wijkkamer-t-dok-1hx3sez",
+    "organization": "Wijkkamer 't Dok",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.almelo.nl/ontmoetingsplekken-almelo"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-almelo-wijkkamer-dok",
+        "title": "buurtontmoeting",
+        "name": "Wijkkamer 't Dok · buurtontmoeting",
+        "description": "Wijkkamer in de binnenstad voor koffie, gesprek en buurtactiviteiten.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "wijkkamer",
+          "buurt"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "Almelo"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "",
+        "costs": "Inloop is laagdrempelig; eventuele kosten verschillen per activiteit.",
+        "access": "Laagdrempelige ontmoetingsplek; actuele openingstijden en activiteiten via de locatie.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Sumatraplein 1",
+        "postcode": "7607WC",
+        "town": "Almelo",
+        "lat": 52.36039172,
+        "lon": 6.66337994,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Sumatraplein 1",
+      "postcode": "7607WC",
+      "town": "Almelo",
+      "lat": 52.36039172,
+      "lon": 6.66337994,
+      "locationMunicipality": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.almelo.nl/ontmoetingsplekken-almelo"
   },
   {
     "id": "org-wijkracht-4ctcuk",

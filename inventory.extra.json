@@ -12781,7 +12781,12 @@
       "subthemes": [
         "dorpshuis",
         "buurt"
-      ]
+      ],
+      "postcode": "7611BD",
+      "lat": 52.37842674,
+      "lon": 6.62663659,
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -12822,7 +12827,12 @@
       "subthemes": [
         "cultuur",
         "sociaal contact"
-      ]
+      ],
+      "postcode": "7607HM",
+      "lat": 52.35673637,
+      "lon": 6.66297879,
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -12863,7 +12873,12 @@
       "subthemes": [
         "wijkkamer",
         "buurt"
-      ]
+      ],
+      "postcode": "7607WC",
+      "lat": 52.36039172,
+      "lon": 6.66337994,
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -12905,7 +12920,12 @@
       "subthemes": [
         "natuur",
         "activiteiten"
-      ]
+      ],
+      "postcode": "7607JT",
+      "lat": 52.35477743,
+      "lon": 6.66908537,
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -12947,7 +12967,12 @@
       "subthemes": [
         "kulturhus",
         "dorpsontmoeting"
-      ]
+      ],
+      "postcode": "7627PJ",
+      "lat": 52.31096942,
+      "lon": 6.65530148,
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -12988,7 +13013,12 @@
       "subthemes": [
         "inloop",
         "sociaal contact"
-      ]
+      ],
+      "postcode": "7601SZ",
+      "lat": 52.34345869,
+      "lon": 6.66823499,
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -13029,7 +13059,12 @@
       "subthemes": [
         "buurthuiskamer",
         "buurt"
-      ]
+      ],
+      "postcode": "7605EG",
+      "lat": 52.34700064,
+      "lon": 6.65819525,
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
