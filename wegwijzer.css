@@ -116,3 +116,231 @@ html[data-color-scheme="dark"] .guide-show-all,html[data-color-scheme="dark"] .g
 html[data-color-scheme="dark"] .guide-card{background:#29252b;border-color:#433b43;box-shadow:none}
 html[data-color-scheme="dark"] .guide-card:hover{background:#302b31;border-color:#6a5361}
 html[data-color-scheme="dark"] .guide-card-count{background:#3a3037;color:#e7cedd}
+
+
+/* V12 · visuele startpagina geïnspireerd op een rustige keuzehulp */
+.guide-intro{
+  display:block;
+  margin:28px 0 18px;
+}
+.guide-intro-copy{display:none}
+.guide-filter-card{
+  max-width:760px;
+  margin-left:auto;
+  padding:12px;
+  display:grid;
+  grid-template-columns:minmax(280px,1fr) 190px;
+  gap:12px;
+  align-items:end;
+  border-radius:15px;
+  box-shadow:none;
+}
+.guide-filter-card label{
+  display:flex;
+  flex-direction:column;
+  gap:7px;
+  text-align:left;
+}
+.guide-filter-card label>span:first-child{
+  font-size:11px;
+  letter-spacing:.04em;
+  color:#7d717c;
+}
+.guide-search-main,.guide-municipality-main{min-width:0}
+.guide-search-row{display:flex;grid-column:auto;gap:7px}
+.guide-search-row input{min-width:0}
+.guide-search-row button{min-width:72px}
+.guide-municipality-main select{height:43px}
+
+.guide-root-view .guide-main{
+  max-width:1180px;
+  padding-top:0;
+}
+.guide-root-view .guide-intro{
+  margin:46px auto 18px;
+}
+.guide-root-view .guide-intro-copy{
+  display:block;
+  max-width:760px;
+  margin:0 auto;
+  text-align:center;
+}
+.guide-root-view .guide-kicker{
+  margin-bottom:10px;
+  font-size:11px;
+  color:#a17a91;
+}
+.guide-root-view .guide-intro h1{
+  font-family:'DM Sans',Arial,sans-serif;
+  font-size:clamp(34px,4.5vw,52px);
+  font-weight:700;
+  line-height:1.08;
+  letter-spacing:-.035em;
+  color:#493b4b;
+}
+.guide-root-view .guide-lead{
+  max-width:620px;
+  margin:12px auto 0;
+  font-size:15px;
+  line-height:1.55;
+  color:#7b707b;
+}
+.guide-root-view .guide-filter-card{
+  margin:28px auto 0;
+  background:#fff;
+  border-color:#ece4ea;
+  box-shadow:0 8px 30px rgba(64,42,57,.05);
+}
+.guide-root-view .guide-stage{
+  min-height:0;
+  padding:10px 0 32px;
+  border:0;
+  border-radius:0;
+  background:transparent;
+  box-shadow:none;
+}
+.guide-root-view .guide-note{
+  margin-top:8px;
+  padding-top:22px;
+  border-top:1px solid #eee8ec;
+}
+
+.guide-visual-grid{
+  max-width:1080px;
+  margin:0 auto;
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:38px 42px;
+}
+.guide-topic{
+  --topic-tint:#faf3f7;
+  appearance:none;
+  width:100%;
+  min-width:0;
+  padding:0 12px 12px;
+  border:0;
+  background:transparent;
+  color:var(--primary);
+  text-align:center;
+  cursor:pointer;
+}
+.guide-topic:nth-child(6n+2){--topic-tint:#f1f7fb}
+.guide-topic:nth-child(6n+3){--topic-tint:#fff7ea}
+.guide-topic:nth-child(6n+4){--topic-tint:#f5f1f9}
+.guide-topic:nth-child(6n+5){--topic-tint:#eef8f5}
+.guide-topic:nth-child(6n+6){--topic-tint:#f9f1ef}
+.guide-topic-art{
+  position:relative;
+  height:198px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin-bottom:10px;
+}
+.guide-topic-art::before{
+  content:"";
+  position:absolute;
+  width:174px;
+  height:174px;
+  border-radius:48% 52% 55% 45% / 54% 44% 56% 46%;
+  background:var(--topic-tint);
+  transform:rotate(-5deg);
+  transition:transform .22s ease,scale .22s ease;
+}
+.guide-topic img{
+  position:relative;
+  z-index:1;
+  display:block;
+  width:min(100%,310px);
+  height:190px;
+  object-fit:contain;
+  transition:transform .22s ease;
+}
+.guide-topic strong{
+  display:block;
+  font-size:19px;
+  line-height:1.25;
+  font-weight:700;
+  letter-spacing:-.015em;
+  color:#514052;
+  transition:color .18s ease;
+}
+.guide-topic:hover .guide-topic-art::before{
+  transform:rotate(2deg);
+  scale:1.04;
+}
+.guide-topic:hover img{transform:translateY(-5px) scale(1.025)}
+.guide-topic:hover strong{color:var(--primary)}
+.guide-topic:focus-visible{
+  outline:3px solid var(--accent);
+  outline-offset:5px;
+  border-radius:16px;
+}
+.guide-topic[disabled]{
+  opacity:.38;
+  cursor:default;
+}
+.guide-topic[disabled]:hover img{transform:none}
+.guide-topic[disabled]:hover .guide-topic-art::before{transform:rotate(-5deg);scale:1}
+
+/* Vervolgstappen blijven compact en inhoudelijk. */
+.guide-subgrid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:12px;
+}
+
+@media(max-width:900px){
+  .guide-visual-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:30px 28px}
+  .guide-topic-art{height:180px}
+  .guide-topic img{height:174px}
+}
+@media(max-width:700px){
+  .guide-intro{margin-top:16px}
+  .guide-filter-card,
+  .guide-root-view .guide-filter-card{
+    grid-template-columns:1fr;
+    max-width:none;
+    margin-left:0;
+    padding:11px;
+  }
+  .guide-root-view .guide-intro{
+    margin:30px auto 12px;
+  }
+  .guide-root-view .guide-intro h1{
+    font-size:clamp(31px,9vw,42px);
+  }
+  .guide-root-view .guide-lead{font-size:14px}
+  .guide-visual-grid{
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    gap:24px 12px;
+  }
+  .guide-topic{padding:0 4px 9px}
+  .guide-topic-art{height:142px;margin-bottom:6px}
+  .guide-topic-art::before{width:124px;height:124px}
+  .guide-topic img{height:140px}
+  .guide-topic strong{font-size:15px}
+  .guide-subgrid{grid-template-columns:1fr}
+}
+@media(max-width:390px){
+  .guide-visual-grid{grid-template-columns:1fr 1fr}
+  .guide-topic-art{height:128px}
+  .guide-topic img{height:126px}
+}
+
+html[data-color-scheme="dark"] .guide-root-view .guide-intro h1,
+html[data-color-scheme="dark"] .guide-topic strong{color:#f2e8ee}
+html[data-color-scheme="dark"] .guide-root-view .guide-filter-card{
+  background:#262227;
+  border-color:#3d363d;
+  box-shadow:none;
+}
+html[data-color-scheme="dark"] .guide-topic{--topic-tint:#342b31}
+html[data-color-scheme="dark"] .guide-topic:nth-child(6n+2){--topic-tint:#27343a}
+html[data-color-scheme="dark"] .guide-topic:nth-child(6n+3){--topic-tint:#3a3429}
+html[data-color-scheme="dark"] .guide-topic:nth-child(6n+4){--topic-tint:#312d3b}
+html[data-color-scheme="dark"] .guide-topic:nth-child(6n+5){--topic-tint:#293733}
+html[data-color-scheme="dark"] .guide-topic:nth-child(6n+6){--topic-tint:#392d2c}
+html[data-color-scheme="dark"] .guide-root-view .guide-note{border-top-color:#3a343a}
+
+.guide-filter-card label.guide-search-main{grid-column:auto;margin-top:0}
