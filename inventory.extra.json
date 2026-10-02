@@ -1710,7 +1710,10 @@
       "lon": 6.56844898,
       "locationMunicipality": "Twenterand",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1754,7 +1757,10 @@
       "lon": 6.62769739,
       "locationMunicipality": "Twenterand",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -2244,7 +2250,10 @@
       "locationType": "source-address",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -2810,7 +2819,10 @@
       "locationType": "contact",
       "locationSource": "https://swtd.nl/contact",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/praktisch"
+      ]
     },
     {
       "sourceKind": "first-party",
