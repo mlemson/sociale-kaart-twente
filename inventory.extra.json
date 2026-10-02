@@ -13155,6 +13155,52 @@
         "Nederlands",
         "taalcafé"
       ]
+    },
+    {
+      "id": "extra-20261003-twenterand-kerkenwinkeltje",
+      "name": "Het Kerkenwinkeltje Westerhaar · kleding, huisraad en voedsel",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/het-kerkenwinkeltje-westerhaar/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "sourceKind": "first-party",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende praktische hulp / laagdrempelige voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "locationMunicipality": "Twenterand",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis"
+      ],
+      "subthemes": [
+        "kleding",
+        "huisraad",
+        "voedsel",
+        "praktische hulp"
+      ],
+      "tags": [
+        "praktische hulp",
+        "kleding",
+        "huisraad",
+        "voedsel",
+        "Westerhaar"
+      ],
+      "guidePaths": [
+        "basis/praktisch"
+      ],
+      "description": "Laagdrempelige voorziening waar inwoners terechtkunnen voor kleding, huisraad, schoonmaakartikelen, verzorgingsproducten en voedsel.",
+      "audience": "Inwoners van Twenterand die praktische ondersteuning met basisbehoeften nodig hebben.",
+      "access": "Maandag 09.30-11.30 uur en donderdag 12.30-14.30 uur; vrijdagavond uitgifte van verse producten.",
+      "costs": "Laagdrempelige hulp; op de bron staat geen reguliere toegangsprijs vermeld.",
+      "address": "Wollegrasstraat 8",
+      "town": "Westerhaar-Vriezenveensewijk",
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true
     }
   ],
   "addressEnrichmentVersion": 1,
