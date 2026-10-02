@@ -196,7 +196,15 @@ def main():
         catalog.append(g)
     catalog.sort(key=lambda x: x["organization"].casefold())
 
-    facilities = list(base_facilities)
+    facilities = []
+    for base in base_facilities:
+        item = dict(base)
+        item["physicalLocation"] = bool(
+            has_location(item)
+            and map_location_type(item) != "service-area"
+            and item.get("locationType") not in {"contact", "source-address"}
+        )
+        facilities.append(item)
     explicit_org_ids = set()
     explicit = 0
 
@@ -236,6 +244,11 @@ def main():
                 "locationType": o.get("locationType") or "visiting",
                 "locationSource": o.get("locationSource") or o.get("source") or "",
                 "mapLocationType": o.get("mapLocationType") or map_location_type(o),
+                "physicalLocation": bool(
+                    has_location(o)
+                    and (o.get("mapLocationType") or map_location_type(o)) != "service-area"
+                    and o.get("locationType") in {"visiting", "service", "existing"}
+                ),
                 "catalogOrganizationId": g["id"],
             })
             explicit_org_ids.add(g["id"])
@@ -279,6 +292,7 @@ def main():
             "locationType": loc.get("locationType") or "contact",
             "locationSource": loc.get("locationSource") or "",
             "mapLocationType": loc.get("mapLocationType") or map_location_type(loc),
+            "physicalLocation": False,
             "catalogOrganizationId": g["id"],
         })
         synthetic += 1
