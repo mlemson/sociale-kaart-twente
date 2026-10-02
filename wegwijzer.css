@@ -1,0 +1,66 @@
+.guide-skip{position:fixed;left:12px;top:-80px;z-index:1000;background:#fff;color:var(--primary);padding:10px 14px;border-radius:8px;border:1px solid var(--border)}
+.guide-skip:focus{top:12px}
+.guide-main{max-width:1320px;margin:0 auto;padding:44px 32px 64px}
+.guide-intro{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(300px,.7fr);gap:44px;align-items:end;margin-bottom:34px}
+.guide-kicker{margin:0 0 9px;color:#8b6f82;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase}
+.guide-intro h1{margin:0;color:var(--primary);font-family:var(--headline);font-size:clamp(38px,5vw,62px);font-weight:400;letter-spacing:-.025em;line-height:1.03}
+.guide-lead{max-width:780px;margin:18px 0 0;color:#6d6470;font-size:17px;line-height:1.7}
+.guide-filter-card{background:#fff;border:1px solid var(--border);border-radius:14px;padding:18px;display:grid;grid-template-columns:1fr 1.35fr;gap:8px 12px;align-items:center;box-shadow:0 8px 28px rgba(62,38,54,.04)}
+.guide-filter-card label{font-size:12px;font-weight:700;color:#6d6470}
+.guide-filter-card select,.guide-filter-card input{min-width:0;border-radius:9px;padding:11px 12px}
+.guide-filter-card label[for="guide-search"]{grid-column:1/-1;margin-top:4px}
+.guide-search-row{grid-column:1/-1;display:flex;gap:8px}
+.guide-search-row input{flex:1}
+.guide-search-row button{border:1px solid #d9cdda;background:#f6f1f5;color:var(--primary);border-radius:9px;padding:0 13px}
+.guide-stage{background:#fff;border:1px solid var(--border);border-radius:20px;padding:28px;min-height:470px;box-shadow:0 16px 52px rgba(61,35,53,.05)}
+.guide-stage-top{display:flex;justify-content:space-between;align-items:flex-start;gap:22px;margin-bottom:22px}
+.guide-stage h2{margin:8px 0 5px;color:var(--primary);font-size:clamp(24px,3vw,34px);font-weight:600;letter-spacing:-.02em}
+.guide-stage-top p{margin:0;color:#786d79;line-height:1.55}
+.guide-back{flex:none;border:1px solid #ddcfda;background:transparent;color:var(--primary);border-radius:9px;padding:10px 15px;font-weight:600}
+.guide-breadcrumbs{display:flex;gap:7px;align-items:center;flex-wrap:wrap;min-height:24px}
+.guide-breadcrumbs button{border:0;background:transparent;color:#766a75;padding:2px 0;text-decoration:underline;text-decoration-color:#d9c4d2;text-underline-offset:4px;font-size:13px}
+.guide-breadcrumbs span{color:#b4a6b0;font-size:12px}
+.guide-status{margin:8px 0 18px;color:#7c707c;font-size:13px}
+.guide-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.guide-card{appearance:none;width:100%;min-height:140px;border:1px solid #e5dde4;background:#fdfcfd;border-radius:14px;padding:20px;text-align:left;color:inherit;display:flex;flex-direction:column;justify-content:space-between;gap:20px;transition:transform .14s ease,border-color .14s ease,box-shadow .14s ease,background .14s ease}
+.guide-card:hover{transform:translateY(-2px);border-color:#d6bdce;box-shadow:0 10px 24px rgba(68,40,58,.07);background:#fff}
+.guide-card:active{transform:translateY(0)}
+.guide-card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.guide-card-index{font-size:11px;font-weight:700;letter-spacing:.12em;color:#a18296}
+.guide-card-count{font-size:11px;background:#f2eaf0;color:#70435f;border-radius:999px;padding:5px 8px;white-space:nowrap}
+.guide-card strong{display:block;color:var(--primary);font-size:18px;line-height:1.25}
+.guide-card p{margin:7px 0 0;color:#756a76;font-size:13px;line-height:1.55}
+.guide-card-foot{font-size:12px;color:#8a7d87}
+.guide-card[disabled]{opacity:.45;cursor:default;transform:none;box-shadow:none}
+.guide-show-all{grid-column:1/-1;margin-top:6px;border:1px dashed #d9cbd6;background:#faf7f9;color:var(--primary);border-radius:12px;padding:13px 16px;text-align:left;font-weight:600}
+.guide-results{margin-top:2px}
+.guide-org-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.guide-org{border:1px solid #e5dde4;background:#fdfcfd;border-radius:13px;padding:17px 18px;text-align:left;color:inherit}
+.guide-org:hover{border-color:#d2b9ca;background:#fff}
+.guide-org strong{display:block;color:var(--primary);font-size:16px}
+.guide-org small{display:block;color:#807480;margin-top:6px;line-height:1.45}
+.guide-detail-head{display:flex;justify-content:space-between;gap:20px;align-items:flex-start;margin-bottom:18px}
+.guide-detail-head h3{font-size:24px;color:var(--primary);margin:0 0 5px}
+.guide-detail-head p{margin:0;color:#756b76}
+.guide-detail-list{display:grid;gap:12px}
+.guide-offer{border:1px solid #e5dde4;border-radius:13px;padding:19px;background:#fdfcfd}
+.guide-offer h4{margin:0;color:var(--primary);font-size:18px}
+.guide-offer .guide-offer-meta{margin:6px 0 0;color:#817481;font-size:12px}
+.guide-offer p{margin:12px 0 0;line-height:1.58;color:#504650}
+.guide-offer dl{display:grid;grid-template-columns:105px 1fr;gap:7px 12px;margin:14px 0 0;font-size:13px;line-height:1.5}
+.guide-offer dt{font-weight:700;color:#665b65}.guide-offer dd{margin:0;color:#665b65}
+.guide-offer-actions{display:flex;flex-wrap:wrap;gap:9px;margin-top:15px}
+.guide-offer-actions a{display:inline-block;text-decoration:none;background:var(--primary);color:#fff;border-radius:8px;padding:9px 12px;font-size:13px;font-weight:600}
+.guide-offer-actions a.secondary{background:#f1eaf0;color:var(--primary);border:1px solid #decfda}
+.guide-empty{padding:34px 10px;text-align:center;color:#786e78}.guide-empty strong{display:block;color:var(--primary);font-size:18px;margin-bottom:8px}
+.guide-note{max-width:900px;margin:24px auto 0;padding:4px 8px;color:#786e78;font-size:13px;line-height:1.65}.guide-note strong{color:var(--primary)}.guide-note p{margin:5px 0 0}
+.guide-search-results{display:grid;gap:10px}.guide-search-hit{width:100%;text-align:left;border:1px solid #e5dde4;background:#fdfcfd;border-radius:12px;padding:15px 16px}.guide-search-hit strong{display:block;color:var(--primary)}.guide-search-hit small{display:block;margin-top:5px;color:#817581}.guide-search-hit mark{background:#f5dfea;color:inherit;padding:0 2px}
+@media(max-width:980px){.guide-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.guide-intro{grid-template-columns:1fr}.guide-filter-card{max-width:680px}.guide-main{padding-top:30px}}
+@media(max-width:700px){.guide-main{padding:22px 16px 44px}.guide-stage{padding:18px;border-radius:15px}.guide-grid,.guide-org-list{grid-template-columns:1fr}.guide-card{min-height:122px}.guide-filter-card{grid-template-columns:1fr}.guide-filter-card label,.guide-filter-card label[for="guide-search"],.guide-search-row{grid-column:1}.guide-stage-top{flex-direction:column}.guide-back{order:-1}.guide-detail-head{flex-direction:column}.guide-offer dl{grid-template-columns:1fr}.guide-offer dd{margin-bottom:5px}}
+html[data-color-scheme="dark"] .guide-filter-card,html[data-color-scheme="dark"] .guide-stage{background:#242126;border-color:#3b343c;box-shadow:none}
+html[data-color-scheme="dark"] .guide-intro h1,html[data-color-scheme="dark"] .guide-stage h2,html[data-color-scheme="dark"] .guide-card strong,html[data-color-scheme="dark"] .guide-org strong,html[data-color-scheme="dark"] .guide-detail-head h3,html[data-color-scheme="dark"] .guide-offer h4,html[data-color-scheme="dark"] .guide-empty strong,html[data-color-scheme="dark"] .guide-note strong{color:#f3dbea}
+html[data-color-scheme="dark"] .guide-lead,html[data-color-scheme="dark"] .guide-stage-top p,html[data-color-scheme="dark"] .guide-card p,html[data-color-scheme="dark"] .guide-card-foot,html[data-color-scheme="dark"] .guide-org small,html[data-color-scheme="dark"] .guide-detail-head p,html[data-color-scheme="dark"] .guide-status,html[data-color-scheme="dark"] .guide-note,html[data-color-scheme="dark"] .guide-offer p,html[data-color-scheme="dark"] .guide-offer dt,html[data-color-scheme="dark"] .guide-offer dd{color:#c0b5bf}
+html[data-color-scheme="dark"] .guide-card,html[data-color-scheme="dark"] .guide-org,html[data-color-scheme="dark"] .guide-offer,html[data-color-scheme="dark"] .guide-search-hit{background:#2b272d;border-color:#463e46}
+html[data-color-scheme="dark"] .guide-card:hover,html[data-color-scheme="dark"] .guide-org:hover{background:#312c33;border-color:#6d5062}
+html[data-color-scheme="dark"] .guide-card-count,html[data-color-scheme="dark"] .guide-offer-actions a.secondary{background:#3b3038;color:#efd8e7;border-color:#574752}
+html[data-color-scheme="dark"] .guide-show-all,html[data-color-scheme="dark"] .guide-search-row button{background:#2a252b;color:#efd8e7;border-color:#51454e}
