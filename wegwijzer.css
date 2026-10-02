@@ -344,3 +344,103 @@ html[data-color-scheme="dark"] .guide-topic:nth-child(6n+6){--topic-tint:#392d2c
 html[data-color-scheme="dark"] .guide-root-view .guide-note{border-top-color:#3a343a}
 
 .guide-filter-card label.guide-search-main{grid-column:auto;margin-top:0}
+
+
+/* Detailweergave: bevestigde fysieke locatie naast het concrete aanbod. */
+.guide-offer-content{min-width:0}
+.guide-offer.has-map{
+  display:grid;
+  grid-template-columns:minmax(0,1.55fr) minmax(275px,.72fr);
+  gap:24px;
+  align-items:stretch;
+}
+.guide-offer-map{
+  min-width:0;
+  overflow:hidden;
+  border:1px solid #ded6dc;
+  border-radius:12px;
+  background:#f6f4f5;
+  display:flex;
+  flex-direction:column;
+}
+.guide-mini-map{
+  width:100%;
+  min-height:225px;
+  flex:1 1 225px;
+  background:#ece9e8;
+}
+.guide-mini-map-caption{
+  display:grid;
+  grid-template-columns:1fr auto;
+  gap:3px 12px;
+  align-items:center;
+  padding:11px 13px 12px;
+  border-top:1px solid #e2dbe0;
+  background:#fff;
+}
+.guide-mini-map-caption strong{
+  color:var(--primary);
+  font-size:12px;
+}
+.guide-mini-map-caption span{
+  grid-column:1/-1;
+  color:#756b76;
+  font-size:11px;
+  line-height:1.4;
+}
+.guide-mini-map-caption a{
+  grid-column:2;
+  grid-row:1;
+  color:var(--primary);
+  font-size:11px;
+  font-weight:600;
+  text-decoration:none;
+  white-space:nowrap;
+}
+.guide-mini-map-caption a:hover{text-decoration:underline;text-underline-offset:3px}
+.guide-mini-map .leaflet-control-attribution{
+  font-size:8px;
+  background:rgba(255,255,255,.86);
+}
+.guide-mini-map .leaflet-control-attribution a{color:#62545e}
+.guide-mini-map .leaflet-tooltip{
+  border:0;
+  border-radius:7px;
+  box-shadow:0 4px 14px rgba(40,28,36,.12);
+  color:#4c4149;
+  font-family:'DM Sans',Arial,sans-serif;
+  font-size:11px;
+}
+
+@media(max-width:900px){
+  .guide-offer.has-map{grid-template-columns:1fr}
+  .guide-mini-map{min-height:210px;flex-basis:210px}
+}
+@media(max-width:700px){
+  .guide-offer.has-map{gap:16px}
+  .guide-offer-map{border-radius:10px}
+  .guide-mini-map{min-height:190px;flex-basis:190px}
+}
+html[data-color-scheme="dark"] .guide-offer-map{
+  background:#242226;
+  border-color:#4a4149;
+}
+html[data-color-scheme="dark"] .guide-mini-map-caption{
+  background:#252228;
+  border-top-color:#4a4149;
+}
+html[data-color-scheme="dark"] .guide-mini-map-caption strong,
+html[data-color-scheme="dark"] .guide-mini-map-caption a{color:#b8dfd2}
+html[data-color-scheme="dark"] .guide-mini-map-caption span{color:#c0b5bf}
+html[data-color-scheme="dark"] .guide-mini-map .leaflet-tile-pane{
+  filter:brightness(.65) contrast(1.08) saturate(.7);
+}
+html[data-color-scheme="dark"] .guide-mini-map .leaflet-control-attribution{
+  background:rgba(37,34,40,.9);
+  color:#c0b5bf;
+}
+html[data-color-scheme="dark"] .guide-mini-map .leaflet-control-attribution a{color:#b8dfd2}
+html[data-color-scheme="dark"] .guide-mini-map .leaflet-tooltip{
+  background:#2b272d;
+  color:#eee7ec;
+}
