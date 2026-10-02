@@ -51,7 +51,11 @@
         </label>
         <span class="field-label topic-label">Onderwerp</span>
         <div class="topics" id="topics" aria-label="Onderwerpen"></div>
-        <label class="nearby"><input id="nearby" type="checkbox"><span>Ook buiten deze gemeente</span></label>
+        <label class="nearby active-area-toggle" id="active-area-toggle">
+          <input id="active-here" type="checkbox">
+          <span id="active-here-label">Ook in Twente actief</span>
+          <span class="active-here-count" id="active-here-count"></span>
+        </label>
       </div>
       <div class="results-heading"><h2 id="results-title">Twente</h2><span id="result-count">Laden…</span></div>
       <div class="results" id="results" aria-live="polite"></div>
