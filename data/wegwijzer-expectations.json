@@ -1,36 +1,36 @@
 [
   {
-    "nameContains": "Humanitas Twente Samen Actief",
+    "nameContains": "Samen Actief",
     "municipality": "Enschede",
     "path": "migratie/nieuwkomer"
   },
   {
-    "nameContains": "Humanitas Twente Samen Actief",
+    "nameContains": "Samen Actief",
     "municipality": "Borne",
     "path": "migratie/nieuwkomer"
   },
   {
-    "nameContains": "Humanitas Twente Samen Actief",
+    "nameContains": "Samen Actief",
     "municipality": "Oldenzaal",
     "path": "migratie/nieuwkomer"
   },
   {
-    "nameContains": "Humanitas Twente Samen Actief",
+    "nameContains": "Samen Actief",
     "municipality": "Losser",
     "path": "migratie/nieuwkomer"
   },
   {
-    "nameContains": "Huis voor Taal Meedoen taal en digitale hulp",
+    "nameContains": "taal- en digitale hulp",
     "municipality": "Enschede",
     "path": "migratie/taal"
   },
   {
-    "nameContains": "Huis voor Taal Meedoen Taalspreekuur",
+    "nameContains": "Taalspreekuur",
     "municipality": "Enschede",
     "path": "migratie/taal"
   },
   {
-    "nameContains": "Huis voor Taal Meedoen Meedoen spreekuur",
+    "nameContains": "Meedoen-spreekuur",
     "municipality": "Enschede",
     "path": "migratie/taal"
   },
@@ -40,17 +40,17 @@
     "path": "migratie/taal"
   },
   {
-    "nameContains": "Humanitas Twente Home Start",
+    "nameContains": "Home-Start",
     "municipality": "Enschede",
     "path": "onderwijs/opvoeden"
   },
   {
-    "nameContains": "Humanitas Twente Tandem",
+    "nameContains": "Tandem maatjes",
     "municipality": "Enschede",
     "path": "mentaal/eenzaamheid"
   },
   {
-    "nameContains": "Humanitas Twente Begeleide Omgangsregeling",
+    "nameContains": "Begeleide Omgangsregeling",
     "municipality": "Enschede",
     "path": "veiligheid/relaties"
   },
