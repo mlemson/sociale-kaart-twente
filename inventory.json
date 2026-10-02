@@ -17649,7 +17649,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.1985123,
+      "lon": 6.87527536,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -17688,11 +17693,16 @@
       "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
       "costs": "Gratis.",
       "address": "Schorpioenstraat 33",
-      "postcode": "7521HW",
+      "postcode": "7521HN",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.22836417,
+      "lon": 6.85720441,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -17735,7 +17745,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.21387697,
+      "lon": 6.85645007,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -17778,7 +17793,12 @@
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.20838378,
+      "lon": 6.88275786,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -17817,11 +17837,16 @@
       "access": "Vrij binnenlopen; een zorgindicatie is niet nodig.",
       "costs": "Gratis.",
       "address": "Hortensiastraat 1",
-      "postcode": "",
+      "postcode": "7531GR",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.22966939,
+      "lon": 6.92184091,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -17861,10 +17886,15 @@
       "costs": "Gratis.",
       "address": "Jan van Elburgstraat 111",
       "postcode": "7548DC",
-      "town": "Boekelo",
+      "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.20117191,
+      "lon": 6.79795384,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
