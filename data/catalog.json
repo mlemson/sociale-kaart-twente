@@ -78,6 +78,91 @@
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
   },
   {
+    "id": "org-t-diekhuus-nijverdal-1wx4g0p",
+    "organization": "'t Diekhuus Nijverdal",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.letshellendoorn.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hellendoorn-diekhuus",
+        "title": "sociale ontmoeting",
+        "name": "'t Diekhuus Nijverdal · sociale ontmoeting",
+        "description": "Wijkgebouw waar onder meer de openbare KLETS- en informatieavonden van LETS Hellendoorn plaatsvinden; een sociaal netwerk waarin inwoners elkaar helpen en ontmoeten.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "wijkgebouw",
+          "sociaal netwerk",
+          "inloop"
+        ],
+        "tags": [
+          "ontmoeten",
+          "wijkgebouw",
+          "ruilen",
+          "sociaal netwerk",
+          "Nijverdal"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/vrijwillig"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners die anderen willen ontmoeten en diensten of kennis met elkaar willen uitwisselen.",
+        "costs": "Kennismaken is laagdrempelig; controleer eventuele lidmaatschapsvoorwaarden bij LETS.",
+        "access": "Iedereen is welkom bij de maandelijkse KLETS-avonden.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.letshellendoorn.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "LETS Hellendoorn",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "P C Boutensstraat 1a",
+        "postcode": "7442ZL",
+        "town": "Nijverdal",
+        "lat": 52.35200046,
+        "lon": 6.47534855,
+        "locationType": "visiting",
+        "locationSource": "https://www.letshellendoorn.nl/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "P C Boutensstraat 1a",
+      "postcode": "7442ZL",
+      "town": "Nijverdal",
+      "lat": 52.35200046,
+      "lon": 6.47534855,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "visiting",
+      "locationSource": "https://www.letshellendoorn.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.letshellendoorn.nl/"
+  },
+  {
     "id": "org-t-noaberhoes-1oywfzc",
     "organization": "'t Noaberhoes",
     "municipalities": [
@@ -4939,6 +5024,95 @@
     "primarySource": "https://bibliotheekenschede.op-shop.nl/"
   },
   {
+    "id": "org-bibliotheek-enter-1l7kdq3",
+    "organization": "Bibliotheek Enter",
+    "municipalities": [
+      "Wierden"
+    ],
+    "categories": [
+      "taal",
+      "advies"
+    ],
+    "sources": [
+      "https://bibliotheekwierden.op-shop.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-wierden-bibliotheek-enter",
+        "title": "gratis hulp en activiteiten",
+        "name": "Bibliotheek Enter · gratis hulp en activiteiten",
+        "description": "Bibliotheekvestiging in Enter met onder meer gratis Digicafé, Informatiepunt Digitale Overheid en activiteiten voor verschillende leeftijden.",
+        "municipality": "Wierden",
+        "municipalities": [
+          "Wierden"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "advies"
+        ],
+        "subthemes": [
+          "digitaal",
+          "inloop",
+          "ontmoeting"
+        ],
+        "tags": [
+          "taal",
+          "digitaal",
+          "IDO",
+          "Digicafé",
+          "gratis",
+          "Enter"
+        ],
+        "guidePaths": [
+          "taal/digitaal",
+          "taal/basis",
+          "geld/formulieren"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Enter en omgeving.",
+        "costs": "Veel hulp- en inloopactiviteiten zijn gratis.",
+        "access": "Inloopspreekuren en activiteiten volgens de actuele agenda.",
+        "openingHours": "",
+        "phone": "0547 381158",
+        "email": "info@bibliotheekwierden.nl",
+        "source": "https://bibliotheekwierden.op-shop.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Bibliotheek Wierden",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Dorpsstraat 69",
+        "postcode": "7468CE",
+        "town": "Enter",
+        "lat": 52.29597275,
+        "lon": 6.57787152,
+        "locationType": "visiting",
+        "locationSource": "https://bibliotheekwierden.op-shop.nl/",
+        "locationMunicipality": "Wierden",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Dorpsstraat 69",
+      "postcode": "7468CE",
+      "town": "Enter",
+      "lat": 52.29597275,
+      "lon": 6.57787152,
+      "locationMunicipality": "Wierden",
+      "locationType": "visiting",
+      "locationSource": "https://bibliotheekwierden.op-shop.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://bibliotheekwierden.op-shop.nl/"
+  },
+  {
     "id": "org-bibliotheek-holten-1dckned",
     "organization": "Bibliotheek Holten",
     "municipalities": [
@@ -5478,6 +5652,97 @@
     "primarySource": "https://www.bibliotheektwente.nl/activiteiten"
   },
   {
+    "id": "org-bibliotheek-wierden-x3ydwv",
+    "organization": "Bibliotheek Wierden",
+    "municipalities": [
+      "Wierden"
+    ],
+    "categories": [
+      "taal",
+      "advies"
+    ],
+    "sources": [
+      "https://bibliotheekwierden.op-shop.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-wierden-bibliotheek-wierden",
+        "title": "gratis hulp en inloopspreekuren",
+        "name": "Bibliotheek Wierden · gratis hulp en inloopspreekuren",
+        "description": "Bibliotheeklocatie met onder meer Taalpunt, Digicafé, Informatiepunt Digitale Overheid, Repair Café en andere laagdrempelige spreekuren en activiteiten.",
+        "municipality": "Wierden",
+        "municipalities": [
+          "Wierden"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "advies"
+        ],
+        "subthemes": [
+          "digitaal",
+          "taal",
+          "inloop"
+        ],
+        "tags": [
+          "taal",
+          "digitaal",
+          "IDO",
+          "Digicafé",
+          "Taalpunt",
+          "gratis",
+          "Wierden"
+        ],
+        "guidePaths": [
+          "taal/nederlands",
+          "taal/digitaal",
+          "taal/basis",
+          "geld/formulieren"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners met vragen over taal, digitale vaardigheden, overheid of praktische zaken.",
+        "costs": "Veel hulp- en inloopactiviteiten zijn gratis.",
+        "access": "Meerdere gratis inloopspreekuren volgens de actuele agenda.",
+        "openingHours": "",
+        "phone": "0546 572784",
+        "email": "info@bibliotheekwierden.nl",
+        "source": "https://bibliotheekwierden.op-shop.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Bibliotheek Wierden",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Pouliestraat 2",
+        "postcode": "7642EB",
+        "town": "Wierden",
+        "lat": 52.35644776,
+        "lon": 6.59291828,
+        "locationType": "visiting",
+        "locationSource": "https://bibliotheekwierden.op-shop.nl/",
+        "locationMunicipality": "Wierden",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Pouliestraat 2",
+      "postcode": "7642EB",
+      "town": "Wierden",
+      "lat": 52.35644776,
+      "lon": 6.59291828,
+      "locationMunicipality": "Wierden",
+      "locationType": "visiting",
+      "locationSource": "https://bibliotheekwierden.op-shop.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://bibliotheekwierden.op-shop.nl/"
+  },
+  {
     "id": "org-bibliotheekvoorziening-de-driehoek-1makn2n",
     "organization": "Bibliotheekvoorziening De Driehoek",
     "municipalities": [
@@ -5713,6 +5978,89 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
+  },
+  {
+    "id": "org-bunga-tandjung-22ufdh",
+    "organization": "Bunga Tandjung",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.dewelledoet.nl/activiteiten/858"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hellendoorn-bunga-tanjung",
+        "title": "ontmoeting en bewegen",
+        "name": "Bunga Tandjung · ontmoeting en bewegen",
+        "description": "Ontmoetingslocatie in Nijverdal waar onder meer wekelijkse volksdans en sjoelactiviteiten plaatsvinden.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "bewegen",
+          "senioren",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "bewegen",
+          "senioren",
+          "Nijverdal"
+        ],
+        "guidePaths": [
+          "ontmoeten/bewegen"
+        ],
+        "guideExclude": false,
+        "audience": "Volwassenen en senioren die samen willen bewegen en anderen willen ontmoeten.",
+        "costs": "Verschilt per activiteit; sommige activiteiten zijn gratis.",
+        "access": "Activiteiten volgens de agenda van De Welle.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.dewelledoet.nl/activiteiten/858",
+        "sourceKind": "first-party",
+        "sourceTitle": "De Welle",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Molukkenstraat 4",
+        "postcode": "7442LV",
+        "town": "Nijverdal",
+        "lat": 52.36145875,
+        "lon": 6.46657741,
+        "locationType": "visiting",
+        "locationSource": "https://www.dewelledoet.nl/activiteiten/858",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Molukkenstraat 4",
+      "postcode": "7442LV",
+      "town": "Nijverdal",
+      "lat": 52.36145875,
+      "lon": 6.46657741,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/858",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.dewelledoet.nl/activiteiten/858"
   },
   {
     "id": "org-buurt-en-speeltuinvereniging-de-jeugd-us28gy",
@@ -7498,14 +7846,68 @@
       "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/",
       "https://www.dewelledoet.nl/activiteiten/20",
       "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
-      "https://www.dewelledoet.nl/activiteiten/352"
+      "https://www.dewelledoet.nl/activiteiten/352",
+      "https://www.socialekaartwierden.nl/is/product/157291/220582/bewegen-op-de-stoel-enter"
     ],
-    "offerCount": 24,
+    "offerCount": 25,
     "reviewNeeded": 0,
-    "sourceBacked": 24,
+    "sourceBacked": 25,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
+      {
+        "id": "extra-20261002-wierden-reggedal-ontmoeting",
+        "title": "activiteiten in Het Reggedal",
+        "name": "De Welle · activiteiten in Het Reggedal",
+        "description": "Ontmoetingsruimte in Het Reggedal met gratis activiteiten voor thuiswonende senioren, zoals bewegen op de stoel en samen kaarten maken.",
+        "municipality": "Wierden",
+        "municipalities": [
+          "Wierden"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "bewegen",
+          "creatief",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "bewegen",
+          "creatief",
+          "Enter"
+        ],
+        "guidePaths": [
+          "ontmoeten/bewegen",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Senioren in Enter, ook zelfstandig wonende ouderen.",
+        "costs": "Verschillende activiteiten zijn gratis.",
+        "access": "Wekelijkse activiteiten; aanmelden via De Welle.",
+        "openingHours": "",
+        "phone": "0546 571693",
+        "email": "",
+        "source": "https://www.socialekaartwierden.nl/is/product/157291/220582/bewegen-op-de-stoel-enter",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociale kaart Wierden / De Welle",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Het Reggedal 23a-101",
+        "postcode": "7468BX",
+        "town": "Enter",
+        "lat": 52.29707303,
+        "lon": 6.57627255,
+        "locationType": "visiting",
+        "locationSource": "https://www.socialekaartwierden.nl/is/product/157291/220582/bewegen-op-de-stoel-enter",
+        "locationMunicipality": "Wierden",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
       {
         "id": "c-20261002-dewelle-beweegtuin",
         "title": "Beweegtuin Wierden",
@@ -10089,11 +10491,13 @@
       "https://www.fundamentlosser.nl/activiteiten/",
       "https://www.fundamentlosser.nl/agenda/maaklab-2-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-2026-09-30-2026-10-07-2026-10-14-2026-10-21-2026-10-28-2026-11-04-2026-11-11-2026-11-18-2026-11-25-2026-12-02-09-2027-06-16/",
       "https://www.fundamentlosser.nl/agenda/",
-      "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/"
+      "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/",
+      "https://www.fundamentlosser.nl/agenda/de-culturele-ontmoeting-3-2026-09-10-2026-09-17-2026-09-24-2026-10-01-2026-10-08-2026-10-15-2026-10-22-2026-10-29-2026-11-05-2026-11-12-2026-11-19/",
+      "https://dorpshoes.nl/"
     ],
-    "offerCount": 30,
+    "offerCount": 32,
     "reviewNeeded": 0,
-    "sourceBacked": 25,
+    "sourceBacked": 27,
     "manual": 5,
     "checked": "2026-09-15",
     "offers": [
@@ -10144,6 +10548,59 @@
         "locationMunicipality": "Losser",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261002-losser-actieve-ontmoeting-de-lutte",
+        "title": "Actieve Ontmoeting De Lutte",
+        "name": "Fundament Losser · Actieve Ontmoeting De Lutte",
+        "description": "Actieve ontmoetingsgroep in Dorpshoes Erve Boerrigter met bewegen, samen koken en eten en ruimte voor sociaal contact.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "bewegen",
+          "samen eten"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "bewegen",
+          "samen eten",
+          "De Lutte"
+        ],
+        "guidePaths": [
+          "ontmoeten/bewegen",
+          "ontmoeten/samen",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Oudere inwoners van De Lutte en omgeving.",
+        "costs": "Deelname tegen een beperkte bijdrage.",
+        "access": "Wekelijkse activiteit; actuele tijden via Fundament of het Dorpshoes.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://dorpshoes.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Dorpshoes Erve Boerrigter / Fundament",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Plechelmusstraat 14",
+        "postcode": "7587AM",
+        "town": "de Lutte",
+        "lat": 52.31656044,
+        "lon": 6.98643713,
+        "locationType": "visiting",
+        "locationSource": "https://dorpshoes.nl/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "extra-20261002-fundament-actieve-ontmoeting-losser",
@@ -10463,6 +10920,58 @@
         "locationMunicipality": "Losser",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261002-losser-culturele-ontmoeting-kraesgenberg",
+        "title": "De Culturele Ontmoeting",
+        "name": "Fundament Losser · De Culturele Ontmoeting",
+        "description": "Wekelijkse culturele ontmoeting voor ouderen bij Erve Kraesgenberg met koffie, een inhoudelijk programma en mogelijkheid om samen warm te eten.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "cultuur",
+          "samen eten"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "cultuur",
+          "samen eten",
+          "Losser"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "ontmoeten/samen"
+        ],
+        "guideExclude": false,
+        "audience": "Ouderen die anderen willen ontmoeten en belangstelling hebben voor kunst, historie, muziek en cultuur.",
+        "costs": "Lage bijdrage; met maaltijd is de bijdrage hoger.",
+        "access": "Donderdag vanaf 10.00 uur volgens de actuele agenda.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.fundamentlosser.nl/agenda/de-culturele-ontmoeting-3-2026-09-10-2026-09-17-2026-09-24-2026-10-01-2026-10-08-2026-10-15-2026-10-22-2026-10-29-2026-11-05-2026-11-12-2026-11-19/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Fundament Losser",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Bookholtlaan 25",
+        "postcode": "7581BB",
+        "town": "Losser",
+        "lat": 52.2674099,
+        "lon": 7.01367774,
+        "locationType": "visiting",
+        "locationSource": "https://www.fundamentlosser.nl/agenda/de-culturele-ontmoeting-3-2026-09-10-2026-09-17-2026-09-24-2026-10-01-2026-10-08-2026-10-15-2026-10-22-2026-10-29-2026-11-05-2026-11-12-2026-11-19/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "candidate-20261002-fundament-digitaal-inloopcaf-",
@@ -11495,14 +12004,14 @@
       }
     ],
     "location": {
-      "address": "Denekamperdijk 46",
-      "postcode": "7581PJ",
+      "address": "Bookholtlaan 25",
+      "postcode": "7581BB",
       "town": "Losser",
-      "lat": 52.27295387,
-      "lon": 7.01981524,
+      "lat": 52.2674099,
+      "lon": 7.01367774,
       "locationMunicipality": "Losser",
-      "locationType": "service",
-      "locationSource": "https://www.fundamentlosser.nl/agenda/",
+      "locationType": "visiting",
+      "locationSource": "https://www.fundamentlosser.nl/agenda/de-culturele-ontmoeting-3-2026-09-10-2026-09-17-2026-09-24-2026-10-01-2026-10-08-2026-10-15-2026-10-22-2026-10-29-2026-11-05-2026-11-12-2026-11-19/",
       "mapLocationType": "address"
     },
     "status": "source-backed",
@@ -11876,11 +12385,11 @@
         "sourceTitle": "Sociaal Hus Borne",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Marktstraat 16a",
-        "postcode": "7622CR",
+        "address": "Marktstraat 1",
+        "postcode": "7622CP",
         "town": "Borne",
-        "lat": 52.30148711,
-        "lon": 6.75907499,
+        "lat": 52.30147418,
+        "lon": 6.75792253,
         "locationType": "visiting",
         "locationSource": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
         "locationMunicipality": "Borne",
@@ -11889,11 +12398,11 @@
       }
     ],
     "location": {
-      "address": "Marktstraat 16a",
-      "postcode": "7622CR",
+      "address": "Marktstraat 1",
+      "postcode": "7622CP",
       "town": "Borne",
-      "lat": 52.30148711,
-      "lon": 6.75907499,
+      "lat": 52.30147418,
+      "lon": 6.75792253,
       "locationMunicipality": "Borne",
       "locationType": "visiting",
       "locationSource": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
@@ -12710,6 +13219,90 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/318449/invis2/gemeente-wierden-geldloket"
+  },
+  {
+    "id": "org-hofkerk-goor-1kd5328",
+    "organization": "Hofkerk Goor",
+    "municipalities": [
+      "Hof van Twente"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.visithofvantwente.nl/attracties/architectuur---erfgoed/1689-hofkerk/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hof-hofkerk-inloop",
+        "title": "inloopochtend en ontmoeting",
+        "name": "Hofkerk Goor · inloopochtend en ontmoeting",
+        "description": "Wekelijkse open inloop in de Hofkerk waar bezoekers koffie kunnen drinken, een praatje kunnen maken en gebruik kunnen maken van het stiltecentrum.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "koffie",
+          "luisterend oor"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "koffie",
+          "Goor"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "mentaal/welzijn"
+        ],
+        "guideExclude": false,
+        "audience": "Iedereen die behoefte heeft aan ontmoeting, rust of een gesprek.",
+        "costs": "Vrije inloop.",
+        "access": "Donderdag 09.30-11.30 uur.",
+        "openingHours": "",
+        "phone": "0547 272337",
+        "email": "",
+        "source": "https://www.visithofvantwente.nl/attracties/architectuur---erfgoed/1689-hofkerk/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Hofkerk Goor",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Diepenheimseweg 2a",
+        "postcode": "7471LX",
+        "town": "Goor",
+        "lat": 52.23172349,
+        "lon": 6.58041853,
+        "locationType": "visiting",
+        "locationSource": "https://www.visithofvantwente.nl/attracties/architectuur---erfgoed/1689-hofkerk/",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Diepenheimseweg 2a",
+      "postcode": "7471LX",
+      "town": "Goor",
+      "lat": 52.23172349,
+      "lon": 6.58041853,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "visiting",
+      "locationSource": "https://www.visithofvantwente.nl/attracties/architectuur---erfgoed/1689-hofkerk/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.visithofvantwente.nl/attracties/architectuur---erfgoed/1689-hofkerk/"
   },
   {
     "id": "org-huis-voor-taal-meedoen-18hqdb3",
@@ -17565,6 +18158,90 @@
     "primarySource": "https://rigtersbleek.nl/voorliggende-voorziening/"
   },
   {
+    "id": "org-kulturhus-kruidenwijk-n3l3p3",
+    "organization": "Kulturhus Kruidenwijk",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://dekruidenwijk.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hellendoorn-kulturhus-kruidenwijk",
+        "title": "wijkactiviteiten en ontmoeting",
+        "name": "Kulturhus Kruidenwijk · wijkactiviteiten en ontmoeting",
+        "description": "Multifunctioneel kulturhus in de Kruidenwijk waar verenigingen en bewoners samenkomen voor activiteiten voor jong en oud.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "kulturhus",
+          "wijkactiviteiten",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "kulturhus",
+          "wijk",
+          "Nijverdal"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van de Kruidenwijk en andere inwoners van Nijverdal.",
+        "costs": "Verschilt per activiteit.",
+        "access": "Activiteiten volgens de agenda van de wijkvereniging en gebruikers.",
+        "openingHours": "",
+        "phone": "0548 623202",
+        "email": "kulturhus@dekruidenwijk.nl",
+        "source": "https://dekruidenwijk.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkvereniging De Kruidenwijk",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Kuperserf 43",
+        "postcode": "7443HC",
+        "town": "Nijverdal",
+        "lat": 52.37687224,
+        "lon": 6.4828382,
+        "locationType": "visiting",
+        "locationSource": "https://dekruidenwijk.nl/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Kuperserf 43",
+      "postcode": "7443HC",
+      "town": "Nijverdal",
+      "lat": 52.37687224,
+      "lon": 6.4828382,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "visiting",
+      "locationSource": "https://dekruidenwijk.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://dekruidenwijk.nl/"
+  },
+  {
     "id": "org-leendert-vriel-almelo-q5xxhw",
     "organization": "Leendert Vriel Almelo",
     "municipalities": [
@@ -20034,6 +20711,91 @@
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
   },
   {
+    "id": "org-noaberhoes-delden-1ia6s19",
+    "organization": "Noaberhoes Delden",
+    "municipalities": [
+      "Hof van Twente"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://noaberhoes.com/activiteiten/koffie-inloop-in-het-noaberhoes"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hof-noaberhoes-delden",
+        "title": "koffie-inloop en samen eten",
+        "name": "Noaberhoes Delden · koffie-inloop en samen eten",
+        "description": "Laagdrempelige ontmoetingsplek in Delden met wekelijkse koffie-inloop, samen eten, spel en andere activiteiten.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "senioren",
+          "samen eten"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "senioren",
+          "samen eten",
+          "Delden"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "ontmoeten/samen"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Delden; de koffie-inloop richt zich in het bijzonder op 60-plussers.",
+        "costs": "Koffie-inloop is laagdrempelig; maaltijden en andere activiteiten kunnen een bijdrage vragen.",
+        "access": "Koffie-inloop op woensdagochtend; andere activiteiten volgens de agenda.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://noaberhoes.com/activiteiten/koffie-inloop-in-het-noaberhoes",
+        "sourceKind": "first-party",
+        "sourceTitle": "Noaberhoes Delden",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Langestraat 155",
+        "postcode": "7491AE",
+        "town": "Delden",
+        "lat": 52.2589667,
+        "lon": 6.69508485,
+        "locationType": "visiting",
+        "locationSource": "https://noaberhoes.com/activiteiten/koffie-inloop-in-het-noaberhoes",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Langestraat 155",
+      "postcode": "7491AE",
+      "town": "Delden",
+      "lat": 52.2589667,
+      "lon": 6.69508485,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "visiting",
+      "locationSource": "https://noaberhoes.com/activiteiten/koffie-inloop-in-het-noaberhoes",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://noaberhoes.com/activiteiten/koffie-inloop-in-het-noaberhoes"
+  },
+  {
     "id": "org-noaberpoort-1ynn51m",
     "organization": "Noaberpoort",
     "municipalities": [
@@ -22112,6 +22874,90 @@
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/201140/invis2/pcob-rijssen-holten"
   },
   {
+    "id": "org-potkaamp-borne-1k72asg",
+    "organization": "Potkaamp Borne",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-borne-potkaamp-soos",
+        "title": "soosmiddag",
+        "name": "Potkaamp Borne · soosmiddag",
+        "description": "Terugkerende soosmiddag met koffie, thee, spel en ontmoeting in Oud Borne.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "soos",
+          "koffie",
+          "spel"
+        ],
+        "tags": [
+          "ontmoeten",
+          "soos",
+          "koffie",
+          "spel",
+          "Borne"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners die op een informele manier anderen willen ontmoeten.",
+        "costs": "Niet vermeld; controleer bij de organisator.",
+        "access": "Eens per twee weken op woensdagmiddag volgens de lokale sociale kaart.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Potkampstraat 11",
+        "postcode": "7622EM",
+        "town": "Borne",
+        "lat": 52.30064652,
+        "lon": 6.75947424,
+        "locationType": "visiting",
+        "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Potkampstraat 11",
+      "postcode": "7622EM",
+      "town": "Borne",
+      "lat": 52.30064652,
+      "lon": 6.75947424,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma"
+  },
+  {
     "id": "org-power-enschede-1tp85zf",
     "organization": "Power Enschede",
     "municipalities": [
@@ -23200,11 +24046,12 @@
       "https://salut-welzijn.nl/onderwerpen/lichamelijk-en-mentaal-gezond/sociaal-verwijzen/",
       "https://salut-welzijn.nl/onderwerpen/ouder-worden/anwb-automaatje/",
       "https://salut-welzijn.nl/onderwerpen/vrijwilligerszaken/steungezinnen/",
-      "https://salut-welzijn.nl/trainingen-cursussen/"
+      "https://salut-welzijn.nl/trainingen-cursussen/",
+      "https://salut-welzijn.nl/contact/"
     ],
-    "offerCount": 28,
+    "offerCount": 29,
     "reviewNeeded": 1,
-    "sourceBacked": 27,
+    "sourceBacked": 28,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -24450,6 +25297,56 @@
         "mapPin": false
       },
       {
+        "id": "extra-20261002-hof-salut-markelo-martinushof",
+        "title": "vrij inloopspreekuur Martinushof Markelo",
+        "name": "Salut · vrij inloopspreekuur Martinushof Markelo",
+        "description": "Vrij inloopspreekuur van Salut voor vragen over welzijn, wonen, zorg, geldzaken, mantelzorg, vrijwilligerswerk, eenzaamheid en meedoen.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [
+          "inloop",
+          "welzijn",
+          "wegwijs"
+        ],
+        "tags": [
+          "advies",
+          "inloop",
+          "welzijn",
+          "Markelo"
+        ],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "audience": "Alle inwoners van Hof van Twente.",
+        "costs": "Gratis.",
+        "access": "Elke even week op donderdag 09.00-12.00 uur; afspraak niet nodig.",
+        "openingHours": "",
+        "phone": "0547 260053",
+        "email": "info@salut-welzijn.nl",
+        "source": "https://salut-welzijn.nl/contact/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Salut",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Kerkplein 41",
+        "postcode": "7475AE",
+        "town": "Markelo",
+        "lat": 52.23456554,
+        "lon": 6.49347506,
+        "locationType": "visiting",
+        "locationSource": "https://salut-welzijn.nl/contact/",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
         "id": "candidate-0cef73df66a10d82",
         "title": "Vrijwilligerszaken",
         "name": "Salut · Vrijwilligerszaken",
@@ -24495,14 +25392,14 @@
       }
     ],
     "location": {
-      "address": "de Höfte 5",
-      "postcode": "7471DK",
-      "town": "Goor",
-      "lat": 52.23333695,
-      "lon": 6.58441448,
+      "address": "Kerkplein 41",
+      "postcode": "7475AE",
+      "town": "Markelo",
+      "lat": 52.23456554,
+      "lon": 6.49347506,
       "locationMunicipality": "Hof van Twente",
       "locationType": "visiting",
-      "locationSource": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
+      "locationSource": "https://salut-welzijn.nl/contact/",
       "mapLocationType": "address"
     },
     "status": "review-needed",
@@ -25282,9 +26179,9 @@
       "https://swtd.nl/ons-aanbod/ouder-worden/activiteiten-en-cursussen/",
       "https://swtd.nl/events/inloop-eschede/var/ri-63.l-L1/"
     ],
-    "offerCount": 43,
+    "offerCount": 46,
     "reviewNeeded": 1,
-    "sourceBacked": 42,
+    "sourceBacked": 45,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -26483,6 +27380,156 @@
         "locationType": "visiting",
         "locationSource": "https://swtd.nl/agenda/",
         "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-dinkelland-open-eettafel-noord-deurningen",
+        "title": "Open Eettafel Noord-Deurningen",
+        "name": "Sociaal, dat werkt! · Open Eettafel Noord-Deurningen",
+        "description": "Terugkerende open eettafel in Kulturhus de Mare waar inwoners samen een driegangenmaaltijd eten en anderen ontmoeten.",
+        "municipality": "Dinkelland",
+        "municipalities": [
+          "Dinkelland"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "samen eten",
+          "senioren",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "samen eten",
+          "senioren",
+          "Noord-Deurningen"
+        ],
+        "guidePaths": [
+          "ontmoeten/samen"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Dinkelland, met name oudere inwoners die samen willen eten en contacten willen onderhouden.",
+        "costs": "Een gezonde maaltijd wordt tegen een kleine bijdrage aangeboden.",
+        "access": "Aanmelden via SWTD; data en tijden staan in de actuele agenda.",
+        "openingHours": "",
+        "phone": "085 0479 400",
+        "email": "",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Nieuwewemestraat 3",
+        "postcode": "7591PC",
+        "town": "Denekamp",
+        "lat": 52.3965319,
+        "lon": 7.02670826,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Dinkelland",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-dinkelland-open-eettafel-reutum",
+        "title": "Open Eettafel Reutum",
+        "name": "Sociaal, dat werkt! · Open Eettafel Reutum",
+        "description": "Maandelijks open eettafelmoment in Reutum om samen te eten en sociale contacten te onderhouden.",
+        "municipality": "Dinkelland",
+        "municipalities": [
+          "Dinkelland"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "samen eten",
+          "senioren",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "samen eten",
+          "senioren",
+          "Reutum"
+        ],
+        "guidePaths": [
+          "ontmoeten/samen"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Reutum en omgeving.",
+        "costs": "Maaltijd tegen een bijdrage.",
+        "access": "Laatste donderdag van de maand volgens de actuele agenda.",
+        "openingHours": "",
+        "phone": "085 0479 400",
+        "email": "",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Kerkstraat 78",
+        "postcode": "7667PZ",
+        "town": "Reutum",
+        "lat": 52.39113819,
+        "lon": 6.84545193,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "service-area",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-dinkelland-open-eettafel-rossum",
+        "title": "Open Eettafel Rossum",
+        "name": "Sociaal, dat werkt! · Open Eettafel Rossum",
+        "description": "Gezamenlijke maaltijd en ontmoetingsmoment in Kulturhus de CoCeR in Rossum.",
+        "municipality": "Dinkelland",
+        "municipalities": [
+          "Dinkelland"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "samen eten",
+          "senioren",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "samen eten",
+          "senioren",
+          "Rossum"
+        ],
+        "guidePaths": [
+          "ontmoeten/samen"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Rossum en omgeving die samen willen eten en anderen willen ontmoeten.",
+        "costs": "Maaltijd tegen een kleine bijdrage.",
+        "access": "Volgens de actuele SWTD-agenda; aanmelden via SWTD.",
+        "openingHours": "",
+        "phone": "085 0479 400",
+        "email": "",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Thijplein 1",
+        "postcode": "7596KM",
+        "town": "Rossum",
+        "lat": 52.35194283,
+        "lon": 6.92278395,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Dinkelland",
         "mapLocationType": "address",
         "mapPin": true
       },
@@ -27809,6 +28856,89 @@
     },
     "status": "source-backed",
     "primarySource": "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/"
+  },
+  {
+    "id": "org-stichting-aandacht-voor-elkaar-1o35l26",
+    "organization": "Stichting Aandacht voor Elkaar",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-borne-praathuis",
+        "title": "Praathuis Borne",
+        "name": "Stichting Aandacht voor Elkaar · Praathuis Borne",
+        "description": "Wekelijks Praathuis met koffie, ontmoeting en ontspanning, georganiseerd door Stichting Aandacht voor Elkaar.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "koffie",
+          "inloop",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "koffie",
+          "Borne"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners die behoefte hebben aan contact en een laagdrempelige ontmoetingsplek.",
+        "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
+        "access": "Woensdag 09.30-11.30 uur, ook tijdens vakanties.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Brugstraatje 4",
+        "postcode": "7622EL",
+        "town": "Borne",
+        "lat": 52.3010331,
+        "lon": 6.75869441,
+        "locationType": "visiting",
+        "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Brugstraatje 4",
+      "postcode": "7622EL",
+      "town": "Borne",
+      "lat": 52.3010331,
+      "lon": 6.75869441,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma"
   },
   {
     "id": "org-stichting-buurtgezinnen-ar0jeq",
@@ -29552,6 +30682,87 @@
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo"
+  },
+  {
+    "id": "org-theaterhoes-hertme-pjlhsy",
+    "organization": "Theaterhoes Hertme",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-borne-hertme-theaterhoes",
+        "title": "dorpsactiviteiten",
+        "name": "Theaterhoes Hertme · dorpsactiviteiten",
+        "description": "Dorpslocatie in Hertme waar onder meer maandelijkse ontmoetings- en verenigingsactiviteiten plaatsvinden.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "dorpsontmoeting",
+          "activiteiten"
+        ],
+        "tags": [
+          "ontmoeten",
+          "Hertme",
+          "dorpsactiviteit"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Hertme en omgeving.",
+        "costs": "Verschilt per activiteit.",
+        "access": "Activiteiten volgens het programma van lokale organisaties.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Zwartkotteweg 2a",
+        "postcode": "7626LK",
+        "town": "Hertme",
+        "lat": 52.31731819,
+        "lon": 6.77202716,
+        "locationType": "visiting",
+        "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Zwartkotteweg 2a",
+      "postcode": "7626LK",
+      "town": "Hertme",
+      "lat": 52.31731819,
+      "lon": 6.77202716,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma"
   },
   {
     "id": "org-tubbergen-verbindt-1baipa5",
@@ -31308,6 +32519,89 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/volwassenenfonds-voor-sport-en-cultuur/"
+  },
+  {
+    "id": "org-wensinkhof-16vgalr",
+    "organization": "Wensinkhof",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-borne-wensinkhof-koffie",
+        "title": "koffieochtend met thema",
+        "name": "Wensinkhof · koffieochtend met thema",
+        "description": "Maandelijkse koffieochtend met wisselende thema's en regelmatig gastsprekers.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "koffie",
+          "thema",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "koffie",
+          "wijk",
+          "Borne"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Buurtbewoners en andere belangstellenden.",
+        "costs": "Niet vermeld; controleer bij de organisator.",
+        "access": "Tweede donderdag van de maand volgens de lokale sociale kaart.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Sociaal Hus Borne",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Welemanstraat 21",
+        "postcode": "7622HB",
+        "town": "Borne",
+        "lat": 52.29286571,
+        "lon": 6.76484769,
+        "locationType": "visiting",
+        "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Welemanstraat 21",
+      "postcode": "7622HB",
+      "town": "Borne",
+      "lat": 52.29286571,
+      "lon": 6.76484769,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma"
   },
   {
     "id": "org-werkcentrum-twente-8g0och",
@@ -34741,11 +36035,11 @@
         "sourceTitle": "Sociaal Hus Borne",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Marktstraat 16a",
-        "postcode": "7622CR",
+        "address": "Marktstraat 1",
+        "postcode": "7622CP",
         "town": "Borne",
-        "lat": 52.30148711,
-        "lon": 6.75907499,
+        "lat": 52.30147418,
+        "lon": 6.75792253,
         "locationType": "visiting",
         "locationSource": "https://sociaalhus.nl/agenda/ontmoeten",
         "locationMunicipality": "Borne",
@@ -35552,6 +36846,94 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.wijkteamsenschede.nl/trainingen-en-groepen/piep-zei-de-muis/"
+  },
+  {
+    "id": "org-wijkvoorziening-t-doesgoor-5lc5kh",
+    "organization": "Wijkvoorziening 't Doesgoor",
+    "municipalities": [
+      "Hof van Twente"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.wijkvoorzieningdoesgoor.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-hof-doesgoor",
+        "title": "ontmoeting en activiteiten",
+        "name": "Wijkvoorziening 't Doesgoor · ontmoeting en activiteiten",
+        "description": "Wijkvoorziening in Goor met noaberschap voor jong en oud, samen eten, wandelen, bewegen, creatieve activiteiten en ontmoetingsmomenten.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "wijkvoorziening",
+          "samen eten",
+          "bewegen",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "wijkvoorziening",
+          "samen eten",
+          "bewegen",
+          "Goor"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "ontmoeten/samen",
+          "ontmoeten/bewegen",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Goor en omgeving van alle leeftijden.",
+        "costs": "Verschilt per activiteit; er zijn ook gratis activiteiten.",
+        "access": "Veel activiteiten zijn laagdrempelig; voor een deel is aanmelden nodig.",
+        "openingHours": "",
+        "phone": "0547 700232",
+        "email": "info@wijkvoorzieningdoesgoor.nl",
+        "source": "https://www.wijkvoorzieningdoesgoor.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkvoorziening 't Doesgoor",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Pluvierstraat 3",
+        "postcode": "7471HM",
+        "town": "Goor",
+        "lat": 52.24462454,
+        "lon": 6.57185262,
+        "locationType": "visiting",
+        "locationSource": "https://www.wijkvoorzieningdoesgoor.nl/",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Pluvierstraat 3",
+      "postcode": "7471HM",
+      "town": "Goor",
+      "lat": 52.24462454,
+      "lon": 6.57185262,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "visiting",
+      "locationSource": "https://www.wijkvoorzieningdoesgoor.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.wijkvoorzieningdoesgoor.nl/"
   },
   {
     "id": "org-wijkwijzer-enschede-jrixo6",

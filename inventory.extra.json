@@ -6222,7 +6222,7 @@
       "description": "Wekelijks laagdrempelig ontmoetingsmoment op zondag, georganiseerd met Wijkracht Ouderen Borne, ABOB en Stichting Aandacht.",
       "access": "Wekelijks op zondag van 11.00 tot 13.00 uur volgens de agenda.",
       "costs": "Controleer eventuele consumptiekosten bij de organisator.",
-      "address": "Marktstraat 23",
+      "address": "Marktstraat 1",
       "town": "Borne",
       "locationType": "visiting",
       "locationSource": "https://sociaalhus.nl/agenda/ontmoeten",
@@ -6232,7 +6232,10 @@
       "mapLocationType": "address",
       "guidePaths": [
         "ontmoeten/inloop"
-      ]
+      ],
+      "lat": 52.30147418,
+      "lon": 6.75792253,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -6317,7 +6320,7 @@
       "description": "Terugkerend laagdrempelig ontmoetingsmoment voor ouders en jonge kinderen.",
       "access": "Om de week op dinsdag van 10.00 tot 11.30 uur volgens de agenda.",
       "costs": "Controleer de actuele kosten op de agenda.",
-      "address": "Marktstraat 23",
+      "address": "Marktstraat 1",
       "town": "Borne",
       "locationType": "visiting",
       "locationSource": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
@@ -6327,7 +6330,10 @@
       "mapLocationType": "address",
       "guidePaths": [
         "onderwijs/opvoeden"
-      ]
+      ],
+      "lat": 52.30147418,
+      "lon": 6.75792253,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10653,8 +10659,12 @@
       "costs": "Een gezonde maaltijd wordt tegen een kleine bijdrage aangeboden.",
       "address": "Nieuwewemestraat 3",
       "postcode": "7591PC",
-      "town": "Noord-Deurningen",
-      "phone": "085 0479 400"
+      "town": "Denekamp",
+      "phone": "085 0479 400",
+      "lat": 52.3965319,
+      "lon": 7.02670826,
+      "locationSource": "https://swtd.nl/agenda/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -10700,7 +10710,11 @@
       "address": "Thijplein 1",
       "postcode": "7596KM",
       "town": "Rossum",
-      "phone": "085 0479 400"
+      "phone": "085 0479 400",
+      "lat": 52.35194283,
+      "lon": 6.92278395,
+      "locationSource": "https://swtd.nl/agenda/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -10728,7 +10742,7 @@
         "ontmoeten/samen"
       ],
       "locationType": "visiting",
-      "mapLocationType": "address",
+      "mapLocationType": "service-area",
       "mapPin": true,
       "id": "extra-20261002-dinkelland-open-eettafel-reutum",
       "name": "Sociaal, dat werkt! · Open Eettafel Reutum",
@@ -10738,7 +10752,7 @@
         "Dinkelland"
       ],
       "municipality": "Dinkelland",
-      "locationMunicipality": "Dinkelland",
+      "locationMunicipality": "Tubbergen",
       "description": "Maandelijks open eettafelmoment in Reutum om samen te eten en sociale contacten te onderhouden.",
       "audience": "Inwoners van Reutum en omgeving.",
       "access": "Laatste donderdag van de maand volgens de actuele agenda.",
@@ -10746,7 +10760,11 @@
       "address": "Kerkstraat 78",
       "postcode": "7667PZ",
       "town": "Reutum",
-      "phone": "085 0479 400"
+      "phone": "085 0479 400",
+      "lat": 52.39113819,
+      "lon": 6.84545193,
+      "locationSource": "https://swtd.nl/agenda/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -10794,11 +10812,15 @@
       "audience": "Inwoners van Goor en omgeving van alle leeftijden.",
       "access": "Veel activiteiten zijn laagdrempelig; voor een deel is aanmelden nodig.",
       "costs": "Verschilt per activiteit; er zijn ook gratis activiteiten.",
-      "address": "Pluvierstraat 1-3",
+      "address": "Pluvierstraat 3",
       "postcode": "7471HM",
       "town": "Goor",
       "phone": "0547 700232",
-      "email": "info@wijkvoorzieningdoesgoor.nl"
+      "email": "info@wijkvoorzieningdoesgoor.nl",
+      "lat": 52.24462454,
+      "lon": 6.57185262,
+      "locationSource": "https://www.wijkvoorzieningdoesgoor.nl/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -10844,7 +10866,12 @@
       "access": "Koffie-inloop op woensdagochtend; andere activiteiten volgens de agenda.",
       "costs": "Koffie-inloop is laagdrempelig; maaltijden en andere activiteiten kunnen een bijdrage vragen.",
       "address": "Langestraat 155",
-      "town": "Delden"
+      "town": "Delden",
+      "postcode": "7491AE",
+      "lat": 52.2589667,
+      "lon": 6.69508485,
+      "locationSource": "https://noaberhoes.com/activiteiten/koffie-inloop-in-het-noaberhoes",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -10888,10 +10915,14 @@
       "audience": "Iedereen die behoefte heeft aan ontmoeting, rust of een gesprek.",
       "access": "Donderdag 09.30-11.30 uur.",
       "costs": "Vrije inloop.",
-      "address": "Diepenheimseweg 2",
+      "address": "Diepenheimseweg 2a",
       "postcode": "7471LX",
       "town": "Goor",
-      "phone": "0547 272337"
+      "phone": "0547 272337",
+      "lat": 52.23172349,
+      "lon": 6.58041853,
+      "locationSource": "https://www.visithofvantwente.nl/attracties/architectuur---erfgoed/1689-hofkerk/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -10938,7 +10969,11 @@
       "postcode": "7475AE",
       "town": "Markelo",
       "phone": "0547 260053",
-      "email": "info@salut-welzijn.nl"
+      "email": "info@salut-welzijn.nl",
+      "lat": 52.23456554,
+      "lon": 6.49347506,
+      "locationSource": "https://salut-welzijn.nl/contact/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -10985,7 +11020,11 @@
       "costs": "Lage bijdrage; met maaltijd is de bijdrage hoger.",
       "address": "Bookholtlaan 25",
       "postcode": "7581BB",
-      "town": "Losser"
+      "town": "Losser",
+      "lat": 52.2674099,
+      "lon": 7.01367774,
+      "locationSource": "https://www.fundamentlosser.nl/agenda/de-culturele-ontmoeting-3-2026-09-10-2026-09-17-2026-09-24-2026-10-01-2026-10-08-2026-10-15-2026-10-22-2026-10-29-2026-11-05-2026-11-12-2026-11-19/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -11033,7 +11072,11 @@
       "costs": "Deelname tegen een beperkte bijdrage.",
       "address": "Plechelmusstraat 14",
       "postcode": "7587AM",
-      "town": "De Lutte"
+      "town": "de Lutte",
+      "lat": 52.31656044,
+      "lon": 6.98643713,
+      "locationSource": "https://dorpshoes.nl/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -11081,7 +11124,11 @@
       "postcode": "7443HC",
       "town": "Nijverdal",
       "phone": "0548 623202",
-      "email": "kulturhus@dekruidenwijk.nl"
+      "email": "kulturhus@dekruidenwijk.nl",
+      "lat": 52.37687224,
+      "lon": 6.4828382,
+      "locationSource": "https://dekruidenwijk.nl/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -11125,7 +11172,12 @@
       "access": "Activiteiten volgens de agenda van De Welle.",
       "costs": "Verschilt per activiteit; sommige activiteiten zijn gratis.",
       "address": "Molukkenstraat 4",
-      "town": "Nijverdal"
+      "town": "Nijverdal",
+      "postcode": "7442LV",
+      "lat": 52.36145875,
+      "lon": 6.46657741,
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/858",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -11170,9 +11222,13 @@
       "audience": "Inwoners die anderen willen ontmoeten en diensten of kennis met elkaar willen uitwisselen.",
       "access": "Iedereen is welkom bij de maandelijkse KLETS-avonden.",
       "costs": "Kennismaken is laagdrempelig; controleer eventuele lidmaatschapsvoorwaarden bij LETS.",
-      "address": "P.C. Boutensstraat 1",
+      "address": "P C Boutensstraat 1a",
       "postcode": "7442ZL",
-      "town": "Nijverdal"
+      "town": "Nijverdal",
+      "lat": 52.35200046,
+      "lon": 6.47534855,
+      "locationSource": "https://www.letshellendoorn.nl/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -11226,7 +11282,11 @@
       "postcode": "7642EB",
       "town": "Wierden",
       "phone": "0546 572784",
-      "email": "info@bibliotheekwierden.nl"
+      "email": "info@bibliotheekwierden.nl",
+      "lat": 52.35644776,
+      "lon": 6.59291828,
+      "locationSource": "https://bibliotheekwierden.op-shop.nl/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -11278,7 +11338,11 @@
       "postcode": "7468CE",
       "town": "Enter",
       "phone": "0547 381158",
-      "email": "info@bibliotheekwierden.nl"
+      "email": "info@bibliotheekwierden.nl",
+      "lat": 52.29597275,
+      "lon": 6.57787152,
+      "locationSource": "https://bibliotheekwierden.op-shop.nl/",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -11324,10 +11388,14 @@
       "audience": "Senioren in Enter, ook zelfstandig wonende ouderen.",
       "access": "Wekelijkse activiteiten; aanmelden via De Welle.",
       "costs": "Verschillende activiteiten zijn gratis.",
-      "address": "Het Reggedal 23",
+      "address": "Het Reggedal 23a-101",
       "postcode": "7468BX",
       "town": "Enter",
-      "phone": "0546 571693"
+      "phone": "0546 571693",
+      "lat": 52.29707303,
+      "lon": 6.57627255,
+      "locationSource": "https://www.socialekaartwierden.nl/is/product/157291/220582/bewegen-op-de-stoel-enter",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -11371,7 +11439,12 @@
       "access": "Woensdag 09.30-11.30 uur, ook tijdens vakanties.",
       "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
       "address": "Brugstraatje 4",
-      "town": "Borne"
+      "town": "Borne",
+      "postcode": "7622EL",
+      "lat": 52.3010331,
+      "lon": 6.75869441,
+      "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -11416,7 +11489,12 @@
       "access": "Eens per twee weken op woensdagmiddag volgens de lokale sociale kaart.",
       "costs": "Niet vermeld; controleer bij de organisator.",
       "address": "Potkampstraat 11",
-      "town": "Borne"
+      "town": "Borne",
+      "postcode": "7622EM",
+      "lat": 52.30064652,
+      "lon": 6.75947424,
+      "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -11460,7 +11538,12 @@
       "access": "Tweede donderdag van de maand volgens de lokale sociale kaart.",
       "costs": "Niet vermeld; controleer bij de organisator.",
       "address": "Welemanstraat 21",
-      "town": "Borne"
+      "town": "Borne",
+      "postcode": "7622HB",
+      "lat": 52.29286571,
+      "lon": 6.76484769,
+      "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -11501,8 +11584,13 @@
       "audience": "Inwoners van Hertme en omgeving.",
       "access": "Activiteiten volgens het programma van lokale organisaties.",
       "costs": "Verschilt per activiteit.",
-      "address": "Zwartkotteweg 2",
-      "town": "Hertme"
+      "address": "Zwartkotteweg 2a",
+      "town": "Hertme",
+      "postcode": "7626LK",
+      "lat": 52.31731819,
+      "lon": 6.77202716,
+      "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
