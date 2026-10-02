@@ -5758,7 +5758,7 @@
     }
   ],
   "addressEnrichmentVersion": 1,
-  "addressEnrichedAt": "2026-10-01",
+  "addressEnrichedAt": "2026-10-02",
   "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin.",
   "contentExpansionVersion": 6,
   "note": "Vierde verdiepingslaag: dagbesteding zonder indicatie, voorliggende jeugdlocaties, Repair Cafés, Nivon en buurtinloop."

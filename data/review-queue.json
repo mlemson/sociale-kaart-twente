@@ -259,5 +259,23 @@
     "sourceTitle": "Bibliotheek Twente",
     "reason": "Adres of kaartcoördinaten ontbreken",
     "checked": "2026-10-02"
+  },
+  {
+    "id": "c-20261002-twentsfonds",
+    "name": "Twents Fonds voor Vakmanschap · bijdrage voor scholing",
+    "municipality": "Enschede",
+    "source": "https://wijkwijzerenschede.nl/geld-voor-leren",
+    "sourceTitle": "Twents Fonds voor Vakmanschap",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-10-02"
+  },
+  {
+    "id": "c-20261002-werkcentrum",
+    "name": "Werkcentrum Twente · vrij inloopspreekuur leren en werken",
+    "municipality": "Enschede",
+    "source": "https://www.enschede.nl/hulp-bij-vinden-van-werk-of-opleiding",
+    "sourceTitle": "Werkcentrum Twente",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-10-02"
   }
 ]

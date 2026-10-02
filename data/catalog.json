@@ -1429,8 +1429,17 @@
     "organization": "Avedan",
     "municipalities": [
       "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
       "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
       "Rijssen-Holten",
+      "Tubbergen",
       "Twenterand",
       "Wierden"
     ],
@@ -1439,7 +1448,8 @@
       "advies",
       "ontmoeten",
       "taal",
-      "bewegen"
+      "bewegen",
+      "mentaal"
     ],
     "sources": [
       "https://www.avedan.nl/gemeentepagina/bram",
@@ -1463,11 +1473,17 @@
       "https://www.avedan.nl/activiteit/bikkelsindedoprijssenholten/",
       "https://www.avedan.nl/activiteit/actiefalmelo/",
       "https://www.avedan.nl/gemeentepagina/vve-thuis/",
-      "https://www.avedan.nl/activiteit/voor-bijna-al-uw-vragen-de-inloop-schelfhorst/"
+      "https://www.avedan.nl/activiteit/voor-bijna-al-uw-vragen-de-inloop-schelfhorst/",
+      "https://www.avedan.nl/activiteit/wijkkamers-avedan/",
+      "https://www.avedan.nl/gemeentepagina/activiteiten-almelo/",
+      "https://www.avedan.nl/?p=6390",
+      "https://www.avedan.nl/gemeentepagina/trainingen-twenterand/",
+      "https://www.avedan.nl/activiteit/gericht-op-de-toekomst-regio/",
+      "https://www.avedan.nl/activiteiten-trainingen/"
     ],
-    "offerCount": 22,
+    "offerCount": 36,
     "reviewNeeded": 0,
-    "sourceBacked": 22,
+    "sourceBacked": 36,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -1499,6 +1515,51 @@
         "costs": "Gratis.",
         "access": "Bekijk het actuele programma en schrijf waar nodig in.",
         "source": "https://www.avedan.nl/activiteit/actiefalmelo/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-avedan-assertief",
+        "title": "assertiviteitstraining Bewust je grenzen",
+        "name": "Avedan · assertiviteitstraining Bewust je grenzen",
+        "description": "Kosteloze groepstraining rond grenzen aangeven en assertiever handelen.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Almelo",
+          "Hellendoorn",
+          "Rijssen-Holten",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal"
+        ],
+        "subthemes": [
+          "assertiviteit",
+          "grenzen"
+        ],
+        "tags": [
+          "mentaal",
+          "assertiviteit",
+          "training"
+        ],
+        "audience": "Volwassenen in het werkgebied van Avedan.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Avedan; geen verwijzing nodig.",
+        "source": "https://www.avedan.nl/gemeentepagina/trainingen-twenterand/",
         "sourceKind": "first-party",
         "sourceTitle": "Avedan",
         "checked": "2026-10-02",
@@ -1601,6 +1662,51 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-avedan-billy",
+        "title": "Billy Boem",
+        "name": "Avedan · Billy Boem",
+        "description": "Preventieve groepstraining voor kinderen die thuis extra spanning meemaken.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Almelo",
+          "Hellendoorn",
+          "Rijssen-Holten",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [
+          "KOPP/KOV",
+          "training"
+        ],
+        "tags": [
+          "jeugd",
+          "training",
+          "weerbaarheid"
+        ],
+        "audience": "Kinderen; actuele leeftijd en locaties via Avedan.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Avedan; geen verwijzing nodig.",
+        "source": "https://www.avedan.nl/gemeentepagina/trainingen-twenterand/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-7145f1748801d4cd",
         "title": "BRAM",
         "name": "Avedan · BRAM",
@@ -1624,6 +1730,61 @@
         "sourceKind": "provider",
         "sourceTitle": "Avedan",
         "checked": "2026-09-15",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-avedan-toekomst",
+        "title": "Gericht op de toekomst",
+        "name": "Avedan · Gericht op de toekomst",
+        "description": "Regionale training voor vrouwen die geweld in een partnerrelatie hebben meegemaakt, gericht op inzicht, grenzen en zelfvertrouwen.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo",
+          "Borne",
+          "Dinkelland",
+          "Enschede",
+          "Haaksbergen",
+          "Hellendoorn",
+          "Hengelo",
+          "Hof van Twente",
+          "Losser",
+          "Oldenzaal",
+          "Rijssen-Holten",
+          "Tubbergen",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal"
+        ],
+        "subthemes": [
+          "huiselijk geweld",
+          "weerbaarheid"
+        ],
+        "tags": [
+          "mentaal",
+          "huiselijk geweld",
+          "weerbaarheid",
+          "training"
+        ],
+        "audience": "Vrouwen vanaf 22 jaar waarbij het geweld is gestopt.",
+        "costs": "Gratis.",
+        "access": "Intake en aanmelding via Avedan.",
+        "source": "https://www.avedan.nl/activiteit/gericht-op-de-toekomst-regio/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Stadionlaan 60",
         "postcode": "7606JZ",
@@ -1705,6 +1866,173 @@
         "sourceKind": "provider",
         "sourceTitle": "Avedan",
         "checked": "2026-09-15",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-avedan-jongeren-dok",
+        "title": "Jongereninloop ’t Dok",
+        "name": "Avedan · Jongereninloop ’t Dok",
+        "description": "Laagdrempelige jongereninloop.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "jongeren",
+          "inloop"
+        ],
+        "tags": [
+          "jeugd",
+          "jongeren",
+          "inloop"
+        ],
+        "audience": "Jongeren in Almelo.",
+        "costs": "Controleer actuele activiteit.",
+        "access": "Inloop volgens rooster.",
+        "source": "https://www.avedan.nl/gemeentepagina/activiteiten-almelo/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-avedan-kies",
+        "title": "KIES - Kinderen in Een Scheiding",
+        "name": "Avedan · KIES - Kinderen in Een Scheiding",
+        "description": "Groepstraining voor kinderen die te maken hebben met een scheiding.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo",
+          "Hellendoorn",
+          "Rijssen-Holten",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [
+          "scheiding",
+          "training"
+        ],
+        "tags": [
+          "jeugd",
+          "scheiding",
+          "training"
+        ],
+        "audience": "Kinderen; leeftijd en startlocatie verschillen per ronde.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Avedan; geen verwijzing nodig.",
+        "source": "https://www.avedan.nl/?p=6390",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-avedan-kinder-ossen",
+        "title": "Kinderclub Ossenkoppelerhoek",
+        "name": "Avedan · Kinderclub Ossenkoppelerhoek",
+        "description": "Terugkerende kinderclub met activiteiten in de Ossenkoppelerhoek.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [
+          "kinderclub"
+        ],
+        "tags": [
+          "jeugd",
+          "kinderen",
+          "club"
+        ],
+        "audience": "Kinderen in de wijk.",
+        "costs": "Controleer actuele activiteit.",
+        "access": "Laagdrempelig via Avedan.",
+        "source": "https://www.avedan.nl/gemeentepagina/activiteiten-almelo/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-avedan-kinder-windmolen",
+        "title": "Kinderclub Windmolenbroek",
+        "name": "Avedan · Kinderclub Windmolenbroek",
+        "description": "Wekelijkse kinderactiviteiten in Windmolenbroek.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [
+          "kinderclub"
+        ],
+        "tags": [
+          "jeugd",
+          "kinderen",
+          "club"
+        ],
+        "audience": "Kinderen in de wijk.",
+        "costs": "Controleer actuele activiteit.",
+        "access": "Via Avedan.",
+        "source": "https://www.avedan.nl/gemeentepagina/activiteiten-almelo/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Stadionlaan 60",
         "postcode": "7606JZ",
@@ -1955,6 +2283,126 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-avedan-meiden-sluitersveld",
+        "title": "Meidenclub Sluitersveld",
+        "name": "Avedan · Meidenclub Sluitersveld",
+        "description": "Wekelijkse meidenclub in Sluitersveld.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [
+          "meidenclub"
+        ],
+        "tags": [
+          "jeugd",
+          "meiden",
+          "club"
+        ],
+        "audience": "Meiden in de basisschoolleeftijd; actuele groep navragen.",
+        "costs": "Controleer actuele activiteit.",
+        "access": "Via Avedan.",
+        "source": "https://www.avedan.nl/gemeentepagina/activiteiten-almelo/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-avedan-meiden-wierdensehoek",
+        "title": "Meidenclub Wierdensehoek",
+        "name": "Avedan · Meidenclub Wierdensehoek",
+        "description": "Wekelijkse meidenclub in de Wierdensehoek.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [
+          "meidenclub"
+        ],
+        "tags": [
+          "jeugd",
+          "meiden",
+          "club"
+        ],
+        "audience": "Meiden in de basisschoolleeftijd; actuele groep navragen.",
+        "costs": "Controleer actuele activiteit.",
+        "access": "Via Avedan.",
+        "source": "https://www.avedan.nl/gemeentepagina/activiteiten-almelo/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-avedan-9plus",
+        "title": "Negen plus club Windmolenbroek",
+        "name": "Avedan · Negen plus club Windmolenbroek",
+        "description": "Club voor oudere basisschoolkinderen in Windmolenbroek.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [
+          "9+"
+        ],
+        "tags": [
+          "jeugd",
+          "kinderen",
+          "club"
+        ],
+        "audience": "Kinderen vanaf ongeveer 9 jaar.",
+        "costs": "Controleer actuele activiteit.",
+        "access": "Contact met jongerenwerk Avedan.",
+        "source": "https://www.avedan.nl/gemeentepagina/activiteiten-almelo/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-20261002-avedan-ontmoetingscafe",
         "title": "Ontmoetingscafé De Schelf",
         "name": "Avedan · Ontmoetingscafé De Schelf",
@@ -2020,6 +2468,51 @@
         "sourceKind": "provider",
         "sourceTitle": "Avedan",
         "checked": "2026-09-15",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-avedan-piep",
+        "title": "Piep zei de muis",
+        "name": "Avedan · Piep zei de muis",
+        "description": "Preventieve groepstraining voor jonge kinderen die thuis spanning of psychische problemen meemaken.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Almelo",
+          "Hellendoorn",
+          "Rijssen-Holten",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [
+          "KOPP/KOV",
+          "training"
+        ],
+        "tags": [
+          "jeugd",
+          "training",
+          "psychische problemen gezin"
+        ],
+        "audience": "Kinderen; actuele leeftijd en locaties via Avedan.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Avedan; geen verwijzing nodig.",
+        "source": "https://www.avedan.nl/gemeentepagina/trainingen-twenterand/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Stadionlaan 60",
         "postcode": "7606JZ",
@@ -2213,6 +2706,51 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-avedan-sova",
+        "title": "sociale vaardigheidstraining",
+        "name": "Avedan · sociale vaardigheidstraining",
+        "description": "Groepstraining waarin kinderen of jongeren sociale vaardigheden oefenen.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo",
+          "Hellendoorn",
+          "Rijssen-Holten",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [
+          "sociale vaardigheden",
+          "training"
+        ],
+        "tags": [
+          "jeugd",
+          "sociale vaardigheden",
+          "training"
+        ],
+        "audience": "Kinderen en jongeren; doelgroep verschilt per ronde.",
+        "costs": "Gratis.",
+        "access": "Aanmelden via Avedan.",
+        "source": "https://www.avedan.nl/activiteiten-trainingen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-20261002-avedan-taalpunt",
         "title": "Taalpunt Almelo",
         "name": "Avedan · Taalpunt Almelo",
@@ -2255,6 +2793,48 @@
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
         "mapPin": true
+      },
+      {
+        "id": "c-20261002-avedan-tiener-dok",
+        "title": "Tienerinloop ’t Dok",
+        "name": "Avedan · Tienerinloop ’t Dok",
+        "description": "Vrije inloop voor tieners bij ’t Dok.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "tieners",
+          "inloop"
+        ],
+        "tags": [
+          "jeugd",
+          "tieners",
+          "inloop"
+        ],
+        "audience": "Tieners in Almelo.",
+        "costs": "Controleer actuele activiteit.",
+        "access": "Inloop volgens rooster.",
+        "source": "https://www.avedan.nl/gemeentepagina/activiteiten-almelo/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
       },
       {
         "id": "candidate-f93c89d435c1a4d1",
@@ -2320,6 +2900,47 @@
         "costs": "Gratis; waar nodig is gratis opvang voor jongere kinderen.",
         "access": "Via de peuteropvang of school in de wijk.",
         "source": "https://www.avedan.nl/gemeentepagina/vve-thuis/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-avedan-wijkkamers",
+        "title": "Wijkkamers Almelo",
+        "name": "Avedan · Wijkkamers Almelo",
+        "description": "Wekelijkse wijkkamers met koffie, gesprek, spel, creatieve activiteiten en samen lunchen.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "wijkkamer",
+          "55+"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "wijk"
+        ],
+        "audience": "Vooral inwoners van 55 jaar en ouder.",
+        "costs": "Gratis.",
+        "access": "Vrijblijvend meedoen; contact met Avedan.",
+        "source": "https://www.avedan.nl/activiteit/wijkkamers-avedan/",
         "sourceKind": "first-party",
         "sourceTitle": "Avedan",
         "checked": "2026-10-02",
@@ -2600,6 +3221,84 @@
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326871/invis2/avedan-welzijn"
+  },
+  {
+    "id": "org-berflohoes-1wyniyw",
+    "organization": "Berflohoes",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "ontmoeten",
+      "bewegen"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-hengelo-berflohoes",
+        "title": "buurtactiviteiten",
+        "name": "Berflohoes · buurtactiviteiten",
+        "description": "Wekelijkse activiteiten zoals gymnastiek, bridge, koffiedrinken, koersbal en sjoelen.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten",
+          "bewegen"
+        ],
+        "subthemes": [
+          "gymnastiek",
+          "bridge",
+          "koffie",
+          "koersbal"
+        ],
+        "tags": [
+          "ontmoeten",
+          "bewegen",
+          "buurt"
+        ],
+        "audience": "Buurtbewoners.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Vrij toegankelijk of aanmelden afhankelijk van activiteit.",
+        "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "sourceKind": "first-party",
+        "sourceTitle": "Informatiewijzer Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Carl Muckstraat 21",
+        "postcode": "7558EX",
+        "town": "Hengelo",
+        "lat": 52.28451127,
+        "lon": 6.83064879,
+        "locationType": "source-address",
+        "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Carl Muckstraat 21",
+      "postcode": "7558EX",
+      "town": "Hengelo",
+      "lat": 52.28451127,
+      "lon": 6.83064879,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
   },
   {
     "id": "org-bewonersinitiatief-de-hagedoorn-7oa9bg",
@@ -5216,6 +5915,82 @@
     "primarySource": "https://www.stichtingdewelle.nl/buurtwerk"
   },
   {
+    "id": "org-de-windhoek-ubg8al",
+    "organization": "De Windhoek",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-hengelo-windhoek",
+        "title": "buurtactiviteiten",
+        "name": "De Windhoek · buurtactiviteiten",
+        "description": "Activiteiten voor buurtbewoners, zoals kaarten, koffie, gezelschapsspellen en een creatieve club.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "koffie",
+          "spel",
+          "creatief"
+        ],
+        "tags": [
+          "ontmoeten",
+          "buurt",
+          "spel",
+          "creatief"
+        ],
+        "audience": "Buurtbewoners.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Rechtstreeks contact met de locatie.",
+        "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "sourceKind": "first-party",
+        "sourceTitle": "Informatiewijzer Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Paul Krugerstraat 52",
+        "postcode": "7551GZ",
+        "town": "Hengelo",
+        "lat": 52.26763249,
+        "lon": 6.79912468,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Paul Krugerstraat 52",
+      "postcode": "7551GZ",
+      "town": "Hengelo",
+      "lat": 52.26763249,
+      "lon": 6.79912468,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+  },
+  {
     "id": "org-de-zonnebloem-afdeling-almelo-qbcwt8",
     "organization": "De Zonnebloem - afdeling Almelo",
     "municipalities": [
@@ -5559,6 +6334,81 @@
     "primarySource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf"
   },
   {
+    "id": "org-esthia-pk4yx3",
+    "organization": "ESTHIA",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-hengelo-esthia-open",
+        "title": "creatieve middag zonder dagbestedingsindicatie",
+        "name": "ESTHIA · creatieve middag zonder dagbestedingsindicatie",
+        "description": "Creatieve middag bij ESTHIA voor senioren; voor deze activiteit is geen dagbestedingsindicatie nodig.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "creatief",
+          "senioren"
+        ],
+        "tags": [
+          "ontmoeten",
+          "creatief",
+          "senioren",
+          "zonder indicatie"
+        ],
+        "audience": "Senioren.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Aanmelden is nodig.",
+        "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "sourceKind": "first-party",
+        "sourceTitle": "Informatiewijzer Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Bevrijderslaantje 6",
+        "postcode": "7551KT",
+        "town": "Hengelo",
+        "lat": 52.26708823,
+        "lon": 6.79012139,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Bevrijderslaantje 6",
+      "postcode": "7551KT",
+      "town": "Hengelo",
+      "lat": 52.26708823,
+      "lon": 6.79012139,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+  },
+  {
     "id": "org-evenmens-wierden-6t5uzi",
     "organization": "Evenmens Wierden",
     "municipalities": [
@@ -5635,17 +6485,61 @@
     ],
     "categories": [
       "jeugd",
+      "ontmoeten",
+      "bewegen",
       "advies"
     ],
     "sources": [
       "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis"
     ],
-    "offerCount": 6,
+    "offerCount": 12,
     "reviewNeeded": 0,
-    "sourceBacked": 6,
+    "sourceBacked": 12,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
+      {
+        "id": "c-20261002-familiehuis-bewegen",
+        "title": "Beweegplezier",
+        "name": "Familiehuis Enschede-West · Beweegplezier",
+        "description": "Laagdrempelige beweegactiviteit voor ouders en peuters.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "jeugd"
+        ],
+        "subthemes": [
+          "peuters",
+          "ouders"
+        ],
+        "tags": [
+          "bewegen",
+          "jeugd",
+          "peuters"
+        ],
+        "audience": "Ouders met peuters.",
+        "costs": "Gratis.",
+        "access": "Vrije inloop volgens rooster.",
+        "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "sourceKind": "first-party",
+        "sourceTitle": "Familiehuis Enschede-West",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Noordhollandstraat 4",
+        "postcode": "7543WB",
+        "town": "Enschede",
+        "lat": 52.20502893,
+        "lon": 6.88230934,
+        "locationType": "visiting",
+        "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "extra-20261002-familiehuis-familiehuis-enschede-west",
         "title": "Familiehuis Enschede-West",
@@ -5735,6 +6629,92 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-familiehuis-familierecht",
+        "title": "gratis inloop familierecht",
+        "name": "Familiehuis Enschede-West · gratis inloop familierecht",
+        "description": "Gratis inloopspreekuur met een familierechtadvocaat voor vragen over scheiden, alimentatie en gezag.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "jeugd"
+        ],
+        "subthemes": [
+          "scheiding",
+          "gezag",
+          "alimentatie"
+        ],
+        "tags": [
+          "advies",
+          "familierecht",
+          "scheiding",
+          "ouders"
+        ],
+        "audience": "Ouders en andere inwoners met familierechtvragen.",
+        "costs": "Gratis.",
+        "access": "Vrije inloop op het geplande spreekuur.",
+        "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "sourceKind": "first-party",
+        "sourceTitle": "Familiehuis Enschede-West",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Noordhollandstraat 4",
+        "postcode": "7543WB",
+        "town": "Enschede",
+        "lat": 52.20502893,
+        "lon": 6.88230934,
+        "locationType": "visiting",
+        "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-familiehuis-houdmevast",
+        "title": "Houd me vast training",
+        "name": "Familiehuis Enschede-West · Houd me vast training",
+        "description": "Training voor stellen met jonge kinderen, gericht op verbinding en communicatie.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [
+          "relatie",
+          "ouders"
+        ],
+        "tags": [
+          "jeugd",
+          "ouders",
+          "relatie",
+          "training"
+        ],
+        "audience": "Stellen met (jonge) kinderen.",
+        "costs": "Controleer actuele voorwaarden.",
+        "access": "Aanmelden via Wijkteams Enschede.",
+        "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "sourceKind": "first-party",
+        "sourceTitle": "Familiehuis Enschede-West",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Noordhollandstraat 4",
+        "postcode": "7543WB",
+        "town": "Enschede",
+        "lat": 52.20502893,
+        "lon": 6.88230934,
+        "locationType": "visiting",
+        "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "extra-20261002-familiehuis-houd-me-vast-training",
         "title": "Houd me vast training",
         "name": "Familiehuis Enschede-West · Houd me vast training",
@@ -5765,6 +6745,48 @@
         "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
         "sourceKind": "first-party",
         "sourceTitle": "Gemeente Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Noordhollandstraat 4",
+        "postcode": "7543WB",
+        "town": "Enschede",
+        "lat": 52.20502893,
+        "lon": 6.88230934,
+        "locationType": "visiting",
+        "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-familiehuis-cafe",
+        "title": "Mama & Papa Café",
+        "name": "Familiehuis Enschede-West · Mama & Papa Café",
+        "description": "Vrije ochtendinloop voor ouders met jonge kinderen voor ontmoeting, koffie en vragen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "ouders",
+          "jonge kinderen"
+        ],
+        "tags": [
+          "jeugd",
+          "ouders",
+          "ontmoeten"
+        ],
+        "audience": "Ouders met jonge kinderen in Enschede-West.",
+        "costs": "Gratis.",
+        "access": "Vrije inloop.",
+        "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "sourceKind": "first-party",
+        "sourceTitle": "Familiehuis Enschede-West",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Noordhollandstraat 4",
@@ -5823,6 +6845,49 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-familiehuis-groepen",
+        "title": "ontmoetingsgroepen ouders",
+        "name": "Familiehuis Enschede-West · ontmoetingsgroepen ouders",
+        "description": "Groepen waarin ouders ervaringen rond opvoeden delen; er zijn Nederlandstalige en Arabischtalige momenten.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "opvoeden",
+          "migratieachtergrond"
+        ],
+        "tags": [
+          "jeugd",
+          "opvoeden",
+          "ouders",
+          "ontmoeten"
+        ],
+        "audience": "Ouders met jonge kinderen.",
+        "costs": "Gratis.",
+        "access": "Vrije inloop volgens rooster.",
+        "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "sourceKind": "first-party",
+        "sourceTitle": "Familiehuis Enschede-West",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Noordhollandstraat 4",
+        "postcode": "7543WB",
+        "town": "Enschede",
+        "lat": 52.20502893,
+        "lon": 6.88230934,
+        "locationType": "visiting",
+        "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "extra-20261002-familiehuis-ontmoetingsgroepen-ouders",
         "title": "Ontmoetingsgroepen ouders",
         "name": "Familiehuis Enschede-West · Ontmoetingsgroepen ouders",
@@ -5853,6 +6918,48 @@
         "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
         "sourceKind": "first-party",
         "sourceTitle": "Gemeente Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Noordhollandstraat 4",
+        "postcode": "7543WB",
+        "town": "Enschede",
+        "lat": 52.20502893,
+        "lon": 6.88230934,
+        "locationType": "visiting",
+        "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-familiehuis-speelhoes",
+        "title": "Speelhoes",
+        "name": "Familiehuis Enschede-West · Speelhoes",
+        "description": "Samen spelen voor ouders en jonge kinderen, met passend spelmateriaal.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "spelen",
+          "peuters"
+        ],
+        "tags": [
+          "jeugd",
+          "spelen",
+          "peuters"
+        ],
+        "audience": "Ouders met kinderen van ongeveer 6 maanden tot 4 jaar.",
+        "costs": "Gratis.",
+        "access": "Vrije inloop volgens rooster.",
+        "source": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
+        "sourceKind": "first-party",
+        "sourceTitle": "Familiehuis Enschede-West",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Noordhollandstraat 4",
@@ -7802,11 +8909,12 @@
       "https://socialekaart.almelo.nl/is/organisatie/220497/invis2/humanitas-twente",
       "https://www.humanitas.nl/afdeling/twente/",
       "https://www.humanitas.nl/districten/district-oost/activiteiten/thuisadministratie/",
-      "https://www.humanitas.nl/districten/district-oost/activiteiten/opvoeden/"
+      "https://www.humanitas.nl/districten/district-oost/activiteiten/opvoeden/",
+      "https://www.humanitas.nl/districten/district-oost/activiteiten/eenzaamheid/"
     ],
-    "offerCount": 6,
+    "offerCount": 10,
     "reviewNeeded": 0,
-    "sourceBacked": 6,
+    "sourceBacked": 10,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -7865,6 +8973,60 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-humanitas-fin-nieuwkomers",
+        "title": "financiële zelfredzaamheid voor nieuwkomers",
+        "name": "Humanitas Twente · financiële zelfredzaamheid voor nieuwkomers",
+        "description": "Ondersteuning om als nieuwkomer zelfstandig grip te krijgen op administratie en geldzaken.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Almelo",
+          "Borne",
+          "Dinkelland",
+          "Enschede",
+          "Haaksbergen",
+          "Hellendoorn",
+          "Hengelo",
+          "Hof van Twente",
+          "Losser",
+          "Oldenzaal",
+          "Rijssen-Holten",
+          "Tubbergen",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "nieuwkomers",
+          "administratie"
+        ],
+        "tags": [
+          "geld",
+          "administratie",
+          "nieuwkomers"
+        ],
+        "audience": "Nieuwkomers in Twente.",
+        "costs": "Vrijwillige ondersteuning.",
+        "access": "Via Humanitas Twente.",
+        "source": "https://www.humanitas.nl/districten/district-oost/activiteiten/thuisadministratie/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Humanitas Twente",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Enschedesestraat 164",
+        "postcode": "7552CL",
+        "town": "Hengelo",
+        "lat": 52.26033093,
+        "lon": 6.8047408,
+        "locationType": "source-address",
+        "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-20261001-humanitas-getagrip",
         "title": "Get a Grip",
         "name": "Humanitas Twente · Get a Grip",
@@ -7908,6 +9070,57 @@
         "locationSource": "https://www.humanitas.nl/afdeling/twente/",
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "service-area",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-humanitas-homestart",
+        "title": "Home-Start",
+        "name": "Humanitas Twente · Home-Start",
+        "description": "Een vrijwilliger komt wekelijks bij een gezin thuis om te luisteren, mee te denken en praktische opvoedsteun te bieden.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Almelo",
+          "Borne",
+          "Enschede",
+          "Haaksbergen",
+          "Hengelo",
+          "Hof van Twente",
+          "Losser",
+          "Oldenzaal",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [
+          "opvoeden",
+          "vrijwillige thuishulp"
+        ],
+        "tags": [
+          "jeugd",
+          "opvoeden",
+          "gezin",
+          "vrijwilliger"
+        ],
+        "audience": "Gezinnen met kinderen van 0 tot en met 14 jaar in deelnemende gemeenten.",
+        "costs": "Vrijwillige ondersteuning.",
+        "access": "Rechtstreeks aanmelden bij Humanitas.",
+        "source": "https://www.humanitas.nl/districten/district-oost/activiteiten/opvoeden/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Humanitas Twente",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Enschedesestraat 164",
+        "postcode": "7552CL",
+        "town": "Hengelo",
+        "lat": 52.26033093,
+        "lon": 6.8047408,
+        "locationType": "source-address",
+        "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
         "mapPin": false
       },
       {
@@ -8041,6 +9254,115 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-humanitas-jongerenmaatjes",
+        "title": "Match Jongerenmaatjes",
+        "name": "Humanitas Twente · Match Jongerenmaatjes",
+        "description": "Een vrijwillig maatje voor jongeren die steun of meer sociaal contact kunnen gebruiken.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Almelo",
+          "Borne",
+          "Dinkelland",
+          "Enschede",
+          "Haaksbergen",
+          "Hellendoorn",
+          "Hengelo",
+          "Hof van Twente",
+          "Losser",
+          "Oldenzaal",
+          "Rijssen-Holten",
+          "Tubbergen",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "maatjes",
+          "jongeren"
+        ],
+        "tags": [
+          "jeugd",
+          "maatjes",
+          "ontmoeten"
+        ],
+        "audience": "Jongeren in Twente; actuele leeftijdsgrenzen navragen.",
+        "costs": "Vrijwillige ondersteuning.",
+        "access": "Via Humanitas Twente.",
+        "source": "https://www.humanitas.nl/districten/district-oost/activiteiten/eenzaamheid/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Humanitas Twente",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Enschedesestraat 164",
+        "postcode": "7552CL",
+        "town": "Hengelo",
+        "lat": 52.26033093,
+        "lon": 6.8047408,
+        "locationType": "source-address",
+        "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-humanitas-tandem",
+        "title": "Tandem maatjes voor volwassenen",
+        "name": "Humanitas Twente · Tandem maatjes voor volwassenen",
+        "description": "Maatjescontact om sociale contacten op te bouwen en eenzaamheid te verminderen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Almelo",
+          "Borne",
+          "Dinkelland",
+          "Enschede",
+          "Haaksbergen",
+          "Hellendoorn",
+          "Hengelo",
+          "Hof van Twente",
+          "Losser",
+          "Oldenzaal",
+          "Rijssen-Holten",
+          "Tubbergen",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "maatjes",
+          "eenzaamheid"
+        ],
+        "tags": [
+          "ontmoeten",
+          "maatjes",
+          "eenzaamheid"
+        ],
+        "audience": "Volwassenen in Twente die behoefte hebben aan meer sociaal contact.",
+        "costs": "Vrijwillige ondersteuning.",
+        "access": "Rechtstreeks aanmelden bij Humanitas.",
+        "source": "https://www.humanitas.nl/districten/district-oost/activiteiten/eenzaamheid/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Humanitas Twente",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Enschedesestraat 164",
+        "postcode": "7552CL",
+        "town": "Hengelo",
+        "lat": 52.26033093,
+        "lon": 6.8047408,
+        "locationType": "source-address",
+        "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-f019e0aacace920d",
         "title": "vrijwillige ondersteuning",
         "name": "Humanitas Twente · vrijwillige ondersteuning",
@@ -8106,7 +9428,8 @@
       "ontmoeten",
       "jeugd",
       "vrijwillig",
-      "taal"
+      "taal",
+      "bewegen"
     ],
     "sources": [
       "https://www.impuls-oldenzaal.nl/wat-we-doen/bewegen",
@@ -8119,11 +9442,18 @@
       "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
       "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
       "https://www.impuls-oldenzaal.nl/agenda/",
-      "https://www.impuls-oldenzaal.nl/wat-we-doen/meedoen-en-ontmoeten/"
+      "https://www.impuls-oldenzaal.nl/wat-we-doen/meedoen-en-ontmoeten/",
+      "https://www.impuls-oldenzaal.nl/diensten/scholing/",
+      "https://www.impuls-oldenzaal.nl/wat-we-doen/",
+      "https://www.impuls-oldenzaal.nl/diensten/ouder-en-kind/",
+      "https://www.impuls-oldenzaal.nl/diensten/maatje/",
+      "https://www.impuls-oldenzaal.nl/diensten/bewegen-2/",
+      "https://www.impuls-oldenzaal.nl/wat-we-doen/bewegen/",
+      "https://www.impuls-oldenzaal.nl/wat-we-doen/vrijwilligerswerk/"
     ],
-    "offerCount": 15,
+    "offerCount": 25,
     "reviewNeeded": 1,
-    "sourceBacked": 14,
+    "sourceBacked": 24,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -8326,6 +9656,89 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-impuls-gezondwandelen",
+        "title": "Gezond Natuur Wandelen",
+        "name": "Impuls · Gezond Natuur Wandelen",
+        "description": "Wekelijkse wandeling in een groep langs een groene route.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "wandelen"
+        ],
+        "tags": [
+          "bewegen",
+          "wandelen",
+          "ontmoeten"
+        ],
+        "audience": "Volwassenen en senioren.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Laagdrempelig meedoen volgens agenda.",
+        "source": "https://www.impuls-oldenzaal.nl/diensten/bewegen-2/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "contact",
+        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-impuls-vrijwilligertraining",
+        "title": "gratis scholing voor vrijwilligers",
+        "name": "Impuls · gratis scholing voor vrijwilligers",
+        "description": "Cursussen en workshops voor vrijwilligers, bijvoorbeeld digitaal, fotografie, Veilig Online, positieve psychologie en communicatie.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "vrijwillig",
+        "themes": [
+          "vrijwillig",
+          "taal"
+        ],
+        "subthemes": [
+          "training",
+          "workshop"
+        ],
+        "tags": [
+          "vrijwillig",
+          "training",
+          "cursus"
+        ],
+        "audience": "Vrijwilligers en betrokkenen bij vrijwilligersorganisaties in Oldenzaal.",
+        "costs": "Gratis of soms een kleine bijdrage.",
+        "access": "Aanmelden via de Vrijwilligerscentrale.",
+        "source": "https://www.impuls-oldenzaal.nl/diensten/scholing/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "contact",
+        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "extra-20261002-impuls-huiskamer-de-thij-koffieplus",
         "title": "Huiskamer De Thij / KoffiePlus",
         "name": "Impuls · Huiskamer De Thij / KoffiePlus",
@@ -8364,6 +9777,48 @@
         "locationMunicipality": "Oldenzaal",
         "mapLocationType": "address",
         "mapPin": true
+      },
+      {
+        "id": "c-20261002-impuls-huisraad",
+        "title": "Huisraadbank en fietswerkplaats",
+        "name": "Impuls · Huisraadbank en fietswerkplaats",
+        "description": "Laagdrempelige voorziening rond hergebruik van huisraad en fietsen voor inwoners die ondersteuning kunnen gebruiken.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "huisraad",
+          "fiets"
+        ],
+        "tags": [
+          "geld",
+          "huisraad",
+          "fiets",
+          "bestaanszekerheid"
+        ],
+        "audience": "Inwoners van Oldenzaal; voorwaarden navragen.",
+        "costs": "Controleer actuele voorwaarden.",
+        "access": "Via Impuls.",
+        "source": "https://www.impuls-oldenzaal.nl/wat-we-doen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "contact",
+        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
       },
       {
         "id": "candidate-20261002-impuls-koffie-inloop-stakenboer",
@@ -8448,6 +9903,47 @@
         "mapPin": true
       },
       {
+        "id": "c-20261002-impuls-maatje",
+        "title": "maatje en sociaal netwerk",
+        "name": "Impuls · maatje en sociaal netwerk",
+        "description": "Ondersteuning bij het uitbreiden van sociale contacten; waar passend kan een vrijwillig maatje worden gekoppeld.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "maatje",
+          "eenzaamheid"
+        ],
+        "tags": [
+          "ontmoeten",
+          "maatje",
+          "eenzaamheid"
+        ],
+        "audience": "Inwoners die meer contact willen met anderen.",
+        "costs": "Vrijwillige ondersteuning.",
+        "access": "Rechtstreeks contact met Impuls.",
+        "source": "https://www.impuls-oldenzaal.nl/diensten/maatje/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "contact",
+        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-a2bcfbb3880fd10b",
         "title": "Meedoen en ontmoeten",
         "name": "Impuls · Meedoen en ontmoeten",
@@ -8525,6 +10021,49 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-impuls-ouderkind",
+        "title": "Ouder & Kindgroep",
+        "name": "Impuls · Ouder & Kindgroep",
+        "description": "Vrijblijvende groep waar ouders met hun kind ervaringen uitwisselen en informatie krijgen over opvoeden en ontwikkeling.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "ouders",
+          "opvoeden"
+        ],
+        "tags": [
+          "jeugd",
+          "ouders",
+          "opvoeden",
+          "ontmoeten"
+        ],
+        "audience": "Ouders en jonge kinderen.",
+        "costs": "Laagdrempelig.",
+        "access": "Vrijblijvend deelnemen.",
+        "source": "https://www.impuls-oldenzaal.nl/diensten/ouder-en-kind/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "contact",
+        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-39307b9e2fb5648e",
         "title": "Ouder worden",
         "name": "Impuls · Ouder worden",
@@ -8556,6 +10095,129 @@
         "lon": 6.93145973,
         "locationType": "contact",
         "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-impuls-repair",
+        "title": "Repaircafé Oldenzaal",
+        "name": "Impuls · Repaircafé Oldenzaal",
+        "description": "Inloop waar vrijwilligers helpen bij het repareren van huishoudelijke apparaten en andere spullen.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "repaircafé",
+          "duurzaamheid"
+        ],
+        "tags": [
+          "ontmoeten",
+          "repaircafé",
+          "praktische hulp"
+        ],
+        "audience": "Inwoners van Oldenzaal.",
+        "costs": "Laagdrempelig; controleer eventuele materiaalkosten.",
+        "access": "Vrije inloop volgens agenda.",
+        "source": "https://www.impuls-oldenzaal.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Nijverheidsstraat 97",
+        "postcode": "7575BH",
+        "town": "Oldenzaal",
+        "lat": 52.29378759,
+        "lon": 6.92796947,
+        "locationType": "visiting",
+        "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-impuls-stoelyoga",
+        "title": "Stoelyoga 55+",
+        "name": "Impuls · Stoelyoga 55+",
+        "description": "Yoga-oefeningen zittend of met steun van een stoel, voor mensen die minder fit zijn.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen"
+        ],
+        "subthemes": [
+          "yoga",
+          "55+"
+        ],
+        "tags": [
+          "bewegen",
+          "yoga",
+          "senioren"
+        ],
+        "audience": "55-plussers.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.impuls-oldenzaal.nl/wat-we-doen/bewegen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "visiting",
+        "locationSource": "https://www.impuls-oldenzaal.nl/wat-we-doen/bewegen/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-impuls-stef",
+        "title": "ST€F financieel inloopspreekuur",
+        "name": "Impuls · ST€F financieel inloopspreekuur",
+        "description": "Inloop voor vragen of zorgen over geld en financiën.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "financiën",
+          "inloop"
+        ],
+        "tags": [
+          "geld",
+          "financiën",
+          "inloop"
+        ],
+        "audience": "Inwoners van Oldenzaal.",
+        "costs": "Gratis hulp.",
+        "access": "Vrije inloop volgens agenda.",
+        "source": "https://www.impuls-oldenzaal.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "visiting",
+        "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
         "locationMunicipality": "Oldenzaal",
         "mapLocationType": "address",
         "mapPin": false
@@ -8642,6 +10304,47 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-impuls-walkingfootball",
+        "title": "Walking Football",
+        "name": "Impuls · Walking Football",
+        "description": "Rustiger voetbal in groepsverband met aandacht voor bewegen en gezelligheid.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "walking football"
+        ],
+        "tags": [
+          "bewegen",
+          "voetbal",
+          "senioren"
+        ],
+        "audience": "Oudere volwassenen; ervaring met voetbal is niet nodig.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.impuls-oldenzaal.nl/diensten/bewegen-2/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "contact",
+        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "extra-20261002-impuls-zaterdaginloop-aveleijn-impuls",
         "title": "Zaterdaginloop Aveleijn-Impuls",
         "name": "Impuls · Zaterdaginloop Aveleijn-Impuls",
@@ -8705,6 +10408,48 @@
         "sourceKind": "provider",
         "sourceTitle": "Impuls",
         "checked": "2026-09-15",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "contact",
+        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-impuls-nijekui",
+        "title": "’t Nije Kuierdroad digitale hulp",
+        "name": "Impuls · ’t Nije Kuierdroad digitale hulp",
+        "description": "Vrijwilligers helpen inwoners leren omgaan met tablet, smartphone, beeldbellen en internet; er is een leen-tablet beschikbaar.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal"
+        ],
+        "subthemes": [
+          "digitaal",
+          "tablet",
+          "smartphone"
+        ],
+        "tags": [
+          "digitaal",
+          "computer",
+          "senioren"
+        ],
+        "audience": "Inwoners die digitale vaardigheden willen leren.",
+        "costs": "Laagdrempelige vrijwillige hulp.",
+        "access": "Via Impuls.",
+        "source": "https://www.impuls-oldenzaal.nl/wat-we-doen/vrijwilligerswerk/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Wilhelminastraat 5",
         "postcode": "7571CE",
@@ -8803,6 +10548,122 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.enschede.nl/hulp-bij-online-zaken-regelen"
+  },
+  {
+    "id": "org-informatiewijzer-hengelo-1gn59de",
+    "organization": "Informatiewijzer Hengelo",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 0,
+    "sourceBacked": 2,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-hengelo-bloemenbuurt",
+        "title": "Ontmoetingsgroep Bloemenbuurt",
+        "name": "Ontmoetingsgroep Bloemenbuurt",
+        "description": "Wekelijkse ontmoetingsgroep in woonzorgcentrum Het Woolde.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "wijk"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "wijk"
+        ],
+        "audience": "Ouderen en buurtbewoners.",
+        "costs": "Laagdrempelig.",
+        "access": "Neem contact op met Wijkracht voor actuele informatie.",
+        "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "sourceKind": "first-party",
+        "sourceTitle": "Informatiewijzer Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Mozartlaan 135-17",
+        "postcode": "7557DN",
+        "town": "Hengelo",
+        "lat": 52.26977379,
+        "lon": 6.81624658,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-hengelo-drienerstede",
+        "title": "Ontmoetingsruimte Drienerstede",
+        "name": "Ontmoetingsruimte Drienerstede",
+        "description": "Ontmoetingsruimte met onder meer muziek, spelletjes, voorlichting en een vaste ontmoetingsgroep.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "muziek",
+          "spel",
+          "voorlichting"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "spel"
+        ],
+        "audience": "Buurtbewoners en senioren.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens lokaal programma.",
+        "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "sourceKind": "first-party",
+        "sourceTitle": "Informatiewijzer Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Mozartlaan 135-17",
+        "postcode": "7557DN",
+        "town": "Hengelo",
+        "lat": 52.26977379,
+        "lon": 6.81624658,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Mozartlaan 135-17",
+      "postcode": "7557DN",
+      "town": "Hengelo",
+      "lat": 52.26977379,
+      "lon": 6.81624658,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
   },
   {
     "id": "org-inlooppunt-de-open-deur-15mg6al",
@@ -10563,6 +12424,81 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/"
+  },
+  {
+    "id": "org-livio-het-saalmerink-hinmvy",
+    "organization": "Livio Het Saalmerink",
+    "municipalities": [
+      "Haaksbergen"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.livio.nl/zorg/dagbesteding/dagactiviteiten/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-livio-saalmerink-open",
+        "title": "dagactiviteiten zonder indicatie",
+        "name": "Livio Het Saalmerink · dagactiviteiten zonder indicatie",
+        "description": "Dagactiviteiten in Het Saalmerink; in Haaksbergen is aanmelden zonder indicatie mogelijk via Livio of de Noaberpoort.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "daginvulling",
+          "ouderen"
+        ],
+        "tags": [
+          "ontmoeten",
+          "daginvulling",
+          "ouderen",
+          "zonder indicatie"
+        ],
+        "audience": "Inwoners van Haaksbergen die behoefte hebben aan daginvulling en ontmoeting.",
+        "costs": "Informeer naar actuele kosten.",
+        "access": "Zonder indicatie aanmelden via cliëntadviseur of Noaberpoort.",
+        "source": "https://www.livio.nl/zorg/dagbesteding/dagactiviteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Livio",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Klaashuisstraat 9h-a001",
+        "postcode": "7481EN",
+        "town": "Haaksbergen",
+        "lat": 52.15357565,
+        "lon": 6.7485007,
+        "locationType": "visiting",
+        "locationSource": "https://www.livio.nl/zorg/dagbesteding/dagactiviteiten/",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Klaashuisstraat 9h-a001",
+      "postcode": "7481EN",
+      "town": "Haaksbergen",
+      "lat": 52.15357565,
+      "lon": 6.7485007,
+      "locationMunicipality": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.livio.nl/zorg/dagbesteding/dagactiviteiten/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.livio.nl/zorg/dagbesteding/dagactiviteiten/"
   },
   {
     "id": "org-loes-r3cfqg",
@@ -13209,19 +15145,67 @@
       "Enschede"
     ],
     "categories": [
-      "ontmoeten"
+      "ontmoeten",
+      "taal",
+      "vrijwillig",
+      "advies"
     ],
     "sources": [
       "https://www.thechessclub.nl/hulp-nodig/power",
       "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
-      "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/"
+      "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
+      "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+      "https://www.m-pact.nl/o/Power-Zuid"
     ],
-    "offerCount": 4,
+    "offerCount": 10,
     "reviewNeeded": 0,
-    "sourceBacked": 4,
+    "sourceBacked": 10,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
+      {
+        "id": "c-20261002-power-activering",
+        "title": "activering en werkervaring",
+        "name": "Power Enschede · activering en werkervaring",
+        "description": "Wijkbewoners kunnen talenten inzetten, activiteiten organiseren en werkervaring opdoen als stap naar meer participatie, opleiding of werk.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "vrijwillig",
+        "themes": [
+          "vrijwillig",
+          "advies"
+        ],
+        "subthemes": [
+          "talentontwikkeling",
+          "werkervaring"
+        ],
+        "tags": [
+          "vrijwillig",
+          "participatie",
+          "werkervaring",
+          "leren"
+        ],
+        "audience": "Inwoners die actief willen worden en ervaring willen opdoen.",
+        "costs": "Geen reguliere zorgindicatie nodig.",
+        "access": "Rechtstreeks contact met POWER.",
+        "source": "https://www.m-pact.nl/o/Power-Zuid",
+        "sourceKind": "first-party",
+        "sourceTitle": "Power Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Zaanstraat 22",
+        "postcode": "7523HC",
+        "town": "Enschede",
+        "lat": 52.23976464,
+        "lon": 6.88626963,
+        "locationType": "visiting",
+        "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "candidate-20261002-power-centrum-oost",
         "title": "Centrum-Oost",
@@ -13266,6 +15250,170 @@
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": true
+      },
+      {
+        "id": "c-20261002-power-computer",
+        "title": "computer en digitaal leren",
+        "name": "Power Enschede · computer en digitaal leren",
+        "description": "Praktisch leren omgaan met computer en digitale zaken bij POWER.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal"
+        ],
+        "subthemes": [
+          "digitaal",
+          "computer"
+        ],
+        "tags": [
+          "digitaal",
+          "computer",
+          "leren"
+        ],
+        "audience": "Inwoners van Enschede.",
+        "costs": "Laagdrempelig; controleer de actuele activiteit.",
+        "access": "Via een POWER-locatie.",
+        "source": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+        "sourceKind": "first-party",
+        "sourceTitle": "Power Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Zaanstraat 22",
+        "postcode": "7523HC",
+        "town": "Enschede",
+        "lat": 52.23976464,
+        "lon": 6.88626963,
+        "locationType": "visiting",
+        "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-power-creatief",
+        "title": "creatieve activiteiten",
+        "name": "Power Enschede · creatieve activiteiten",
+        "description": "Onder meer breien, haken en andere creatieve activiteiten, afhankelijk van de POWER-locatie.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "creatief",
+          "handwerken"
+        ],
+        "tags": [
+          "ontmoeten",
+          "creatief",
+          "handwerken"
+        ],
+        "audience": "Inwoners van Enschede.",
+        "costs": "Veel activiteiten zijn gratis of tegen een kleine bijdrage.",
+        "access": "Via een POWER-locatie.",
+        "source": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+        "sourceKind": "first-party",
+        "sourceTitle": "Power Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Zaanstraat 22",
+        "postcode": "7523HC",
+        "town": "Enschede",
+        "lat": 52.23976464,
+        "lon": 6.88626963,
+        "locationType": "visiting",
+        "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-power-koffie",
+        "title": "koffie en ontmoeting",
+        "name": "Power Enschede · koffie en ontmoeting",
+        "description": "Vrije inloop en ontmoeting met andere wijkbewoners bij de POWER-centra.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "buurt"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "buurt"
+        ],
+        "audience": "Inwoners van Enschede.",
+        "costs": "Gratis of kleine bijdrage voor consumpties.",
+        "access": "Vrije inloop; tijden verschillen per locatie.",
+        "source": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+        "sourceKind": "first-party",
+        "sourceTitle": "Power Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Zaanstraat 22",
+        "postcode": "7523HC",
+        "town": "Enschede",
+        "lat": 52.23976464,
+        "lon": 6.88626963,
+        "locationType": "visiting",
+        "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-power-koken",
+        "title": "koken en samen eten",
+        "name": "Power Enschede · koken en samen eten",
+        "description": "Samen koken, leren en eten in of vanuit de POWER-centra.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "koken",
+          "maaltijd"
+        ],
+        "tags": [
+          "ontmoeten",
+          "koken",
+          "eten"
+        ],
+        "audience": "Inwoners van Enschede.",
+        "costs": "Vaak gratis of een kleine bijdrage.",
+        "access": "Via een POWER-locatie.",
+        "source": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+        "sourceKind": "first-party",
+        "sourceTitle": "Power Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Zaanstraat 22",
+        "postcode": "7523HC",
+        "town": "Enschede",
+        "lat": 52.23976464,
+        "lon": 6.88626963,
+        "locationType": "visiting",
+        "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
       },
       {
         "id": "candidate-20261002-power-noord",
@@ -13356,6 +15504,47 @@
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": true
+      },
+      {
+        "id": "c-20261002-power-taal",
+        "title": "taal leren en oefenen",
+        "name": "Power Enschede · taal leren en oefenen",
+        "description": "Laagdrempelige taalactiviteiten bij POWER-centra, samen met wijkbewoners en vrijwilligers.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal"
+        ],
+        "subthemes": [
+          "Nederlands oefenen",
+          "leren"
+        ],
+        "tags": [
+          "taal",
+          "Nederlands",
+          "cursus"
+        ],
+        "audience": "Inwoners van Enschede.",
+        "costs": "Veel activiteiten zijn gratis of zeer laagdrempelig.",
+        "access": "Neem rechtstreeks contact op met een POWER-locatie of loop binnen.",
+        "source": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+        "sourceKind": "first-party",
+        "sourceTitle": "Power Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Zaanstraat 22",
+        "postcode": "7523HC",
+        "town": "Enschede",
+        "lat": 52.23976464,
+        "lon": 6.88626963,
+        "locationType": "visiting",
+        "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
       },
       {
         "id": "candidate-20261002-power-zuid",
@@ -13856,13 +16045,15 @@
       "https://salut-welzijn.nl/onderwerpen/vrijwilligerszaken/maatjesdienst/",
       "https://salut-welzijn.nl/sociaal-juridisch-spreekuur/",
       "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
+      "https://salut-welzijn.nl/onderwerpen/ouder-worden/trainingen-cursussen/",
+      "https://salut-welzijn.nl/onderwerpen/lichamelijk-en-mentaal-gezond/sociaal-verwijzen/",
       "https://salut-welzijn.nl/onderwerpen/ouder-worden/anwb-automaatje/",
       "https://salut-welzijn.nl/onderwerpen/vrijwilligerszaken/steungezinnen/",
       "https://salut-welzijn.nl/trainingen-cursussen/"
     ],
-    "offerCount": 24,
+    "offerCount": 28,
     "reviewNeeded": 1,
-    "sourceBacked": 23,
+    "sourceBacked": 27,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -14182,6 +16373,48 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-salut-dementievriendelijk",
+        "title": "gratis training dementievriendelijk",
+        "name": "Salut · gratis training dementievriendelijk",
+        "description": "Training op locatie over het herkennen van dementie en praktisch omgaan met mensen met dementie.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "mantelzorg"
+        ],
+        "subthemes": [
+          "dementie",
+          "vrijwilligers"
+        ],
+        "tags": [
+          "dementie",
+          "training",
+          "vrijwilligers"
+        ],
+        "audience": "Inwoners, vrijwilligers, verenigingen en scholen.",
+        "costs": "Gratis voor inwoners, vrijwilligers, verenigingen en scholen.",
+        "access": "Aanmelden via Salut.",
+        "source": "https://salut-welzijn.nl/onderwerpen/ouder-worden/trainingen-cursussen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Salut",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Grotestraat 86",
+        "postcode": "7471BR",
+        "town": "Goor",
+        "lat": 52.23293368,
+        "lon": 6.58569353,
+        "locationType": "source-address",
+        "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "extra-20261002-salut-ido-en-oefenplein-bibliotheek-goor",
         "title": "IDO en Oefenplein Bibliotheek Goor",
         "name": "Salut · IDO en Oefenplein Bibliotheek Goor",
@@ -14461,6 +16694,89 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-salut-naastencafe",
+        "title": "Naastencafé dementie",
+        "name": "Salut · Naastencafé dementie",
+        "description": "Informele ontmoetingsplek voor naasten van iemand met dementie om ervaringen te delen en steun te vinden.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "mantelzorg",
+        "themes": [
+          "mantelzorg",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "dementie",
+          "lotgenoten"
+        ],
+        "tags": [
+          "mantelzorg",
+          "dementie",
+          "ontmoeten"
+        ],
+        "audience": "Partners, familie, vrienden en andere naasten van mensen met dementie.",
+        "costs": "Gratis.",
+        "access": "Vrije inloop; aanmelden niet nodig.",
+        "source": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Salut",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Grotestraat 86",
+        "postcode": "7471BR",
+        "town": "Goor",
+        "lat": 52.23293368,
+        "lon": 6.58569353,
+        "locationType": "source-address",
+        "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-salut-dementietraining",
+        "title": "Omgaan met dementie",
+        "name": "Salut · Omgaan met dementie",
+        "description": "Cursus met uitleg, praktische handvatten en ruimte om ervaringen te delen over omgaan met dementie.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "mantelzorg",
+        "themes": [
+          "mantelzorg"
+        ],
+        "subthemes": [
+          "dementie",
+          "training"
+        ],
+        "tags": [
+          "mantelzorg",
+          "dementie",
+          "training"
+        ],
+        "audience": "Mantelzorgers, partners, kinderen en anderen die zorgen voor iemand met dementie.",
+        "costs": "Controleer actuele ronde.",
+        "access": "Aanmelden via Salut.",
+        "source": "https://salut-welzijn.nl/onderwerpen/ouder-worden/trainingen-cursussen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Salut",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Grotestraat 86",
+        "postcode": "7471BR",
+        "town": "Goor",
+        "lat": 52.23293368,
+        "lon": 6.58569353,
+        "locationType": "source-address",
+        "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "extra-20261002-salut-omgaan-met-dementie",
         "title": "Omgaan met dementie",
         "name": "Salut · Omgaan met dementie",
@@ -14601,6 +16917,50 @@
         "costs": "Gratis/kosteloos volgens de bron.",
         "access": "Rechtstreeks contact met Salut; bij sommige groepen is aanmelden nodig.",
         "source": "https://salut-welzijn.nl/sociaal-juridisch-spreekuur/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Salut",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Grotestraat 86",
+        "postcode": "7471BR",
+        "town": "Goor",
+        "lat": 52.23293368,
+        "lon": 6.58569353,
+        "locationType": "source-address",
+        "locationSource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-salut-sociaalverwijzen",
+        "title": "Sociaal Verwijzen / Welzijn op Recept",
+        "name": "Salut · Sociaal Verwijzen / Welzijn op Recept",
+        "description": "Welzijnscoach helpt bij stress, eenzaamheid, vermoeidheid of weinig plezier door passende sociale of beweegactiviteiten te vinden.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal",
+          "advies"
+        ],
+        "subthemes": [
+          "welzijn op recept",
+          "eenzaamheid",
+          "stress"
+        ],
+        "tags": [
+          "mentaal",
+          "welzijn",
+          "eenzaamheid",
+          "stress"
+        ],
+        "audience": "Inwoners die extra steun kunnen gebruiken.",
+        "costs": "Welzijnsbegeleiding; controleer actuele voorwaarden.",
+        "access": "Via huisarts of praktijkondersteuner.",
+        "source": "https://salut-welzijn.nl/onderwerpen/lichamelijk-en-mentaal-gezond/sociaal-verwijzen/",
         "sourceKind": "first-party",
         "sourceTitle": "Salut",
         "checked": "2026-10-02",
@@ -16794,18 +19154,102 @@
       "Enschede"
     ],
     "categories": [
-      "bewegen"
+      "bewegen",
+      "advies"
     ],
     "sources": [
       "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/",
       "https://www.sportaal.nl/ik-wil-sporten/voor-volwassenen/"
     ],
-    "offerCount": 2,
+    "offerCount": 4,
     "reviewNeeded": 0,
-    "sourceBacked": 2,
+    "sourceBacked": 4,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
+      {
+        "id": "c-20261002-sportaal-beweegmakelaar",
+        "title": "Beweegmakelaar",
+        "name": "Sportaal · Beweegmakelaar",
+        "description": "Persoonlijke hulp om passend sport- of beweegaanbod te vinden.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "advies"
+        ],
+        "subthemes": [
+          "beweegadvies"
+        ],
+        "tags": [
+          "bewegen",
+          "advies",
+          "sport"
+        ],
+        "audience": "Volwassenen en senioren in Enschede.",
+        "costs": "Advies is laagdrempelig; controleer kosten van vervolgactiviteiten.",
+        "access": "Rechtstreeks contact met Sportaal.",
+        "source": "https://www.sportaal.nl/ik-wil-sporten/voor-volwassenen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sportaal",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Hengelosestraat 66",
+        "postcode": "7514AJ",
+        "town": "Enschede",
+        "lat": 52.22431331,
+        "lon": 6.88710197,
+        "locationType": "source-address",
+        "locationSource": "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-sportaal-valpreventie",
+        "title": "gratis valpreventiecursus",
+        "name": "Sportaal · gratis valpreventiecursus",
+        "description": "Tienweekse cursus met oefeningen voor balans, spierkracht en vertrouwen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen"
+        ],
+        "subthemes": [
+          "valpreventie",
+          "65+"
+        ],
+        "tags": [
+          "bewegen",
+          "valpreventie",
+          "senioren",
+          "training"
+        ],
+        "audience": "Zelfstandig wonende inwoners van Enschede van 65 jaar en ouder.",
+        "costs": "Gratis in 2026.",
+        "access": "Aanmelden voor een intake bij de Beweegmakelaar.",
+        "source": "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sportaal",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Hengelosestraat 66",
+        "postcode": "7514AJ",
+        "town": "Enschede",
+        "lat": 52.22431331,
+        "lon": 6.88710197,
+        "locationType": "source-address",
+        "locationSource": "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "candidate-20261002-sportaal-leefstijlportaal",
         "title": "Leefstijlportaal",
@@ -17529,6 +19973,81 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.leergeldtubbergen.nl/"
+  },
+  {
+    "id": "org-stichting-present-almelo-ljojk1",
+    "organization": "Stichting Present Almelo",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "vrijwillig",
+      "advies"
+    ],
+    "sources": [
+      "https://stichtingpresent.nl/almelo/voor-hulpverleners/aanmelden/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-present-almelo",
+        "title": "praktische projecten",
+        "name": "Stichting Present Almelo · praktische projecten",
+        "description": "Een groep vrijwilligers voert een eenmalig praktisch project uit bij iemand die onvoldoende netwerk, geld of gezondheid heeft om het zelf te doen.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "vrijwillig",
+        "themes": [
+          "vrijwillig",
+          "advies"
+        ],
+        "subthemes": [
+          "praktische hulp"
+        ],
+        "tags": [
+          "vrijwillig",
+          "praktische hulp",
+          "klus"
+        ],
+        "audience": "Inwoners van Almelo die aan de voorwaarden voldoen.",
+        "costs": "Vrijwilligersproject.",
+        "access": "Hulpvraag wordt door een betrokken professionele hulpverlener aangemeld.",
+        "source": "https://stichtingpresent.nl/almelo/voor-hulpverleners/aanmelden/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Present Almelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Hedemanplein 3a",
+        "postcode": "7603WJ",
+        "town": "Almelo",
+        "lat": 52.36668736,
+        "lon": 6.68230302,
+        "locationType": "source-address",
+        "locationSource": "https://stichtingpresent.nl/almelo/voor-hulpverleners/aanmelden/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Hedemanplein 3a",
+      "postcode": "7603WJ",
+      "town": "Almelo",
+      "lat": 52.36668736,
+      "lon": 6.68230302,
+      "locationMunicipality": "Almelo",
+      "locationType": "source-address",
+      "locationSource": "https://stichtingpresent.nl/almelo/voor-hulpverleners/aanmelden/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://stichtingpresent.nl/almelo/voor-hulpverleners/aanmelden/"
   },
   {
     "id": "org-stichting-present-enschede-1lmy4a2",
@@ -18323,6 +20842,99 @@
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo"
+  },
+  {
+    "id": "org-twents-fonds-voor-vakmanschap-1gt820z",
+    "organization": "Twents Fonds voor Vakmanschap",
+    "municipalities": [
+      "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
+      "Rijssen-Holten",
+      "Tubbergen",
+      "Twenterand",
+      "Wierden"
+    ],
+    "categories": [
+      "geld",
+      "advies"
+    ],
+    "sources": [
+      "https://wijkwijzerenschede.nl/geld-voor-leren"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 1,
+    "sourceBacked": 0,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-twentsfonds",
+        "title": "bijdrage voor scholing",
+        "name": "Twents Fonds voor Vakmanschap · bijdrage voor scholing",
+        "description": "Financiële bijdrage voor om- of bijscholing om kansen op werk en vakmanschap te vergroten.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Almelo",
+          "Borne",
+          "Dinkelland",
+          "Enschede",
+          "Haaksbergen",
+          "Hellendoorn",
+          "Hengelo",
+          "Hof van Twente",
+          "Losser",
+          "Oldenzaal",
+          "Rijssen-Holten",
+          "Tubbergen",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "advies"
+        ],
+        "subthemes": [
+          "opleiding",
+          "omscholing"
+        ],
+        "tags": [
+          "geld",
+          "opleiding",
+          "cursus",
+          "werk"
+        ],
+        "audience": "Inwoners die aan de actuele voorwaarden van het fonds voldoen.",
+        "costs": "Subsidie tot het actuele maximum; voorwaarden kunnen wijzigen.",
+        "access": "Zelf aanvragen volgens de fondsvoorwaarden.",
+        "source": "https://wijkwijzerenschede.nl/geld-voor-leren",
+        "sourceKind": "first-party",
+        "sourceTitle": "Twents Fonds voor Vakmanschap",
+        "checked": "2026-10-02",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "review-needed",
+    "primarySource": "https://wijkwijzerenschede.nl/geld-voor-leren"
   },
   {
     "id": "org-v-v-rigtersbleek-btgef8",
@@ -19740,6 +22352,97 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/volwassenenfonds-voor-sport-en-cultuur/"
+  },
+  {
+    "id": "org-werkcentrum-twente-8g0och",
+    "organization": "Werkcentrum Twente",
+    "municipalities": [
+      "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
+      "Rijssen-Holten",
+      "Tubbergen",
+      "Twenterand",
+      "Wierden"
+    ],
+    "categories": [
+      "advies"
+    ],
+    "sources": [
+      "https://www.enschede.nl/hulp-bij-vinden-van-werk-of-opleiding"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 1,
+    "sourceBacked": 0,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-werkcentrum",
+        "title": "vrij inloopspreekuur leren en werken",
+        "name": "Werkcentrum Twente · vrij inloopspreekuur leren en werken",
+        "description": "Vrij toegankelijk advies voor werkzoekenden en werkenden over werk, scholing en ontwikkeling.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Almelo",
+          "Borne",
+          "Dinkelland",
+          "Enschede",
+          "Haaksbergen",
+          "Hellendoorn",
+          "Hengelo",
+          "Hof van Twente",
+          "Losser",
+          "Oldenzaal",
+          "Rijssen-Holten",
+          "Tubbergen",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [
+          "werk",
+          "opleiding"
+        ],
+        "tags": [
+          "advies",
+          "werk",
+          "opleiding",
+          "loopbaan"
+        ],
+        "audience": "Werkenden, werkzoekenden en anderen met vragen over leren en werken.",
+        "costs": "Gratis advies.",
+        "access": "Met of zonder afspraak.",
+        "source": "https://www.enschede.nl/hulp-bij-vinden-van-werk-of-opleiding",
+        "sourceKind": "first-party",
+        "sourceTitle": "Werkcentrum Twente",
+        "checked": "2026-10-02",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "review-needed",
+    "primarySource": "https://www.enschede.nl/hulp-bij-vinden-van-werk-of-opleiding"
   },
   {
     "id": "org-wierden-met-mekaar-1wdap34",
@@ -22809,6 +25512,80 @@
     "primarySource": "https://wijkwijzerenschede.nl/"
   },
   {
+    "id": "org-wilbertsoos-1u5m1g8",
+    "organization": "Wilbertsoos",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-hengelo-wilbertsoos",
+        "title": "kaarten en ontmoeting",
+        "name": "Wilbertsoos · kaarten en ontmoeting",
+        "description": "Vrijdagmiddag kaarten en ontmoeten bij de Wilbertsoos.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "kaarten",
+          "senioren"
+        ],
+        "tags": [
+          "ontmoeten",
+          "kaarten",
+          "senioren"
+        ],
+        "audience": "Buurtbewoners en senioren.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Vrijblijvend een keer meedoen.",
+        "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "sourceKind": "first-party",
+        "sourceTitle": "Informatiewijzer Hengelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Uitslagsweg 47",
+        "postcode": "7556LN",
+        "town": "Hengelo",
+        "lat": 52.27554192,
+        "lon": 6.79233313,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Uitslagsweg 47",
+      "postcode": "7556LN",
+      "town": "Hengelo",
+      "lat": 52.27554192,
+      "lon": 6.79233313,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+  },
+  {
     "id": "org-zonnebloem-holten-1a5c3u0",
     "organization": "Zonnebloem Holten",
     "municipalities": [
@@ -22876,6 +25653,453 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/297269/invis2/zonnebloem-holten"
+  },
+  {
+    "id": "org-zorgaccent-de-blenke-shdz3f",
+    "organization": "ZorgAccent De Blenke",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-zorgaccent-blenke",
+        "title": "eten en ontmoeting",
+        "name": "ZorgAccent De Blenke · eten en ontmoeting",
+        "description": "Huis van de buurt waar inwoners welkom zijn voor ontmoeting en onder meer samen eten.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "maaltijd",
+          "huis van de buurt"
+        ],
+        "tags": [
+          "ontmoeten",
+          "maaltijd",
+          "senioren"
+        ],
+        "audience": "Inwoners van Hellendoorn en omgeving.",
+        "costs": "Maaltijd/activiteiten kunnen een kleine bijdrage hebben.",
+        "access": "Rechtstreeks bij de locatie.",
+        "source": "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgAccent",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Bellavistastraat 3",
+        "postcode": "7604AD",
+        "town": "Almelo",
+        "lat": 52.35429475,
+        "lon": 6.65778771,
+        "locationType": "contact",
+        "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-stadskwartier-rijssen/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Bellavistastraat 3",
+      "postcode": "7604AD",
+      "town": "Almelo",
+      "lat": 52.35429475,
+      "lon": 6.65778771,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-stadskwartier-rijssen/",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/"
+  },
+  {
+    "id": "org-zorgaccent-de-hoge-es-5zgxv9",
+    "organization": "ZorgAccent De Hoge Es",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "ontmoeten",
+      "vervoer"
+    ],
+    "sources": [
+      "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-zorgaccent-hogees",
+        "title": "eten en ontmoeting",
+        "name": "ZorgAccent De Hoge Es · eten en ontmoeting",
+        "description": "Buurtbewoners zijn welkom in het Grand Café om mee te eten en anderen te ontmoeten.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten",
+          "vervoer"
+        ],
+        "subthemes": [
+          "maaltijd",
+          "huis van de buurt"
+        ],
+        "tags": [
+          "ontmoeten",
+          "maaltijd",
+          "senioren"
+        ],
+        "audience": "Inwoners van Nijverdal en omgeving.",
+        "costs": "Maaltijd tegen betaling.",
+        "access": "Rechtstreeks bij de locatie.",
+        "source": "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgAccent",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Bellavistastraat 3",
+        "postcode": "7604AD",
+        "town": "Almelo",
+        "lat": 52.35429475,
+        "lon": 6.65778771,
+        "locationType": "contact",
+        "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-stadskwartier-rijssen/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Bellavistastraat 3",
+      "postcode": "7604AD",
+      "town": "Almelo",
+      "lat": 52.35429475,
+      "lon": 6.65778771,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-stadskwartier-rijssen/",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/"
+  },
+  {
+    "id": "org-zorgaccent-het-liefferdinck-1tppwac",
+    "organization": "ZorgAccent Het Liefferdinck",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-zorgaccent-lieferdinck",
+        "title": "samen eten",
+        "name": "ZorgAccent Het Liefferdinck · samen eten",
+        "description": "Inwoners uit Den Ham zijn welkom om samen met bewoners te eten en anderen te ontmoeten.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "maaltijd",
+          "senioren"
+        ],
+        "tags": [
+          "ontmoeten",
+          "maaltijd",
+          "senioren"
+        ],
+        "audience": "Inwoners van Den Ham en omgeving.",
+        "costs": "Maaltijd tegen betaling.",
+        "access": "Rechtstreeks bij de locatie.",
+        "source": "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgAccent",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Oranjeplein 5-ap01",
+        "postcode": "7681AZ",
+        "town": "Vroomshoop",
+        "lat": 52.45855096,
+        "lon": 6.56745961,
+        "locationType": "contact",
+        "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-vroomshoop/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Oranjeplein 5-ap01",
+      "postcode": "7681AZ",
+      "town": "Vroomshoop",
+      "lat": 52.45855096,
+      "lon": 6.56745961,
+      "locationMunicipality": "Twenterand",
+      "locationType": "contact",
+      "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-vroomshoop/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/"
+  },
+  {
+    "id": "org-zorgaccent-het-vertier-1fvef0f",
+    "organization": "ZorgAccent Het Vertier",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.zorgaccent.nl/locatie/dagbesteding-het-vertier/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-zorgaccent-vertier",
+        "title": "open activiteiten zonder indicatie",
+        "name": "ZorgAccent Het Vertier · open activiteiten zonder indicatie",
+        "description": "Bij Het Vertier kun je zonder indicatie deelnemen aan activiteiten of gezellig mee-eten; formele dagbesteding vraagt wel een beschikking.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "daginvulling",
+          "ouderen"
+        ],
+        "tags": [
+          "ontmoeten",
+          "daginvulling",
+          "ouderen",
+          "zonder indicatie"
+        ],
+        "audience": "Ouderen en inwoners die behoefte hebben aan ontmoeting of daginvulling.",
+        "costs": "Kleine bijdrage voor activiteiten en maaltijd.",
+        "access": "Zonder indicatie welkom voor open activiteiten.",
+        "source": "https://www.zorgaccent.nl/locatie/dagbesteding-het-vertier/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgAccent",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Kuperserf 45",
+        "postcode": "7443HC",
+        "town": "Nijverdal",
+        "lat": 52.37664623,
+        "lon": 6.48294966,
+        "locationType": "visiting",
+        "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-het-vertier/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Kuperserf 45",
+      "postcode": "7443HC",
+      "town": "Nijverdal",
+      "lat": 52.37664623,
+      "lon": 6.48294966,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-het-vertier/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.zorgaccent.nl/locatie/dagbesteding-het-vertier/"
+  },
+  {
+    "id": "org-zorgaccent-rijssen-4clgzj",
+    "organization": "ZorgAccent Rijssen",
+    "municipalities": [
+      "Rijssen-Holten"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-zorgaccent-rijssen-eten",
+        "title": "samen eten met buurtgenoten",
+        "name": "ZorgAccent Rijssen · samen eten met buurtgenoten",
+        "description": "Gezamenlijke maaltijd in een woonzorglocatie voor bewoners uit Rijssen en buurtgenoten.",
+        "municipality": "Rijssen-Holten",
+        "municipalities": [
+          "Rijssen-Holten"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "maaltijd",
+          "senioren"
+        ],
+        "tags": [
+          "ontmoeten",
+          "maaltijd",
+          "senioren"
+        ],
+        "audience": "Inwoners van Rijssen.",
+        "costs": "Maaltijd tegen betaling.",
+        "access": "Informeer bij ZorgAccent naar de deelnemende locatie.",
+        "source": "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgAccent",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Watermolen 57",
+        "postcode": "7461AZ",
+        "town": "Rijssen",
+        "lat": 52.30981229,
+        "lon": 6.52177909,
+        "locationType": "contact",
+        "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-stadskwartier-rijssen/",
+        "locationMunicipality": "Rijssen-Holten",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Watermolen 57",
+      "postcode": "7461AZ",
+      "town": "Rijssen",
+      "lat": 52.30981229,
+      "lon": 6.52177909,
+      "locationMunicipality": "Rijssen-Holten",
+      "locationType": "contact",
+      "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-stadskwartier-rijssen/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/"
+  },
+  {
+    "id": "org-zorgaccent-wierden-138a7d5",
+    "organization": "ZorgAccent Wierden",
+    "municipalities": [
+      "Wierden"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-zorgaccent-wierden-eten",
+        "title": "samen eten met buurtgenoten",
+        "name": "ZorgAccent Wierden · samen eten met buurtgenoten",
+        "description": "Gezamenlijke maaltijd in een woonzorglocatie voor bewoners uit Wierden en buurtgenoten.",
+        "municipality": "Wierden",
+        "municipalities": [
+          "Wierden"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "maaltijd",
+          "senioren"
+        ],
+        "tags": [
+          "ontmoeten",
+          "maaltijd",
+          "senioren"
+        ],
+        "audience": "Inwoners van Wierden.",
+        "costs": "Maaltijd tegen betaling.",
+        "access": "Informeer bij ZorgAccent naar de deelnemende locatie.",
+        "source": "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgAccent",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Bellavistastraat 3",
+        "postcode": "7604AD",
+        "town": "Almelo",
+        "lat": 52.35429475,
+        "lon": 6.65778771,
+        "locationType": "contact",
+        "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-stadskwartier-rijssen/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Bellavistastraat 3",
+      "postcode": "7604AD",
+      "town": "Almelo",
+      "lat": 52.35429475,
+      "lon": 6.65778771,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://www.zorgaccent.nl/locatie/dagbesteding-stadskwartier-rijssen/",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.zorgaccent.nl/zorg-thuis/eenzaam-kom-eens-langs/"
   },
   {
     "id": "org-zorgadvies-twente-1jhn6l6",
@@ -22960,17 +26184,103 @@
       "Oldenzaal"
     ],
     "categories": [
-      "ontmoeten"
+      "ontmoeten",
+      "bewegen"
     ],
     "sources": [
       "https://zorgfederatieoldenzaal.nl/diensten/dagbesteding/"
     ],
-    "offerCount": 1,
+    "offerCount": 3,
     "reviewNeeded": 0,
-    "sourceBacked": 1,
+    "sourceBacked": 3,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
+      {
+        "id": "c-20261002-zfo-doot",
+        "title": "Doo-t met ôons met",
+        "name": "Zorgfederatie Oldenzaal · Doo-t met ôons met",
+        "description": "Welzijnsactiviteiten op Scholtenhof en Mariahof met onder meer bewegen, spel, creativiteit en uitstapjes; toegankelijk zonder indicatie.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "daginvulling",
+          "ouderen"
+        ],
+        "tags": [
+          "ontmoeten",
+          "daginvulling",
+          "ouderen",
+          "zonder indicatie"
+        ],
+        "audience": "Ouderen die behoefte hebben aan ontmoeting en recreatieve daginvulling.",
+        "costs": "Afhankelijk van de activiteit kan een eigen bijdrage gelden.",
+        "access": "Zonder indicatie; vooraf contact opnemen is mogelijk.",
+        "source": "https://zorgfederatieoldenzaal.nl/diensten/dagbesteding/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Zorgfederatie Oldenzaal",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Fonteinstraat 55-A001",
+        "postcode": "7573CG",
+        "town": "Oldenzaal",
+        "lat": 52.31367472,
+        "lon": 6.93868339,
+        "locationType": "source-address",
+        "locationSource": "https://zorgfederatieoldenzaal.nl/diensten/dagbesteding/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-zfo-wandelgroep",
+        "title": "Voetje voor voetje",
+        "name": "Zorgfederatie Oldenzaal · Voetje voor voetje",
+        "description": "Wandelgroep binnen het vrij toegankelijke welzijnsaanbod van Zorgfederatie Oldenzaal.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "wandelen",
+          "daginvulling"
+        ],
+        "tags": [
+          "bewegen",
+          "wandelen",
+          "ouderen",
+          "zonder indicatie"
+        ],
+        "audience": "Ouderen en andere deelnemers van het welzijnsaanbod.",
+        "costs": "Mogelijk kleine bijdrage.",
+        "access": "Zonder indicatie.",
+        "source": "https://zorgfederatieoldenzaal.nl/diensten/dagbesteding/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Zorgfederatie Oldenzaal",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Fonteinstraat 55-A001",
+        "postcode": "7573CG",
+        "town": "Oldenzaal",
+        "lat": 52.31367472,
+        "lon": 6.93868339,
+        "locationType": "source-address",
+        "locationSource": "https://zorgfederatieoldenzaal.nl/diensten/dagbesteding/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "candidate-20261002-zfo-welzijn-zonder-indicatie",
         "title": "welzijnsactiviteiten zonder indicatie",
@@ -23030,6 +26340,81 @@
     "primarySource": "https://zorgfederatieoldenzaal.nl/diensten/dagbesteding/"
   },
   {
+    "id": "org-zorginstelling-armin-1xfig05",
+    "organization": "Zorginstelling Armin",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://zorginstellingarmin.com/zorgaanbod/dagbesteding/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "c-20261002-armin-openactiviteiten",
+        "title": "open groepsactiviteiten zonder indicatie",
+        "name": "Zorginstelling Armin · open groepsactiviteiten zonder indicatie",
+        "description": "Groepsactiviteiten rond ontmoeting, ontspanning, creativiteit en informatie; wijkbewoners zonder indicatie kunnen tegen een kleine bijdrage meedoen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "daginvulling",
+          "ouderen"
+        ],
+        "tags": [
+          "ontmoeten",
+          "daginvulling",
+          "creatief",
+          "ouderen"
+        ],
+        "audience": "Wijkbewoners en ouderen die behoefte hebben aan contact of daginvulling.",
+        "costs": "Kleine bijdrage voor deelname zonder indicatie.",
+        "access": "Rechtstreeks contact opnemen; voor de formele dagbesteding zelf geldt wel indicatie.",
+        "source": "https://zorginstellingarmin.com/zorgaanbod/dagbesteding/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Zorginstelling Armin",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Roomweg 180",
+        "postcode": "7523BT",
+        "town": "Enschede",
+        "lat": 52.23123934,
+        "lon": 6.89569937,
+        "locationType": "visiting",
+        "locationSource": "https://zorginstellingarmin.com/zorgaanbod/dagbesteding/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Roomweg 180",
+      "postcode": "7523BT",
+      "town": "Enschede",
+      "lat": 52.23123934,
+      "lon": 6.89569937,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://zorginstellingarmin.com/zorgaanbod/dagbesteding/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://zorginstellingarmin.com/zorgaanbod/dagbesteding/"
+  },
+  {
     "id": "org-zorgsaam-twenterand-iw81yn",
     "organization": "ZorgSaam Twenterand",
     "municipalities": [
@@ -23069,19 +26454,62 @@
       "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer",
       "https://www.zorgsaamtwenterand.nl/nieuws/in-balans-met-de-actieve-ontmoeting-start-dit-najaar-in-westerhaar-en-vroomshoop/",
       "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/hulp-bij-formulieren/",
+      "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+      "https://www.zorgsaamtwenterand.nl/kansrijk-opgroeien/activiteiten-bijeenkomsten-kansrijk-opgroeien/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/creatieve-club/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/keerls-proat/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
       "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
-      "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
-      "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/"
+      "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/"
     ],
-    "offerCount": 39,
+    "offerCount": 50,
     "reviewNeeded": 2,
-    "sourceBacked": 37,
+    "sourceBacked": 48,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
+      {
+        "id": "c-20261002-zorgsaam-gym",
+        "title": "(zit)gymnastiek voor ouderen",
+        "name": "ZorgSaam Twenterand · (zit)gymnastiek voor ouderen",
+        "description": "Beweegactiviteit voor ouderen met aandacht voor bewegen en gezelligheid.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "gymnastiek",
+          "senioren"
+        ],
+        "tags": [
+          "bewegen",
+          "senioren",
+          "gymnastiek"
+        ],
+        "audience": "Senioren in Twenterand.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens de actuele activiteitenagenda.",
+        "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "candidate-ad70389770ed984a",
         "title": "Activiteiten & bijeenkomsten Kansrijk Opgroeien",
@@ -23144,6 +26572,49 @@
         "sourceKind": "provider",
         "sourceTitle": "ZorgSaam Twenterand",
         "checked": "2026-09-15",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-zorgsaam-babysbabbels",
+        "title": "Baby’s & Babbels",
+        "name": "ZorgSaam Twenterand · Baby’s & Babbels",
+        "description": "Ontmoetings- en themamomenten voor (aanstaande) ouders met baby’s.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "ouders",
+          "baby"
+        ],
+        "tags": [
+          "jeugd",
+          "ouders",
+          "baby",
+          "ontmoeten"
+        ],
+        "audience": "Aanstaande ouders en ouders met baby’s.",
+        "costs": "Veel activiteiten zijn gratis.",
+        "access": "Bekijk de actuele agenda; sommige momenten vragen aanmelding.",
+        "source": "https://www.zorgsaamtwenterand.nl/kansrijk-opgroeien/activiteiten-bijeenkomsten-kansrijk-opgroeien/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Burgemeester Koetjestraat 2",
         "postcode": "7681ZP",
@@ -23280,6 +26751,45 @@
         "mapPin": true
       },
       {
+        "id": "c-20261002-zorgsaam-creatief",
+        "title": "De Creatieve Club",
+        "name": "ZorgSaam Twenterand · De Creatieve Club",
+        "description": "Creatief bezig zijn in een klein gezelschap.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "creatief"
+        ],
+        "tags": [
+          "ontmoeten",
+          "creatief"
+        ],
+        "audience": "Inwoners van Twenterand.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "extra-20261002-zorgsaam-de-creatieve-club-vroomshoop",
         "title": "De Creatieve Club Vroomshoop",
         "name": "ZorgSaam Twenterand · De Creatieve Club Vroomshoop",
@@ -23360,6 +26870,46 @@
         "locationMunicipality": "Twenterand",
         "mapLocationType": "address",
         "mapPin": true
+      },
+      {
+        "id": "c-20261002-zorgsaam-eetmee",
+        "title": "Eetmee Twenterand",
+        "name": "ZorgSaam Twenterand · Eetmee Twenterand",
+        "description": "Samen eten voor ontmoeting en gezelschap, tegen een lage prijs.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "maaltijd"
+        ],
+        "tags": [
+          "ontmoeten",
+          "maaltijd",
+          "eten"
+        ],
+        "audience": "Inwoners van Twenterand.",
+        "costs": "Lage bijdrage voor de maaltijd.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
       },
       {
         "id": "extra-20261002-zorgsaam-eetmee-vriezenveen",
@@ -23483,6 +27033,47 @@
         "locationMunicipality": "Twenterand",
         "mapLocationType": "address",
         "mapPin": true
+      },
+      {
+        "id": "c-20261002-zorgsaam-fietsclub",
+        "title": "Fietsclub",
+        "name": "ZorgSaam Twenterand · Fietsclub",
+        "description": "Samen fietsen in een gemoedelijke groep.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "fietsen"
+        ],
+        "tags": [
+          "bewegen",
+          "fietsen",
+          "ontmoeten"
+        ],
+        "audience": "Inwoners die mee kunnen fietsen.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
       },
       {
         "id": "extra-20261002-zorgsaam-fietsclub",
@@ -23887,6 +27478,87 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-zorgsaam-instuif",
+        "title": "Instuif senioren",
+        "name": "ZorgSaam Twenterand · Instuif senioren",
+        "description": "Vrijblijvende ontmoetingsplek voor senioren met wisselend programma.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "inloop"
+        ],
+        "tags": [
+          "ontmoeten",
+          "senioren",
+          "inloop"
+        ],
+        "audience": "Senioren.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Vrije of laagdrempelige deelname.",
+        "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-zorgsaam-kakelklup",
+        "title": "Kakelklup",
+        "name": "ZorgSaam Twenterand · Kakelklup",
+        "description": "Gezellige club voor mensen met een verstandelijke beperking.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "verstandelijke beperking"
+        ],
+        "tags": [
+          "ontmoeten",
+          "verstandelijke beperking",
+          "club"
+        ],
+        "audience": "Mensen met een verstandelijke beperking.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "extra-20261002-zorgsaam-kakelklup",
         "title": "Kakelklup",
         "name": "ZorgSaam Twenterand · Kakelklup",
@@ -23963,6 +27635,47 @@
         "mapPin": false
       },
       {
+        "id": "c-20261002-zorgsaam-keepfit",
+        "title": "Keep Fit",
+        "name": "ZorgSaam Twenterand · Keep Fit",
+        "description": "Beweegactiviteit voor senioren in een gezellige groep.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren"
+        ],
+        "tags": [
+          "bewegen",
+          "senioren",
+          "fit"
+        ],
+        "audience": "Senioren.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "extra-20261002-zorgsaam-keep-fit",
         "title": "Keep Fit",
         "name": "ZorgSaam Twenterand · Keep Fit",
@@ -23986,6 +27699,47 @@
         "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
         "costs": "Controleer de actuele bijdrage.",
         "access": "Bekijk de actuele locatie en tijden bij ZorgSaam.",
+        "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-zorgsaam-keerls",
+        "title": "Keerls Proat",
+        "name": "ZorgSaam Twenterand · Keerls Proat",
+        "description": "Ontmoetingsmiddag met ruimte voor gesprekken en ontspanning.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "mannen",
+          "gesprek"
+        ],
+        "tags": [
+          "ontmoeten",
+          "mannen",
+          "gesprek"
+        ],
+        "audience": "Mannen in Twenterand.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens de actuele agenda.",
         "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
         "sourceKind": "first-party",
         "sourceTitle": "ZorgSaam Twenterand",
@@ -24067,6 +27821,88 @@
         "sourceKind": "provider",
         "sourceTitle": "ZorgSaam Twenterand",
         "checked": "2026-09-15",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-zorgsaam-koersbal",
+        "title": "Koersbal",
+        "name": "ZorgSaam Twenterand · Koersbal",
+        "description": "Koersbal in groepsverband.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "koersbal"
+        ],
+        "tags": [
+          "bewegen",
+          "koersbal",
+          "senioren"
+        ],
+        "audience": "Inwoners, veelal senioren.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Volgens de actuele agenda.",
+        "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "source-address",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "c-20261002-zorgsaam-koffiekamer",
+        "title": "Koffiekamer",
+        "name": "ZorgSaam Twenterand · Koffiekamer",
+        "description": "Laagdrempelige ontmoetingsplek voor een praatje en afleiding.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "koffie",
+          "inloop"
+        ],
+        "tags": [
+          "ontmoeten",
+          "koffie",
+          "inloop"
+        ],
+        "audience": "Inwoners van Twenterand.",
+        "costs": "Controleer actuele bijdrage.",
+        "access": "Inloop volgens de agenda.",
+        "source": "https://www.zorgsaamtwenterand.nl/in-de-buurt/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Burgemeester Koetjestraat 2",
         "postcode": "7681ZP",
