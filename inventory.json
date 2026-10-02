@@ -21442,7 +21442,12 @@
       "guidePaths": [
         "ontmoeten/inloop",
         "meedoen/daginvulling"
-      ]
+      ],
+      "lat": 52.40521098,
+      "lon": 6.95076023,
+      "locationMunicipality": "Dinkelland",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
