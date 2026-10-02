@@ -156,11 +156,15 @@ function actualMunicipality(p) {
     return canonicalMunicipality(p.locationMunicipality || p.municipality);
 }
 function isPhysicalLocation(p) {
-    if (!p || String(p.id || '').startsWith('catalog-')) return false;
-    if (p.mapLocationType === 'service-area') return false;
-    if (['contact', 'source-address'].includes(p.locationType)) return false;
-    if (!p.address || !p.town) return false;
-    return Number.isFinite(p.lat) && Number.isFinite(p.lon);
+    return Boolean(
+        p &&
+        p.physicalLocation === true &&
+        p.mapLocationType !== 'service-area' &&
+        p.address &&
+        p.town &&
+        Number.isFinite(p.lat) &&
+        Number.isFinite(p.lon)
+    );
 }
 function physicallyInMunicipality(p, municipality) {
     if (!isPhysicalLocation(p)) return false;
