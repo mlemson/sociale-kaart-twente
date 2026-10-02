@@ -7145,7 +7145,10 @@
       "lon": 6.74505822,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "zorg/dementie"
+      ]
     },
     {
       "id": "candidate-ebdc403e97ad5593",
@@ -7415,7 +7418,11 @@
       "lon": 6.74505822,
       "locationMunicipality": "Haaksbergen",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "mentaal/welzijn",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "id": "candidate-1ba3dd49a227de2c",
@@ -12178,7 +12185,10 @@
       "lon": 6.75804917,
       "locationMunicipality": "Borne",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "vervoer/sociaal"
+      ]
     },
     {
       "id": "candidate-ccffe23858300861",
@@ -12520,7 +12530,10 @@
       "lon": 6.74612156,
       "locationMunicipality": "Borne",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "zorg/dementie"
+      ]
     },
     {
       "id": "candidate-4bf10ae8379b46fc",
