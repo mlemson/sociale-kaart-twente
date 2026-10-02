@@ -266,7 +266,11 @@ function matchedCatalog() {
     });
 }
 function catalogOfferSummary(group, max = 3) {
-    const pool = catalogOffersForGroup(group, true);
+    const areaOffers = catalogOffersForGroup(group, false);
+    const matched = areaOffers.filter(offerMatches);
+    const q = state.search.toLocaleLowerCase('nl');
+    const groupText = [group.organization, ...(group.categories || [])].join(' ').toLocaleLowerCase('nl');
+    const pool = matched.length || state.category || (q && !groupText.includes(q)) ? matched : areaOffers;
     const shown = pool.slice(0, max).map(o => o.title || o.name);
     const extra = Math.max(0, pool.length - shown.length);
     return {pool, text: shown.join(' · ') + (extra ? ` · +${extra}` : '')};
@@ -301,7 +305,6 @@ function render() {
         activeToggle.checked = false;
     }
 
-    const visibleTotal = sortedLocations.length + (state.showActiveHere ? sortedCatalog.length : 0);
     $('result-count').textContent = sortedCatalog.length
         ? `${sortedLocations.length} locaties · ${sortedCatalog.length} ook actief`
         : (sortedLocations.length ? `${sortedLocations.length} locaties` : '');
@@ -719,12 +722,12 @@ async function init() {
                                 plaats: p.town,
                                 bron: p.source
                             })),
-                            organisaties: state.showActiveHere ? catalogFiltered.slice(0, 50).map(g => ({
+                            organisaties: catalogFiltered.slice(0, 50).map(g => ({
                                 naam: g.organization,
                                 gemeenten: g.municipalities,
                                 aanbod: g.offerCount,
                                 bron: g.primarySource
-                            })) : []
+                            }))
                         };
                     }
                 })).catch( () => {}
