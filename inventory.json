@@ -1,6 +1,6 @@
 {
   "checked": "2026-10-02",
-  "method": "Brede inventarisatie van vrij toegankelijke of rechtstreeks benaderbare sociale voorzieningen, activiteiten, trainingen en daginvulling. Geïndiceerde dagbesteding/behandeling wordt niet als voorliggende voorziening opgenomen; open activiteiten bij zorglocaties alleen wanneer deelname zonder indicatie expliciet mogelijk is.",
+  "method": "Brede inventarisatie van vrij toegankelijke of rechtstreeks benaderbare sociale voorzieningen, activiteiten, trainingen, cursussen en daginvulling. Geïndiceerde dagbesteding/behandeling wordt niet als voorliggende voorziening opgenomen; open activiteiten bij zorglocaties alleen wanneer deelname zonder indicatie expliciet mogelijk is.",
   "candidates": [
     {
       "id": "candidate-2cbf3153ac57d056",
@@ -24988,6 +24988,702 @@
       "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
       "mapLocationType": "address",
       "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-almelo-valpreventie",
+      "name": "Gemeente Almelo · gratis valpreventiecursus",
+      "source": "https://www.almelo.nl/zorg-en-ondersteuning/ouder-worden-almelo/cursus-valpreventie-zo-blijft-u-overeind",
+      "sourceTitle": "Gemeente Almelo",
+      "municipality": "Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "valpreventie",
+        "65+"
+      ],
+      "tags": [
+        "bewegen",
+        "valpreventie",
+        "senioren",
+        "training"
+      ],
+      "description": "Gratis cursus met oefeningen voor balans, spierkracht en steviger staan en lopen.",
+      "audience": "Inwoners van Almelo van 65 jaar en ouder.",
+      "access": "Aanmelden via een deelnemende fysiotherapeut of het Fysiocollectief Almelo.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-loes-scheiding",
+      "name": "LOES Twente · gratis training voor ouders in scheiding",
+      "source": "https://www.almelo.nl/jeugd-en-onderwijs/veiligheid-en-thuissituatie/scheiden",
+      "sourceTitle": "LOES Twente",
+      "municipality": "Almelo",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "scheiding",
+        "ouders"
+      ],
+      "tags": [
+        "jeugd",
+        "scheiding",
+        "ouders",
+        "training"
+      ],
+      "description": "Training voor ouders die uit elkaar gaan of gescheiden zijn, gericht op ouderschap en het welzijn van kinderen.",
+      "audience": "Ouders met kinderen die met een scheiding te maken hebben.",
+      "access": "Actuele trainingen en aanmelding via LOES Twente.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-losser-kies",
+      "name": "Gemeente Losser · KIES training bij echtscheiding",
+      "source": "https://www.losser.nl/jeugd-en-gezondheid",
+      "sourceTitle": "Gemeente Losser",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [
+        "scheiding",
+        "training"
+      ],
+      "tags": [
+        "jeugd",
+        "scheiding",
+        "training"
+      ],
+      "description": "Training waarin kinderen leren omgaan met de scheiding van hun ouders; ouders krijgen informatie in ouderbijeenkomsten.",
+      "audience": "Kinderen van 7 tot 12 jaar uit Losser en hun ouders.",
+      "access": "Aanmelden via schoolmaatschappelijk werk of gemeente.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-impuls-huiskamers",
+      "name": "Impuls · Huiskamers Oldenzaal",
+      "source": "https://www.impuls-oldenzaal.nl/diensten/huiskamers/",
+      "sourceTitle": "Impuls",
+      "municipality": "Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "huiskamer",
+        "inloop"
+      ],
+      "tags": [
+        "ontmoeten",
+        "huiskamer",
+        "inloop"
+      ],
+      "description": "Vrije inloop voor koffie, gesprek, krant lezen en informatie over activiteiten, op meerdere plekken in Oldenzaal.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Vrij inlopen volgens de openingstijden.",
+      "costs": "Bezoek is gratis; koffie of thee kost een kleine bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-impuls-toeslagen",
+      "name": "Impuls · Toeslagen Service Punt",
+      "source": "https://www.impuls-oldenzaal.nl/wat-we-doen/",
+      "sourceTitle": "Impuls",
+      "municipality": "Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "toeslagen",
+        "administratie"
+      ],
+      "tags": [
+        "geld",
+        "toeslagen",
+        "administratie"
+      ],
+      "description": "Hulp bij vragen over toeslagen en het regelen van financiële administratie.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Via Impuls.",
+      "costs": "Laagdrempelige ondersteuning."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-impuls-formulieren",
+      "name": "Impuls · Formulierenservice Oldenzaal",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/formulierenservice/",
+      "sourceTitle": "Impuls",
+      "municipality": "Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld",
+        "taal"
+      ],
+      "subthemes": [
+        "formulieren",
+        "brieven"
+      ],
+      "tags": [
+        "geld",
+        "administratie",
+        "formulieren",
+        "digitaal"
+      ],
+      "description": "Vrijwilligers helpen bij het begrijpen van brieven en het invullen van formulieren voor bijvoorbeeld toeslagen, hulpmiddelen en zorg.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Zonder afspraak binnenlopen tijdens het spreekuur.",
+      "costs": "Gratis.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "locationType": "visiting"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-impuls-thuisadmin",
+      "name": "Impuls · hulp bij administratie thuis",
+      "source": "https://www.impuls-oldenzaal.nl/wat-we-doen/",
+      "sourceTitle": "Impuls",
+      "municipality": "Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "administratie",
+        "thuis"
+      ],
+      "tags": [
+        "geld",
+        "administratie",
+        "thuis"
+      ],
+      "description": "Ondersteuning bij het ordenen en bijhouden van administratie thuis.",
+      "audience": "Inwoners die hulp nodig hebben bij administratie.",
+      "access": "Via Impuls.",
+      "costs": "Laagdrempelige ondersteuning."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-impuls-dementheek",
+      "name": "Impuls · Dementheek Oldenzaal",
+      "source": "https://www.impuls-oldenzaal.nl/wat-we-doen/",
+      "sourceTitle": "Impuls",
+      "municipality": "Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg",
+        "advies"
+      ],
+      "subthemes": [
+        "dementie",
+        "informatie"
+      ],
+      "tags": [
+        "mantelzorg",
+        "dementie",
+        "informatie"
+      ],
+      "description": "Informatie en materialen rond dementie voor mensen met geheugenproblemen, naasten en andere geïnteresseerden.",
+      "audience": "Mensen met geheugenproblemen en hun naasten.",
+      "access": "Via Impuls.",
+      "costs": "Controleer actuele voorwaarden."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-impuls-vtb",
+      "name": "Impuls · VTB Club",
+      "source": "https://www.impuls-oldenzaal.nl/wat-we-doen/",
+      "sourceTitle": "Impuls",
+      "municipality": "Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "club",
+        "beperking"
+      ],
+      "tags": [
+        "ontmoeten",
+        "club",
+        "beperking"
+      ],
+      "description": "Clubactiviteit binnen het laagdrempelige welzijnsaanbod van Impuls.",
+      "audience": "Doelgroep en actuele invulling navragen bij Impuls.",
+      "access": "Via Impuls.",
+      "costs": "Controleer actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-impuls-valpreventie",
+      "name": "Impuls · Valpreventieloket Oldenzaal",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls",
+      "municipality": "Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "advies"
+      ],
+      "subthemes": [
+        "valpreventie",
+        "65+"
+      ],
+      "tags": [
+        "bewegen",
+        "valpreventie",
+        "senioren"
+      ],
+      "description": "Inloop voor informatie en advies over stevig blijven staan, bewegen en valpreventie.",
+      "audience": "Ouderen en andere inwoners met vragen over valpreventie.",
+      "access": "Vrije inloop volgens de actuele agenda.",
+      "costs": "Gratis informatie en advies."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-dewelle-fijnleven",
+      "name": "De Welle · Fijn Leven",
+      "source": "https://www.stichtingdewelle.nl/wp-content/uploads/2025/05/202520-De-Welle-Wierden-jaarverslag-2024-LR.pdf",
+      "sourceTitle": "De Welle",
+      "municipality": "Wierden",
+      "municipalities": [
+        "Wierden"
+      ],
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies",
+        "bewegen"
+      ],
+      "subthemes": [
+        "gezond ouder worden"
+      ],
+      "tags": [
+        "advies",
+        "senioren",
+        "gezondheid",
+        "welzijn"
+      ],
+      "description": "Project waarmee oudere inwoners worden ondersteund om gezond, actief en zo zelfstandig mogelijk ouder te worden.",
+      "audience": "Oudere inwoners van Wierden.",
+      "access": "Via De Welle.",
+      "costs": "Laagdrempelige welzijnsondersteuning."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-dewelle-beweegtuin",
+      "name": "De Welle · Beweegtuin Wierden",
+      "source": "https://www.stichtingdewelle.nl/wp-content/uploads/2025/05/202520-De-Welle-Wierden-jaarverslag-2024-LR.pdf",
+      "sourceTitle": "De Welle",
+      "municipality": "Wierden",
+      "municipalities": [
+        "Wierden"
+      ],
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "kracht",
+        "balans"
+      ],
+      "tags": [
+        "bewegen",
+        "senioren",
+        "balans",
+        "ontmoeten"
+      ],
+      "description": "Gezamenlijk bewegen met warming-up en oefeningen voor kracht, conditie en balans.",
+      "audience": "Oudere inwoners die laagdrempelig willen bewegen.",
+      "access": "Via De Welle; actuele tijden controleren.",
+      "costs": "Controleer actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-dewelle-valpreventie",
+      "name": "De Welle · valpreventiecursussen Wierden",
+      "source": "https://www.stichtingdewelle.nl/wp-content/uploads/2025/05/202520-De-Welle-Wierden-jaarverslag-2024-LR.pdf",
+      "sourceTitle": "De Welle",
+      "municipality": "Wierden",
+      "municipalities": [
+        "Wierden"
+      ],
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen"
+      ],
+      "subthemes": [
+        "valpreventie",
+        "senioren"
+      ],
+      "tags": [
+        "bewegen",
+        "valpreventie",
+        "senioren",
+        "cursus"
+      ],
+      "description": "Cursussen gericht op valpreventie en veilig blijven bewegen.",
+      "audience": "Oudere inwoners van Wierden.",
+      "access": "Via De Welle; actuele cursusronde controleren.",
+      "costs": "Controleer actuele voorwaarden."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-zorgsaam-biljarten",
+      "name": "ZorgSaam Twenterand · Biljarten",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/biljarten/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipality": "Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten",
+        "bewegen"
+      ],
+      "subthemes": [
+        "biljarten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "biljarten",
+        "bewegen"
+      ],
+      "description": "Biljarten in Vroomshoop en Den Ham, met ruimte voor sociaal contact en deelname op eigen niveau.",
+      "audience": "Inwoners van Twenterand.",
+      "access": "Volgens de actuele tijden op de website.",
+      "costs": "Controleer eventuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-zorgsaam-volksdansen",
+      "name": "ZorgSaam Twenterand · Volksdansen",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/volksdansen/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipality": "Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "dansen"
+      ],
+      "tags": [
+        "bewegen",
+        "dansen",
+        "ontmoeten"
+      ],
+      "description": "Groepslessen volksdansen in Den Ham en Westerhaar-Vriezenveensewijk, met aandacht voor bewegen en gezelligheid.",
+      "audience": "Volwassenen en senioren; ervaring is niet nodig.",
+      "access": "Meedoen volgens de actuele lestijden.",
+      "costs": "Controleer actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-zorgsaam-ontmoetingscentrum",
+      "name": "ZorgSaam Twenterand · Ontmoetingscentrum geheugenproblemen",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipality": "Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "geheugenproblemen",
+        "dementie"
+      ],
+      "tags": [
+        "mantelzorg",
+        "dementie",
+        "ontmoeten",
+        "geheugen"
+      ],
+      "description": "Gratis inloop in Vriezenveen en Den Ham voor mensen met beginnende geheugenproblemen en hun naasten, met activiteiten, informatie en lotgenotencontact.",
+      "audience": "Mensen met beginnende geheugenproblemen en mantelzorgers.",
+      "access": "Vrije inloop; geen verwijzing of indicatie nodig.",
+      "costs": "Gratis."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-fundament-maaklab",
+      "name": "Fundament Losser · MaakLab",
+      "source": "https://www.fundamentlosser.nl/agenda/maaklab-2-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-2026-09-30-2026-10-07-2026-10-14-2026-10-21-2026-10-28-2026-11-04-2026-11-11-2026-11-18-2026-11-25-2026-12-02-09-2027-06-16/",
+      "sourceTitle": "Fundament Losser",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd",
+        "taal"
+      ],
+      "subthemes": [
+        "maken",
+        "techniek",
+        "digitaal"
+      ],
+      "tags": [
+        "jeugd",
+        "techniek",
+        "creatief",
+        "digitaal"
+      ],
+      "description": "Wekelijkse MaakLab-middag met onder meer 3D-printer, lasersnijder, micro:bits en andere maakapparatuur.",
+      "audience": "Jeugd van 9 tot 18 jaar.",
+      "access": "Inschrijven op de intekenlijst bij de bibliotheek; beperkte plekken.",
+      "costs": "Controleer de actuele activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-fundament-kidsplay",
+      "name": "Fundament Losser · Kidsplay Overdinkel",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "spelen",
+        "creatief"
+      ],
+      "tags": [
+        "jeugd",
+        "kinderen",
+        "spelen",
+        "creatief"
+      ],
+      "description": "Wekelijkse middag in Overdinkel met knutselen en andere activiteiten voor kinderen.",
+      "audience": "Kinderen van 5 tot en met 12 jaar.",
+      "access": "Volgens de actuele agenda.",
+      "costs": "Controleer actuele activiteit."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-fundament-actieveontmoeting",
+      "name": "Fundament Losser · Actieve Ontmoeting",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "gezonde leefstijl",
+        "ouderen"
+      ],
+      "tags": [
+        "bewegen",
+        "ouderen",
+        "ontmoeten",
+        "leefstijl"
+      ],
+      "description": "Terugkerende ontmoetings- en beweegactiviteit in Losser, Overdinkel en De Lutte met aandacht voor een gezonde leefstijl.",
+      "audience": "Ouderen die actief willen blijven en anderen willen ontmoeten.",
+      "access": "Volgens de actuele agenda.",
+      "costs": "Controleer actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-fundament-koffie-kiekerskaamp",
+      "name": "Fundament Losser · Koffie Inloop Kiekerskaamp",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop",
+        "daginvulling"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "daginvulling"
+      ],
+      "description": "Koffie-inloop voor inwoners die sociale contacten zoeken, daginvulling willen of willen ontdekken welke activiteiten passen.",
+      "audience": "Inwoners van de gemeente Losser.",
+      "access": "Vrije inloop volgens de actuele agenda.",
+      "costs": "Laagdrempelig."
     }
   ],
   "sources": [
@@ -27841,6 +28537,96 @@
       "url": "https://www.impuls-oldenzaal.nl/wat-we-doen/vrijwilligerswerk/",
       "municipalities": [
         "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Gemeente Almelo",
+      "url": "https://www.almelo.nl/zorg-en-ondersteuning/ouder-worden-almelo/cursus-valpreventie-zo-blijft-u-overeind",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "LOES Twente",
+      "url": "https://www.almelo.nl/jeugd-en-onderwijs/veiligheid-en-thuissituatie/scheiden",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Gemeente Losser",
+      "url": "https://www.losser.nl/jeugd-en-gezondheid",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "Impuls",
+      "url": "https://www.impuls-oldenzaal.nl/diensten/huiskamers/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Impuls",
+      "url": "https://www.impuls-oldenzaal.nl/agenda/formulierenservice/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "De Welle",
+      "url": "https://www.stichtingdewelle.nl/wp-content/uploads/2025/05/202520-De-Welle-Wierden-jaarverslag-2024-LR.pdf",
+      "municipalities": [
+        "Wierden"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/biljarten/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/volksdansen/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "Fundament Losser",
+      "url": "https://www.fundamentlosser.nl/agenda/maaklab-2-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-2026-09-30-2026-10-07-2026-10-14-2026-10-21-2026-10-28-2026-11-04-2026-11-11-2026-11-18-2026-11-25-2026-12-02-09-2027-06-16/",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "Fundament Losser",
+      "url": "https://www.fundamentlosser.nl/agenda/",
+      "municipalities": [
+        "Losser"
       ]
     }
   ],
