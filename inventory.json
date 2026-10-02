@@ -25880,6 +25880,452 @@
       "locationSource": "https://www.fundamentlosser.nl/contact/",
       "mapLocationType": "address",
       "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-liberein-ontmoetingscentra",
+      "name": "Liberein · ontmoetingscentra Enschede en Glanerbrug",
+      "source": "https://www.liberein.nl/veelgestelde-vragen-2",
+      "sourceTitle": "Liberein",
+      "municipality": "Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten",
+        "mantelzorg"
+      ],
+      "subthemes": [
+        "geheugenproblemen",
+        "dementie"
+      ],
+      "tags": [
+        "ontmoeten",
+        "dementie",
+        "mantelzorg",
+        "daginvulling"
+      ],
+      "description": "Ontmoetingscentra voor mensen met lichte vergeetachtigheid en hun partners of mantelzorgers. Liberein heeft meerdere locaties in Enschede en Glanerbrug.",
+      "audience": "Mensen met beginnende geheugenproblemen en hun naasten.",
+      "access": "Geen indicatie nodig; neem contact op met Liberein voor de passende locatie.",
+      "costs": "Gesubsidieerd door de gemeente; actuele voorwaarden navragen."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-liberein-wijkrestaurants",
+      "name": "Liberein · restaurants open voor wijkbewoners",
+      "source": "https://www.liberein.nl/faciliteiten/eten-en-drinken/sfeervolle-restaurants",
+      "sourceTitle": "Liberein",
+      "municipality": "Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "maaltijd",
+        "wijk"
+      ],
+      "tags": [
+        "ontmoeten",
+        "maaltijd",
+        "wijkbewoners"
+      ],
+      "description": "Restaurants en grand cafés op meerdere Liberein-locaties waar ook buurt- en wijkbewoners welkom zijn om iets te drinken of samen te eten.",
+      "audience": "Wijkbewoners, ouderen, bewoners en bezoekers.",
+      "access": "Vrij toegankelijk tijdens openingstijden; voor een dagmenu wordt reserveren aangeraden.",
+      "costs": "Consumpties en maaltijden tegen betaling."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-carint-backenhagen",
+      "name": "Carintreggeland Backenhagen · wijkactiviteiten en ontmoeting",
+      "source": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
+      "sourceTitle": "Carintreggeland",
+      "municipality": "Hengelo",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "wijkbewoners",
+        "activiteiten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "wijk",
+        "activiteiten"
+      ],
+      "description": "Wijkbewoners kunnen gebruikmaken van het restaurant en deelnemen aan activiteiten op locatie Backenhagen.",
+      "audience": "Bewoners en wijkbewoners.",
+      "access": "Rechtstreeks bij de locatie; vraag naar het actuele activiteitenprogramma.",
+      "costs": "Afhankelijk van activiteit of consumptie.",
+      "address": "Backenhagenlaan 200",
+      "postcode": "7557KE",
+      "town": "Hengelo",
+      "locationType": "visiting"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-fundament-cultureel",
+      "name": "Fundament Losser · Culturele Ontmoeting",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "cultuur",
+        "ouderen"
+      ],
+      "tags": [
+        "ontmoeten",
+        "cultuur",
+        "ouderen"
+      ],
+      "description": "Terugkerende ontmoeting bij Erve Kraesgenberg voor ouderen met gedeelde interesse in cultuur en gezelligheid.",
+      "audience": "Ouderen in de gemeente Losser.",
+      "access": "Volgens de actuele agenda.",
+      "costs": "Controleer actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-fundament-slechtzienden",
+      "name": "Fundament Losser · ontmoeting voor slechtzienden",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "slechtziend",
+        "lotgenoten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "slechtziend",
+        "lotgenoten"
+      ],
+      "description": "Maandelijkse samenkomst in 't Lossers hoes voor mensen die slechtziend zijn.",
+      "audience": "Inwoners met een visuele beperking.",
+      "access": "Volgens de actuele agenda.",
+      "costs": "Laagdrempelig."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-fundament-mamapapa",
+      "name": "Fundament Losser · MamaPapacafé",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "ouders",
+        "baby",
+        "peuter"
+      ],
+      "tags": [
+        "jeugd",
+        "ouders",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige inloop voor (aanstaande) ouders en verzorgers met kinderen, met ontmoeting en wisselende thema’s.",
+      "audience": "Aanstaande ouders, ouders/verzorgers en jonge kinderen.",
+      "access": "Volgens de actuele agenda.",
+      "costs": "Laagdrempelig."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-fundament-hera",
+      "name": "Fundament Losser · Internationaal restaurant HERA",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "maaltijd",
+        "internationaal"
+      ],
+      "tags": [
+        "ontmoeten",
+        "maaltijd",
+        "culturen"
+      ],
+      "description": "Maandelijkse gezamenlijke maaltijd in Overdinkel, georganiseerd rond internationale gerechten en ontmoeting.",
+      "audience": "Inwoners van Losser en omgeving.",
+      "access": "Volgens de actuele agenda; reserveren kan nodig zijn.",
+      "costs": "Controleer actuele maaltijdprijs."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-fundament-moestuin",
+      "name": "Fundament Losser · gezamenlijke moestuin",
+      "source": "https://www.fundamentlosser.nl/agenda/",
+      "sourceTitle": "Fundament Losser",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten",
+        "bewegen"
+      ],
+      "subthemes": [
+        "moestuin",
+        "gezonde voeding"
+      ],
+      "tags": [
+        "ontmoeten",
+        "moestuin",
+        "gezondheid"
+      ],
+      "description": "Samen tuinieren, bloemen en groente zien groeien en leren over gezonde voeding.",
+      "audience": "Inwoners die samen buiten actief willen zijn.",
+      "access": "Volgens de actuele agenda.",
+      "costs": "Laagdrempelig."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-impuls-soofi",
+      "name": "Impuls · Soofi bewegen en ontmoeten",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls",
+      "municipality": "Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "buiten bewegen",
+        "buurt"
+      ],
+      "tags": [
+        "bewegen",
+        "ontmoeten",
+        "buurt"
+      ],
+      "description": "Vaste laagdrempelige beweeggroep om samen met buurtgenoten buiten actief te zijn.",
+      "audience": "Inwoners van Oldenzaal.",
+      "access": "Volgens de actuele agenda.",
+      "costs": "Controleer actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-impuls-actiefnaschool",
+      "name": "Impuls · Actief na school",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls",
+      "municipality": "Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "jongeren",
+        "naschools"
+      ],
+      "tags": [
+        "jeugd",
+        "jongeren",
+        "activiteit"
+      ],
+      "description": "Naschoolse activiteit voor leerlingen van Twents Carmel College locatie De Thij.",
+      "audience": "Leerlingen van TCC De Thij.",
+      "access": "Volgens de actuele agenda.",
+      "costs": "Laagdrempelig."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-impuls-meidengroep",
+      "name": "Impuls · Meidengroep groep 7 en 8",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/",
+      "sourceTitle": "Impuls",
+      "municipality": "Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "meiden",
+        "groep 7-8"
+      ],
+      "tags": [
+        "jeugd",
+        "meiden",
+        "ontmoeten"
+      ],
+      "description": "Terugkerende meidengroep met ruimte om te praten, nieuwe contacten te maken en samen activiteiten te doen.",
+      "audience": "Meiden uit groep 7 en 8.",
+      "access": "Volgens de actuele agenda.",
+      "costs": "Laagdrempelig.",
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "locationType": "visiting"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-zorgsaam-rank",
+      "name": "ZorgSaam Twenterand · Soos De Rank",
+      "source": "https://www.zorgsaamtwenterand.nl/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipality": "Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "soos",
+        "Den Ham"
+      ],
+      "tags": [
+        "ontmoeten",
+        "soos",
+        "buurt"
+      ],
+      "description": "Gezelligheidsvereniging en ontmoetingsplek voor jong en oud in Den Ham.",
+      "audience": "Inwoners van Den Ham en omgeving.",
+      "access": "Via het actuele programma van ZorgSaam.",
+      "costs": "Controleer actuele bijdrage."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "c-20261002-zorgsaam-loop",
+      "name": "ZorgSaam Twenterand · wandelclub Loop maar raak",
+      "source": "https://www.zorgsaamtwenterand.nl/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "municipality": "Twenterand",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "wandelen",
+        "Den Ham"
+      ],
+      "tags": [
+        "bewegen",
+        "wandelen",
+        "ontmoeten"
+      ],
+      "description": "Wandelclub in Den Ham om samen actief te zijn en anderen te ontmoeten.",
+      "audience": "Inwoners die graag samen wandelen.",
+      "access": "Via het actuele programma van ZorgSaam.",
+      "costs": "Controleer actuele bijdrage."
     }
   ],
   "sources": [
@@ -28823,6 +29269,34 @@
       "url": "https://www.fundamentlosser.nl/agenda/",
       "municipalities": [
         "Losser"
+      ]
+    },
+    {
+      "title": "Liberein",
+      "url": "https://www.liberein.nl/veelgestelde-vragen-2",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Liberein",
+      "url": "https://www.liberein.nl/faciliteiten/eten-en-drinken/sfeervolle-restaurants",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Carintreggeland",
+      "url": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
+      "municipalities": [
+        "Hengelo"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/",
+      "municipalities": [
+        "Twenterand"
       ]
     }
   ],
