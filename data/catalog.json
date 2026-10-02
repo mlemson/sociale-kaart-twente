@@ -9625,9 +9625,9 @@
       "https://www.fundamentlosser.nl/agenda/",
       "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/"
     ],
-    "offerCount": 31,
+    "offerCount": 30,
     "reviewNeeded": 0,
-    "sourceBacked": 26,
+    "sourceBacked": 25,
     "manual": 5,
     "checked": "2026-09-15",
     "offers": [
@@ -10516,62 +10516,6 @@
       },
       {
         "id": "c-20261002-fundament-mamapapa",
-        "title": "MamaPapacafé",
-        "name": "Fundament Losser · MamaPapacafé",
-        "description": "Laagdrempelige inloop voor (aanstaande) ouders en verzorgers met kinderen van 0 tot 4 jaar. Er is ruimte om ervaringen uit te wisselen en vragen te stellen; geregeld sluiten lokale deskundigen aan.",
-        "municipality": "Losser",
-        "municipalities": [
-          "Losser"
-        ],
-        "category": "jeugd",
-        "themes": [
-          "jeugd",
-          "ontmoeten"
-        ],
-        "subthemes": [
-          "ouders",
-          "opvoeden",
-          "0-4 jaar",
-          "inloop"
-        ],
-        "tags": [
-          "ouders",
-          "aanstaande ouders",
-          "baby",
-          "peuter",
-          "opvoeden",
-          "ontmoeten",
-          "inloop"
-        ],
-        "guidePaths": [
-          "onderwijs/opvoeden",
-          "ontmoeten/inloop"
-        ],
-        "guideExclude": false,
-        "audience": "(Aanstaande) ouders/verzorgers en hun kinderen van 0 tot 4 jaar uit de gemeente Losser.",
-        "costs": "Geen kosten genoemd op de bronpagina; deelname is als vrije inloop beschreven.",
-        "access": "Vrij binnenlopen. Elke twee weken op woensdag van 09.30-11.30 uur in 't Lossers Hoes.",
-        "openingHours": "Elke twee weken woensdag 09.30-11.30 uur.",
-        "phone": "053 536 9400",
-        "email": "",
-        "source": "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/",
-        "sourceKind": "first-party",
-        "sourceTitle": "Fundament Losser",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
-        "address": "Raadhuisplein 1",
-        "postcode": "7581AG",
-        "town": "Losser",
-        "lat": 52.26284211,
-        "lon": 7.00588809,
-        "locationType": "visiting",
-        "locationSource": "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/",
-        "locationMunicipality": "Losser",
-        "mapLocationType": "address",
-        "mapPin": true
-      },
-      {
-        "id": "extra-20261002-fundament-mamapapacaf-",
         "title": "MamaPapacafé",
         "name": "Fundament Losser · MamaPapacafé",
         "description": "Laagdrempelige inloop voor (aanstaande) ouders en verzorgers met kinderen van 0 tot 4 jaar. Er is ruimte om ervaringen uit te wisselen en vragen te stellen; geregeld sluiten lokale deskundigen aan.",
