@@ -2906,6 +2906,47 @@
     "catalogOrganizationId": "org-avedan-3bcgcs"
   },
   {
+    "id": "offer-c-20261002-hengelo-berflohoes",
+    "name": "Berflohoes · buurtactiviteiten",
+    "category": "ontmoeten",
+    "address": "Parallelweg LS 42",
+    "postcode": "7553LG",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.2582509,
+    "lon": 6.79963693,
+    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "bewegen",
+      "buurt"
+    ],
+    "subthemes": [
+      "gymnastiek",
+      "bridge",
+      "koffie",
+      "koersbal"
+    ],
+    "guidePaths": [],
+    "guideExclude": false,
+    "description": "Ontmoetingsruimte met terugkerende activiteiten zoals gymnastiek, bridge, koffie, koersbal en sjoelen.",
+    "audience": "Buurtbewoners.",
+    "costs": "Controleer actuele bijdrage.",
+    "access": "Vrij toegankelijk of aanmelden afhankelijk van activiteit.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-berflohoes-1wyniyw"
+  },
+  {
     "id": "offer-candidate-20261002-bieb-enschede-computerspreekuur",
     "name": "Bibliotheek Enschede-Haaksbergen · Computerspreekuur",
     "category": "taal",
@@ -3072,6 +3113,48 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-bij-mozart-1lib7zh"
+  },
+  {
+    "id": "offer-c-20261002-carint-backenhagen",
+    "name": "Carintreggeland Backenhagen · wijkactiviteiten en ontmoeting",
+    "category": "ontmoeten",
+    "address": "Backenhagenlaan 200",
+    "postcode": "7557KE",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.27345879,
+    "lon": 6.80657924,
+    "source": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "wijk",
+      "activiteiten"
+    ],
+    "subthemes": [
+      "wijkbewoners",
+      "activiteiten"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Wijkbewoners kunnen gebruikmaken van het restaurant en deelnemen aan activiteiten op locatie Backenhagen.",
+    "audience": "Bewoners en wijkbewoners.",
+    "costs": "Afhankelijk van activiteit of consumptie.",
+    "access": "Rechtstreeks bij de locatie; vraag naar het actuele activiteitenprogramma.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-carintreggeland-backenhagen-bd5hxm"
   },
   {
     "id": "offer-extra-20261002-chessclub-lumen",
@@ -3866,6 +3949,47 @@
     "catalogOrganizationId": "org-de-welle-10mgx5x"
   },
   {
+    "id": "offer-c-20261002-hengelo-windhoek",
+    "name": "De Windhoek · buurtactiviteiten",
+    "category": "ontmoeten",
+    "address": "Paul Krugerstraat 52",
+    "postcode": "7551GZ",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.26763249,
+    "lon": 6.79912468,
+    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "buurt",
+      "spel",
+      "creatief"
+    ],
+    "subthemes": [
+      "koffie",
+      "spel",
+      "creatief"
+    ],
+    "guidePaths": [],
+    "guideExclude": false,
+    "description": "Woonlocatie voor ouderen met activiteiten die ook toegankelijk zijn voor buurtbewoners, waaronder koffie, kaarten, spel en creatief aanbod.",
+    "audience": "Buurtbewoners.",
+    "costs": "Controleer actuele bijdrage.",
+    "access": "Rechtstreeks contact met de locatie.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-de-windhoek-ubg8al"
+  },
+  {
     "id": "offer-extra-20261002-enschede-ontmoetingscentrum-t-ribbet",
     "name": "Enschede · Ontmoetingscentrum 't Ribbet",
     "category": "ontmoeten",
@@ -4028,6 +4152,46 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-enschede-1e7f7fw"
+  },
+  {
+    "id": "offer-c-20261002-hengelo-esthia-open",
+    "name": "ESTHIA · creatieve middag zonder dagbestedingsindicatie",
+    "category": "ontmoeten",
+    "address": "Bevrijderslaantje 6",
+    "postcode": "7551KT",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.26708823,
+    "lon": 6.79012139,
+    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "creatief",
+      "senioren",
+      "zonder indicatie"
+    ],
+    "subthemes": [
+      "creatief",
+      "senioren"
+    ],
+    "guidePaths": [],
+    "guideExclude": false,
+    "description": "Creatieve middag bij ESTHIA voor senioren; voor deze activiteit is geen dagbestedingsindicatie nodig.",
+    "audience": "Senioren.",
+    "costs": "Controleer actuele bijdrage.",
+    "access": "Aanmelden is nodig.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-esthia-pk4yx3"
   },
   {
     "id": "offer-extra-20261002-familiehuis-familiehuis-enschede-west",
@@ -5377,6 +5541,87 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-impuls-1mtsxy1"
+  },
+  {
+    "id": "offer-c-20261002-hengelo-bloemenbuurt",
+    "name": "Ontmoetingsgroep Bloemenbuurt",
+    "category": "ontmoeten",
+    "address": "Geerdinksweg 36A",
+    "postcode": "7555DN",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.26004038,
+    "lon": 6.7758446,
+    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "senioren",
+      "wijk"
+    ],
+    "subthemes": [
+      "senioren",
+      "wijk"
+    ],
+    "guidePaths": [],
+    "guideExclude": false,
+    "description": "Wekelijkse ontmoetingsgroep in woonzorgcentrum Het Woolde, gericht op laagdrempelig sociaal contact.",
+    "audience": "Ouderen en buurtbewoners.",
+    "costs": "Laagdrempelig.",
+    "access": "Neem contact op met Wijkracht voor actuele informatie.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-informatiewijzer-hengelo-1gn59de"
+  },
+  {
+    "id": "offer-c-20261002-hengelo-drienerstede",
+    "name": "Ontmoetingsruimte Drienerstede",
+    "category": "ontmoeten",
+    "address": "Mozartlaan 135-17",
+    "postcode": "7557DN",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.26977379,
+    "lon": 6.81624658,
+    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "senioren",
+      "spel"
+    ],
+    "subthemes": [
+      "muziek",
+      "spel",
+      "voorlichting"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Ontmoetingsruimte met onder meer muziek, spelletjes, voorlichting en een vaste ontmoetingsgroep.",
+    "audience": "Buurtbewoners en senioren.",
+    "costs": "Controleer actuele bijdrage.",
+    "access": "Volgens lokaal programma.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-informatiewijzer-hengelo-1gn59de"
   },
   {
     "id": "offer-candidate-729433f217b2a499",
@@ -10789,39 +11034,6 @@
     "catalogOrganizationId": "org-avedan-welzijn-1q5jfr5"
   },
   {
-    "id": "catalog-org-berflohoes-1wyniyw",
-    "name": "Berflohoes",
-    "category": "ontmoeten",
-    "address": "Carl Muckstraat 21",
-    "postcode": "7558EX",
-    "town": "Hengelo",
-    "municipality": "Hengelo",
-    "serviceMunicipalities": [
-      "Hengelo"
-    ],
-    "lat": 52.28451127,
-    "lon": 6.83064879,
-    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten",
-      "bewegen"
-    ],
-    "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Berflohoes. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
-    "audience": "Buurtbewoners.",
-    "costs": "Controleer actuele bijdrage.",
-    "access": "Vrij toegankelijk of aanmelden afhankelijk van activiteit.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "source-address",
-    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
-    "mapLocationType": "service-area",
-    "physicalLocation": false,
-    "catalogOrganizationId": "org-berflohoes-1wyniyw"
-  },
-  {
     "id": "catalog-org-bewonersinitiatief-de-hagedoorn-7oa9bg",
     "name": "Bewonersinitiatief de Hagedoorn",
     "category": "advies",
@@ -11012,38 +11224,6 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-buurtbemiddeling-wierden-uhm64j"
-  },
-  {
-    "id": "catalog-org-carintreggeland-backenhagen-bd5hxm",
-    "name": "Carintreggeland Backenhagen",
-    "category": "ontmoeten",
-    "address": "Backenhagenlaan 200",
-    "postcode": "7557KE",
-    "town": "Hengelo",
-    "municipality": "Hengelo",
-    "serviceMunicipalities": [
-      "Hengelo"
-    ],
-    "lat": 52.27345879,
-    "lon": 6.80657924,
-    "source": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten"
-    ],
-    "subthemes": [],
-    "description": "Locatie voor Carintreggeland Backenhagen. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
-    "audience": "Bewoners en wijkbewoners.",
-    "costs": "Afhankelijk van activiteit of consumptie.",
-    "access": "Rechtstreeks bij de locatie; vraag naar het actuele activiteitenprogramma.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
-    "mapLocationType": "service-area",
-    "physicalLocation": false,
-    "catalogOrganizationId": "org-carintreggeland-backenhagen-bd5hxm"
   },
   {
     "id": "catalog-org-christelijke-mantelzorghulp-rijssen-1kh8uvg",
@@ -11307,38 +11487,6 @@
     "catalogOrganizationId": "org-de-voorzieningenwijzer-s8090y"
   },
   {
-    "id": "catalog-org-de-windhoek-ubg8al",
-    "name": "De Windhoek",
-    "category": "ontmoeten",
-    "address": "Paul Krugerstraat 52",
-    "postcode": "7551GZ",
-    "town": "Hengelo",
-    "municipality": "Hengelo",
-    "serviceMunicipalities": [
-      "Hengelo"
-    ],
-    "lat": 52.26763249,
-    "lon": 6.79912468,
-    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten"
-    ],
-    "subthemes": [],
-    "description": "Locatie voor De Windhoek. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
-    "audience": "Buurtbewoners.",
-    "costs": "Controleer actuele bijdrage.",
-    "access": "Rechtstreeks contact met de locatie.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
-    "mapLocationType": "service-area",
-    "physicalLocation": false,
-    "catalogOrganizationId": "org-de-windhoek-ubg8al"
-  },
-  {
     "id": "catalog-org-de-zonnebloem-afdeling-almelo-qbcwt8",
     "name": "De Zonnebloem - afdeling Almelo",
     "category": "ontmoeten",
@@ -11401,38 +11549,6 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-de-zonnebloem-afd-wierden-1wn4tgi"
-  },
-  {
-    "id": "catalog-org-esthia-pk4yx3",
-    "name": "ESTHIA",
-    "category": "ontmoeten",
-    "address": "Bevrijderslaantje 6",
-    "postcode": "7551KT",
-    "town": "Hengelo",
-    "municipality": "Hengelo",
-    "serviceMunicipalities": [
-      "Hengelo"
-    ],
-    "lat": 52.26708823,
-    "lon": 6.79012139,
-    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten"
-    ],
-    "subthemes": [],
-    "description": "Locatie voor ESTHIA. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
-    "audience": "Senioren.",
-    "costs": "Controleer actuele bijdrage.",
-    "access": "Aanmelden is nodig.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
-    "mapLocationType": "service-area",
-    "physicalLocation": false,
-    "catalogOrganizationId": "org-esthia-pk4yx3"
   },
   {
     "id": "catalog-org-evenmens-wierden-6t5uzi",
@@ -11785,38 +11901,6 @@
     "mapLocationType": "service-area",
     "physicalLocation": false,
     "catalogOrganizationId": "org-humanitas-twente-1slc1kw"
-  },
-  {
-    "id": "catalog-org-informatiewijzer-hengelo-1gn59de",
-    "name": "Informatiewijzer Hengelo",
-    "category": "ontmoeten",
-    "address": "Mozartlaan 135-17",
-    "postcode": "7557DN",
-    "town": "Hengelo",
-    "municipality": "Hengelo",
-    "serviceMunicipalities": [
-      "Hengelo"
-    ],
-    "lat": 52.26977379,
-    "lon": 6.81624658,
-    "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
-    "checked": "2026-10-02",
-    "tags": [
-      "ontmoeten"
-    ],
-    "subthemes": [],
-    "description": "Locatie voor Informatiewijzer Hengelo. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
-    "audience": "Ouderen en buurtbewoners.",
-    "costs": "Laagdrempelig.",
-    "access": "Neem contact op met Wijkracht voor actuele informatie.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
-    "mapLocationType": "service-area",
-    "physicalLocation": false,
-    "catalogOrganizationId": "org-informatiewijzer-hengelo-1gn59de"
   },
   {
     "id": "catalog-org-inlooppunt-de-open-deur-15mg6al",

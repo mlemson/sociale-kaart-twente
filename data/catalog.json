@@ -4307,7 +4307,7 @@
         "id": "c-20261002-hengelo-berflohoes",
         "title": "buurtactiviteiten",
         "name": "Berflohoes · buurtactiviteiten",
-        "description": "Wekelijkse activiteiten zoals gymnastiek, bridge, koffiedrinken, koersbal en sjoelen.",
+        "description": "Ontmoetingsruimte met terugkerende activiteiten zoals gymnastiek, bridge, koffie, koersbal en sjoelen.",
         "municipality": "Hengelo",
         "municipalities": [
           "Hengelo"
@@ -4341,26 +4341,26 @@
         "sourceTitle": "Informatiewijzer Hengelo",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Carl Muckstraat 21",
-        "postcode": "7558EX",
+        "address": "Parallelweg LS 42",
+        "postcode": "7553LG",
         "town": "Hengelo",
-        "lat": 52.28451127,
-        "lon": 6.83064879,
-        "locationType": "source-address",
+        "lat": 52.2582509,
+        "lon": 6.79963693,
+        "locationType": "visiting",
         "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
     "location": {
-      "address": "Carl Muckstraat 21",
-      "postcode": "7558EX",
+      "address": "Parallelweg LS 42",
+      "postcode": "7553LG",
       "town": "Hengelo",
-      "lat": 52.28451127,
-      "lon": 6.83064879,
+      "lat": 52.2582509,
+      "lon": 6.79963693,
       "locationMunicipality": "Hengelo (O)",
-      "locationType": "source-address",
+      "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "service-area"
     },
@@ -5855,7 +5855,7 @@
         "locationSource": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
     "location": {
@@ -8579,7 +8579,7 @@
         "id": "c-20261002-hengelo-windhoek",
         "title": "buurtactiviteiten",
         "name": "De Windhoek · buurtactiviteiten",
-        "description": "Activiteiten voor buurtbewoners, zoals kaarten, koffie, gezelschapsspellen en een creatieve club.",
+        "description": "Woonlocatie voor ouderen met activiteiten die ook toegankelijk zijn voor buurtbewoners, waaronder koffie, kaarten, spel en creatief aanbod.",
         "municipality": "Hengelo",
         "municipalities": [
           "Hengelo"
@@ -8621,7 +8621,7 @@
         "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
     "location": {
@@ -9080,7 +9080,7 @@
         "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
     "location": {
@@ -15869,7 +15869,7 @@
         "id": "c-20261002-hengelo-bloemenbuurt",
         "title": "Ontmoetingsgroep Bloemenbuurt",
         "name": "Ontmoetingsgroep Bloemenbuurt",
-        "description": "Wekelijkse ontmoetingsgroep in woonzorgcentrum Het Woolde.",
+        "description": "Wekelijkse ontmoetingsgroep in woonzorgcentrum Het Woolde, gericht op laagdrempelig sociaal contact.",
         "municipality": "Hengelo",
         "municipalities": [
           "Hengelo"
@@ -15900,16 +15900,16 @@
         "sourceTitle": "Informatiewijzer Hengelo",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Mozartlaan 135-17",
-        "postcode": "7557DN",
+        "address": "Geerdinksweg 36A",
+        "postcode": "7555DN",
         "town": "Hengelo",
-        "lat": 52.26977379,
-        "lon": 6.81624658,
+        "lat": 52.26004038,
+        "lon": 6.7758446,
         "locationType": "visiting",
         "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       },
       {
         "id": "c-20261002-hengelo-drienerstede",
@@ -15958,15 +15958,15 @@
         "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
     "location": {
-      "address": "Mozartlaan 135-17",
-      "postcode": "7557DN",
+      "address": "Geerdinksweg 36A",
+      "postcode": "7555DN",
       "town": "Hengelo",
-      "lat": 52.26977379,
-      "lon": 6.81624658,
+      "lat": 52.26004038,
+      "lon": 6.7758446,
       "locationMunicipality": "Hengelo (O)",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",

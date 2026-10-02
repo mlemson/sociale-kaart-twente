@@ -24577,10 +24577,13 @@
       "postcode": "7551KT",
       "town": "Hengelo",
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.26708823,
+      "lon": 6.79012139,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -24614,14 +24617,17 @@
       "audience": "Ouderen en buurtbewoners.",
       "access": "Neem contact op met Wijkracht voor actuele informatie.",
       "costs": "Laagdrempelig.",
-      "address": "Geerdinksweg 130",
+      "address": "Geerdinksweg 36A",
       "postcode": "7555DN",
       "town": "Hengelo",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.26004038,
+      "lon": 6.7758446,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -24659,13 +24665,16 @@
       "postcode": "7556LN",
       "town": "Hengelo",
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
       "guidePaths": [
         "ontmoeten/inloop"
       ],
-      "mapPin": false
+      "mapPin": false,
+      "lat": 52.27554192,
+      "lon": 6.79233313,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -24701,14 +24710,17 @@
       "audience": "Buurtbewoners.",
       "access": "Rechtstreeks contact met de locatie.",
       "costs": "Controleer actuele bijdrage.",
-      "address": "Paul Krugerstraat 708",
+      "address": "Paul Krugerstraat 52",
       "postcode": "7551GZ",
       "town": "Hengelo",
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.26763249,
+      "lon": 6.79912468,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -24748,11 +24760,14 @@
       "address": "Parallelweg LS 42",
       "postcode": "7553LG",
       "town": "Hengelo",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.2582509,
+      "lon": 6.79963693,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -24791,13 +24806,16 @@
       "postcode": "7557DN",
       "town": "Hengelo",
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
       "guidePaths": [
         "ontmoeten/inloop"
       ],
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.26977379,
+      "lon": 6.81624658,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -26805,14 +26823,17 @@
       "postcode": "7557KE",
       "town": "Hengelo",
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "locationSource": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
       "mapLocationType": "address",
       "guidePaths": [
         "ontmoeten/inloop",
         "meedoen/daginvulling"
       ],
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.27345879,
+      "lon": 6.80657924,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
