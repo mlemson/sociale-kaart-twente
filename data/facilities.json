@@ -3546,6 +3546,50 @@
     "catalogOrganizationId": "org-dagontmoeting-t-kruispunt-16ee16l"
   },
   {
+    "id": "offer-extra-20261002-haaksbergen-jordaan-senioren",
+    "name": "De Jordaan / De Bouwmeester · seniorenontmoeting",
+    "category": "ontmoeten",
+    "address": "Vincentstraat 7",
+    "postcode": "7481LB",
+    "town": "Haaksbergen",
+    "municipality": "Haaksbergen",
+    "serviceMunicipalities": [
+      "Haaksbergen"
+    ],
+    "lat": 52.15737693,
+    "lon": 6.74115158,
+    "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "senioren",
+      "samen eten",
+      "Haaksbergen"
+    ],
+    "subthemes": [
+      "senioren",
+      "samen eten",
+      "sociaal contact"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "ontmoeten/samen"
+    ],
+    "guideExclude": false,
+    "description": "Ontmoetingsactiviteit voor senioren in recreatieruimte De Jordaan van appartementencomplex De Bouwmeester, met koffie, activiteit en warme maaltijd.",
+    "audience": "Senioren in Haaksbergen.",
+    "costs": "Kleine bijdrage inclusief koffie/thee en maaltijd.",
+    "access": "Woensdagochtend; aanmelden via de Noaberpoort. Op dinsdag is er ook een open tafel.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-de-jordaan-de-bouwmeester-1awpxtf"
+  },
+  {
     "id": "offer-extra-20261002-haaksbergen-handwerkclub-kappen",
     "name": "De Kappen · Handwerkclub",
     "category": "ontmoeten",
@@ -3633,6 +3677,50 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-de-posten-1ql4a8r"
+  },
+  {
+    "id": "offer-extra-20261002-hellendoorn-de-ruimte-daarle",
+    "name": "De Ruimte Daarle · dorpsactiviteiten",
+    "category": "ontmoeten",
+    "address": "Dalvoordeweg 12",
+    "postcode": "7688PT",
+    "town": "Daarle",
+    "municipality": "Hellendoorn",
+    "serviceMunicipalities": [
+      "Hellendoorn"
+    ],
+    "lat": 52.43608408,
+    "lon": 6.53719836,
+    "source": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "dorpshuis",
+      "koersbal",
+      "Daarle"
+    ],
+    "subthemes": [
+      "dorpshuis",
+      "bewegen",
+      "sociaal contact"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "ontmoeten/bewegen"
+    ],
+    "guideExclude": false,
+    "description": "Dorps- en ontmoetingslocatie in Daarle waar onder meer terugkerende activiteiten van De Welle plaatsvinden, zoals koersbal.",
+    "audience": "Inwoners van Daarle en omgeving.",
+    "costs": "Verschilt per activiteit; koersbal is tegen een kleine maandbijdrage.",
+    "access": "Volgens de actuele activiteitenagenda.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-de-ruimte-daarle-1f2m4jl"
   },
   {
     "id": "offer-extra-20261002-viermarken-algemene-voorziening",
@@ -4220,6 +4308,49 @@
     "catalogOrganizationId": "org-de-welle-10mgx5x"
   },
   {
+    "id": "offer-extra-20261002-haaksbergen-wiedenhof-koffie",
+    "name": "De Wiedenhof · vrije koffie-inloop",
+    "category": "ontmoeten",
+    "address": "Wiedenbroeksingel 4",
+    "postcode": "7481BT",
+    "town": "Haaksbergen",
+    "municipality": "Haaksbergen",
+    "serviceMunicipalities": [
+      "Haaksbergen"
+    ],
+    "lat": 52.15996843,
+    "lon": 6.75261606,
+    "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "gratis",
+      "koffie",
+      "Haaksbergen"
+    ],
+    "subthemes": [
+      "koffie",
+      "senioren",
+      "sociaal contact"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Locatie waar buurtbewoners volgens de Informatiewijzer dagelijks welkom zijn om gratis koffie of thee te drinken en anderen te ontmoeten.",
+    "audience": "Inwoners die behoefte hebben aan een laagdrempelig contactmoment.",
+    "costs": "Gratis koffie of thee volgens de Informatiewijzer.",
+    "access": "Dagelijks toegankelijk voor koffie of thee volgens de Informatiewijzer.",
+    "openingHours": "",
+    "phone": "0900 9200",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-de-wiedenhof-12wmxl5"
+  },
+  {
     "id": "offer-c-20261002-hengelo-windhoek",
     "name": "De Windhoek · buurtactiviteiten",
     "category": "ontmoeten",
@@ -4259,6 +4390,94 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-de-windhoek-ubg8al"
+  },
+  {
+    "id": "offer-extra-20261002-hellendoorn-veldkamp-haarle",
+    "name": "Dorpshuis De Veldkamp Haarle · ontmoeting en activiteiten",
+    "category": "ontmoeten",
+    "address": "Veldkampsweide 3",
+    "postcode": "7448RB",
+    "town": "Haarle",
+    "municipality": "Hellendoorn",
+    "serviceMunicipalities": [
+      "Hellendoorn"
+    ],
+    "lat": 52.35956931,
+    "lon": 6.37659895,
+    "source": "https://haarle.com/wonen-in-haarle/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "dorpshuis",
+      "bewegen",
+      "Haarle"
+    ],
+    "subthemes": [
+      "dorpshuis",
+      "bewegen",
+      "sociaal contact"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "ontmoeten/bewegen",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Dorpshuis in Haarle waar sport, cultuur, verenigingen en sociale activiteiten samenkomen.",
+    "audience": "Inwoners van Haarle en omgeving.",
+    "costs": "Verschilt per activiteit.",
+    "access": "Activiteiten volgens het programma van het dorpshuis en lokale organisaties.",
+    "openingHours": "",
+    "phone": "06 17443691",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://haarle.com/wonen-in-haarle/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-dorpshuis-de-veldkamp-haarle-7tm5uk"
+  },
+  {
+    "id": "offer-extra-20261002-dinkelland-emters-hoeskamer",
+    "name": "Emters Hoeskamer · sociaal inloopcafé Ootmarsum",
+    "category": "ontmoeten",
+    "address": "Profietstraat 4A",
+    "postcode": "7631GR",
+    "town": "Ootmarsum",
+    "municipality": "Dinkelland",
+    "serviceMunicipalities": [
+      "Dinkelland"
+    ],
+    "lat": 52.40679161,
+    "lon": 6.90269754,
+    "source": "https://bibliotheekdinkelland.op-shop.nl/1295/emters-hoeskamer/24-09-2026",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "inloop",
+      "gratis",
+      "Ootmarsum"
+    ],
+    "subthemes": [
+      "inloop",
+      "koffie",
+      "sociaal contact"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Vrijblijvend sociaal inloopcafé in Bibliotheek Ootmarsum voor koffie, een praatje, een spelletje of een luisterend oor.",
+    "audience": "Volwassen inwoners die behoefte hebben aan gezelligheid, contact of een luisterend oor.",
+    "costs": "Vrije inloop; eventuele consumptiekosten zijn niet vermeld.",
+    "access": "Elke donderdag 10.00-12.00 uur; vrijblijvend binnenlopen.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://bibliotheekdinkelland.op-shop.nl/1295/emters-hoeskamer/24-09-2026",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-emters-hoeskamer-18glzg"
   },
   {
     "id": "offer-extra-20261002-enschede-ontmoetingscentrum-t-ribbet",
@@ -5078,7 +5297,7 @@
     "phone": "",
     "email": "",
     "locationType": "visiting",
-    "locationSource": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
+    "locationSource": "https://www.kulturhusborne.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-gemeente-borne-jntns1"
@@ -5186,6 +5405,94 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-gemeente-rijssen-holten-1q3kn8s"
+  },
+  {
+    "id": "offer-extra-20261002-hellendoorn-noaberhuus",
+    "name": "Het Noaberhuus Hellendoorn · ontmoeten en activiteiten",
+    "category": "ontmoeten",
+    "address": "Dorpsstraat 15",
+    "postcode": "7447CM",
+    "town": "Hellendoorn",
+    "municipality": "Hellendoorn",
+    "serviceMunicipalities": [
+      "Hellendoorn"
+    ],
+    "lat": 52.38724091,
+    "lon": 6.45016213,
+    "source": "https://hellendoorn.smartmap.nl/rubriek/3631/buurtorganisaties",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "buurthuis",
+      "samen eten",
+      "Hellendoorn"
+    ],
+    "subthemes": [
+      "buurthuis",
+      "samen eten",
+      "cultuur"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "ontmoeten/samen",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Buurthuis in Hellendoorn met sociale en culturele activiteiten; De Welle organiseert er onder meer een terugkerend samen-eetmoment.",
+    "audience": "Inwoners van Hellendoorn en omgeving.",
+    "costs": "Verschilt per activiteit; sommige activiteiten zijn laagdrempelig of gratis.",
+    "access": "Activiteiten volgens de actuele agenda.",
+    "openingHours": "",
+    "phone": "06 18306169",
+    "email": "noaberhuushellendoorn@gmail.com",
+    "locationType": "visiting",
+    "locationSource": "https://hellendoorn.smartmap.nl/rubriek/3631/buurtorganisaties",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-het-noaberhuus-hellendoorn-iapdqg"
+  },
+  {
+    "id": "offer-extra-20261002-haaksbergen-saalmerink-koffie",
+    "name": "Het Saalmerink · vrije koffie-inloop",
+    "category": "ontmoeten",
+    "address": "Klaashuisstraat 9h-a001",
+    "postcode": "7481EN",
+    "town": "Haaksbergen",
+    "municipality": "Haaksbergen",
+    "serviceMunicipalities": [
+      "Haaksbergen"
+    ],
+    "lat": 52.15357565,
+    "lon": 6.7485007,
+    "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "gratis",
+      "koffie",
+      "Haaksbergen"
+    ],
+    "subthemes": [
+      "koffie",
+      "senioren",
+      "sociaal contact"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Woonzorglocatie waar ook buurtbewoners volgens de Informatiewijzer dagelijks welkom zijn om gratis koffie of thee te drinken.",
+    "audience": "Inwoners die laagdrempelig anderen willen ontmoeten.",
+    "costs": "Gratis koffie of thee volgens de Informatiewijzer.",
+    "access": "Dagelijks toegankelijk voor koffie of thee volgens de Informatiewijzer.",
+    "openingHours": "",
+    "phone": "0900 9200",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-het-saalmerink-tvopj3"
   },
   {
     "id": "offer-extra-20261002-hof-hofkerk-inloop",
@@ -6326,6 +6633,186 @@
     "catalogOrganizationId": "org-kracht-van-verenigingen-hd7qmu"
   },
   {
+    "id": "offer-extra-20261002-hellendoorn-trefpunt-daarlerveen",
+    "name": "Kulturhus 't Trefpunt Daarlerveen · ontmoeting en activiteiten",
+    "category": "ontmoeten",
+    "address": "Gerhard Nijlandstraat 2",
+    "postcode": "7687AR",
+    "town": "Daarlerveen",
+    "municipality": "Hellendoorn",
+    "serviceMunicipalities": [
+      "Hellendoorn"
+    ],
+    "lat": 52.44156433,
+    "lon": 6.57786583,
+    "source": "https://hellendoorn.smartmap.nl/rubriek/3631/buurtorganisaties",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "kulturhus",
+      "bewegen",
+      "Daarlerveen"
+    ],
+    "subthemes": [
+      "kulturhus",
+      "bewegen",
+      "verenigingen"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "ontmoeten/bewegen",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Kulturhus in Daarlerveen met terugkerende verenigings-, beweeg- en ontmoetingsactiviteiten.",
+    "audience": "Inwoners van Daarlerveen en omgeving.",
+    "costs": "Verschilt per activiteit.",
+    "access": "Activiteiten volgens het programma van het Kulturhus en De Welle.",
+    "openingHours": "",
+    "phone": "0546 643904",
+    "email": "info@trefpuntdaarlerveen.nl",
+    "locationType": "visiting",
+    "locationSource": "https://hellendoorn.smartmap.nl/rubriek/3631/buurtorganisaties",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-kulturhus-t-trefpunt-daarlerveen-1iowpmq"
+  },
+  {
+    "id": "offer-extra-20261002-wierden-akkerhus",
+    "name": "Kulturhus Akkerhus Ypelo · ontmoetingscentrum",
+    "category": "ontmoeten",
+    "address": "Ypeloschoolweg 2b",
+    "postcode": "7468RE",
+    "town": "Enter",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.32369848,
+    "lon": 6.59144598,
+    "source": "https://www.akkerhus.nl/akkernoabers",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "kulturhus",
+      "55+",
+      "Ypelo"
+    ],
+    "subthemes": [
+      "kulturhus",
+      "55+",
+      "buurtactiviteiten"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Multifunctionele ontmoetingsplek voor Rectum en Ypelo met activiteiten voor jong en oud, waaronder buurtmiddagen, spel, bewegen en workshops.",
+    "audience": "Inwoners van Rectum-Ypelo en omgeving; er is onder meer specifiek aanbod voor 55-plussers.",
+    "costs": "Verschilt per activiteit; exposities zijn gratis toegankelijk.",
+    "access": "Geopend tijdens bijeenkomsten en workshops; diverse algemene activiteiten zijn voor iedereen toegankelijk.",
+    "openingHours": "",
+    "phone": "06 12288570",
+    "email": "beheerder@akkerhus.nl",
+    "locationType": "visiting",
+    "locationSource": "https://www.akkerhus.nl/akkernoabers",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-kulturhus-akkerhus-ypelo-16ry9rt"
+  },
+  {
+    "id": "offer-extra-20261002-wierden-kulturhus-hoge-hexel",
+    "name": "Kulturhus Hoge Hexel · ontmoetingsplek",
+    "category": "ontmoeten",
+    "address": "Nieuwe Schoolweg 5",
+    "postcode": "7645AV",
+    "town": "Hoge Hexel",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.39568839,
+    "lon": 6.5582816,
+    "source": "https://kulturhushogehexel.nl/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "kulturhus",
+      "sport",
+      "Hoge Hexel"
+    ],
+    "subthemes": [
+      "kulturhus",
+      "verenigingen",
+      "sport"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "ontmoeten/bewegen",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Ontmoetingsplek voor jong tot oud in Hoge Hexel met ouderensoos, workshops, sport, biljart, fietsclub, verenigingen en andere activiteiten.",
+    "audience": "Inwoners van Hoge Hexel en omgeving.",
+    "costs": "Verschilt per activiteit.",
+    "access": "Activiteiten volgens de agenda; iedereen is welkom bij passend openbaar aanbod.",
+    "openingHours": "",
+    "phone": "0546 697700",
+    "email": "info@kulturhushogehexel.nl",
+    "locationType": "visiting",
+    "locationSource": "https://kulturhushogehexel.nl/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-kulturhus-hoge-hexel-1iczozv"
+  },
+  {
+    "id": "offer-extra-20261002-wierden-kulturhus-irene",
+    "name": "Kulturhus Irene Notter-Zuna · ontmoetingscentrum",
+    "category": "ontmoeten",
+    "address": "Van Kregtenweg 9",
+    "postcode": "7467PL",
+    "town": "Notter",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.33389305,
+    "lon": 6.52017633,
+    "source": "https://www.kulturhus-irene.nl/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "kulturhus",
+      "sport",
+      "Notter",
+      "Zuna"
+    ],
+    "subthemes": [
+      "kulturhus",
+      "verenigingen",
+      "sport"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "ontmoeten/bewegen",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Multifunctioneel centrum voor sport, verenigingen, voorstellingen en andere ontmoetingsactiviteiten in Notter-Zuna.",
+    "audience": "Inwoners van Notter, Zuna en omgeving.",
+    "costs": "Verschilt per activiteit.",
+    "access": "Activiteiten volgens het programma; de accommodatie wordt door lokale verenigingen en initiatieven gebruikt.",
+    "openingHours": "",
+    "phone": "0548 514342",
+    "email": "info@kulturhus-irene.nl",
+    "locationType": "visiting",
+    "locationSource": "https://www.kulturhus-irene.nl/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-kulturhus-irene-notter-zuna-sa2tg6"
+  },
+  {
     "id": "offer-extra-20261002-hellendoorn-kulturhus-kruidenwijk",
     "name": "Kulturhus Kruidenwijk · wijkactiviteiten en ontmoeting",
     "category": "ontmoeten",
@@ -7322,6 +7809,49 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-oecumenisch-citypastoraat-enschede-1ctcbnl"
+  },
+  {
+    "id": "offer-extra-20261002-hellendoorn-ons-erf-nijverdal",
+    "name": "Ons Erf Nijverdal · buurthuis en ontmoeting",
+    "category": "ontmoeten",
+    "address": "Koninginnestraat 18",
+    "postcode": "7442SG",
+    "town": "Nijverdal",
+    "municipality": "Hellendoorn",
+    "serviceMunicipalities": [
+      "Hellendoorn"
+    ],
+    "lat": 52.35946051,
+    "lon": 6.47284056,
+    "source": "https://www.dewelledoet.nl/activiteiten/574",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "buurthuis",
+      "biljart",
+      "Nijverdal"
+    ],
+    "subthemes": [
+      "buurthuis",
+      "spel",
+      "sociaal contact"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Buurthuis in Nijverdal waar onder meer meerdere keren per week de biljartclub en andere sociale activiteiten samenkomen.",
+    "audience": "Volwassen inwoners die anderen willen ontmoeten rond activiteiten.",
+    "costs": "Verschilt per activiteit.",
+    "access": "Activiteiten volgens de actuele agenda.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.dewelledoet.nl/activiteiten/574",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-ons-erf-nijverdal-w4ypq5"
   },
   {
     "id": "offer-extra-20261002-ontmoetingsplek-sportkantine-de-brug-glanerbrug",
@@ -8615,15 +9145,58 @@
     "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
   },
   {
-    "id": "offer-extra-20261002-dinkelland-open-eettafel-reutum",
+    "id": "offer-extra-20261002-dinkelland-open-eettafel-ootmarsum",
+    "name": "Sociaal, dat werkt! · Open Eettafel Ootmarsum",
+    "category": "ontmoeten",
+    "address": "Laagsestraat 4",
+    "postcode": "7631AM",
+    "town": "Ootmarsum",
+    "municipality": "Dinkelland",
+    "serviceMunicipalities": [
+      "Dinkelland"
+    ],
+    "lat": 52.41117001,
+    "lon": 6.90228848,
+    "source": "https://swtd.nl/events/open-eettafel-ootmarsum-met-spel/var/ri-6.l-L1/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "samen eten",
+      "senioren",
+      "Ootmarsum"
+    ],
+    "subthemes": [
+      "samen eten",
+      "senioren",
+      "sociaal contact"
+    ],
+    "guidePaths": [
+      "ontmoeten/samen"
+    ],
+    "guideExclude": false,
+    "description": "Terugkerende open eettafel in Het Damast in Ootmarsum, met driegangenmaaltijd, ontmoeting en ruimte voor een praatje.",
+    "audience": "Inwoners die graag samen eten en nieuwe of bestaande contacten willen onderhouden.",
+    "costs": "Gezonde maaltijd tegen een kleine bijdrage.",
+    "access": "Volgens de actuele SWTD-agenda.",
+    "openingHours": "",
+    "phone": "085 0479 400",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://swtd.nl/events/open-eettafel-ootmarsum-met-spel/var/ri-6.l-L1/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+  },
+  {
+    "id": "offer-extra-20261002-tubbergen-open-eettafel-reutum",
     "name": "Sociaal, dat werkt! · Open Eettafel Reutum",
     "category": "ontmoeten",
     "address": "Kerkstraat 78",
     "postcode": "7667PZ",
     "town": "Reutum",
-    "municipality": "Dinkelland",
+    "municipality": "Tubbergen",
     "serviceMunicipalities": [
-      "Dinkelland"
+      "Tubbergen"
     ],
     "lat": 52.39113819,
     "lon": 6.84545193,
@@ -8653,8 +9226,8 @@
     "email": "",
     "locationType": "visiting",
     "locationSource": "https://swtd.nl/agenda/",
-    "mapLocationType": "service-area",
-    "physicalLocation": false,
+    "mapLocationType": "address",
+    "physicalLocation": true,
     "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
   },
   {
@@ -8696,6 +9269,49 @@
     "email": "",
     "locationType": "visiting",
     "locationSource": "https://swtd.nl/agenda/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+  },
+  {
+    "id": "offer-extra-20261002-dinkelland-open-eettafel-weerselo",
+    "name": "Sociaal, dat werkt! · Open Eettafel Weerselo",
+    "category": "ontmoeten",
+    "address": "Pastor Brenninkmeijerstraat 40",
+    "postcode": "7595PN",
+    "town": "Weerselo",
+    "municipality": "Dinkelland",
+    "serviceMunicipalities": [
+      "Dinkelland"
+    ],
+    "lat": 52.34846247,
+    "lon": 6.85782899,
+    "source": "https://swtd.nl/events/open-eettafel-weerselo/var/ri-20.l-L1/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "samen eten",
+      "senioren",
+      "Weerselo"
+    ],
+    "subthemes": [
+      "samen eten",
+      "senioren",
+      "sociaal contact"
+    ],
+    "guidePaths": [
+      "ontmoeten/samen"
+    ],
+    "guideExclude": false,
+    "description": "Terugkerende open eettafel in De Haerstee in Weerselo, gericht op samen eten en sociaal contact.",
+    "audience": "Inwoners die graag samen eten en anderen willen ontmoeten.",
+    "costs": "Gezonde maaltijd tegen een kleine bijdrage.",
+    "access": "Volgens de actuele SWTD-agenda.",
+    "openingHours": "",
+    "phone": "085 0479 400",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://swtd.nl/events/open-eettafel-weerselo/var/ri-20.l-L1/",
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
@@ -10266,7 +10882,7 @@
     "phone": "",
     "email": "",
     "locationType": "visiting",
-    "locationSource": "https://sociaalhus.nl/agenda/ontmoeten",
+    "locationSource": "https://www.kulturhusborne.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-wijkracht-ouderen-borne-15tvhym"
