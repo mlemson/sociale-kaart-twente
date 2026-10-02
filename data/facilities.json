@@ -3952,15 +3952,15 @@
     "id": "offer-c-20261002-hengelo-windhoek",
     "name": "De Windhoek · buurtactiviteiten",
     "category": "ontmoeten",
-    "address": "Paul Krugerstraat 52",
+    "address": "Paul Krugerstraat 70-8",
     "postcode": "7551GZ",
     "town": "Hengelo",
     "municipality": "Hengelo",
     "serviceMunicipalities": [
       "Hengelo"
     ],
-    "lat": 52.26763249,
-    "lon": 6.79912468,
+    "lat": 52.26813886,
+    "lon": 6.80015319,
     "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
     "checked": "2026-10-02",
     "tags": [
@@ -5546,15 +5546,15 @@
     "id": "offer-c-20261002-hengelo-bloemenbuurt",
     "name": "Ontmoetingsgroep Bloemenbuurt",
     "category": "ontmoeten",
-    "address": "Geerdinksweg 36A",
-    "postcode": "7555DN",
+    "address": "Geerdinksweg 112-I",
+    "postcode": "7555DR",
     "town": "Hengelo",
     "municipality": "Hengelo",
     "serviceMunicipalities": [
       "Hengelo"
     ],
-    "lat": 52.26004038,
-    "lon": 6.7758446,
+    "lat": 52.26479923,
+    "lon": 6.77462037,
     "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
     "checked": "2026-10-02",
     "tags": [

@@ -24617,14 +24617,17 @@
       "audience": "Ouderen en buurtbewoners.",
       "access": "Neem contact op met Wijkracht voor actuele informatie.",
       "costs": "Laagdrempelig.",
-      "address": "Geerdinksweg 130",
+      "address": "Geerdinksweg 112-I",
       "postcode": "7555DR",
       "town": "Hengelo",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "locationType": "visiting",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.26479923,
+      "lon": 6.77462037,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -24711,10 +24714,13 @@
       "postcode": "7551GZ",
       "town": "Hengelo",
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.26813886,
+      "lon": 6.80015319,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
