@@ -1634,7 +1634,8 @@
       "ontmoeten",
       "taal",
       "bewegen",
-      "mentaal"
+      "mentaal",
+      "vrijwillig"
     ],
     "sources": [
       "https://www.avedan.nl/gemeentepagina/bram",
@@ -1664,11 +1665,12 @@
       "https://www.avedan.nl/?p=6390",
       "https://www.avedan.nl/gemeentepagina/trainingen-twenterand/",
       "https://www.avedan.nl/activiteit/gericht-op-de-toekomst-regio/",
-      "https://www.avedan.nl/activiteiten-trainingen/"
+      "https://www.avedan.nl/activiteiten-trainingen/",
+      "https://www.avedan.nl/gemeentepagina/wijkondersteuning/"
     ],
-    "offerCount": 36,
+    "offerCount": 37,
     "reviewNeeded": 0,
-    "sourceBacked": 36,
+    "sourceBacked": 37,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -3331,6 +3333,59 @@
         "phone": "",
         "email": "",
         "source": "https://www.avedan.nl/activiteit/wijkkamers-avedan/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Avedan",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadionlaan 60",
+        "postcode": "7606JZ",
+        "town": "Almelo",
+        "lat": 52.33927899,
+        "lon": 6.64702943,
+        "locationType": "contact",
+        "locationSource": "https://www.avedan.nl/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261002-avedan-wijkondersteuning",
+        "title": "Wijkondersteuning Almelo",
+        "name": "Avedan · Wijkondersteuning Almelo",
+        "description": "Wijkondersteuners helpen inwoners die een idee hebben voor een activiteit, voorziening of verbetering in hun buurt om dat plan verder te brengen en verbinding te leggen met andere bewoners en organisaties.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "vrijwillig",
+        "themes": [
+          "vrijwillig",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "bewonersinitiatief",
+          "leefbaarheid",
+          "wijk"
+        ],
+        "tags": [
+          "wijkondersteuning",
+          "bewonersinitiatief",
+          "vrijwilligerswerk",
+          "leefbaarheid",
+          "buurt",
+          "activiteiten"
+        ],
+        "guidePaths": [
+          "meedoen/vrijwillig"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Almelo met een idee of initiatief voor hun straat, buurt of wijk.",
+        "costs": "Gratis ondersteuning; de officiële Sociale Kaart Almelo vermeldt wijkondersteuning als gratis.",
+        "access": "Rechtstreeks contact opnemen met de wijkondersteuner van het eigen gebied of met Avedan.",
+        "openingHours": "",
+        "phone": "0546 544 100",
+        "email": "info@avedan.nl",
+        "source": "https://www.avedan.nl/gemeentepagina/wijkondersteuning/",
         "sourceKind": "first-party",
         "sourceTitle": "Avedan",
         "checked": "2026-10-02",
@@ -9126,7 +9181,8 @@
       "https://www.fundamentlosser.nl/ondersteuning/vrijwilligerswerk-in-losser/",
       "https://www.fundamentlosser.nl/activiteiten/",
       "https://www.fundamentlosser.nl/agenda/maaklab-2-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-2026-09-30-2026-10-07-2026-10-14-2026-10-21-2026-10-28-2026-11-04-2026-11-11-2026-11-18-2026-11-25-2026-12-02-09-2027-06-16/",
-      "https://www.fundamentlosser.nl/agenda/"
+      "https://www.fundamentlosser.nl/agenda/",
+      "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/"
     ],
     "offerCount": 31,
     "reviewNeeded": 0,
@@ -10069,32 +10125,43 @@
         "id": "extra-20261002-fundament-mamapapacaf-",
         "title": "MamaPapacafé",
         "name": "Fundament Losser · MamaPapacafé",
-        "description": "Laagdrempelige terugkerende ontmoeting voor ouders en jonge kinderen.",
+        "description": "Laagdrempelige inloop voor (aanstaande) ouders en verzorgers met kinderen van 0 tot 4 jaar. Er is ruimte om ervaringen uit te wisselen en vragen te stellen; geregeld sluiten lokale deskundigen aan.",
         "municipality": "Losser",
         "municipalities": [
           "Losser"
         ],
         "category": "jeugd",
         "themes": [
-          "jeugd"
-        ],
-        "subthemes": [
-          "terugkerende activiteit"
-        ],
-        "tags": [
           "jeugd",
-          "activiteit",
           "ontmoeten"
         ],
-        "guidePaths": [],
+        "subthemes": [
+          "ouders",
+          "opvoeden",
+          "0-4 jaar",
+          "inloop"
+        ],
+        "tags": [
+          "ouders",
+          "aanstaande ouders",
+          "baby",
+          "peuter",
+          "opvoeden",
+          "ontmoeten",
+          "inloop"
+        ],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "ontmoeten/inloop"
+        ],
         "guideExclude": false,
-        "audience": "Inwoners van de gemeente Losser; doelgroep verschilt per activiteit.",
-        "costs": "Controleer de actuele activiteit.",
-        "access": "Bekijk de actuele agenda; soms is aanmelden nodig.",
-        "openingHours": "",
-        "phone": "",
+        "audience": "(Aanstaande) ouders/verzorgers en hun kinderen van 0 tot 4 jaar uit de gemeente Losser.",
+        "costs": "Geen kosten genoemd op de bronpagina; deelname is als vrije inloop beschreven.",
+        "access": "Vrij binnenlopen. Elke twee weken op woensdag van 09.30-11.30 uur in 't Lossers Hoes.",
+        "openingHours": "Elke twee weken woensdag 09.30-11.30 uur.",
+        "phone": "053 536 9400",
         "email": "",
-        "source": "https://www.fundamentlosser.nl/agenda/",
+        "source": "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/",
         "sourceKind": "first-party",
         "sourceTitle": "Fundament Losser",
         "checked": "2026-10-02",
@@ -10104,11 +10171,11 @@
         "town": "Losser",
         "lat": 52.26284211,
         "lon": 7.00588809,
-        "locationType": "contact",
-        "locationSource": "https://www.fundamentlosser.nl/contact/",
+        "locationType": "visiting",
+        "locationSource": "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/",
         "locationMunicipality": "Losser",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       },
       {
         "id": "candidate-167303f4dc81b65d",
@@ -10589,14 +10656,16 @@
       "Almelo"
     ],
     "categories": [
-      "bewegen"
+      "bewegen",
+      "advies"
     ],
     "sources": [
-      "https://www.almelo.nl/zorg-en-ondersteuning/ouder-worden-almelo/cursus-valpreventie-zo-blijft-u-overeind"
+      "https://www.almelo.nl/zorg-en-ondersteuning/ouder-worden-almelo/cursus-valpreventie-zo-blijft-u-overeind",
+      "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams"
     ],
-    "offerCount": 1,
+    "offerCount": 5,
     "reviewNeeded": 0,
-    "sourceBacked": 1,
+    "sourceBacked": 5,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
@@ -10646,17 +10715,245 @@
         "locationMunicipality": "Almelo",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261002-almelo-wijkteam-noord",
+        "title": "Wijkteam Noord - De Schelf",
+        "name": "Gemeente Almelo · Wijkteam Noord - De Schelf",
+        "description": "Gratis wijkteam voor inwoners met vragen over zorg, gezondheid, werk, geld of contact met andere mensen. Het team denkt mee, biedt kortdurende steun en verwijst zo nodig verder.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [
+          "wijkteam",
+          "zorg",
+          "geld",
+          "gezondheid",
+          "sociaal contact"
+        ],
+        "tags": [
+          "wijkteam",
+          "gratis",
+          "zorg",
+          "gezondheid",
+          "werk",
+          "geld",
+          "ontmoeten",
+          "inloop"
+        ],
+        "guidePaths": [
+          "zorg/clientsteun",
+          "geld/formulieren"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van postcodegebieden 7603, 7608, 7610 en 7611 in Almelo.",
+        "costs": "Gratis.",
+        "access": "Gratis inloopspreekuur op werkdagen van 09.00-12.00 uur.",
+        "openingHours": "Maandag t/m vrijdag 09.00-12.00 uur.",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Binnenhof 51",
+        "postcode": "7608KH",
+        "town": "Almelo",
+        "lat": 52.37901596,
+        "lon": 6.67665057,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-almelo-wijkteam-oost",
+        "title": "Wijkteam Oost - De Schöppe",
+        "name": "Gemeente Almelo · Wijkteam Oost - De Schöppe",
+        "description": "Gratis wijkteam voor inwoners met vragen over zorg, gezondheid, werk, geld of contact met andere mensen. Het team denkt mee, biedt kortdurende steun en verwijst zo nodig verder.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [
+          "wijkteam",
+          "zorg",
+          "geld",
+          "gezondheid",
+          "sociaal contact"
+        ],
+        "tags": [
+          "wijkteam",
+          "gratis",
+          "zorg",
+          "gezondheid",
+          "werk",
+          "geld",
+          "ontmoeten",
+          "inloop"
+        ],
+        "guidePaths": [
+          "zorg/clientsteun",
+          "geld/formulieren"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van postcodegebieden 7601 en 7607 in Almelo.",
+        "costs": "Gratis.",
+        "access": "Gratis inloopspreekuur op werkdagen van 09.00-12.00 uur.",
+        "openingHours": "Maandag t/m vrijdag 09.00-12.00 uur.",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Clematisstraat 2a",
+        "postcode": "7601EJ",
+        "town": "Almelo",
+        "lat": 52.34318768,
+        "lon": 6.6741563,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-almelo-wijkteam-west",
+        "title": "Wijkteam West - Eninver",
+        "name": "Gemeente Almelo · Wijkteam West - Eninver",
+        "description": "Gratis wijkteam voor inwoners met vragen over zorg, gezondheid, werk, geld of contact met andere mensen. Het team denkt mee, biedt kortdurende steun en verwijst zo nodig verder.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [
+          "wijkteam",
+          "zorg",
+          "geld",
+          "gezondheid",
+          "sociaal contact"
+        ],
+        "tags": [
+          "wijkteam",
+          "gratis",
+          "zorg",
+          "gezondheid",
+          "werk",
+          "geld",
+          "ontmoeten",
+          "inloop"
+        ],
+        "guidePaths": [
+          "zorg/clientsteun",
+          "geld/formulieren"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van postcodegebieden 7602, 7604 en 7605 in Almelo.",
+        "costs": "Gratis.",
+        "access": "Gratis inloopspreekuur op werkdagen van 09.00-12.00 uur.",
+        "openingHours": "Maandag t/m vrijdag 09.00-12.00 uur.",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Apollolaan 1a",
+        "postcode": "7604EH",
+        "town": "Almelo",
+        "lat": 52.35769101,
+        "lon": 6.64530355,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-almelo-wijkteam-zuid",
+        "title": "Wijkteam Zuid - De Driehoek",
+        "name": "Gemeente Almelo · Wijkteam Zuid - De Driehoek",
+        "description": "Gratis wijkteam voor inwoners met vragen over zorg, gezondheid, werk, geld of contact met andere mensen. Het team denkt mee, biedt kortdurende steun en verwijst zo nodig verder.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [
+          "wijkteam",
+          "zorg",
+          "geld",
+          "gezondheid",
+          "sociaal contact"
+        ],
+        "tags": [
+          "wijkteam",
+          "gratis",
+          "zorg",
+          "gezondheid",
+          "werk",
+          "geld",
+          "ontmoeten",
+          "inloop"
+        ],
+        "guidePaths": [
+          "zorg/clientsteun",
+          "geld/formulieren"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van postcodegebieden 7606, 7609 en 7627 in Almelo.",
+        "costs": "Gratis.",
+        "access": "Gratis inloopspreekuur op werkdagen van 09.00-12.00 uur.",
+        "openingHours": "Maandag t/m vrijdag 09.00-12.00 uur.",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Jan Tooropstraat 27",
+        "postcode": "7606JS",
+        "town": "Almelo",
+        "lat": 52.34258922,
+        "lon": 6.64264109,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
       }
     ],
     "location": {
-      "address": "Haven Zuidzijde 30",
-      "postcode": "7607EW",
+      "address": "Apollolaan 1a",
+      "postcode": "7604EH",
       "town": "Almelo",
-      "lat": 52.35722016,
-      "lon": 6.6592867,
+      "lat": 52.35769101,
+      "lon": 6.64530355,
       "locationMunicipality": "Almelo",
-      "locationType": "source-address",
-      "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/ouder-worden-almelo/cursus-valpreventie-zo-blijft-u-overeind",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
       "mapLocationType": "address"
     },
     "status": "source-backed",
@@ -11146,6 +11443,163 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.oldenzaal.nl/bijdragefonds"
+  },
+  {
+    "id": "org-gemeente-rijssen-holten-1q3kn8s",
+    "organization": "Gemeente Rijssen-Holten",
+    "municipalities": [
+      "Rijssen-Holten"
+    ],
+    "categories": [
+      "advies",
+      "geld",
+      "jeugd"
+    ],
+    "sources": [
+      "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 0,
+    "sourceBacked": 2,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-sociaal-vraagplein-holten",
+        "title": "Sociaal VraagPlein Holten",
+        "name": "Gemeente Rijssen-Holten · Sociaal VraagPlein Holten",
+        "description": "Gemeentelijk inlooppunt voor vragen over zorg, ondersteuning, opvoeden, rondkomen, schulden en gezond leven. Medewerkers denken mee en helpen direct of wijzen naar passende ondersteuning.",
+        "municipality": "Rijssen-Holten",
+        "municipalities": [
+          "Rijssen-Holten"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "geld",
+          "jeugd"
+        ],
+        "subthemes": [
+          "zorg",
+          "ondersteuning",
+          "opvoeden",
+          "rondkomen",
+          "schulden",
+          "gezond leven"
+        ],
+        "tags": [
+          "inloop",
+          "zorg",
+          "opvoeden",
+          "geld",
+          "schulden",
+          "gezondheid",
+          "advies",
+          "sociaal vraagplein"
+        ],
+        "guidePaths": [
+          "zorg/clientsteun",
+          "geld/formulieren",
+          "onderwijs/opvoeden"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Rijssen-Holten met een sociale, financiële, opvoed- of zorgvraag.",
+        "costs": "Voor het gesprek bij het gemeentelijke inlooppunt worden geen kosten vermeld.",
+        "access": "Vrij binnenlopen tijdens de openingstijden in Kulturhus Holten.",
+        "openingHours": "Dinsdag 09.00-13.00 uur.",
+        "phone": "0548 854 854",
+        "email": "sociaalvraagplein@rijssen-holten.nl",
+        "source": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Rijssen-Holten",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Smidsbelt 6",
+        "postcode": "7451BL",
+        "town": "Holten",
+        "lat": 52.28131306,
+        "lon": 6.42165509,
+        "locationType": "visiting",
+        "locationSource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
+        "locationMunicipality": "Rijssen-Holten",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-sociaal-vraagplein-rijssen",
+        "title": "Sociaal VraagPlein Rijssen",
+        "name": "Gemeente Rijssen-Holten · Sociaal VraagPlein Rijssen",
+        "description": "Gemeentelijk inlooppunt voor vragen over zorg, ondersteuning, opvoeden, rondkomen, schulden en gezond leven. Medewerkers denken mee en helpen direct of wijzen naar passende ondersteuning.",
+        "municipality": "Rijssen-Holten",
+        "municipalities": [
+          "Rijssen-Holten"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "geld",
+          "jeugd"
+        ],
+        "subthemes": [
+          "zorg",
+          "ondersteuning",
+          "opvoeden",
+          "rondkomen",
+          "schulden",
+          "gezond leven"
+        ],
+        "tags": [
+          "inloop",
+          "zorg",
+          "opvoeden",
+          "geld",
+          "schulden",
+          "gezondheid",
+          "advies",
+          "sociaal vraagplein"
+        ],
+        "guidePaths": [
+          "zorg/clientsteun",
+          "geld/formulieren",
+          "onderwijs/opvoeden"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Rijssen-Holten met een sociale, financiële, opvoed- of zorgvraag.",
+        "costs": "Voor het gesprek bij het gemeentelijke inlooppunt worden geen kosten vermeld.",
+        "access": "Vrij binnenlopen tijdens de openingstijden van het inlooppunt.",
+        "openingHours": "Maandag en dinsdag 09.00-13.00 uur; vrijdag 09.00-12.00 uur. Controleer tijdelijke sluitingen op de gemeentepagina.",
+        "phone": "0548 854 854",
+        "email": "sociaalvraagplein@rijssen-holten.nl",
+        "source": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Rijssen-Holten",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Schild 1",
+        "postcode": "7461DD",
+        "town": "Rijssen",
+        "lat": 52.3073607,
+        "lon": 6.52203914,
+        "locationType": "visiting",
+        "locationSource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
+        "locationMunicipality": "Rijssen-Holten",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Schild 1",
+      "postcode": "7461DD",
+      "town": "Rijssen",
+      "lat": 52.3073607,
+      "lon": 6.52203914,
+      "locationMunicipality": "Rijssen-Holten",
+      "locationType": "visiting",
+      "locationSource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/"
   },
   {
     "id": "org-gemeente-tubbergen-1offhe9",
@@ -34658,11 +35112,12 @@
       "https://www.zorgsaamtwenterand.nl/activiteiten/creatieve-club/",
       "https://www.zorgsaamtwenterand.nl/activiteiten/keerls-proat/",
       "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
-      "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/"
+      "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
+      "https://www.zorgsaamtwenterand.nl/contact/"
     ],
-    "offerCount": 55,
+    "offerCount": 59,
     "reviewNeeded": 2,
-    "sourceBacked": 53,
+    "sourceBacked": 57,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -37177,6 +37632,238 @@
         "locationMunicipality": "Twenterand",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261002-zorginformatiepunt-den-ham",
+        "title": "Zorginformatiepunt Den Ham",
+        "name": "ZorgSaam Twenterand · Zorginformatiepunt Den Ham",
+        "description": "Laagdrempelig informatiepunt voor vragen over welzijn, Wmo, wonen, het Loes-loket, (jeugd)zorg en andere ondersteuningsmogelijkheden.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "jeugd"
+        ],
+        "subthemes": [
+          "Wmo",
+          "wonen",
+          "welzijn",
+          "Loes",
+          "jeugdzorg"
+        ],
+        "tags": [
+          "zorginformatiepunt",
+          "Wmo",
+          "wonen",
+          "welzijn",
+          "jeugd",
+          "opvoeden",
+          "advies",
+          "inloop"
+        ],
+        "guidePaths": [
+          "zorg/clientsteun",
+          "onderwijs/opvoeden"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Twenterand met vragen over zorg, welzijn, wonen, opvoeden of ondersteuning.",
+        "costs": "Voor informatie en advies worden op de bronpagina geen kosten vermeld.",
+        "access": "Inloop tijdens de gepubliceerde openingstijden; telefonisch en per e-mail bereikbaar.",
+        "openingHours": "Maandag 09.00-13.00 uur en woensdag 14.00-16.00 uur.",
+        "phone": "0546 481 450",
+        "email": "info@zorginformatietwenterand.nl",
+        "source": "https://www.zorgsaamtwenterand.nl/contact/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Goosensplein 1",
+        "postcode": "7683CG",
+        "town": "Den Ham",
+        "lat": 52.4615661,
+        "lon": 6.49442661,
+        "locationType": "visiting",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-zorginformatiepunt-vriezenveen",
+        "title": "Zorginformatiepunt Vriezenveen",
+        "name": "ZorgSaam Twenterand · Zorginformatiepunt Vriezenveen",
+        "description": "Laagdrempelig informatiepunt voor vragen over welzijn, Wmo, wonen, het Loes-loket, (jeugd)zorg en andere ondersteuningsmogelijkheden.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "jeugd"
+        ],
+        "subthemes": [
+          "Wmo",
+          "wonen",
+          "welzijn",
+          "Loes",
+          "jeugdzorg"
+        ],
+        "tags": [
+          "zorginformatiepunt",
+          "Wmo",
+          "wonen",
+          "welzijn",
+          "jeugd",
+          "opvoeden",
+          "advies",
+          "inloop"
+        ],
+        "guidePaths": [
+          "zorg/clientsteun",
+          "onderwijs/opvoeden"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Twenterand met vragen over zorg, welzijn, wonen, opvoeden of ondersteuning.",
+        "costs": "Voor informatie en advies worden op de bronpagina geen kosten vermeld.",
+        "access": "Inloop tijdens de gepubliceerde openingstijden; telefonisch en per e-mail bereikbaar.",
+        "openingHours": "Dinsdag, woensdag en donderdag 09.00-13.00 uur.",
+        "phone": "0546 481 450",
+        "email": "info@zorginformatietwenterand.nl",
+        "source": "https://www.zorgsaamtwenterand.nl/contact/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Manitobaplein 1",
+        "postcode": "7671GS",
+        "town": "Vriezenveen",
+        "lat": 52.40876601,
+        "lon": 6.62460489,
+        "locationType": "visiting",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-zorginformatiepunt-vroomshoop",
+        "title": "Zorginformatiepunt Vroomshoop",
+        "name": "ZorgSaam Twenterand · Zorginformatiepunt Vroomshoop",
+        "description": "Laagdrempelig informatiepunt voor vragen over welzijn, Wmo, wonen, het Loes-loket, (jeugd)zorg en andere ondersteuningsmogelijkheden.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "jeugd"
+        ],
+        "subthemes": [
+          "Wmo",
+          "wonen",
+          "welzijn",
+          "Loes",
+          "jeugdzorg"
+        ],
+        "tags": [
+          "zorginformatiepunt",
+          "Wmo",
+          "wonen",
+          "welzijn",
+          "jeugd",
+          "opvoeden",
+          "advies",
+          "inloop"
+        ],
+        "guidePaths": [
+          "zorg/clientsteun",
+          "onderwijs/opvoeden"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Twenterand met vragen over zorg, welzijn, wonen, opvoeden of ondersteuning.",
+        "costs": "Voor informatie en advies worden op de bronpagina geen kosten vermeld.",
+        "access": "Inloop tijdens de gepubliceerde openingstijden; telefonisch en per e-mail bereikbaar.",
+        "openingHours": "Maandag, dinsdag en vrijdag 09.00-13.00 uur.",
+        "phone": "0546 481 450",
+        "email": "info@zorginformatietwenterand.nl",
+        "source": "https://www.zorgsaamtwenterand.nl/contact/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Oranjeplein 7",
+        "postcode": "7681AZ",
+        "town": "Vroomshoop",
+        "lat": 52.45822244,
+        "lon": 6.56611839,
+        "locationType": "visiting",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-zorginformatiepunt-westerhaar",
+        "title": "Zorginformatiepunt Westerhaar",
+        "name": "ZorgSaam Twenterand · Zorginformatiepunt Westerhaar",
+        "description": "Laagdrempelig informatiepunt voor vragen over welzijn, Wmo, wonen, het Loes-loket, (jeugd)zorg en andere ondersteuningsmogelijkheden.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "jeugd"
+        ],
+        "subthemes": [
+          "Wmo",
+          "wonen",
+          "welzijn",
+          "Loes",
+          "jeugdzorg"
+        ],
+        "tags": [
+          "zorginformatiepunt",
+          "Wmo",
+          "wonen",
+          "welzijn",
+          "jeugd",
+          "opvoeden",
+          "advies",
+          "inloop"
+        ],
+        "guidePaths": [
+          "zorg/clientsteun",
+          "onderwijs/opvoeden"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Twenterand met vragen over zorg, welzijn, wonen, opvoeden of ondersteuning.",
+        "costs": "Voor informatie en advies worden op de bronpagina geen kosten vermeld.",
+        "access": "Inloop tijdens de gepubliceerde openingstijden; telefonisch en per e-mail bereikbaar.",
+        "openingHours": "Maandag 14.00-16.00 uur en donderdag 09.00-13.00 uur.",
+        "phone": "0546 481 450",
+        "email": "info@zorginformatietwenterand.nl",
+        "source": "https://www.zorgsaamtwenterand.nl/contact/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZorgSaam Twenterand",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Hoofdweg 132a",
+        "postcode": "7676AJ",
+        "town": "Westerhaar-Vriezenveensewijk",
+        "lat": 52.4551472,
+        "lon": 6.62017906,
+        "locationType": "visiting",
+        "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": true
       }
     ],
     "location": {
