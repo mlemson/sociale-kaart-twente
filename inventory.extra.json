@@ -13121,6 +13121,104 @@
       "lon": 6.51810532,
       "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234/",
       "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / multifunctionele ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "locationMunicipality": "Hof van Twente",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "gemeenschapscentrum",
+        "sport",
+        "verenigingen",
+        "Bentelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "ontmoeten/bewegen",
+        "meedoen/daginvulling"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hof-gemeenschapscentrum-de-pol-bentelo",
+      "name": "Sport- en Gemeenschapscentrum De Pol Bentelo · dorpsontmoeting",
+      "source": "https://www.hofvantwente.nl/direct-regelen/horeca-evenementen-en-vrije-tijd/vrije-tijd/cultuur/",
+      "sourceTitle": "Gemeente Hof van Twente",
+      "subthemes": [
+        "gemeenschapscentrum",
+        "sport",
+        "verenigingen"
+      ],
+      "description": "Multifunctioneel sport- en gemeenschapscentrum in Bentelo met ruimte voor verenigingen, bijeenkomsten, sport en dorpsactiviteiten.",
+      "audience": "Inwoners van Bentelo en omgeving, van jong tot oud.",
+      "access": "Toegankelijk bij activiteiten, verenigingsmomenten en bijeenkomsten.",
+      "costs": "Verschilt per activiteit.",
+      "address": "Burgemeester Buijvoetsplein 76",
+      "postcode": "7497LD",
+      "town": "Bentelo"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / multifunctionele ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "locationMunicipality": "Hof van Twente",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "cultuurcentrum",
+        "bibliotheek",
+        "maatschappelijk",
+        "Diepenheim"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hof-herberg-de-pol-diepenheim",
+      "name": "Herberg De Pol Diepenheim · sociale en culturele ontmoetingsplek",
+      "source": "https://www.herbergdepol.nl/",
+      "sourceTitle": "Herberg De Pol Diepenheim",
+      "subthemes": [
+        "cultuurcentrum",
+        "bibliotheek",
+        "maatschappelijk",
+        "ontmoeting"
+      ],
+      "description": "Laagdrempelig cultuurcentrum en ontmoetingsplek in Diepenheim voor sociale, culturele en maatschappelijke activiteiten, met onder meer bibliotheek en verenigingsactiviteiten.",
+      "audience": "Alle inwoners van Diepenheim en omgeving.",
+      "access": "Publiek toegankelijk tijdens openingstijden, activiteiten en voorstellingen.",
+      "costs": "Toegang tot de ontmoetingsfunctie is laagdrempelig; kosten verschillen per activiteit.",
+      "address": "Raadhuisstraat 8",
+      "postcode": "7478AG",
+      "town": "Diepenheim",
+      "phone": "0547 352122",
+      "email": "info@diepenheim.nl"
     }
   ],
   "addressEnrichmentVersion": 1,
