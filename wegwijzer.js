@@ -250,7 +250,6 @@
     return Boolean(
       record &&
       record.detailMapType &&
-      record.mapLocationType !== "service-area" &&
       Number.isFinite(record.lat) &&
       Number.isFinite(record.lon)
     );
@@ -268,7 +267,12 @@
   }
 
   function initMiniMaps(items) {
-    if (typeof L === "undefined") return;
+    if (typeof L === "undefined") {
+      document.querySelectorAll("[data-guide-map]").forEach(element => {
+        element.innerHTML = '<div class="guide-map-unavailable">Kaart kon niet worden geladen.</div>';
+      });
+      return;
+    }
     const primary = getComputedStyle(document.body).getPropertyValue("--primary").trim() || "#356b58";
     document.querySelectorAll("[data-guide-map]").forEach(element => {
       const record = items[Number(element.dataset.guideMap)];
