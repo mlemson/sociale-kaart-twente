@@ -73,6 +73,8 @@ jobs:
           PY
       - name: Audit Wegwijzer-indeling
         run: python tools/audit_wegwijzer.py
+      - name: Audit voorliggende brondekking
+        run: python tools/audit_voorliggende_dekking.py
       - name: Controleer benodigde GitHub Pages bestanden
         run: |
           test -f index.html
