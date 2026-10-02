@@ -480,13 +480,21 @@ function renderMarkers() {
     markerLayer.clearLayers();
     labelLayer.clearLayers();
     const counts = {};
-    // De regiobol telt alleen voorzieningen die fysiek in de gemeente liggen.
-    // Een locatie die meerdere gemeenten bedient mag dus niet in al die gemeenten
-    // als kaartlocatie worden meegeteld.
+    const countedSites = {};
+    // De regiobol telt unieke fysieke plekken, niet meerdere activiteiten of
+    // onderdelen die op hetzelfde adres plaatsvinden.
     filtered.forEach(p => {
         const name = actualMunicipality(p);
-        if (name) counts[name] = (counts[name] || 0) + 1;
+        if (!name) return;
+        const siteKey = [
+            String(p.address || '').trim().toLocaleLowerCase('nl'),
+            String(p.postcode || '').replace(/\s+/g, '').toLocaleLowerCase('nl'),
+            String(p.town || '').trim().toLocaleLowerCase('nl')
+        ].join('|') || [p.lat, p.lon].join('|');
+        countedSites[name] ||= new Set();
+        countedSites[name].add(siteKey);
     });
+    Object.entries(countedSites).forEach(([name, sites]) => counts[name] = sites.size);
     const regional = !state.municipality && map.getZoom() < 12 && Object.keys(anchors).length > 0;
     Object.entries(anchors).forEach( ([name,center]) => {
         if (state.municipality && name !== state.municipality && map.getZoom() > 12)
