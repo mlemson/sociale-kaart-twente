@@ -5990,6 +5990,349 @@
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/327531/invis2/de-kringen-wees-jezelf-ontmoet-een-ander"
   },
   {
+    "id": "org-de-posten-1ql4a8r",
+    "organization": "De Posten",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "ontmoeten",
+      "mantelzorg"
+    ],
+    "sources": [
+      "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/"
+    ],
+    "offerCount": 4,
+    "reviewNeeded": 0,
+    "sourceBacked": 4,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-deposten-bsayno",
+        "title": "Bsayno",
+        "name": "De Posten · Bsayno",
+        "description": "Ontmoetingsgroep voor mensen met een Suryoye-achtergrond met koffie, gesprek, handwerken en praktische hulp, bijvoorbeeld bij moeilijke brieven.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "Suryoye",
+          "senioren",
+          "daginvulling",
+          "praktische hulp",
+          "algemene voorziening"
+        ],
+        "tags": [
+          "Suryoye",
+          "Syrie",
+          "senioren",
+          "ontmoeten",
+          "brieven",
+          "daginvulling",
+          "algemene voorziening"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Mensen met een Suryoye-achtergrond die gelijkgestemden, gezelligheid of lichte praktische ondersteuning zoeken.",
+        "costs": "Algemene voorziening; een eventuele bijdrage wordt niet op de bronpagina vermeld. Vraag dit na bij De Posten.",
+        "access": "Aanmelden via wijkverpleegkundige, Wijkteam Enschede of huisarts.",
+        "openingHours": "",
+        "phone": "053 4753 753",
+        "email": "info@deposten.nl",
+        "source": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+        "sourceKind": "first-party",
+        "sourceTitle": "De Posten",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "De Posten 135A-207",
+        "postcode": "7544LR",
+        "town": "Enschede",
+        "lat": 52.1886872,
+        "lon": 6.88247168,
+        "locationType": "contact",
+        "locationSource": "https://www.deposten.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261002-deposten-huiskamer-van-de-buurt",
+        "title": "Huiskamer van de Buurt Wesselerbrink",
+        "name": "De Posten · Huiskamer van de Buurt Wesselerbrink",
+        "description": "Open ontmoetingsplek in Gezondheidscentrum Wesselerbrink voor wijkbewoners die graag extra gezelligheid en aanspraak willen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "senioren",
+          "daginvulling"
+        ],
+        "tags": [
+          "ontmoeten",
+          "huiskamer",
+          "inloop",
+          "ouderen",
+          "senioren",
+          "daginvulling",
+          "vrij toegankelijk"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Wijkbewoners die zichzelf goed kunnen redden en graag anderen ontmoeten.",
+        "costs": "Geen toegangskosten genoemd; vraag De Posten naar eventuele kosten voor consumpties of activiteiten.",
+        "access": "Aanmelden is niet nodig. Vrij binnenlopen tijdens de openingstijden.",
+        "openingHours": "09.30-12.00 en 14.00-16.00 uur; controleer actuele dagen bij De Posten.",
+        "phone": "053 4753 753",
+        "email": "info@deposten.nl",
+        "source": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+        "sourceKind": "first-party",
+        "sourceTitle": "De Posten",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wesseler-nering 60",
+        "postcode": "7544JC",
+        "town": "Enschede",
+        "lat": 52.19234918,
+        "lon": 6.88426139,
+        "locationType": "visiting",
+        "locationSource": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-deposten-mampir-sadja",
+        "title": "Mampir Sadja",
+        "name": "De Posten · Mampir Sadja",
+        "description": "Ontmoetingsgroep in Indische sfeer voor senioren, met samen praten, herinneringen ophalen, lachen en koken.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "Indisch",
+          "senioren",
+          "daginvulling",
+          "algemene voorziening"
+        ],
+        "tags": [
+          "Indisch",
+          "senioren",
+          "ontmoeten",
+          "samen koken",
+          "daginvulling",
+          "algemene voorziening"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Senioren met Indische roots die graag anderen ontmoeten.",
+        "costs": "Algemene voorziening; een eventuele bijdrage wordt niet op de bronpagina vermeld. Vraag dit na bij De Posten.",
+        "access": "Aanmelden of informatie via De Posten: 053 4753 753 of info@deposten.nl.",
+        "openingHours": "",
+        "phone": "053 4753 753",
+        "email": "info@deposten.nl",
+        "source": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+        "sourceKind": "first-party",
+        "sourceTitle": "De Posten",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "De Posten 135A-207",
+        "postcode": "7544LR",
+        "town": "Enschede",
+        "lat": 52.1886872,
+        "lon": 6.88247168,
+        "locationType": "contact",
+        "locationSource": "https://www.deposten.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261002-deposten-noabers",
+        "title": "Noabers",
+        "name": "De Posten · Noabers",
+        "description": "Kleine groep voor zelfstandig wonende senioren uit Enschede-Zuid die behoefte hebben aan gezelligheid, structuur en lichte ondersteuning, bijvoorbeeld bij beginnende vergeetachtigheid.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten",
+          "mantelzorg"
+        ],
+        "subthemes": [
+          "senioren",
+          "geheugenproblemen",
+          "daginvulling",
+          "algemene voorziening"
+        ],
+        "tags": [
+          "senioren",
+          "geheugen",
+          "dementie",
+          "daginvulling",
+          "algemene voorziening",
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "zorg/dementie",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Zelfstandig wonende senioren uit Enschede-Zuid met behoefte aan contact, dagstructuur of lichte ondersteuning bij geheugenproblemen.",
+        "costs": "Algemene voorziening; een eventuele bijdrage wordt niet op de bronpagina vermeld. Vraag dit na bij De Posten.",
+        "access": "Aanmelden via wijkverpleegkundige, Wijkteam Enschede of huisarts.",
+        "openingHours": "",
+        "phone": "053 4753 753",
+        "email": "info@deposten.nl",
+        "source": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+        "sourceKind": "first-party",
+        "sourceTitle": "De Posten",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "De Posten 135A-207",
+        "postcode": "7544LR",
+        "town": "Enschede",
+        "lat": 52.1886872,
+        "lon": 6.88247168,
+        "locationType": "contact",
+        "locationSource": "https://www.deposten.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Wesseler-nering 60",
+      "postcode": "7544JC",
+      "town": "Enschede",
+      "lat": 52.19234918,
+      "lon": 6.88426139,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/"
+  },
+  {
+    "id": "org-de-viermarken-b8qium",
+    "organization": "De Viermarken",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "ontmoeten",
+      "vrijwillig"
+    ],
+    "sources": [
+      "https://viermarken.nl/werken-bij/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-viermarken-algemene-voorziening",
+        "title": "dagbesteding / participatieboerderij",
+        "name": "De Viermarken · dagbesteding / participatieboerderij",
+        "description": "Participatieboerderij met begeleide, zinvolle werkzaamheden in onder meer dierenzorg, tuin, winkel, bezorging en hout- of metaalwerk. De Viermarken is voor inwoners van Enschede een algemene voorziening en biedt laagdrempelige instroom.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten",
+          "vrijwillig"
+        ],
+        "subthemes": [
+          "daginvulling",
+          "participatie",
+          "werkervaring",
+          "groen"
+        ],
+        "tags": [
+          "dagbesteding",
+          "algemene voorziening",
+          "zonder indicatie",
+          "boerderij",
+          "participatie",
+          "vrijwilligerswerk",
+          "buiten",
+          "werkervaring"
+        ],
+        "guidePaths": [
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Enschede die ondersteuning, structuur, sociale contacten en zinvolle daginvulling nodig hebben. Voor inwoners uit andere Twentse gemeenten kan De Viermarken via maatwerk of andere financiering toegankelijk zijn.",
+        "costs": "Voor inwoners van Enschede geen eigen bijdrage aan het CAK volgens De Viermarken. Buiten Enschede gelden andere financieringsroutes.",
+        "access": "Neem rechtstreeks contact op met De Viermarken voor een intake. Voor inwoners van Enschede is dit een algemene voorziening met laagdrempelige instroom.",
+        "openingHours": "",
+        "phone": "053 435 95 72",
+        "email": "info@viermarken.nl",
+        "source": "https://viermarken.nl/werken-bij/",
+        "sourceKind": "first-party",
+        "sourceTitle": "De Viermarken",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Viermarkenweg 85A",
+        "postcode": "7522LC",
+        "town": "Enschede",
+        "lat": 52.2397199,
+        "lon": 6.86796556,
+        "locationType": "visiting",
+        "locationSource": "https://viermarken.nl/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Viermarkenweg 85A",
+      "postcode": "7522LC",
+      "town": "Enschede",
+      "lat": 52.2397199,
+      "lon": 6.86796556,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://viermarken.nl/contact/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://viermarken.nl/werken-bij/"
+  },
+  {
     "id": "org-de-voorzieningenwijzer-s8090y",
     "organization": "De VoorzieningenWijzer",
     "municipalities": [
@@ -15147,6 +15490,98 @@
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/326205/invis2/kbo-enter"
   },
   {
+    "id": "org-kick-ass-enschede-5fa3t3",
+    "organization": "Kick ASS Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "mentaal",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.kickass-enschede.nl/cafe/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-kickass-cafe",
+        "title": "autisme café",
+        "name": "Kick ASS Enschede · autisme café",
+        "description": "Prikkelarme, laagdrempelige ontmoetingsavond voor volwassenen met autisme of een vermoeden daarvan. Er is ruimte voor gesprek, spellen en contact op een eigen tempo; een buddy mag mee.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "autisme",
+          "neurodiversiteit",
+          "lotgenoten",
+          "prikkelarm"
+        ],
+        "tags": [
+          "autisme",
+          "ASS",
+          "neurodiversiteit",
+          "lotgenoten",
+          "ontmoeten",
+          "gratis",
+          "zonder diagnose",
+          "prikkelarm"
+        ],
+        "guidePaths": [
+          "mentaal/lotgenoten",
+          "mentaal/eenzaamheid",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Volwassenen met autisme of een vermoeden van autisme, ongeacht of er een formele diagnose is.",
+        "costs": "Geen entree. Koffie, thee en kraanwater zijn gratis; frisdrank, alcohol en eten zijn tegen betaling.",
+        "access": "Vrije inloop op de tweede en laatste dinsdag van de maand, 19.00-23.00 uur. Je kunt binnenkomen en vertrekken wanneer je wilt.",
+        "openingHours": "Tweede en laatste dinsdag van de maand 19.00-23.00 uur.",
+        "phone": "06 2123 5204",
+        "email": "info@kickass-enschede.nl",
+        "source": "https://www.kickass-enschede.nl/cafe/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Kick ASS Enschede",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Stadsgravenstraat 47",
+        "postcode": "7511EP",
+        "town": "Enschede",
+        "lat": 52.22135346,
+        "lon": 6.89607578,
+        "locationType": "visiting",
+        "locationSource": "https://www.kickass-enschede.nl/cafe/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Stadsgravenstraat 47",
+      "postcode": "7511EP",
+      "town": "Enschede",
+      "lat": 52.22135346,
+      "lon": 6.89607578,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.kickass-enschede.nl/cafe/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.kickass-enschede.nl/cafe/"
+  },
+  {
     "id": "org-kledingbank-almelo-1q5pms3",
     "organization": "Kledingbank Almelo",
     "municipalities": [
@@ -22756,6 +23191,100 @@
     "primarySource": "https://www.borne.nl/sociaal-fonds"
   },
   {
+    "id": "org-sociaal-plein-almelo-ka3maf",
+    "organization": "Sociaal Plein Almelo",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "advies",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://socialekaart.almelo.nl/is/organisatie/329199/invis2/sociaal-plein-almelo-de-inloop"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-sociaal-plein-almelo-inloop",
+        "title": "De Inloop",
+        "name": "Sociaal Plein Almelo · De Inloop",
+        "description": "Drempelloze inloop waar inwoners met én zonder hulpvraag welkom zijn voor koffie, ontmoeting en activiteiten. Medewerkers luisteren mee bij vragen over onder meer geld, zorg, welzijn, opvoeding en werk.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "praktische hulp",
+          "welzijn",
+          "geld",
+          "zorg"
+        ],
+        "tags": [
+          "inloop",
+          "advies",
+          "ontmoeten",
+          "geld",
+          "zorg",
+          "welzijn",
+          "opvoeding",
+          "werk",
+          "laagdrempelig"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "zorg/clientsteun",
+          "geld/formulieren"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Almelo met een praktische, sociale of welzijnsvraag, maar ook mensen die gewoon willen binnenlopen en anderen ontmoeten.",
+        "costs": "Geen kosten voor de inloop vermeld op de officiële Sociale Kaart Almelo.",
+        "access": "Vrije inloop; je hoeft niets voor te bereiden of vooraf precies te weten wat je vraag is.",
+        "openingHours": "Maandag t/m vrijdag 09.00-16.30 uur; zaterdag 13.00-16.00 uur.",
+        "phone": "0546 729 096",
+        "email": "info@sociaalpleinalmelo.nl",
+        "source": "https://socialekaart.almelo.nl/is/organisatie/329199/invis2/sociaal-plein-almelo-de-inloop",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Plein Almelo",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wierdensestraat 22a-1",
+        "postcode": "7607GJ",
+        "town": "Almelo",
+        "lat": 52.35491383,
+        "lon": 6.66151401,
+        "locationType": "visiting",
+        "locationSource": "https://socialekaart.almelo.nl/is/organisatie/329199/invis2/sociaal-plein-almelo-de-inloop",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Wierdensestraat 22a-1",
+      "postcode": "7607GJ",
+      "town": "Almelo",
+      "lat": 52.35491383,
+      "lon": 6.66151401,
+      "locationMunicipality": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/329199/invis2/sociaal-plein-almelo-de-inloop",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://socialekaart.almelo.nl/is/organisatie/329199/invis2/sociaal-plein-almelo-de-inloop"
+  },
+  {
     "id": "org-sociaal-dat-werkt-vcvzyo",
     "organization": "Sociaal, dat werkt!",
     "municipalities": [
@@ -22796,11 +23325,14 @@
       "https://swtd.nl/events/seniorenkabinet-2/var/ri-107.l-L1/",
       "https://swtd.nl/events/inloop-veur-mekaar/var/ri-106.l-L1/",
       "https://swtd.nl/agenda-oud/",
-      "https://swtd.nl/"
+      "https://swtd.nl/",
+      "https://swtd.nl/ons-aanbod/ouder-worden/activiteiten-en-cursussen/",
+      "https://swtd.nl/agenda/",
+      "https://swtd.nl/events/inloop-eschede/var/ri-63.l-L1/"
     ],
-    "offerCount": 32,
+    "offerCount": 35,
     "reviewNeeded": 1,
-    "sourceBacked": 31,
+    "sourceBacked": 34,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -23118,6 +23650,59 @@
         "mapPin": false
       },
       {
+        "id": "extra-20261002-swtd-fietsclub-dinkelland",
+        "title": "Fiets- en Activiteitenclub Dinkelland",
+        "name": "Sociaal, dat werkt! · Fiets- en Activiteitenclub Dinkelland",
+        "description": "Wekelijkse fietsactiviteit om samen actief te zijn en sociale contacten op te doen.",
+        "municipality": "Dinkelland",
+        "municipalities": [
+          "Dinkelland"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "fietsen",
+          "senioren",
+          "sociaal contact"
+        ],
+        "tags": [
+          "fietsen",
+          "bewegen",
+          "ontmoeten",
+          "gratis",
+          "senioren",
+          "Dinkelland"
+        ],
+        "guidePaths": [
+          "ontmoeten/bewegen"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Dinkelland die graag samen willen fietsen en anderen ontmoeten.",
+        "costs": "Gratis.",
+        "access": "Wekelijks op zondagmiddag vanaf 14.00 uur; verzamelpunt bij de Drie Zusters op het Sint Nicolaasplein in Denekamp.",
+        "openingHours": "Zondag vanaf 14.00 uur, afhankelijk van weersomstandigheden.",
+        "phone": "085 0479 400",
+        "email": "info@swtd.nl",
+        "source": "https://swtd.nl/ons-aanbod/ouder-worden/activiteiten-en-cursussen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Eeshoflaan 21k-121",
+        "postcode": "7651LZ",
+        "town": "Tubbergen",
+        "lat": 52.41076671,
+        "lon": 6.78027092,
+        "locationType": "contact",
+        "locationSource": "https://swtd.nl/contact",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "candidate-e606b888ebdf51d9",
         "title": "Formulierenservice (TAFT)",
         "name": "Sociaal, dat werkt! · Formulierenservice (TAFT)",
@@ -23153,6 +23738,59 @@
         "sourceKind": "provider",
         "sourceTitle": "Sociaal, dat werkt!",
         "checked": "2026-09-15",
+        "reviewStatus": "source-backed",
+        "address": "Eeshoflaan 21k-121",
+        "postcode": "7651LZ",
+        "town": "Tubbergen",
+        "lat": 52.41076671,
+        "lon": 6.78027092,
+        "locationType": "contact",
+        "locationSource": "https://swtd.nl/contact",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261002-swtd-inloop-eschede",
+        "title": "Inloop Eschede Tubbergen",
+        "name": "Sociaal, dat werkt! · Inloop Eschede Tubbergen",
+        "description": "Vrijwillige huiskamerinloop waar bezoekers terechtkunnen voor koffie, een praatje en een spelletje.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "huiskamer",
+          "inloop",
+          "senioren"
+        ],
+        "tags": [
+          "inloop",
+          "huiskamer",
+          "koffie",
+          "spel",
+          "ontmoeten",
+          "senioren"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Met name oudere inwoners van Tubbergen die behoefte hebben aan laagdrempelig sociaal contact.",
+        "costs": "Geen deelnamekosten genoemd; eventuele consumptiekosten zijn niet vermeld.",
+        "access": "Vrije inloop op donderdagochtend 10.00-12.00 uur volgens de actuele agenda.",
+        "openingHours": "Donderdag 10.00-12.00 uur.",
+        "phone": "085 0479 400",
+        "email": "info@swtd.nl",
+        "source": "https://swtd.nl/events/inloop-eschede/var/ri-63.l-L1/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
         "reviewStatus": "source-backed",
         "address": "Eeshoflaan 21k-121",
         "postcode": "7651LZ",
@@ -24273,17 +24911,69 @@
         "locationMunicipality": "Tubbergen",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261002-swtd-walking-voetbal-denekamp",
+        "title": "Walking Voetbal Denekamp",
+        "name": "Sociaal, dat werkt! · Walking Voetbal Denekamp",
+        "description": "Voetballen op wandeltempo in een laagdrempelige setting, gericht op samen bewegen en ontmoeten.",
+        "municipality": "Dinkelland",
+        "municipalities": [
+          "Dinkelland"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "walking football",
+          "senioren",
+          "sociaal contact"
+        ],
+        "tags": [
+          "walking voetbal",
+          "bewegen",
+          "ontmoeten",
+          "gratis",
+          "Denekamp"
+        ],
+        "guidePaths": [
+          "ontmoeten/bewegen"
+        ],
+        "guideExclude": false,
+        "audience": "Iedereen die op wandeltempo wil voetballen; de activiteit staat in het seniorenaanbod van SWTD.",
+        "costs": "Geen kosten.",
+        "access": "Donderdag 13.30-14.30 uur volgens de actuele SWTD-agenda.",
+        "openingHours": "Donderdag 13.30-14.30 uur volgens de actuele agenda.",
+        "phone": "085 0479 400",
+        "email": "info@swtd.nl",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Kappelhofsweg 12",
+        "postcode": "7591ZZ",
+        "town": "Denekamp",
+        "lat": 52.37529332,
+        "lon": 6.99673651,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Dinkelland",
+        "mapLocationType": "address",
+        "mapPin": true
       }
     ],
     "location": {
-      "address": "Eeshoflaan 21k-121",
-      "postcode": "7651LZ",
-      "town": "Tubbergen",
-      "lat": 52.41076671,
-      "lon": 6.78027092,
-      "locationMunicipality": "Tubbergen",
-      "locationType": "contact",
-      "locationSource": "https://swtd.nl/contact",
+      "address": "Kappelhofsweg 12",
+      "postcode": "7591ZZ",
+      "town": "Denekamp",
+      "lat": 52.37529332,
+      "lon": 6.99673651,
+      "locationMunicipality": "Dinkelland",
+      "locationType": "visiting",
+      "locationSource": "https://swtd.nl/agenda/",
       "mapLocationType": "address"
     },
     "status": "review-needed",
@@ -26479,6 +27169,90 @@
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo"
+  },
+  {
+    "id": "org-tubbergen-verbindt-1baipa5",
+    "organization": "Tubbergen Verbindt",
+    "municipalities": [
+      "Tubbergen"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://swtd.nl/agenda/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-tubbergen-verbindt-koffieochtend",
+        "title": "koffieochtend",
+        "name": "Tubbergen Verbindt · koffieochtend",
+        "description": "Terugkerende koffieochtend in de Bibliotheek Tubbergen, georganiseerd door Tubbergen Verbindt, bedoeld om laagdrempelig anderen te ontmoeten.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "koffie",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "inloop",
+          "koffie",
+          "sociaal contact",
+          "Tubbergen"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Tubbergen die behoefte hebben aan een praatje, contact of gewoon samen koffie willen drinken.",
+        "costs": "Eventuele consumptiekosten worden niet op de agenda vermeld.",
+        "access": "Vrije koffieochtend; volgens de actuele agenda op vrijdag van 10.00-12.00 uur.",
+        "openingHours": "Vrijdag 10.00-12.00 uur volgens de actuele SWTD-agenda.",
+        "phone": "",
+        "email": "info@tubbergenverbindt.nl",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Tubbergen Verbindt / SWTD",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Raadhuisplein 4",
+        "postcode": "7651CV",
+        "town": "Tubbergen",
+        "lat": 52.40837485,
+        "lon": 6.78133142,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Raadhuisplein 4",
+      "postcode": "7651CV",
+      "town": "Tubbergen",
+      "lat": 52.40837485,
+      "lon": 6.78133142,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "locationSource": "https://swtd.nl/agenda/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://swtd.nl/agenda/"
   },
   {
     "id": "org-twents-fonds-voor-vakmanschap-1gt820z",
