@@ -350,3 +350,15 @@ html[data-color-scheme="dark"] .portal-footer-links button{color:#e4a068}
 html[data-color-scheme="dark"] .portal-legal-dialog{background:#242126;color:#eee9ee}
 html[data-color-scheme="dark"] .portal-legal-dialog p{color:#c2b8c2}
 @media(max-width:760px){.portal-footer{align-items:flex-start;flex-direction:column}.portal-footer-links{gap:12px}}
+
+
+/* Headercorrectie · compact SKT-merk */
+.portal-brand-mark {
+    color: var(--accent);
+    font-weight: 800;
+    letter-spacing: -0.7px;
+}
+.portal-header nav a {
+    opacity: 1;
+    visibility: visible;
+}
