@@ -37,15 +37,14 @@
                 "label": "Extra ondersteuning",
                 "description": "Onderwijs en ondersteuning bij gedrag, ontwikkeling of sociaal-emotionele problemen.",
                 "include": [
-                  "onderwijs",
-                  "school",
                   "gedrag",
                   "autisme",
                   "ass",
                   "adhd",
                   "sociaal emotioneel",
                   "onderwijszorg",
-                  "zorgonderwijs"
+                  "zorgonderwijs",
+                  "extra ondersteuning"
                 ]
               }
             ]
@@ -77,8 +76,7 @@
               "opleiding",
               "roc",
               "saxion",
-              "kamer raad",
-              "jongvolwassen"
+              "kamer raad"
             ]
           }
         ]
@@ -89,13 +87,14 @@
         "description": "Opvoedvragen, ouderondersteuning, gezinsactiviteiten en steun voor ouders.",
         "include": [
           "opvoed",
-          "ouder",
-          "ouders",
-          "gezin",
+          "ouderondersteuning",
+          "opvoedvraag",
           "familiehuis",
           "steungezin",
-          "kind",
-          "jeugd",
+          "ouder kind",
+          "ouder-kind",
+          "mama papa",
+          "mamapapa",
           "baby",
           "peuter"
         ]
@@ -107,11 +106,10 @@
         "include": [
           "jongerenwerk",
           "jongerencentrum",
+          "jongereninloop",
+          "tienerinloop",
           "jongere",
-          "jeugd",
-          "talentontwikkeling",
-          "talent",
-          "inloop jeugd"
+          "tiener"
         ]
       }
     ]
@@ -242,9 +240,10 @@
           "angst",
           "veerkracht",
           "mindfit",
-          "welzijn",
           "zelfvertrouwen",
-          "rouw"
+          "rouw",
+          "weerbaarheid",
+          "assertiviteit"
         ]
       },
       {
@@ -266,12 +265,12 @@
         "description": "Ondersteuning wanneer iemand weinig contacten heeft of zich alleen voelt.",
         "include": [
           "eenzaam",
-          "maatje",
-          "maatjes",
           "vriendschap",
           "sociaal contact",
-          "ontmoeten",
-          "inloop"
+          "sociaal netwerk",
+          "gezelschap",
+          "join us",
+          "tandem"
         ]
       }
     ]
@@ -350,7 +349,7 @@
           "relatie",
           "scheiding",
           "echtscheiding",
-          "ouderschap",
+          "ouderschap na scheiding",
           "omgang",
           "mediation"
         ]
@@ -361,18 +360,19 @@
         "description": "Praktische en emotionele steun na verlies, misdrijf of een ingrijpende gebeurtenis.",
         "include": [
           "slachtoffer",
-          "verlies",
-          "rouw",
-          "nabestaande",
-          "misdrijf"
+          "slachtofferhulp",
+          "misdrijf",
+          "stalking",
+          "delict",
+          "seksueel geweld"
         ]
       }
     ]
   },
   {
     "id": "meedoen",
-    "label": "Werk",
-    "description": "Werk, vrijwilligerswerk en daginvulling.",
+    "label": "Meedoen",
+    "description": "Daginvulling, vrijwilligerswerk en werk.",
     "children": [
       {
         "id": "daginvulling",
@@ -381,12 +381,13 @@
         "include": [
           "daginvulling",
           "dagbesteding",
-          "activiteit",
-          "inloop",
-          "creatief",
+          "dagactiviteit",
+          "activering",
           "werkplaats",
+          "atelier",
           "tuin",
-          "boerderij"
+          "boerderij",
+          "weekstructuur"
         ]
       },
       {
@@ -394,9 +395,12 @@
         "label": "Vrijwilligerswerk",
         "description": "Vrijwilligerswerk vinden, vrijwilligerssteun en iets betekenen voor anderen.",
         "include": [
-          "vrijwillig",
           "vrijwilligerswerk",
-          "vrijwilliger",
+          "vrijwilligersvacature",
+          "vrijwilligerssteunpunt",
+          "vrijwilligerspunt",
+          "vrijwilligerscentrale",
+          "vrijwilliger worden",
           "vacaturebank"
         ]
       },
@@ -444,10 +448,10 @@
           "samen eten",
           "eetmee",
           "resto",
-          "maaltijd",
-          "ontmoeten",
-          "wereldse vrouwen",
-          "koffie proat"
+          "eettafel",
+          "maaltijdgroep",
+          "koffie proat",
+          "gezellig eat"
         ]
       },
       {
@@ -475,14 +479,16 @@
         "label": "Nederlands",
         "description": "Taalcafés, taalmaatjes en oefenen met lezen, schrijven en spreken.",
         "include": [
-          "taal",
           "taalcafe",
           "taalcafé",
           "taalpunt",
           "nederlands",
           "lezen",
           "schrijven",
-          "taalmaatje"
+          "spreken",
+          "taalmaatje",
+          "praathuis",
+          "lees en schrijf"
         ]
       },
       {
@@ -523,10 +529,10 @@
         "label": "Alcohol & drugs",
         "description": "Ondersteuning rond alcohol, drugs en herstel.",
         "include": [
-          "verslaving",
           "alcohol",
           "drugs",
           "middelengebruik",
+          "middelenverslaving",
           "cannabis",
           "cocaine",
           "3-mmc",
@@ -549,9 +555,9 @@
         "label": "Naasten",
         "description": "Steun voor partners, ouders, kinderen en andere naasten.",
         "include": [
-          "naasten",
-          "familie",
-          "partner",
+          "naasten verslaving",
+          "familie verslaving",
+          "partner verslaving",
           "kinderen van ouders met",
           "kopp",
           "kvo"
@@ -582,13 +588,12 @@
         "label": "Taal & meedoen",
         "description": "Taal oefenen en via activiteiten andere mensen leren kennen.",
         "include": [
-          "taal",
-          "taalcafe",
-          "taalcafé",
-          "fietslessen",
+          "fietslessen statushouders",
           "wereldse vrouwen",
-          "participatie",
-          "inburger"
+          "inburger",
+          "statushouder",
+          "nieuwkomer",
+          "vluchteling"
         ]
       }
     ]
@@ -604,10 +609,11 @@
         "description": "Vrijwilligersvervoer en vervoer voor sociale of praktische ritten.",
         "include": [
           "automaatje",
-          "vervoer",
           "vrijwilligersvervoer",
+          "sociaal vervoer",
           "ritten",
-          "chauffeur"
+          "chauffeur",
+          "maatwerkvervoer"
         ]
       },
       {
@@ -650,7 +656,7 @@
           "racisme",
           "uitsluiting",
           "lhbti",
-          "inclusie"
+          "meldpunt discriminatie"
         ]
       }
     ]
@@ -666,10 +672,12 @@
         "description": "Voedselhulp, maaltijden en goedkope of gratis eetmogelijkheden.",
         "include": [
           "voedselbank",
-          "voedsel",
-          "maaltijd",
-          "eten",
-          "resto",
+          "voedselhulp",
+          "voedselpakket",
+          "noodpakket",
+          "boodschappenkaart",
+          "gratis maaltijd",
+          "maaltijdvoorziening",
           "brood"
         ]
       },
@@ -680,10 +688,10 @@
         "include": [
           "kleding",
           "kledingbank",
-          "meubel",
-          "spullen",
-          "speelgoed",
-          "kringloop"
+          "meubelbank",
+          "speelgoedbank",
+          "huisraad",
+          "noodspullen"
         ]
       }
     ]
