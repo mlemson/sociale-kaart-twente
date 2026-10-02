@@ -2646,10 +2646,9 @@
       "source": "https://swtd.nl/",
       "sourceTitle": "Sociaal, dat werkt!",
       "municipalities": [
-        "Dinkelland",
-        "Tubbergen"
+        "Dinkelland"
       ],
-      "municipality": "Tubbergen",
+      "municipality": "Dinkelland",
       "category": "ontmoeten",
       "primaryTheme": "ontmoeten",
       "themes": [
@@ -2667,16 +2666,13 @@
       "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
       "costs": "Controleer de actuele bijdrage.",
-      "address": "Eeshoflaan 21k-121",
-      "postcode": "7651LZ",
-      "town": "Tubbergen",
-      "lat": 52.41076671,
-      "lon": 6.78027092,
-      "locationMunicipality": "Tubbergen",
-      "locationType": "contact",
-      "locationSource": "https://swtd.nl/contact",
+      "address": "Profijtstraat",
+      "town": "Ootmarsum",
+      "locationMunicipality": "Dinkelland",
+      "locationType": "service",
+      "locationSource": "https://swtd.nl/agenda/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "mapPin": false
     },
     {
       "sourceKind": "first-party",
@@ -2689,10 +2685,9 @@
       "source": "https://swtd.nl/",
       "sourceTitle": "Sociaal, dat werkt!",
       "municipalities": [
-        "Dinkelland",
-        "Tubbergen"
+        "Dinkelland"
       ],
-      "municipality": "Tubbergen",
+      "municipality": "Dinkelland",
       "category": "ontmoeten",
       "primaryTheme": "ontmoeten",
       "themes": [
@@ -2710,16 +2705,12 @@
       "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
       "costs": "Controleer de actuele bijdrage.",
-      "address": "Eeshoflaan 21k-121",
-      "postcode": "7651LZ",
-      "town": "Tubbergen",
-      "lat": 52.41076671,
-      "lon": 6.78027092,
-      "locationMunicipality": "Tubbergen",
-      "locationType": "contact",
-      "locationSource": "https://swtd.nl/contact",
-      "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "address": "",
+      "town": "Weerselo",
+      "locationMunicipality": "Dinkelland",
+      "locationType": "service",
+      "locationSource": "https://swtd.nl/agenda/",
+      "mapPin": false
     },
     {
       "sourceKind": "first-party",
@@ -2729,10 +2720,9 @@
       "status": "candidate",
       "id": "extra-20261002-swtd-open-eettafel-geesteren",
       "name": "Sociaal, dat werkt! · Open Eettafel Geesteren",
-      "source": "https://swtd.nl/",
+      "source": "https://swtd.nl/agenda/",
       "sourceTitle": "Sociaal, dat werkt!",
       "municipalities": [
-        "Dinkelland",
         "Tubbergen"
       ],
       "municipality": "Tubbergen",
@@ -2742,27 +2732,30 @@
         "ontmoeten"
       ],
       "subthemes": [
-        "laagdrempelig"
+        "samen eten",
+        "senioren",
+        "sociaal contact"
       ],
       "tags": [
         "ontmoeten",
         "activiteit",
         "sociaal werk"
       ],
-      "description": "Terugkerende gezamenlijke eettafel en ontmoeting in Geesteren.",
+      "description": "Gezamenlijke open eettafel in De Aanleg in Geesteren, gericht op samen eten, ontmoeting en sociaal contact.",
       "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
-      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
-      "costs": "Controleer de actuele bijdrage.",
-      "address": "Eeshoflaan 21k-121",
-      "postcode": "7651LZ",
-      "town": "Tubbergen",
-      "lat": 52.41076671,
-      "lon": 6.78027092,
+      "access": "Aanmelden via SWTD of de gastvrouwen; zie de actuele agenda.",
+      "costs": "Een maaltijd wordt tegen een kleine bijdrage aangeboden; controleer het actuele bedrag bij SWTD.",
+      "address": "De Aanleg 7",
+      "town": "Geesteren",
       "locationMunicipality": "Tubbergen",
-      "locationType": "contact",
-      "locationSource": "https://swtd.nl/contact",
+      "locationType": "visiting",
+      "locationSource": "https://swtd.nl/agenda/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "mapPin": true,
+      "openingHours": "Dinsdag en donderdag 12.00-13.30 uur.",
+      "guidePaths": [
+        "ontmoeten/samen"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -2772,10 +2765,9 @@
       "status": "candidate",
       "id": "extra-20261002-swtd-crea-club",
       "name": "Sociaal, dat werkt! · Crea Club",
-      "source": "https://swtd.nl/",
+      "source": "https://swtd.nl/agenda/",
       "sourceTitle": "Sociaal, dat werkt!",
       "municipalities": [
-        "Dinkelland",
         "Tubbergen"
       ],
       "municipality": "Tubbergen",
@@ -2785,27 +2777,31 @@
         "ontmoeten"
       ],
       "subthemes": [
-        "laagdrempelig"
+        "creatief",
+        "senioren",
+        "sociaal contact"
       ],
       "tags": [
         "ontmoeten",
         "activiteit",
         "sociaal werk"
       ],
-      "description": "Terugkerende creatieve club voor ontmoeting en samen bezig zijn.",
+      "description": "Terugkerende creatieve club in Bibliotheek Tubbergen om samen bezig te zijn en anderen te ontmoeten.",
       "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
-      "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
-      "costs": "Controleer de actuele bijdrage.",
-      "address": "Eeshoflaan 21k-121",
-      "postcode": "7651LZ",
+      "access": "Inloop/activiteit volgens de actuele SWTD-agenda.",
+      "costs": "Niet vermeld in de actuele agenda; controleer eventuele bijdrage bij SWTD.",
+      "address": "Raadhuisplein 4",
       "town": "Tubbergen",
-      "lat": 52.41076671,
-      "lon": 6.78027092,
       "locationMunicipality": "Tubbergen",
-      "locationType": "contact",
-      "locationSource": "https://swtd.nl/contact",
+      "locationType": "visiting",
+      "locationSource": "https://swtd.nl/agenda/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "mapPin": true,
+      "openingHours": "Maandag 10.00-12.00 uur volgens de actuele agenda.",
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -9253,6 +9249,438 @@
       "locationMunicipality": "Almelo",
       "mapLocationType": "address",
       "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-swtd-huiskamer-kolenbranderhof",
+      "name": "Sociaal, dat werkt! · Huiskamer Kolenbranderhof",
+      "source": "https://swtd.nl/agenda/",
+      "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "huiskamer",
+        "senioren",
+        "sociaal contact"
+      ],
+      "tags": [
+        "huiskamer",
+        "inloop",
+        "koffie",
+        "senioren",
+        "ontmoeten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "description": "Wekelijkse huiskamer waar inwoners terechtkunnen voor koffie, een praatje, een spelletje en gezelligheid.",
+      "audience": "Met name oudere inwoners die behoefte hebben aan laagdrempelig sociaal contact.",
+      "access": "Vrije huiskamerinloop op woensdagochtend volgens de actuele agenda.",
+      "costs": "Geen deelnamekosten vermeld; eventuele consumptiekosten zijn niet gespecificeerd.",
+      "address": "Kolenbranderhof 1",
+      "town": "Tubbergen",
+      "openingHours": "Woensdag 10.00-12.00 uur.",
+      "locationSource": "https://swtd.nl/agenda/"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-swtd-dorpshuiskamer-vasse",
+      "name": "Sociaal, dat werkt! · Dorpshuiskamer Vasse",
+      "source": "https://swtd.nl/agenda/",
+      "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "dorpshuiskamer",
+        "senioren",
+        "sociaal contact"
+      ],
+      "tags": [
+        "Vasse",
+        "dorpshuiskamer",
+        "inloop",
+        "ontmoeten",
+        "senioren"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "description": "Dorpshuiskamer in ’t Eschhoes in Vasse voor laagdrempelige ontmoeting en samen zijn.",
+      "audience": "Inwoners van Vasse en omgeving, met name senioren.",
+      "access": "Inloop volgens de actuele SWTD-agenda.",
+      "costs": "Niet vermeld in de actuele agenda.",
+      "address": "Hooidijk 21",
+      "town": "Vasse",
+      "postcode": "7661 RA",
+      "openingHours": "Volgens de actuele agenda onder Dorpshuiskamer.",
+      "locationSource": "https://swtd.nl/agenda/"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-swtd-cake-om-de-week",
+      "name": "Sociaal, dat werkt! · Inloop Cake om de week",
+      "source": "https://swtd.nl/agenda/",
+      "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop",
+        "senioren",
+        "sociaal contact"
+      ],
+      "tags": [
+        "inloop",
+        "koffie",
+        "ontmoeten",
+        "senioren",
+        "Tubbergen"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "description": "Terugkerende inloopmiddag bij Rustpunt ’t Oude Schuurtje voor ontmoeting en gezelligheid.",
+      "audience": "Oudere inwoners en anderen die behoefte hebben aan laagdrempelig contact.",
+      "access": "Inloop om de week volgens de actuele agenda.",
+      "costs": "Niet vermeld in de actuele agenda.",
+      "address": "Hardenbergerweg 37",
+      "town": "Tubbergen",
+      "openingHours": "14.00-16.00 uur op de aangekondigde dagen.",
+      "locationSource": "https://swtd.nl/agenda/"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-swtd-seniorenfit-geesteren",
+      "name": "Sociaal, dat werkt! · Seniorenfit Geesteren",
+      "source": "https://swtd.nl/agenda/",
+      "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "senioren",
+        "sport",
+        "sociaal contact"
+      ],
+      "tags": [
+        "seniorenfit",
+        "bewegen",
+        "ontmoeten",
+        "Geesteren"
+      ],
+      "guidePaths": [
+        "ontmoeten/bewegen"
+      ],
+      "description": "Wekelijks bewegen onder begeleiding van een buurtsportcoach, op eigen niveau, met na afloop gelegenheid voor koffie en contact.",
+      "audience": "Senioren die laagdrempelig samen willen bewegen.",
+      "access": "Wekelijks volgens de actuele agenda.",
+      "costs": "Niet vermeld in de actuele agenda.",
+      "address": "Vinckenweg 14",
+      "town": "Geesteren",
+      "openingHours": "Vrijdag 09.00-10.00 uur.",
+      "locationSource": "https://swtd.nl/agenda/"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-swtd-huiskamer-manderveen",
+      "name": "Sociaal, dat werkt! · Huiskamer en open eettafel Manderveen",
+      "source": "https://swtd.nl/agenda/",
+      "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "huiskamer",
+        "samen eten",
+        "senioren"
+      ],
+      "tags": [
+        "Manderveen",
+        "huiskamer",
+        "open eettafel",
+        "ontmoeten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "ontmoeten/samen"
+      ],
+      "description": "Huiskamer en gezamenlijke eettafel in Kulturhus de Samenwerking in Manderveen.",
+      "audience": "Inwoners van Manderveen en omgeving, met name senioren.",
+      "access": "Volgens de actuele SWTD-agenda.",
+      "costs": "Controleer de actuele bijdrage voor de maaltijd bij SWTD.",
+      "address": "Manderveenseweg 70",
+      "town": "Manderveen",
+      "openingHours": "Volgens de actuele agenda; op 2 oktober 2026 10.30-13.30 uur.",
+      "locationSource": "https://swtd.nl/agenda/"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-swtd-open-eettafel-albergen",
+      "name": "Sociaal, dat werkt! · Open Eettafel Albergen",
+      "source": "https://swtd.nl/agenda/",
+      "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "samen eten",
+        "senioren",
+        "sociaal contact"
+      ],
+      "tags": [
+        "Albergen",
+        "open eettafel",
+        "samen eten",
+        "ontmoeten"
+      ],
+      "guidePaths": [
+        "ontmoeten/samen"
+      ],
+      "description": "Gezamenlijke open eettafel in Kulturhus Kuierstee in Albergen, bedoeld om samen te eten en anderen te ontmoeten.",
+      "audience": "Inwoners van Albergen en omgeving, met name senioren.",
+      "access": "Volgens de actuele SWTD-agenda.",
+      "costs": "Een maaltijd wordt tegen een bijdrage aangeboden; controleer het actuele bedrag bij SWTD.",
+      "address": "Hoofdstraat 51",
+      "town": "Albergen",
+      "openingHours": "Volgens de actuele agenda; op 2 oktober 2026 12.00-14.00 uur.",
+      "locationSource": "https://swtd.nl/agenda/"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-swtd-kuiern-bie-de-mol",
+      "name": "Sociaal, dat werkt! · Kuier’n bie de Möl",
+      "source": "https://swtd.nl/agenda/",
+      "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "koffiemiddag",
+        "senioren",
+        "sociaal contact"
+      ],
+      "tags": [
+        "Langeveen",
+        "koffie",
+        "ontmoeten",
+        "senioren"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "description": "Maandelijkse koffiemiddag in Langeveen om bij te praten en anderen te ontmoeten.",
+      "audience": "Inwoners van Langeveen en omgeving, met name senioren.",
+      "access": "Iedere laatste woensdag van de maand volgens de actuele agenda.",
+      "costs": "€2 voor de koffie volgens de actuele agenda.",
+      "address": "Molenbergstraat 24",
+      "town": "Langeveen",
+      "openingHours": "Laatste woensdag van de maand 14.00-16.00 uur.",
+      "locationSource": "https://swtd.nl/agenda/"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-swtd-senioren-padel-tubbergen",
+      "name": "Sociaal, dat werkt! · Senioren Padel Tubbergen",
+      "source": "https://swtd.nl/agenda/",
+      "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+      "category": "bewegen",
+      "primaryTheme": "bewegen",
+      "themes": [
+        "bewegen",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "senioren",
+        "padel",
+        "sociaal contact"
+      ],
+      "tags": [
+        "senioren",
+        "padel",
+        "bewegen",
+        "ontmoeten",
+        "Tubbergen"
+      ],
+      "guidePaths": [
+        "ontmoeten/bewegen"
+      ],
+      "description": "Wekelijkse seniorenactiviteit op de indoor padelbanen van VOLEA in Tubbergen.",
+      "audience": "Senioren die samen actief willen zijn en anderen willen ontmoeten.",
+      "access": "Volgens de actuele SWTD-agenda.",
+      "costs": "Niet vermeld in de actuele agenda.",
+      "address": "L. van Bönninghausenstraat 31",
+      "town": "Tubbergen",
+      "openingHours": "Donderdag 09.30-11.30 uur.",
+      "locationSource": "https://swtd.nl/agenda/"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend / vrij toegankelijk of algemene voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-schakel-tubbergen",
+      "name": "Schakel Tubbergen · informatie, advies en ondersteuning",
+      "source": "https://schakeltubbergen.nl/",
+      "sourceTitle": "Schakel Tubbergen",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies"
+      ],
+      "subthemes": [
+        "informatie",
+        "sociaal werk",
+        "wegwijs"
+      ],
+      "tags": [
+        "Schakel",
+        "advies",
+        "informatie",
+        "welzijn",
+        "jeugd",
+        "zorg",
+        "geld",
+        "wonen",
+        "praktische hulp"
+      ],
+      "guidePaths": [
+        "basis/praktisch"
+      ],
+      "description": "Laagdrempelig eerste aanspreekpunt van gemeente Tubbergen en SWTD voor vragen over jeugd, vrijwilligerswerk, mantelzorg, ontmoeten, werk, gezondheid, wonen, geld en praktische hulp.",
+      "audience": "Inwoners van de gemeente Tubbergen met vragen of zorgen over het dagelijks leven.",
+      "access": "Vrije inloop tijdens de openingstijden; bellen of mailen kan ook.",
+      "costs": "Gratis informatie en advies.",
+      "address": "Raadhuisplein 1",
+      "town": "Tubbergen",
+      "postcode": "7651 CV",
+      "phone": "0546-628701",
+      "email": "info@schakeltubbergen.nl",
+      "openingHours": "Maandag t/m vrijdag 09.00-12.00 uur.",
+      "locationSource": "https://schakeltubbergen.nl/"
     }
   ],
   "addressEnrichmentVersion": 1,
