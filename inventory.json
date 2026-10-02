@@ -2579,11 +2579,11 @@
       ],
       "sourceTitle": "Sociale kaart Almelo",
       "sourceKind": "municipal-directory",
-      "checked": "2026-09-15",
+      "checked": "2026-10-03",
       "category": "ontmoeten",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
+      "description": "Ontmoetings- en activiteitenlocatie van De Klup in Almelo, met sociaal en recreatief aanbod voor mensen die ondersteuning bij meedoen kunnen gebruiken.",
       "address": "Berlagelaan 2",
       "town": "Almelo",
       "scope": "Aanbod van lokale welzijnsorganisatie",
@@ -2623,18 +2623,16 @@
       },
       "primaryTheme": "ontmoeten",
       "postcode": "7606ST",
-      "lat": 52.35039444,
-      "lon": 6.64594796,
       "locationMunicipality": "Almelo",
-      "locationType": "contact",
+      "locationType": "visiting",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
-      "addressChecked": "2026-10-01",
       "guidePaths": [
-        "zorg/beperking",
-        "meedoen/daginvulling"
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
       ],
-      "mapPin": false,
-      "guideExclude": false
+      "mapPin": true,
+      "guideExclude": false,
+      "mapLocationType": "address"
     },
     {
       "id": "candidate-70465b5a9d80e6c4",
@@ -5334,11 +5332,11 @@
       ],
       "sourceTitle": "Sociale kaart Almelo",
       "sourceKind": "municipal-directory",
-      "checked": "2026-09-15",
+      "checked": "2026-10-03",
       "category": "ontmoeten",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
+      "access": "Vrije inloop volgens het actuele programma.",
+      "description": "Buurthuiskamer van het Leger des Heils waar buurtbewoners laagdrempelig kunnen binnenlopen voor koffie, ontmoeting en activiteiten.",
       "address": "Troelstralaan 1",
       "town": "Almelo",
       "scope": "Aanbod van lokale welzijnsorganisatie",
@@ -5381,12 +5379,15 @@
       },
       "primaryTheme": "ontmoeten",
       "postcode": "7604VW",
-      "lat": 52.35761573,
-      "lon": 6.65236287,
       "locationMunicipality": "Almelo",
-      "locationType": "source-address",
+      "locationType": "visiting",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
-      "addressChecked": "2026-10-01"
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "mapLocationType": "address",
+      "mapPin": true
     },
     {
       "id": "candidate-5ad733a463c4a16d",
@@ -10403,11 +10404,11 @@
       ],
       "sourceTitle": "Sociale kaart Almelo",
       "sourceKind": "municipal-directory",
-      "checked": "2026-09-15",
+      "checked": "2026-10-03",
       "category": "jeugd",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
+      "access": "Jongeren kunnen rechtstreeks binnenlopen of contact opnemen; geen verwijzing nodig.",
+      "description": "Laagdrempelige plek voor jongeren waar zij zonder verwijzing terechtkunnen voor een gesprek, steun en een luisterend oor.",
       "address": "Wierdensestraat 18",
       "town": "Almelo",
       "scope": "Aanbod van lokale welzijnsorganisatie",
@@ -10447,16 +10448,16 @@
       },
       "primaryTheme": "jeugd",
       "postcode": "7607GH",
-      "lat": 52.35495064,
-      "lon": 6.66199027,
       "locationMunicipality": "Almelo",
-      "locationType": "source-address",
+      "locationType": "visiting",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
-      "addressChecked": "2026-10-01",
       "guidePaths": [
         "onderwijs/jongeren",
         "mentaal/welzijn"
-      ]
+      ],
+      "costs": "Gratis.",
+      "mapLocationType": "address",
+      "mapPin": true
     },
     {
       "id": "candidate-0dd870c02eb65c0b",
