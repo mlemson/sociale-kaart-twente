@@ -94,6 +94,8 @@
     }
     if (node.children && node.children.length) return node.children.some(child => matchesNode(child, record));
     const text = record._text || recordText(record);
+    const required = node.requireAny || [];
+    if (required.length && !required.some(term => termMatches(text, term))) return false;
     return (node.include || []).some(term => termMatches(text, term));
   }
 
