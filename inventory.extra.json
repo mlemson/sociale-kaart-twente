@@ -6875,7 +6875,7 @@
       "town": "Hengelo",
       "locationType": "visiting",
       "locationSource": "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp",
-      "mapPin": true,
+      "mapPin": false,
       "lat": 52.27074775,
       "lon": 6.7819718,
       "locationMunicipality": "Hengelo (O)",
@@ -9732,6 +9732,605 @@
       "lat": 52.40820915,
       "lon": 6.78068999,
       "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-wijkcentrum-slangenbeek",
+      "name": "Wijkcentrum Slangenbeek · ontmoeting en activiteiten",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Multifunctioneel wijkcentrum met verenigingen en laagdrempelige wijkactiviteiten, waaronder koersbal.",
+      "audience": "Inwoners van Hengelo-Noord en andere belangstellenden.",
+      "access": "Bekijk het actuele programma of neem contact op met het wijkcentrum.",
+      "costs": "Veel inloop en ontmoeting is laagdrempelig; kosten verschillen per activiteit.",
+      "address": "Straatsburg 5",
+      "postcode": "7559NM",
+      "town": "Hengelo",
+      "phone": "074 278 2000",
+      "email": "info@wijkcentranoord.nl"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-sterrentuin",
+      "name": "Wijkcentrum De Sterrentuin · ontmoetingsplek",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Wijkcentrum en ontmoetingsplek voor jong en oud met verenigingen en activiteiten.",
+      "audience": "Buurtbewoners en andere inwoners van Hengelo.",
+      "access": "Bekijk het actuele programma bij het wijkcentrum.",
+      "costs": "Afhankelijk van de activiteit.",
+      "address": "Neptunusstraat 51",
+      "postcode": "7557XX",
+      "town": "Hengelo",
+      "phone": "074 291 9177",
+      "email": "info@wijkcentranoord.nl"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-wijkcentrum-hengelose-es",
+      "name": "Wijkcentrum Hengelose Es · ontmoeting en activiteiten",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Wijkcentrum in de Hengelose Es met buurtactiviteiten, gratis wijkontbijt en ontmoetingsgroepen.",
+      "audience": "Bewoners van de Hengelose Es en andere inwoners.",
+      "access": "Vrije inloop bij verschillende activiteiten; controleer het programma.",
+      "costs": "Een deel van het aanbod is gratis; sommige activiteiten vragen een kleine bijdrage.",
+      "address": "Uitslagsweg 47",
+      "postcode": "7556LN",
+      "town": "Hengelo",
+      "phone": "074 250 4020",
+      "email": "info@wijkcentramidden.nl"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-wijkcentrum-tempel",
+      "name": "Wijkcentrum De Tempel · buurtontmoeting",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Wijkcentrum in Hengelo-Zuid voor buurtontmoeting en uiteenlopende activiteiten.",
+      "audience": "Buurtbewoners en andere inwoners van Hengelo.",
+      "access": "Bekijk het actuele programma bij het wijkcentrum.",
+      "costs": "Afhankelijk van de activiteit.",
+      "address": "Booggang 2",
+      "postcode": "7552JZ",
+      "town": "Hengelo",
+      "phone": "074 242 6716",
+      "email": "info@wijkcentrumdetempel.nl"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-berflo",
+      "name": "'t Berflo Hengelo · wijkcentrum en activiteiten",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Multifunctionele accommodatie met welzijns-, wijk- en buurtactiviteiten voor jong en oud.",
+      "audience": "Bewoners van Berflo Es en andere inwoners van Hengelo.",
+      "access": "Bekijk het activiteitenprogramma van 't Berflo.",
+      "costs": "Afhankelijk van de activiteit.",
+      "address": "Apolloplein 1",
+      "postcode": "7552VG",
+      "town": "Hengelo",
+      "phone": "074 245 8808",
+      "email": "info@berflo-hengelo.nl"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-swafert",
+      "name": "Wijkracht Hengelo · Wijkhuys 't Swafert",
+      "source": "https://www.wijkrachthengelo.nl/groot-driene/agenda/31113/inloop",
+      "sourceTitle": "Wijkracht Hengelo",
+      "description": "Vrij toegankelijke buurthuiskamer in Groot Driene met inloop, koffie, ontmoeting en activiteiten.",
+      "audience": "Kinderen, jongeren, volwassenen en senioren uit de wijk en de stad.",
+      "access": "Dinsdag en donderdag 09.00-16.00 uur volgens de actuele agenda.",
+      "costs": "Koffie/inloop tegen een kleine bijdrage; actuele agenda vermeldt €0,60.",
+      "address": "Het Swafert 1018",
+      "town": "Hengelo",
+      "phone": "088 045 5950",
+      "subthemes": [
+        "buurthuiskamer",
+        "wijkhuys",
+        "daginvulling"
+      ]
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "tags": [
+        "inloop",
+        "dakloosheid",
+        "praktische hulp",
+        "ontmoeten",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "wonen/dakloos",
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-humanitas-onder-dak-inloop",
+      "name": "Humanitas Onder Dak · Inloop Hengelo",
+      "source": "https://wijkrachthengelo.nl/organisaties/10466/humanitas",
+      "sourceTitle": "Wijkracht Hengelo / Humanitas Onder Dak",
+      "description": "Veilige huiskamer met koffie, een praatje, spel, computergebruik, douche, wasmogelijkheid en ruimte om hulpvragen te stellen.",
+      "audience": "Volwassenen die behoefte hebben aan inloop, praktische basisvoorzieningen of een eerste stap naar ondersteuning.",
+      "access": "Vrije inloop volgens het actuele programma.",
+      "costs": "Laagdrempelige inloop.",
+      "address": "Deldenerstraat 26",
+      "town": "Hengelo",
+      "phone": "088 119 8878"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal",
+        "ontmoeten"
+      ],
+      "tags": [
+        "mentaal",
+        "inloop",
+        "herstel",
+        "ontmoeten",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "mentaal/welzijn",
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-vogelkwartier",
+      "name": "Mediant · Inloop 't Vogelkwartier",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Vrije koffie-inloop met gesprek, spel en activiteiten; er is geen financiering of indicatie nodig.",
+      "audience": "Iedereen die behoefte heeft aan ontmoeting, structuur of laagdrempelige ondersteuning.",
+      "access": "Vrije inloop; geen financiering nodig.",
+      "costs": "Laagdrempelig; controleer eventuele consumptiekosten.",
+      "address": "Leeuwerikstraat 36",
+      "postcode": "7557CE",
+      "town": "Hengelo",
+      "phone": "088 373 6854"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-bij-bosshardt",
+      "name": "Bij Bosshardt Hengelo · buurthuiskamer",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Buurthuiskamer van en door de buurt waar iedereen welkom is voor ontmoeting, gesprek en samen optrekken.",
+      "audience": "Buurtbewoners en andere inwoners die behoefte hebben aan contact.",
+      "access": "Vrije inloop volgens de actuele openingstijden.",
+      "costs": "Laagdrempelige buurthuiskamer.",
+      "address": "Agonstraat 10",
+      "postcode": "7552TJ",
+      "town": "Hengelo",
+      "phone": "074 291 3747",
+      "subthemes": [
+        "buurthuiskamer",
+        "sociaal contact"
+      ]
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "inloop",
+        "gratis",
+        "ondersteuning",
+        "ontmoeten",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling",
+        "mentaal/welzijn"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-bij-mozart",
+      "name": "Bij Mozart · vrije inloop",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Vrijblijvende en kosteloze inloopplek met koffie, thee, een luisterend oor en activiteiten zoals creatief bezig zijn, samen eten en sport of spel.",
+      "audience": "Iedereen die een vorm van hulp, ondersteuning of ontmoeting kan gebruiken.",
+      "access": "Vrije inloop; geen indicatie genoemd.",
+      "costs": "Gratis deelname volgens de Informatiewijzer.",
+      "address": "Mozartlaan 161",
+      "postcode": "7557DN",
+      "town": "Hengelo",
+      "phone": "074 202 0800",
+      "email": "r.vanrooij@wijkracht.nl"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-de-schoof",
+      "name": "Ontmoetingsruimte De Schoof · activiteiten",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Ontmoetingsruimte in Hengelo-Zuid met terugkerende activiteiten, waaronder schilderen.",
+      "audience": "Inwoners die willen deelnemen aan buurt- en ontmoetingsactiviteiten.",
+      "access": "Bekijk de actuele activiteiten; schilderen is volgens de bron op dinsdagochtend.",
+      "costs": "Afhankelijk van de activiteit.",
+      "address": "Hennepstraat 150",
+      "postcode": "7552DN",
+      "town": "Hengelo",
+      "phone": "074 291 1754"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-proggiehoes",
+      "name": "'t Proggiehoes Beckum · ontmoetingsruimte",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Ontmoetingsruimte in Beckum met maandelijks een gevarieerd sociaal programma.",
+      "audience": "Inwoners van Beckum en omgeving.",
+      "access": "Eerste dinsdag van de maand volgens de actuele Informatiewijzer.",
+      "costs": "Niet vermeld; controleer bij de locatie.",
+      "address": "Beckumerschoolweg 38",
+      "postcode": "7554PZ",
+      "town": "Hengelo",
+      "phone": "074 367 6442"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "taal",
+      "primaryTheme": "taal",
+      "themes": [
+        "taal",
+        "advies"
+      ],
+      "tags": [
+        "taal",
+        "digitaal",
+        "IDO",
+        "Taalpunt",
+        "gratis",
+        "bibliotheek",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "taal/nederlands",
+        "taal/digitaal",
+        "taal/basis",
+        "geld/formulieren"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-bibliotheek-stad",
+      "name": "Bibliotheek Twente · Hengelo Stad",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/taal",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Bibliotheeklocatie met Taalpunt, Taalcafé, Oefenplein en Informatiepunt Digitale Overheid; veel hulp is gratis en zonder lidmaatschap toegankelijk.",
+      "audience": "Inwoners met vragen over taal, lezen, schrijven, digitale vaardigheden of digitale overheid.",
+      "access": "Vrije inloop op meerdere spreekuren; controleer de actuele tijden.",
+      "costs": "Taalpunt, Oefenplein en IDO zijn gratis.",
+      "address": "Beursstraat 34",
+      "postcode": "7551HV",
+      "town": "Hengelo",
+      "phone": "074 245 2565"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / vrij toegankelijke ontmoetingsplek",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd",
+        "ontmoeten"
+      ],
+      "tags": [
+        "jongeren",
+        "jongerencentrum",
+        "ontmoeten",
+        "Hengelo"
+      ],
+      "guidePaths": [
+        "onderwijs/jongeren",
+        "ontmoeten/inloop"
+      ],
+      "locationType": "visiting",
+      "locationMunicipality": "Hengelo",
+      "mapLocationType": "address",
+      "mapPin": true,
+      "id": "extra-20261002-hengelo-cerberus",
+      "name": "Jongerencentrum Cerberus · jongerenontmoeting",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/sport%2C-vrije-tijd-en-ontmoetingsplekken",
+      "sourceTitle": "Informatiewijzer Hengelo",
+      "description": "Jongerencentrum voor jongeren van ongeveer 14 tot en met 28 jaar met uiteenlopende activiteiten en evenementen.",
+      "audience": "Jongeren en jongvolwassenen.",
+      "access": "Bekijk het actuele programma van Cerberus.",
+      "costs": "Afhankelijk van activiteit of evenement.",
+      "address": "Koekoekweg 18",
+      "postcode": "7557PH",
+      "town": "Hengelo",
+      "phone": "074 349 1756"
     }
   ],
   "addressEnrichmentVersion": 1,
