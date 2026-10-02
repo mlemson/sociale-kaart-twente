@@ -1,0 +1,82 @@
+[
+  {
+    "nameContains": "Samen Actief",
+    "municipality": "Enschede",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "Samen Actief",
+    "municipality": "Borne",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "Samen Actief",
+    "municipality": "Oldenzaal",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "Samen Actief",
+    "municipality": "Losser",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "taal- en digitale hulp",
+    "municipality": "Enschede",
+    "path": "migratie/taal"
+  },
+  {
+    "nameContains": "Taalspreekuur",
+    "municipality": "Enschede",
+    "path": "migratie/taal"
+  },
+  {
+    "nameContains": "Meedoen-spreekuur",
+    "municipality": "Enschede",
+    "path": "migratie/taal"
+  },
+  {
+    "nameContains": "Praathuis Centrum",
+    "municipality": "Enschede",
+    "path": "migratie/taal"
+  },
+  {
+    "nameContains": "Home-Start",
+    "municipality": "Enschede",
+    "path": "onderwijs/opvoeden"
+  },
+  {
+    "nameContains": "Tandem maatjes",
+    "municipality": "Enschede",
+    "path": "mentaal/eenzaamheid"
+  },
+  {
+    "nameContains": "Begeleide Omgangsregeling",
+    "municipality": "Enschede",
+    "path": "veiligheid/relaties"
+  },
+  {
+    "nameContains": "AutoMaatje",
+    "municipality": "Borne",
+    "path": "vervoer/sociaal"
+  },
+  {
+    "nameContains": "Odensehuis",
+    "municipality": "Haaksbergen",
+    "path": "zorg/dementie"
+  },
+  {
+    "nameContains": "Sociaal Juridisch Spreekuur",
+    "municipality": "Hof van Twente",
+    "path": "recht/juridisch"
+  },
+  {
+    "nameContains": "Attendiz",
+    "municipality": "Enschede",
+    "path": "onderwijs/school/speciaal/gedrag"
+  },
+  {
+    "nameContains": "hulp voor naasten",
+    "municipality": "Enschede",
+    "path": "verslaving/naasten"
+  }
+]

@@ -111,7 +111,7 @@
   }
 
   function forNode(node) {
-    return records.filter(record => inMunicipality(record) && matchesNode(node, record));
+    return records.filter(record => !record.guideExclude && inMunicipality(record) && matchesNode(node, record));
   }
 
   function findNode(ids) {
@@ -297,7 +297,7 @@
 
   function renderSearch(query) {
     const q = norm(query);
-    const hits = records.filter(record => inMunicipality(record) && record._text.includes(q)).slice(0, 100);
+    const hits = records.filter(record => !record.guideExclude && inMunicipality(record) && record._text.includes(q)).slice(0, 100);
     byId("guide-grid").hidden = true;
     const results = byId("guide-results");
     results.hidden = false;
@@ -339,7 +339,7 @@
     if (!node) {
       byId("guide-heading").textContent = "Waar zoek je informatie over?";
       byId("guide-subheading").textContent = "";
-      byId("guide-status").textContent = records.filter(inMunicipality).length + " vormen van aanbod en verwijspunten beschikbaar" + (municipality() ? " in " + municipality() : " in Twente") + ".";
+      byId("guide-status").textContent = records.filter(record => !record.guideExclude && inMunicipality(record)).length + " vormen van aanbod en verwijspunten beschikbaar" + (municipality() ? " in " + municipality() : " in Twente") + ".";
       renderCards(taxonomy, null);
       return;
     }
@@ -371,6 +371,7 @@
         subthemes: offer.subthemes || [],
         tags: offer.tags || [],
         guidePaths: offer.guidePaths || [],
+        guideExclude: Boolean(offer.guideExclude),
         category: offer.category || "",
         checked: offer.checked || group.checked || ""
       }));
@@ -390,6 +391,7 @@
       subthemes: facility.subthemes || [],
       tags: uniq([...(facility.tags || []), facility.category]),
       guidePaths: facility.guidePaths || [],
+      guideExclude: Boolean(facility.guideExclude),
       category: facility.category || "",
       checked: facility.checked || ""
     }));
@@ -408,7 +410,8 @@
           subthemes: uniq(record.subthemes),
           tags: uniq(record.tags),
           routeTags: uniq(record.routeTags),
-          guidePaths: uniq(record.guidePaths)
+          guidePaths: uniq(record.guidePaths),
+          guideExclude: Boolean(record.guideExclude)
         });
         return;
       }
@@ -419,6 +422,7 @@
       current.tags = uniq([...(current.tags || []), ...(record.tags || [])]);
       current.routeTags = uniq([...(current.routeTags || []), ...(record.routeTags || [])]);
       current.guidePaths = uniq([...(current.guidePaths || []), ...(record.guidePaths || [])]);
+      current.guideExclude = Boolean(current.guideExclude || record.guideExclude);
       ["description","audience","access","costs","source","checked"].forEach(field => {
         if (record[field] && (!current[field] || String(record[field]).length > String(current[field]).length)) current[field] = record[field];
       });

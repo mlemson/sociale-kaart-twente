@@ -4493,7 +4493,11 @@
       "locationType": "contact",
       "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/nederlands",
+        "taal/basis"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -4537,7 +4541,11 @@
       "locationType": "contact",
       "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/nederlands",
+        "migratie/taal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -7383,6 +7391,111 @@
       "locationMunicipality": "Oldenzaal",
       "mapLocationType": "address",
       "addressChecked": "2026-10-02"
+    },
+    {
+      "id": "candidate-20261002-humanitas-samen-actief",
+      "name": "Humanitas Twente · Samen Actief",
+      "source": "https://humanitastwente.nl/wat-we-doen/samen-actief/",
+      "sourceTitle": "Humanitas Twente",
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede",
+        "Borne",
+        "Oldenzaal",
+        "Losser"
+      ],
+      "municipality": "Enschede",
+      "category": "advies",
+      "primaryTheme": "advies",
+      "themes": [
+        "advies",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "nieuwkomers",
+        "migratieachtergrond",
+        "wegwijs in Nederland"
+      ],
+      "tags": [
+        "nieuwkomers",
+        "migranten",
+        "statushouders",
+        "integratie",
+        "meedoen",
+        "ondersteuning"
+      ],
+      "guidePaths": [
+        "migratie/nieuwkomer"
+      ],
+      "description": "Een getrainde vrijwilliger ondersteunt mensen met een migratieachtergrond bij wegwijs worden in Nederland en vragen over onder meer werk, wonen, gezondheidszorg, opvoeding en post.",
+      "audience": "Mensen met een migratieachtergrond, waaronder mensen die nieuw in Nederland zijn en statushouders.",
+      "access": "Aanmelden bij Humanitas Twente; ondersteuning is tijdelijk en wordt gekoppeld aan een passende vrijwilliger.",
+      "costs": "Gratis.",
+      "town": "Enschede",
+      "locationType": "service-area",
+      "mapPin": false
+    },
+    {
+      "id": "candidate-20261002-tactus-naasten",
+      "name": "Tactus / Intact · hulp voor naasten",
+      "source": "https://www.tactus.nl/hulp-voor-naasten/",
+      "sourceTitle": "Tactus Verslavingszorg",
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend advies, preventie en zelfhulp",
+      "status": "candidate",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Enschede",
+      "category": "verslaving",
+      "primaryTheme": "verslaving",
+      "themes": [
+        "verslaving"
+      ],
+      "subthemes": [
+        "naasten",
+        "familie",
+        "partners",
+        "zelfhulp"
+      ],
+      "tags": [
+        "verslaving",
+        "naasten",
+        "familie",
+        "partner",
+        "advies",
+        "zelfhulp",
+        "Intact"
+      ],
+      "guidePaths": [
+        "verslaving/naasten"
+      ],
+      "description": "Informatie, advies, ondersteuning en zelfhulpmogelijkheden voor partners, familieleden en andere naasten van iemand met verslavingsproblemen.",
+      "audience": "Partners, ouders, kinderen, broers, zussen en andere naasten van iemand met een verslavingsprobleem.",
+      "access": "Vrijblijvend advies via Tactus; Intact biedt zelfhulp en lotgenotencontact. Voor kinderen van ouders met verslavingsproblemen is Preventie Twente bereikbaar.",
+      "costs": "Advies en zelfhulp zijn laagdrempelig; controleer per activiteit of er voorwaarden gelden.",
+      "town": "Enschede",
+      "locationType": "service-area",
+      "mapPin": false
     }
   ],
   "addressEnrichmentVersion": 1,

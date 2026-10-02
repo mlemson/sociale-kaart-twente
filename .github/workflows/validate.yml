@@ -24,6 +24,7 @@ jobs:
           python -m json.tool twente.geojson > /dev/null
           python -m json.tool data/wegwijzer-curated.json > /dev/null
           python -m json.tool data/wegwijzer-themas.json > /dev/null
+          python -m json.tool data/wegwijzer-expectations.json > /dev/null
           python - <<'PY'
           import json
           from pathlib import Path
@@ -80,5 +81,6 @@ jobs:
           test -f wegwijzer.js
           test -f data/wegwijzer-curated.json
           test -f data/wegwijzer-themas.json
+          test -f data/wegwijzer-expectations.json
           test -f data/facilities.json
           test -f data/catalog.json

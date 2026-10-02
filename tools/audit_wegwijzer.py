@@ -52,6 +52,7 @@ for group in catalog:
         records.append({
             "organization": org,
             "title": offer.get("title") or offer.get("name") or org,
+            "municipalities": list(dict.fromkeys([*(group.get("municipalities") or []), *(offer.get("municipalities") or [])])),
             "description": offer.get("description") or "",
             "audience": offer.get("audience") or "",
             "access": offer.get("access") or "",
@@ -61,12 +62,17 @@ for group in catalog:
             "tags": offer.get("tags") or [],
             "routeTags": offer.get("routeTags") or [],
             "guidePaths": offer.get("guidePaths") or [],
+            "guideExclude": bool(offer.get("guideExclude")),
         })
 records.extend(curated)
 
 automatic = []
 unmatched = []
+excluded = []
 for rec in records:
+    if rec.get("guideExclude"):
+        excluded.append(rec)
+        continue
     explicit = rec.get("guidePaths") or []
     if explicit:
         continue
@@ -77,7 +83,8 @@ for rec in records:
     automatic.append((rec, matches))
 
 ambiguous = sorted((x for x in automatic if len(x[1]) >= 4), key=lambda x: len(x[1]), reverse=True)
-print(f"Wegwijzer-audit: {len(records)} records · {len(records)-len(automatic)} expliciet · {len(automatic)} automatisch")
+explicit_count = len(records) - len(automatic) - len(excluded)
+print(f"Wegwijzer-audit: {len(records)} records · {explicit_count} expliciet · {len(automatic)} automatisch · {len(excluded)} bewust uitgesloten")
 print(f"Automatisch zonder match: {len(unmatched)} · automatisch met 4+ routes: {len(ambiguous)}")
 for rec, matches in ambiguous[:40]:
     print(f"AMBIGU {rec.get('organization')} · {rec.get('title')} -> {', '.join(matches)}")
@@ -85,4 +92,65 @@ for rec in unmatched[:80]:
     print(f"GEEN ROUTE {rec.get('organization')} · {rec.get('title')}")
 
 # Deze grens bewaakt dat de trefwoordindeling niet opnieuw extreem breed wordt.
-assert len(ambiguous) <= 60, f"Te veel brede automatische Wegwijzer-matches: {len(ambiguous)}"
+assert len(ambiguous) == 0, f"Brede automatische Wegwijzer-matches gevonden: {len(ambiguous)}"
+assert len(unmatched) == 0, f"Automatisch aanbod zonder Wegwijzer-route gevonden: {len(unmatched)}"
+
+
+# Kritieke combinatietests: thema + gemeente moeten bekende voorzieningen behouden.
+expectations = load("data/wegwijzer-expectations.json")
+
+def serves(rec, municipality):
+    areas = rec.get("municipalities") or []
+    return municipality in areas or "Twente" in areas
+
+def matches_path(rec, path):
+    explicit = rec.get("guidePaths") or []
+    if explicit:
+        return any(value == path or value.startswith(path + "/") for value in explicit)
+    text = record_text(rec)
+    for leaf_path, node in leaf_nodes:
+        if leaf_path != path:
+            continue
+        required = node.get("requireAny") or []
+        if required and not any(term_matches(text, term) for term in required):
+            return False
+        return any(term_matches(text, term) for term in node.get("include") or [])
+    return False
+
+for item in expectations:
+    found = [
+        rec for rec in records
+        if not rec.get("guideExclude")
+        and norm(item["nameContains"]) in norm(f"{rec.get('organization','')} {rec.get('title','')}")
+        and serves(rec, item["municipality"])
+        and matches_path(rec, item["path"])
+    ]
+    assert found, (
+        f"Kritieke Wegwijzer-combinatie ontbreekt: {item['nameContains']} "
+        f"bij {item['municipality']} op {item['path']}"
+    )
+print(f"{len(expectations)} kritieke thema+gemeente-combinaties gecontroleerd")
+
+
+# Volledigheidscontrole per eindthema: geen zichtbaar Wegwijzer-thema mag leeg zijn.
+leaf_coverage = {path: 0 for path, _ in leaf_nodes}
+for rec in records:
+    if rec.get("guideExclude"):
+        continue
+    explicit = rec.get("guidePaths") or []
+    if explicit:
+        for path in explicit:
+            if path in leaf_coverage:
+                leaf_coverage[path] += 1
+        continue
+    text = record_text(rec)
+    for path, node in leaf_nodes:
+        required = node.get("requireAny") or []
+        if required and not any(term_matches(text, term) for term in required):
+            continue
+        if any(term_matches(text, term) for term in node.get("include") or []):
+            leaf_coverage[path] += 1
+
+empty_leaves = [path for path, count in leaf_coverage.items() if count == 0]
+assert not empty_leaves, f"Lege Wegwijzer-eindthema's: {', '.join(empty_leaves)}"
+print(f"{len(leaf_coverage)} Wegwijzer-eindthema's hebben minimaal één passend resultaat")
