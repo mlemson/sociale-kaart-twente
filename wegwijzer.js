@@ -78,6 +78,22 @@
     return found || [node.id];
   }
 
+  function matchesTerm(text, term) {
+    const textTokens = norm(text).split(" ").filter(Boolean);
+    const termTokens = norm(term).split(" ").filter(Boolean);
+    if (!termTokens.length || termTokens.length > textTokens.length) return false;
+
+    outer: for (let i = 0; i <= textTokens.length - termTokens.length; i += 1) {
+      for (let j = 0; j < termTokens.length; j += 1) {
+        // Trefwoorden mogen een woordstam zijn (bijv. "opvoed" → "opvoeden"),
+        // maar nooit meer midden in een ander woord matchen ("ass" ≠ "passend").
+        if (!textTokens[i + j].startsWith(termTokens[j])) continue outer;
+      }
+      return true;
+    }
+    return false;
+  }
+
   function matchesNode(node, record) {
     const explicit = record.guidePaths || [];
     if (explicit.length) {
@@ -86,7 +102,7 @@
     }
     if (node.children && node.children.length) return node.children.some(child => matchesNode(child, record));
     const text = record._text || recordText(record);
-    return (node.include || []).some(term => text.includes(norm(term)));
+    return (node.include || []).some(term => matchesTerm(text, term));
   }
 
   function municipality() {
