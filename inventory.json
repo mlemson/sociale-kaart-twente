@@ -19196,7 +19196,10 @@
       "locationType": "contact",
       "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
       "locationMunicipality": "Enschede",
-      "mapLocationType": "address"
+      "mapLocationType": "address",
+      "lat": 52.22530111,
+      "lon": 6.89059513,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -20392,8 +20395,11 @@
       "town": "Hengelo",
       "locationType": "contact",
       "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
-      "locationMunicipality": "Hengelo",
-      "mapLocationType": "address"
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "lat": 52.26357148,
+      "lon": 6.79639829,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -20439,8 +20445,11 @@
       "town": "Hengelo",
       "locationType": "contact",
       "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
-      "locationMunicipality": "Hengelo",
-      "mapLocationType": "address"
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "lat": 52.26357148,
+      "lon": 6.79639829,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -20486,8 +20495,11 @@
       "town": "Hengelo",
       "locationType": "contact",
       "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
-      "locationMunicipality": "Hengelo",
-      "mapLocationType": "address"
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "lat": 52.26357148,
+      "lon": 6.79639829,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -20529,8 +20541,11 @@
       "town": "Hengelo",
       "locationType": "contact",
       "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
-      "locationMunicipality": "Hengelo",
-      "mapLocationType": "address"
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "lat": 52.26357148,
+      "lon": 6.79639829,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -20572,8 +20587,11 @@
       "town": "Hengelo",
       "locationType": "contact",
       "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
-      "locationMunicipality": "Hengelo",
-      "mapLocationType": "address"
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "lat": 52.26357148,
+      "lon": 6.79639829,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -20615,8 +20633,11 @@
       "town": "Hengelo",
       "locationType": "contact",
       "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
-      "locationMunicipality": "Hengelo",
-      "mapLocationType": "address"
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "lat": 52.26357148,
+      "lon": 6.79639829,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -23006,7 +23027,10 @@
       "locationSource": "https://www.werkcentrumtwente.nl/contact/",
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",

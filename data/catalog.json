@@ -4947,8 +4947,8 @@
       "https://www.bibliotheektwente.nl/digitaal"
     ],
     "offerCount": 6,
-    "reviewNeeded": 6,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 6,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
@@ -4989,15 +4989,15 @@
         "sourceKind": "first-party",
         "sourceTitle": "Bibliotheek Twente",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
+        "reviewStatus": "source-backed",
+        "address": "Beursstraat 34",
+        "postcode": "7551HV",
+        "town": "Hengelo",
+        "lat": 52.26357148,
+        "lon": 6.79639829,
+        "locationType": "contact",
+        "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+        "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
         "mapPin": false
       },
@@ -5038,15 +5038,15 @@
         "sourceKind": "first-party",
         "sourceTitle": "Bibliotheek Twente",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
+        "reviewStatus": "source-backed",
+        "address": "Beursstraat 34",
+        "postcode": "7551HV",
+        "town": "Hengelo",
+        "lat": 52.26357148,
+        "lon": 6.79639829,
+        "locationType": "contact",
+        "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+        "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
         "mapPin": false
       },
@@ -5090,15 +5090,15 @@
         "sourceKind": "first-party",
         "sourceTitle": "Bibliotheek Twente",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
+        "reviewStatus": "source-backed",
+        "address": "Beursstraat 34",
+        "postcode": "7551HV",
+        "town": "Hengelo",
+        "lat": 52.26357148,
+        "lon": 6.79639829,
+        "locationType": "contact",
+        "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+        "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
         "mapPin": false
       },
@@ -5142,15 +5142,15 @@
         "sourceKind": "first-party",
         "sourceTitle": "Bibliotheek Twente",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
+        "reviewStatus": "source-backed",
+        "address": "Beursstraat 34",
+        "postcode": "7551HV",
+        "town": "Hengelo",
+        "lat": 52.26357148,
+        "lon": 6.79639829,
+        "locationType": "contact",
+        "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+        "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
         "mapPin": false
       },
@@ -5191,15 +5191,15 @@
         "sourceKind": "first-party",
         "sourceTitle": "Bibliotheek Twente",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
+        "reviewStatus": "source-backed",
+        "address": "Beursstraat 34",
+        "postcode": "7551HV",
+        "town": "Hengelo",
+        "lat": 52.26357148,
+        "lon": 6.79639829,
+        "locationType": "contact",
+        "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+        "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
         "mapPin": false
       },
@@ -5240,21 +5240,31 @@
         "sourceKind": "first-party",
         "sourceTitle": "Bibliotheek Twente",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
+        "reviewStatus": "source-backed",
+        "address": "Beursstraat 34",
+        "postcode": "7551HV",
+        "town": "Hengelo",
+        "lat": 52.26357148,
+        "lon": 6.79639829,
+        "locationType": "contact",
+        "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+        "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
         "mapPin": false
       }
     ],
-    "location": null,
-    "status": "review-needed",
+    "location": {
+      "address": "Beursstraat 34",
+      "postcode": "7551HV",
+      "town": "Hengelo",
+      "lat": 52.26357148,
+      "lon": 6.79639829,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "contact",
+      "locationSource": "https://www.bibliotheektwente.nl/hengelo-stad",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
     "primarySource": "https://www.bibliotheektwente.nl/activiteiten"
   },
   {
@@ -15595,19 +15605,19 @@
       "mentaal"
     ],
     "sources": [
-      "https://www.ixtanoa.nl/locaties/enschede/"
+      "https://www.ixtanoa.nl/regio-enschede-en-hengelo/"
     ],
     "offerCount": 1,
     "reviewNeeded": 0,
     "sourceBacked": 0,
     "manual": 1,
-    "checked": "2026-09-15",
+    "checked": "2026-10-02",
     "offers": [
       {
         "id": "candidate-729433f217b2a499",
         "title": "Ixta Noa Praktijkhuis Enschede",
         "name": "Ixta Noa Praktijkhuis Enschede",
-        "description": "",
+        "description": "Laagdrempelig Praktijkhuis van Ixta Noa voor inloop, herstelondersteuning, activiteiten, groepen en cursussen. De locatie in Enschede gebruikt Molenstraat 30 en 36.",
         "municipality": "Enschede",
         "municipalities": [
           "Enschede"
@@ -15627,13 +15637,13 @@
         "audience": "",
         "costs": "",
         "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.ixtanoa.nl/locaties/enschede/",
+        "openingHours": "Maandag t/m vrijdag 09.00-17.00 uur; dinsdag en donderdag ook 18.00-20.00 uur; zaterdag 10.00-15.00 uur.",
+        "phone": "053 230 74 46",
+        "email": "enschede@ixtanoa.nl",
+        "source": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
         "sourceKind": "first-party",
         "sourceTitle": "Ixta Noa",
-        "checked": "2026-09-15",
+        "checked": "2026-10-02",
         "reviewStatus": "manual",
         "address": "Molenstraat 30",
         "postcode": "7514DK",
@@ -15644,7 +15654,7 @@
         "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
     "location": {
@@ -15659,7 +15669,7 @@
       "mapLocationType": "address"
     },
     "status": "source-backed",
-    "primarySource": "https://www.ixtanoa.nl/locaties/enschede/"
+    "primarySource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/"
   },
   {
     "id": "org-ixta-noa-praktijkhuis-enschede-18kgun",
@@ -15676,8 +15686,8 @@
       "https://www.ixtanoa.nl/ixta-in-contact/"
     ],
     "offerCount": 3,
-    "reviewNeeded": 3,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 3,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
@@ -15713,21 +15723,21 @@
         "costs": "Gratis.",
         "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
         "openingHours": "",
-        "phone": "",
-        "email": "",
+        "phone": "053 230 74 46",
+        "email": "enschede@ixtanoa.nl",
         "source": "https://www.ixtanoa.nl/herstellen-doe-je-zelf/",
         "sourceKind": "first-party",
         "sourceTitle": "Ixta Noa",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
+        "reviewStatus": "source-backed",
+        "address": "Molenstraat 30",
+        "postcode": "7514DK",
+        "town": "Enschede",
+        "lat": 52.22323189,
+        "lon": 6.89435653,
+        "locationType": "contact",
+        "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+        "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": false
       },
@@ -15763,21 +15773,21 @@
         "costs": "Gratis.",
         "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
         "openingHours": "",
-        "phone": "",
-        "email": "",
+        "phone": "053 230 74 46",
+        "email": "enschede@ixtanoa.nl",
         "source": "https://www.ixtanoa.nl/ixta-in-contact/",
         "sourceKind": "first-party",
         "sourceTitle": "Ixta Noa",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
+        "reviewStatus": "source-backed",
+        "address": "Molenstraat 30",
+        "postcode": "7514DK",
+        "town": "Enschede",
+        "lat": 52.22323189,
+        "lon": 6.89435653,
+        "locationType": "contact",
+        "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+        "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": false
       },
@@ -15813,27 +15823,37 @@
         "costs": "Gratis.",
         "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
         "openingHours": "",
-        "phone": "",
-        "email": "",
+        "phone": "053 230 74 46",
+        "email": "enschede@ixtanoa.nl",
         "source": "https://www.ixtanoa.nl/wrap/",
         "sourceKind": "first-party",
         "sourceTitle": "Ixta Noa",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
+        "reviewStatus": "source-backed",
+        "address": "Molenstraat 30",
+        "postcode": "7514DK",
+        "town": "Enschede",
+        "lat": 52.22323189,
+        "lon": 6.89435653,
+        "locationType": "contact",
+        "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+        "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": false
       }
     ],
-    "location": null,
-    "status": "review-needed",
+    "location": {
+      "address": "Molenstraat 30",
+      "postcode": "7514DK",
+      "town": "Enschede",
+      "lat": 52.22323189,
+      "lon": 6.89435653,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
     "primarySource": "https://www.ixtanoa.nl/wrap/"
   },
   {
@@ -23502,6 +23522,94 @@
     "primarySource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt"
   },
   {
+    "id": "org-schakel-tubbergen-e4kkrm",
+    "organization": "Schakel Tubbergen",
+    "municipalities": [
+      "Tubbergen"
+    ],
+    "categories": [
+      "advies"
+    ],
+    "sources": [
+      "https://schakeltubbergen.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-02",
+    "offers": [
+      {
+        "id": "extra-20261002-schakel-tubbergen",
+        "title": "informatie, advies en ondersteuning",
+        "name": "Schakel Tubbergen · informatie, advies en ondersteuning",
+        "description": "Laagdrempelig eerste aanspreekpunt van gemeente Tubbergen en SWTD voor vragen over jeugd, vrijwilligerswerk, mantelzorg, ontmoeten, werk, gezondheid, wonen, geld en praktische hulp.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [
+          "informatie",
+          "sociaal werk",
+          "wegwijs"
+        ],
+        "tags": [
+          "Schakel",
+          "advies",
+          "informatie",
+          "welzijn",
+          "jeugd",
+          "zorg",
+          "geld",
+          "wonen",
+          "praktische hulp"
+        ],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van de gemeente Tubbergen met vragen of zorgen over het dagelijks leven.",
+        "costs": "Gratis informatie en advies.",
+        "access": "Vrije inloop tijdens de openingstijden; bellen of mailen kan ook.",
+        "openingHours": "Maandag t/m vrijdag 09.00-12.00 uur.",
+        "phone": "0546-628701",
+        "email": "info@schakeltubbergen.nl",
+        "source": "https://schakeltubbergen.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Schakel Tubbergen",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Raadhuisplein 1",
+        "postcode": "7651CV",
+        "town": "Tubbergen",
+        "lat": 52.40820915,
+        "lon": 6.78068999,
+        "locationType": "visiting",
+        "locationSource": "https://schakeltubbergen.nl/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Raadhuisplein 1",
+      "postcode": "7651CV",
+      "town": "Tubbergen",
+      "lat": 52.40820915,
+      "lon": 6.78068999,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "locationSource": "https://schakeltubbergen.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://schakeltubbergen.nl/"
+  },
+  {
     "id": "org-school-s-cool-twente-13bs97d",
     "organization": "School's cool Twente",
     "municipalities": [
@@ -24187,9 +24295,9 @@
       "https://swtd.nl/ons-aanbod/ouder-worden/activiteiten-en-cursussen/",
       "https://swtd.nl/events/inloop-eschede/var/ri-63.l-L1/"
     ],
-    "offerCount": 35,
+    "offerCount": 43,
     "reviewNeeded": 1,
-    "sourceBacked": 34,
+    "sourceBacked": 42,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -24380,10 +24488,9 @@
         "id": "extra-20261002-swtd-crea-club",
         "title": "Crea Club",
         "name": "Sociaal, dat werkt! · Crea Club",
-        "description": "Terugkerende creatieve club voor ontmoeting en samen bezig zijn.",
+        "description": "Terugkerende creatieve club in Bibliotheek Tubbergen om samen bezig te zijn en anderen te ontmoeten.",
         "municipality": "Tubbergen",
         "municipalities": [
-          "Dinkelland",
           "Tubbergen"
         ],
         "category": "ontmoeten",
@@ -24391,36 +24498,41 @@
           "ontmoeten"
         ],
         "subthemes": [
-          "laagdrempelig"
+          "creatief",
+          "senioren",
+          "sociaal contact"
         ],
         "tags": [
           "ontmoeten",
           "activiteit",
           "sociaal werk"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
         "guideExclude": false,
         "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
-        "costs": "Controleer de actuele bijdrage.",
-        "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
-        "openingHours": "",
+        "costs": "Niet vermeld in de actuele agenda; controleer eventuele bijdrage bij SWTD.",
+        "access": "Inloop/activiteit volgens de actuele SWTD-agenda.",
+        "openingHours": "Maandag 10.00-12.00 uur volgens de actuele agenda.",
         "phone": "",
         "email": "",
-        "source": "https://swtd.nl/",
+        "source": "https://swtd.nl/agenda/",
         "sourceKind": "first-party",
         "sourceTitle": "Sociaal, dat werkt!",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Eeshoflaan 21k-121",
-        "postcode": "7651LZ",
+        "address": "Raadhuisplein 4",
+        "postcode": "7651CV",
         "town": "Tubbergen",
-        "lat": 52.41076671,
-        "lon": 6.78027092,
-        "locationType": "contact",
-        "locationSource": "https://swtd.nl/contact",
+        "lat": 52.40837485,
+        "lon": 6.78133142,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
         "locationMunicipality": "Tubbergen",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       },
       {
         "id": "candidate-ef64040f87943425",
@@ -24463,6 +24575,58 @@
         "locationMunicipality": "Tubbergen",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261002-swtd-dorpshuiskamer-vasse",
+        "title": "Dorpshuiskamer Vasse",
+        "name": "Sociaal, dat werkt! · Dorpshuiskamer Vasse",
+        "description": "Dorpshuiskamer in ’t Eschhoes in Vasse voor laagdrempelige ontmoeting en samen zijn.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "dorpshuiskamer",
+          "senioren",
+          "sociaal contact"
+        ],
+        "tags": [
+          "Vasse",
+          "dorpshuiskamer",
+          "inloop",
+          "ontmoeten",
+          "senioren"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Vasse en omgeving, met name senioren.",
+        "costs": "Niet vermeld in de actuele agenda.",
+        "access": "Inloop volgens de actuele SWTD-agenda.",
+        "openingHours": "Volgens de actuele agenda onder Dorpshuiskamer.",
+        "phone": "",
+        "email": "",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Hooidijk 21a",
+        "postcode": "7661RA",
+        "town": "Vasse",
+        "lat": 52.43551523,
+        "lon": 6.83377986,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "candidate-7e69f0b3cb8e73e1",
@@ -24606,6 +24770,160 @@
         "locationMunicipality": "Tubbergen",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261002-swtd-huiskamer-manderveen",
+        "title": "Huiskamer en open eettafel Manderveen",
+        "name": "Sociaal, dat werkt! · Huiskamer en open eettafel Manderveen",
+        "description": "Huiskamer en gezamenlijke eettafel in Kulturhus de Samenwerking in Manderveen.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "huiskamer",
+          "samen eten",
+          "senioren"
+        ],
+        "tags": [
+          "Manderveen",
+          "huiskamer",
+          "open eettafel",
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "ontmoeten/samen"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Manderveen en omgeving, met name senioren.",
+        "costs": "Controleer de actuele bijdrage voor de maaltijd bij SWTD.",
+        "access": "Volgens de actuele SWTD-agenda.",
+        "openingHours": "Volgens de actuele agenda; op 2 oktober 2026 10.30-13.30 uur.",
+        "phone": "",
+        "email": "",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Manderveenseweg 70",
+        "postcode": "7664VV",
+        "town": "Manderveen",
+        "lat": 52.44414431,
+        "lon": 6.7801501,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-swtd-huiskamer-kolenbranderhof",
+        "title": "Huiskamer Kolenbranderhof",
+        "name": "Sociaal, dat werkt! · Huiskamer Kolenbranderhof",
+        "description": "Wekelijkse huiskamer waar inwoners terechtkunnen voor koffie, een praatje, een spelletje en gezelligheid.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "huiskamer",
+          "senioren",
+          "sociaal contact"
+        ],
+        "tags": [
+          "huiskamer",
+          "inloop",
+          "koffie",
+          "senioren",
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Met name oudere inwoners die behoefte hebben aan laagdrempelig sociaal contact.",
+        "costs": "Geen deelnamekosten vermeld; eventuele consumptiekosten zijn niet gespecificeerd.",
+        "access": "Vrije huiskamerinloop op woensdagochtend volgens de actuele agenda.",
+        "openingHours": "Woensdag 10.00-12.00 uur.",
+        "phone": "",
+        "email": "",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Kolenbranderhof 1",
+        "postcode": "7651NA",
+        "town": "Tubbergen",
+        "lat": 52.40607967,
+        "lon": 6.78038896,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-swtd-cake-om-de-week",
+        "title": "Inloop Cake om de week",
+        "name": "Sociaal, dat werkt! · Inloop Cake om de week",
+        "description": "Terugkerende inloopmiddag bij Rustpunt ’t Oude Schuurtje voor ontmoeting en gezelligheid.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "senioren",
+          "sociaal contact"
+        ],
+        "tags": [
+          "inloop",
+          "koffie",
+          "ontmoeten",
+          "senioren",
+          "Tubbergen"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Oudere inwoners en anderen die behoefte hebben aan laagdrempelig contact.",
+        "costs": "Niet vermeld in de actuele agenda.",
+        "access": "Inloop om de week volgens de actuele agenda.",
+        "openingHours": "14.00-16.00 uur op de aangekondigde dagen.",
+        "phone": "",
+        "email": "",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Hardenbergerweg 37",
+        "postcode": "7651LJ",
+        "town": "Tubbergen",
+        "lat": 52.41143009,
+        "lon": 6.77701078,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "extra-20261002-swtd-inloop-eschede",
@@ -25030,13 +25348,12 @@
         "mapPin": false
       },
       {
-        "id": "extra-20261002-swtd-open-eettafel-geesteren",
-        "title": "Open Eettafel Geesteren",
-        "name": "Sociaal, dat werkt! · Open Eettafel Geesteren",
-        "description": "Terugkerende gezamenlijke eettafel en ontmoeting in Geesteren.",
+        "id": "extra-20261002-swtd-kuiern-bie-de-mol",
+        "title": "Kuier’n bie de Möl",
+        "name": "Sociaal, dat werkt! · Kuier’n bie de Möl",
+        "description": "Maandelijkse koffiemiddag in Langeveen om bij te praten en anderen te ontmoeten.",
         "municipality": "Tubbergen",
         "municipalities": [
-          "Dinkelland",
           "Tubbergen"
         ],
         "category": "ontmoeten",
@@ -25044,46 +25361,149 @@
           "ontmoeten"
         ],
         "subthemes": [
-          "laagdrempelig"
+          "koffiemiddag",
+          "senioren",
+          "sociaal contact"
+        ],
+        "tags": [
+          "Langeveen",
+          "koffie",
+          "ontmoeten",
+          "senioren"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Langeveen en omgeving, met name senioren.",
+        "costs": "€2 voor de koffie volgens de actuele agenda.",
+        "access": "Iedere laatste woensdag van de maand volgens de actuele agenda.",
+        "openingHours": "Laatste woensdag van de maand 14.00-16.00 uur.",
+        "phone": "",
+        "email": "",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Molenbergstraat 24",
+        "postcode": "7679TS",
+        "town": "Langeveen",
+        "lat": 52.4617589,
+        "lon": 6.7142152,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-swtd-open-eettafel-albergen",
+        "title": "Open Eettafel Albergen",
+        "name": "Sociaal, dat werkt! · Open Eettafel Albergen",
+        "description": "Gezamenlijke open eettafel in Kulturhus Kuierstee in Albergen, bedoeld om samen te eten en anderen te ontmoeten.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "samen eten",
+          "senioren",
+          "sociaal contact"
+        ],
+        "tags": [
+          "Albergen",
+          "open eettafel",
+          "samen eten",
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "ontmoeten/samen"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Albergen en omgeving, met name senioren.",
+        "costs": "Een maaltijd wordt tegen een bijdrage aangeboden; controleer het actuele bedrag bij SWTD.",
+        "access": "Volgens de actuele SWTD-agenda.",
+        "openingHours": "Volgens de actuele agenda; op 2 oktober 2026 12.00-14.00 uur.",
+        "phone": "",
+        "email": "",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Hoofdstraat 51",
+        "postcode": "7665AN",
+        "town": "Albergen",
+        "lat": 52.37161704,
+        "lon": 6.75793275,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-swtd-open-eettafel-geesteren",
+        "title": "Open Eettafel Geesteren",
+        "name": "Sociaal, dat werkt! · Open Eettafel Geesteren",
+        "description": "Gezamenlijke open eettafel in De Aanleg in Geesteren, gericht op samen eten, ontmoeting en sociaal contact.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "samen eten",
+          "senioren",
+          "sociaal contact"
         ],
         "tags": [
           "ontmoeten",
           "activiteit",
           "sociaal werk"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/samen"
+        ],
         "guideExclude": false,
         "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
-        "costs": "Controleer de actuele bijdrage.",
-        "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
-        "openingHours": "",
+        "costs": "Een maaltijd wordt tegen een kleine bijdrage aangeboden; controleer het actuele bedrag bij SWTD.",
+        "access": "Aanmelden via SWTD of de gastvrouwen; zie de actuele agenda.",
+        "openingHours": "Dinsdag en donderdag 12.00-13.30 uur.",
         "phone": "",
         "email": "",
-        "source": "https://swtd.nl/",
+        "source": "https://swtd.nl/agenda/",
         "sourceKind": "first-party",
         "sourceTitle": "Sociaal, dat werkt!",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Eeshoflaan 21k-121",
-        "postcode": "7651LZ",
-        "town": "Tubbergen",
-        "lat": 52.41076671,
-        "lon": 6.78027092,
-        "locationType": "contact",
-        "locationSource": "https://swtd.nl/contact",
+        "address": "De Aanleg 1",
+        "postcode": "7678VZ",
+        "town": "Geesteren",
+        "lat": 52.4206482,
+        "lon": 6.73489874,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
         "locationMunicipality": "Tubbergen",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       },
       {
         "id": "extra-20261002-swtd-open-eettafel-weerselo",
         "title": "Open Eettafel Weerselo",
         "name": "Sociaal, dat werkt! · Open Eettafel Weerselo",
         "description": "Terugkerende gezamenlijke eettafel en ontmoeting in Weerselo.",
-        "municipality": "Tubbergen",
+        "municipality": "Dinkelland",
         "municipalities": [
-          "Dinkelland",
-          "Tubbergen"
+          "Dinkelland"
         ],
         "category": "ontmoeten",
         "themes": [
@@ -25307,6 +25727,109 @@
         "mapPin": false
       },
       {
+        "id": "extra-20261002-swtd-senioren-padel-tubbergen",
+        "title": "Senioren Padel Tubbergen",
+        "name": "Sociaal, dat werkt! · Senioren Padel Tubbergen",
+        "description": "Wekelijkse seniorenactiviteit op de indoor padelbanen van VOLEA in Tubbergen.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "padel",
+          "sociaal contact"
+        ],
+        "tags": [
+          "senioren",
+          "padel",
+          "bewegen",
+          "ontmoeten",
+          "Tubbergen"
+        ],
+        "guidePaths": [
+          "ontmoeten/bewegen"
+        ],
+        "guideExclude": false,
+        "audience": "Senioren die samen actief willen zijn en anderen willen ontmoeten.",
+        "costs": "Niet vermeld in de actuele agenda.",
+        "access": "Volgens de actuele SWTD-agenda.",
+        "openingHours": "Donderdag 09.30-11.30 uur.",
+        "phone": "",
+        "email": "",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "L. von Bönninghausenstraat 31",
+        "postcode": "7651AA",
+        "town": "Tubbergen",
+        "lat": 52.40317487,
+        "lon": 6.78858404,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261002-swtd-seniorenfit-geesteren",
+        "title": "Seniorenfit Geesteren",
+        "name": "Sociaal, dat werkt! · Seniorenfit Geesteren",
+        "description": "Wekelijks bewegen onder begeleiding van een buurtsportcoach, op eigen niveau, met na afloop gelegenheid voor koffie en contact.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "bewegen",
+        "themes": [
+          "bewegen",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "senioren",
+          "sport",
+          "sociaal contact"
+        ],
+        "tags": [
+          "seniorenfit",
+          "bewegen",
+          "ontmoeten",
+          "Geesteren"
+        ],
+        "guidePaths": [
+          "ontmoeten/bewegen"
+        ],
+        "guideExclude": false,
+        "audience": "Senioren die laagdrempelig samen willen bewegen.",
+        "costs": "Niet vermeld in de actuele agenda.",
+        "access": "Wekelijks volgens de actuele agenda.",
+        "openingHours": "Vrijdag 09.00-10.00 uur.",
+        "phone": "",
+        "email": "",
+        "source": "https://swtd.nl/agenda/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Sociaal Werk Tubbergen Dinkelland",
+        "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Vinckenweg 14",
+        "postcode": "7678TB",
+        "town": "Geesteren",
+        "lat": 52.42481849,
+        "lon": 6.72703602,
+        "locationType": "visiting",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
         "id": "candidate-20261002-swtd-seniorenkabinet-langeveen",
         "title": "Seniorenkabinet Langeveen",
         "name": "Sociaal, dat werkt! · Seniorenkabinet Langeveen",
@@ -25409,10 +25932,9 @@
         "title": "Sociaal inloopcafé Ootmarsum",
         "name": "Sociaal, dat werkt! · Sociaal inloopcafé Ootmarsum",
         "description": "Terugkerend sociaal inloopcafé in Ootmarsum.",
-        "municipality": "Tubbergen",
+        "municipality": "Dinkelland",
         "municipalities": [
-          "Dinkelland",
-          "Tubbergen"
+          "Dinkelland"
         ],
         "category": "ontmoeten",
         "themes": [
@@ -25439,14 +25961,14 @@
         "sourceTitle": "Sociaal, dat werkt!",
         "checked": "2026-10-02",
         "reviewStatus": "source-backed",
-        "address": "Eeshoflaan 21k-121",
-        "postcode": "7651LZ",
-        "town": "Tubbergen",
-        "lat": 52.41076671,
-        "lon": 6.78027092,
-        "locationType": "contact",
-        "locationSource": "https://swtd.nl/contact",
-        "locationMunicipality": "Tubbergen",
+        "address": "Smithuisstraat 2A-TRAF",
+        "postcode": "7631GH",
+        "town": "Ootmarsum",
+        "lat": 52.40601551,
+        "lon": 6.89871735,
+        "locationType": "service",
+        "locationSource": "https://swtd.nl/agenda/",
+        "locationMunicipality": "Dinkelland",
         "mapLocationType": "address",
         "mapPin": false
       },
@@ -25827,12 +26349,12 @@
       }
     ],
     "location": {
-      "address": "Kappelhofsweg 12",
-      "postcode": "7591ZZ",
-      "town": "Denekamp",
-      "lat": 52.37529332,
-      "lon": 6.99673651,
-      "locationMunicipality": "Dinkelland",
+      "address": "De Aanleg 1",
+      "postcode": "7678VZ",
+      "town": "Geesteren",
+      "lat": 52.4206482,
+      "lon": 6.73489874,
+      "locationMunicipality": "Tubbergen",
       "locationType": "visiting",
       "locationSource": "https://swtd.nl/agenda/",
       "mapLocationType": "address"
@@ -27802,8 +28324,8 @@
       "https://www.tactus.nl/hulpaanbod/adviesgesprek/"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
@@ -27854,27 +28376,37 @@
         "costs": "Gratis.",
         "access": "Rechtstreeks telefonisch of op locatie; geen verwijzing nodig.",
         "openingHours": "",
-        "phone": "",
+        "phone": "088 382 28 87",
         "email": "",
         "source": "https://www.tactus.nl/hulpaanbod/adviesgesprek/",
         "sourceKind": "first-party",
         "sourceTitle": "Tactus Verslavingszorg",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
+        "reviewStatus": "source-backed",
+        "address": "Raiffeisenstraat 75",
+        "postcode": "7514AM",
+        "town": "Enschede",
+        "lat": 52.22530111,
+        "lon": 6.89059513,
+        "locationType": "contact",
+        "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
+        "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": false
       }
     ],
-    "location": null,
-    "status": "review-needed",
+    "location": {
+      "address": "Raiffeisenstraat 75",
+      "postcode": "7514AM",
+      "town": "Enschede",
+      "lat": 52.22530111,
+      "lon": 6.89059513,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
     "primarySource": "https://www.tactus.nl/hulpaanbod/adviesgesprek/"
   },
   {
@@ -28139,7 +28671,7 @@
       "advies"
     ],
     "sources": [
-      "https://wijkwijzerenschede.nl/geld-voor-leren"
+      "https://www.ikbindr.nl/aanmelden"
     ],
     "offerCount": 1,
     "reviewNeeded": 1,
@@ -28188,13 +28720,13 @@
         "guideExclude": false,
         "audience": "Inwoners die aan de actuele voorwaarden van het fonds voldoen.",
         "costs": "Subsidie tot het actuele maximum; voorwaarden kunnen wijzigen.",
-        "access": "Zelf aanvragen volgens de fondsvoorwaarden.",
+        "access": "Online aanmelden voor een persoonlijk loopbaanadviesgesprek en/of scholingscheque volgens de actuele voorwaarden.",
         "openingHours": "",
         "phone": "",
-        "email": "",
-        "source": "https://wijkwijzerenschede.nl/geld-voor-leren",
+        "email": "info@twentsfondsvoorvakmanschap.nl",
+        "source": "https://www.ikbindr.nl/aanmelden",
         "sourceKind": "first-party",
-        "sourceTitle": "Twents Fonds voor Vakmanschap",
+        "sourceTitle": "IKBINDR / Twents Fonds voor Vakmanschap",
         "checked": "2026-10-02",
         "reviewStatus": "review-needed",
         "address": "",
@@ -28202,16 +28734,16 @@
         "town": "",
         "lat": null,
         "lon": null,
-        "locationType": "",
+        "locationType": "online",
         "locationSource": "",
         "locationMunicipality": "",
-        "mapLocationType": "address",
+        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
     "location": null,
     "status": "review-needed",
-    "primarySource": "https://wijkwijzerenschede.nl/geld-voor-leren"
+    "primarySource": "https://www.ikbindr.nl/aanmelden"
   },
   {
     "id": "org-v-v-rigtersbleek-btgef8",
@@ -29810,11 +30342,11 @@
       "advies"
     ],
     "sources": [
-      "https://www.enschede.nl/hulp-bij-vinden-van-werk-of-opleiding"
+      "https://www.werkcentrumtwente.nl/contact/"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
@@ -29858,30 +30390,40 @@
         "guideExclude": false,
         "audience": "Werkenden, werkzoekenden en anderen met vragen over leren en werken.",
         "costs": "Gratis advies.",
-        "access": "Met of zonder afspraak.",
-        "openingHours": "",
+        "access": "Vrije inloop voor vragen over werk, scholing en loopbaan; gratis en zonder afspraak.",
+        "openingHours": "Donderdag 09.30-12.00 uur voor het vrije inloopspreekuur in Bibliotheek Enschede.",
         "phone": "",
         "email": "",
-        "source": "https://www.enschede.nl/hulp-bij-vinden-van-werk-of-opleiding",
+        "source": "https://www.werkcentrumtwente.nl/contact/",
         "sourceKind": "first-party",
         "sourceTitle": "Werkcentrum Twente",
         "checked": "2026-10-02",
-        "reviewStatus": "review-needed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
+        "reviewStatus": "source-backed",
+        "address": "Pijpenstraat 15",
+        "postcode": "7511GM",
+        "town": "Enschede",
+        "lat": 52.21910175,
+        "lon": 6.89338546,
+        "locationType": "visiting",
+        "locationSource": "https://www.werkcentrumtwente.nl/contact/",
+        "locationMunicipality": "Enschede",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       }
     ],
-    "location": null,
-    "status": "review-needed",
-    "primarySource": "https://www.enschede.nl/hulp-bij-vinden-van-werk-of-opleiding"
+    "location": {
+      "address": "Pijpenstraat 15",
+      "postcode": "7511GM",
+      "town": "Enschede",
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.werkcentrumtwente.nl/contact/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.werkcentrumtwente.nl/contact/"
   },
   {
     "id": "org-wierden-met-mekaar-1wdap34",

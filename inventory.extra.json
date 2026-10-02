@@ -2666,13 +2666,17 @@
       "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
       "costs": "Controleer de actuele bijdrage.",
-      "address": "Profijtstraat",
+      "address": "Smithuisstraat 2A-TRAF",
       "town": "Ootmarsum",
       "locationMunicipality": "Dinkelland",
       "locationType": "service",
       "locationSource": "https://swtd.nl/agenda/",
       "mapLocationType": "address",
-      "mapPin": false
+      "mapPin": false,
+      "postcode": "7631GH",
+      "lat": 52.40601551,
+      "lon": 6.89871735,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -2705,12 +2709,17 @@
       "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
       "access": "Bekijk de actuele agenda of neem contact op met Sociaal, dat werkt!.",
       "costs": "Controleer de actuele bijdrage.",
-      "address": "",
-      "town": "Weerselo",
-      "locationMunicipality": "Dinkelland",
-      "locationType": "service",
-      "locationSource": "https://swtd.nl/agenda/",
-      "mapPin": false
+      "address": "Eeshoflaan 21k-121",
+      "town": "Tubbergen",
+      "locationMunicipality": "Tubbergen",
+      "locationType": "contact",
+      "locationSource": "https://swtd.nl/contact",
+      "mapPin": false,
+      "postcode": "7651LZ",
+      "lat": 52.41076671,
+      "lon": 6.78027092,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -2745,7 +2754,7 @@
       "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
       "access": "Aanmelden via SWTD of de gastvrouwen; zie de actuele agenda.",
       "costs": "Een maaltijd wordt tegen een kleine bijdrage aangeboden; controleer het actuele bedrag bij SWTD.",
-      "address": "De Aanleg 7",
+      "address": "De Aanleg 1",
       "town": "Geesteren",
       "locationMunicipality": "Tubbergen",
       "locationType": "visiting",
@@ -2755,7 +2764,11 @@
       "openingHours": "Dinsdag en donderdag 12.00-13.30 uur.",
       "guidePaths": [
         "ontmoeten/samen"
-      ]
+      ],
+      "postcode": "7678VZ",
+      "lat": 52.4206482,
+      "lon": 6.73489874,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -2801,7 +2814,11 @@
       "guidePaths": [
         "ontmoeten/inloop",
         "meedoen/daginvulling"
-      ]
+      ],
+      "postcode": "7651CV",
+      "lat": 52.40837485,
+      "lon": 6.78133142,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9296,7 +9313,11 @@
       "address": "Kolenbranderhof 1",
       "town": "Tubbergen",
       "openingHours": "Woensdag 10.00-12.00 uur.",
-      "locationSource": "https://swtd.nl/agenda/"
+      "locationSource": "https://swtd.nl/agenda/",
+      "postcode": "7651NA",
+      "lat": 52.40607967,
+      "lon": 6.78038896,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9341,11 +9362,14 @@
       "audience": "Inwoners van Vasse en omgeving, met name senioren.",
       "access": "Inloop volgens de actuele SWTD-agenda.",
       "costs": "Niet vermeld in de actuele agenda.",
-      "address": "Hooidijk 21",
+      "address": "Hooidijk 21a",
       "town": "Vasse",
-      "postcode": "7661 RA",
+      "postcode": "7661RA",
       "openingHours": "Volgens de actuele agenda onder Dorpshuiskamer.",
-      "locationSource": "https://swtd.nl/agenda/"
+      "locationSource": "https://swtd.nl/agenda/",
+      "lat": 52.43551523,
+      "lon": 6.83377986,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9392,7 +9416,11 @@
       "address": "Hardenbergerweg 37",
       "town": "Tubbergen",
       "openingHours": "14.00-16.00 uur op de aangekondigde dagen.",
-      "locationSource": "https://swtd.nl/agenda/"
+      "locationSource": "https://swtd.nl/agenda/",
+      "postcode": "7651LJ",
+      "lat": 52.41143009,
+      "lon": 6.77701078,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9439,7 +9467,11 @@
       "address": "Vinckenweg 14",
       "town": "Geesteren",
       "openingHours": "Vrijdag 09.00-10.00 uur.",
-      "locationSource": "https://swtd.nl/agenda/"
+      "locationSource": "https://swtd.nl/agenda/",
+      "postcode": "7678TB",
+      "lat": 52.42481849,
+      "lon": 6.72703602,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9486,7 +9518,11 @@
       "address": "Manderveenseweg 70",
       "town": "Manderveen",
       "openingHours": "Volgens de actuele agenda; op 2 oktober 2026 10.30-13.30 uur.",
-      "locationSource": "https://swtd.nl/agenda/"
+      "locationSource": "https://swtd.nl/agenda/",
+      "postcode": "7664VV",
+      "lat": 52.44414431,
+      "lon": 6.7801501,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9532,7 +9568,11 @@
       "address": "Hoofdstraat 51",
       "town": "Albergen",
       "openingHours": "Volgens de actuele agenda; op 2 oktober 2026 12.00-14.00 uur.",
-      "locationSource": "https://swtd.nl/agenda/"
+      "locationSource": "https://swtd.nl/agenda/",
+      "postcode": "7665AN",
+      "lat": 52.37161704,
+      "lon": 6.75793275,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9578,7 +9618,11 @@
       "address": "Molenbergstraat 24",
       "town": "Langeveen",
       "openingHours": "Laatste woensdag van de maand 14.00-16.00 uur.",
-      "locationSource": "https://swtd.nl/agenda/"
+      "locationSource": "https://swtd.nl/agenda/",
+      "postcode": "7679TS",
+      "lat": 52.4617589,
+      "lon": 6.7142152,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9623,10 +9667,14 @@
       "audience": "Senioren die samen actief willen zijn en anderen willen ontmoeten.",
       "access": "Volgens de actuele SWTD-agenda.",
       "costs": "Niet vermeld in de actuele agenda.",
-      "address": "L. van Bönninghausenstraat 31",
+      "address": "L. von Bönninghausenstraat 31",
       "town": "Tubbergen",
       "openingHours": "Donderdag 09.30-11.30 uur.",
-      "locationSource": "https://swtd.nl/agenda/"
+      "locationSource": "https://swtd.nl/agenda/",
+      "postcode": "7651AA",
+      "lat": 52.40317487,
+      "lon": 6.78858404,
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9676,11 +9724,14 @@
       "costs": "Gratis informatie en advies.",
       "address": "Raadhuisplein 1",
       "town": "Tubbergen",
-      "postcode": "7651 CV",
+      "postcode": "7651CV",
       "phone": "0546-628701",
       "email": "info@schakeltubbergen.nl",
       "openingHours": "Maandag t/m vrijdag 09.00-12.00 uur.",
-      "locationSource": "https://schakeltubbergen.nl/"
+      "locationSource": "https://schakeltubbergen.nl/",
+      "lat": 52.40820915,
+      "lon": 6.78068999,
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,

@@ -171,110 +171,11 @@
     "checked": "2026-09-15"
   },
   {
-    "id": "candidate-20261002-ixta-wrap",
-    "name": "Ixta Noa Praktijkhuis Enschede · WRAP",
-    "municipality": "Enschede",
-    "source": "https://www.ixtanoa.nl/wrap/",
-    "sourceTitle": "Ixta Noa",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
-  },
-  {
-    "id": "candidate-20261002-ixta-herstellen-doe-je-zelf",
-    "name": "Ixta Noa Praktijkhuis Enschede · Herstellen doe je zelf",
-    "municipality": "Enschede",
-    "source": "https://www.ixtanoa.nl/herstellen-doe-je-zelf/",
-    "sourceTitle": "Ixta Noa",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
-  },
-  {
-    "id": "candidate-20261002-ixta-ixta-in-contact",
-    "name": "Ixta Noa Praktijkhuis Enschede · Ixta in Contact",
-    "municipality": "Enschede",
-    "source": "https://www.ixtanoa.nl/ixta-in-contact/",
-    "sourceTitle": "Ixta Noa",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
-  },
-  {
-    "id": "candidate-20261002-tactus-advies",
-    "name": "Tactus Preventie · gratis adviesgesprek",
-    "municipality": "Enschede",
-    "source": "https://www.tactus.nl/hulpaanbod/adviesgesprek/",
-    "sourceTitle": "Tactus Verslavingszorg",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
-  },
-  {
-    "id": "candidate-20261002-bibliotheektwente-computerspreekuur",
-    "name": "Bibliotheek Twente · Computerspreekuur",
-    "municipality": "Hengelo",
-    "source": "https://www.bibliotheektwente.nl/activiteiten",
-    "sourceTitle": "Bibliotheek Twente",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
-  },
-  {
-    "id": "candidate-20261002-bibliotheektwente-oefenplein",
-    "name": "Bibliotheek Twente · Oefenplein",
-    "municipality": "Hengelo",
-    "source": "https://www.bibliotheektwente.nl/activiteiten",
-    "sourceTitle": "Bibliotheek Twente",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
-  },
-  {
-    "id": "candidate-20261002-bibliotheektwente-informatiepunt-digitale-overheid",
-    "name": "Bibliotheek Twente · Informatiepunt Digitale Overheid",
-    "municipality": "Hengelo",
-    "source": "https://www.bibliotheektwente.nl/activiteiten",
-    "sourceTitle": "Bibliotheek Twente",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
-  },
-  {
-    "id": "candidate-20261002-bibliotheektwente-taalpunt",
-    "name": "Bibliotheek Twente · Taalpunt",
-    "municipality": "Hengelo",
-    "source": "https://www.bibliotheektwente.nl/activiteiten",
-    "sourceTitle": "Bibliotheek Twente",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
-  },
-  {
-    "id": "candidate-20261002-bibliotheektwente-praathuis",
-    "name": "Bibliotheek Twente · Praathuis",
-    "municipality": "Hengelo",
-    "source": "https://www.bibliotheektwente.nl/activiteiten",
-    "sourceTitle": "Bibliotheek Twente",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
-  },
-  {
-    "id": "candidate-20261002-bibliotheektwente-gratis-digitale-workshops",
-    "name": "Bibliotheek Twente · Gratis digitale workshops",
-    "municipality": "Hengelo",
-    "source": "https://www.bibliotheektwente.nl/digitaal",
-    "sourceTitle": "Bibliotheek Twente",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
-  },
-  {
     "id": "c-20261002-twentsfonds",
     "name": "Twents Fonds voor Vakmanschap · bijdrage voor scholing",
     "municipality": "Enschede",
-    "source": "https://wijkwijzerenschede.nl/geld-voor-leren",
-    "sourceTitle": "Twents Fonds voor Vakmanschap",
-    "reason": "Adres of kaartcoördinaten ontbreken",
-    "checked": "2026-10-02"
-  },
-  {
-    "id": "c-20261002-werkcentrum",
-    "name": "Werkcentrum Twente · vrij inloopspreekuur leren en werken",
-    "municipality": "Enschede",
-    "source": "https://www.enschede.nl/hulp-bij-vinden-van-werk-of-opleiding",
-    "sourceTitle": "Werkcentrum Twente",
+    "source": "https://www.ikbindr.nl/aanmelden",
+    "sourceTitle": "IKBINDR / Twents Fonds voor Vakmanschap",
     "reason": "Adres of kaartcoördinaten ontbreken",
     "checked": "2026-10-02"
   }
