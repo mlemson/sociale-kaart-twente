@@ -2368,7 +2368,10 @@
       "spreken",
       "rekenen"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "taal/nederlands",
+      "taal/basis"
+    ],
     "description": "Taalpunt voor hulp bij Nederlands spreken, lezen, schrijven en rekenen; oefenen kan één-op-één of in groepen.",
     "audience": "Volwassen inwoners van Almelo.",
     "costs": "Taalondersteuning via vrijwilligers is laagdrempelig.",
@@ -3265,7 +3268,9 @@
       "ouders",
       "jonge kinderen"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "onderwijs/opvoeden"
+    ],
     "description": "Gratis inloopplek voor ouders met jonge kinderen, met ontmoeting, advies en wekelijkse activiteiten.",
     "audience": "Ouders en gezinnen met jonge kinderen in Enschede-West; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -3446,7 +3451,10 @@
     "subthemes": [
       "laagdrempelig"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "taal/nederlands",
+      "taal/basis"
+    ],
     "description": "Hulp bij Nederlands spreken, lezen en schrijven en digitale basisvaardigheden.",
     "audience": "Inwoners van de gemeente Losser.",
     "costs": "Laagdrempelig; controleer eventuele bijdrage.",
@@ -4616,7 +4624,8 @@
       "zonder indicatie"
     ],
     "guidePaths": [
-      "zorg/dementie"
+      "zorg/dementie",
+      "zorg/mantelzorg"
     ],
     "description": "Ontmoetingsplek voor mensen met beginnende dementie of geheugenklachten en hun naasten, met vrijblijvende activiteiten zoals samen koken, schilderen en spelletjes.",
     "audience": "Mensen met beginnende dementie of geheugenklachten en hun naasten.",
@@ -4956,7 +4965,10 @@
     "subthemes": [
       "inloop"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "zorg/dementie",
+      "zorg/mantelzorg"
+    ],
     "description": "Ontmoetingsplek voor mensen met beginnende dementie of geheugenklachten en hun naasten; indicatie of diagnose is niet nodig.",
     "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
     "costs": "Kleine bijdrage per bezoek volgens de actuele bron.",
@@ -4995,7 +5007,10 @@
     "subthemes": [
       "inloop"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "mentaal/welzijn",
+      "meedoen/daginvulling"
+    ],
     "description": "Vrije inloop met gezellige, leerzame, creatieve en ontspannende activiteiten.",
     "audience": "Inwoners van Haaksbergen; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -5276,7 +5291,9 @@
       "repareren",
       "duurzaamheid"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "basis/praktisch"
+    ],
     "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
     "audience": "Iedereen met een repareerbaar voorwerp.",
     "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
@@ -5316,7 +5333,9 @@
       "repareren",
       "duurzaamheid"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "basis/praktisch"
+    ],
     "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
     "audience": "Iedereen met een repareerbaar voorwerp.",
     "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
@@ -5356,7 +5375,9 @@
       "repareren",
       "duurzaamheid"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "basis/praktisch"
+    ],
     "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
     "audience": "Iedereen met een repareerbaar voorwerp.",
     "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
@@ -5396,7 +5417,9 @@
       "repareren",
       "duurzaamheid"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "basis/praktisch"
+    ],
     "description": "Gratis toegankelijke reparatiebijeenkomst waar vrijwilligers helpen om kapotte spullen samen te onderzoeken en waar mogelijk te repareren.",
     "audience": "Iedereen met een repareerbaar voorwerp.",
     "costs": "Hulp is gratis; gebruikte onderdelen zijn voor eigen rekening.",
@@ -5549,7 +5572,10 @@
       "dementie",
       "ontmoeten"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "zorg/dementie",
+      "zorg/mantelzorg"
+    ],
     "description": "Gratis ontmoetings- en informatieavond voor mensen met dementie, naasten en geïnteresseerden.",
     "audience": "Mensen met dementie, mantelzorgers, naasten en geïnteresseerden.",
     "costs": "Gratis.",
@@ -5665,7 +5691,10 @@
       "vrijwillige dagbesteding",
       "senioren"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "ontmoeten/inloop"
+    ],
     "description": "Vrijwillige dagbesteding in huiskamervorm met koffie, activiteiten, een maaltijd en ontmoeting.",
     "audience": "Senioren die behoefte hebben aan gezelschap en een zinvolle daginvulling.",
     "costs": "€15 voor een hele dag inclusief maaltijd volgens de bron.",
@@ -5872,7 +5901,10 @@
     "subthemes": [
       "voorliggend"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "migratie/taal",
+      "vervoer/leren"
+    ],
     "description": "Gratis reeks fietslessen voor statushouders om zelfstandig en veilig te leren fietsen.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -6138,7 +6170,10 @@
     "subthemes": [
       "voorliggend"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "mentaal/eenzaamheid",
+      "ontmoeten/inloop"
+    ],
     "description": "Terugkerende vrouwenontmoeting gericht op sociale contacten, zelfvertrouwen en samen activiteiten doen.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
     "costs": "Laagdrempelig; controleer de actuele bijdrage.",
@@ -6256,7 +6291,8 @@
       "geheugen"
     ],
     "guidePaths": [
-      "zorg/dementie"
+      "zorg/dementie",
+      "zorg/mantelzorg"
     ],
     "description": "Wekelijkse ontmoetingsplek in De Spil voor mensen met beginnende dementie of geheugenklachten en hun naasten.",
     "audience": "Volwassenen en senioren met beginnende dementie of geheugenklachten, met of zonder diagnose, en hun naasten.",
@@ -6298,7 +6334,9 @@
       "inloop",
       "meedoen"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Vrij toegankelijke plek voor vragen over welzijn, opvoeden, zorg, wonen, financiën, gezin, relatie, vrijwilligerswerk en meedoen.",
     "audience": "Inwoners van Borne, Hertme en Zenderen.",
     "costs": "Gratis.",
@@ -6376,7 +6414,10 @@
       "vrij toegankelijke voorziening",
       "daginvulling"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
     "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
     "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
     "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
@@ -6414,7 +6455,10 @@
       "vrij toegankelijke voorziening",
       "daginvulling"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
     "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
     "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
     "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
@@ -6452,7 +6496,10 @@
       "vrij toegankelijke voorziening",
       "daginvulling"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
     "description": "Vrij toegankelijke wijklocatie voor ontmoeting, activiteiten, ontwikkeling en laagdrempelige ondersteuning.",
     "audience": "Inwoners van Hengelo, waaronder ouderen en mensen met een licht verstandelijke beperking.",
     "costs": "Inloop is laagdrempelig; sommige activiteiten hebben een kleine bijdrage.",
@@ -6663,7 +6710,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6706,7 +6755,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6749,7 +6800,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6792,7 +6845,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6835,7 +6890,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6878,7 +6935,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6921,7 +6980,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -6964,7 +7025,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7007,7 +7070,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7050,7 +7115,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7093,7 +7160,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7136,7 +7205,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7179,7 +7250,9 @@
       "geld",
       "opvoeden"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
     "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "audience": "Inwoners van Enschede.",
     "costs": "Gratis.",
@@ -7664,7 +7737,11 @@
     "subthemes": [
       "terugkerende activiteit"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "zorg/dementie",
+      "zorg/mantelzorg",
+      "meedoen/daginvulling"
+    ],
     "description": "Gratis ontmoetingscentrum voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
@@ -7701,7 +7778,11 @@
     "subthemes": [
       "terugkerende activiteit"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "zorg/dementie",
+      "zorg/mantelzorg",
+      "meedoen/daginvulling"
+    ],
     "description": "Gratis ontmoetingscentrum voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
