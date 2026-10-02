@@ -64,3 +64,55 @@ html[data-color-scheme="dark"] .guide-card,html[data-color-scheme="dark"] .guide
 html[data-color-scheme="dark"] .guide-card:hover,html[data-color-scheme="dark"] .guide-org:hover{background:#312c33;border-color:#6d5062}
 html[data-color-scheme="dark"] .guide-card-count,html[data-color-scheme="dark"] .guide-offer-actions a.secondary{background:#3b3038;color:#efd8e7;border-color:#574752}
 html[data-color-scheme="dark"] .guide-show-all,html[data-color-scheme="dark"] .guide-search-row button{background:#2a252b;color:#efd8e7;border-color:#51454e}
+
+
+/* Compactere, rustigere themakaarten */
+.guide-grid{gap:12px}
+.guide-card{
+  min-height:112px;
+  padding:19px 20px 18px;
+  gap:10px;
+  justify-content:flex-start;
+  border-radius:15px;
+  border-color:#e7dfe5;
+  background:#fff;
+  box-shadow:0 1px 2px rgba(62,38,54,.025);
+}
+.guide-card:hover{
+  transform:translateY(-2px);
+  border-color:#cfb8c8;
+  box-shadow:0 9px 24px rgba(68,40,58,.075);
+}
+.guide-card-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:14px;width:100%}
+.guide-card strong{font-size:17px;line-height:1.25;letter-spacing:-.01em}
+.guide-card p{
+  margin:0;
+  max-width:34rem;
+  color:#756a76;
+  font-size:12.5px;
+  line-height:1.48;
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:2;
+  overflow:hidden;
+}
+.guide-card-count{
+  flex:none;
+  min-width:30px;
+  height:26px;
+  display:grid;
+  place-items:center;
+  padding:0 8px;
+  border-radius:999px;
+  font-size:10px;
+  font-weight:600;
+  background:#f5eff3;
+  color:#8a6178;
+}
+.guide-card-top,.guide-card-index,.guide-card-foot{display:none}
+@media(max-width:700px){
+  .guide-card{min-height:96px;padding:17px 18px}
+}
+html[data-color-scheme="dark"] .guide-card{background:#29252b;border-color:#433b43;box-shadow:none}
+html[data-color-scheme="dark"] .guide-card:hover{background:#302b31;border-color:#6a5361}
+html[data-color-scheme="dark"] .guide-card-count{background:#3a3037;color:#e7cedd}
