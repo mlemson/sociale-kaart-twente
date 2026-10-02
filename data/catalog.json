@@ -10755,14 +10755,17 @@
       "https://www.fundamentlosser.nl/ondersteuning/taalpunt-losser/",
       "https://www.fundamentlosser.nl/agenda/maaklab-2-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-2026-09-30-2026-10-07-2026-10-14-2026-10-21-2026-10-28-2026-11-04-2026-11-11-2026-11-18-2026-11-25-2026-12-02-09-2027-06-16/",
       "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/",
+      "https://www.fundamentlosser.nl/activiteiten/internationaal-restaurant-hera/",
       "https://www.fundamentlosser.nl/agenda/de-culturele-ontmoeting-3-2026-09-10-2026-09-17-2026-09-24-2026-10-01-2026-10-08-2026-10-15-2026-10-22-2026-10-29-2026-11-05-2026-11-12-2026-11-19/",
       "https://dorpshoes.nl/",
-      "https://www.fundamentlosser.nl/locaties-en-openingstijden/"
+      "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+      "https://www.fundamentlosser.nl/activiteiten/taalcafe-overdinkel/",
+      "https://www.fundamentlosser.nl/activiteiten/internationaal-restaurant-hestia/"
     ],
-    "offerCount": 29,
+    "offerCount": 31,
     "reviewNeeded": 0,
     "sourceBacked": 24,
-    "manual": 5,
+    "manual": 7,
     "checked": "2026-09-15",
     "offers": [
       {
@@ -11338,7 +11341,7 @@
         "id": "c-20261002-fundament-hera",
         "title": "Internationaal restaurant HERA",
         "name": "Fundament Losser · Internationaal restaurant HERA",
-        "description": "Maandelijkse gezamenlijke maaltijd in Overdinkel, georganiseerd rond internationale gerechten en ontmoeting.",
+        "description": "Maandelijks internationaal restaurant in ’t Trefhuus, gerund door vrouwen van verschillende nationaliteiten en gericht op ontmoeting.",
         "municipality": "Losser",
         "municipalities": [
           "Losser"
@@ -11358,24 +11361,71 @@
         ],
         "guidePaths": [],
         "guideExclude": false,
-        "audience": "Inwoners van Losser en omgeving.",
+        "audience": "Inwoners van Overdinkel en omgeving die samen internationaal willen eten en elkaar willen ontmoeten.",
         "costs": "Controleer actuele maaltijdprijs.",
-        "access": "Volgens de actuele agenda; reserveren kan nodig zijn.",
+        "access": "Maandelijks in ’t Trefhuus; controleer de actuele datum en reserveringsinformatie bij Fundament.",
         "openingHours": "",
         "phone": "",
         "email": "",
-        "source": "https://www.fundamentlosser.nl/agenda/",
+        "source": "https://www.fundamentlosser.nl/activiteiten/internationaal-restaurant-hera/",
         "sourceKind": "first-party",
         "sourceTitle": "Fundament Losser",
-        "checked": "2026-10-02",
+        "checked": "2026-10-03",
         "reviewStatus": "source-backed",
+        "address": "Prins Hendrikstraat 1",
+        "postcode": "7586BG",
+        "town": "Overdinkel",
+        "lat": 52.23875481,
+        "lon": 7.03503715,
+        "locationType": "visiting",
+        "locationSource": "https://trefhuus.com/contact/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261003-losser-internationaal-restaurant-hestia",
+        "title": "Internationaal restaurant Hestia",
+        "name": "Fundament Losser · Internationaal restaurant Hestia",
+        "description": "Maandelijkse internationale driegangenmaaltijd in ’t Lossers hoes, met ontmoeting en kennismaking met elkaars cultuur centraal.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "samen eten",
+          "internationaal",
+          "culturen",
+          "ontmoeten",
+          "maaltijd"
+        ],
+        "guidePaths": [
+          "ontmoeten/samen"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners die samen willen eten en kennis willen maken met verschillende culturen.",
+        "costs": "Er geldt een maaltijdprijs; controleer de actuele prijs bij Fundament.",
+        "access": "Iedere tweede vrijdag van de maand in ’t Lossers hoes; controleer actuele reserveringsinformatie.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.fundamentlosser.nl/activiteiten/internationaal-restaurant-hestia/",
+        "sourceKind": "first-party",
+        "sourceTitle": "",
+        "checked": "2026-10-03",
+        "reviewStatus": "manual",
         "address": "Raadhuisplein 1",
         "postcode": "7581AG",
         "town": "Losser",
         "lat": 52.26284211,
         "lon": 7.00588809,
-        "locationType": "contact",
-        "locationSource": "https://www.fundamentlosser.nl/contact/",
+        "locationType": "visiting",
+        "locationSource": "https://www.fundamentlosser.nl/activiteiten/internationaal-restaurant-hestia/",
         "locationMunicipality": "Losser",
         "mapLocationType": "address",
         "mapPin": false
@@ -11910,6 +11960,55 @@
         "lon": 7.00588809,
         "locationType": "contact",
         "locationSource": "https://www.fundamentlosser.nl/contact/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261003-losser-taalcafe-overdinkel",
+        "title": "Taalcafé Overdinkel",
+        "name": "Fundament Losser · Taalcafé Overdinkel",
+        "description": "Wekelijks taalcafé om samen Nederlands te spreken, koffie of thee te drinken en anderen te ontmoeten.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "taalcafé",
+          "Nederlands",
+          "taal oefenen",
+          "ontmoeten",
+          "Overdinkel"
+        ],
+        "guidePaths": [
+          "taal/nederlands",
+          "migratie/taal"
+        ],
+        "guideExclude": false,
+        "audience": "Mannen en vrouwen die de Nederlandse spreektaal willen oefenen en andere mensen willen ontmoeten.",
+        "costs": "Niet vermeld; aanmelden is niet nodig.",
+        "access": "Iedere woensdagochtend 10.00-11.00 uur in ’t Trefhuus; vrije inloop volgens Fundament.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.fundamentlosser.nl/activiteiten/taalcafe-overdinkel/",
+        "sourceKind": "first-party",
+        "sourceTitle": "",
+        "checked": "2026-10-03",
+        "reviewStatus": "manual",
+        "address": "Prins Hendrikstraat 1",
+        "postcode": "7586BG",
+        "town": "Overdinkel",
+        "lat": 52.23875481,
+        "lon": 7.03503715,
+        "locationType": "visiting",
+        "locationSource": "https://trefhuus.com/contact/",
         "locationMunicipality": "Losser",
         "mapLocationType": "address",
         "mapPin": false
@@ -23815,6 +23914,87 @@
     "primarySource": "https://www.dewelledoet.nl/activiteiten/574"
   },
   {
+    "id": "org-ontmoetingshuis-de-pastorie-qkb94l",
+    "organization": "Ontmoetingshuis De Pastorie",
+    "municipalities": [
+      "Dinkelland"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.dinkellandvisie.nl/nieuws/harry-smienk-benoemd-tot-lid-in-de-orde-van-oranje-nassau"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 0,
+    "manual": 1,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-dinkelland-ontmoetingshuis-pastorie-lattrop",
+        "title": "Lattrop-Breklenkamp",
+        "name": "Ontmoetingshuis De Pastorie · Lattrop-Breklenkamp",
+        "description": "De voormalige pastorie is herbestemd tot ontmoetingshuis en huiskamer van het dorp, met ruimte voor bijeenkomsten, cultuur en educatie.",
+        "municipality": "Dinkelland",
+        "municipalities": [
+          "Dinkelland"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "dorpshuis",
+          "ontmoetingshuis",
+          "inloop",
+          "Lattrop-Breklenkamp",
+          "jong en oud"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Lattrop-Breklenkamp; het ontmoetingshuis is bedoeld als huiskamer van het dorp voor jong en oud.",
+        "costs": "Verschilt per activiteit; controleer het actuele programma.",
+        "access": "Multifunctioneel ontmoetingshuis voor dorpse bijeenkomsten, cultuur, educatie en ontmoeting.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.dinkellandvisie.nl/nieuws/harry-smienk-benoemd-tot-lid-in-de-orde-van-oranje-nassau",
+        "sourceKind": "regional",
+        "sourceTitle": "",
+        "checked": "2026-10-03",
+        "reviewStatus": "manual",
+        "address": "Dorpsstraat 64",
+        "postcode": "7635NC",
+        "town": "Lattrop-Breklenkamp",
+        "lat": 52.4274478,
+        "lon": 6.97744314,
+        "locationType": "visiting",
+        "locationSource": "https://lattrop-breklenkamp.nl/parochieblad-jaargang-46-nr-13-zaterdag-26-september-2026-t-m-vrijdag-16-oktober-2026/",
+        "locationMunicipality": "Dinkelland",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Dorpsstraat 64",
+      "postcode": "7635NC",
+      "town": "Lattrop-Breklenkamp",
+      "lat": 52.4274478,
+      "lon": 6.97744314,
+      "locationMunicipality": "Dinkelland",
+      "locationType": "visiting",
+      "locationSource": "https://lattrop-breklenkamp.nl/parochieblad-jaargang-46-nr-13-zaterdag-26-september-2026-t-m-vrijdag-16-oktober-2026/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.dinkellandvisie.nl/nieuws/harry-smienk-benoemd-tot-lid-in-de-orde-van-oranje-nassau"
+  },
+  {
     "id": "org-ontmoetingsplek-sportkantine-de-brug-glanerbru-3podpu",
     "organization": "Ontmoetingsplek Sportkantine De Brug Glanerbrug",
     "municipalities": [
@@ -27721,6 +27901,7 @@
       "https://swtd.nl/ons-aanbod/ouder-worden/tafeltje-dekje",
       "https://swtd.nl/ons-aanbod/geldzorgen/voedselbank",
       "https://swtd.nl/agenda/",
+      "https://www.zorggroepsintmaarten.nl/welzijn-en-dagbesteding-voor-ouderen/overzicht-dagvoorzieningen/de-inloop-in-terra-nova-te-tilligte/",
       "https://swtd.nl/",
       "https://swtd.nl/events/open-eettafel-weerselo/var/ri-20.l-L1/",
       "https://swtd.nl/ons-aanbod/ouder-worden/activiteiten-en-cursussen/",
@@ -28486,23 +28667,23 @@
         ],
         "guideExclude": false,
         "audience": "Senioren uit Dinkelland die behoefte hebben aan gezelligheid, structuur of ondersteuning.",
-        "costs": "Eigen bijdrage €12,50 per keer, inclusief lunch en koffie/thee.",
-        "access": "Wekelijkse inloop; neem bij vragen over deelname of vervoer contact op met de coördinator.",
+        "costs": "Eigen bijdrage €12,50; volgens de aanbieder inclusief lunch en koffie/thee.",
+        "access": "Inloop voor senioren uit Dinkelland; de aanbieder vermeldt dinsdag en donderdag van 10.00 tot 14.00 uur.",
         "openingHours": "Dinsdag 10.00-14.00 uur volgens de actuele agenda.",
         "phone": "",
         "email": "",
-        "source": "https://swtd.nl/agenda/",
+        "source": "https://www.zorggroepsintmaarten.nl/welzijn-en-dagbesteding-voor-ouderen/overzicht-dagvoorzieningen/de-inloop-in-terra-nova-te-tilligte/",
         "sourceKind": "first-party",
         "sourceTitle": "Sociaal, dat werkt!",
-        "checked": "2026-10-02",
+        "checked": "2026-10-03",
         "reviewStatus": "source-backed",
-        "address": "Wiemselweg 5A",
-        "postcode": "7634PX",
+        "address": "Kerkweg 3",
+        "postcode": "7634PL",
         "town": "Tilligte",
-        "lat": 52.40797699,
-        "lon": 6.93544161,
+        "lat": 52.40521098,
+        "lon": 6.95076023,
         "locationType": "visiting",
-        "locationSource": "https://swtd.nl/agenda/",
+        "locationSource": "https://www.zorggroepsintmaarten.nl/welzijn-en-dagbesteding-voor-ouderen/overzicht-dagvoorzieningen/de-inloop-in-terra-nova-te-tilligte/",
         "locationMunicipality": "Dinkelland",
         "mapLocationType": "address",
         "mapPin": true
@@ -30547,6 +30728,90 @@
     "primarySource": "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/"
   },
   {
+    "id": "org-stadscentrum-het-parochiehuis-xyq4yb",
+    "organization": "Stadscentrum het Parochiehuis",
+    "municipalities": [
+      "Hof van Twente"
+    ],
+    "categories": [
+      "ontmoeten",
+      "cultuur"
+    ],
+    "sources": [
+      "https://www.stadscentrum-hetparochiehuis.nl/activiteiten/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 0,
+    "manual": 1,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-hof-stadscentrum-parochiehuis-delden",
+        "title": "Delden",
+        "name": "Stadscentrum het Parochiehuis · Delden",
+        "description": "Laagdrempelig cultuur- en gemeenschapshuis waar structureel verenigingen, clubs en organisaties actief zijn.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten",
+          "cultuur"
+        ],
+        "subthemes": [],
+        "tags": [
+          "gemeenschapshuis",
+          "activiteiten",
+          "verenigingen",
+          "cultuur",
+          "ontmoeten",
+          "Delden"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "audience": "Inwoners van Delden en omgeving; verschillende verenigingen, clubs en organisaties gebruiken het centrum structureel.",
+        "costs": "Verschilt per activiteit; een deel van het programma is betaald.",
+        "access": "Bekijk het actuele activiteitenrooster van het Stadscentrum.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.stadscentrum-hetparochiehuis.nl/activiteiten/",
+        "sourceKind": "first-party",
+        "sourceTitle": "",
+        "checked": "2026-10-03",
+        "reviewStatus": "manual",
+        "address": "Langestraat 79",
+        "postcode": "7491AB",
+        "town": "Delden",
+        "lat": 52.26185668,
+        "lon": 6.70752621,
+        "locationType": "visiting",
+        "locationSource": "https://www.stadscentrum-hetparochiehuis.nl/contact/",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Langestraat 79",
+      "postcode": "7491AB",
+      "town": "Delden",
+      "lat": 52.26185668,
+      "lon": 6.70752621,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "visiting",
+      "locationSource": "https://www.stadscentrum-hetparochiehuis.nl/contact/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.stadscentrum-hetparochiehuis.nl/activiteiten/"
+  },
+  {
     "id": "org-stefanshof-borne-1n0zcfu",
     "organization": "Stefanshof Borne",
     "municipalities": [
@@ -30860,6 +31125,91 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220582/invis2/stichting-de-welle"
+  },
+  {
+    "id": "org-stichting-kandjoli-i6hgrc",
+    "organization": "Stichting Kandjoli",
+    "municipalities": [
+      "Wierden"
+    ],
+    "categories": [
+      "ontmoeten",
+      "advies"
+    ],
+    "sources": [
+      "https://landelijk.socialekaartnederland.nl/organisaties/stichting-kandjoli-wierden"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 0,
+    "manual": 1,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-wierden-wijkcentrum-kandjoli",
+        "title": "Wijkcentrum Wierden",
+        "name": "Stichting Kandjoli · Wijkcentrum Wierden",
+        "description": "Molukse welzijnsorganisatie en wijkcentrum in Wierden met een centrale rol in de wijk en aandacht voor wonen, welzijn en zorg.",
+        "municipality": "Wierden",
+        "municipalities": [
+          "Wierden"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten",
+          "advies"
+        ],
+        "subthemes": [],
+        "tags": [
+          "wijkcentrum",
+          "welzijn",
+          "Molukse gemeenschap",
+          "wonen",
+          "welzijn",
+          "zorg",
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "audience": "Met name de Molukse gemeenschap in Wierden; de organisatie werkt op het brede terrein van wonen, welzijn en zorg.",
+        "costs": "Niet vermeld.",
+        "access": "Neem voor actuele activiteiten en openingstijden contact op met Stichting Kandjoli.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://landelijk.socialekaartnederland.nl/organisaties/stichting-kandjoli-wierden",
+        "sourceKind": "regional",
+        "sourceTitle": "",
+        "checked": "2026-10-03",
+        "reviewStatus": "manual",
+        "address": "Chris Soumokilstraat 69a",
+        "postcode": "7642XX",
+        "town": "Wierden",
+        "lat": 52.35640596,
+        "lon": 6.57509464,
+        "locationType": "visiting",
+        "locationSource": "https://www.wierden.nl/stembureaus-in-de-gemeente-wierden",
+        "locationMunicipality": "Wierden",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Chris Soumokilstraat 69a",
+      "postcode": "7642XX",
+      "town": "Wierden",
+      "lat": 52.35640596,
+      "lon": 6.57509464,
+      "locationMunicipality": "Wierden",
+      "locationType": "visiting",
+      "locationSource": "https://www.wierden.nl/stembureaus-in-de-gemeente-wierden",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://landelijk.socialekaartnederland.nl/organisaties/stichting-kandjoli-wierden"
   },
   {
     "id": "org-stichting-kulturhus-holten-locatie-smidsbelt-epepae",

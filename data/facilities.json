@@ -8551,6 +8551,47 @@
     "catalogOrganizationId": "org-ons-erf-nijverdal-w4ypq5"
   },
   {
+    "id": "offer-extra-20261003-dinkelland-ontmoetingshuis-pastorie-lattrop",
+    "name": "Ontmoetingshuis De Pastorie · Lattrop-Breklenkamp",
+    "category": "ontmoeten",
+    "address": "Dorpsstraat 64",
+    "postcode": "7635NC",
+    "town": "Lattrop-Breklenkamp",
+    "municipality": "Dinkelland",
+    "serviceMunicipalities": [
+      "Dinkelland"
+    ],
+    "lat": 52.4274478,
+    "lon": 6.97744314,
+    "source": "https://www.dinkellandvisie.nl/nieuws/harry-smienk-benoemd-tot-lid-in-de-orde-van-oranje-nassau",
+    "checked": "2026-10-03",
+    "tags": [
+      "dorpshuis",
+      "ontmoetingshuis",
+      "inloop",
+      "Lattrop-Breklenkamp",
+      "jong en oud"
+    ],
+    "subthemes": [],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "De voormalige pastorie is herbestemd tot ontmoetingshuis en huiskamer van het dorp, met ruimte voor bijeenkomsten, cultuur en educatie.",
+    "audience": "Inwoners van Lattrop-Breklenkamp; het ontmoetingshuis is bedoeld als huiskamer van het dorp voor jong en oud.",
+    "costs": "Verschilt per activiteit; controleer het actuele programma.",
+    "access": "Multifunctioneel ontmoetingshuis voor dorpse bijeenkomsten, cultuur, educatie en ontmoeting.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://lattrop-breklenkamp.nl/parochieblad-jaargang-46-nr-13-zaterdag-26-september-2026-t-m-vrijdag-16-oktober-2026/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-ontmoetingshuis-de-pastorie-qkb94l"
+  },
+  {
     "id": "offer-extra-20261002-ontmoetingsplek-sportkantine-de-brug-glanerbrug",
     "name": "Ontmoetingsplek Sportkantine De Brug Glanerbrug",
     "category": "ontmoeten",
@@ -9641,17 +9682,17 @@
     "id": "offer-candidate-20261002-swtd-terra-nova",
     "name": "Sociaal, dat werkt! · Inloop Terra Nova Tilligte",
     "category": "ontmoeten",
-    "address": "Wiemselweg 5A",
-    "postcode": "7634PX",
+    "address": "Kerkweg 3",
+    "postcode": "7634PL",
     "town": "Tilligte",
     "municipality": "Dinkelland",
     "serviceMunicipalities": [
       "Dinkelland"
     ],
-    "lat": 52.40797699,
-    "lon": 6.93544161,
-    "source": "https://swtd.nl/agenda/",
-    "checked": "2026-10-02",
+    "lat": 52.40521098,
+    "lon": 6.95076023,
+    "source": "https://www.zorggroepsintmaarten.nl/welzijn-en-dagbesteding-voor-ouderen/overzicht-dagvoorzieningen/de-inloop-in-terra-nova-te-tilligte/",
+    "checked": "2026-10-03",
     "tags": [
       "dagbesteding",
       "inloop",
@@ -9670,13 +9711,13 @@
     "guideExclude": false,
     "description": "Inloop in MFA Terra Nova voor senioren die sociale contacten willen opdoen, met activiteiten, lichte begeleiding en een gezamenlijke lunch.",
     "audience": "Senioren uit Dinkelland die behoefte hebben aan gezelligheid, structuur of ondersteuning.",
-    "costs": "Eigen bijdrage €12,50 per keer, inclusief lunch en koffie/thee.",
-    "access": "Wekelijkse inloop; neem bij vragen over deelname of vervoer contact op met de coördinator.",
+    "costs": "Eigen bijdrage €12,50; volgens de aanbieder inclusief lunch en koffie/thee.",
+    "access": "Inloop voor senioren uit Dinkelland; de aanbieder vermeldt dinsdag en donderdag van 10.00 tot 14.00 uur.",
     "openingHours": "Dinsdag 10.00-14.00 uur volgens de actuele agenda.",
     "phone": "",
     "email": "",
     "locationType": "visiting",
-    "locationSource": "https://swtd.nl/agenda/",
+    "locationSource": "https://www.zorggroepsintmaarten.nl/welzijn-en-dagbesteding-voor-ouderen/overzicht-dagvoorzieningen/de-inloop-in-terra-nova-te-tilligte/",
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
@@ -10328,6 +10369,48 @@
     "catalogOrganizationId": "org-sport-en-gemeenschapscentrum-de-pol-bentelo-z54c0t"
   },
   {
+    "id": "offer-extra-20261003-hof-stadscentrum-parochiehuis-delden",
+    "name": "Stadscentrum het Parochiehuis · Delden",
+    "category": "ontmoeten",
+    "address": "Langestraat 79",
+    "postcode": "7491AB",
+    "town": "Delden",
+    "municipality": "Hof van Twente",
+    "serviceMunicipalities": [
+      "Hof van Twente"
+    ],
+    "lat": 52.26185668,
+    "lon": 6.70752621,
+    "source": "https://www.stadscentrum-hetparochiehuis.nl/activiteiten/",
+    "checked": "2026-10-03",
+    "tags": [
+      "gemeenschapshuis",
+      "activiteiten",
+      "verenigingen",
+      "cultuur",
+      "ontmoeten",
+      "Delden"
+    ],
+    "subthemes": [],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling"
+    ],
+    "guideExclude": false,
+    "description": "Laagdrempelig cultuur- en gemeenschapshuis waar structureel verenigingen, clubs en organisaties actief zijn.",
+    "audience": "Inwoners van Delden en omgeving; verschillende verenigingen, clubs en organisaties gebruiken het centrum structureel.",
+    "costs": "Verschilt per activiteit; een deel van het programma is betaald.",
+    "access": "Bekijk het actuele activiteitenrooster van het Stadscentrum.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.stadscentrum-hetparochiehuis.nl/contact/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-stadscentrum-het-parochiehuis-xyq4yb"
+  },
+  {
     "id": "offer-extra-20261002-borne-stefanshof",
     "name": "Stefanshof Borne · soos en bijeenkomsten",
     "category": "ontmoeten",
@@ -10413,6 +10496,49 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-stichting-aandacht-voor-elkaar-1o35l26"
+  },
+  {
+    "id": "offer-extra-20261003-wierden-wijkcentrum-kandjoli",
+    "name": "Stichting Kandjoli · Wijkcentrum Wierden",
+    "category": "ontmoeten",
+    "address": "Chris Soumokilstraat 69a",
+    "postcode": "7642XX",
+    "town": "Wierden",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.35640596,
+    "lon": 6.57509464,
+    "source": "https://landelijk.socialekaartnederland.nl/organisaties/stichting-kandjoli-wierden",
+    "checked": "2026-10-03",
+    "tags": [
+      "wijkcentrum",
+      "welzijn",
+      "Molukse gemeenschap",
+      "wonen",
+      "welzijn",
+      "zorg",
+      "ontmoeten"
+    ],
+    "subthemes": [],
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "basis/praktisch"
+    ],
+    "guideExclude": false,
+    "description": "Molukse welzijnsorganisatie en wijkcentrum in Wierden met een centrale rol in de wijk en aandacht voor wonen, welzijn en zorg.",
+    "audience": "Met name de Molukse gemeenschap in Wierden; de organisatie werkt op het brede terrein van wonen, welzijn en zorg.",
+    "costs": "Niet vermeld.",
+    "access": "Neem voor actuele activiteiten en openingstijden contact op met Stichting Kandjoli.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.wierden.nl/stembureaus-in-de-gemeente-wierden",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-stichting-kandjoli-i6hgrc"
   },
   {
     "id": "offer-candidate-20261002-tactus-herstel",

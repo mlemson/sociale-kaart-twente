@@ -13267,6 +13267,221 @@
       "lon": 6.93030845,
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/alzheimercafe/",
       "addressChecked": "2026-10-02"
+    },
+    {
+      "id": "extra-20261003-dinkelland-ontmoetingshuis-pastorie-lattrop",
+      "name": "Ontmoetingshuis De Pastorie · Lattrop-Breklenkamp",
+      "source": "https://www.dinkellandvisie.nl/nieuws/harry-smienk-benoemd-tot-lid-in-de-orde-van-oranje-nassau",
+      "sourceKind": "regional",
+      "checked": "2026-10-03",
+      "accessStatus": "confirmed",
+      "municipality": "Dinkelland",
+      "municipalities": [
+        "Dinkelland"
+      ],
+      "category": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "dorpshuis",
+        "ontmoetingshuis",
+        "inloop",
+        "Lattrop-Breklenkamp",
+        "jong en oud"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "audience": "Inwoners van Lattrop-Breklenkamp; het ontmoetingshuis is bedoeld als huiskamer van het dorp voor jong en oud.",
+      "costs": "Verschilt per activiteit; controleer het actuele programma.",
+      "access": "Multifunctioneel ontmoetingshuis voor dorpse bijeenkomsten, cultuur, educatie en ontmoeting.",
+      "description": "De voormalige pastorie is herbestemd tot ontmoetingshuis en huiskamer van het dorp, met ruimte voor bijeenkomsten, cultuur en educatie.",
+      "address": "Dorpsstraat 64",
+      "postcode": "7635NC",
+      "town": "Lattrop-Breklenkamp",
+      "locationType": "visiting",
+      "locationSource": "https://lattrop-breklenkamp.nl/parochieblad-jaargang-46-nr-13-zaterdag-26-september-2026-t-m-vrijdag-16-oktober-2026/",
+      "mapPin": true,
+      "lat": 52.4274478,
+      "lon": 6.97744314,
+      "locationMunicipality": "Dinkelland",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "id": "extra-20261003-wierden-wijkcentrum-kandjoli",
+      "name": "Stichting Kandjoli · Wijkcentrum Wierden",
+      "source": "https://landelijk.socialekaartnederland.nl/organisaties/stichting-kandjoli-wierden",
+      "sourceKind": "regional",
+      "checked": "2026-10-03",
+      "accessStatus": "confirmed",
+      "municipality": "Wierden",
+      "municipalities": [
+        "Wierden"
+      ],
+      "category": "ontmoeten",
+      "themes": [
+        "ontmoeten",
+        "advies"
+      ],
+      "tags": [
+        "wijkcentrum",
+        "welzijn",
+        "Molukse gemeenschap",
+        "wonen",
+        "welzijn",
+        "zorg",
+        "ontmoeten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "basis/praktisch"
+      ],
+      "audience": "Met name de Molukse gemeenschap in Wierden; de organisatie werkt op het brede terrein van wonen, welzijn en zorg.",
+      "costs": "Niet vermeld.",
+      "access": "Neem voor actuele activiteiten en openingstijden contact op met Stichting Kandjoli.",
+      "description": "Molukse welzijnsorganisatie en wijkcentrum in Wierden met een centrale rol in de wijk en aandacht voor wonen, welzijn en zorg.",
+      "address": "Chris Soumokilstraat 69a",
+      "postcode": "7642XX",
+      "town": "Wierden",
+      "locationType": "visiting",
+      "locationSource": "https://www.wierden.nl/stembureaus-in-de-gemeente-wierden",
+      "mapPin": true,
+      "lat": 52.35640596,
+      "lon": 6.57509464,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "id": "extra-20261003-hof-stadscentrum-parochiehuis-delden",
+      "name": "Stadscentrum het Parochiehuis · Delden",
+      "source": "https://www.stadscentrum-hetparochiehuis.nl/activiteiten/",
+      "sourceKind": "first-party",
+      "checked": "2026-10-03",
+      "accessStatus": "confirmed",
+      "municipality": "Hof van Twente",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "category": "ontmoeten",
+      "themes": [
+        "ontmoeten",
+        "cultuur"
+      ],
+      "tags": [
+        "gemeenschapshuis",
+        "activiteiten",
+        "verenigingen",
+        "cultuur",
+        "ontmoeten",
+        "Delden"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "audience": "Inwoners van Delden en omgeving; verschillende verenigingen, clubs en organisaties gebruiken het centrum structureel.",
+      "costs": "Verschilt per activiteit; een deel van het programma is betaald.",
+      "access": "Bekijk het actuele activiteitenrooster van het Stadscentrum.",
+      "description": "Laagdrempelig cultuur- en gemeenschapshuis waar structureel verenigingen, clubs en organisaties actief zijn.",
+      "address": "Langestraat 79",
+      "postcode": "7491AB",
+      "town": "Delden",
+      "locationType": "visiting",
+      "locationSource": "https://www.stadscentrum-hetparochiehuis.nl/contact/",
+      "mapPin": true,
+      "lat": 52.26185668,
+      "lon": 6.70752621,
+      "locationMunicipality": "Hof van Twente",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "id": "extra-20261003-losser-taalcafe-overdinkel",
+      "name": "Fundament Losser · Taalcafé Overdinkel",
+      "source": "https://www.fundamentlosser.nl/activiteiten/taalcafe-overdinkel/",
+      "sourceKind": "first-party",
+      "checked": "2026-10-03",
+      "accessStatus": "confirmed",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "taal",
+      "themes": [
+        "taal",
+        "ontmoeten"
+      ],
+      "tags": [
+        "taalcafé",
+        "Nederlands",
+        "taal oefenen",
+        "ontmoeten",
+        "Overdinkel"
+      ],
+      "guidePaths": [
+        "taal/nederlands",
+        "migratie/taal"
+      ],
+      "audience": "Mannen en vrouwen die de Nederlandse spreektaal willen oefenen en andere mensen willen ontmoeten.",
+      "costs": "Niet vermeld; aanmelden is niet nodig.",
+      "access": "Iedere woensdagochtend 10.00-11.00 uur in ’t Trefhuus; vrije inloop volgens Fundament.",
+      "description": "Wekelijks taalcafé om samen Nederlands te spreken, koffie of thee te drinken en anderen te ontmoeten.",
+      "address": "Prins Hendrikstraat 1",
+      "postcode": "7586BG",
+      "town": "Overdinkel",
+      "locationType": "visiting",
+      "locationSource": "https://trefhuus.com/contact/",
+      "mapPin": false,
+      "lat": 52.23875481,
+      "lon": 7.03503715,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
+    },
+    {
+      "id": "extra-20261003-losser-internationaal-restaurant-hestia",
+      "name": "Fundament Losser · Internationaal restaurant Hestia",
+      "source": "https://www.fundamentlosser.nl/activiteiten/internationaal-restaurant-hestia/",
+      "sourceKind": "first-party",
+      "checked": "2026-10-03",
+      "accessStatus": "confirmed",
+      "municipality": "Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "category": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "tags": [
+        "samen eten",
+        "internationaal",
+        "culturen",
+        "ontmoeten",
+        "maaltijd"
+      ],
+      "guidePaths": [
+        "ontmoeten/samen"
+      ],
+      "audience": "Inwoners die samen willen eten en kennis willen maken met verschillende culturen.",
+      "costs": "Er geldt een maaltijdprijs; controleer de actuele prijs bij Fundament.",
+      "access": "Iedere tweede vrijdag van de maand in ’t Lossers hoes; controleer actuele reserveringsinformatie.",
+      "description": "Maandelijkse internationale driegangenmaaltijd in ’t Lossers hoes, met ontmoeting en kennismaking met elkaars cultuur centraal.",
+      "address": "Raadhuisplein 1",
+      "postcode": "7581AG",
+      "town": "Losser",
+      "locationType": "visiting",
+      "locationSource": "https://www.fundamentlosser.nl/activiteiten/internationaal-restaurant-hestia/",
+      "mapPin": false,
+      "lat": 52.26284211,
+      "lon": 7.00588809,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
