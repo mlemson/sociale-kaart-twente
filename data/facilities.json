@@ -5134,7 +5134,7 @@
   },
   {
     "id": "offer-candidate-729433f217b2a499",
-    "name": "Ixta Noa Praktijkhuis Enschede",
+    "name": "Ixta Noa Praktijkhuis Enschede · inloop en herstelondersteuning",
     "category": "mentaal",
     "address": "Molenstraat 30",
     "postcode": "7514DK",
@@ -5166,7 +5166,7 @@
     "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-ixta-noa-1gu2ijx"
+    "catalogOrganizationId": "org-ixta-noa-praktijkhuis-enschede-18kgun"
   },
   {
     "id": "offer-extra-20261002-kickass-cafe",
@@ -11365,38 +11365,6 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-inlooppunt-de-open-deur-15mg6al"
-  },
-  {
-    "id": "catalog-org-ixta-noa-praktijkhuis-enschede-18kgun",
-    "name": "Ixta Noa Praktijkhuis Enschede",
-    "category": "mentaal",
-    "address": "Molenstraat 30",
-    "postcode": "7514DK",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.22323189,
-    "lon": 6.89435653,
-    "source": "https://www.ixtanoa.nl/wrap/",
-    "checked": "2026-10-02",
-    "tags": [
-      "mentaal"
-    ],
-    "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Ixta Noa Praktijkhuis Enschede. Via de bron zijn 3 vormen van voorliggend aanbod opgenomen.",
-    "audience": "Mensen die aan persoonlijk of psychisch herstel willen werken.",
-    "costs": "Gratis.",
-    "access": "Aanmelden wanneer een groep in Enschede gepland staat; bekijk de agenda.",
-    "openingHours": "",
-    "phone": "053 230 74 46",
-    "email": "enschede@ixtanoa.nl",
-    "locationType": "contact",
-    "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
-    "mapLocationType": "address",
-    "physicalLocation": false,
-    "catalogOrganizationId": "org-ixta-noa-praktijkhuis-enschede-18kgun"
   },
   {
     "id": "catalog-org-jeugd-sport-en-cultuurfonds-wierden-cky59o",

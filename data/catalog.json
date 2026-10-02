@@ -15596,82 +15596,6 @@
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197530/invis2/inlooppunt-de-open-deur"
   },
   {
-    "id": "org-ixta-noa-1gu2ijx",
-    "organization": "Ixta Noa",
-    "municipalities": [
-      "Enschede"
-    ],
-    "categories": [
-      "mentaal"
-    ],
-    "sources": [
-      "https://www.ixtanoa.nl/regio-enschede-en-hengelo/"
-    ],
-    "offerCount": 1,
-    "reviewNeeded": 0,
-    "sourceBacked": 0,
-    "manual": 1,
-    "checked": "2026-10-02",
-    "offers": [
-      {
-        "id": "candidate-729433f217b2a499",
-        "title": "Ixta Noa Praktijkhuis Enschede",
-        "name": "Ixta Noa Praktijkhuis Enschede",
-        "description": "Laagdrempelig Praktijkhuis van Ixta Noa voor inloop, herstelondersteuning, activiteiten, groepen en cursussen. De locatie in Enschede gebruikt Molenstraat 30 en 36.",
-        "municipality": "Enschede",
-        "municipalities": [
-          "Enschede"
-        ],
-        "category": "mentaal",
-        "themes": [
-          "mentaal"
-        ],
-        "subthemes": [],
-        "tags": [
-          "mentaal"
-        ],
-        "guidePaths": [
-          "mentaal/lotgenoten"
-        ],
-        "guideExclude": false,
-        "audience": "",
-        "costs": "",
-        "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
-        "openingHours": "Maandag t/m vrijdag 09.00-17.00 uur; dinsdag en donderdag ook 18.00-20.00 uur; zaterdag 10.00-15.00 uur.",
-        "phone": "053 230 74 46",
-        "email": "enschede@ixtanoa.nl",
-        "source": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
-        "sourceKind": "first-party",
-        "sourceTitle": "Ixta Noa",
-        "checked": "2026-10-02",
-        "reviewStatus": "manual",
-        "address": "Molenstraat 30",
-        "postcode": "7514DK",
-        "town": "Enschede",
-        "lat": 52.22323189,
-        "lon": 6.89435653,
-        "locationType": "visiting",
-        "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
-        "locationMunicipality": "Enschede",
-        "mapLocationType": "address",
-        "mapPin": true
-      }
-    ],
-    "location": {
-      "address": "Molenstraat 30",
-      "postcode": "7514DK",
-      "town": "Enschede",
-      "lat": 52.22323189,
-      "lon": 6.89435653,
-      "locationMunicipality": "Enschede",
-      "locationType": "visiting",
-      "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
-      "mapLocationType": "address"
-    },
-    "status": "source-backed",
-    "primarySource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/"
-  },
-  {
     "id": "org-ixta-noa-praktijkhuis-enschede-18kgun",
     "organization": "Ixta Noa Praktijkhuis Enschede",
     "municipalities": [
@@ -15681,14 +15605,15 @@
       "mentaal"
     ],
     "sources": [
+      "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
       "https://www.ixtanoa.nl/wrap/",
       "https://www.ixtanoa.nl/herstellen-doe-je-zelf/",
       "https://www.ixtanoa.nl/ixta-in-contact/"
     ],
-    "offerCount": 3,
+    "offerCount": 4,
     "reviewNeeded": 0,
     "sourceBacked": 3,
-    "manual": 0,
+    "manual": 1,
     "checked": "2026-10-02",
     "offers": [
       {
@@ -15740,6 +15665,49 @@
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "candidate-729433f217b2a499",
+        "title": "inloop en herstelondersteuning",
+        "name": "Ixta Noa Praktijkhuis Enschede · inloop en herstelondersteuning",
+        "description": "Laagdrempelig Praktijkhuis van Ixta Noa voor inloop, herstelondersteuning, activiteiten, groepen en cursussen. De locatie in Enschede gebruikt Molenstraat 30 en 36.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal"
+        ],
+        "subthemes": [],
+        "tags": [
+          "mentaal"
+        ],
+        "guidePaths": [
+          "mentaal/lotgenoten"
+        ],
+        "guideExclude": false,
+        "audience": "",
+        "costs": "",
+        "access": "Zonder gemeentelijke indicatie toegankelijk; neem rechtstreeks contact op.",
+        "openingHours": "Maandag t/m vrijdag 09.00-17.00 uur; dinsdag en donderdag ook 18.00-20.00 uur; zaterdag 10.00-15.00 uur.",
+        "phone": "053 230 74 46",
+        "email": "enschede@ixtanoa.nl",
+        "source": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Ixta Noa",
+        "checked": "2026-10-02",
+        "reviewStatus": "manual",
+        "address": "Molenstraat 30",
+        "postcode": "7514DK",
+        "town": "Enschede",
+        "lat": 52.22323189,
+        "lon": 6.89435653,
+        "locationType": "visiting",
+        "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
       },
       {
         "id": "candidate-20261002-ixta-ixta-in-contact",
@@ -15849,12 +15817,12 @@
       "lat": 52.22323189,
       "lon": 6.89435653,
       "locationMunicipality": "Enschede",
-      "locationType": "contact",
+      "locationType": "visiting",
       "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
       "mapLocationType": "address"
     },
     "status": "source-backed",
-    "primarySource": "https://www.ixtanoa.nl/wrap/"
+    "primarySource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/"
   },
   {
     "id": "org-jeugd-sport-en-cultuurfonds-wierden-cky59o",
