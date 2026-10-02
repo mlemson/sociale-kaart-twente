@@ -35,6 +35,7 @@
   let records = [];
   let route = [];
   let searchTimer = 0;
+  let detailMaps = [];
 
   function setupTheme() {
     const button = document.querySelector(".scheme-toggle");
@@ -177,6 +178,7 @@
   }
 
   function renderCards(nodes, parent) {
+    clearDetailMaps();
     const grid = byId("guide-grid");
     const results = byId("guide-results");
     const visualRoot = !parent && route.length === 0 && byId("guide-search").value.trim().length < 2;
@@ -237,6 +239,65 @@
     return [...groups.values()].sort((a, b) => a.name.localeCompare(b.name, "nl-NL"));
   }
 
+  function clearDetailMaps() {
+    detailMaps.forEach(map => {
+      try { map.remove(); } catch {}
+    });
+    detailMaps = [];
+  }
+
+  function hasPhysicalMap(record) {
+    return Boolean(
+      record &&
+      record.physicalLocation === true &&
+      record.mapLocationType !== "service-area" &&
+      Number.isFinite(record.lat) &&
+      Number.isFinite(record.lon)
+    );
+  }
+
+  function miniMapHtml(record, index) {
+    if (!hasPhysicalMap(record)) return "";
+    const address = [record.address, record.postcode, record.town].filter(Boolean).join(", ");
+    return '<aside class="guide-offer-map" aria-label="Locatie van ' + esc(record.title || record.organization) + '">' +
+      '<div class="guide-mini-map" data-guide-map="' + index + '"></div>' +
+      '<div class="guide-mini-map-caption"><strong>Locatie</strong><span>' + esc(address || record.town || "") + '</span>' +
+      '<a href="index.html?gemeente=' + encodeURIComponent(record.locationMunicipality || (record.municipalities || [])[0] || "") + '">Open grote kaart</a></div>' +
+      '</aside>';
+  }
+
+  function initMiniMaps(items) {
+    if (typeof L === "undefined") return;
+    const primary = getComputedStyle(document.body).getPropertyValue("--primary").trim() || "#356b58";
+    document.querySelectorAll("[data-guide-map]").forEach(element => {
+      const record = items[Number(element.dataset.guideMap)];
+      if (!hasPhysicalMap(record)) return;
+      const map = L.map(element, {
+        zoomControl: false,
+        scrollWheelZoom: false,
+        doubleClickZoom: false,
+        boxZoom: false,
+        keyboard: false,
+        attributionControl: true
+      }).setView([record.lat, record.lon], 15);
+      L.tileLayer("https://service.pdok.nl/brt/achtergrondkaart/wmts/v2_0/grijs/EPSG:3857/{z}/{x}/{y}.png", {
+        attribution: "Kadaster / PDOK",
+        maxNativeZoom: 19,
+        maxZoom: 20,
+        opacity: .72
+      }).addTo(map);
+      L.circleMarker([record.lat, record.lon], {
+        radius: 8,
+        weight: 3,
+        color: primary,
+        fillColor: primary,
+        fillOpacity: .92
+      }).addTo(map).bindTooltip(esc(record.title || record.organization), {direction: "top"});
+      detailMaps.push(map);
+      requestAnimationFrame(() => map.invalidateSize({pan: false}));
+    });
+  }
+
   function detailRows(record) {
     const rows = [];
     if (record.audience) rows.push(["Voor wie", record.audience]);
@@ -261,19 +322,24 @@
     byId("guide-heading").textContent = organization;
     byId("guide-subheading").textContent = items.length + " " + (items.length === 1 ? "onderdeel" : "onderdelen") + " binnen de gekozen route.";
 
-    const cards = [...items].sort((a, b) => String(a.title || "").localeCompare(String(b.title || ""), "nl-NL")).map(record => {
+    clearDetailMaps();
+    const sortedItems = [...items].sort((a, b) => String(a.title || "").localeCompare(String(b.title || ""), "nl-NL"));
+    const cards = sortedItems.map((record, index) => {
       const url = safeUrl(record.source);
       const rows = detailRows(record);
-      return '<article class="guide-offer"><h4>' + esc(record.title || organization) + "</h4>" +
+      const content = '<div class="guide-offer-content"><h4>' + esc(record.title || organization) + "</h4>" +
         '<div class="guide-offer-meta">' + (record.referenceOnly ? "Specialistisch verwijspunt" : "Sociale kaart") + (record.checked ? " · gecontroleerd " + esc(record.checked) : "") + "</div>" +
         (record.description ? "<p>" + esc(record.description) + "</p>" : "") +
         (rows ? "<dl>" + rows + "</dl>" : "") +
         '<div class="guide-offer-actions">' +
         (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">Website</a>' : "") +
-        '<a class="secondary" href="voorzieningen.html">Alle voorzieningen</a></div></article>';
+        '<a class="secondary" href="voorzieningen.html">Alle voorzieningen</a></div></div>';
+      return '<article class="guide-offer' + (hasPhysicalMap(record) ? " has-map" : "") + '">' +
+        content + miniMapHtml(record, index) + "</article>";
     }).join("");
 
     results.innerHTML = '<div class="guide-detail-head"><div><h3>' + esc(organization) + '</h3><p>Bekijk hieronder de concrete vormen van aanbod.</p></div><button class="guide-back" id="guide-org-back" type="button">Andere organisatie</button></div><div class="guide-detail-list">' + cards + "</div>";
+    initMiniMaps(sortedItems);
 
     byId("guide-org-back").addEventListener("click", () => {
       if (backToSearch) renderSearch(byId("guide-search").value.trim());
@@ -282,6 +348,7 @@
   }
 
   function renderOrganizations(items, node) {
+    clearDetailMaps();
     const groups = groupOrganizations(items);
     byId("guide-grid").hidden = true;
     const results = byId("guide-results");
@@ -304,6 +371,7 @@
   }
 
   function renderSearch(query) {
+    clearDetailMaps();
     const q = norm(query);
     const hits = records.filter(record => !record.guideExclude && inMunicipality(record) && record._text.includes(q)).slice(0, 100);
     byId("guide-grid").hidden = true;
@@ -382,8 +450,12 @@
           address: offer.address || "",
           postcode: offer.postcode || "",
           town: offer.town || "",
+          locationMunicipality: offer.locationMunicipality || "",
           locationType: offer.locationType || "",
           mapLocationType: offer.mapLocationType || "",
+          physicalLocation: offer.physicalLocation === true,
+          lat: Number.isFinite(offer.lat) ? offer.lat : null,
+          lon: Number.isFinite(offer.lon) ? offer.lon : null,
           source: offer.source || group.primarySource || (group.sources || [])[0] || "",
           themes: offer.themes || [],
           subthemes: offer.subthemes || [],
@@ -411,8 +483,12 @@
       address: facility.address || "",
       postcode: facility.postcode || "",
       town: facility.town || "",
+      locationMunicipality: facility.locationMunicipality || "",
       locationType: facility.locationType || "",
       mapLocationType: facility.mapLocationType || "",
+      physicalLocation: facility.physicalLocation === true,
+      lat: Number.isFinite(facility.lat) ? facility.lat : null,
+      lon: Number.isFinite(facility.lon) ? facility.lon : null,
       source: facility.source || "",
       themes: facility.themes || [],
       subthemes: facility.subthemes || [],
@@ -453,8 +529,26 @@
       ["description","audience","access","costs","openingHours","phone","email","address","postcode","town","source","checked"].forEach(field => {
         if (record[field] && (!current[field] || String(record[field]).length > String(current[field]).length)) current[field] = record[field];
       });
-      if (!current.locationType && record.locationType) current.locationType = record.locationType;
-      if (!current.mapLocationType && record.mapLocationType) current.mapLocationType = record.mapLocationType;
+      if (record.physicalLocation === true) {
+        current.physicalLocation = true;
+        if (Number.isFinite(record.lat) && Number.isFinite(record.lon)) {
+          current.lat = record.lat;
+          current.lon = record.lon;
+        }
+        if (record.locationMunicipality) current.locationMunicipality = record.locationMunicipality;
+        if (record.address) current.address = record.address;
+        if (record.postcode) current.postcode = record.postcode;
+        if (record.town) current.town = record.town;
+        if (record.locationType) current.locationType = record.locationType;
+        if (record.mapLocationType) current.mapLocationType = record.mapLocationType;
+      } else {
+        current.physicalLocation = Boolean(current.physicalLocation);
+        if (!current.locationMunicipality && record.locationMunicipality) current.locationMunicipality = record.locationMunicipality;
+        if (!current.locationType && record.locationType) current.locationType = record.locationType;
+        if (!current.mapLocationType && record.mapLocationType) current.mapLocationType = record.mapLocationType;
+        if (!Number.isFinite(current.lat) && Number.isFinite(record.lat)) current.lat = record.lat;
+        if (!Number.isFinite(current.lon) && Number.isFinite(record.lon)) current.lon = record.lon;
+      }
       current.referenceOnly = Boolean(current.referenceOnly && record.referenceOnly);
     });
 
