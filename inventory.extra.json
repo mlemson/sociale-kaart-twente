@@ -13219,6 +13219,103 @@
       "town": "Diepenheim",
       "phone": "0547 352122",
       "email": "info@diepenheim.nl"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / multifunctionele ontmoetingsplek",
+      "status": "candidate",
+      "id": "extra-20261002-dinkelland-kulturhus-denekamp",
+      "name": "Kulturhus Denekamp · activiteiten en ontmoeting",
+      "source": "https://www.kulturhusdenekamp.nl/",
+      "sourceTitle": "Kulturhus Denekamp",
+      "municipalities": [
+        "Dinkelland"
+      ],
+      "municipality": "Dinkelland",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "kulturhus",
+        "welzijn",
+        "sport",
+        "cultuur",
+        "educatie"
+      ],
+      "tags": [
+        "ontmoeten",
+        "kulturhus",
+        "welzijn",
+        "sport",
+        "cultuur",
+        "Denekamp"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "description": "Kulturhus voor en door inwoners van Denekamp, met activiteiten en dienstverlening rond welzijn, sport, cultuur en educatie en ruimte om elkaar te ontmoeten.",
+      "audience": "Inwoners van Denekamp en omgeving van jong tot oud.",
+      "access": "Publiek toegankelijk tijdens ruime openingstijden en activiteiten.",
+      "costs": "Verschilt per activiteit.",
+      "address": "Oranjestraat 21",
+      "postcode": "7591GA",
+      "town": "Denekamp",
+      "phone": "0541 745300",
+      "locationType": "visiting",
+      "locationMunicipality": "Dinkelland",
+      "mapLocationType": "address",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-02",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / gemeenschapsaccommodatie",
+      "status": "candidate",
+      "id": "extra-20261002-dinkelland-trefpunt-weerselo",
+      "name": "Gemeenschapscentrum 't Trefpunt Weerselo · dorpsontmoeting",
+      "source": "https://www.dinkelland.nl/veel-gestelde-vragen-verkiezingen",
+      "sourceTitle": "Gemeente Dinkelland",
+      "municipalities": [
+        "Dinkelland"
+      ],
+      "municipality": "Dinkelland",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "gemeenschapscentrum",
+        "verenigingen",
+        "dorpsactiviteiten"
+      ],
+      "tags": [
+        "ontmoeten",
+        "gemeenschapscentrum",
+        "verenigingen",
+        "Weerselo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "description": "Gemeenschapscentrum in Weerselo dat wordt gebruikt door lokale verenigingen en voor dorps- en ontmoetingsactiviteiten.",
+      "audience": "Inwoners van Weerselo en omgeving.",
+      "access": "Toegankelijk bij activiteiten en bijeenkomsten.",
+      "costs": "Verschilt per activiteit.",
+      "address": "Legtenbergerstraat 6",
+      "postcode": "7595XB",
+      "town": "Weerselo",
+      "locationType": "visiting",
+      "locationMunicipality": "Dinkelland",
+      "mapLocationType": "address",
+      "mapPin": true
     }
   ],
   "addressEnrichmentVersion": 1,
