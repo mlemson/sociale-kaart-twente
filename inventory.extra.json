@@ -9757,7 +9757,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-wijkcentrum-slangenbeek",
@@ -9772,7 +9772,11 @@
       "postcode": "7559NM",
       "town": "Hengelo",
       "phone": "074 278 2000",
-      "email": "info@wijkcentranoord.nl"
+      "email": "info@wijkcentranoord.nl",
+      "lat": 52.2945835,
+      "lon": 6.80586675,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -9798,7 +9802,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-sterrentuin",
@@ -9813,7 +9817,11 @@
       "postcode": "7557XX",
       "town": "Hengelo",
       "phone": "074 291 9177",
-      "email": "info@wijkcentranoord.nl"
+      "email": "info@wijkcentranoord.nl",
+      "lat": 52.27563504,
+      "lon": 6.81359331,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -9839,7 +9847,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-wijkcentrum-hengelose-es",
@@ -9854,7 +9862,11 @@
       "postcode": "7556LN",
       "town": "Hengelo",
       "phone": "074 250 4020",
-      "email": "info@wijkcentramidden.nl"
+      "email": "info@wijkcentramidden.nl",
+      "lat": 52.27554192,
+      "lon": 6.79233313,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -9880,7 +9892,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-wijkcentrum-tempel",
@@ -9895,7 +9907,11 @@
       "postcode": "7552JZ",
       "town": "Hengelo",
       "phone": "074 242 6716",
-      "email": "info@wijkcentrumdetempel.nl"
+      "email": "info@wijkcentrumdetempel.nl",
+      "lat": 52.26650305,
+      "lon": 6.82853431,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -9921,7 +9937,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-berflo",
@@ -9936,7 +9952,11 @@
       "postcode": "7552VG",
       "town": "Hengelo",
       "phone": "074 245 8808",
-      "email": "info@berflo-hengelo.nl"
+      "email": "info@berflo-hengelo.nl",
+      "lat": 52.25496068,
+      "lon": 6.8062845,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -9963,7 +9983,7 @@
         "meedoen/daginvulling"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-swafert",
@@ -9974,14 +9994,19 @@
       "audience": "Kinderen, jongeren, volwassenen en senioren uit de wijk en de stad.",
       "access": "Dinsdag en donderdag 09.00-16.00 uur volgens de actuele agenda.",
       "costs": "Koffie/inloop tegen een kleine bijdrage; actuele agenda vermeldt €0,60.",
-      "address": "Het Swafert 1018",
+      "address": "'t Swafert 1018",
       "town": "Hengelo",
       "phone": "088 045 5950",
       "subthemes": [
         "buurthuiskamer",
         "wijkhuys",
         "daginvulling"
-      ]
+      ],
+      "postcode": "7552ZB",
+      "lat": 52.26660301,
+      "lon": 6.82186496,
+      "locationSource": "https://www.wijkrachthengelo.nl/groot-driene/agenda/31113/inloop",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "first-party",
@@ -10012,7 +10037,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-humanitas-onder-dak-inloop",
@@ -10025,7 +10050,12 @@
       "costs": "Laagdrempelige inloop.",
       "address": "Deldenerstraat 26",
       "town": "Hengelo",
-      "phone": "088 119 8878"
+      "phone": "088 119 8878",
+      "postcode": "7551AG",
+      "lat": 52.26665536,
+      "lon": 6.78863422,
+      "locationSource": "https://wijkrachthengelo.nl/organisaties/10466/humanitas",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10056,7 +10086,7 @@
         "meedoen/daginvulling"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-vogelkwartier",
@@ -10070,7 +10100,11 @@
       "address": "Leeuwerikstraat 36",
       "postcode": "7557CE",
       "town": "Hengelo",
-      "phone": "088 373 6854"
+      "phone": "088 373 6854",
+      "lat": 52.27102655,
+      "lon": 6.81082412,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10096,7 +10130,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-bij-bosshardt",
@@ -10114,7 +10148,11 @@
       "subthemes": [
         "buurthuiskamer",
         "sociaal contact"
-      ]
+      ],
+      "lat": 52.2552243,
+      "lon": 6.80256698,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10144,7 +10182,7 @@
         "mentaal/welzijn"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-bij-mozart",
@@ -10159,7 +10197,11 @@
       "postcode": "7557DN",
       "town": "Hengelo",
       "phone": "074 202 0800",
-      "email": "r.vanrooij@wijkracht.nl"
+      "email": "r.vanrooij@wijkracht.nl",
+      "lat": 52.27138051,
+      "lon": 6.82117296,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10185,7 +10227,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-de-schoof",
@@ -10199,7 +10241,11 @@
       "address": "Hennepstraat 150",
       "postcode": "7552DN",
       "town": "Hengelo",
-      "phone": "074 291 1754"
+      "phone": "074 291 1754",
+      "lat": 52.25832412,
+      "lon": 6.80923935,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10225,7 +10271,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-proggiehoes",
@@ -10239,7 +10285,11 @@
       "address": "Beckumerschoolweg 38",
       "postcode": "7554PZ",
       "town": "Hengelo",
-      "phone": "074 367 6442"
+      "phone": "074 367 6442",
+      "lat": 52.21236144,
+      "lon": 6.73849712,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10273,7 +10323,7 @@
         "geld/formulieren"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-bibliotheek-stad",
@@ -10287,7 +10337,11 @@
       "address": "Beursstraat 34",
       "postcode": "7551HV",
       "town": "Hengelo",
-      "phone": "074 245 2565"
+      "phone": "074 245 2565",
+      "lat": 52.26357148,
+      "lon": 6.79639829,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/taal",
+      "addressChecked": "2026-10-02"
     },
     {
       "sourceKind": "municipal-directory",
@@ -10316,7 +10370,7 @@
         "ontmoeten/inloop"
       ],
       "locationType": "visiting",
-      "locationMunicipality": "Hengelo",
+      "locationMunicipality": "Hengelo (O)",
       "mapLocationType": "address",
       "mapPin": true,
       "id": "extra-20261002-hengelo-cerberus",
@@ -10330,7 +10384,11 @@
       "address": "Koekoekweg 18",
       "postcode": "7557PH",
       "town": "Hengelo",
-      "phone": "074 349 1756"
+      "phone": "074 349 1756",
+      "lat": 52.267472,
+      "lon": 6.80554423,
+      "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/sport%2C-vrije-tijd-en-ontmoetingsplekken",
+      "addressChecked": "2026-10-02"
     }
   ],
   "addressEnrichmentVersion": 1,
