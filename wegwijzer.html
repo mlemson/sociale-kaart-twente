@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Wegwijzer · Sociale Kaart Twente</title>
+  <meta name="description" content="Vind stap voor stap passend sociaal aanbod en verwijspunten in Twente.">
+  <script>
+    try {
+      const saved = localStorage.getItem('sociale-kaart-color-scheme');
+      const dark = saved === 'dark' || (!saved && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
+      document.documentElement.dataset.colorScheme = dark ? 'dark' : 'light';
+    } catch {}
+  </script>
+  <link rel="stylesheet" href="portal.css">
+  <link rel="stylesheet" href="wegwijzer.css">
+  <script defer src="wegwijzer.js"></script>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23602849'/%3E%3Cpath d='M8 9h16M16 9v16' fill='none' stroke='white' stroke-width='4'/%3E%3C/svg%3E">
+</head>
+<body data-theme="wijkwijzer" data-page="wegwijzer">
+<a class="guide-skip" href="#guide-content">Naar de wegwijzer</a>
+<header class="portal-header">
+  <a class="portal-brand" href="index.html">SK <span>Sociale Kaart Twente</span></a>
+  <nav aria-label="Hoofdnavigatie">
+    <a href="index.html">Sociale kaart</a>
+    <a href="wegwijzer.html" aria-current="page">Wegwijzer</a>
+    <a href="voorzieningen.html">Voorzieningen</a>
+    <a href="aanmelden.html">Aanbod doorgeven</a>
+    <a href="beheer.html">Beheer</a>
+    <button class="scheme-toggle" type="button" aria-pressed="false">Donker</button>
+  </nav>
+</header>
+
+<main class="guide-main" id="guide-content">
+  <section class="guide-intro" aria-labelledby="guide-title">
+    <div>
+      <p class="guide-kicker">Wegwijzer</p>
+      <h1 id="guide-title">Vind hulp stap voor stap</h1>
+      <p class="guide-lead">Kies eerst waar de vraag over gaat. Daarna verfijn je totdat je bij passende organisaties en concrete vormen van aanbod uitkomt.</p>
+    </div>
+    <div class="guide-filter-card">
+      <label for="guide-municipality">Gemeente</label>
+      <select id="guide-municipality"><option value="">Heel Twente</option></select>
+      <label for="guide-search">Weet je al wat je zoekt?</label>
+      <div class="guide-search-row">
+        <input id="guide-search" type="search" placeholder="Bijv. dakloos, autisme, schulden, taal…" autocomplete="off">
+        <button id="guide-search-clear" type="button" hidden>Wissen</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="guide-stage" aria-live="polite">
+    <div class="guide-stage-top">
+      <div>
+        <nav id="guide-breadcrumbs" class="guide-breadcrumbs" aria-label="Gekozen pad"></nav>
+        <h2 id="guide-heading">Waar gaat de vraag over?</h2>
+        <p id="guide-subheading">Kies een hoofdthema. Je kunt daarna steeds specifieker kiezen.</p>
+      </div>
+      <button id="guide-back" class="guide-back" type="button" hidden>Terug</button>
+    </div>
+
+    <div id="guide-status" class="guide-status" role="status">Aanbod laden…</div>
+    <div id="guide-grid" class="guide-grid"></div>
+    <div id="guide-results" class="guide-results" hidden></div>
+  </section>
+
+  <section class="guide-note" aria-label="Uitleg over de gegevens">
+    <strong>Goed om te weten</strong>
+    <p>De wegwijzer gebruikt dezelfde voorzieningengegevens als de rest van de sociale kaart. Een kleine set specialistische verwijspunten is apart toegevoegd wanneer die nog niet in de algemene catalogus staat. Controleer voorwaarden, beschikbaarheid en toegang altijd bij de aanbieder.</p>
+  </section>
+</main>
+
+<footer class="portal-footer">
+  <span>Sociale Kaart Twente</span>
+  <div class="portal-footer-links">
+    <a href="mailto:info@jeugdhulptwente.nl">Contact / correctie</a>
+    <a href="voorzieningen.html">Alle voorzieningen</a>
+    <a href="index.html">Kaart</a>
+  </div>
+</footer>
+</body>
+</html>
