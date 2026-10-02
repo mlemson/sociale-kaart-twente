@@ -94,15 +94,42 @@
     return false;
   }
 
-  function matchesNode(node, record) {
-    const explicit = record.guidePaths || [];
-    if (explicit.length) {
-      const path = nodePath(node).join("/");
-      return explicit.some(value => value === path || value.startsWith(path + "/"));
+  const categoryFallbackPaths = {
+    ontmoeten: ["ontmoeten/inloop"],
+    taal: ["taal/nederlands"],
+    bewegen: ["ontmoeten/bewegen"],
+    mantelzorg: ["zorg/mantelzorg"],
+    mentaal: ["mentaal/welzijn"],
+    vrijwillig: ["meedoen/vrijwillig"]
+  };
+
+  function leafNodes(nodes = taxonomy, prefix = []) {
+    const result = [];
+    for (const node of nodes || []) {
+      const path = [...prefix, node.id];
+      if (node.children && node.children.length) result.push(...leafNodes(node.children, path));
+      else result.push({node, path: path.join("/")});
     }
-    if (node.children && node.children.length) return node.children.some(child => matchesNode(child, record));
+    return result;
+  }
+
+  function inferGuidePaths(record) {
+    const explicit = uniq(record.guidePaths);
+    if (explicit.length) return explicit;
+
     const text = record._text || recordText(record);
-    return (node.include || []).some(term => matchesTerm(text, term));
+    const matched = leafNodes()
+      .filter(item => (item.node.include || []).some(term => matchesTerm(text, term)))
+      .map(item => item.path);
+    if (matched.length) return uniq(matched);
+
+    return categoryFallbackPaths[record.category] || [];
+  }
+
+  function matchesNode(node, record) {
+    const path = nodePath(node).join("/");
+    const assigned = record._guidePaths || inferGuidePaths(record);
+    return assigned.some(value => value === path || value.startsWith(path + "/"));
   }
 
   function municipality() {
@@ -431,7 +458,11 @@
       current.referenceOnly = Boolean(current.referenceOnly && record.referenceOnly);
     });
 
-    return [...merged.values()].map(record => ({...record, _text: recordText(record)}));
+    return [...merged.values()].map(record => {
+      const enriched = {...record, _text: recordText(record)};
+      enriched._guidePaths = inferGuidePaths(enriched);
+      return enriched;
+    });
   }
 
   async function loadJson(path) {
