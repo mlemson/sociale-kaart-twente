@@ -52,6 +52,7 @@ for group in catalog:
         records.append({
             "organization": org,
             "title": offer.get("title") or offer.get("name") or org,
+            "municipalities": list(dict.fromkeys([*(group.get("municipalities") or []), *(offer.get("municipalities") or [])])),
             "description": offer.get("description") or "",
             "audience": offer.get("audience") or "",
             "access": offer.get("access") or "",
