@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Bouw publieke kaartdata, organisatiecatalogus en uitzonderingenlijst."""
+"""Bouw publieke kaartdata en catalogus, inclusief zichtbare contact- en locatiegegevens."""
 from __future__ import annotations
 import json, re, unicodedata
 from pathlib import Path
