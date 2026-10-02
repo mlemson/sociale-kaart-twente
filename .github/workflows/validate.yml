@@ -64,7 +64,12 @@ jobs:
           for item in facilities:
               assert isinstance(item.get("lat"), (int,float)) and isinstance(item.get("lon"), (int,float)), item.get("name")
               assert -90 <= item["lat"] <= 90 and -180 <= item["lon"] <= 180, item.get("name")
-          print(f"{len(facilities)} kaartlocaties · {len(catalog)} organisaties")
+              assert isinstance(item.get("physicalLocation"), bool), f"physicalLocation ontbreekt: {item.get('name')}"
+              if item["physicalLocation"]:
+                  assert item.get("mapLocationType") != "service-area", f"Fysieke locatie mag geen service-area zijn: {item.get('name')}"
+                  assert item.get("locationType") not in {"contact", "source-address"}, f"Contactadres gemarkeerd als fysieke locatie: {item.get('name')}"
+                  assert item.get("address") and item.get("town"), f"Fysieke locatie zonder adres: {item.get('name')}"
+          print(f"{len(facilities)} kaartlocaties · {sum(1 for x in facilities if x['physicalLocation'])} fysiek · {len(catalog)} organisaties")
           PY
       - name: Audit Wegwijzer-indeling
         run: python tools/audit_wegwijzer.py
