@@ -7083,21 +7083,30 @@
       ],
       "sourceTitle": "Noaberpoort",
       "sourceKind": "provider",
-      "checked": "2026-09-15",
+      "checked": "2026-10-02",
       "category": "ontmoeten",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
-      "address": "Blankenburgerstraat 28",
+      "access": "Zonder indicatie of diagnose toegankelijk; aanmelden is niet verplicht maar heeft de voorkeur.",
+      "description": "Ontmoetingsplek voor mensen met beginnende dementie of geheugenklachten en hun naasten, met vrijblijvende activiteiten zoals samen koken, schilderen en spelletjes.",
+      "address": "Blankenburgerstraat 40-42",
       "town": "Haaksbergen",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "ontmoeten"
+        "ontmoeten",
+        "mantelzorg"
       ],
-      "subthemes": [],
+      "subthemes": [
+        "dementie",
+        "geheugen",
+        "zonder indicatie"
+      ],
       "tags": [
-        "ontmoeten"
+        "ontmoeten",
+        "dementie",
+        "geheugen",
+        "mantelzorg",
+        "zonder indicatie"
       ],
       "municipality": "Haaksbergen",
       "enrichment": {
@@ -7126,13 +7135,12 @@
         ]
       },
       "primaryTheme": "ontmoeten",
-      "postcode": "7481EB",
-      "lat": 52.15500987,
-      "lon": 6.74219044,
-      "locationMunicipality": "Haaksbergen",
-      "locationType": "source-address",
-      "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html",
-      "addressChecked": "2026-10-01"
+      "postcode": "7481 EB",
+      "locationType": "visiting",
+      "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/Odensehuis.html",
+      "audience": "Mensen met beginnende dementie of geheugenklachten en hun naasten.",
+      "costs": "Kleine bijdrage per bezoek voor consumpties en maaltijd/lunch; controleer het actuele bedrag op de bron.",
+      "mapPin": true
     },
     {
       "id": "candidate-ebdc403e97ad5593",
@@ -7335,21 +7343,31 @@
       ],
       "sourceTitle": "Noaberpoort",
       "sourceKind": "provider",
-      "checked": "2026-09-15",
+      "checked": "2026-10-02",
       "category": "mentaal",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
-      "address": "Blankenburgerstraat 28",
+      "access": "Vrije inloop op maandag-, dinsdag- en donderdagochtend; geen verwijzing genoemd.",
+      "description": "Vrije inloop met gezellige, leerzame, creatieve en ontspannende activiteiten voor inwoners die nieuwe contacten zoeken of weer actiever mee willen doen.",
+      "address": "Blankenburgerstraat 40-42",
       "town": "Haaksbergen",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "mentaal"
+        "mentaal",
+        "ontmoeten"
       ],
-      "subthemes": [],
+      "subthemes": [
+        "inloop",
+        "activering",
+        "herstel"
+      ],
       "tags": [
-        "mentaal"
+        "mentaal",
+        "ontmoeten",
+        "inloop",
+        "creatief",
+        "activering",
+        "computerhulp"
       ],
       "municipality": "Haaksbergen",
       "enrichment": {
@@ -7382,13 +7400,12 @@
         ]
       },
       "primaryTheme": "mentaal",
-      "postcode": "7481EB",
-      "lat": 52.15500987,
-      "lon": 6.74219044,
-      "locationMunicipality": "Haaksbergen",
-      "locationType": "source-address",
-      "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Jeugd-amp-amp-Gezin/Jongerenwerk-Skillz.html",
-      "addressChecked": "2026-10-01"
+      "postcode": "7481 EB",
+      "locationType": "visiting",
+      "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/ZIENS.html",
+      "audience": "Inwoners die nieuwe contacten zoeken of ondersteuning kunnen gebruiken bij actief meedoen.",
+      "costs": "Kleine bijdrage; controleer het actuele tarief op de bron.",
+      "mapPin": true
     },
     {
       "id": "candidate-1ba3dd49a227de2c",
@@ -12081,32 +12098,33 @@
     },
     {
       "id": "candidate-3bf89bc92e8be805",
-      "name": "Wijkracht Borne · ANWB Automaatje",
+      "name": "Wijkracht Borne · ANWB AutoMaatje",
       "source": "https://www.wijkrachtborne.nl/onze-diensten/volwassenen/anwb-automaatje",
       "municipalities": [
         "Borne"
       ],
       "sourceTitle": "Wijkracht Borne",
       "sourceKind": "provider",
-      "checked": "2026-09-15",
-      "category": "vrijwillig",
+      "checked": "2026-10-02",
+      "category": "vervoer",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
-      "address": "Johannaweg 26",
-      "town": "Hengelo",
+      "access": "Aanvragen via ANWB AutoMaatje Borne; het loket is op werkdagen bereikbaar vanuit het Sociaal Hus.",
+      "description": "Vrijwilligers rijden minder mobiele inwoners uit Borne in hun eigen auto naar afspraken of activiteiten.",
+      "address": "De Haven 1",
+      "town": "Borne",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "vrijwillig",
         "vervoer"
       ],
       "subthemes": [
-        "vervoer"
+        "sociaal vervoer"
       ],
       "tags": [
-        "vrijwillig",
-        "vervoer"
+        "vervoer",
+        "automaatje",
+        "ouderen",
+        "vrijwilligers"
       ],
       "municipality": "Borne",
       "enrichment": {
@@ -12139,14 +12157,13 @@
           "town"
         ]
       },
-      "primaryTheme": "vrijwillig",
-      "postcode": "7555CR",
-      "lat": 52.26218618,
-      "lon": 6.77660084,
-      "locationMunicipality": "Hengelo (O)",
-      "locationType": "source-address",
-      "locationSource": "https://www.wijkrachtborne.nl/jmz",
-      "addressChecked": "2026-10-01"
+      "primaryTheme": "vervoer",
+      "postcode": "7622 DH",
+      "locationType": "visiting",
+      "locationSource": "https://www.wijkrachtborne.nl/onze-diensten/volwassenen/anwb-automaatje",
+      "audience": "Inwoners van Borne die niet eenvoudig zelf vervoer kunnen regelen.",
+      "costs": "In 2026 €0,38 per kilometer plus eventuele parkeerkosten.",
+      "mapPin": true
     },
     {
       "id": "candidate-ccffe23858300861",
@@ -12419,27 +12436,35 @@
     {
       "id": "candidate-339491fe9dc52f8c",
       "name": "Wijkracht Borne · Odensehuis",
-      "source": "https://www.wijkrachtborne.nl/onze-diensten/persoonlijke-ondersteuning/odensehuis",
+      "source": "https://sociaalhus.nl/agenda/18824/odensehuis",
       "municipalities": [
         "Borne"
       ],
-      "sourceTitle": "Wijkracht Borne",
+      "sourceTitle": "Sociaal Hus Borne",
       "sourceKind": "provider",
-      "checked": "2026-09-15",
-      "category": "advies",
+      "checked": "2026-10-02",
+      "category": "ontmoeten",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
-      "address": "Johannaweg 26",
-      "town": "Hengelo",
+      "access": "Wekelijks op dinsdag; toegankelijk met of zonder diagnose.",
+      "description": "Wekelijkse ontmoetingsplek in De Spil voor mensen met beginnende dementie of geheugenklachten en hun naasten.",
+      "address": "Deldensestraat 84",
+      "town": "Borne",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "advies"
+        "ontmoeten",
+        "mantelzorg"
       ],
-      "subthemes": [],
+      "subthemes": [
+        "dementie",
+        "geheugen"
+      ],
       "tags": [
-        "advies"
+        "ontmoeten",
+        "dementie",
+        "geheugen",
+        "mantelzorg",
+        "zonder diagnose"
       ],
       "municipality": "Borne",
       "enrichment": {
@@ -12469,14 +12494,13 @@
           "town"
         ]
       },
-      "primaryTheme": "advies",
-      "postcode": "7555CR",
-      "lat": 52.26218618,
-      "lon": 6.77660084,
-      "locationMunicipality": "Hengelo (O)",
-      "locationType": "source-address",
-      "locationSource": "https://www.wijkrachtborne.nl/jmz",
-      "addressChecked": "2026-10-01"
+      "primaryTheme": "ontmoeten",
+      "postcode": "7621 EK",
+      "locationType": "visiting",
+      "locationSource": "https://sociaalhus.nl/agenda/18824/odensehuis",
+      "audience": "Volwassenen en senioren met beginnende dementie of geheugenklachten, met of zonder diagnose, en hun naasten.",
+      "costs": "Deelname inclusief lunch met een eigen bijdrage van €4,00 volgens de agenda van oktober 2026.",
+      "mapPin": true
     },
     {
       "id": "candidate-4bf10ae8379b46fc",
@@ -12748,27 +12772,36 @@
     {
       "id": "candidate-949a61a6c9069512",
       "name": "Wijkracht Borne · Sociaal Hus",
-      "source": "https://www.wijkrachtborne.nl/sociaal-hus",
+      "source": "https://www.borne.nl/sociaal-hus",
       "municipalities": [
         "Borne"
       ],
-      "sourceTitle": "Wijkracht Borne",
+      "sourceTitle": "Gemeente Borne",
       "sourceKind": "provider",
-      "checked": "2026-09-15",
+      "checked": "2026-10-02",
       "category": "advies",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
-      "address": "Johannaweg 26",
-      "town": "Hengelo",
+      "access": "Zonder verwijzing of indicatie. Vrije inloop maandag 16.00-18.30 en dinsdag t/m vrijdag 09.00-11.30.",
+      "description": "Vrij toegankelijke plek voor vragen over welzijn, opvoeden, zorg, wonen, financiën, gezin, relatie, vrijwilligerswerk en meedoen.",
+      "address": "De Haven 1",
+      "town": "Borne",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
         "advies"
       ],
-      "subthemes": [],
+      "subthemes": [
+        "inloop",
+        "meedoen"
+      ],
       "tags": [
-        "advies"
+        "advies",
+        "inloop",
+        "meedoen",
+        "welzijn",
+        "opvoeden",
+        "geld",
+        "wonen"
       ],
       "municipality": "Borne",
       "enrichment": {
@@ -12797,13 +12830,12 @@
         ]
       },
       "primaryTheme": "advies",
-      "postcode": "7555CR",
-      "lat": 52.26218618,
-      "lon": 6.77660084,
-      "locationMunicipality": "Hengelo (O)",
-      "locationType": "source-address",
-      "locationSource": "https://www.wijkrachtborne.nl/jmz",
-      "addressChecked": "2026-10-01"
+      "postcode": "7622 DH",
+      "locationType": "visiting",
+      "locationSource": "https://www.borne.nl/sociaal-hus",
+      "audience": "Inwoners van Borne, Hertme en Zenderen.",
+      "costs": "Gratis.",
+      "mapPin": true
     },
     {
       "id": "candidate-8055b343cd2fe4ed",
