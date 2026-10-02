@@ -130,3 +130,27 @@ for item in expectations:
         f"bij {item['municipality']} op {item['path']}"
     )
 print(f"{len(expectations)} kritieke thema+gemeente-combinaties gecontroleerd")
+
+
+# Volledigheidscontrole per eindthema: geen zichtbaar Wegwijzer-thema mag leeg zijn.
+leaf_coverage = {path: 0 for path, _ in leaf_nodes}
+for rec in records:
+    if rec.get("guideExclude"):
+        continue
+    explicit = rec.get("guidePaths") or []
+    if explicit:
+        for path in explicit:
+            if path in leaf_coverage:
+                leaf_coverage[path] += 1
+        continue
+    text = record_text(rec)
+    for path, node in leaf_nodes:
+        required = node.get("requireAny") or []
+        if required and not any(term_matches(text, term) for term in required):
+            continue
+        if any(term_matches(text, term) for term in node.get("include") or []):
+            leaf_coverage[path] += 1
+
+empty_leaves = [path for path, count in leaf_coverage.items() if count == 0]
+assert not empty_leaves, f"Lege Wegwijzer-eindthema's: {', '.join(empty_leaves)}"
+print(f"{len(leaf_coverage)} Wegwijzer-eindthema's hebben minimaal één passend resultaat")
