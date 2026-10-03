@@ -201,6 +201,9 @@ function chooseMunicipality(name) {
     fitSelection();
     render();
 }
+function isMobileMapViewport() {
+    return window.matchMedia('(max-width: 760px)').matches;
+}
 function fitSelection() {
     let bounds = null;
     if (state.municipality && layers[state.municipality])
@@ -221,12 +224,19 @@ function fitSelection() {
             bounds = pointBounds;
     }
     if (bounds && bounds.isValid && bounds.isValid()) {
+        const mobile = isMobileMapViewport();
         map.fitBounds(bounds, {
-            paddingTopLeft: [30, 95],
-            paddingBottomRight: [35, 75],
+            paddingTopLeft: mobile ? [18, 66] : [30, 95],
+            paddingBottomRight: mobile ? [18, 54] : [35, 75],
             animate: false,
-            maxZoom: state.municipality ? 13 : 11
+            maxZoom: state.municipality ? (mobile ? 13.5 : 13) : 11
         });
+        // Op een smal scherm liet fitBounds relatief veel lege marge rond Twente.
+        // Een kwart zoomstap is genoeg om de regio leesbaarder te maken zonder
+        // de buitenste gemeenten uit beeld te duwen.
+        if (mobile && !state.municipality) {
+            map.setZoom(Math.min(map.getZoom() + 0.25, 10.5), {animate: false});
+        }
     } else {
         map.setView([52.28, 6.70], 10, {animate: false});
     }
@@ -513,17 +523,41 @@ function renderMarkers() {
     });
     Object.entries(countedSites).forEach(([name, sites]) => counts[name] = sites.size);
     const regional = !state.municipality && map.getZoom() < 12 && Object.keys(anchors).length > 0;
+    const mobile = isMobileMapViewport();
+    const showRegionalLabels = !mobile || map.getZoom() >= 10.25;
+
     Object.entries(anchors).forEach( ([name,center]) => {
+        // Bij een gekozen gemeente is op mobiel alleen de geselecteerde gemeentenaam
+        // relevant. Dat voorkomt dat omliggende namen over de locatiepunten heen staan.
+        if (mobile && state.municipality && name !== state.municipality)
+            return;
         if (state.municipality && name !== state.municipality && map.getZoom() > 12)
             return;
-        const label = makeMarker(center, `<span>${esc(name)}</span>`, 'municipal-label ' + (state.municipality === name ? 'selected' : ''), [145, 18], name);
-        label.options.interactive = false;
-        label.options.keyboard = false;
-        labelLayer.addLayer(label);
+
+        if (!regional || showRegionalLabels) {
+            let labelPos = center;
+            // In het ingezoomde Twente-overzicht staat de naam strak boven het
+            // aantalrondje, beide op dezelfde horizontale as.
+            if (mobile && regional) {
+                const pt = map.latLngToLayerPoint(center).add([0, -24]);
+                labelPos = map.layerPointToLatLng(pt);
+            }
+            const label = makeMarker(labelPos, `<span>${esc(name)}</span>`, 'municipal-label ' + (state.municipality === name ? 'selected' : ''), [124, 18], name);
+            label.options.interactive = false;
+            label.options.keyboard = false;
+            labelLayer.addLayer(label);
+        }
+
         if (regional && counts[name]) {
-            const pt = map.latLngToLayerPoint(center).add([0, 27])
-              , pos = map.layerPointToLatLng(pt);
-            const m = makeMarker(pos, `<span class="cluster-button">${counts[name]}</span>`, 'cluster-icon', [34, 34], `${name}: ${counts[name]} fysieke plekken`);
+            let pos = center;
+            // Desktop behoudt de bestaande opzet. Op mobiel staat het aantal exact
+            // op het gemeentecentrum; de losse namen worden pas bij verder inzoomen
+            // getoond. Zo blijft het volledige Twente-overzicht rustig en leesbaar.
+            if (!mobile) {
+                const pt = map.latLngToLayerPoint(center).add([0, 27]);
+                pos = map.layerPointToLatLng(pt);
+            }
+            const m = makeMarker(pos, `<span class="cluster-button">${counts[name]}</span>`, 'cluster-icon regional-count', [34, 34], `${name}: ${counts[name]} fysieke plekken`);
             m.on('click', () => chooseMunicipality(name));
             m.on('keypress', e => {
                 if (e.originalEvent.key === 'Enter')
