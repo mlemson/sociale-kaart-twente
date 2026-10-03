@@ -8708,6 +8708,50 @@
     "catalogOrganizationId": "org-ontmoetingsruimte-vossenburcht-i6jz0c"
   },
   {
+    "id": "offer-extra-20261003-haaksbergen-pancratius-koffie",
+    "name": "Pancratiuskerk · gratis koffieochtend",
+    "category": "ontmoeten",
+    "address": "Markt 9",
+    "postcode": "7481HS",
+    "town": "Haaksbergen",
+    "municipality": "Haaksbergen",
+    "serviceMunicipalities": [
+      "Haaksbergen"
+    ],
+    "lat": 52.1545762,
+    "lon": 6.74238187,
+    "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+    "checked": "2026-10-03",
+    "tags": [
+      "ontmoeten",
+      "koffie",
+      "inloop",
+      "gratis",
+      "Haaksbergen"
+    ],
+    "subthemes": [
+      "inloop",
+      "koffie",
+      "sociaal contact"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Wekelijkse gratis koffieochtend in de Pancratiuskerk waar iedereen welkom is om anderen te ontmoeten.",
+    "audience": "Iedereen.",
+    "costs": "Gratis.",
+    "access": "Woensdagochtend vanaf 10.00 uur volgens de Informatiewijzer Haaksbergen; aanmelden is niet nodig.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.monumenten.nl/monument/18873",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-pancratiuskerk-y7t790"
+  },
+  {
     "id": "offer-extra-20261002-borne-potkaamp-soos",
     "name": "Potkaamp Borne · soosmiddag",
     "category": "ontmoeten",
@@ -14092,6 +14136,39 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-buurtbemiddeling-wierden-uhm64j"
+  },
+  {
+    "id": "catalog-org-camino-oncologisch-ontmoetingscentrum-1oibk1n",
+    "name": "Camino Oncologisch Ontmoetingscentrum",
+    "category": "zorg",
+    "address": "Jhr.von Heijdenstraat 8",
+    "postcode": "7481ED",
+    "town": "Haaksbergen",
+    "municipality": "Haaksbergen",
+    "serviceMunicipalities": [
+      "Haaksbergen"
+    ],
+    "lat": 52.15416907,
+    "lon": 6.74339248,
+    "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/ontmoeten-in-de-wijk",
+    "checked": "2026-10-03",
+    "tags": [
+      "zorg",
+      "ontmoeten"
+    ],
+    "subthemes": [],
+    "description": "Locatie voor Camino Oncologisch Ontmoetingscentrum. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Mensen met kanker en hun naasten.",
+    "costs": "Niet vermeld; controleer de actuele informatie bij Camino.",
+    "access": "Inloopspreekuur in de Richtershof op dinsdag- en donderdagmiddag van 13.30 tot 16.00 uur volgens de Informatiewijzer Haaksbergen.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/ontmoeten-in-de-wijk",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-camino-oncologisch-ontmoetingscentrum-1oibk1n"
   },
   {
     "id": "catalog-org-christelijke-mantelzorghulp-rijssen-1kh8uvg",

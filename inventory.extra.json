@@ -13482,10 +13482,114 @@
       "locationMunicipality": "Losser",
       "mapLocationType": "address",
       "addressChecked": "2026-10-02"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Haaksbergen"
+      ],
+      "municipality": "Haaksbergen",
+      "id": "extra-20261003-haaksbergen-pancratius-koffie",
+      "name": "Pancratiuskerk · gratis koffieochtend",
+      "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+      "sourceTitle": "Informatiewijzer Haaksbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "inloop",
+        "koffie",
+        "sociaal contact"
+      ],
+      "tags": [
+        "ontmoeten",
+        "koffie",
+        "inloop",
+        "gratis",
+        "Haaksbergen"
+      ],
+      "description": "Wekelijkse gratis koffieochtend in de Pancratiuskerk waar iedereen welkom is om anderen te ontmoeten.",
+      "audience": "Iedereen.",
+      "access": "Woensdagochtend vanaf 10.00 uur volgens de Informatiewijzer Haaksbergen; aanmelden is niet nodig.",
+      "costs": "Gratis.",
+      "address": "Markt 9",
+      "postcode": "7481HS",
+      "town": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.monumenten.nl/monument/18873",
+      "mapPin": true,
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "lat": 52.1545762,
+      "lon": 6.74238187,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-03"
+    },
+    {
+      "sourceKind": "municipal-directory",
+      "checked": "2026-10-03",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis / laagdrempelige voorziening",
+      "status": "candidate",
+      "municipalities": [
+        "Haaksbergen"
+      ],
+      "municipality": "Haaksbergen",
+      "id": "extra-20261003-haaksbergen-camino-inloop",
+      "name": "Camino Oncologisch Ontmoetingscentrum · inloop Haaksbergen",
+      "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/ontmoeten-in-de-wijk",
+      "sourceTitle": "Informatiewijzer Haaksbergen",
+      "category": "zorg",
+      "primaryTheme": "zorg",
+      "themes": [
+        "zorg",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "kanker",
+        "naasten",
+        "inloop",
+        "lotgenotencontact"
+      ],
+      "tags": [
+        "kanker",
+        "naasten",
+        "oncologie",
+        "ontmoeten",
+        "inloop",
+        "ondersteuning",
+        "Haaksbergen"
+      ],
+      "description": "Laagdrempelige inloop voor mensen met kanker en hun naasten, met ruimte voor een luisterend oor, informatie, praktisch meedenken en ontspanning.",
+      "audience": "Mensen met kanker en hun naasten.",
+      "access": "Inloopspreekuur in de Richtershof op dinsdag- en donderdagmiddag van 13.30 tot 16.00 uur volgens de Informatiewijzer Haaksbergen.",
+      "costs": "Niet vermeld; controleer de actuele informatie bij Camino.",
+      "address": "Jhr.von Heijdenstraat 8",
+      "postcode": "7481ED",
+      "town": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/ontmoeten-in-de-wijk",
+      "mapPin": false,
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "lat": 52.15416907,
+      "lon": 6.74339248,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-03"
     }
   ],
   "addressEnrichmentVersion": 1,
-  "addressEnrichedAt": "2026-10-02",
+  "addressEnrichedAt": "2026-10-03",
   "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin.",
   "contentExpansionVersion": 6,
   "note": "Doorlopende verdiepingslaag voor voorliggende voorzieningen. Vindroute: per Twentse gemeente officiële sociale kaart + lokale welzijnsorganisatie + gemeentelijke Wmo/algemene-voorzieningenpagina + onafhankelijke initiatieven. Alleen concreet en actueel aanbod wordt toegevoegd; fysieke kaartpins alleen bij een bevestigde bezoeklocatie. Gemeentesweep 2 oktober 2026: aanvullende buurtinlopen, gemeentelijke informatiepunten, algemene voorzieningen en zelfstandige lotgenoten-/participatieplekken toegevoegd."
