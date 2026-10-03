@@ -362,3 +362,121 @@ html[data-color-scheme="dark"] .portal-legal-dialog p{color:#c2b8c2}
     opacity: 1;
     visibility: visible;
 }
+
+
+/* Navigatiehiërarchie · Kaart + Wegwijzer voorop, beheer als groep */
+.portal-header .header-nav {
+  margin-left:auto;
+  display:flex;
+  align-items:stretch;
+  align-self:stretch;
+  gap:30px;
+  flex-wrap:nowrap;
+  overflow:visible;
+}
+.portal-header .nav-primary,
+.portal-header .nav-tools {
+  display:flex;
+  align-items:stretch;
+  gap:24px;
+}
+.portal-header .nav-primary a {
+  color:var(--primary);
+  font-weight:650;
+}
+.portal-header .nav-menu {
+  margin:0;
+  align-self:stretch;
+}
+.portal-header .nav-menu > summary {
+  display:inline-flex;
+  align-items:center;
+  height:100%;
+  position:relative;
+  padding:0 2px;
+  color:#675d68;
+  font-size:13px;
+  font-weight:500;
+  white-space:nowrap;
+}
+.portal-header .nav-menu-current > summary {
+  color:var(--primary);
+  font-weight:600;
+}
+.portal-header .nav-menu-current > summary::before {
+  content:'';
+  position:absolute;
+  left:1px;
+  right:14px;
+  bottom:0;
+  height:3px;
+  background:var(--accent);
+}
+.portal-header .nav-menu-panel {
+  top:calc(100% - 8px);
+}
+.portal-header .nav-menu-panel a {
+  display:block;
+  padding:10px 11px;
+  border-radius:7px;
+  color:#5e555f;
+  font-size:13px;
+  font-weight:500;
+}
+.portal-header .nav-menu-panel a:hover {
+  background:var(--tint);
+}
+.portal-header .nav-menu-panel a[aria-current="page"] {
+  background:var(--tint);
+  color:var(--primary);
+  font-weight:650;
+  border-bottom:0;
+}
+.portal-header .nav-menu-panel a[aria-current="page"]::after {
+  display:none;
+}
+html[data-color-scheme="dark"] .portal-header .header-nav a,
+html[data-color-scheme="dark"] .portal-header .nav-menu > summary {
+  color:#d8d0d8;
+}
+html[data-color-scheme="dark"] .portal-header .nav-primary a,
+html[data-color-scheme="dark"] .portal-header .header-nav a[aria-current="page"],
+html[data-color-scheme="dark"] .portal-header .nav-menu-current > summary {
+  color:#f0c3a0;
+}
+html[data-color-scheme="dark"] .portal-header .nav-menu-panel a {
+  color:#e2dae2;
+}
+html[data-color-scheme="dark"] .portal-header .nav-menu-panel a:hover,
+html[data-color-scheme="dark"] .portal-header .nav-menu-panel a[aria-current="page"] {
+  background:#343036;
+  color:#f0c3a0;
+}
+
+@media(max-width:800px) {
+  .portal-header .header-nav {
+    width:100%;
+    height:42px;
+    gap:22px;
+    overflow-x:auto;
+    overscroll-behavior-inline:contain;
+    scrollbar-width:none;
+  }
+  .portal-header .header-nav::-webkit-scrollbar { display:none; }
+  .portal-header .nav-primary,
+  .portal-header .nav-tools {
+    gap:20px;
+    flex:0 0 auto;
+  }
+  .portal-header .header-nav a,
+  .portal-header .nav-menu > summary {
+    font-size:12px;
+    flex:0 0 auto;
+  }
+  .portal-header .nav-menu-panel {
+    position:fixed;
+    top:112px;
+    right:12px;
+    min-width:184px;
+  }
+}
