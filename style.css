@@ -1756,7 +1756,7 @@ html[data-color-scheme="dark"] body {
     --tint:#352734;
     --ink:#f2edf1;
     --border:#4a4149;
-    --mapfill:#413742;
+    --mapfill:#494248;
 }
 html[data-color-scheme="dark"] .site-header,
 html[data-color-scheme="dark"] .sidebar,
@@ -1812,7 +1812,7 @@ html[data-color-scheme="dark"] .map-panel #map {
     background:#22272a;
 }
 html[data-color-scheme="dark"] .leaflet-tile-pane {
-    filter:brightness(.55) contrast(1.1) saturate(.65);
+    filter:brightness(.72) contrast(1.02) saturate(.75);
 }
 html[data-color-scheme="dark"] .map-back,
 html[data-color-scheme="dark"] .map-switch button,
@@ -2031,5 +2031,205 @@ html[data-color-scheme="dark"] .results-section-title.secondary strong {
     }
     .results-section-title.secondary span {
         display: none;
+    }
+}
+
+
+/* Hoofdnavigatie · Kaart en Wegwijzer als primaire routes */
+.header-nav {
+    overflow: visible;
+}
+.header-nav .nav-primary,
+.header-nav .nav-tools {
+    display:flex;
+    align-items:stretch;
+}
+.site-header .header-nav {
+    margin-left:auto;
+    display:flex;
+    align-items:stretch;
+    align-self:stretch;
+    gap:32px;
+}
+.site-header .nav-primary {
+    gap:24px;
+}
+.site-header .nav-tools {
+    gap:22px;
+}
+.site-header .header-nav a,
+.site-header .nav-menu summary {
+    display:inline-flex;
+    align-items:center;
+    position:relative;
+    padding:0 2px;
+    color:#675d68;
+    font-size:13px;
+    font-weight:500;
+    line-height:1;
+    text-decoration:none;
+    white-space:nowrap;
+}
+.site-header .nav-primary a {
+    color:var(--primary);
+    font-weight:650;
+}
+.site-header .header-nav a:hover,
+.site-header .nav-menu summary:hover {
+    color:var(--primary);
+}
+.site-header .header-nav a[aria-current="page"]::after,
+.site-header .nav-menu-current > summary::after {
+    content:'';
+    position:absolute;
+    left:1px;
+    right:1px;
+    bottom:0;
+    height:3px;
+    background:var(--accent);
+}
+.nav-menu {
+    position:relative;
+    display:flex;
+    align-items:stretch;
+    align-self:stretch;
+    margin:0;
+}
+.nav-menu > summary {
+    list-style:none;
+    cursor:pointer;
+    user-select:none;
+}
+.nav-menu > summary::-webkit-details-marker {
+    display:none;
+}
+.nav-menu > summary::before {
+    content:'';
+}
+.nav-menu > summary span {
+    pointer-events:none;
+}
+.nav-menu > summary::marker {
+    content:'';
+}
+.nav-menu > summary:not(:only-child) {
+    gap:6px;
+}
+.nav-menu > summary:not(:only-child)::marker {
+    content:'';
+}
+.nav-menu > summary {
+    gap:6px;
+}
+.nav-menu > summary::after {
+    content:'▾';
+    position:static;
+    width:auto;
+    height:auto;
+    background:none;
+    font-size:9px;
+    opacity:.65;
+    transform:translateY(1px);
+}
+.site-header .nav-menu-current > summary::after {
+    content:'▾';
+    position:static;
+    width:auto;
+    height:auto;
+    background:none;
+}
+.site-header .nav-menu-current > summary {
+    color:var(--primary);
+    font-weight:600;
+}
+.site-header .nav-menu-current > summary::before {
+    content:'';
+    position:absolute;
+    left:1px;
+    right:14px;
+    bottom:0;
+    height:3px;
+    background:var(--accent);
+}
+.nav-menu-panel {
+    position:absolute;
+    z-index:1200;
+    top:calc(100% - 8px);
+    right:0;
+    min-width:190px;
+    padding:7px;
+    border:1px solid var(--border);
+    border-radius:10px;
+    background:#fffdf8;
+    box-shadow:0 14px 36px #241d2424;
+}
+.site-header .nav-menu-panel a {
+    display:block;
+    padding:10px 11px;
+    border-radius:7px;
+    color:#5e555f;
+    font-weight:500;
+}
+.site-header .nav-menu-panel a:hover {
+    background:var(--tint);
+}
+.site-header .nav-menu-panel a[aria-current="page"]::after {
+    display:none;
+}
+.site-header .nav-menu-panel a[aria-current="page"] {
+    background:var(--tint);
+    color:var(--primary);
+    font-weight:650;
+}
+html[data-color-scheme="dark"] .site-header .header-nav a,
+html[data-color-scheme="dark"] .site-header .nav-menu summary {
+    color:#d8d0d8;
+}
+html[data-color-scheme="dark"] .site-header .nav-primary a,
+html[data-color-scheme="dark"] .site-header .header-nav a[aria-current="page"],
+html[data-color-scheme="dark"] .site-header .nav-menu-current > summary {
+    color:#f0c3a0;
+}
+html[data-color-scheme="dark"] .nav-menu-panel {
+    background:#262329;
+    border-color:#4d454e;
+    box-shadow:0 16px 42px #0007;
+}
+html[data-color-scheme="dark"] .site-header .nav-menu-panel a {
+    color:#e2dae2;
+}
+html[data-color-scheme="dark"] .site-header .nav-menu-panel a:hover,
+html[data-color-scheme="dark"] .site-header .nav-menu-panel a[aria-current="page"] {
+    background:#343036;
+    color:#f0c3a0;
+}
+
+@media(max-width:760px) {
+    .site-header .header-nav {
+        order:2;
+        width:100%;
+        height:40px;
+        margin:0;
+        gap:22px;
+        overflow-x:auto;
+        overscroll-behavior-inline:contain;
+        scrollbar-width:none;
+    }
+    .site-header .header-nav::-webkit-scrollbar { display:none; }
+    .site-header .nav-primary,
+    .site-header .nav-tools {
+        gap:20px;
+        flex:0 0 auto;
+    }
+    .site-header .header-nav a,
+    .site-header .nav-menu summary {
+        font-size:12px;
+        flex:0 0 auto;
+    }
+    .nav-menu-panel {
+        position:fixed;
+        top:108px;
+        right:12px;
+        min-width:184px;
     }
 }
