@@ -1249,8 +1249,8 @@ body[data-theme=wijkwijzer] .category-icon {
     }
 
     .map-panel,body[data-theme=online] .map-panel {
-        height: 480px;
-        min-height: 480px;
+        height: 500px;
+        min-height: 500px;
         order: 0;
         border-radius: 14px 14px 0 0;
         overflow: hidden
@@ -1353,13 +1353,22 @@ body[data-theme=wijkwijzer] .category-icon {
     }
 
     .municipal-label {
-        font-size: 10px
+        font-size: 10.5px;
+        font-weight: 650;
+        line-height: 1.15
     }
 
     .cluster-button {
         width: 29px;
         height: 29px;
         font-size: 11px
+    }
+
+    .regional-count .cluster-button {
+        width: 32px;
+        height: 32px;
+        font-size: 11.5px;
+        box-shadow: 0 4px 12px #443b4b30
     }
 
     .detail-card {
