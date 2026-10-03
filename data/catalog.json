@@ -6349,6 +6349,95 @@
     "primarySource": "https://www.almelo.nl/ontmoetingsplekken-almelo"
   },
   {
+    "id": "org-camino-oncologisch-ontmoetingscentrum-1oibk1n",
+    "organization": "Camino Oncologisch Ontmoetingscentrum",
+    "municipalities": [
+      "Haaksbergen"
+    ],
+    "categories": [
+      "zorg",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhaaksbergen.nl/onderwerp/ontmoeten-in-de-wijk"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-haaksbergen-camino-inloop",
+        "title": "inloop Haaksbergen",
+        "name": "Camino Oncologisch Ontmoetingscentrum · inloop Haaksbergen",
+        "description": "Laagdrempelige inloop voor mensen met kanker en hun naasten, met ruimte voor een luisterend oor, informatie, praktisch meedenken en ontspanning.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "zorg",
+        "themes": [
+          "zorg",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "kanker",
+          "naasten",
+          "inloop",
+          "lotgenotencontact"
+        ],
+        "tags": [
+          "kanker",
+          "naasten",
+          "oncologie",
+          "ontmoeten",
+          "inloop",
+          "ondersteuning",
+          "Haaksbergen"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Mensen met kanker en hun naasten.",
+        "costs": "Niet vermeld; controleer de actuele informatie bij Camino.",
+        "access": "Inloopspreekuur in de Richtershof op dinsdag- en donderdagmiddag van 13.30 tot 16.00 uur volgens de Informatiewijzer Haaksbergen.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/ontmoeten-in-de-wijk",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Haaksbergen",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Jhr.von Heijdenstraat 8",
+        "postcode": "7481ED",
+        "town": "Haaksbergen",
+        "lat": 52.15416907,
+        "lon": 6.74339248,
+        "locationType": "visiting",
+        "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/ontmoeten-in-de-wijk",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Jhr.von Heijdenstraat 8",
+      "postcode": "7481ED",
+      "town": "Haaksbergen",
+      "lat": 52.15416907,
+      "lon": 6.74339248,
+      "locationMunicipality": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/ontmoeten-in-de-wijk",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/ontmoeten-in-de-wijk"
+  },
+  {
     "id": "org-carintreggeland-backenhagen-bd5hxm",
     "organization": "Carintreggeland Backenhagen",
     "municipalities": [
@@ -24453,6 +24542,90 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220494/invis2/ouderenvereniging-wierden"
+  },
+  {
+    "id": "org-pancratiuskerk-y7t790",
+    "organization": "Pancratiuskerk",
+    "municipalities": [
+      "Haaksbergen"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-03",
+    "offers": [
+      {
+        "id": "extra-20261003-haaksbergen-pancratius-koffie",
+        "title": "gratis koffieochtend",
+        "name": "Pancratiuskerk · gratis koffieochtend",
+        "description": "Wekelijkse gratis koffieochtend in de Pancratiuskerk waar iedereen welkom is om anderen te ontmoeten.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "inloop",
+          "koffie",
+          "sociaal contact"
+        ],
+        "tags": [
+          "ontmoeten",
+          "koffie",
+          "inloop",
+          "gratis",
+          "Haaksbergen"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "audience": "Iedereen.",
+        "costs": "Gratis.",
+        "access": "Woensdagochtend vanaf 10.00 uur volgens de Informatiewijzer Haaksbergen; aanmelden is niet nodig.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+        "sourceKind": "municipal-directory",
+        "sourceTitle": "Informatiewijzer Haaksbergen",
+        "checked": "2026-10-03",
+        "reviewStatus": "source-backed",
+        "address": "Markt 9",
+        "postcode": "7481HS",
+        "town": "Haaksbergen",
+        "lat": 52.1545762,
+        "lon": 6.74238187,
+        "locationType": "visiting",
+        "locationSource": "https://www.monumenten.nl/monument/18873",
+        "locationMunicipality": "Haaksbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Markt 9",
+      "postcode": "7481HS",
+      "town": "Haaksbergen",
+      "lat": 52.1545762,
+      "lon": 6.74238187,
+      "locationMunicipality": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.monumenten.nl/monument/18873",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten"
   },
   {
     "id": "org-pand-11-m2zny6",

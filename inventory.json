@@ -30742,7 +30742,7 @@
   "enrichmentVersion": 3,
   "enrichmentMethod": "Alle bronvermeldingen worden lokaal vooringevuld met uitlegbare sleutelwoordregels. Via Beheer kunnen daarnaast publieke bronpagina’s automatisch worden uitgelezen. Automatische waarden blijven controlepunten; bron, adres, toegang en actuele kosten moeten vóór publicatie worden geverifieerd.",
   "addressEnrichmentVersion": 1,
-  "addressEnrichedAt": "2026-10-02",
+  "addressEnrichedAt": "2026-10-03",
   "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin.",
   "contentExpansionVersion": 2,
   "contentExpansionNote": "Uitbreiding met concrete gratis/laagdrempelige trainingen, cursussen, taal- en digitale hulp, herstelgroepen, Power-locaties en daginvulling/dagontmoeting zonder indicatie. Concrete locaties kunnen via mapPin afzonderlijk op de kaart staan."
