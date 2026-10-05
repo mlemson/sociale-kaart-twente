@@ -35044,8 +35044,8 @@
       "https://stichtingboomhellendoorn.nl/"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-10-05",
     "offers": [
@@ -35094,7 +35094,7 @@
         "sourceKind": "first-party",
         "sourceTitle": "Stichting BOOM",
         "checked": "2026-10-05",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "",
         "postcode": "",
         "town": "",
@@ -35103,12 +35103,12 @@
         "locationType": "",
         "locationSource": "",
         "locationMunicipality": "",
-        "mapLocationType": "address",
+        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
     "location": null,
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://stichtingboomhellendoorn.nl/"
   },
   {
@@ -35124,8 +35124,8 @@
       "https://bootintwenterand.nl/"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-10-05",
     "offers": [
@@ -35174,7 +35174,7 @@
         "sourceKind": "first-party",
         "sourceTitle": "Stichting BOOT",
         "checked": "2026-10-05",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "",
         "postcode": "",
         "town": "",
@@ -35183,12 +35183,12 @@
         "locationType": "",
         "locationSource": "",
         "locationMunicipality": "",
-        "mapLocationType": "address",
+        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
     "location": null,
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://bootintwenterand.nl/"
   },
   {
@@ -36295,8 +36295,8 @@
       "https://www.smvt.nl/"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-10-05",
     "offers": [
@@ -36343,7 +36343,7 @@
         "sourceKind": "first-party",
         "sourceTitle": "Stichting Maaltijd Voorziening Twenterand",
         "checked": "2026-10-05",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "",
         "postcode": "",
         "town": "",
@@ -36352,12 +36352,12 @@
         "locationType": "",
         "locationSource": "",
         "locationMunicipality": "",
-        "mapLocationType": "address",
+        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
     "location": null,
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://www.smvt.nl/"
   },
   {
@@ -37125,8 +37125,8 @@
       "https://voorelkaartwenterand.nl/"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-10-05",
     "offers": [
@@ -37178,7 +37178,7 @@
         "sourceKind": "first-party",
         "sourceTitle": "Stichting Voor Elkaar Twenterand",
         "checked": "2026-10-05",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "",
         "postcode": "",
         "town": "",
@@ -37187,12 +37187,12 @@
         "locationType": "",
         "locationSource": "",
         "locationMunicipality": "",
-        "mapLocationType": "address",
+        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
     "location": null,
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://voorelkaartwenterand.nl/"
   },
   {
@@ -38091,8 +38091,8 @@
       "https://www.verjaardagsboxtubbergen.nl/"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-10-05",
     "offers": [
@@ -38140,7 +38140,7 @@
         "sourceKind": "first-party",
         "sourceTitle": "Verjaardagsbox Gemeente Tubbergen",
         "checked": "2026-10-05",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "",
         "postcode": "",
         "town": "",
@@ -38149,12 +38149,12 @@
         "locationType": "",
         "locationSource": "",
         "locationMunicipality": "",
-        "mapLocationType": "address",
+        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
     "location": null,
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://www.verjaardagsboxtubbergen.nl/"
   },
   {
@@ -39587,8 +39587,8 @@
       "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne"
     ],
     "offerCount": 1,
-    "reviewNeeded": 1,
-    "sourceBacked": 0,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-10-05",
     "offers": [
@@ -39637,7 +39637,7 @@
         "sourceKind": "first-party",
         "sourceTitle": "VluchtelingenWerk Borne",
         "checked": "2026-10-05",
-        "reviewStatus": "review-needed",
+        "reviewStatus": "source-backed",
         "address": "",
         "postcode": "",
         "town": "",
@@ -39646,12 +39646,12 @@
         "locationType": "",
         "locationSource": "",
         "locationMunicipality": "",
-        "mapLocationType": "address",
+        "mapLocationType": "service-area",
         "mapPin": false
       }
     ],
     "location": null,
-    "status": "review-needed",
+    "status": "source-backed",
     "primarySource": "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne"
   },
   {
