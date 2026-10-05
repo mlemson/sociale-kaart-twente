@@ -819,14 +819,16 @@
     "address": "Piet Heinstraat 17",
     "town": "Enschede",
     "municipality": "Enschede",
-    "category": "geld",
+    "category": "advies",
     "source": "https://wijkwijzerenschede.nl/juridisch-loket-enschede",
     "description": "Juridische informatie en advies. Bekijk bij het Juridisch Loket welke hulp past en welke voorwaarden gelden.",
     "tags": [
-      "geld",
-      "advies"
+      "advies",
+      "juridisch",
+      "recht",
+      "juridisch loket"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-05",
     "lat": 52.22145327,
     "lon": 6.89038139,
     "geocodedAddress": "Piet Heinstraat 17, 7511JE Enschede",
@@ -845,7 +847,6 @@
     "access": "",
     "openingHours": "",
     "themes": [
-      "geld",
       "advies"
     ],
     "subthemes": [],
@@ -878,7 +879,10 @@
         "openingHours"
       ]
     },
-    "primaryTheme": "geld"
+    "primaryTheme": "advies",
+    "guidePaths": [
+      "recht/juridisch"
+    ]
   },
   {
     "id": "loc-14",
@@ -1482,13 +1486,13 @@
     "municipality": "Hellendoorn",
     "category": "mantelzorg",
     "source": "https://evenmens.nl/",
-    "description": "Regionaal contactpunt voor informele zorg en ondersteuning van mantelzorgers. Vraag naar de mogelijkheden in jouw gemeente.",
+    "description": "Regionaal contactpunt voor informele zorg, mantelzorgers, jonge mantelzorgers en naasten. De locatie in Nijverdal is een fysiek contactpunt; ondersteuning wordt in meerdere gemeenten aangeboden.",
     "tags": [
       "mantelzorg",
       "vrijwillig",
       "advies"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-05",
     "lat": 52.36352638,
     "lon": 6.46142506,
     "geocodedAddress": "Constantijnstraat 32a, 7442ME Nijverdal",
@@ -1500,7 +1504,10 @@
     "scope": "Lokaal aanbod",
     "sourceTitle": "Gecontroleerde kaartvermelding",
     "municipalities": [
-      "Hellendoorn"
+      "Hellendoorn",
+      "Rijssen-Holten",
+      "Twenterand",
+      "Wierden"
     ],
     "audience": "",
     "costs": "",
@@ -1542,7 +1549,17 @@
         "openingHours"
       ]
     },
-    "primaryTheme": "mantelzorg"
+    "primaryTheme": "mantelzorg",
+    "serviceMunicipalities": [
+      "Hellendoorn",
+      "Rijssen-Holten",
+      "Twenterand",
+      "Wierden"
+    ],
+    "guidePaths": [
+      "zorg/mantelzorg",
+      "zorg/dementie"
+    ]
   },
   {
     "id": "loc-24",

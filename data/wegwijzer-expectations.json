@@ -181,5 +181,81 @@
     "nameContains": "Wijkwijzer De Vrije Ruimte",
     "municipality": "Enschede",
     "path": "meedoen/daginvulling"
+  },
+  {
+    "nameContains": "De Huiskamer van Hellendoorn",
+    "municipality": "Hellendoorn",
+    "path": "ontmoeten/inloop"
+  },
+  {
+    "nameContains": "Stichting BOOM",
+    "municipality": "Hellendoorn",
+    "path": "geld/schulden"
+  },
+  {
+    "nameContains": "Voedselbank Hellendoorn",
+    "municipality": "Hellendoorn",
+    "path": "basis/eten"
+  },
+  {
+    "nameContains": "Stichting BOOT",
+    "municipality": "Twenterand",
+    "path": "geld/schulden"
+  },
+  {
+    "nameContains": "Maaltijd Voorziening Twenterand",
+    "municipality": "Twenterand",
+    "path": "basis/eten"
+  },
+  {
+    "nameContains": "Maaltijd Voorziening Twenterand",
+    "municipality": "Twenterand",
+    "path": "vervoer/sociaal",
+    "shouldExist": false
+  },
+  {
+    "nameContains": "Bibliotheek Dinkelland",
+    "municipality": "Dinkelland",
+    "path": "taal/nederlands"
+  },
+  {
+    "nameContains": "Bibliotheek Tubbergen",
+    "municipality": "Tubbergen",
+    "path": "taal/digitaal"
+  },
+  {
+    "nameContains": "Zelfregieteam Borne",
+    "municipality": "Borne",
+    "path": "mentaal/welzijn"
+  },
+  {
+    "nameContains": "Voedselbank Midden-Twente",
+    "municipality": "Borne",
+    "path": "basis/eten"
+  },
+  {
+    "nameContains": "Voedselbank Losser",
+    "municipality": "Losser",
+    "path": "basis/eten"
+  },
+  {
+    "nameContains": "Veilig Thuis Twente",
+    "municipality": "Enschede",
+    "path": "veiligheid/huiselijk"
+  },
+  {
+    "nameContains": "Veilig Thuis Twente",
+    "municipality": "Tubbergen",
+    "path": "veiligheid/huiselijk"
+  },
+  {
+    "nameContains": "Vizier Oost",
+    "municipality": "Hengelo",
+    "path": "recht/discriminatie"
+  },
+  {
+    "nameContains": "SUN Twente",
+    "municipality": "Losser",
+    "path": "geld/regelingen"
   }
 ]
