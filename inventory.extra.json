@@ -15637,7 +15637,7 @@
         "basis/kleding"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
+      "mapLocationType": "address",
       "activities": [
         {
           "name": "Voedsel- en verzorgingspakketten"
@@ -15659,7 +15659,17 @@
           "name": "Voorlichting over armoede op scholen"
         }
       ],
-      "activitiesSource": "https://www.1twente.nl/artikel/5907664/deze-organisatie-in-enschede-maakt-het-verschil-voor-duizenden-gezinnen-in-armoede"
+      "activitiesSource": "https://www.1twente.nl/artikel/5907664/deze-organisatie-in-enschede-maakt-het-verschil-voor-duizenden-gezinnen-in-armoede",
+      "address": "Lonnekerspoorlaan 114A",
+      "postcode": "7523JM",
+      "town": "Enschede",
+      "lat": 52.23116221,
+      "lon": 6.89495863,
+      "locationMunicipality": "Enschede",
+      "locationType": "source-address",
+      "locationSource": "https://www.1twente.nl/artikel/5907664/deze-organisatie-in-enschede-maakt-het-verschil-voor-duizenden-gezinnen-in-armoede",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -15713,7 +15723,7 @@
         "ontmoeten/inloop"
       ],
       "address": "Grotestraat 101",
-      "postcode": "7471 BM",
+      "postcode": "7471BM",
       "town": "Goor",
       "locationType": "visiting",
       "locationSource": "https://www.doorswideopen.nl/",
@@ -15742,7 +15752,12 @@
           "location": "’t Centrum, Grotestraat 103"
         }
       ],
-      "activitiesSource": "https://www.doorswideopen.nl/"
+      "activitiesSource": "https://www.doorswideopen.nl/",
+      "lat": 52.23266165,
+      "lon": 6.58629944,
+      "locationMunicipality": "Hof van Twente",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -15787,7 +15802,7 @@
         "geld/regelingen"
       ],
       "address": "Ootmarsumsestraat 60",
-      "postcode": "7573 GM",
+      "postcode": "7573GM",
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.vincentiusoldenzaal.nl/",
@@ -15809,7 +15824,12 @@
           "description": "Ondersteuning om kwetsbare jeugd te laten deelnemen aan sportactiviteiten."
         }
       ],
-      "activitiesSource": "https://www.vincentiusoldenzaal.nl/"
+      "activitiesSource": "https://www.vincentiusoldenzaal.nl/",
+      "lat": 52.31779062,
+      "lon": 6.93128382,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "regional",
@@ -15857,7 +15877,7 @@
         "ontmoeten/inloop"
       ],
       "address": "Wilgenstraat 11",
-      "postcode": "7605 EG",
+      "postcode": "7605EG",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://servicepunt-circulair.nl/initiatievenkaart/",
@@ -15871,7 +15891,12 @@
           "name": "Ruillokaal",
           "description": "Baby- en kinderspullen ruilen."
         }
-      ]
+      ],
+      "lat": 52.34700064,
+      "lon": 6.65819525,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -15917,9 +15942,19 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
+      "mapLocationType": "address",
       "phone": "06-45991469",
-      "email": "fixbrigadehellendoorn@gmail.com"
+      "email": "fixbrigadehellendoorn@gmail.com",
+      "address": "Beethovenlaan 200",
+      "postcode": "7442HH",
+      "town": "Nijverdal",
+      "lat": 52.35497999,
+      "lon": 6.48301301,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "contact",
+      "locationSource": "https://www.hellendoorn.nl/contact/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -15963,12 +15998,17 @@
         "ontmoeten/inloop"
       ],
       "address": "Wilgenstraat 11",
-      "postcode": "7605 EG",
+      "postcode": "7605EG",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://repaircafealmelo.nl/nieuws/",
       "mapPin": true,
-      "openingHours": "Regelmatige vrijdagmiddagen; controleer actuele agenda."
+      "openingHours": "Regelmatige vrijdagmiddagen; controleer actuele agenda.",
+      "lat": 52.34700064,
+      "lon": 6.65819525,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16012,12 +16052,17 @@
         "ontmoeten/inloop"
       ],
       "address": "Booggang 2",
-      "postcode": "7552 JZ",
+      "postcode": "7552JZ",
       "town": "Hengelo",
       "locationType": "visiting",
       "locationSource": "https://www.repaircafehengelo.nl/",
       "mapPin": true,
-      "openingHours": "Maandelijks volgens agenda, doorgaans 10.00–13.00."
+      "openingHours": "Maandelijks volgens agenda, doorgaans 10.00–13.00.",
+      "lat": 52.26650305,
+      "lon": 6.82853431,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16061,12 +16106,17 @@
         "ontmoeten/inloop"
       ],
       "address": "De Wanne 8",
-      "postcode": "7623 HD",
+      "postcode": "7623HD",
       "town": "Borne",
       "locationType": "visiting",
       "locationSource": "https://www.stroomesch.nl/wse-2-2/repair-cafe/",
       "mapPin": true,
-      "openingHours": "Laatste zaterdag van de maand 09.30–12.00."
+      "openingHours": "Laatste zaterdag van de maand 09.30–12.00.",
+      "lat": 52.30738922,
+      "lon": 6.75683504,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16114,7 +16164,13 @@
       "locationType": "visiting",
       "locationSource": "https://www.rijssen-holten.nl/duurzaam/repair-cafe/",
       "mapPin": true,
-      "openingHours": "Eerste woensdag 13.30–16.00 en tweede donderdag 09.30–12.00 en 13.00–16.00."
+      "openingHours": "Eerste woensdag 13.30–16.00 en tweede donderdag 09.30–12.00 en 13.00–16.00.",
+      "postcode": "7462AX",
+      "lat": 52.30675877,
+      "lon": 6.5207441,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16162,7 +16218,13 @@
       "locationType": "visiting",
       "locationSource": "https://www.rijssen-holten.nl/duurzaam/repair-cafe/",
       "mapPin": true,
-      "openingHours": "Eerste en derde vrijdag van de maand 13.30–16.00."
+      "openingHours": "Eerste en derde vrijdag van de maand 13.30–16.00.",
+      "postcode": "7451JA",
+      "lat": 52.28375393,
+      "lon": 6.41737305,
+      "locationMunicipality": "Rijssen-Holten",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16205,12 +16267,18 @@
         "basis/praktisch",
         "ontmoeten/inloop"
       ],
-      "address": "Grotestraat 178A",
+      "address": "Grotestraat 178a",
       "town": "Nijverdal",
       "locationType": "visiting",
       "locationSource": "https://dcnijverdal.nl/repaircafe.html",
       "mapPin": true,
-      "openingHours": "Woensdag t/m zaterdag 13.00–17.00."
+      "openingHours": "Woensdag t/m zaterdag 13.00–17.00.",
+      "postcode": "7443BR",
+      "lat": 52.36554391,
+      "lon": 6.45980683,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16258,7 +16326,13 @@
       "locationType": "visiting",
       "locationSource": "https://www.losser.nl/circulaire-economie",
       "mapPin": true,
-      "openingHours": "Vrijdag 10.00–12.30."
+      "openingHours": "Vrijdag 10.00–12.30.",
+      "postcode": "7582AT",
+      "lat": 52.25975036,
+      "lon": 7.00281044,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16302,11 +16376,17 @@
         "ontmoeten/inloop"
       ],
       "address": "Plechelmusstraat 14",
-      "town": "De Lutte",
+      "town": "de Lutte",
       "locationType": "visiting",
       "locationSource": "https://www.losser.nl/circulaire-economie",
       "mapPin": true,
-      "openingHours": "Tweede en vierde woensdag van de maand 19.00–20.00."
+      "openingHours": "Tweede en vierde woensdag van de maand 19.00–20.00.",
+      "postcode": "7587AM",
+      "lat": 52.31656044,
+      "lon": 6.98643713,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16354,7 +16434,13 @@
       "locationType": "visiting",
       "locationSource": "https://www.losser.nl/circulaire-economie",
       "mapPin": true,
-      "openingHours": "Vrijdag 09.30–12.00."
+      "openingHours": "Vrijdag 09.30–12.00.",
+      "postcode": "7586BG",
+      "lat": 52.2379162,
+      "lon": 7.03525593,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16398,7 +16484,7 @@
         "ontmoeten/inloop"
       ],
       "address": "Industriestraat 51",
-      "postcode": "7482 EW",
+      "postcode": "7482EW",
       "town": "Haaksbergen",
       "locationType": "visiting",
       "locationSource": "https://www.gildehaaksbergen.nl/repair-cafe/",
@@ -16416,7 +16502,12 @@
           "description": "Kleine klussen voor mensen die daarvoor via Noaberpoort in aanmerking komen."
         }
       ],
-      "activitiesSource": "https://www.gildehaaksbergen.nl/"
+      "activitiesSource": "https://www.gildehaaksbergen.nl/",
+      "lat": 52.15136468,
+      "lon": 6.71812891,
+      "locationMunicipality": "Haaksbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16460,12 +16551,17 @@
         "ontmoeten/inloop"
       ],
       "address": "Hobergenstraat 26",
-      "postcode": "7665 AJ",
+      "postcode": "7665AJ",
       "town": "Albergen",
       "locationType": "visiting",
       "locationSource": "https://www.cultuurhoesalbergen.nl/index.php/activiteiten-voorzieningen/repair-cafe",
       "mapPin": true,
-      "openingHours": "Maandelijks op dinsdag 13.30–16.00."
+      "openingHours": "Maandelijks op dinsdag 13.30–16.00.",
+      "lat": 52.37239417,
+      "lon": 6.7660306,
+      "locationMunicipality": "Tubbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16509,12 +16605,17 @@
         "ontmoeten/inloop"
       ],
       "address": "Marconistraat 2",
-      "postcode": "7651 DG",
+      "postcode": "7651DG",
       "town": "Tubbergen",
       "locationType": "visiting",
       "locationSource": "https://www.openronddeessen.nl/nieuws/repair-cafe-tubbergen-weer-open",
       "mapPin": true,
-      "openingHours": "Donderdagochtend en eerste zaterdag van de maand 10.00–12.00."
+      "openingHours": "Donderdagochtend en eerste zaterdag van de maand 10.00–12.00.",
+      "lat": 52.40231821,
+      "lon": 6.78885447,
+      "locationMunicipality": "Tubbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "regional",
@@ -16558,12 +16659,17 @@
         "ontmoeten/inloop"
       ],
       "address": "Hooidijk 21",
-      "postcode": "7661 RA",
+      "postcode": "7661RA",
       "town": "Vasse",
       "locationType": "visiting",
       "locationSource": "https://www.tubbergen.nl/circulaire-economie",
       "mapPin": true,
-      "openingHours": "Controleer actuele data bij Dorpshuiskamer Vasse."
+      "openingHours": "Controleer actuele data bij Dorpshuiskamer Vasse.",
+      "lat": 52.43550212,
+      "lon": 6.83421173,
+      "locationMunicipality": "Tubbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16607,12 +16713,17 @@
         "ontmoeten/inloop"
       ],
       "address": "Pouliestraat 2",
-      "postcode": "7642 EB",
+      "postcode": "7642EB",
       "town": "Wierden",
       "locationType": "visiting",
       "locationSource": "https://bibliotheekwierden.op-shop.nl/",
       "mapPin": true,
-      "openingHours": "Meerdere donderdagmiddagen per maand volgens de bibliotheekagenda."
+      "openingHours": "Meerdere donderdagmiddagen per maand volgens de bibliotheekagenda.",
+      "lat": 52.35644776,
+      "lon": 6.59291828,
+      "locationMunicipality": "Wierden",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "regional",
@@ -16663,7 +16774,7 @@
         "basis/praktisch"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
+      "mapLocationType": "address",
       "activities": [
         {
           "name": "Gezelschapsmaatje"
@@ -16684,7 +16795,17 @@
           "name": "Maatje richting vrijwilligerswerk"
         }
       ],
-      "activitiesSource": "https://www.socialekaartwierden.nl/is/product/155497/220582/maatjes"
+      "activitiesSource": "https://www.socialekaartwierden.nl/is/product/155497/220582/maatjes",
+      "address": "Dokter G.H. Beensweg 21",
+      "postcode": "7642CH",
+      "town": "Wierden",
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "locationMunicipality": "Wierden",
+      "locationType": "source-address",
+      "locationSource": "https://www.stichtingdewelle.nl/buurtwerk",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16729,8 +16850,18 @@
         "onderwijs/jongeren"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "email": "jmz@wijkracht.nl"
+      "mapLocationType": "address",
+      "email": "jmz@wijkracht.nl",
+      "address": "Johannaweg 26",
+      "postcode": "7555CR",
+      "town": "Hengelo",
+      "lat": 52.26218618,
+      "lon": 6.77660084,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.wijkracht.nl/jmz",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -16778,7 +16909,17 @@
         "ontmoeten/bewegen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area"
+      "mapLocationType": "service-area",
+      "address": "Johannaweg 26",
+      "postcode": "7555CR",
+      "town": "Hengelo",
+      "lat": 52.26218618,
+      "lon": 6.77660084,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "contact",
+      "locationSource": "https://www.wijkracht.nl/over-ons",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     }
   ],
   "addressEnrichmentVersion": 1,
