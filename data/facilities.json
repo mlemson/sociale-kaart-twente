@@ -7,12 +7,18 @@
     "municipality": "Enschede",
     "category": "advies",
     "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "tags": [
       "advies",
-      "ontmoeten"
+      "ontmoeten",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-02",
     "lat": 52.22306902,
     "lon": 6.90400645,
     "geocodedAddress": "Hoge Bothofstraat 49, 7511ZA Enschede",
@@ -26,14 +32,19 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
     "enrichment": {
       "version": 2,
       "method": "lokale sleutelwoorden",
@@ -57,7 +68,20 @@
       ]
     },
     "primaryTheme": "advies",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-centrum",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "activities": [],
+    "postcode": "7511ZA",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-2",
@@ -67,12 +91,18 @@
     "municipality": "Enschede",
     "category": "advies",
     "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "tags": [
       "advies",
-      "ontmoeten"
+      "ontmoeten",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-02",
     "lat": 52.2203326,
     "lon": 6.91847412,
     "geocodedAddress": "Velveweg 54, 7533XK Enschede",
@@ -86,14 +116,19 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
     "enrichment": {
       "version": 2,
       "method": "lokale sleutelwoorden",
@@ -117,7 +152,20 @@
       ]
     },
     "primaryTheme": "advies",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-lumen",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "activities": [],
+    "postcode": "7533XK",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-3",
@@ -127,12 +175,18 @@
     "municipality": "Enschede",
     "category": "advies",
     "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "tags": [
       "advies",
-      "ontmoeten"
+      "ontmoeten",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-02",
     "lat": 52.23068894,
     "lon": 6.90914497,
     "geocodedAddress": "Minkmaatstraat 173, 7531AX Enschede",
@@ -146,14 +200,19 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
     "enrichment": {
       "version": 2,
       "method": "lokale sleutelwoorden",
@@ -177,7 +236,20 @@
       ]
     },
     "primaryTheme": "advies",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-vosta",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "activities": [],
+    "postcode": "7531AX",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-4",
@@ -187,12 +259,18 @@
     "municipality": "Enschede",
     "category": "advies",
     "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "tags": [
       "advies",
-      "ontmoeten"
+      "ontmoeten",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-02",
     "lat": 52.21370556,
     "lon": 6.97164919,
     "geocodedAddress": "Schipholtstraat 48B, 7534CZ Enschede",
@@ -206,14 +284,19 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
     "enrichment": {
       "version": 2,
       "method": "lokale sleutelwoorden",
@@ -237,7 +320,20 @@
       ]
     },
     "primaryTheme": "advies",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-de-dorpskamer",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "activities": [],
+    "postcode": "7534CZ",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-5",
@@ -256,7 +352,13 @@
       "taal",
       "creatief",
       "huiswerkbegeleiding",
-      "power"
+      "power",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
     "checked": "2026-10-05",
     "lat": 52.20672753,
@@ -272,9 +374,9 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies",
@@ -288,7 +390,11 @@
       "leren",
       "creatief",
       "taal",
-      "huiswerkbegeleiding"
+      "huiswerkbegeleiding",
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
     ],
     "enrichment": {
       "version": 2,
@@ -372,7 +478,16 @@
     ],
     "activitiesNote": "Het programma kan wijzigen en wordt door verschillende aangesloten organisaties verzorgd. Controleer de actuele activiteit en tijd bij De Vrije Ruimte.",
     "activitiesSource": "https://www.devrijeruimte.com/activiteiten.aspx",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-de-vrije-ruimte",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "postcode": "7541BK",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-6",
@@ -382,13 +497,19 @@
     "municipality": "Enschede",
     "category": "advies",
     "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "tags": [
       "advies",
       "ontmoeten",
-      "ontmoeting"
+      "ontmoeting",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-02",
     "lat": 52.20997965,
     "lon": 6.89902378,
     "geocodedAddress": "Dr. Wagenaarstraat 6, 7541XK Enschede",
@@ -402,15 +523,19 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies"
     ],
     "subthemes": [
-      "ontmoeting"
+      "ontmoeting",
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
     ],
     "enrichment": {
       "version": 2,
@@ -435,7 +560,20 @@
       ]
     },
     "primaryTheme": "advies",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-ontmoetingskerk",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "activities": [],
+    "postcode": "7541XK",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-7",
@@ -445,12 +583,18 @@
     "municipality": "Enschede",
     "category": "advies",
     "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "tags": [
       "advies",
-      "ontmoeten"
+      "ontmoeten",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-02",
     "lat": 52.2115792,
     "lon": 6.87571778,
     "geocodedAddress": "Spinnerstraat 27A, 7545TP Enschede",
@@ -464,14 +608,19 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
     "enrichment": {
       "version": 2,
       "method": "lokale sleutelwoorden",
@@ -495,7 +644,20 @@
       ]
     },
     "primaryTheme": "advies",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-de-boei",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "activities": [],
+    "postcode": "7545TP",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-8",
@@ -505,12 +667,18 @@
     "municipality": "Enschede",
     "category": "advies",
     "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "tags": [
       "advies",
-      "ontmoeten"
+      "ontmoeten",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-02",
     "lat": 52.20502893,
     "lon": 6.88230934,
     "geocodedAddress": "Noordhollandstraat 4, 7543WB Enschede",
@@ -524,14 +692,19 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
     "enrichment": {
       "version": 2,
       "method": "lokale sleutelwoorden",
@@ -555,7 +728,20 @@
       ]
     },
     "primaryTheme": "advies",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-boswinkel-t-ni-je-terphoes",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "activities": [],
+    "postcode": "7543WB",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-9",
@@ -565,13 +751,19 @@
     "municipality": "Enschede",
     "category": "advies",
     "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "tags": [
       "advies",
       "ontmoeten",
-      "jeugd"
+      "jeugd",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-02",
     "lat": 52.20398081,
     "lon": 6.8768224,
     "geocodedAddress": "Beneluxlaan 50, 7543XT Enschede",
@@ -585,15 +777,20 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies",
       "jeugd"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
+    ],
     "enrichment": {
       "version": 2,
       "method": "lokale sleutelwoorden",
@@ -622,7 +819,20 @@
       ]
     },
     "primaryTheme": "advies",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-boswinkel-speeltuin-boswinkel",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "activities": [],
+    "postcode": "7543XT",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-10",
@@ -631,14 +841,20 @@
     "town": "Enschede",
     "municipality": "Enschede",
     "category": "advies",
-    "source": "https://www.enschede.nl/openingstijden-wijkwijzer-in-de-zomervakantie",
-    "description": "Voor vragen, een gesprek en hulp bij het vinden van passende ondersteuning. Raadpleeg Wijkwijzer voor de huidige inlooptijden.",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "tags": [
       "advies",
       "ontmoeten",
-      "ontmoeting"
+      "ontmoeting",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-02",
     "lat": 52.19270077,
     "lon": 6.8756301,
     "geocodedAddress": "Hertmebrink 1, 7544DC Enschede",
@@ -652,15 +868,19 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies"
     ],
     "subthemes": [
-      "ontmoeting"
+      "ontmoeting",
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
     ],
     "enrichment": {
       "version": 2,
@@ -689,7 +909,20 @@
       ]
     },
     "primaryTheme": "advies",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-de-magneet",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "activities": [],
+    "postcode": "7544DC",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-11",
@@ -698,14 +931,20 @@
     "town": "Enschede",
     "municipality": "Enschede",
     "category": "advies",
-    "source": "https://www.enschede.nl/openingstijden-wijkwijzer-in-de-zomervakantie",
-    "description": "Voor vragen, een gesprek en hulp bij het vinden van passende ondersteuning. Raadpleeg Wijkwijzer voor de huidige inlooptijden.",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "tags": [
       "advies",
       "ontmoeten",
-      "ontmoeting"
+      "ontmoeting",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-02",
     "lat": 52.18841466,
     "lon": 6.90096801,
     "geocodedAddress": "Het Stroink 64, 7542GT Enschede",
@@ -719,15 +958,19 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies"
     ],
     "subthemes": [
-      "ontmoeting"
+      "ontmoeting",
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
     ],
     "enrichment": {
       "version": 2,
@@ -756,7 +999,20 @@
       ]
     },
     "primaryTheme": "advies",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-stroinkshuis",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "activities": [],
+    "postcode": "7542GT",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-12",
@@ -765,14 +1021,20 @@
     "town": "Enschede",
     "municipality": "Enschede",
     "category": "advies",
-    "source": "https://www.enschede.nl/openingstijden-wijkwijzer-in-de-zomervakantie",
-    "description": "Voor vragen, een gesprek en hulp bij het vinden van passende ondersteuning. Raadpleeg Wijkwijzer voor de huidige inlooptijden.",
+    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
     "tags": [
       "advies",
       "ontmoeten",
-      "ontmoeting"
+      "ontmoeting",
+      "inloop",
+      "geld",
+      "administratie",
+      "werk en inkomen",
+      "opvoeden",
+      "buurt"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-02",
     "lat": 52.23839329,
     "lon": 6.88498393,
     "geocodedAddress": "Lijsterstraat 11, 7523ER Enschede",
@@ -786,15 +1048,19 @@
     "municipalities": [
       "Enschede"
     ],
-    "audience": "",
-    "costs": "",
-    "access": "",
+    "audience": "Inwoners van Enschede.",
+    "costs": "Gratis.",
+    "access": "Vrije inloop op de actuele openingstijden.",
     "openingHours": "",
     "themes": [
       "advies"
     ],
     "subthemes": [
-      "ontmoeting"
+      "ontmoeting",
+      "inloop",
+      "informatie",
+      "geld",
+      "opvoeden"
     ],
     "enrichment": {
       "version": 2,
@@ -823,7 +1089,20 @@
       ]
     },
     "primaryTheme": "advies",
-    "physicalLocation": true
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-het-kompas",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "activities": [],
+    "postcode": "7523ER",
+    "locationType": "visiting",
+    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
+    "mapLocationType": "address"
   },
   {
     "id": "loc-13",
@@ -2430,7 +2709,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-t-berflo-hengelo-utbkm0"
+    "catalogOrganizationId": "org-t-berflo-hengelo-utbkm0",
+    "catalogOfferId": "extra-20261002-hengelo-berflo"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-diekhuus",
@@ -2475,7 +2755,8 @@
     "locationSource": "https://www.letshellendoorn.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-t-diekhuus-nijverdal-1wx4g0p"
+    "catalogOrganizationId": "org-t-diekhuus-nijverdal-1wx4g0p",
+    "catalogOfferId": "extra-20261002-hellendoorn-diekhuus"
   },
   {
     "id": "offer-extra-20261005-repair-haaksbergen",
@@ -2521,7 +2802,8 @@
     "locationSource": "https://www.gildehaaksbergen.nl/repair-cafe/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-t-gilde-haaksbergen-hjsl8s"
+    "catalogOrganizationId": "org-t-gilde-haaksbergen-hjsl8s",
+    "catalogOfferId": "extra-20261005-repair-haaksbergen"
   },
   {
     "id": "offer-extra-20261002-hengelo-proggiehoes",
@@ -2559,7 +2841,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-t-proggiehoes-beckum-17xnlvh"
+    "catalogOrganizationId": "org-t-proggiehoes-beckum-17xnlvh",
+    "catalogOfferId": "extra-20261002-hengelo-proggiehoes"
   },
   {
     "id": "offer-extra-20261002-almelo-kom-erbij-groenedael",
@@ -2603,7 +2886,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-almelo-a23tkj"
+    "catalogOrganizationId": "org-almelo-a23tkj",
+    "catalogOfferId": "extra-20261002-almelo-kom-erbij-groenedael"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkkamer-noabershoes",
@@ -2647,7 +2931,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-almelo-a23tkj"
+    "catalogOrganizationId": "org-almelo-a23tkj",
+    "catalogOfferId": "extra-20261002-almelo-wijkkamer-noabershoes"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkkamer-de-bridge",
@@ -2691,7 +2976,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-almelo-a23tkj"
+    "catalogOrganizationId": "org-almelo-a23tkj",
+    "catalogOfferId": "extra-20261002-almelo-wijkkamer-de-bridge"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkkamer-karekiet",
@@ -2735,7 +3021,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-almelo-a23tkj"
+    "catalogOrganizationId": "org-almelo-a23tkj",
+    "catalogOfferId": "extra-20261002-almelo-wijkkamer-karekiet"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkkamer-eninver",
@@ -2779,7 +3066,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-almelo-a23tkj"
+    "catalogOrganizationId": "org-almelo-a23tkj",
+    "catalogOfferId": "extra-20261002-almelo-wijkkamer-eninver"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkkamer-hoog-schuilenburg",
@@ -2823,7 +3111,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-almelo-a23tkj"
+    "catalogOrganizationId": "org-almelo-a23tkj",
+    "catalogOfferId": "extra-20261002-almelo-wijkkamer-hoog-schuilenburg"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkkamer-luctor",
@@ -2867,7 +3156,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-almelo-a23tkj"
+    "catalogOrganizationId": "org-almelo-a23tkj",
+    "catalogOfferId": "extra-20261002-almelo-wijkkamer-luctor"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkkamer-trefpunt-elisabeth",
@@ -2911,7 +3201,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-almelo-a23tkj"
+    "catalogOrganizationId": "org-almelo-a23tkj",
+    "catalogOfferId": "extra-20261002-almelo-wijkkamer-trefpunt-elisabeth"
   },
   {
     "id": "offer-candidate-a6341350a90f2412",
@@ -2961,7 +3252,8 @@
     "locationSource": "https://almelosociaal.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-almelo-sociaal-1wt3mwz"
+    "catalogOrganizationId": "org-almelo-sociaal-1wt3mwz",
+    "catalogOfferId": "candidate-a6341350a90f2412"
   },
   {
     "id": "offer-extra-20261003-oldenzaal-alzheimer-cafe-rouwhorst",
@@ -3006,7 +3298,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/alzheimercafe/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-alzheimer-cafe-oldenzaal-1u2eopb"
+    "catalogOrganizationId": "org-alzheimer-cafe-oldenzaal-1u2eopb",
+    "catalogOfferId": "extra-20261003-oldenzaal-alzheimer-cafe-rouwhorst"
   },
   {
     "id": "offer-candidate-20261002-avedan-join-us",
@@ -3047,7 +3340,8 @@
     "locationSource": "https://www.avedan.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": false,
-    "catalogOrganizationId": "org-avedan-3bcgcs"
+    "catalogOrganizationId": "org-avedan-3bcgcs",
+    "catalogOfferId": "candidate-20261002-avedan-join-us"
   },
   {
     "id": "offer-candidate-20261002-avedan-ontmoetingscafe",
@@ -3086,7 +3380,8 @@
     "locationSource": "https://www.avedan.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": false,
-    "catalogOrganizationId": "org-avedan-3bcgcs"
+    "catalogOrganizationId": "org-avedan-3bcgcs",
+    "catalogOfferId": "candidate-20261002-avedan-ontmoetingscafe"
   },
   {
     "id": "offer-candidate-20261002-avedan-taalpunt",
@@ -3131,7 +3426,8 @@
     "locationSource": "https://www.avedan.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": false,
-    "catalogOrganizationId": "org-avedan-3bcgcs"
+    "catalogOrganizationId": "org-avedan-3bcgcs",
+    "catalogOfferId": "candidate-20261002-avedan-taalpunt"
   },
   {
     "id": "offer-c-20261002-hengelo-berflohoes",
@@ -3172,7 +3468,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-berflohoes-1wyniyw"
+    "catalogOrganizationId": "org-berflohoes-1wyniyw",
+    "catalogOfferId": "c-20261002-hengelo-berflohoes"
   },
   {
     "id": "offer-extra-20261005-bibliotheek-dinkelland",
@@ -3221,7 +3518,8 @@
     "locationSource": "https://www.bibliotheekdinkelland.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-bibliotheek-dinkelland-1oto9pn"
+    "catalogOrganizationId": "org-bibliotheek-dinkelland-1oto9pn",
+    "catalogOfferId": "extra-20261005-bibliotheek-dinkelland"
   },
   {
     "id": "offer-candidate-20261002-bieb-enschede-computerspreekuur",
@@ -3261,7 +3559,8 @@
     "locationSource": "https://bibliotheekenschede.op-shop.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-bibliotheek-enschede-haaksbergen-10lzo9a"
+    "catalogOrganizationId": "org-bibliotheek-enschede-haaksbergen-10lzo9a",
+    "catalogOfferId": "candidate-20261002-bieb-enschede-computerspreekuur"
   },
   {
     "id": "offer-extra-20261002-wierden-bibliotheek-enter",
@@ -3308,7 +3607,8 @@
     "locationSource": "https://bibliotheekwierden.op-shop.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-bibliotheek-enter-1l7kdq3"
+    "catalogOrganizationId": "org-bibliotheek-enter-1l7kdq3",
+    "catalogOfferId": "extra-20261002-wierden-bibliotheek-enter"
   },
   {
     "id": "offer-extra-20261005-bibliotheek-tubbergen",
@@ -3356,7 +3656,8 @@
     "locationSource": "https://bibliotheektubbergen.op-shop.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-bibliotheek-tubbergen-1jinoij"
+    "catalogOrganizationId": "org-bibliotheek-tubbergen-1jinoij",
+    "catalogOfferId": "extra-20261005-bibliotheek-tubbergen"
   },
   {
     "id": "offer-extra-20261002-hengelo-bibliotheek-stad",
@@ -3401,7 +3702,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/taal",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-bibliotheek-twente-h33v3i"
+    "catalogOrganizationId": "org-bibliotheek-twente-h33v3i",
+    "catalogOfferId": "extra-20261002-hengelo-bibliotheek-stad"
   },
   {
     "id": "offer-extra-20261002-wierden-bibliotheek-wierden",
@@ -3459,7 +3761,8 @@
     "locationSource": "https://bibliotheekwierden.op-shop.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-bibliotheek-wierden-x3ydwv"
+    "catalogOrganizationId": "org-bibliotheek-wierden-x3ydwv",
+    "catalogOfferId": "extra-20261002-wierden-bibliotheek-wierden"
   },
   {
     "id": "offer-extra-20261002-hengelo-bij-bosshardt",
@@ -3500,7 +3803,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-bij-bosshardt-hengelo-1lkcxbw"
+    "catalogOrganizationId": "org-bij-bosshardt-hengelo-1lkcxbw",
+    "catalogOfferId": "extra-20261002-hengelo-bij-bosshardt"
   },
   {
     "id": "offer-extra-20261002-hengelo-bij-mozart",
@@ -3542,7 +3846,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-bij-mozart-1lib7zh"
+    "catalogOrganizationId": "org-bij-mozart-1lib7zh",
+    "catalogOfferId": "extra-20261002-hengelo-bij-mozart"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-bunga-tanjung",
@@ -3585,7 +3890,8 @@
     "locationSource": "https://www.dewelledoet.nl/activiteiten/858",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-bunga-tandjung-22ufdh"
+    "catalogOrganizationId": "org-bunga-tandjung-22ufdh",
+    "catalogOfferId": "extra-20261002-hellendoorn-bunga-tanjung"
   },
   {
     "id": "offer-extra-20261002-hengelo-de-jeugd",
@@ -3626,7 +3932,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-buurt-en-speeltuinvereniging-de-jeugd-us28gy"
+    "catalogOrganizationId": "org-buurt-en-speeltuinvereniging-de-jeugd-us28gy",
+    "catalogOfferId": "extra-20261002-hengelo-de-jeugd"
   },
   {
     "id": "offer-extra-20261005-beien-werkplaats",
@@ -3673,7 +3980,8 @@
     "locationSource": "https://www.beien.nl/werkplaats/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-buurthuis-beien-isrsld"
+    "catalogOrganizationId": "org-buurthuis-beien-isrsld",
+    "catalogOfferId": "extra-20261005-beien-werkplaats"
   },
   {
     "id": "offer-extra-20261003-almelo-hagedoorn",
@@ -3714,7 +4022,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-buurthuiskamer-de-hagedoorn-i222va"
+    "catalogOrganizationId": "org-buurthuiskamer-de-hagedoorn-i222va",
+    "catalogOfferId": "extra-20261003-almelo-hagedoorn"
   },
   {
     "id": "offer-c-20261002-carint-backenhagen",
@@ -3756,7 +4065,8 @@
     "locationSource": "https://www.carintreggeland.nl/Onze-diensten/Wonen-en-huren/Huren/Woonlocatie-HUUR-details/Locatie/Backenhagen/LocationId/3",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-carintreggeland-backenhagen-bd5hxm"
+    "catalogOrganizationId": "org-carintreggeland-backenhagen-bd5hxm",
+    "catalogOfferId": "c-20261002-carint-backenhagen"
   },
   {
     "id": "offer-extra-20261002-chessclub-lumen",
@@ -3797,7 +4107,8 @@
     "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-chess-club-enschede-inclusief-l1e8j6"
+    "catalogOrganizationId": "org-chess-club-enschede-inclusief-l1e8j6",
+    "catalogOfferId": "extra-20261002-chessclub-lumen"
   },
   {
     "id": "offer-extra-20261002-chessclub-tubanters-olympialaan",
@@ -3838,7 +4149,8 @@
     "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-chess-club-enschede-inclusief-l1e8j6"
+    "catalogOrganizationId": "org-chess-club-enschede-inclusief-l1e8j6",
+    "catalogOfferId": "extra-20261002-chessclub-tubanters-olympialaan"
   },
   {
     "id": "offer-extra-20261002-chessclub-wopit-javastraat",
@@ -3879,7 +4191,8 @@
     "locationSource": "https://www.thechessclub.nl/inkomsten/3137164_blog-locaties",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-chess-club-enschede-inclusief-l1e8j6"
+    "catalogOrganizationId": "org-chess-club-enschede-inclusief-l1e8j6",
+    "catalogOfferId": "extra-20261002-chessclub-wopit-javastraat"
   },
   {
     "id": "offer-candidate-20261002-kruispunt-delden",
@@ -3920,7 +4233,8 @@
     "locationSource": "https://www.hofactief.nl/activiteiten/dagontmoeting-t-kruispunt/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-dagontmoeting-t-kruispunt-16ee16l"
+    "catalogOrganizationId": "org-dagontmoeting-t-kruispunt-16ee16l",
+    "catalogOfferId": "candidate-20261002-kruispunt-delden"
   },
   {
     "id": "offer-extra-20261002-borne-de-fontein",
@@ -3963,7 +4277,8 @@
     "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-fontein-borne-1ah9zuj"
+    "catalogOrganizationId": "org-de-fontein-borne-1ah9zuj",
+    "catalogOfferId": "extra-20261002-borne-de-fontein"
   },
   {
     "id": "offer-extra-20261005-huiskamer-hellendoorn",
@@ -4001,7 +4316,8 @@
     "locationSource": "https://dehuiskamernijverdal.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-huiskamer-van-hellendoorn-27wmho"
+    "catalogOrganizationId": "org-de-huiskamer-van-hellendoorn-27wmho",
+    "catalogOfferId": "extra-20261005-huiskamer-hellendoorn"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-jordaan-senioren",
@@ -4045,7 +4361,8 @@
     "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-jordaan-de-bouwmeester-1awpxtf"
+    "catalogOrganizationId": "org-de-jordaan-de-bouwmeester-1awpxtf",
+    "catalogOfferId": "extra-20261002-haaksbergen-jordaan-senioren"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-handwerkclub-kappen",
@@ -4094,7 +4411,8 @@
     "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-kappen-g0qov5"
+    "catalogOrganizationId": "org-de-kappen-g0qov5",
+    "catalogOfferId": "extra-20261002-haaksbergen-handwerkclub-kappen"
   },
   {
     "id": "offer-candidate-636d4f5d178aa08f",
@@ -4132,7 +4450,8 @@
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/220554/invis2/de-klup-locatie-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-klup-locatie-almelo-1x3ssps"
+    "catalogOrganizationId": "org-de-klup-locatie-almelo-1x3ssps",
+    "catalogOfferId": "candidate-636d4f5d178aa08f"
   },
   {
     "id": "offer-extra-20261002-deposten-huiskamer-van-de-buurt",
@@ -4179,7 +4498,8 @@
     "locationSource": "https://www.deposten.nl/doen-ontmoeten/dagopvang-2/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-posten-1ql4a8r"
+    "catalogOrganizationId": "org-de-posten-1ql4a8r",
+    "catalogOfferId": "extra-20261002-deposten-huiskamer-van-de-buurt"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-de-ruimte-daarle",
@@ -4223,7 +4543,8 @@
     "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-ruimte-daarle-1f2m4jl"
+    "catalogOrganizationId": "org-de-ruimte-daarle-1f2m4jl",
+    "catalogOfferId": "extra-20261002-hellendoorn-de-ruimte-daarle"
   },
   {
     "id": "offer-extra-20261002-viermarken-algemene-voorziening",
@@ -4271,7 +4592,8 @@
     "locationSource": "https://viermarken.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-viermarken-b8qium"
+    "catalogOrganizationId": "org-de-viermarken-b8qium",
+    "catalogOfferId": "extra-20261002-viermarken-algemene-voorziening"
   },
   {
     "id": "offer-extra-20261002-wierden-reggedal-ontmoeting",
@@ -4317,7 +4639,8 @@
     "locationSource": "https://www.socialekaartwierden.nl/is/product/157291/220582/bewegen-op-de-stoel-enter",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
+    "catalogOrganizationId": "org-de-welle-10mgx5x",
+    "catalogOfferId": "extra-20261002-wierden-reggedal-ontmoeting"
   },
   {
     "id": "offer-extra-20261002-dewelle-beweegtuin-wierden",
@@ -4357,7 +4680,8 @@
     "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
+    "catalogOrganizationId": "org-de-welle-10mgx5x",
+    "catalogOfferId": "extra-20261002-dewelle-beweegtuin-wierden"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-crea-doe",
@@ -4399,7 +4723,8 @@
     "locationSource": "https://www.dewelledoet.nl/activiteiten/352",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
+    "catalogOrganizationId": "org-de-welle-10mgx5x",
+    "catalogOfferId": "extra-20261002-hellendoorn-crea-doe"
   },
   {
     "id": "offer-extra-20261002-wierden-gezellig-eatn-enter",
@@ -4440,7 +4765,8 @@
     "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
+    "catalogOrganizationId": "org-de-welle-10mgx5x",
+    "catalogOfferId": "extra-20261002-wierden-gezellig-eatn-enter"
   },
   {
     "id": "offer-extra-20261002-dewelle-hobbyclub-wierden",
@@ -4479,7 +4805,8 @@
     "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Wierden",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
+    "catalogOrganizationId": "org-de-welle-10mgx5x",
+    "catalogOfferId": "extra-20261002-dewelle-hobbyclub-wierden"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-internetcafe",
@@ -4525,7 +4852,8 @@
     "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
+    "catalogOrganizationId": "org-de-welle-10mgx5x",
+    "catalogOfferId": "extra-20261002-hellendoorn-internetcafe"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-joinus-18-25",
@@ -4568,7 +4896,8 @@
     "locationSource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
+    "catalogOrganizationId": "org-de-welle-10mgx5x",
+    "catalogOfferId": "extra-20261002-hellendoorn-joinus-18-25"
   },
   {
     "id": "offer-extra-20261002-dewelle-jongerencentrum-place2be",
@@ -4608,7 +4937,8 @@
     "locationSource": "https://www.dewelledoet.nl/activiteiten/20",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
+    "catalogOrganizationId": "org-de-welle-10mgx5x",
+    "catalogOfferId": "extra-20261002-dewelle-jongerencentrum-place2be"
   },
   {
     "id": "offer-extra-20261002-dewelle-kom-d-r-in-enter",
@@ -4649,7 +4979,8 @@
     "locationSource": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
+    "catalogOrganizationId": "org-de-welle-10mgx5x",
+    "catalogOfferId": "extra-20261002-dewelle-kom-d-r-in-enter"
   },
   {
     "id": "offer-extra-20261002-dewelle-kom-d-r-in-wierden",
@@ -4690,7 +5021,8 @@
     "locationSource": "https://evenmens.nl/nieuws/zomerprogramma-kom-dr-in-wierden-en-enter/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-welle-10mgx5x"
+    "catalogOrganizationId": "org-de-welle-10mgx5x",
+    "catalogOfferId": "extra-20261002-dewelle-kom-d-r-in-wierden"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-wiedenhof-koffie",
@@ -4733,7 +5065,8 @@
     "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-wiedenhof-12wmxl5"
+    "catalogOrganizationId": "org-de-wiedenhof-12wmxl5",
+    "catalogOfferId": "extra-20261002-haaksbergen-wiedenhof-koffie"
   },
   {
     "id": "offer-c-20261002-hengelo-windhoek",
@@ -4774,7 +5107,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-de-windhoek-ubg8al"
+    "catalogOrganizationId": "org-de-windhoek-ubg8al",
+    "catalogOfferId": "c-20261002-hengelo-windhoek"
   },
   {
     "id": "offer-extra-20261005-doors-wide-open",
@@ -4829,7 +5163,8 @@
     "locationSource": "https://www.doorswideopen.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-doors-wide-open-tcii4r"
+    "catalogOrganizationId": "org-doors-wide-open-tcii4r",
+    "catalogOfferId": "extra-20261005-doors-wide-open"
   },
   {
     "id": "offer-extra-20261003-almelo-aahoes",
@@ -4870,7 +5205,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-dorpshuis-t-aahoes-lzw8uy"
+    "catalogOrganizationId": "org-dorpshuis-t-aahoes-lzw8uy",
+    "catalogOfferId": "extra-20261003-almelo-aahoes"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-veldkamp-haarle",
@@ -4915,7 +5251,8 @@
     "locationSource": "https://haarle.com/wonen-in-haarle/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-dorpshuis-de-veldkamp-haarle-7tm5uk"
+    "catalogOrganizationId": "org-dorpshuis-de-veldkamp-haarle-7tm5uk",
+    "catalogOfferId": "extra-20261002-hellendoorn-veldkamp-haarle"
   },
   {
     "id": "offer-extra-20261002-dinkelland-emters-hoeskamer",
@@ -4958,7 +5295,8 @@
     "locationSource": "https://bibliotheekdinkelland.op-shop.nl/1295/emters-hoeskamer/24-09-2026",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-emters-hoeskamer-18glzg"
+    "catalogOrganizationId": "org-emters-hoeskamer-18glzg",
+    "catalogOfferId": "extra-20261002-dinkelland-emters-hoeskamer"
   },
   {
     "id": "offer-extra-20261002-enschede-ontmoetingscentrum-t-ribbet",
@@ -4999,7 +5337,8 @@
     "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-enschede-1e7f7fw"
+    "catalogOrganizationId": "org-enschede-1e7f7fw",
+    "catalogOfferId": "extra-20261002-enschede-ontmoetingscentrum-t-ribbet"
   },
   {
     "id": "offer-extra-20261002-enschede-ontmoetingscentrum-glanerbrug",
@@ -5040,7 +5379,8 @@
     "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-enschede-1e7f7fw"
+    "catalogOrganizationId": "org-enschede-1e7f7fw",
+    "catalogOfferId": "extra-20261002-enschede-ontmoetingscentrum-glanerbrug"
   },
   {
     "id": "offer-extra-20261002-enschede-ontmoetingscentrum-lal-",
@@ -5081,7 +5421,8 @@
     "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-enschede-1e7f7fw"
+    "catalogOrganizationId": "org-enschede-1e7f7fw",
+    "catalogOfferId": "extra-20261002-enschede-ontmoetingscentrum-lal-"
   },
   {
     "id": "offer-extra-20261002-enschede-ontmoetingscentrum-twekkelerveld",
@@ -5122,7 +5463,8 @@
     "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-enschede-1e7f7fw"
+    "catalogOrganizationId": "org-enschede-1e7f7fw",
+    "catalogOfferId": "extra-20261002-enschede-ontmoetingscentrum-twekkelerveld"
   },
   {
     "id": "offer-c-20261002-hengelo-esthia-open",
@@ -5162,7 +5504,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-esthia-pk4yx3"
+    "catalogOrganizationId": "org-esthia-pk4yx3",
+    "catalogOfferId": "c-20261002-hengelo-esthia-open"
   },
   {
     "id": "offer-extra-20261002-familiehuis-familiehuis-enschede-west",
@@ -5206,7 +5549,8 @@
     "locationSource": "https://www.enschede.nl/kom-langs-voor-advies-of-een-leuke-activiteit-bij-het-familiehuis",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-familiehuis-enschede-west-putmfo"
+    "catalogOrganizationId": "org-familiehuis-enschede-west-putmfo",
+    "catalogOfferId": "extra-20261002-familiehuis-familiehuis-enschede-west"
   },
   {
     "id": "offer-extra-20261002-losser-actieve-ontmoeting-de-lutte",
@@ -5252,7 +5596,8 @@
     "locationSource": "https://dorpshoes.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn",
+    "catalogOfferId": "extra-20261002-losser-actieve-ontmoeting-de-lutte"
   },
   {
     "id": "offer-extra-20261002-fundament-actieve-ontmoeting-losser",
@@ -5297,7 +5642,8 @@
     "locationSource": "https://www.fundamentlosser.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn",
+    "catalogOfferId": "extra-20261002-fundament-actieve-ontmoeting-losser"
   },
   {
     "id": "offer-extra-20261002-fundament-actieve-ontmoeting-overdinkel",
@@ -5339,7 +5685,8 @@
     "locationSource": "https://www.fundamentlosser.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn",
+    "catalogOfferId": "extra-20261002-fundament-actieve-ontmoeting-overdinkel"
   },
   {
     "id": "offer-extra-20261002-losser-culturele-ontmoeting-kraesgenberg",
@@ -5384,7 +5731,8 @@
     "locationSource": "https://www.fundamentlosser.nl/agenda/de-culturele-ontmoeting-3-2026-09-10-2026-09-17-2026-09-24-2026-10-01-2026-10-08-2026-10-15-2026-10-22-2026-10-29-2026-11-05-2026-11-12-2026-11-19/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn",
+    "catalogOfferId": "extra-20261002-losser-culturele-ontmoeting-kraesgenberg"
   },
   {
     "id": "offer-extra-20261002-losser-pax-christi-jeugdhuiskamer",
@@ -5428,7 +5776,8 @@
     "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn",
+    "catalogOfferId": "extra-20261002-losser-pax-christi-jeugdhuiskamer"
   },
   {
     "id": "offer-extra-20261002-losser-jongeren-activiteitencentrum",
@@ -5475,7 +5824,8 @@
     "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn",
+    "catalogOfferId": "extra-20261002-losser-jongeren-activiteitencentrum"
   },
   {
     "id": "offer-extra-20261002-fundament-koffie-inloop-kiekerskaamp",
@@ -5513,7 +5863,8 @@
     "locationSource": "https://www.fundamentlosser.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn",
+    "catalogOfferId": "extra-20261002-fundament-koffie-inloop-kiekerskaamp"
   },
   {
     "id": "offer-c-20261002-fundament-mamapapa",
@@ -5561,7 +5912,8 @@
     "locationSource": "https://www.fundamentlosser.nl/activiteiten/mamapapacafe/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn",
+    "catalogOfferId": "c-20261002-fundament-mamapapa"
   },
   {
     "id": "offer-candidate-20261002-fundament-taalpunt-locatie",
@@ -5600,7 +5952,8 @@
     "locationSource": "https://www.fundamentlosser.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": false,
-    "catalogOrganizationId": "org-fundament-losser-l8a8wn"
+    "catalogOrganizationId": "org-fundament-losser-l8a8wn",
+    "catalogOfferId": "candidate-20261002-fundament-taalpunt-locatie"
   },
   {
     "id": "offer-extra-20261002-dinkelland-trefpunt-weerselo",
@@ -5644,7 +5997,8 @@
     "locationSource": "https://www.dinkelland.nl/veel-gestelde-vragen-verkiezingen",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-gemeenschapscentrum-t-trefpunt-weerselo-zszmm3"
+    "catalogOrganizationId": "org-gemeenschapscentrum-t-trefpunt-weerselo-zszmm3",
+    "catalogOfferId": "extra-20261002-dinkelland-trefpunt-weerselo"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkteam-noord",
@@ -5694,7 +6048,8 @@
     "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-gemeente-almelo-lg1xtf"
+    "catalogOrganizationId": "org-gemeente-almelo-lg1xtf",
+    "catalogOfferId": "extra-20261002-almelo-wijkteam-noord"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkteam-oost",
@@ -5744,7 +6099,8 @@
     "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-gemeente-almelo-lg1xtf"
+    "catalogOrganizationId": "org-gemeente-almelo-lg1xtf",
+    "catalogOfferId": "extra-20261002-almelo-wijkteam-oost"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkteam-west",
@@ -5794,7 +6150,8 @@
     "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-gemeente-almelo-lg1xtf"
+    "catalogOrganizationId": "org-gemeente-almelo-lg1xtf",
+    "catalogOfferId": "extra-20261002-almelo-wijkteam-west"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkteam-zuid",
@@ -5844,7 +6201,8 @@
     "locationSource": "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-gemeente-almelo-lg1xtf"
+    "catalogOrganizationId": "org-gemeente-almelo-lg1xtf",
+    "catalogOfferId": "extra-20261002-almelo-wijkteam-zuid"
   },
   {
     "id": "offer-extra-20261002-borne-ouder-kindcafe",
@@ -5886,7 +6244,8 @@
     "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-gemeente-borne-jntns1"
+    "catalogOrganizationId": "org-gemeente-borne-jntns1",
+    "catalogOfferId": "extra-20261002-borne-ouder-kindcafe"
   },
   {
     "id": "offer-extra-20261002-sociaal-vraagplein-holten",
@@ -5938,7 +6297,8 @@
     "locationSource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-gemeente-rijssen-holten-1q3kn8s"
+    "catalogOrganizationId": "org-gemeente-rijssen-holten-1q3kn8s",
+    "catalogOfferId": "extra-20261002-sociaal-vraagplein-holten"
   },
   {
     "id": "offer-extra-20261002-sociaal-vraagplein-rijssen",
@@ -5990,7 +6350,8 @@
     "locationSource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/inlooppunt/inlooppunt-sociaal-vraagplein/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-gemeente-rijssen-holten-1q3kn8s"
+    "catalogOrganizationId": "org-gemeente-rijssen-holten-1q3kn8s",
+    "catalogOfferId": "extra-20261002-sociaal-vraagplein-rijssen"
   },
   {
     "id": "offer-extra-20261002-hof-herberg-de-pol-diepenheim",
@@ -6036,7 +6397,8 @@
     "locationSource": "https://www.herbergdepol.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-herberg-de-pol-diepenheim-12kpk56"
+    "catalogOrganizationId": "org-herberg-de-pol-diepenheim-12kpk56",
+    "catalogOfferId": "extra-20261002-hof-herberg-de-pol-diepenheim"
   },
   {
     "id": "offer-extra-20261003-twenterand-kerkenwinkeltje",
@@ -6081,7 +6443,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/het-kerkenwinkeltje-westerhaar/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-het-kerkenwinkeltje-westerhaar-27f2fr"
+    "catalogOrganizationId": "org-het-kerkenwinkeltje-westerhaar-27f2fr",
+    "catalogOfferId": "extra-20261003-twenterand-kerkenwinkeltje"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-noaberhuus",
@@ -6126,7 +6489,8 @@
     "locationSource": "https://hellendoorn.smartmap.nl/rubriek/3631/buurtorganisaties",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-het-noaberhuus-hellendoorn-iapdqg"
+    "catalogOrganizationId": "org-het-noaberhuus-hellendoorn-iapdqg",
+    "catalogOfferId": "extra-20261002-hellendoorn-noaberhuus"
   },
   {
     "id": "offer-extra-20261005-het-punt-vroomshoop",
@@ -6171,7 +6535,8 @@
     "locationSource": "https://www.welkombijhetpunt.nl/over_ons/locatie-openingstijden/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-het-punt-vroomshoop-18kym31"
+    "catalogOrganizationId": "org-het-punt-vroomshoop-18kym31",
+    "catalogOfferId": "extra-20261005-het-punt-vroomshoop"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-saalmerink-koffie",
@@ -6214,7 +6579,8 @@
     "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-het-saalmerink-tvopj3"
+    "catalogOrganizationId": "org-het-saalmerink-tvopj3",
+    "catalogOfferId": "extra-20261002-haaksbergen-saalmerink-koffie"
   },
   {
     "id": "offer-extra-20261002-hof-hofkerk-inloop",
@@ -6258,7 +6624,8 @@
     "locationSource": "https://www.visithofvantwente.nl/attracties/architectuur---erfgoed/1689-hofkerk/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-hofkerk-goor-1kd5328"
+    "catalogOrganizationId": "org-hofkerk-goor-1kd5328",
+    "catalogOfferId": "extra-20261002-hof-hofkerk-inloop"
   },
   {
     "id": "offer-extra-20261003-almelo-huis-van-katoen",
@@ -6299,7 +6666,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-huis-van-katoen-en-nu-1n040c3"
+    "catalogOrganizationId": "org-huis-van-katoen-en-nu-1n040c3",
+    "catalogOfferId": "extra-20261003-almelo-huis-van-katoen"
   },
   {
     "id": "offer-candidate-20261002-huis-taal-meedoen",
@@ -6347,7 +6715,8 @@
     "locationSource": "https://www.huisvoortaalenmeedoen.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-huis-voor-taal-meedoen-18hqdb3"
+    "catalogOrganizationId": "org-huis-voor-taal-meedoen-18hqdb3",
+    "catalogOfferId": "candidate-20261002-huis-taal-meedoen"
   },
   {
     "id": "offer-extra-20261002-borne-sindron",
@@ -6393,7 +6762,8 @@
     "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-huiskamer-van-zenderen-1payr0i"
+    "catalogOrganizationId": "org-huiskamer-van-zenderen-1payr0i",
+    "catalogOfferId": "extra-20261002-borne-sindron"
   },
   {
     "id": "offer-extra-20261002-hengelo-humanitas-onder-dak-inloop",
@@ -6435,7 +6805,8 @@
     "locationSource": "https://wijkrachthengelo.nl/organisaties/10466/humanitas",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-humanitas-onder-dak-1xocxxj"
+    "catalogOrganizationId": "org-humanitas-onder-dak-1xocxxj",
+    "catalogOfferId": "extra-20261002-hengelo-humanitas-onder-dak-inloop"
   },
   {
     "id": "offer-extra-20261002-oldenzaal-actieve-ontmoeting-paal12",
@@ -6478,7 +6849,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "extra-20261002-oldenzaal-actieve-ontmoeting-paal12"
   },
   {
     "id": "offer-extra-20261002-oldenzaal-actieve-ontmoeting-stakenboer",
@@ -6521,7 +6893,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "extra-20261002-oldenzaal-actieve-ontmoeting-stakenboer"
   },
   {
     "id": "offer-candidate-20261002-impuls-creatief-caf-",
@@ -6570,7 +6943,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "candidate-20261002-impuls-creatief-caf-"
   },
   {
     "id": "offer-extra-20261002-impuls-huiskamer-de-thij-koffieplus",
@@ -6611,7 +6985,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "extra-20261002-impuls-huiskamer-de-thij-koffieplus"
   },
   {
     "id": "offer-extra-20261002-oldenzaal-symfonie-koffieinloop",
@@ -6654,7 +7029,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/koffie-inloop-de-symfonie/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "extra-20261002-oldenzaal-symfonie-koffieinloop"
   },
   {
     "id": "offer-candidate-20261002-impuls-koffie-inloop-stakenboer",
@@ -6694,7 +7070,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": false,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "candidate-20261002-impuls-koffie-inloop-stakenboer"
   },
   {
     "id": "offer-extra-20261002-impuls-laplab",
@@ -6734,7 +7111,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "extra-20261002-impuls-laplab"
   },
   {
     "id": "offer-extra-20261002-oldenzaal-ouder-kindgroep",
@@ -6777,7 +7155,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "extra-20261002-oldenzaal-ouder-kindgroep"
   },
   {
     "id": "offer-extra-20261002-oldenzaal-praathuis",
@@ -6826,7 +7205,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "extra-20261002-oldenzaal-praathuis"
   },
   {
     "id": "offer-extra-20261002-oldenzaal-soofi",
@@ -6869,7 +7249,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/soofi-bewegen-en-ontmoeten/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "extra-20261002-oldenzaal-soofi"
   },
   {
     "id": "offer-candidate-20261002-impuls-taalpunt",
@@ -6909,7 +7290,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": false,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "candidate-20261002-impuls-taalpunt"
   },
   {
     "id": "offer-extra-20261002-oldenzaal-walking-football-berghuizen",
@@ -6951,7 +7333,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "extra-20261002-oldenzaal-walking-football-berghuizen"
   },
   {
     "id": "offer-extra-20261002-oldenzaal-walking-football-de-esch",
@@ -6993,7 +7376,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "extra-20261002-oldenzaal-walking-football-de-esch"
   },
   {
     "id": "offer-extra-20261002-impuls-zaterdaginloop-aveleijn-impuls",
@@ -7033,7 +7417,8 @@
     "locationSource": "https://www.impuls-oldenzaal.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-impuls-1mtsxy1"
+    "catalogOrganizationId": "org-impuls-1mtsxy1",
+    "catalogOfferId": "extra-20261002-impuls-zaterdaginloop-aveleijn-impuls"
   },
   {
     "id": "offer-c-20261002-hengelo-bloemenbuurt",
@@ -7072,7 +7457,8 @@
     "locationSource": "https://www.carintreggeland.nl/Content/UserContent/Documents/locations/2/640/D-378-1221-%20Carintreggeland%20Huis%20Het%20Woolde%20LR.pdf",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-informatiewijzer-hengelo-1gn59de"
+    "catalogOrganizationId": "org-informatiewijzer-hengelo-1gn59de",
+    "catalogOfferId": "c-20261002-hengelo-bloemenbuurt"
   },
   {
     "id": "offer-c-20261002-hengelo-drienerstede",
@@ -7114,7 +7500,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-informatiewijzer-hengelo-1gn59de"
+    "catalogOrganizationId": "org-informatiewijzer-hengelo-1gn59de",
+    "catalogOfferId": "c-20261002-hengelo-drienerstede"
   },
   {
     "id": "offer-extra-20261002-hengelo-inloophuis",
@@ -7155,7 +7542,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-inloophuis-hengelo-cf16mh"
+    "catalogOrganizationId": "org-inloophuis-hengelo-cf16mh",
+    "catalogOfferId": "extra-20261002-hengelo-inloophuis"
   },
   {
     "id": "offer-candidate-729433f217b2a499",
@@ -7191,7 +7579,8 @@
     "locationSource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-ixta-noa-praktijkhuis-enschede-18kgun"
+    "catalogOrganizationId": "org-ixta-noa-praktijkhuis-enschede-18kgun",
+    "catalogOfferId": "candidate-729433f217b2a499"
   },
   {
     "id": "offer-extra-20261002-hengelo-cerberus",
@@ -7231,7 +7620,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/sport%2C-vrije-tijd-en-ontmoetingsplekken",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-jongerencentrum-cerberus-135gjs"
+    "catalogOrganizationId": "org-jongerencentrum-cerberus-135gjs",
+    "catalogOfferId": "extra-20261002-hengelo-cerberus"
   },
   {
     "id": "offer-extra-20261002-kickass-cafe",
@@ -7281,7 +7671,8 @@
     "locationSource": "https://www.kickass-enschede.nl/cafe/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kick-ass-enschede-5fa3t3"
+    "catalogOrganizationId": "org-kick-ass-enschede-5fa3t3",
+    "catalogOfferId": "extra-20261002-kickass-cafe"
   },
   {
     "id": "offer-extra-20261002-losser-kraambank",
@@ -7324,7 +7715,8 @@
     "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kraambank-losser-1uum7sp"
+    "catalogOrganizationId": "org-kraambank-losser-1uum7sp",
+    "catalogOfferId": "extra-20261002-losser-kraambank"
   },
   {
     "id": "offer-extra-20261002-kracht-van-verenigingen-avanti-wilskracht",
@@ -7367,7 +7759,8 @@
     "locationSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kracht-van-verenigingen-hd7qmu"
+    "catalogOrganizationId": "org-kracht-van-verenigingen-hd7qmu",
+    "catalogOfferId": "extra-20261002-kracht-van-verenigingen-avanti-wilskracht"
   },
   {
     "id": "offer-extra-20261002-kracht-van-verenigingen-de-tubanters",
@@ -7410,7 +7803,8 @@
     "locationSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kracht-van-verenigingen-hd7qmu"
+    "catalogOrganizationId": "org-kracht-van-verenigingen-hd7qmu",
+    "catalogOfferId": "extra-20261002-kracht-van-verenigingen-de-tubanters"
   },
   {
     "id": "offer-extra-20261002-kracht-van-verenigingen-rigtersbleek",
@@ -7458,7 +7852,8 @@
     "locationSource": "https://rigtersbleek.nl/voorliggende-voorziening/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kracht-van-verenigingen-hd7qmu"
+    "catalogOrganizationId": "org-kracht-van-verenigingen-hd7qmu",
+    "catalogOfferId": "extra-20261002-kracht-van-verenigingen-rigtersbleek"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-trefpunt-daarlerveen",
@@ -7503,7 +7898,8 @@
     "locationSource": "https://hellendoorn.smartmap.nl/rubriek/3631/buurtorganisaties",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kulturhus-t-trefpunt-daarlerveen-1iowpmq"
+    "catalogOrganizationId": "org-kulturhus-t-trefpunt-daarlerveen-1iowpmq",
+    "catalogOfferId": "extra-20261002-hellendoorn-trefpunt-daarlerveen"
   },
   {
     "id": "offer-extra-20261002-wierden-akkerhus",
@@ -7547,7 +7943,8 @@
     "locationSource": "https://www.akkerhus.nl/akkernoabers",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kulturhus-akkerhus-ypelo-16ry9rt"
+    "catalogOrganizationId": "org-kulturhus-akkerhus-ypelo-16ry9rt",
+    "catalogOfferId": "extra-20261002-wierden-akkerhus"
   },
   {
     "id": "offer-extra-20261003-almelo-kulturhus-bornerbroek",
@@ -7589,7 +7986,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kulturhus-bornerbroek-g1tocv"
+    "catalogOrganizationId": "org-kulturhus-bornerbroek-g1tocv",
+    "catalogOfferId": "extra-20261003-almelo-kulturhus-bornerbroek"
   },
   {
     "id": "offer-extra-20261002-borne-kulturhus-bijenkorf",
@@ -7634,7 +8032,8 @@
     "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kulturhus-de-bijenkorf-425l5h"
+    "catalogOrganizationId": "org-kulturhus-de-bijenkorf-425l5h",
+    "catalogOfferId": "extra-20261002-borne-kulturhus-bijenkorf"
   },
   {
     "id": "offer-extra-20261002-losser-kulturhus-de-glaan",
@@ -7678,7 +8077,8 @@
     "locationSource": "https://www.losser.nl/kulturhus-de-glaan",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kulturhus-de-glaan-6yrbaw"
+    "catalogOrganizationId": "org-kulturhus-de-glaan-6yrbaw",
+    "catalogOfferId": "extra-20261002-losser-kulturhus-de-glaan"
   },
   {
     "id": "offer-extra-20261002-hof-kulturhus-de-marke",
@@ -7727,7 +8127,8 @@
     "locationSource": "https://www.kulturhusdemarke.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kulturhus-de-marke-hengevelde-1jzguq2"
+    "catalogOrganizationId": "org-kulturhus-de-marke-hengevelde-1jzguq2",
+    "catalogOfferId": "extra-20261002-hof-kulturhus-de-marke"
   },
   {
     "id": "offer-extra-20261002-dinkelland-kulturhus-denekamp",
@@ -7775,7 +8176,8 @@
     "locationSource": "https://www.kulturhusdenekamp.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kulturhus-denekamp-se4yhp"
+    "catalogOrganizationId": "org-kulturhus-denekamp-se4yhp",
+    "catalogOfferId": "extra-20261002-dinkelland-kulturhus-denekamp"
   },
   {
     "id": "offer-extra-20261002-wierden-kulturhus-hoge-hexel",
@@ -7820,7 +8222,8 @@
     "locationSource": "https://kulturhushogehexel.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kulturhus-hoge-hexel-1iczozv"
+    "catalogOrganizationId": "org-kulturhus-hoge-hexel-1iczozv",
+    "catalogOfferId": "extra-20261002-wierden-kulturhus-hoge-hexel"
   },
   {
     "id": "offer-extra-20261002-wierden-kulturhus-irene",
@@ -7866,7 +8269,8 @@
     "locationSource": "https://www.kulturhus-irene.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kulturhus-irene-notter-zuna-sa2tg6"
+    "catalogOrganizationId": "org-kulturhus-irene-notter-zuna-sa2tg6",
+    "catalogOfferId": "extra-20261002-wierden-kulturhus-irene"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-kulturhus-kruidenwijk",
@@ -7910,7 +8314,8 @@
     "locationSource": "https://dekruidenwijk.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-kulturhus-kruidenwijk-n3l3p3"
+    "catalogOrganizationId": "org-kulturhus-kruidenwijk-n3l3p3",
+    "catalogOfferId": "extra-20261002-hellendoorn-kulturhus-kruidenwijk"
   },
   {
     "id": "offer-candidate-653c4f9e44aa0e89",
@@ -7950,7 +8355,8 @@
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-leger-des-heils-buurthuiskamer-bij-bosshardt-1keez9u"
+    "catalogOrganizationId": "org-leger-des-heils-buurthuiskamer-bij-bosshardt-1keez9u",
+    "catalogOfferId": "candidate-653c4f9e44aa0e89"
   },
   {
     "id": "offer-candidate-20261002-livio-huiskamer-de-berke",
@@ -7993,7 +8399,8 @@
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-livio-1b9v30"
+    "catalogOrganizationId": "org-livio-1b9v30",
+    "catalogOfferId": "candidate-20261002-livio-huiskamer-de-berke"
   },
   {
     "id": "offer-candidate-20261002-livio-huiskamer-de-bleekhof",
@@ -8036,7 +8443,8 @@
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-livio-1b9v30"
+    "catalogOrganizationId": "org-livio-1b9v30",
+    "catalogOfferId": "candidate-20261002-livio-huiskamer-de-bleekhof"
   },
   {
     "id": "offer-candidate-20261002-livio-huiskamer-de-broekheurnerborch",
@@ -8079,7 +8487,8 @@
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-livio-1b9v30"
+    "catalogOrganizationId": "org-livio-1b9v30",
+    "catalogOfferId": "candidate-20261002-livio-huiskamer-de-broekheurnerborch"
   },
   {
     "id": "offer-candidate-20261002-livio-huiskamer-de-hatteler",
@@ -8122,7 +8531,8 @@
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-livio-1b9v30"
+    "catalogOrganizationId": "org-livio-1b9v30",
+    "catalogOfferId": "candidate-20261002-livio-huiskamer-de-hatteler"
   },
   {
     "id": "offer-candidate-20261002-livio-huiskamer-de-hortensiastaete",
@@ -8165,7 +8575,8 @@
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-livio-1b9v30"
+    "catalogOrganizationId": "org-livio-1b9v30",
+    "catalogOfferId": "candidate-20261002-livio-huiskamer-de-hortensiastaete"
   },
   {
     "id": "offer-candidate-20261002-livio-huiskamer-twekkelerveld",
@@ -8208,7 +8619,8 @@
     "locationSource": "https://www.livio.nl/zorg/dagbesteding/huiskamers-van-de-wijk/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-livio-1b9v30"
+    "catalogOrganizationId": "org-livio-1b9v30",
+    "catalogOfferId": "candidate-20261002-livio-huiskamer-twekkelerveld"
   },
   {
     "id": "offer-candidate-20261002-mpact-kenniscentrum",
@@ -8248,7 +8660,8 @@
     "locationSource": "https://www.m-pact.nl/contact",
     "mapLocationType": "address",
     "physicalLocation": false,
-    "catalogOrganizationId": "org-m-pact-5ivo6b"
+    "catalogOrganizationId": "org-m-pact-5ivo6b",
+    "catalogOfferId": "candidate-20261002-mpact-kenniscentrum"
   },
   {
     "id": "offer-extra-20261002-hengelo-vogelkwartier",
@@ -8290,7 +8703,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-mediant-nsaol5"
+    "catalogOrganizationId": "org-mediant-nsaol5",
+    "catalogOfferId": "extra-20261002-hengelo-vogelkwartier"
   },
   {
     "id": "offer-extra-20261003-almelo-mensdoormens",
@@ -8331,7 +8745,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-mensdoormens-n1dg2h"
+    "catalogOrganizationId": "org-mensdoormens-n1dg2h",
+    "catalogOfferId": "extra-20261003-almelo-mensdoormens"
   },
   {
     "id": "offer-extra-20261003-almelo-natuurhus",
@@ -8373,7 +8788,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-natuurhus-almelo-dvbsvq"
+    "catalogOrganizationId": "org-natuurhus-almelo-dvbsvq",
+    "catalogOfferId": "extra-20261003-almelo-natuurhus"
   },
   {
     "id": "offer-extra-20261002-nivon-enschede-cursussen-en-activiteiten",
@@ -8418,7 +8834,8 @@
     "locationSource": "https://enschede.nivon.nl/activiteiten/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-nivon-enschede-c5rgu0"
+    "catalogOrganizationId": "org-nivon-enschede-c5rgu0",
+    "catalogOfferId": "extra-20261002-nivon-enschede-cursussen-en-activiteiten"
   },
   {
     "id": "offer-extra-20261002-hengelo-nivon",
@@ -8455,7 +8872,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-nivon-hengelo-1wm670l"
+    "catalogOrganizationId": "org-nivon-hengelo-1wm670l",
+    "catalogOfferId": "extra-20261002-hengelo-nivon"
   },
   {
     "id": "offer-extra-20261002-hof-noaberhoes-delden",
@@ -8500,7 +8918,8 @@
     "locationSource": "https://noaberhoes.com/activiteiten/koffie-inloop-in-het-noaberhoes",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-noaberhoes-delden-1ia6s19"
+    "catalogOrganizationId": "org-noaberhoes-delden-1ia6s19",
+    "catalogOfferId": "extra-20261002-hof-noaberhoes-delden"
   },
   {
     "id": "offer-candidate-222caea85e36dd65",
@@ -8545,7 +8964,8 @@
     "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/Odensehuis.html",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-noaberpoort-1ynn51m"
+    "catalogOrganizationId": "org-noaberpoort-1ynn51m",
+    "catalogOfferId": "candidate-222caea85e36dd65"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-senioren-bon-boys",
@@ -8590,7 +9010,8 @@
     "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-noaberpoort-1ynn51m"
+    "catalogOrganizationId": "org-noaberpoort-1ynn51m",
+    "catalogOfferId": "extra-20261002-haaksbergen-senioren-bon-boys"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-senioren-trefkoel",
@@ -8635,7 +9056,8 @@
     "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-noaberpoort-1ynn51m"
+    "catalogOrganizationId": "org-noaberpoort-1ynn51m",
+    "catalogOfferId": "extra-20261002-haaksbergen-senioren-trefkoel"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-senioren-hsc21",
@@ -8680,7 +9102,8 @@
     "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-noaberpoort-1ynn51m"
+    "catalogOrganizationId": "org-noaberpoort-1ynn51m",
+    "catalogOfferId": "extra-20261002-haaksbergen-senioren-hsc21"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-senioren-meuken",
@@ -8725,7 +9148,8 @@
     "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-noaberpoort-1ynn51m"
+    "catalogOrganizationId": "org-noaberpoort-1ynn51m",
+    "catalogOfferId": "extra-20261002-haaksbergen-senioren-meuken"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-ouder-kindcafe",
@@ -8768,7 +9192,8 @@
     "locationSource": "https://www.noaberpoort.nl/%2891362%29-Noaberpoort/Sociaal-Domein-Nieuws/Ouder-en-Kindcafe-september2026.html",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-noaberpoort-1ynn51m"
+    "catalogOrganizationId": "org-noaberpoort-1ynn51m",
+    "catalogOfferId": "extra-20261002-haaksbergen-ouder-kindcafe"
   },
   {
     "id": "offer-candidate-b28fcf74de8d3323",
@@ -8814,7 +9239,8 @@
     "locationSource": "https://www.noaberpoort.nl/(91362)-Noaberpoort/Welzijn-ampamp-Zorg/ZIENS.html",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-noaberpoort-1ynn51m"
+    "catalogOrganizationId": "org-noaberpoort-1ynn51m",
+    "catalogOfferId": "candidate-b28fcf74de8d3323"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-odensehuis-haaksbergen",
@@ -8858,7 +9284,8 @@
     "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-noaberpoort-wijkracht-1oahih4"
+    "catalogOrganizationId": "org-noaberpoort-wijkracht-1oahih4",
+    "catalogOfferId": "extra-20261002-haaksbergen-odensehuis-haaksbergen"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-ziens-haaksbergen",
@@ -8902,7 +9329,8 @@
     "locationSource": "https://www.noaberpoort.nl/Taalhuis-Haaksbergen",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-noaberpoort-wijkracht-1oahih4"
+    "catalogOrganizationId": "org-noaberpoort-wijkracht-1oahih4",
+    "catalogOfferId": "extra-20261002-haaksbergen-ziens-haaksbergen"
   },
   {
     "id": "offer-extra-20261002-citypastoraat",
@@ -8942,7 +9370,8 @@
     "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-oecumenisch-citypastoraat-enschede-1ctcbnl"
+    "catalogOrganizationId": "org-oecumenisch-citypastoraat-enschede-1ctcbnl",
+    "catalogOfferId": "extra-20261002-citypastoraat"
   },
   {
     "id": "offer-extra-20261002-hellendoorn-ons-erf-nijverdal",
@@ -8985,7 +9414,8 @@
     "locationSource": "https://www.dewelledoet.nl/activiteiten/574",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-ons-erf-nijverdal-w4ypq5"
+    "catalogOrganizationId": "org-ons-erf-nijverdal-w4ypq5",
+    "catalogOfferId": "extra-20261002-hellendoorn-ons-erf-nijverdal"
   },
   {
     "id": "offer-extra-20261003-dinkelland-ontmoetingshuis-pastorie-lattrop",
@@ -9026,7 +9456,8 @@
     "locationSource": "https://lattrop-breklenkamp.nl/parochieblad-jaargang-46-nr-13-zaterdag-26-september-2026-t-m-vrijdag-16-oktober-2026/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-ontmoetingshuis-de-pastorie-qkb94l"
+    "catalogOrganizationId": "org-ontmoetingshuis-de-pastorie-qkb94l",
+    "catalogOfferId": "extra-20261003-dinkelland-ontmoetingshuis-pastorie-lattrop"
   },
   {
     "id": "offer-extra-20261002-ontmoetingsplek-sportkantine-de-brug-glanerbrug",
@@ -9067,7 +9498,8 @@
     "locationSource": "https://www.enschede.nl/kent-u-al-de-nieuwe-ontmoetingsplek-in-sportkantine-de-brug-in-glanerbrug",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-ontmoetingsplek-sportkantine-de-brug-glanerbru-3podpu"
+    "catalogOrganizationId": "org-ontmoetingsplek-sportkantine-de-brug-glanerbru-3podpu",
+    "catalogOfferId": "extra-20261002-ontmoetingsplek-sportkantine-de-brug-glanerbrug"
   },
   {
     "id": "offer-extra-20261002-hengelo-de-schoof",
@@ -9105,7 +9537,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-ontmoetingsruimte-de-schoof-uhkj1v"
+    "catalogOrganizationId": "org-ontmoetingsruimte-de-schoof-uhkj1v",
+    "catalogOfferId": "extra-20261002-hengelo-de-schoof"
   },
   {
     "id": "offer-extra-20261002-hengelo-vossenburcht",
@@ -9142,7 +9575,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-ontmoetingsruimte-vossenburcht-i6jz0c"
+    "catalogOrganizationId": "org-ontmoetingsruimte-vossenburcht-i6jz0c",
+    "catalogOfferId": "extra-20261002-hengelo-vossenburcht"
   },
   {
     "id": "offer-extra-20261003-haaksbergen-pancratius-koffie",
@@ -9186,7 +9620,8 @@
     "locationSource": "https://www.monumenten.nl/monument/18873",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-pancratiuskerk-y7t790"
+    "catalogOrganizationId": "org-pancratiuskerk-y7t790",
+    "catalogOfferId": "extra-20261003-haaksbergen-pancratius-koffie"
   },
   {
     "id": "offer-extra-20261002-borne-potkaamp-soos",
@@ -9230,7 +9665,8 @@
     "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-potkaamp-borne-1k72asg"
+    "catalogOrganizationId": "org-potkaamp-borne-1k72asg",
+    "catalogOfferId": "extra-20261002-borne-potkaamp-soos"
   },
   {
     "id": "offer-candidate-20261002-power-centrum-oost",
@@ -9279,7 +9715,8 @@
     "locationSource": "https://www.m-pact.nl/o/Power-Enschede/activiteiten/Vrijwilliger-Nederlandse-les-Power-Oost/28771",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-power-enschede-1tp85zf"
+    "catalogOrganizationId": "org-power-enschede-1tp85zf",
+    "catalogOfferId": "candidate-20261002-power-centrum-oost"
   },
   {
     "id": "offer-candidate-20261002-power-noord",
@@ -9328,7 +9765,8 @@
     "locationSource": "https://www.m-pact.nl/o/Power-Enschede",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-power-enschede-1tp85zf"
+    "catalogOrganizationId": "org-power-enschede-1tp85zf",
+    "catalogOfferId": "candidate-20261002-power-noord"
   },
   {
     "id": "offer-candidate-20261002-power-royael",
@@ -9377,7 +9815,8 @@
     "locationSource": "https://www.enschede.nl/power-royael-organiseert-tijdens-de-zomervakantie-leuke-activiteiten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-power-enschede-1tp85zf"
+    "catalogOrganizationId": "org-power-enschede-1tp85zf",
+    "catalogOfferId": "candidate-20261002-power-royael"
   },
   {
     "id": "offer-candidate-20261002-power-zuid",
@@ -9426,7 +9865,8 @@
     "locationSource": "https://www.dezuidsprong.nl/onze-school/alles-in-een-school-de-zuidsprong/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-power-enschede-1tp85zf"
+    "catalogOrganizationId": "org-power-enschede-1tp85zf",
+    "catalogOfferId": "candidate-20261002-power-zuid"
   },
   {
     "id": "offer-extra-20261002-repair-caf-enschede-glanerbrug",
@@ -9470,7 +9910,8 @@
     "locationSource": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-d2pptp"
+    "catalogOrganizationId": "org-repair-cafe-d2pptp",
+    "catalogOfferId": "extra-20261002-repair-caf-enschede-glanerbrug"
   },
   {
     "id": "offer-extra-20261002-repair-caf-enschede-stroinkshuis",
@@ -9514,7 +9955,8 @@
     "locationSource": "https://www.stroinkshuis.nl/huisgenoten-en-huurders/85/repair-caf",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-d2pptp"
+    "catalogOrganizationId": "org-repair-cafe-d2pptp",
+    "catalogOfferId": "extra-20261002-repair-caf-enschede-stroinkshuis"
   },
   {
     "id": "offer-extra-20261002-repair-caf-enschede-zuiderspeeltuin",
@@ -9558,7 +10000,8 @@
     "locationSource": "https://repaircafeenschedezuiderspeeltuin.wordpress.com/about/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-d2pptp"
+    "catalogOrganizationId": "org-repair-cafe-d2pptp",
+    "catalogOfferId": "extra-20261002-repair-caf-enschede-zuiderspeeltuin"
   },
   {
     "id": "offer-extra-20261002-repair-caf-sportpark-enschede-zuid",
@@ -9602,7 +10045,8 @@
     "locationSource": "https://www.repaircafe.org/en/cafe/?field_1_contains=enschede",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-d2pptp"
+    "catalogOrganizationId": "org-repair-cafe-d2pptp",
+    "catalogOfferId": "extra-20261002-repair-caf-sportpark-enschede-zuid"
   },
   {
     "id": "offer-extra-20261005-repair-albergen",
@@ -9648,7 +10092,8 @@
     "locationSource": "https://www.cultuurhoesalbergen.nl/index.php/activiteiten-voorzieningen/repair-cafe",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-albergen-15zaba3"
+    "catalogOrganizationId": "org-repair-cafe-albergen-15zaba3",
+    "catalogOfferId": "extra-20261005-repair-albergen"
   },
   {
     "id": "offer-extra-20261005-repair-almelo",
@@ -9694,7 +10139,8 @@
     "locationSource": "https://repaircafealmelo.nl/nieuws/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-almelo-cp9flt"
+    "catalogOrganizationId": "org-repair-cafe-almelo-cp9flt",
+    "catalogOfferId": "extra-20261005-repair-almelo"
   },
   {
     "id": "offer-extra-20261005-repair-borne",
@@ -9740,7 +10186,8 @@
     "locationSource": "https://www.stroomesch.nl/wse-2-2/repair-cafe/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-borne-bzstfr"
+    "catalogOrganizationId": "org-repair-cafe-borne-bzstfr",
+    "catalogOfferId": "extra-20261005-repair-borne"
   },
   {
     "id": "offer-extra-20261005-repair-de-lutte",
@@ -9786,7 +10233,8 @@
     "locationSource": "https://www.losser.nl/circulaire-economie",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-de-lutte-8755wu"
+    "catalogOrganizationId": "org-repair-cafe-de-lutte-8755wu",
+    "catalogOfferId": "extra-20261005-repair-de-lutte"
   },
   {
     "id": "offer-extra-20261005-repair-hengelo",
@@ -9832,7 +10280,8 @@
     "locationSource": "https://www.repaircafehengelo.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-hengelo-1xyizgb"
+    "catalogOrganizationId": "org-repair-cafe-hengelo-1xyizgb",
+    "catalogOfferId": "extra-20261005-repair-hengelo"
   },
   {
     "id": "offer-extra-20261005-repair-holten",
@@ -9878,7 +10327,8 @@
     "locationSource": "https://www.rijssen-holten.nl/duurzaam/repair-cafe/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-holten-8beakt"
+    "catalogOrganizationId": "org-repair-cafe-holten-8beakt",
+    "catalogOfferId": "extra-20261005-repair-holten"
   },
   {
     "id": "offer-extra-20261005-repair-losser",
@@ -9924,7 +10374,8 @@
     "locationSource": "https://www.losser.nl/circulaire-economie",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-losser-1kd9fgf"
+    "catalogOrganizationId": "org-repair-cafe-losser-1kd9fgf",
+    "catalogOfferId": "extra-20261005-repair-losser"
   },
   {
     "id": "offer-extra-20261005-repair-nijverdal",
@@ -9970,7 +10421,8 @@
     "locationSource": "https://dcnijverdal.nl/repaircafe.html",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-nijverdal-bcdl42"
+    "catalogOrganizationId": "org-repair-cafe-nijverdal-bcdl42",
+    "catalogOfferId": "extra-20261005-repair-nijverdal"
   },
   {
     "id": "offer-extra-20261005-repair-overdinkel",
@@ -10016,7 +10468,8 @@
     "locationSource": "https://www.losser.nl/circulaire-economie",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-overdinkel-cpabhk"
+    "catalogOrganizationId": "org-repair-cafe-overdinkel-cpabhk",
+    "catalogOfferId": "extra-20261005-repair-overdinkel"
   },
   {
     "id": "offer-extra-20261005-repair-rijssen",
@@ -10062,7 +10515,8 @@
     "locationSource": "https://www.rijssen-holten.nl/duurzaam/repair-cafe/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-rijssen-12n06p1"
+    "catalogOrganizationId": "org-repair-cafe-rijssen-12n06p1",
+    "catalogOfferId": "extra-20261005-repair-rijssen"
   },
   {
     "id": "offer-extra-20261005-repair-tubbergen",
@@ -10108,7 +10562,8 @@
     "locationSource": "https://www.openronddeessen.nl/nieuws/repair-cafe-tubbergen-weer-open",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-tubbergen-k88bzn"
+    "catalogOrganizationId": "org-repair-cafe-tubbergen-k88bzn",
+    "catalogOfferId": "extra-20261005-repair-tubbergen"
   },
   {
     "id": "offer-extra-20261005-repair-vasse",
@@ -10154,7 +10609,8 @@
     "locationSource": "https://www.tubbergen.nl/circulaire-economie",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-repair-cafe-vasse-oiijyb"
+    "catalogOrganizationId": "org-repair-cafe-vasse-oiijyb",
+    "catalogOfferId": "extra-20261005-repair-vasse"
   },
   {
     "id": "offer-extra-20261002-resto-vanharte-de-magneet",
@@ -10194,7 +10650,8 @@
     "locationSource": "https://www.restovanharte.nl/locaties/enschede",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-resto-vanharte-enschede-161a1mg"
+    "catalogOrganizationId": "org-resto-vanharte-enschede-161a1mg",
+    "catalogOfferId": "extra-20261002-resto-vanharte-de-magneet"
   },
   {
     "id": "offer-extra-20261002-resto-vanharte-twekkelerveld",
@@ -10234,7 +10691,8 @@
     "locationSource": "https://www.restovanharte.nl/locaties/enschede",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-resto-vanharte-enschede-161a1mg"
+    "catalogOrganizationId": "org-resto-vanharte-enschede-161a1mg",
+    "catalogOfferId": "extra-20261002-resto-vanharte-twekkelerveld"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-koffie-richtershof",
@@ -10275,7 +10733,8 @@
     "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-richtershof-e7k1g"
+    "catalogOrganizationId": "org-richtershof-e7k1g",
+    "catalogOfferId": "extra-20261002-haaksbergen-koffie-richtershof"
   },
   {
     "id": "offer-extra-20261005-ruilwinkel-almelo",
@@ -10325,7 +10784,8 @@
     "locationSource": "https://servicepunt-circulair.nl/initiatievenkaart/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-ruilwinkel-ruillokaal-almelo-kawtuf"
+    "catalogOrganizationId": "org-ruilwinkel-ruillokaal-almelo-kawtuf",
+    "catalogOfferId": "extra-20261005-ruilwinkel-almelo"
   },
   {
     "id": "offer-extra-20261002-salut-alzheimer-cafe",
@@ -10368,7 +10828,8 @@
     "locationSource": "https://salut-welzijn.nl/alzheimer-cafe-hof-van-twente/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-salut-c7ahou"
+    "catalogOrganizationId": "org-salut-c7ahou",
+    "catalogOfferId": "extra-20261002-salut-alzheimer-cafe"
   },
   {
     "id": "offer-extra-20261002-hof-salut-markelo-martinushof",
@@ -10411,7 +10872,8 @@
     "locationSource": "https://salut-welzijn.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-salut-c7ahou"
+    "catalogOrganizationId": "org-salut-c7ahou",
+    "catalogOfferId": "extra-20261002-hof-salut-markelo-martinushof"
   },
   {
     "id": "offer-extra-20261002-schakel-tubbergen",
@@ -10459,7 +10921,8 @@
     "locationSource": "https://schakeltubbergen.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-schakel-tubbergen-e4kkrm"
+    "catalogOrganizationId": "org-schakel-tubbergen-e4kkrm",
+    "catalogOfferId": "extra-20261002-schakel-tubbergen"
   },
   {
     "id": "offer-candidate-949a61a6c9069512",
@@ -10504,7 +10967,8 @@
     "locationSource": "https://www.borne.nl/sociaal-hus",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-hus-borne-1delb1l"
+    "catalogOrganizationId": "org-sociaal-hus-borne-1delb1l",
+    "catalogOfferId": "candidate-949a61a6c9069512"
   },
   {
     "id": "offer-extra-20261002-sociaal-plein-almelo-inloop",
@@ -10556,7 +11020,8 @@
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/329199/invis2/sociaal-plein-almelo-de-inloop",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-plein-almelo-ka3maf"
+    "catalogOrganizationId": "org-sociaal-plein-almelo-ka3maf",
+    "catalogOfferId": "extra-20261002-sociaal-plein-almelo-inloop"
   },
   {
     "id": "offer-extra-20261002-swtd-crea-club",
@@ -10605,7 +11070,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-swtd-crea-club"
   },
   {
     "id": "offer-extra-20261002-swtd-dorpshuiskamer-vasse",
@@ -10650,7 +11116,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-swtd-dorpshuiskamer-vasse"
   },
   {
     "id": "offer-extra-20261002-swtd-huiskamer-manderveen",
@@ -10694,7 +11161,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-swtd-huiskamer-manderveen"
   },
   {
     "id": "offer-extra-20261002-swtd-huiskamer-kolenbranderhof",
@@ -10739,7 +11207,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-swtd-huiskamer-kolenbranderhof"
   },
   {
     "id": "offer-extra-20261002-swtd-cake-om-de-week",
@@ -10783,7 +11252,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-swtd-cake-om-de-week"
   },
   {
     "id": "offer-candidate-20261002-swtd-terra-nova",
@@ -10827,7 +11297,8 @@
     "locationSource": "https://www.zorggroepsintmaarten.nl/welzijn-en-dagbesteding-voor-ouderen/overzicht-dagvoorzieningen/de-inloop-in-terra-nova-te-tilligte/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "candidate-20261002-swtd-terra-nova"
   },
   {
     "id": "offer-candidate-20261002-swtd-inloop-veur-mekaar",
@@ -10867,7 +11338,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "candidate-20261002-swtd-inloop-veur-mekaar"
   },
   {
     "id": "offer-extra-20261002-swtd-kuiern-bie-de-mol",
@@ -10910,7 +11382,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-swtd-kuiern-bie-de-mol"
   },
   {
     "id": "offer-extra-20261002-swtd-open-eettafel-albergen",
@@ -10953,7 +11426,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-swtd-open-eettafel-albergen"
   },
   {
     "id": "offer-extra-20261002-swtd-open-eettafel-geesteren",
@@ -10995,7 +11469,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-swtd-open-eettafel-geesteren"
   },
   {
     "id": "offer-extra-20261002-dinkelland-open-eettafel-noord-deurningen",
@@ -11038,7 +11513,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-dinkelland-open-eettafel-noord-deurningen"
   },
   {
     "id": "offer-extra-20261002-dinkelland-open-eettafel-ootmarsum",
@@ -11081,7 +11557,8 @@
     "locationSource": "https://swtd.nl/events/open-eettafel-ootmarsum-met-spel/var/ri-6.l-L1/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-dinkelland-open-eettafel-ootmarsum"
   },
   {
     "id": "offer-extra-20261002-tubbergen-open-eettafel-reutum",
@@ -11124,7 +11601,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-tubbergen-open-eettafel-reutum"
   },
   {
     "id": "offer-extra-20261002-dinkelland-open-eettafel-rossum",
@@ -11167,7 +11645,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-dinkelland-open-eettafel-rossum"
   },
   {
     "id": "offer-extra-20261002-dinkelland-open-eettafel-weerselo",
@@ -11210,7 +11689,8 @@
     "locationSource": "https://swtd.nl/events/open-eettafel-weerselo/var/ri-20.l-L1/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-dinkelland-open-eettafel-weerselo"
   },
   {
     "id": "offer-extra-20261002-swtd-senioren-padel-tubbergen",
@@ -11254,7 +11734,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-swtd-senioren-padel-tubbergen"
   },
   {
     "id": "offer-extra-20261002-swtd-seniorenfit-geesteren",
@@ -11297,7 +11778,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-swtd-seniorenfit-geesteren"
   },
   {
     "id": "offer-candidate-20261002-swtd-seniorenkabinet-langeveen",
@@ -11341,7 +11823,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "candidate-20261002-swtd-seniorenkabinet-langeveen"
   },
   {
     "id": "offer-candidate-0ee0e58005b423df",
@@ -11383,7 +11866,8 @@
     "locationSource": "https://swtd.nl/ons-aanbod/vrijwillige-inzet-sociaal-contact/servicepunt",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "candidate-0ee0e58005b423df"
   },
   {
     "id": "offer-extra-20261002-swtd-walking-voetbal-denekamp",
@@ -11427,7 +11911,8 @@
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo"
+    "catalogOrganizationId": "org-sociaal-dat-werkt-vcvzyo",
+    "catalogOfferId": "extra-20261002-swtd-walking-voetbal-denekamp"
   },
   {
     "id": "offer-extra-20261005-speelgoed-kledingbank-twenterand",
@@ -11470,7 +11955,8 @@
     "locationSource": "https://speelgoed-kledingbanktwenterand.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-speelgoed-en-kledingbank-twenterand-m880ll"
+    "catalogOrganizationId": "org-speelgoed-en-kledingbank-twenterand-m880ll",
+    "catalogOfferId": "extra-20261005-speelgoed-kledingbank-twenterand"
   },
   {
     "id": "offer-extra-20261002-hof-gemeenschapscentrum-de-pol-bentelo",
@@ -11516,7 +12002,8 @@
     "locationSource": "https://www.hofvantwente.nl/direct-regelen/horeca-evenementen-en-vrije-tijd/vrije-tijd/cultuur/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-sport-en-gemeenschapscentrum-de-pol-bentelo-z54c0t"
+    "catalogOrganizationId": "org-sport-en-gemeenschapscentrum-de-pol-bentelo-z54c0t",
+    "catalogOfferId": "extra-20261002-hof-gemeenschapscentrum-de-pol-bentelo"
   },
   {
     "id": "offer-extra-20261003-hof-stadscentrum-parochiehuis-delden",
@@ -11558,7 +12045,8 @@
     "locationSource": "https://www.stadscentrum-hetparochiehuis.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-stadscentrum-het-parochiehuis-xyq4yb"
+    "catalogOrganizationId": "org-stadscentrum-het-parochiehuis-xyq4yb",
+    "catalogOfferId": "extra-20261003-hof-stadscentrum-parochiehuis-delden"
   },
   {
     "id": "offer-extra-20261002-borne-stefanshof",
@@ -11602,7 +12090,8 @@
     "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-stefanshof-borne-1n0zcfu"
+    "catalogOrganizationId": "org-stefanshof-borne-1n0zcfu",
+    "catalogOfferId": "extra-20261002-borne-stefanshof"
   },
   {
     "id": "offer-extra-20261002-borne-praathuis",
@@ -11645,7 +12134,8 @@
     "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-stichting-aandacht-voor-elkaar-1o35l26"
+    "catalogOrganizationId": "org-stichting-aandacht-voor-elkaar-1o35l26",
+    "catalogOfferId": "extra-20261002-borne-praathuis"
   },
   {
     "id": "offer-extra-20261005-getitfree",
@@ -11708,7 +12198,8 @@
     "locationSource": "https://www.getitfree.nl/Ontvangen/Aanmelden",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-stichting-getitfree-11hwgjt"
+    "catalogOrganizationId": "org-stichting-getitfree-11hwgjt",
+    "catalogOfferId": "extra-20261005-getitfree"
   },
   {
     "id": "offer-extra-20261005-help-anderen-hengelo",
@@ -11756,7 +12247,8 @@
     "locationSource": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-stichting-help-anderen-txsyxs"
+    "catalogOrganizationId": "org-stichting-help-anderen-txsyxs",
+    "catalogOfferId": "extra-20261005-help-anderen-hengelo"
   },
   {
     "id": "offer-extra-20261003-wierden-wijkcentrum-kandjoli",
@@ -11799,7 +12291,8 @@
     "locationSource": "https://www.wierden.nl/stembureaus-in-de-gemeente-wierden",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-stichting-kandjoli-i6hgrc"
+    "catalogOrganizationId": "org-stichting-kandjoli-i6hgrc",
+    "catalogOfferId": "extra-20261003-wierden-wijkcentrum-kandjoli"
   },
   {
     "id": "offer-extra-20261005-vincentius-oldenzaal",
@@ -11846,7 +12339,8 @@
     "locationSource": "https://www.vincentiusoldenzaal.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-stichting-vincentius-oldenzaal-194yez2"
+    "catalogOrganizationId": "org-stichting-vincentius-oldenzaal-194yez2",
+    "catalogOfferId": "extra-20261005-vincentius-oldenzaal"
   },
   {
     "id": "offer-candidate-20261002-tactus-herstel",
@@ -11900,7 +12394,8 @@
     "locationSource": "https://www.tactus.nl/locaties/enschede-locatie-raiffeisenstraat-75/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-tactus-intact-54ij04"
+    "catalogOrganizationId": "org-tactus-intact-54ij04",
+    "catalogOfferId": "candidate-20261002-tactus-herstel"
   },
   {
     "id": "offer-candidate-2d81c01f72ce1f2a",
@@ -11937,7 +12432,8 @@
     "locationSource": "https://socialekaart.almelo.nl/is/organisatie/326776/invis2/tejo-huis-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-tejo-huis-almelo-dlmyhr"
+    "catalogOrganizationId": "org-tejo-huis-almelo-dlmyhr",
+    "catalogOfferId": "candidate-2d81c01f72ce1f2a"
   },
   {
     "id": "offer-extra-20261002-borne-hertme-theaterhoes",
@@ -11978,7 +12474,8 @@
     "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-theaterhoes-hertme-pjlhsy"
+    "catalogOrganizationId": "org-theaterhoes-hertme-pjlhsy",
+    "catalogOfferId": "extra-20261002-borne-hertme-theaterhoes"
   },
   {
     "id": "offer-extra-20261002-viavie-buurtband",
@@ -12018,7 +12515,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/buurtband-repetitie-287/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-viavie-buurtband"
   },
   {
     "id": "offer-extra-20261002-rijssen-holten-buurthuiskamer-bolder",
@@ -12061,7 +12559,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/buurthuiskamer-de-haarschool-137/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-rijssen-holten-buurthuiskamer-bolder"
   },
   {
     "id": "offer-extra-20261002-rijssen-holten-buurthuiskamer-elshof",
@@ -12104,7 +12603,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/buurthuiskamer-de-elshof/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-rijssen-holten-buurthuiskamer-elshof"
   },
   {
     "id": "offer-extra-20261002-rijssen-holten-buurthuiskamer-hmv",
@@ -12147,7 +12647,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/buurthuiskamer-hmv/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-rijssen-holten-buurthuiskamer-hmv"
   },
   {
     "id": "offer-extra-20261003-rijssen-kern-van-zuid",
@@ -12189,7 +12690,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/recreatiebridge/?occurrence=2026-09-18",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261003-rijssen-kern-van-zuid"
   },
   {
     "id": "offer-extra-20261002-viavie-buurthuiskamer-oude-plus",
@@ -12229,7 +12731,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/buurthuiskamer-oude-plus/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-viavie-buurthuiskamer-oude-plus"
   },
   {
     "id": "offer-extra-20261002-viavie-fietslessen-statushouders-holten",
@@ -12272,7 +12775,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/fietslessen-voor-statushouders/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-viavie-fietslessen-statushouders-holten"
   },
   {
     "id": "offer-extra-20261002-viavie-jongerencentrum-hole-10",
@@ -12312,7 +12816,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/jongerencentrum-hole-10-3-548-922-720/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-viavie-jongerencentrum-hole-10"
   },
   {
     "id": "offer-extra-20261002-rijssen-holten-honk-seniorensoos",
@@ -12355,7 +12860,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/soos-voor-senioren-657-495/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-rijssen-holten-honk-seniorensoos"
   },
   {
     "id": "offer-extra-20261002-viavie-taalcaf-holten",
@@ -12395,7 +12901,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-336-292/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-viavie-taalcaf-holten"
   },
   {
     "id": "offer-extra-20261002-rijssen-holten-taalcafe-noabershof",
@@ -12441,7 +12948,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-rijssen-holten-taalcafe-noabershof"
   },
   {
     "id": "offer-extra-20261003-rijssen-taalcafe-zuid",
@@ -12485,7 +12993,8 @@
     "locationSource": "https://viaviewelzijn.nl/taalpunt/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261003-rijssen-taalcafe-zuid"
   },
   {
     "id": "offer-extra-20261002-viavie-voorliggende-dagvoorziening-de-paraplu",
@@ -12525,7 +13034,8 @@
     "locationSource": "https://viaviewelzijn.nl/ontmoeten-doen/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-viavie-voorliggende-dagvoorziening-de-paraplu"
   },
   {
     "id": "offer-extra-20261002-viavie-voorliggende-dagvoorziening-holten-hole-10",
@@ -12565,7 +13075,8 @@
     "locationSource": "https://viaviewelzijn.nl/ontmoeten-doen/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-viavie-voorliggende-dagvoorziening-holten-hole-10"
   },
   {
     "id": "offer-extra-20261002-viavie-wandelgroep-holten",
@@ -12605,7 +13116,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/wandelgroep/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-viavie-wandelgroep-holten"
   },
   {
     "id": "offer-extra-20261002-viavie-wandelgroep-rijssen",
@@ -12645,7 +13157,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/wandelgroep-923-544/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-viavie-wandelgroep-rijssen"
   },
   {
     "id": "offer-extra-20261002-viavie-wereldse-vrouwen-rijssen",
@@ -12688,7 +13201,8 @@
     "locationSource": "https://viaviewelzijn.nl/events/wereldse-vrouwen/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg"
+    "catalogOrganizationId": "org-viavie-welzijn-gwvlmg",
+    "catalogOfferId": "extra-20261002-viavie-wereldse-vrouwen-rijssen"
   },
   {
     "id": "offer-extra-20261005-voedselbank-hellendoorn",
@@ -12730,7 +13244,8 @@
     "locationSource": "https://voedselbankhellendoorn.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-voedselbank-hellendoorn-19vjjrt"
+    "catalogOrganizationId": "org-voedselbank-hellendoorn-19vjjrt",
+    "catalogOfferId": "extra-20261005-voedselbank-hellendoorn"
   },
   {
     "id": "offer-extra-20261005-voedselbank-losser",
@@ -12772,7 +13287,8 @@
     "locationSource": "https://voedselbanklosser.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-voedselbank-losser-1y8tsp5"
+    "catalogOrganizationId": "org-voedselbank-losser-1y8tsp5",
+    "catalogOfferId": "extra-20261005-voedselbank-losser"
   },
   {
     "id": "offer-extra-20261005-voedselbank-midden-twente",
@@ -12816,7 +13332,8 @@
     "locationSource": "https://voedselbankennederland.nl/voedselbank/midden-twente-hengelo/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-voedselbank-midden-twente-1i7st3a"
+    "catalogOrganizationId": "org-voedselbank-midden-twente-1i7st3a",
+    "catalogOfferId": "extra-20261005-voedselbank-midden-twente"
   },
   {
     "id": "offer-extra-20261005-voedselbank-oost-twente",
@@ -12859,7 +13376,8 @@
     "locationSource": "https://www.sociaalpleinoldenzaal.nl/is/organisatie/288179/invis2/voedselbank-oost-twente-afdeling-oldenzaal-dinkelland",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-voedselbank-oost-twente-kco4pd"
+    "catalogOrganizationId": "org-voedselbank-oost-twente-kco4pd",
+    "catalogOfferId": "extra-20261005-voedselbank-oost-twente"
   },
   {
     "id": "offer-extra-20261005-voedselbank-twenterand",
@@ -12901,7 +13419,8 @@
     "locationSource": "https://voedselbanktwenterand.nl/ik-zoek-hulp/dit-is-een-nieuwe-pagina-2/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-voedselbank-twenterand-manna-r44lz2"
+    "catalogOrganizationId": "org-voedselbank-twenterand-manna-r44lz2",
+    "catalogOfferId": "extra-20261005-voedselbank-twenterand"
   },
   {
     "id": "offer-extra-20261002-borne-wensinkhof-koffie",
@@ -12944,7 +13463,8 @@
     "locationSource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wensinkhof-16vgalr"
+    "catalogOrganizationId": "org-wensinkhof-16vgalr",
+    "catalogOfferId": "extra-20261002-borne-wensinkhof-koffie"
   },
   {
     "id": "offer-c-20261002-werkcentrum",
@@ -12997,7 +13517,8 @@
     "locationSource": "https://www.werkcentrumtwente.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-werkcentrum-twente-8g0och"
+    "catalogOrganizationId": "org-werkcentrum-twente-8g0och",
+    "catalogOfferId": "c-20261002-werkcentrum"
   },
   {
     "id": "offer-extra-20261002-hengelo-sterrentuin",
@@ -13035,7 +13556,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkcentrum-de-sterrentuin-1jq7jfa"
+    "catalogOrganizationId": "org-wijkcentrum-de-sterrentuin-1jq7jfa",
+    "catalogOfferId": "extra-20261002-hengelo-sterrentuin"
   },
   {
     "id": "offer-extra-20261002-hengelo-wijkcentrum-tempel",
@@ -13073,7 +13595,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkcentrum-de-tempel-vzb3xa"
+    "catalogOrganizationId": "org-wijkcentrum-de-tempel-vzb3xa",
+    "catalogOfferId": "extra-20261002-hengelo-wijkcentrum-tempel"
   },
   {
     "id": "offer-extra-20261005-goossenmaat-almelo",
@@ -13119,7 +13642,8 @@
     "locationSource": "https://almelo.nl/wijkcentrum/goossenmaat",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkcentrum-goossenmaat-1mpa1vd"
+    "catalogOrganizationId": "org-wijkcentrum-goossenmaat-1mpa1vd",
+    "catalogOfferId": "extra-20261005-goossenmaat-almelo"
   },
   {
     "id": "offer-extra-20261002-hengelo-wijkcentrum-hengelose-es",
@@ -13157,7 +13681,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkcentrum-hengelose-es-1d4qpra"
+    "catalogOrganizationId": "org-wijkcentrum-hengelose-es-1d4qpra",
+    "catalogOfferId": "extra-20261002-hengelo-wijkcentrum-hengelose-es"
   },
   {
     "id": "offer-extra-20261005-mollnwiek-almelo",
@@ -13202,7 +13727,8 @@
     "locationSource": "https://almelo.nl/wijkcentrum/mollnwiek",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkcentrum-moll-nwiek-1d8zsui"
+    "catalogOrganizationId": "org-wijkcentrum-moll-nwiek-1d8zsui",
+    "catalogOfferId": "extra-20261005-mollnwiek-almelo"
   },
   {
     "id": "offer-extra-20261002-hengelo-wijkcentrum-slangenbeek",
@@ -13240,7 +13766,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkcentrum-slangenbeek-3akkbz"
+    "catalogOrganizationId": "org-wijkcentrum-slangenbeek-3akkbz",
+    "catalogOfferId": "extra-20261002-hengelo-wijkcentrum-slangenbeek"
   },
   {
     "id": "offer-extra-20261003-almelo-wijkkamer-dok",
@@ -13281,7 +13808,8 @@
     "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkkamer-t-dok-1hx3sez"
+    "catalogOrganizationId": "org-wijkkamer-t-dok-1hx3sez",
+    "catalogOfferId": "extra-20261003-almelo-wijkkamer-dok"
   },
   {
     "id": "offer-candidate-3bf89bc92e8be805",
@@ -13322,7 +13850,8 @@
     "locationSource": "https://www.wijkrachtborne.nl/onze-diensten/volwassenen/anwb-automaatje",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkracht-borne-1vcxyoy"
+    "catalogOrganizationId": "org-wijkracht-borne-1vcxyoy",
+    "catalogOfferId": "candidate-3bf89bc92e8be805"
   },
   {
     "id": "offer-extra-20261002-borne-mantelzorgcafe",
@@ -13363,7 +13892,8 @@
     "locationSource": "https://www.sociaalhus.nl/agenda/tabel?doelgroepen=ouders",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkracht-borne-1vcxyoy"
+    "catalogOrganizationId": "org-wijkracht-borne-1vcxyoy",
+    "catalogOfferId": "extra-20261002-borne-mantelzorgcafe"
   },
   {
     "id": "offer-candidate-339491fe9dc52f8c",
@@ -13407,7 +13937,8 @@
     "locationSource": "https://sociaalhus.nl/agenda/18824/odensehuis",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkracht-borne-1vcxyoy"
+    "catalogOrganizationId": "org-wijkracht-borne-1vcxyoy",
+    "catalogOfferId": "candidate-339491fe9dc52f8c"
   },
   {
     "id": "offer-extra-20261002-hengelo-swafert",
@@ -13450,7 +13981,8 @@
     "locationSource": "https://www.wijkrachthengelo.nl/groot-driene/agenda/31113/inloop",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6"
+    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6",
+    "catalogOfferId": "extra-20261002-hengelo-swafert"
   },
   {
     "id": "offer-extra-20261002-wijkracht-wijkhuys-hasselo",
@@ -13493,7 +14025,8 @@
     "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6"
+    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6",
+    "catalogOfferId": "extra-20261002-wijkracht-wijkhuys-hasselo"
   },
   {
     "id": "offer-extra-20261002-wijkracht-wijkhuys-nijverheid",
@@ -13536,7 +14069,8 @@
     "locationSource": "https://www.wijkracht.nl/onze-diensten/persoonlijke-ondersteuning/wijkhuyzen-hengelo",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6"
+    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6",
+    "catalogOfferId": "extra-20261002-wijkracht-wijkhuys-nijverheid"
   },
   {
     "id": "offer-extra-20261002-hengelo-wijkhuys-weidedorp",
@@ -13585,7 +14119,8 @@
     "locationSource": "https://www.wijkrachthengelo.nl/organisaties/10461/wijkhuys-weidedorp",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6"
+    "catalogOrganizationId": "org-wijkracht-hengelo-19691n6",
+    "catalogOfferId": "extra-20261002-hengelo-wijkhuys-weidedorp"
   },
   {
     "id": "offer-extra-20261002-borne-koffie-proat",
@@ -13628,7 +14163,8 @@
     "locationSource": "https://www.sociaalhus.nl/agenda/28400/koffie-proat-in-de-spil",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkracht-ouderen-borne-15tvhym"
+    "catalogOrganizationId": "org-wijkracht-ouderen-borne-15tvhym",
+    "catalogOfferId": "extra-20261002-borne-koffie-proat"
   },
   {
     "id": "offer-extra-20261002-borne-ontmoeting-zondag",
@@ -13670,7 +14206,8 @@
     "locationSource": "https://sociaalhus.nl/publicaties/582/ontmoeten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkracht-ouderen-borne-15tvhym"
+    "catalogOrganizationId": "org-wijkracht-ouderen-borne-15tvhym",
+    "catalogOfferId": "extra-20261002-borne-ontmoeting-zondag"
   },
   {
     "id": "offer-extra-20261002-borne-letterbak",
@@ -13714,7 +14251,8 @@
     "locationSource": "https://www.sociaalhus.nl/agenda/24218/ontmoetingsgroep-in-de-letterbak",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkracht-ouderen-borne-15tvhym"
+    "catalogOrganizationId": "org-wijkracht-ouderen-borne-15tvhym",
+    "catalogOfferId": "extra-20261002-borne-letterbak"
   },
   {
     "id": "offer-extra-20261002-hof-doesgoor",
@@ -13762,7 +14300,8 @@
     "locationSource": "https://www.wijkvoorzieningdoesgoor.nl/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkvoorziening-t-doesgoor-5lc5kh"
+    "catalogOrganizationId": "org-wijkvoorziening-t-doesgoor-5lc5kh",
+    "catalogOfferId": "extra-20261002-hof-doesgoor"
   },
   {
     "id": "offer-extra-20261002-wijkwijzer--t-proathuus",
@@ -13809,571 +14348,8 @@
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-boswinkel-t-ni-je-terphoes",
-    "name": "Wijkwijzer Enschede · Boswinkel - 't Ni-je Terphoes",
-    "category": "advies",
-    "address": "Noordhollandstraat 4",
-    "postcode": "7543WB",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.20502893,
-    "lon": 6.88230934,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-boswinkel-speeltuin-boswinkel",
-    "name": "Wijkwijzer Enschede · Boswinkel - Speeltuin Boswinkel",
-    "category": "advies",
-    "address": "Beneluxlaan 50",
-    "postcode": "7543XT",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.20398081,
-    "lon": 6.8768224,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-centrum",
-    "name": "Wijkwijzer Enschede · Centrum",
-    "category": "advies",
-    "address": "Hoge Bothofstraat 49",
-    "postcode": "7511ZA",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.22306902,
-    "lon": 6.90400645,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-de-boei",
-    "name": "Wijkwijzer Enschede · De Boei",
-    "category": "advies",
-    "address": "Spinnerstraat 27A",
-    "postcode": "7545TP",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.2115792,
-    "lon": 6.87571778,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-de-dorpskamer",
-    "name": "Wijkwijzer Enschede · De Dorpskamer",
-    "category": "advies",
-    "address": "Schipholtstraat 48B",
-    "postcode": "7534CZ",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.21370556,
-    "lon": 6.97164919,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-de-magneet",
-    "name": "Wijkwijzer Enschede · De Magneet",
-    "category": "advies",
-    "address": "Hertmebrink 1",
-    "postcode": "7544DC",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.19270077,
-    "lon": 6.8756301,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-de-vrije-ruimte",
-    "name": "Wijkwijzer Enschede · De Vrije Ruimte",
-    "category": "advies",
-    "address": "Olympialaan 20",
-    "postcode": "7541BK",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.20672753,
-    "lon": 6.90826728,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-het-kompas",
-    "name": "Wijkwijzer Enschede · Het Kompas",
-    "category": "advies",
-    "address": "Lijsterstraat 11",
-    "postcode": "7523ER",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.23839329,
-    "lon": 6.88498393,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-lumen",
-    "name": "Wijkwijzer Enschede · Lumen",
-    "category": "advies",
-    "address": "Velveweg 54",
-    "postcode": "7533XK",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.2203326,
-    "lon": 6.91847412,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-ontmoetingskerk",
-    "name": "Wijkwijzer Enschede · Ontmoetingskerk",
-    "category": "advies",
-    "address": "Dr. Wagenaarstraat 6",
-    "postcode": "7541XK",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.20997965,
-    "lon": 6.89902378,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-stroinkshuis",
-    "name": "Wijkwijzer Enschede · Stroinkshuis",
-    "category": "advies",
-    "address": "Het Stroink 64",
-    "postcode": "7542GT",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.18841466,
-    "lon": 6.90096801,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
-  },
-  {
-    "id": "offer-extra-20261002-wijkwijzer-vosta",
-    "name": "Wijkwijzer Enschede · Vosta",
-    "category": "advies",
-    "address": "Minkmaatstraat 173",
-    "postcode": "7531AX",
-    "town": "Enschede",
-    "municipality": "Enschede",
-    "serviceMunicipalities": [
-      "Enschede"
-    ],
-    "lat": 52.23068894,
-    "lon": 6.90914497,
-    "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "checked": "2026-10-02",
-    "tags": [
-      "advies",
-      "inloop",
-      "geld",
-      "administratie",
-      "werk en inkomen",
-      "opvoeden",
-      "buurt"
-    ],
-    "subthemes": [
-      "inloop",
-      "informatie",
-      "geld",
-      "opvoeden"
-    ],
-    "guidePaths": [
-      "ontmoeten/inloop"
-    ],
-    "guideExclude": false,
-    "description": "Laagdrempelige Wijkwijzer-inloop voor vragen, informatie, praktische hulp en doorverwijzing. Op verschillende momenten sluiten ook partners aan.",
-    "audience": "Inwoners van Enschede.",
-    "costs": "Gratis.",
-    "access": "Vrije inloop op de actuele openingstijden.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6"
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer--t-proathuus"
   },
   {
     "id": "offer-extra-20261002-hengelo-voskamp",
@@ -14410,7 +14386,8 @@
     "locationSource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wooncentrum-t-voskamp-jmzuoq"
+    "catalogOrganizationId": "org-wooncentrum-t-voskamp-jmzuoq",
+    "catalogOfferId": "extra-20261002-hengelo-voskamp"
   },
   {
     "id": "offer-extra-20261005-zelfregieteam-borne",
@@ -14456,7 +14433,8 @@
     "locationSource": "https://zelfregieteamborne.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zelfregieteam-borne-8yhz41"
+    "catalogOrganizationId": "org-zelfregieteam-borne-8yhz41",
+    "catalogOfferId": "extra-20261005-zelfregieteam-borne"
   },
   {
     "id": "offer-extra-20261005-zinin-bibliotheek",
@@ -14504,7 +14482,8 @@
     "locationSource": "https://www.zinin.com/zinin-bibliotheek/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zinin-bibliotheek-ru1run"
+    "catalogOrganizationId": "org-zinin-bibliotheek-ru1run",
+    "catalogOfferId": "extra-20261005-zinin-bibliotheek"
   },
   {
     "id": "offer-extra-20261002-zorgadvies-twente-dagopvang-zonder-indicatie",
@@ -14545,7 +14524,8 @@
     "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgadvies-twente-1jhn6l6"
+    "catalogOrganizationId": "org-zorgadvies-twente-1jhn6l6",
+    "catalogOfferId": "extra-20261002-zorgadvies-twente-dagopvang-zonder-indicatie"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-buurthuiskamer-vriezenveen",
@@ -14584,7 +14564,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorgsaam-buurthuiskamer-vriezenveen"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-buurthuiskamer-vroomshoop",
@@ -14623,7 +14604,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorgsaam-buurthuiskamer-vroomshoop"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-buurthuiskamer-westerhaar",
@@ -14662,7 +14644,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/in-de-buurt/welkom-in-de-buurthuiskamer/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorgsaam-buurthuiskamer-westerhaar"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-de-creatieve-club-vroomshoop",
@@ -14703,7 +14686,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/creatieve-club/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorgsaam-de-creatieve-club-vroomshoop"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-eetmee-den-ham",
@@ -14742,7 +14726,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorgsaam-eetmee-den-ham"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-eetmee-vriezenveen",
@@ -14781,7 +14766,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorgsaam-eetmee-vriezenveen"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-eetmee-vroomshoop",
@@ -14820,7 +14806,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorgsaam-eetmee-vroomshoop"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-eetmee-westerhaar",
@@ -14859,7 +14846,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorgsaam-eetmee-westerhaar"
   },
   {
     "id": "offer-candidate-20261002-zorgsaam-formulieren-vriezenveen",
@@ -14899,7 +14887,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
     "mapLocationType": "address",
     "physicalLocation": false,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "candidate-20261002-zorgsaam-formulieren-vriezenveen"
   },
   {
     "id": "offer-candidate-20261002-zorgsaam-formulieren-vroomshoop",
@@ -14939,7 +14928,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/gemeentelijke-regelingen-laag-inkomen",
     "mapLocationType": "address",
     "physicalLocation": false,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "candidate-20261002-zorgsaam-formulieren-vroomshoop"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-keerls-proat-vriezenveen",
@@ -14980,7 +14970,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/keerls-proat/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorgsaam-keerls-proat-vriezenveen"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-ontmoetingscentrum-den-ham",
@@ -15023,7 +15014,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorgsaam-ontmoetingscentrum-den-ham"
   },
   {
     "id": "offer-extra-20261002-zorgsaam-ontmoetingscentrum-vriezenveen",
@@ -15066,7 +15058,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorgsaam-ontmoetingscentrum-vriezenveen"
   },
   {
     "id": "offer-c-20261002-zorgsaam-rank",
@@ -15107,7 +15100,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "c-20261002-zorgsaam-rank"
   },
   {
     "id": "offer-extra-20261002-zorginformatiepunt-den-ham",
@@ -15157,7 +15151,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorginformatiepunt-den-ham"
   },
   {
     "id": "offer-extra-20261002-zorginformatiepunt-vriezenveen",
@@ -15207,7 +15202,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorginformatiepunt-vriezenveen"
   },
   {
     "id": "offer-extra-20261002-zorginformatiepunt-vroomshoop",
@@ -15257,7 +15253,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorginformatiepunt-vroomshoop"
   },
   {
     "id": "offer-extra-20261002-zorginformatiepunt-westerhaar",
@@ -15307,7 +15304,8 @@
     "locationSource": "https://www.zorgsaamtwenterand.nl/contact/",
     "mapLocationType": "address",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn"
+    "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
+    "catalogOfferId": "extra-20261002-zorginformatiepunt-westerhaar"
   },
   {
     "id": "catalog-org-t-noaberhoes-1oywfzc",
