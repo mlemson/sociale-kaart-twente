@@ -8988,8 +8988,8 @@
       ],
       "sourceTitle": "Sociaal, dat werkt!",
       "sourceKind": "provider",
-      "checked": "2026-09-15",
-      "category": "jeugd",
+      "checked": "2026-10-05",
+      "category": "geld",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -8998,15 +8998,18 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
+        "geld",
         "jeugd"
       ],
       "subthemes": [
-        "geldzorgen",
-        "jeugd"
+        "regelingen",
+        "kinderen"
       ],
       "tags": [
+        "geld",
+        "regelingen",
         "jeugd",
-        "geldzorgen"
+        "kindpakket"
       ],
       "enrichment": {
         "version": 2,
@@ -9038,14 +9041,17 @@
           "town"
         ]
       },
-      "primaryTheme": "jeugd",
+      "primaryTheme": "geld",
       "postcode": "7651LZ",
       "lat": 52.41076671,
       "lon": 6.78027092,
       "locationMunicipality": "Tubbergen",
       "locationType": "contact",
       "locationSource": "https://swtd.nl/contact",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/regelingen"
+      ]
     },
     {
       "id": "candidate-32b8f7bedf7e8809",
@@ -16373,7 +16379,7 @@
     },
     {
       "sourceKind": "first-party",
-      "checked": "2026-10-01",
+      "checked": "2026-10-05",
       "accessStatus": "source-check",
       "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
       "status": "candidate",
@@ -16384,7 +16390,7 @@
         "Enschede"
       ],
       "sourceTitle": "Stichting Leergeld Enschede",
-      "category": "bewegen",
+      "category": "geld",
       "access": "Aanvraag voor gezinnen met geldzorgen die aan de voorwaarden van Leergeld Enschede voldoen.",
       "description": "Hulp bij onder meer sportlidmaatschap, cultuurdeelname, zwemles en benodigde kleding of materialen.",
       "address": "Haaksbergerstraat 153",
@@ -16395,25 +16401,25 @@
       "audience": "Kinderen tot en met 17 jaar uit gezinnen met weinig financiële ruimte.",
       "costs": "Voor gezinnen die aan de voorwaarden voldoen worden voorzieningen geheel of gedeeltelijk betaald.",
       "themes": [
-        "bewegen",
         "geld",
-        "jeugd"
+        "jeugd",
+        "bewegen"
       ],
       "subthemes": [
+        "regelingen",
         "sport",
-        "cultuur",
-        "zwemles"
+        "cultuur"
       ],
       "tags": [
-        "bewegen",
         "geld",
+        "regelingen",
         "jeugd",
         "sport",
         "cultuur",
-        "zwemles"
+        "leergeld"
       ],
       "municipality": "Enschede",
-      "primaryTheme": "bewegen",
+      "primaryTheme": "geld",
       "lat": 52.21290938,
       "lon": 6.8862021,
       "locationMunicipality": "Enschede",
@@ -16513,7 +16519,7 @@
     },
     {
       "sourceKind": "first-party",
-      "checked": "2026-10-01",
+      "checked": "2026-10-05",
       "accessStatus": "source-check",
       "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
       "status": "candidate",
@@ -16524,7 +16530,7 @@
         "Enschede"
       ],
       "sourceTitle": "Jeugdfonds Sport & Cultuur Enschede",
-      "category": "bewegen",
+      "category": "geld",
       "access": "Aanvraag voor ouders met geldzorgen; in Enschede loopt dit samen met Stichting Leergeld Enschede.",
       "description": "Het fonds betaalt voor kinderen uit gezinnen met geldzorgen (een deel van) contributie, lesgeld en benodigde materialen voor sport en cultuur.",
       "address": "Haaksbergerstraat 153",
@@ -16535,23 +16541,25 @@
       "audience": "Kinderen tot en met 17 jaar uit gezinnen met geldzorgen.",
       "costs": "Voor deelnemers die aan de voorwaarden voldoen wordt de bijdrage door het fonds betaald.",
       "themes": [
-        "bewegen",
         "geld",
-        "jeugd"
+        "jeugd",
+        "bewegen"
       ],
       "subthemes": [
+        "regelingen",
         "sport",
         "cultuur"
       ],
       "tags": [
-        "bewegen",
         "geld",
+        "regelingen",
         "jeugd",
         "sport",
-        "cultuur"
+        "cultuur",
+        "jeugdfonds"
       ],
       "municipality": "Enschede",
-      "primaryTheme": "bewegen",
+      "primaryTheme": "geld",
       "lat": 52.21290938,
       "lon": 6.8862021,
       "locationMunicipality": "Enschede",
