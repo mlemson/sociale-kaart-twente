@@ -451,8 +451,11 @@
           "samen eten",
           "eetmee",
           "resto",
-          "maaltijd",
-          "wereldse vrouwen",
+          "eettafel",
+          "eetsoos",
+          "buurtmaaltijd",
+          "gezamenlijke maaltijd",
+          "samen koken",
           "koffie proat"
         ]
       },
@@ -685,7 +688,10 @@
           "voedselpakket",
           "noodpakket",
           "boodschappenkaart",
-          "maaltijdservice"
+          "maaltijdservice",
+          "maaltijdvoorziening",
+          "maaltijdbezorging",
+          "tafeltje dekje"
         ]
       },
       {
