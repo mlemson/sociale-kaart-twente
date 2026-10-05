@@ -448,7 +448,7 @@
       content + miniMapHtml(record, mapIndex) + "</article>";
   }
 
-  function renderOfferDetail(record, contextNode, backToSearch) {
+  function renderOfferDetail(record, contextNode, backToSearch, returnHref = "") {
     if (!record) return;
     const results = byId("guide-results");
     const title = record.title || record.organization || "Voorziening";
@@ -460,14 +460,20 @@
     byId("guide-status").textContent = "Concrete voorziening";
 
     clearDetailMaps();
+    const backLabel = returnHref ? "← Terug naar sociale kaart" : "← Terug naar resultaten";
     results.innerHTML =
-      '<div class="guide-detail-toolbar"><button class="guide-back guide-result-back" id="guide-offer-back" type="button">← Terug naar resultaten</button></div>' +
+      '<div class="guide-detail-toolbar"><button class="guide-back guide-result-back" id="guide-offer-back" type="button">' + esc(backLabel) + '</button></div>' +
       '<div class="guide-detail-list">' + offerDetailCard(record, 0) + "</div>";
     initMiniMaps([record]);
 
     byId("guide-offer-back").addEventListener("click", () => {
+      if (returnHref) {
+        location.href = returnHref;
+        return;
+      }
       if (backToSearch) renderSearch(byId("guide-search").value.trim());
-      else renderOffers(forNode(contextNode), contextNode);
+      else if (contextNode) renderOffers(forNode(contextNode), contextNode);
+      else render();
     });
   }
 
@@ -569,6 +575,7 @@
 
   function normalizeData(catalog, facilities, curated) {
     const list = [];
+    const catalogById = new Map((catalog || []).filter(group => group && group.id).map(group => [group.id, group]));
     const physicalAddressIndex = new Map();
     const addressKey = item => norm([item.address, item.town].filter(Boolean).join("|"));
     (facilities || []).forEach(facility => {
@@ -590,6 +597,8 @@
         const offerAreas = uniq([...(offer.municipalities || []), offer.municipality]);
         list.push({
           id: offer.id || (group.id || norm(organization)) + "-" + index,
+          catalogOrganizationId: group.id || "",
+          catalogOfferId: offer.id || "",
           organization,
           title: offer.title || offer.name || organization,
           municipalities: offerAreas.length ? offerAreas : uniq(group.municipalities || []),
@@ -626,41 +635,60 @@
       });
     });
 
-    (facilities || []).forEach(facility => list.push({
-      id: facility.id,
-      organization: String(facility.name || "").split(" · ")[0] || facility.name,
-      title: String(facility.name || "").includes(" · ") ? String(facility.name || "").split(" · ").slice(1).join(" · ").trim() : facility.name,
-      municipalities: uniq([facility.municipality, ...(facility.serviceMunicipalities || []), ...(facility.municipalities || [])]),
-      description: facility.description || "",
-      audience: facility.audience || "",
-      access: facility.access || "",
-      costs: facility.costs || "",
-      openingHours: facility.openingHours || "",
-      phone: facility.phone || "",
-      email: facility.email || "",
-      address: facility.address || "",
-      postcode: facility.postcode || "",
-      town: facility.town || "",
-      locationMunicipality: facility.locationMunicipality || "",
-      locationType: facility.locationType || "",
-      mapLocationType: facility.mapLocationType || "",
-      physicalLocation: facility.physicalLocation === true,
-      lat: Number.isFinite(facility.lat) ? facility.lat : null,
-      lon: Number.isFinite(facility.lon) ? facility.lon : null,
-      source: facility.source || "",
-      themes: facility.themes || [],
-      subthemes: facility.subthemes || [],
-      tags: uniq([...(facility.tags || []), facility.category]),
-      guidePaths: facility.guidePaths || [],
-      guideExclude: Boolean(facility.guideExclude),
-      activityOnly: Boolean(facility.activityOnly),
-      activities: facility.activities || [],
-      activitiesNote: facility.activitiesNote || "",
-      activitiesSource: facility.activitiesSource || "",
-      activitiesUpdated: facility.activitiesUpdated || "",
-      category: facility.category || "",
-      checked: facility.checked || ""
-    }));
+    (facilities || []).forEach(facility => {
+      const linkedGroup = facility.catalogOrganizationId ? catalogById.get(facility.catalogOrganizationId) : null;
+      const linkedOffer = linkedGroup && facility.catalogOfferId
+        ? (linkedGroup.offers || []).find(offer => offer.id === facility.catalogOfferId)
+        : null;
+
+      // De kaartlocatie verrijkt het catalogusaanbod; hij wordt niet nogmaals
+      // als losse Wegwijzer-voorziening getoond.
+      if (linkedGroup && !linkedOffer && String(facility.id || "").startsWith("catalog-")) return;
+
+      const rawName = String(facility.name || "");
+      const fallbackOrganization = rawName.split(" · ")[0] || facility.name;
+      const fallbackTitle = rawName.includes(" · ")
+        ? rawName.split(" · ").slice(1).join(" · ").trim()
+        : facility.name;
+
+      list.push({
+        id: linkedOffer?.id || facility.id,
+        catalogOrganizationId: linkedGroup?.id || facility.catalogOrganizationId || "",
+        catalogOfferId: linkedOffer?.id || facility.catalogOfferId || "",
+        organization: linkedGroup?.organization || fallbackOrganization,
+        title: linkedOffer?.title || linkedOffer?.name || fallbackTitle,
+        municipalities: uniq([facility.municipality, ...(facility.serviceMunicipalities || []), ...(facility.municipalities || [])]),
+        description: facility.description || "",
+        audience: facility.audience || "",
+        access: facility.access || "",
+        costs: facility.costs || "",
+        openingHours: facility.openingHours || "",
+        phone: facility.phone || "",
+        email: facility.email || "",
+        address: facility.address || "",
+        postcode: facility.postcode || "",
+        town: facility.town || "",
+        locationMunicipality: facility.locationMunicipality || "",
+        locationType: facility.locationType || "",
+        mapLocationType: facility.mapLocationType || "",
+        physicalLocation: facility.physicalLocation === true,
+        lat: Number.isFinite(facility.lat) ? facility.lat : null,
+        lon: Number.isFinite(facility.lon) ? facility.lon : null,
+        source: facility.source || "",
+        themes: facility.themes || [],
+        subthemes: facility.subthemes || [],
+        tags: uniq([...(facility.tags || []), facility.category]),
+        guidePaths: facility.guidePaths || [],
+        guideExclude: Boolean(facility.guideExclude),
+        activityOnly: Boolean(facility.activityOnly),
+        activities: facility.activities || [],
+        activitiesNote: facility.activitiesNote || "",
+        activitiesSource: facility.activitiesSource || "",
+        activitiesUpdated: facility.activitiesUpdated || "",
+        category: facility.category || "",
+        checked: facility.checked || ""
+      });
+    });
 
     (curated || []).forEach(item => list.push({...item, referenceOnly: true}));
 
@@ -760,6 +788,53 @@
     }
   }
 
+  function mapReturnHref() {
+    const params = new URLSearchParams();
+    const area = municipality();
+    if (area) params.set("gemeente", area);
+    const query = params.toString();
+    return "index.html" + (query ? "?" + query : "");
+  }
+
+  function renderRequestedRecord(params) {
+    const requestedOffer = params.get("voorziening") || "";
+    const requestedOrganization = params.get("organisatie") || "";
+
+    if (requestedOffer) {
+      const record = records.find(item => item.id === requestedOffer || item.catalogOfferId === requestedOffer);
+      if (record) {
+        renderOfferDetail(record, null, false, mapReturnHref());
+        return true;
+      }
+    }
+
+    if (requestedOrganization) {
+      const items = records.filter(item =>
+        item.catalogOrganizationId === requestedOrganization &&
+        !item.guideExclude &&
+        !item.activityOnly &&
+        inMunicipality(item)
+      );
+      if (items.length === 1) {
+        renderOfferDetail(items[0], null, false, mapReturnHref());
+        return true;
+      }
+      if (items.length) {
+        renderOffers(items, null);
+        const organization = items[0].organization || "Voorziening";
+        byId("guide-heading").textContent = organization;
+        byId("guide-subheading").textContent = items.length + " onderdelen en activiteiten van deze voorziening.";
+        const results = byId("guide-results");
+        results.insertAdjacentHTML("afterbegin",
+          '<div class="guide-detail-toolbar"><button class="guide-back guide-result-back" id="guide-map-back" type="button">← Terug naar sociale kaart</button></div>'
+        );
+        byId("guide-map-back").addEventListener("click", () => { location.href = mapReturnHref(); });
+        return true;
+      }
+    }
+    return false;
+  }
+
   async function init() {
     setupTheme();
     const loaded = await Promise.all([
@@ -774,6 +849,11 @@
 
     const areas = uniq(records.flatMap(record => record.municipalities || [])).filter(area => area && area !== "Twente").sort((a, b) => a.localeCompare(b, "nl-NL"));
     byId("guide-municipality").innerHTML = '<option value="">Heel Twente</option>' + areas.map(area => "<option>" + esc(area) + "</option>").join("");
+
+    const initialParams = new URLSearchParams(location.search);
+    const requestedArea = initialParams.get("gemeente") || "";
+    const matchedArea = areas.find(area => norm(area) === norm(requestedArea));
+    if (matchedArea) byId("guide-municipality").value = matchedArea;
 
     byId("guide-municipality").addEventListener("change", render);
     byId("guide-search").addEventListener("input", () => {
@@ -795,7 +875,7 @@
     addEventListener("hashchange", () => { readHash(); render(); });
 
     byId("guide-status").textContent = records.length ? "" : "Er konden geen gegevens worden geladen.";
-    render();
+    if (!renderRequestedRecord(initialParams)) render();
   }
 
   init();
