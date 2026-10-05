@@ -53,6 +53,7 @@ def record_text(record):
 taxonomy = load("data/wegwijzer-themas.json")
 leaf_nodes = list(leaves(taxonomy))
 catalog = load("data/catalog.json")
+facilities = load("data/facilities.json")
 curated = load("data/wegwijzer-curated.json")
 
 records = []
@@ -81,6 +82,35 @@ for group in catalog:
             "activities": offer.get("activities") or [],
             "activitiesNote": offer.get("activitiesNote") or "",
         })
+# De openbare Wegwijzer leest naast de catalogus ook fysieke voorzieningen.
+# Neem hier alleen expliciet gerouteerde faciliteiten mee: generieke kaartpunten
+# horen niet via trefwoorden onbedoeld extra Wegwijzer-routes te krijgen.
+for facility in facilities:
+    if not facility.get("guidePaths"):
+        continue
+    areas = list(dict.fromkeys([
+        *(facility.get("serviceMunicipalities") or []),
+        *(facility.get("municipalities") or []),
+        *([facility.get("municipality")] if facility.get("municipality") else []),
+    ]))
+    records.append({
+        "organization": facility.get("name") or "",
+        "title": facility.get("name") or "",
+        "municipalities": areas,
+        "description": facility.get("description") or "",
+        "audience": facility.get("audience") or "",
+        "access": facility.get("access") or "",
+        "costs": facility.get("costs") or "",
+        "themes": facility.get("themes") or [],
+        "subthemes": facility.get("subthemes") or [],
+        "tags": facility.get("tags") or [],
+        "routeTags": facility.get("routeTags") or [],
+        "guidePaths": facility.get("guidePaths") or [],
+        "guideExclude": bool(facility.get("guideExclude")),
+        "activities": facility.get("activities") or [],
+        "activitiesNote": facility.get("activitiesNote") or "",
+    })
+
 records.extend(curated)
 
 automatic = []
