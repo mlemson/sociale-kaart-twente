@@ -95,42 +95,90 @@ def dedupe_candidates(candidates):
 def facility_site_key(v):
     if not has_location(v):
         return ""
+    lat, lon = v.get("lat"), v.get("lon")
+    if isinstance(lat, (int, float)) and isinstance(lon, (int, float)):
+        # Coördinaten zijn bij handmatige en verrijkte varianten stabieler dan
+        # schrijfwijzen als Dr./Doctor of een wel/niet ingevulde postcode.
+        return f"{lat:.6f}|{lon:.6f}"
     return "|".join([
         normalized(v.get("address") or ""),
-        re.sub(r"\s+", "", (v.get("postcode") or "")).casefold(),
         normalized(v.get("town") or ""),
     ])
 
-def dedupe_facilities(facilities):
-    """Één fysieke kaartvermelding per bron en exact bezoekadres.
+def facility_source_key(v):
+    name = normalized(v.get("name") or "")
+    municipality = normalized(v.get("municipality") or "")
+    if municipality == "enschede" and name.startswith("wijkwijzer "):
+        # Dezelfde Wijkwijzer-locatie kan uit de gemeentepagina én uit
+        # wijkwijzerenschede.nl komen. Dat zijn geen twee voorzieningen.
+        return "wijkwijzer-enschede"
+    return (v.get("source") or "").strip().casefold()
 
-    Het volledige onderliggende aanbod blijft in catalog.json staan; alleen de
-    kaart/lijst wordt niet meer opgeblazen door meerdere activiteiten op één plek.
+def dedupe_facilities(facilities):
+    """Één fysieke kaartvermelding per bron/voorziening en bezoeklocatie.
+
+    Het volledige onderliggende aanbod blijft in catalog.json staan. Gekoppelde
+    catalogusidentiteiten worden op de overblijvende kaartlocatie bewaard, zodat
+    de kaart rechtstreeks naar dezelfde voorziening in de Wegwijzer kan linken.
     """
     out = []
     seen = {}
     for item in facilities:
         site = facility_site_key(item)
-        source = (item.get("source") or "").strip().casefold()
-        if not item.get("physicalLocation") or not site or not source:
+        source_key = facility_source_key(item)
+        if not item.get("physicalLocation") or not site or not source_key:
             out.append(item)
             continue
-        key = (site, source)
+        key = (site, source_key)
         if key not in seen:
             seen[key] = item
             out.append(item)
             continue
         current = seen[key]
-        for field in ("tags", "subthemes", "serviceMunicipalities"):
+        for field in ("tags", "subthemes", "serviceMunicipalities", "guidePaths"):
             merged = []
             for value in [*(current.get(field) or []), *(item.get(field) or [])]:
                 if value and value not in merged:
                     merged.append(value)
             current[field] = merged
+        if item.get("activities"):
+            known = {
+                normalized("|".join([
+                    str(activity.get("name") or ""),
+                    str(activity.get("location") or ""),
+                    str(activity.get("schedule") or ""),
+                ]))
+                for activity in (current.get("activities") or [])
+                if isinstance(activity, dict)
+            }
+            current.setdefault("activities", [])
+            for activity in item.get("activities") or []:
+                if not isinstance(activity, dict):
+                    continue
+                activity_key = normalized("|".join([
+                    str(activity.get("name") or ""),
+                    str(activity.get("location") or ""),
+                    str(activity.get("schedule") or ""),
+                ]))
+                if activity_key and activity_key not in known:
+                    current["activities"].append(activity)
+                    known.add(activity_key)
         if len((item.get("name") or "")) < len((current.get("name") or "")):
             current["name"] = item.get("name") or current.get("name")
-        if not current.get("description") and item.get("description"):
-            current["description"] = item.get("description")
+        if len((item.get("description") or "")) > len((current.get("description") or "")):
+            current["description"] = item.get("description") or current.get("description")
+        for field in (
+            "catalogOrganizationId", "catalogOfferId", "postcode", "locationType",
+            "locationSource", "mapLocationType", "audience", "costs", "access",
+            "openingHours", "phone", "email", "activitiesNote", "activitiesSource",
+            "activitiesUpdated",
+        ):
+            if not current.get(field) and item.get(field):
+                current[field] = item.get(field)
+        if item.get("catalogOrganizationId") and "wijkwijzerenschede.nl" in (item.get("source") or ""):
+            current["source"] = item.get("source")
+        if str(item.get("checked") or "") > str(current.get("checked") or ""):
+            current["checked"] = item.get("checked")
     return out
 
 def review_status(v):
@@ -353,6 +401,7 @@ def main():
                     and o.get("locationType") in {"visiting", "service", "existing"}
                 ),
                 "catalogOrganizationId": g["id"],
+                "catalogOfferId": o.get("id") or "",
             })
             explicit_org_ids.add(g["id"])
             explicit += 1
