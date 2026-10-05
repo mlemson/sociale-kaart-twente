@@ -257,5 +257,140 @@
     "nameContains": "SUN Twente",
     "municipality": "Losser",
     "path": "geld/regelingen"
+  },
+  {
+    "nameContains": "Stop Armoede 053",
+    "municipality": "Enschede",
+    "path": "geld/regelingen"
+  },
+  {
+    "nameContains": "Stop Armoede 053",
+    "municipality": "Enschede",
+    "path": "basis/kleding"
+  },
+  {
+    "nameContains": "Doors Wide Open",
+    "municipality": "Hof van Twente",
+    "path": "basis/eten"
+  },
+  {
+    "nameContains": "Vincentius Oldenzaal",
+    "municipality": "Oldenzaal",
+    "path": "basis/kleding"
+  },
+  {
+    "nameContains": "Repair Café Almelo",
+    "municipality": "Almelo",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "Repair Café Hengelo",
+    "municipality": "Hengelo",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "Repair Café Borne",
+    "municipality": "Borne",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "Repair Café Rijssen",
+    "municipality": "Rijssen-Holten",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "Repair Café Nijverdal",
+    "municipality": "Hellendoorn",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "Repair Café Losser",
+    "municipality": "Losser",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "Repair Café Albergen",
+    "municipality": "Tubbergen",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "Bibliotheek Wierden · Repair Café",
+    "municipality": "Wierden",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "De Welle · Maatjes",
+    "municipality": "Wierden",
+    "path": "mentaal/eenzaamheid"
+  },
+  {
+    "nameContains": "Wijkracht JMZ",
+    "municipality": "Hengelo",
+    "path": "zorg/mantelzorg"
+  },
+  {
+    "nameContains": "Wereldmeiden",
+    "municipality": "Haaksbergen",
+    "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "All4Free Twente",
+    "municipality": "Hengelo",
+    "path": "basis/kleding"
+  },
+  {
+    "nameContains": "All4Free Twente",
+    "municipality": "Enschede",
+    "path": "basis/eten"
+  },
+  {
+    "nameContains": "Stichting Help Anderen",
+    "municipality": "Hengelo",
+    "path": "basis/eten"
+  },
+  {
+    "nameContains": "getITfree",
+    "municipality": "Borne",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "getITfree",
+    "municipality": "Enschede",
+    "path": "taal/digitaal"
+  },
+  {
+    "nameContains": "Beien · betaalbare reparatiewerkplaats",
+    "municipality": "Enschede",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "gratis menstruatieproducten",
+    "municipality": "Hengelo",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "FIXbrigade Almelo",
+    "municipality": "Almelo",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "FIXbrigade Hengelo",
+    "municipality": "Hengelo",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "FIXbrigade Enschede",
+    "municipality": "Enschede",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "gratis menstruatieproducten",
+    "municipality": "Hengelo",
+    "path": "geld/regelingen"
+  },
+  {
+    "nameContains": "De Welle · Maatjes",
+    "municipality": "Wierden",
+    "path": "basis/praktisch"
   }
 ]
