@@ -65,7 +65,8 @@ const categories = {
     jeugd: 'Jeugd',
     mentaal: 'Mentale gezondheid',
     vervoer: 'Vervoer',
-    bewegen: 'Sport'
+    bewegen: 'Sport',
+    basis: 'Eten & basis'
 };
 const definitions = [['name', 'Naam voorziening', 160, true], ['municipality', 'Gemeente', 0, true], ['category', 'Onderwerp', 0, true], ['address', 'Straat en huisnummer', 200, true], ['town', 'Plaats', 100, true], ['source', 'Website met informatie over dit aanbod', 1000, true], ['description', 'Wat kunnen inwoners hier doen?', 2000, true], ['audience', 'Voor wie?', 500], ['costs', 'Kosten', 300], ['access', 'Hoe kun je meedoen? Indicatie of verwijzing nodig?', 500], ['openingHours', 'Openingstijden / spreekuur', 500], ['phone', 'Publiek telefoonnummer', 80], ['email', 'Publiek e-mailadres', 254]];
 function fields(target, v={}) {
@@ -393,7 +394,8 @@ function inferCategory(text) {
         ['mantelzorg', 7, /mantelzorg|dementie|alzheimer|palliatief|terminale thuiszorg|respijt/],
         ['vrijwillig', 6, /vrijwilligerswerk|vrijwilligerspunt|vrijwillig|maatjesproject|maatje|buddy|burenhulp|noaberhulp/],
         ['jeugd', 6, /jongerenwerk|jongerencentrum|jeugd|jongeren|kinderen|peuter|puber|opvoeden|opgroeien|ouderschap|gezin/],
-        ['vervoer', 7, /automaatje|auto maatje|vervoer|duofiets|belbus|boodschappenbus|maaltijd|tafeltje dekje/],
+        ['basis', 8, /maaltijdservice|maaltijdvoorziening|maaltijdbezorg|tafeltje dekje|warme maaltijd.*bezorg/],
+        ['vervoer', 7, /automaatje|auto maatje|vervoer|duofiets|belbus|boodschappenbus/],
         ['bewegen', 7, /buurtsportcoach|beweegmakelaar|passend sporten|aangepast sporten|sport|beweeg|wandelgroep/],
         ['mentaal', 7, /mentaal|psychisch|zelfregie|ervaringsdeskund|ixta noa|realcovery|ziens|herstel|lotgenoot/],
         ['ontmoeten', 6, /ontmoet|inloophuis|inloop|huiskamer|buurthuis|wijkcentrum|noaberhoes|trefpunt|seniorenwerk/],
