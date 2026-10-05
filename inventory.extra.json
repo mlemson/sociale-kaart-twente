@@ -703,6 +703,150 @@
       "municipalities": [
         "Hellendoorn"
       ]
+    },
+    {
+      "title": "Stop Armoede 053 · 1Twente",
+      "url": "https://www.1twente.nl/artikel/5907664/deze-organisatie-in-enschede-maakt-het-verschil-voor-duizenden-gezinnen-in-armoede",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Doors Wide Open",
+      "url": "https://www.doorswideopen.nl/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Vincentius Oldenzaal",
+      "url": "https://www.vincentiusoldenzaal.nl/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Servicepunt Circulair · Almelo",
+      "url": "https://servicepunt-circulair.nl/initiatievenkaart/",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Repair Café Almelo",
+      "url": "https://repaircafealmelo.nl/nieuws/",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Repair Café Hengelo",
+      "url": "https://www.repaircafehengelo.nl/",
+      "municipalities": [
+        "Hengelo"
+      ]
+    },
+    {
+      "title": "Repair Café Borne",
+      "url": "https://www.stroomesch.nl/wse-2-2/repair-cafe/",
+      "municipalities": [
+        "Borne"
+      ]
+    },
+    {
+      "title": "Gemeente Rijssen-Holten · Repair Café",
+      "url": "https://www.rijssen-holten.nl/duurzaam/repair-cafe/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "Duurzaamheidscentrum Nijverdal",
+      "url": "https://dcnijverdal.nl/repaircafe.html",
+      "municipalities": [
+        "Hellendoorn"
+      ]
+    },
+    {
+      "title": "Gemeente Losser · Repair Cafés",
+      "url": "https://www.losser.nl/circulaire-economie",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "'t Gilde Haaksbergen · Repair Café",
+      "url": "https://www.gildehaaksbergen.nl/repair-cafe/",
+      "municipalities": [
+        "Haaksbergen"
+      ]
+    },
+    {
+      "title": "Cultuurhoes Albergen · Repair Café",
+      "url": "https://www.cultuurhoesalbergen.nl/index.php/activiteiten-voorzieningen/repair-cafe",
+      "municipalities": [
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "Gemeente Tubbergen · Repair Cafés",
+      "url": "https://www.tubbergen.nl/circulaire-economie",
+      "municipalities": [
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "Repair Café Tubbergen",
+      "url": "https://www.openronddeessen.nl/nieuws/repair-cafe-tubbergen-weer-open",
+      "municipalities": [
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "Repair Café Vasse",
+      "url": "https://www.mragain.nl/nl/reparateurs/repair-cafes/2796-repair-caf-vasse",
+      "municipalities": [
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "Bibliotheek Wierden · Repair Café",
+      "url": "https://bibliotheekwierden.op-shop.nl/",
+      "municipalities": [
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Gemeente Hellendoorn · FIXbrigade",
+      "url": "https://www.hellendoorn.nl/kansrijk/",
+      "municipalities": [
+        "Hellendoorn"
+      ]
+    },
+    {
+      "title": "De Welle · Maatjes",
+      "url": "https://www.socialekaartwierden.nl/is/product/155497/220582/maatjes",
+      "municipalities": [
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Wijkracht · jonge mantelzorgers",
+      "url": "https://www.wijkracht.nl/jmz",
+      "municipalities": [
+        "Borne",
+        "Dinkelland",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Wijkracht · Wereldmeiden en Wereldgozers",
+      "url": "https://www.wijkracht.nl/nieuws/gezocht-wereldmeiden-en-wereldgozers",
+      "municipalities": [
+        "Haaksbergen"
+      ]
     }
   ],
   "candidates": [
@@ -15445,6 +15589,1196 @@
       "locationMunicipality": "Almelo",
       "mapLocationType": "address",
       "addressChecked": "2026-10-05"
+    },
+    {
+      "sourceKind": "regional",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-stoparmoede053",
+      "name": "Stichting Stop Armoede 053 · acute armoedehulp",
+      "source": "https://www.1twente.nl/artikel/5907664/deze-organisatie-in-enschede-maakt-het-verschil-voor-duizenden-gezinnen-in-armoede",
+      "sourceTitle": "1Twente / Stichting Stop Armoede 053",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld",
+        "basis"
+      ],
+      "subthemes": [
+        "acute nood",
+        "voedsel",
+        "kleding",
+        "financiën"
+      ],
+      "tags": [
+        "geld",
+        "armoede",
+        "acute nood",
+        "voedsel",
+        "kleding",
+        "verzorgingsproducten",
+        "huishoudelijke spullen",
+        "financien"
+      ],
+      "description": "Laagdrempelige armoedehulp voor inwoners die moeilijk rondkomen, met crisisbegeleiding, voedsel- en kledingpakketten, verzorgingsproducten, huishoudelijke spullen en hulp om financiën weer op orde te krijgen.",
+      "audience": "Inwoners en gezinnen in Enschede die in financiële nood zitten of nergens anders gemakkelijk hulp vragen.",
+      "access": "Laagdrempelig contact met de stichting. De organisatie werkt vanuit meerdere locaties; controleer de actuele contact- en uitgiftetijden.",
+      "costs": "Hulp en verstrekte goederen zijn bedoeld als gratis ondersteuning.",
+      "guidePaths": [
+        "geld/regelingen",
+        "geld/formulieren",
+        "basis/eten",
+        "basis/kleding"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "activities": [
+        {
+          "name": "Voedsel- en verzorgingspakketten"
+        },
+        {
+          "name": "Gratis kleding en huishoudelijke spullen"
+        },
+        {
+          "name": "Crisisbegeleiding",
+          "description": "Bijvoorbeeld bij dreigende ontruiming of plotseling inkomensverlies."
+        },
+        {
+          "name": "Financiën op orde brengen"
+        },
+        {
+          "name": "Kinderuitjes en acties"
+        },
+        {
+          "name": "Voorlichting over armoede op scholen"
+        }
+      ],
+      "activitiesSource": "https://www.1twente.nl/artikel/5907664/deze-organisatie-in-enschede-maakt-het-verschil-voor-duizenden-gezinnen-in-armoede"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-doors-wide-open",
+      "name": "Doors Wide Open · hulp bij stille armoede",
+      "source": "https://www.doorswideopen.nl/",
+      "sourceTitle": "Doors Wide Open",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld",
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "armoede",
+        "praktische hulp",
+        "kleding",
+        "voedsel",
+        "ontmoeting"
+      ],
+      "tags": [
+        "geld",
+        "armoede",
+        "stille armoede",
+        "kleding",
+        "voedsel",
+        "huisraad",
+        "fietsen",
+        "witgoed",
+        "maatjes",
+        "ontmoeten"
+      ],
+      "description": "Vrijwillige, laagdrempelige armoedehulp in Hof van Twente met persoonlijke begeleiding en praktische ondersteuning zoals eten, kleding, speelgoed, huisraad, dierenvoedsel, witgoed en fietsen.",
+      "audience": "Inwoners en gezinnen in Hof van Twente die financieel vastlopen, ook wanneer zij net boven reguliere inkomensgrenzen vallen.",
+      "access": "Rechtstreeks contact opnemen of langskomen bij de winkel/ontmoetingsplek in Goor.",
+      "costs": "Ondersteuning aan hulpvragers is gratis; de shop verkoopt ook tweedehands goederen om de stichting te financieren.",
+      "guidePaths": [
+        "geld/regelingen",
+        "basis/eten",
+        "basis/kleding",
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Grotestraat 101",
+      "postcode": "7471 BM",
+      "town": "Goor",
+      "locationType": "visiting",
+      "locationSource": "https://www.doorswideopen.nl/",
+      "mapPin": true,
+      "activities": [
+        {
+          "name": "Persoonlijke hulp bij financiële zorgen"
+        },
+        {
+          "name": "Levensmiddelen en noodhulp"
+        },
+        {
+          "name": "Kleding en schoenen"
+        },
+        {
+          "name": "Huisraad, witgoed en fietsen"
+        },
+        {
+          "name": "Speelgoed en dierenvoedsel"
+        },
+        {
+          "name": "Maatjes en ervaringsdeskundige steun"
+        },
+        {
+          "name": "Inloop en ontmoeting",
+          "location": "’t Centrum, Grotestraat 103"
+        }
+      ],
+      "activitiesSource": "https://www.doorswideopen.nl/"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-vincentius-oldenzaal",
+      "name": "Stichting Vincentius Oldenzaal · kleding en steun bij stille armoede",
+      "source": "https://www.vincentiusoldenzaal.nl/",
+      "sourceTitle": "Stichting Vincentius Oldenzaal",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "geld"
+      ],
+      "subthemes": [
+        "kleding",
+        "stille armoede",
+        "gezinnen"
+      ],
+      "tags": [
+        "basis",
+        "kleding",
+        "armoede",
+        "stille armoede",
+        "bonnen",
+        "kinderen",
+        "sport"
+      ],
+      "description": "Vrijwilligersstichting met tweedehands kledingwinkel waarvan de opbrengst wordt gebruikt om stille armoede in Oldenzaal en omgeving te bestrijden. Gezinnen kunnen ook via een knipkaart tegen een zeer geringe vergoeding kleding krijgen.",
+      "audience": "Iedereen kan de winkel bezoeken; aanvullende hulp is gericht op gezinnen en alleenstaanden die financieel moeilijk rondkomen.",
+      "access": "Winkel is vrij toegankelijk. Ondersteuning en knipkaart lopen onder meer via lokale hulpverlening zoals Impuls.",
+      "costs": "Tweedehands winkel; voor mensen die hulp nodig hebben zijn er aanvullende steunprojecten en zeer goedkope kleding via knipkaart.",
+      "guidePaths": [
+        "basis/kleding",
+        "geld/regelingen"
+      ],
+      "address": "Ootmarsumsestraat 60",
+      "postcode": "7573 GM",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.vincentiusoldenzaal.nl/",
+      "mapPin": true,
+      "openingHours": "Ma/di 13.00–16.00; do/vr/za 10.00–16.00",
+      "activities": [
+        {
+          "name": "Tweedehands kledingwinkel"
+        },
+        {
+          "name": "Knipkaart voor goedkope kleding"
+        },
+        {
+          "name": "Jaarlijkse ondersteuning gezinnen",
+          "description": "Onder meer pakketten en bonnen."
+        },
+        {
+          "name": "Vincentius laat kinderen spelen",
+          "description": "Ondersteuning om kwetsbare jeugd te laten deelnemen aan sportactiviteiten."
+        }
+      ],
+      "activitiesSource": "https://www.vincentiusoldenzaal.nl/"
+    },
+    {
+      "sourceKind": "regional",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-ruilwinkel-almelo",
+      "name": "Ruilwinkel & Ruillokaal Almelo · kleding, speelgoed en kinderspullen",
+      "source": "https://servicepunt-circulair.nl/initiatievenkaart/",
+      "sourceTitle": "Servicepunt Circulair",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "ruilen",
+        "kleding",
+        "speelgoed",
+        "kinderspullen"
+      ],
+      "tags": [
+        "basis",
+        "kleding",
+        "speelgoed",
+        "ruilwinkel",
+        "ruillokaal",
+        "kinderspullen",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige ruilvoorziening in Almelo voor onder meer kinder- en dameskleding, schoenen, speelgoed en baby- en kinderspullen.",
+      "audience": "Inwoners van Almelo die spullen willen ruilen en hergebruiken.",
+      "access": "Neem bruikbare spullen mee en ruil ze volgens de regels van de Ruilwinkel/Ruillokaal.",
+      "costs": "Ruilvoorziening; controleer de actuele spelregels ter plaatse.",
+      "guidePaths": [
+        "basis/kleding",
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Wilgenstraat 11",
+      "postcode": "7605 EG",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://servicepunt-circulair.nl/initiatievenkaart/",
+      "mapPin": true,
+      "activities": [
+        {
+          "name": "Ruilwinkel",
+          "description": "Kleding, schoenen en speelgoed ruilen."
+        },
+        {
+          "name": "Ruillokaal",
+          "description": "Baby- en kinderspullen ruilen."
+        }
+      ]
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-fixbrigade-hellendoorn",
+      "name": "FIXbrigade Hellendoorn · gratis energiebesparende klusjes",
+      "source": "https://www.hellendoorn.nl/kansrijk/",
+      "sourceTitle": "FIXbrigade Hellendoorn",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "geld"
+      ],
+      "subthemes": [
+        "energiearmoede",
+        "klushulp",
+        "energiebesparing"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "energie",
+        "energiearmoede",
+        "fixbrigade",
+        "gratis",
+        "klussen",
+        "besparen"
+      ],
+      "description": "Vrijwilligers komen bij inwoners met een kleine beurs thuis om gratis kleine energiebesparende maatregelen uit te voeren, zoals tochtstrips of ledlampen plaatsen.",
+      "audience": "Inwoners van Hellendoorn met een kleine beurs die hun energierekening willen verlagen.",
+      "access": "Rechtstreeks aanmelden bij FIXbrigade Hellendoorn.",
+      "costs": "Gratis.",
+      "guidePaths": [
+        "basis/praktisch",
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "phone": "06-45991469",
+      "email": "fixbrigadehellendoorn@gmail.com"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-almelo",
+      "name": "Repair Café Almelo · De Hagedoorn",
+      "source": "https://repaircafealmelo.nl/nieuws/",
+      "sourceTitle": "Repair Café Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Wilgenstraat 11",
+      "postcode": "7605 EG",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://repaircafealmelo.nl/nieuws/",
+      "mapPin": true,
+      "openingHours": "Regelmatige vrijdagmiddagen; controleer actuele agenda."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-hengelo",
+      "name": "Repair Café Hengelo · De Tempel",
+      "source": "https://www.repaircafehengelo.nl/",
+      "sourceTitle": "Repair Café Hengelo",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Booggang 2",
+      "postcode": "7552 JZ",
+      "town": "Hengelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.repaircafehengelo.nl/",
+      "mapPin": true,
+      "openingHours": "Maandelijks volgens agenda, doorgaans 10.00–13.00."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-borne",
+      "name": "Repair Café Borne · De Wanne",
+      "source": "https://www.stroomesch.nl/wse-2-2/repair-cafe/",
+      "sourceTitle": "Repair Café Borne",
+      "municipalities": [
+        "Borne"
+      ],
+      "municipality": "Borne",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "De Wanne 8",
+      "postcode": "7623 HD",
+      "town": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://www.stroomesch.nl/wse-2-2/repair-cafe/",
+      "mapPin": true,
+      "openingHours": "Laatste zaterdag van de maand 09.30–12.00."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-rijssen",
+      "name": "Repair Café Rijssen",
+      "source": "https://www.rijssen-holten.nl/duurzaam/repair-cafe/",
+      "sourceTitle": "Repair Café Rijssen",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Bouwstraat 13",
+      "town": "Rijssen",
+      "locationType": "visiting",
+      "locationSource": "https://www.rijssen-holten.nl/duurzaam/repair-cafe/",
+      "mapPin": true,
+      "openingHours": "Eerste woensdag 13.30–16.00 en tweede donderdag 09.30–12.00 en 13.00–16.00."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-holten",
+      "name": "Repair Café Holten · Tuinhuis Dorpstuin",
+      "source": "https://www.rijssen-holten.nl/duurzaam/repair-cafe/",
+      "sourceTitle": "Repair Café Holten",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Molenbelterweg 3",
+      "town": "Holten",
+      "locationType": "visiting",
+      "locationSource": "https://www.rijssen-holten.nl/duurzaam/repair-cafe/",
+      "mapPin": true,
+      "openingHours": "Eerste en derde vrijdag van de maand 13.30–16.00."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-nijverdal",
+      "name": "Repair Café Nijverdal · Duurzaamheidscentrum",
+      "source": "https://dcnijverdal.nl/repaircafe.html",
+      "sourceTitle": "Repair Café Nijverdal",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Grotestraat 178A",
+      "town": "Nijverdal",
+      "locationType": "visiting",
+      "locationSource": "https://dcnijverdal.nl/repaircafe.html",
+      "mapPin": true,
+      "openingHours": "Woensdag t/m zaterdag 13.00–17.00."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-losser",
+      "name": "Repair Café Losser",
+      "source": "https://www.losser.nl/circulaire-economie",
+      "sourceTitle": "Repair Café Losser",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Vlasakker 51",
+      "town": "Losser",
+      "locationType": "visiting",
+      "locationSource": "https://www.losser.nl/circulaire-economie",
+      "mapPin": true,
+      "openingHours": "Vrijdag 10.00–12.30."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-de-lutte",
+      "name": "Repair Café De Lutte · Dorpshoes Erve Boerrigter",
+      "source": "https://www.losser.nl/circulaire-economie",
+      "sourceTitle": "Repair Café De Lutte",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Plechelmusstraat 14",
+      "town": "De Lutte",
+      "locationType": "visiting",
+      "locationSource": "https://www.losser.nl/circulaire-economie",
+      "mapPin": true,
+      "openingHours": "Tweede en vierde woensdag van de maand 19.00–20.00."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-overdinkel",
+      "name": "Repair Café Overdinkel",
+      "source": "https://www.losser.nl/circulaire-economie",
+      "sourceTitle": "Repair Café Overdinkel",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Prins Hendrikstraat 4",
+      "town": "Overdinkel",
+      "locationType": "visiting",
+      "locationSource": "https://www.losser.nl/circulaire-economie",
+      "mapPin": true,
+      "openingHours": "Vrijdag 09.30–12.00."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-haaksbergen",
+      "name": "'t Gilde Haaksbergen · Repair Café",
+      "source": "https://www.gildehaaksbergen.nl/repair-cafe/",
+      "sourceTitle": "'t Gilde Haaksbergen",
+      "municipalities": [
+        "Haaksbergen"
+      ],
+      "municipality": "Haaksbergen",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Industriestraat 51",
+      "postcode": "7482 EW",
+      "town": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.gildehaaksbergen.nl/repair-cafe/",
+      "mapPin": true,
+      "openingHours": "Eerste woensdag en derde zaterdag van de maand 09.00–12.00.",
+      "activities": [
+        {
+          "name": "Repair Café"
+        },
+        {
+          "name": "Hobbywerkplaats"
+        },
+        {
+          "name": "Klussendienst",
+          "description": "Kleine klussen voor mensen die daarvoor via Noaberpoort in aanmerking komen."
+        }
+      ],
+      "activitiesSource": "https://www.gildehaaksbergen.nl/"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-albergen",
+      "name": "Repair Café Albergen · Cultuurhoes",
+      "source": "https://www.cultuurhoesalbergen.nl/index.php/activiteiten-voorzieningen/repair-cafe",
+      "sourceTitle": "Repair Café Albergen",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Hobergenstraat 26",
+      "postcode": "7665 AJ",
+      "town": "Albergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.cultuurhoesalbergen.nl/index.php/activiteiten-voorzieningen/repair-cafe",
+      "mapPin": true,
+      "openingHours": "Maandelijks op dinsdag 13.30–16.00."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-tubbergen",
+      "name": "Repair Café Tubbergen · De Beurs",
+      "source": "https://www.openronddeessen.nl/nieuws/repair-cafe-tubbergen-weer-open",
+      "sourceTitle": "Repair Café Tubbergen",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Marconistraat 2",
+      "postcode": "7651 DG",
+      "town": "Tubbergen",
+      "locationType": "visiting",
+      "locationSource": "https://www.openronddeessen.nl/nieuws/repair-cafe-tubbergen-weer-open",
+      "mapPin": true,
+      "openingHours": "Donderdagochtend en eerste zaterdag van de maand 10.00–12.00."
+    },
+    {
+      "sourceKind": "regional",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-vasse",
+      "name": "Repair Café Vasse · Dorpshuiskamer",
+      "source": "https://www.tubbergen.nl/circulaire-economie",
+      "sourceTitle": "Gemeente Tubbergen / Dorpshuiskamer Vasse",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Hooidijk 21",
+      "postcode": "7661 RA",
+      "town": "Vasse",
+      "locationType": "visiting",
+      "locationSource": "https://www.tubbergen.nl/circulaire-economie",
+      "mapPin": true,
+      "openingHours": "Controleer actuele data bij Dorpshuiskamer Vasse."
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-repair-wierden",
+      "name": "Bibliotheek Wierden · Repair Café",
+      "source": "https://bibliotheekwierden.op-shop.nl/",
+      "sourceTitle": "Bibliotheek Wierden",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "repair café",
+        "hergebruik"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repair café",
+        "repareren",
+        "vrijwilligers",
+        "hergebruik",
+        "ontmoeten"
+      ],
+      "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
+      "audience": "Inwoners met kleine elektrische apparaten, kleding of andere draagbare spullen die mogelijk gerepareerd kunnen worden.",
+      "access": "Vrije inloop volgens de actuele openingstijden; controleer vooraf welke spullen gerepareerd worden.",
+      "costs": "Reparatie is gratis of tegen een vrijwillige bijdrage; onderdelen zijn meestal voor eigen rekening.",
+      "guidePaths": [
+        "basis/praktisch",
+        "ontmoeten/inloop"
+      ],
+      "address": "Pouliestraat 2",
+      "postcode": "7642 EB",
+      "town": "Wierden",
+      "locationType": "visiting",
+      "locationSource": "https://bibliotheekwierden.op-shop.nl/",
+      "mapPin": true,
+      "openingHours": "Meerdere donderdagmiddagen per maand volgens de bibliotheekagenda."
+    },
+    {
+      "sourceKind": "regional",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-dewelle-maatjes",
+      "name": "De Welle · Maatjes Wierden",
+      "source": "https://www.socialekaartwierden.nl/is/product/155497/220582/maatjes",
+      "sourceTitle": "Sociale kaart Wierden / De Welle",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten",
+        "taal",
+        "vrijwillig",
+        "basis"
+      ],
+      "subthemes": [
+        "maatje",
+        "gezelschap",
+        "bewegen",
+        "taal",
+        "praktische hulp"
+      ],
+      "tags": [
+        "maatje",
+        "gezelschap",
+        "beweegmaatje",
+        "taalmaatje",
+        "klusmaatje",
+        "hobbymaatje",
+        "vrijwilligerswerk"
+      ],
+      "description": "De Welle koppelt inwoners aan verschillende soorten maatjes voor gezelschap, bewegen, hobby, taal, kleine praktische hulp of de stap naar vrijwilligerswerk.",
+      "audience": "Inwoners van Wierden die tijdelijk behoefte hebben aan persoonlijk contact of praktische ondersteuning.",
+      "access": "Na aanmelding volgt een intake; De Welle zoekt vervolgens een passend vrijwillig maatje.",
+      "costs": "Vrijwillige ondersteuning; vraag naar eventuele onkosten bij de organisatie.",
+      "guidePaths": [
+        "mentaal/eenzaamheid",
+        "taal/nederlands",
+        "meedoen/vrijwillig",
+        "basis/praktisch"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "activities": [
+        {
+          "name": "Gezelschapsmaatje"
+        },
+        {
+          "name": "Beweegmaatje"
+        },
+        {
+          "name": "Hobbymaatje"
+        },
+        {
+          "name": "Taalmaatje"
+        },
+        {
+          "name": "Maatje voor kleine diensten"
+        },
+        {
+          "name": "Maatje richting vrijwilligerswerk"
+        }
+      ],
+      "activitiesSource": "https://www.socialekaartwierden.nl/is/product/155497/220582/maatjes"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-wijkracht-jmz-maatjes",
+      "name": "Wijkracht JMZ · maatjes voor jonge mantelzorgers",
+      "source": "https://www.wijkracht.nl/jmz",
+      "sourceTitle": "Wijkracht JMZ",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg",
+        "ontmoeten",
+        "jeugd"
+      ],
+      "subthemes": [
+        "jonge mantelzorgers",
+        "maatjes"
+      ],
+      "tags": [
+        "mantelzorg",
+        "jonge mantelzorger",
+        "maatje",
+        "jongeren",
+        "ontspanning",
+        "sociaal contact"
+      ],
+      "description": "Maatjesondersteuning voor jonge mantelzorgers: een vrijwilliger trekt regelmatig met een jongere op voor ontspanning, aandacht, sociaal contact of een persoonlijk doel.",
+      "audience": "Jonge mantelzorgers in Hengelo; jongeren die thuis extra zorgen of verantwoordelijkheden hebben door ziekte of problemen van een gezinslid.",
+      "access": "Rechtstreeks contact opnemen met Wijkracht JMZ.",
+      "costs": "Gratis ondersteuning.",
+      "guidePaths": [
+        "zorg/mantelzorg",
+        "mentaal/eenzaamheid",
+        "onderwijs/jongeren"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "email": "jmz@wijkracht.nl"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-wereldmeiden-gozers",
+      "name": "Wijkracht Haaksbergen · Wereldmeiden en Wereldgozers",
+      "source": "https://www.wijkracht.nl/nieuws/gezocht-wereldmeiden-en-wereldgozers",
+      "sourceTitle": "Wijkracht Haaksbergen",
+      "municipalities": [
+        "Haaksbergen"
+      ],
+      "municipality": "Haaksbergen",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd",
+        "taal",
+        "bewegen"
+      ],
+      "subthemes": [
+        "buddy",
+        "nieuwkomers",
+        "sport"
+      ],
+      "tags": [
+        "jeugd",
+        "buddy",
+        "maatje",
+        "nieuwkomers",
+        "statushouders",
+        "sport",
+        "integratie"
+      ],
+      "description": "Buddyproject waarin jongeren die nog niet lang in Nederland wonen samen met een buddy sporten, activiteiten ondernemen en ondersteuning krijgen om makkelijker mee te doen.",
+      "audience": "Jonge nieuwkomers/statushouders en jongeren die zich als buddy willen inzetten in Haaksbergen.",
+      "access": "Aanmelden of informatie vragen bij Wijkracht Haaksbergen.",
+      "costs": "Geen reguliere deelnemersbijdrage vermeld; controleer actueel bij Wijkracht.",
+      "guidePaths": [
+        "migratie/nieuwkomer",
+        "migratie/taal",
+        "onderwijs/jongeren",
+        "ontmoeten/bewegen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area"
     }
   ],
   "addressEnrichmentVersion": 1,
