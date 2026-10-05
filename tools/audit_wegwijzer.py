@@ -32,9 +32,19 @@ def leaves(nodes, prefix=()):
             yield "/".join(path), node
 
 def record_text(record):
+    activities = []
+    for item in record.get("activities") or []:
+        if isinstance(item, str):
+            activities.append(item)
+        elif isinstance(item, dict):
+            activities.extend([
+                item.get("name") or "", item.get("description") or "",
+                item.get("location") or "", item.get("schedule") or "",
+            ])
     fields = [
         record.get("organization"), record.get("title"), record.get("description"),
         record.get("audience"), record.get("access"), record.get("costs"),
+        record.get("activitiesNote"), " ".join(activities),
         " ".join(record.get("themes") or []), " ".join(record.get("subthemes") or []),
         " ".join(record.get("tags") or []), " ".join(record.get("routeTags") or []),
     ]
@@ -67,6 +77,9 @@ for group in catalog:
             "routeTags": offer.get("routeTags") or [],
             "guidePaths": offer.get("guidePaths") or [],
             "guideExclude": bool(offer.get("guideExclude")),
+            "activityOnly": bool(offer.get("activityOnly")),
+            "activities": offer.get("activities") or [],
+            "activitiesNote": offer.get("activitiesNote") or "",
         })
 records.extend(curated)
 
@@ -74,7 +87,7 @@ automatic = []
 unmatched = []
 excluded = []
 for rec in records:
-    if rec.get("guideExclude"):
+    if rec.get("guideExclude") or rec.get("activityOnly"):
         excluded.append(rec)
         continue
     explicit = rec.get("guidePaths") or []
@@ -125,6 +138,7 @@ for item in expectations:
     found = [
         rec for rec in records
         if not rec.get("guideExclude")
+        and not rec.get("activityOnly")
         and norm(item["nameContains"]) in norm(f"{rec.get('organization','')} {rec.get('title','')}")
         and serves(rec, item["municipality"])
         and matches_path(rec, item["path"])
@@ -146,7 +160,7 @@ print(f"{len(expectations)} kritieke thema+gemeente-combinaties gecontroleerd")
 # Volledigheidscontrole per eindthema: geen zichtbaar Wegwijzer-thema mag leeg zijn.
 leaf_coverage = {path: 0 for path, _ in leaf_nodes}
 for rec in records:
-    if rec.get("guideExclude"):
+    if rec.get("guideExclude") or rec.get("activityOnly"):
         continue
     explicit = rec.get("guidePaths") or []
     if explicit:
