@@ -4971,7 +4971,11 @@
     "subthemes": [
       "laagdrempelig"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "ontmoeten/bewegen",
+      "ontmoeten/samen"
+    ],
     "guideExclude": false,
     "description": "Vaste daginvulling met bewegen, samen koken, eten en ontmoeting.",
     "audience": "Inwoners van de gemeente Losser.",
@@ -5009,7 +5013,11 @@
     "subthemes": [
       "laagdrempelig"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "ontmoeten/bewegen",
+      "ontmoeten/samen"
+    ],
     "guideExclude": false,
     "description": "Vaste daginvulling met bewegen, samen koken, eten en ontmoeting.",
     "audience": "Inwoners van de gemeente Losser.",

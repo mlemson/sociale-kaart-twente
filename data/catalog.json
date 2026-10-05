@@ -12101,7 +12101,11 @@
           "daginvulling",
           "taal"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling",
+          "ontmoeten/bewegen",
+          "ontmoeten/samen"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],
@@ -12151,7 +12155,11 @@
           "daginvulling",
           "taal"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling",
+          "ontmoeten/bewegen",
+          "ontmoeten/samen"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],
