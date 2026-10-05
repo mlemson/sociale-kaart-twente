@@ -243,12 +243,18 @@
     "municipality": "Enschede",
     "category": "advies",
     "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "description": "Wijkwijzer en laagdrempelige ontmoetings- en activiteitenplek aan de Olympialaan. Op deze plek werken meerdere partijen samen en kun je terecht voor informatie, daginvulling, leren, ontmoeting en activiteiten.",
     "tags": [
       "advies",
-      "ontmoeten"
+      "ontmoeten",
+      "daginvulling",
+      "activiteiten",
+      "taal",
+      "creatief",
+      "huiswerkbegeleiding",
+      "power"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-05",
     "lat": 52.20672753,
     "lon": 6.90826728,
     "geocodedAddress": "Olympialaan 20, 7541BK Enschede",
@@ -267,9 +273,19 @@
     "access": "",
     "openingHours": "",
     "themes": [
-      "advies"
+      "advies",
+      "ontmoeten",
+      "taal",
+      "jeugd",
+      "bewegen"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "daginvulling",
+      "leren",
+      "creatief",
+      "taal",
+      "huiswerkbegeleiding"
+    ],
     "enrichment": {
       "version": 2,
       "method": "lokale sleutelwoorden",
@@ -292,7 +308,66 @@
         "openingHours"
       ]
     },
-    "primaryTheme": "advies"
+    "primaryTheme": "advies",
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling",
+      "taal/nederlands",
+      "ontmoeten/bewegen",
+      "onderwijs/jongeren"
+    ],
+    "activities": [
+      {
+        "name": "Huiswerkbegeleiding (8–18 jaar)",
+        "category": "Begeleiding en advies"
+      },
+      {
+        "name": "Taaltafel",
+        "description": "Nederlands oefenen en andere mensen ontmoeten."
+      },
+      {
+        "name": "Nederlandse les",
+        "description": "Onder meer via POWER Oost."
+      },
+      {
+        "name": "Kooklessen en samen koken"
+      },
+      {
+        "name": "Handwerken"
+      },
+      {
+        "name": "Creatieve middag",
+        "category": "Creatief"
+      },
+      {
+        "name": "Creatieve ochtend",
+        "category": "Creatief"
+      },
+      {
+        "name": "Haakles",
+        "category": "Creatief",
+        "schedule": "vrijdag 13.00–14.00"
+      },
+      {
+        "name": "Handwerkclub",
+        "category": "Creatief"
+      },
+      {
+        "name": "Kaartborduren",
+        "category": "Creatief"
+      },
+      {
+        "name": "Kunstschilderen",
+        "category": "Creatief"
+      },
+      {
+        "name": "Naailes",
+        "category": "Creatief",
+        "schedule": "maandag en dinsdag 12.00–15.00"
+      }
+    ],
+    "activitiesNote": "Het programma kan wijzigen en wordt door verschillende aangesloten organisaties verzorgd. Controleer de actuele activiteit en tijd bij De Vrije Ruimte.",
+    "activitiesSource": "https://www.devrijeruimte.com/activiteiten.aspx"
   },
   {
     "id": "loc-6",
