@@ -13589,7 +13589,7 @@
     }
   ],
   "addressEnrichmentVersion": 1,
-  "addressEnrichedAt": "2026-10-03",
+  "addressEnrichedAt": "2026-10-05",
   "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin.",
   "contentExpansionVersion": 6,
   "note": "Doorlopende verdiepingslaag voor voorliggende voorzieningen. Vindroute: per Twentse gemeente officiële sociale kaart + lokale welzijnsorganisatie + gemeentelijke Wmo/algemene-voorzieningenpagina + onafhankelijke initiatieven. Alleen concreet en actueel aanbod wordt toegevoegd; fysieke kaartpins alleen bij een bevestigde bezoeklocatie. Gemeentesweep 2 oktober 2026: aanvullende buurtinlopen, gemeentelijke informatiepunten, algemene voorzieningen en zelfstandige lotgenoten-/participatieplekken toegevoegd."
