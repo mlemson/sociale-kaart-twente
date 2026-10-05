@@ -228,5 +228,147 @@
     "source": "https://attendiz.nl/scholen/",
     "checked": "2026-10-02",
     "referenceOnly": true
+  },
+  {
+    "id": "ref-veilig-thuis-twente",
+    "organization": "Veilig Thuis Twente",
+    "title": "Advies en melden huiselijk geweld en kindermishandeling",
+    "municipalities": [
+      "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
+      "Rijssen-Holten",
+      "Tubbergen",
+      "Twenterand",
+      "Wierden"
+    ],
+    "routeTags": [
+      "veilig thuis",
+      "huiselijk geweld",
+      "kindermishandeling",
+      "ouderenmishandeling",
+      "stalking",
+      "onveilig thuis"
+    ],
+    "guidePaths": [
+      "veiligheid/huiselijk"
+    ],
+    "description": "Regionaal advies- en meldpunt voor huiselijk geweld, kindermishandeling en ouderenmishandeling. Ook omstanders en professionals kunnen advies vragen.",
+    "audience": "Slachtoffers, direct betrokkenen, omstanders en professionals in Twente.",
+    "access": "Bel 0800-2000 voor advies of een melding; gratis en 24/7 bereikbaar. Bij direct levensgevaar: 112.",
+    "costs": "Gratis.",
+    "phone": "0800-2000",
+    "source": "https://veiligthuistwente.nl/ik-heb-hulp-nodig/",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "ref-kadera-twente",
+    "organization": "Kadera",
+    "title": "Hulp bij huiselijk geweld · ambulant Twente en opvang",
+    "municipalities": [
+      "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
+      "Rijssen-Holten",
+      "Tubbergen",
+      "Twenterand",
+      "Wierden"
+    ],
+    "routeTags": [
+      "huiselijk geweld",
+      "opvang",
+      "ambulant",
+      "veiligheid",
+      "aware",
+      "stalking",
+      "crisisopvang"
+    ],
+    "guidePaths": [
+      "veiligheid/huiselijk"
+    ],
+    "description": "Gespecialiseerde hulp bij huiselijk geweld, waaronder ambulante hulp in Twente, advies, AWARE en waar passend opvang.",
+    "audience": "Mannen, vrouwen en kinderen die te maken hebben met huiselijk geweld; ook professionals kunnen advies vragen.",
+    "access": "Neem contact op met Team Toegang en Trajecten. Voor sommige trajecten verloopt inzet via lokaal team, Wmo/Jeugdwet, Veilig Thuis of politie.",
+    "source": "https://www.kadera.nl/ik-zoek-hulp/",
+    "phone": "088 422 24 95",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "ref-vizier-oost",
+    "organization": "Vizier Oost",
+    "title": "Meldpunt discriminatie · gratis advies en ondersteuning",
+    "municipalities": [
+      "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
+      "Rijssen-Holten",
+      "Tubbergen",
+      "Twenterand",
+      "Wierden"
+    ],
+    "routeTags": [
+      "discriminatie",
+      "racisme",
+      "ongelijke behandeling",
+      "melding",
+      "advies"
+    ],
+    "guidePaths": [
+      "recht/discriminatie"
+    ],
+    "description": "Onafhankelijk meldpunt voor discriminatie. Geeft advies en ondersteuning bij ervaren of waargenomen discriminatie en registreert meldingen.",
+    "audience": "Iedereen die discriminatie ervaart of ziet in Twente; ook anoniem melden is mogelijk.",
+    "access": "Telefonisch, per e-mail of via het meldformulier; anoniem melden kan.",
+    "costs": "Gratis.",
+    "phone": "085 0734600",
+    "source": "https://vizieroost.nl/",
+    "checked": "2026-10-05"
+  },
+  {
+    "id": "ref-sun-twente",
+    "organization": "SUN Twente",
+    "title": "Urgente financiële nood · gift of renteloze lening",
+    "municipalities": [
+      "Almelo",
+      "Hof van Twente",
+      "Losser",
+      "Twenterand"
+    ],
+    "routeTags": [
+      "urgente nood",
+      "noodhulp",
+      "financiele nood",
+      "gift",
+      "renteloze lening"
+    ],
+    "guidePaths": [
+      "geld/regelingen"
+    ],
+    "description": "Stichting Urgente Noden Twente biedt eenmalige financiële hulp als andere regelingen geen oplossing bieden.",
+    "audience": "Inwoners van aangesloten gemeenten die in acute financiële nood zijn geraakt en niet via andere regelingen geholpen kunnen worden.",
+    "access": "Aanvragen kunnen alleen door professionele hulpverleners, bewindvoerders of erkende coördinatoren worden ingediend.",
+    "source": "https://suntwente.nl/",
+    "checked": "2026-10-05"
   }
 ]
