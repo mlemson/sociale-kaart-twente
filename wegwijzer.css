@@ -590,3 +590,175 @@ html[data-color-scheme="dark"] .guide-result-arrow{
   background:#3a3037;
   color:#e7cedd;
 }
+
+
+/* V14 · activiteitenlijsten en gebundeld organisatie-aanbod */
+.guide-result-activities{
+  display:grid;
+  grid-template-columns:72px minmax(0,1fr);
+  gap:9px;
+  padding:9px 10px;
+  border-radius:10px;
+  background:#f7f2f5;
+  color:#665b65;
+  font-size:12px;
+  line-height:1.45;
+}
+.guide-result-activities>strong{font-size:11px;color:#6d4f61}
+.guide-result-activities>span{
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:2;
+  overflow:hidden;
+}
+.guide-activities{
+  margin-top:16px;
+  padding:15px;
+  border:1px solid #e8dfe6;
+  border-radius:12px;
+  background:#fff;
+}
+.guide-activities-head{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  margin-bottom:10px;
+}
+.guide-activities h5{
+  margin:0;
+  color:var(--primary);
+  font-size:15px;
+}
+.guide-activities-head>span{
+  min-width:27px;
+  height:23px;
+  display:grid;
+  place-items:center;
+  border-radius:999px;
+  background:#f2eaf0;
+  color:#70435f;
+  font-size:10px;
+  font-weight:700;
+}
+.guide-activity-list{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:8px;
+}
+.guide-activity-item{
+  min-width:0;
+  padding:10px 11px;
+  border-radius:9px;
+  background:#faf7f9;
+}
+.guide-activity-item>strong{
+  display:block;
+  color:#4f414b;
+  font-size:13px;
+  line-height:1.35;
+}
+.guide-activity-item>span{
+  display:block;
+  margin-top:4px;
+  color:#807480;
+  font-size:11px;
+  line-height:1.4;
+}
+.guide-activity-item>p{
+  margin:5px 0 0;
+  color:#706570;
+  font-size:11.5px;
+  line-height:1.45;
+}
+.guide-activities-note{
+  margin:10px 0 0!important;
+  color:#776b75!important;
+  font-size:11.5px!important;
+}
+.guide-activities-source{
+  display:inline-block;
+  margin-top:9px;
+  color:var(--primary);
+  font-size:12px;
+  font-weight:700;
+  text-underline-offset:3px;
+}
+.guide-related{
+  margin-top:16px;
+  border-top:1px solid #e9e1e7;
+  padding-top:12px;
+}
+.guide-related summary{
+  cursor:pointer;
+  color:var(--primary);
+  font-size:13px;
+  font-weight:700;
+}
+.guide-related summary span{
+  margin-left:5px;
+  color:#8a7d87;
+  font-size:11px;
+  font-weight:600;
+}
+.guide-related-list{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:7px;
+  margin-top:10px;
+}
+.guide-related-list>div{
+  padding:9px 10px;
+  border-radius:9px;
+  background:#faf7f9;
+}
+.guide-related-list strong{
+  display:block;
+  color:#5a4854;
+  font-size:12px;
+}
+.guide-related-list span{
+  display:-webkit-box;
+  margin-top:3px;
+  color:#807480;
+  font-size:11px;
+  line-height:1.4;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:2;
+  overflow:hidden;
+}
+.guide-related-list>p{
+  grid-column:1/-1;
+  margin:2px 0 0;
+  color:#807480;
+  font-size:11px;
+}
+@media(max-width:700px){
+  .guide-activity-list,.guide-related-list{grid-template-columns:1fr}
+  .guide-result-activities{grid-template-columns:64px minmax(0,1fr)}
+}
+html[data-color-scheme="dark"] .guide-result-activities{
+  background:#352e34;
+  color:#cbbfc8;
+}
+html[data-color-scheme="dark"] .guide-result-activities>strong{color:#e3cad9}
+html[data-color-scheme="dark"] .guide-activities{
+  background:#262228;
+  border-color:#463e46;
+}
+html[data-color-scheme="dark"] .guide-activities h5,
+html[data-color-scheme="dark"] .guide-related summary{color:#f3dbea}
+html[data-color-scheme="dark"] .guide-activities-head>span{
+  background:#3a3037;
+  color:#e7cedd;
+}
+html[data-color-scheme="dark"] .guide-activity-item,
+html[data-color-scheme="dark"] .guide-related-list>div{background:#302b31}
+html[data-color-scheme="dark"] .guide-activity-item>strong,
+html[data-color-scheme="dark"] .guide-related-list strong{color:#eadde5}
+html[data-color-scheme="dark"] .guide-activity-item>span,
+html[data-color-scheme="dark"] .guide-activity-item>p,
+html[data-color-scheme="dark"] .guide-activities-note,
+html[data-color-scheme="dark"] .guide-related-list span,
+html[data-color-scheme="dark"] .guide-related-list>p{color:#c0b5bf!important}
+html[data-color-scheme="dark"] .guide-related{border-top-color:#463e46}
