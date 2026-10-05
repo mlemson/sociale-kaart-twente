@@ -14,7 +14,8 @@ const paths = {
     geld: '<path d="M20 7V5a1 1 0 0 0-1-1H5a3 3 0 0 0 0 6h15v10H5a3 3 0 0 1-3-3V7M20 13h-5v4h5"/>',
     taal: '<path d="M3 4h6a3 3 0 0 1 3 3v14a4 4 0 0 0-4-2H3ZM21 4h-6a3 3 0 0 0-3 3v14a4 4 0 0 1 4-2h5Z"/>',
     mantelzorg: '<path d="m12 21-9-9a6 6 0 0 1 9-8 6 6 0 0 1 9 8Z"/>',
-    vrijwillig: '<path d="m12 3 3 6 7 1-5 5 1 7-6-3-6 3 1-7-5-5 7-1Z"/>'
+    vrijwillig: '<path d="m12 3 3 6 7 1-5 5 1 7-6-3-6 3 1-7-5-5 7-1Z"/>',
+    basis: '<path d="M4 11h16M5 11a7 7 0 0 0 14 0M8 7h8M10 3h4"/>'
 };
 const icon = name => `<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">${paths[name] || paths.advies}</svg>`;
 const categories = {
@@ -27,7 +28,8 @@ const categories = {
     jeugd: 'Jeugd',
     mentaal: 'Mentale gezondheid',
     vervoer: 'Vervoer',
-    bewegen: 'Sport'
+    bewegen: 'Sport',
+    basis: 'Eten & basis'
 };
 let state = {
     municipality: '',
