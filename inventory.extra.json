@@ -15094,7 +15094,8 @@
       "postcode": "7622 DH",
       "town": "Borne",
       "locationType": "contact",
-      "locationSource": "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne"
+      "locationSource": "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne",
+      "mapLocationType": "service-area"
     },
     {
       "sourceKind": "regional",
