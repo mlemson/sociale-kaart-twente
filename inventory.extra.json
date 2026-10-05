@@ -847,6 +847,93 @@
       "municipalities": [
         "Haaksbergen"
       ]
+    },
+    {
+      "title": "All4Free Twente · Sociale Kaart Almelo",
+      "url": "https://socialekaart.almelo.nl/is/organisatie/327457/invis2/all4free-twente",
+      "municipalities": [
+        "Almelo",
+        "Enschede",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "All4Free Twente · Beien",
+      "url": "https://www.beien.nl/all4free/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Stichting Help Anderen",
+      "url": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/",
+      "municipalities": [
+        "Hengelo"
+      ]
+    },
+    {
+      "title": "Informatiewijzer Hengelo · Stichting Help Anderen",
+      "url": "https://www.informatiewijzerhengelo.nl/onderwerp/grip-op-geld",
+      "municipalities": [
+        "Hengelo"
+      ]
+    },
+    {
+      "title": "Stichting getITfree",
+      "url": "https://www.getitfree.nl/Ontvangen/Aanmelden",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Buurthuis Beien · Werkplaats",
+      "url": "https://www.beien.nl/werkplaats/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Gemeente Hengelo · menstruatieproducten uitgiftepunten",
+      "url": "https://www.hengelo.nl/bestanden/documenten/Gemeentenieuws/2025/2025-39-Gemeentenieuws_web.pdf",
+      "municipalities": [
+        "Hengelo"
+      ]
+    },
+    {
+      "title": "Gemeente Almelo · FIXbrigade",
+      "url": "https://www.almelo.nl/energie/energie-besparen-met-hulp-energiefixer",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Gemeente Hengelo · FIXbrigade",
+      "url": "https://www.hengelo.nl/duurzaam/hulp-bij-verduurzamen/fixbrigade.html",
+      "municipalities": [
+        "Hengelo"
+      ]
+    },
+    {
+      "title": "Gemeente Enschede · FIXbrigade",
+      "url": "https://www.enschede.nl/energieloket",
+      "municipalities": [
+        "Enschede"
+      ]
     }
   ],
   "candidates": [
@@ -16920,6 +17007,472 @@
       "locationSource": "https://www.wijkracht.nl/over-ons",
       "locationInheritedFromGroup": true,
       "addressChecked": "2026-10-05"
+    },
+    {
+      "sourceKind": "regional",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-all4free-twente",
+      "name": "All4Free Twente · hulp voor minima en gezinnen",
+      "source": "https://socialekaart.almelo.nl/is/organisatie/327457/invis2/all4free-twente",
+      "sourceTitle": "All4Free Twente / Sociale Kaart Almelo",
+      "municipalities": [
+        "Almelo",
+        "Enschede",
+        "Haaksbergen",
+        "Hengelo",
+        "Oldenzaal"
+      ],
+      "municipality": "",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "geld"
+      ],
+      "subthemes": [
+        "armoede",
+        "voedsel",
+        "kleding",
+        "kinderen"
+      ],
+      "tags": [
+        "basis",
+        "armoede",
+        "minima",
+        "voedsel",
+        "kleding",
+        "huisraad",
+        "speelgoed",
+        "schoolspullen",
+        "verzorgingsproducten",
+        "menstruatieproducten",
+        "verjaardag"
+      ],
+      "description": "Vrijwilligersorganisatie voor minima en gezinnen die tijdelijk financieel klem zitten, met voedsel, kleding, huisraad, verzorgingsproducten, speelgoed, schoolspullen en extra steun rond verjaardagen en feestdagen.",
+      "audience": "Minima, werkende armen en gezinnen die in Twente tijdelijk tussen wal en schip vallen.",
+      "access": "Neem rechtstreeks contact op met All4Free. De organisatie werkt vanuit locaties in Enschede en Hengelo en heeft meerdere ophaal-/uitgiftepunten in Twente.",
+      "costs": "Gratis ondersteuning voor mensen die voor hulp in aanmerking komen.",
+      "guidePaths": [
+        "basis/eten",
+        "basis/kleding",
+        "basis/praktisch",
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "phone": "06-50921417",
+      "email": "info@all4freetwente.nl",
+      "activities": [
+        {
+          "name": "Voedsel en boodschappen"
+        },
+        {
+          "name": "Kleding en schoenen"
+        },
+        {
+          "name": "Huisraad en verzorgingsproducten"
+        },
+        {
+          "name": "Speelgoed en schoolspullen"
+        },
+        {
+          "name": "Verjaardagscadeaus en traktaties"
+        },
+        {
+          "name": "MUP menstruatieproducten"
+        },
+        {
+          "name": "Directe crisishulp",
+          "description": "Bij urgente behoefte aan bijvoorbeeld voedsel of kleding."
+        }
+      ],
+      "activitiesSource": "https://www.beien.nl/all4free/"
+    },
+    {
+      "sourceKind": "regional",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-help-anderen-hengelo",
+      "name": "Stichting Help Anderen · boodschappen- en dierenvoedselhulp",
+      "source": "https://www.informatiewijzerhengelo.nl/onderwerp/grip-op-geld",
+      "sourceTitle": "Informatiewijzer Hengelo / Stichting Help Anderen",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "geld"
+      ],
+      "subthemes": [
+        "voedselhulp",
+        "dierenvoedsel",
+        "kringloop"
+      ],
+      "tags": [
+        "basis",
+        "eten",
+        "voedselpakket",
+        "dierenvoedselbank",
+        "kringloop",
+        "armoede",
+        "minimuminkomen"
+      ],
+      "description": "Lokale noodhulp voor inwoners met weinig geld die niet altijd bij de reguliere voedselbank terechtkunnen, met boodschappenpakketten en hulp voor huisdieren. De stichting heeft ook een kringloopfunctie.",
+      "audience": "Inwoners van Hengelo en omgeving met onvoldoende financiële ruimte, waaronder mensen die buiten de reguliere voedselbankcriteria vallen.",
+      "access": "Neem rechtstreeks contact op of bezoek de locatie; voor dierenvoedselhulp wordt samen gekeken wat mogelijk is.",
+      "costs": "Hulp is bedoeld voor mensen met financiële problemen; controleer de actuele voorwaarden.",
+      "guidePaths": [
+        "basis/eten",
+        "basis/praktisch",
+        "geld/regelingen"
+      ],
+      "address": "Deurningerstraat 94",
+      "postcode": "7557 HH",
+      "town": "Hengelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/",
+      "mapPin": true
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-getitfree",
+      "name": "Stichting getITfree · computer voor mensen met een kleine beurs",
+      "source": "https://www.getitfree.nl/Ontvangen/Aanmelden",
+      "sourceTitle": "Stichting getITfree",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "taal",
+        "geld"
+      ],
+      "subthemes": [
+        "computer",
+        "digitale toegang",
+        "armoede"
+      ],
+      "tags": [
+        "basis",
+        "computer",
+        "laptop",
+        "tablet",
+        "digitaal",
+        "minima",
+        "armoede",
+        "hergebruik",
+        "school"
+      ],
+      "description": "Stichting getITfree knapt gebruikte computers en laptops op en geeft deze door aan mensen in Twente die zelf geen bruikbaar apparaat kunnen betalen.",
+      "audience": "Inwoners van Twente die geen voldoende werkende computer hebben, deze niet zelf kunnen betalen en geen passende andere regeling of oplossing hebben.",
+      "access": "Aanmelden volgens de actuele aanvraagroute. De stichting beoordeelt de aanvraag en beschikbaarheid; voor sommige apparatuur kunnen aanvullende voorwaarden gelden.",
+      "costs": "Een toegewezen tweedehands computersysteem wordt als ondersteuning verstrekt; controleer de actuele voorwaarden.",
+      "guidePaths": [
+        "basis/praktisch",
+        "taal/digitaal",
+        "geld/regelingen"
+      ],
+      "address": "Uitslagsweg 47",
+      "postcode": "7556 LN",
+      "town": "Hengelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.getitfree.nl/Ontvangen/Aanmelden",
+      "mapPin": true,
+      "openingHours": "Vrijdag 10.00–14.00, alleen op afspraak",
+      "phone": "06-33335074",
+      "email": "aanvraag@getitfree.nl"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-beien-werkplaats",
+      "name": "Buurthuis Beien · betaalbare reparatiewerkplaats",
+      "source": "https://www.beien.nl/werkplaats/",
+      "sourceTitle": "Buurthuis Beien",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis"
+      ],
+      "subthemes": [
+        "reparatie",
+        "fiets",
+        "huishoudelijke apparaten"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "repareren",
+        "fiets",
+        "stofzuiger",
+        "huishoudelijke apparaten",
+        "goedkoop",
+        "hergebruik"
+      ],
+      "description": "Werkplaats waar vrijwilligers en stagiaires fietsen en kleine huishoudelijke apparaten tegen een laag tarief repareren.",
+      "audience": "Wijkbewoners en andere inwoners die een fiets of klein huishoudelijk apparaat betaalbaar willen laten repareren.",
+      "access": "Loop binnen tijdens de openingstijden en vraag naar de mogelijkheden; sommige apparaten worden alleen op aanvraag gerepareerd.",
+      "costs": "€5 startprijs tot 30 minuten; daarna €10 per uur. Eventuele materialen kunnen extra kosten.",
+      "guidePaths": [
+        "basis/praktisch"
+      ],
+      "address": "Meeuwenstraat 160",
+      "postcode": "7523 XZ",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.beien.nl/werkplaats/",
+      "mapPin": true,
+      "openingHours": "Dinsdag en donderdag 10.00–14.00",
+      "phone": "053-7370268",
+      "email": "info@beien.nl"
+    },
+    {
+      "sourceKind": "regional",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-mup-hengelo",
+      "name": "Hengelo · gratis menstruatieproducten (MUP)",
+      "source": "https://www.hengelo.nl/bestanden/documenten/Gemeentenieuws/2025/2025-39-Gemeentenieuws_web.pdf",
+      "sourceTitle": "Gemeente Hengelo",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "geld"
+      ],
+      "subthemes": [
+        "menstruatieproducten",
+        "armoede"
+      ],
+      "tags": [
+        "basis",
+        "menstruatieproducten",
+        "maandverband",
+        "tampons",
+        "MUP",
+        "armoede",
+        "gratis"
+      ],
+      "description": "Gratis menstruatieproducten op meerdere openbare uitgiftepunten in Hengelo voor mensen die daar onvoldoende geld voor hebben.",
+      "audience": "Iedereen in Hengelo die menstruatieproducten nodig heeft maar deze niet altijd kan betalen.",
+      "access": "Vrij ophalen bij een openbaar Menstruatieproducten Uitgiftepunt (MUP); schoollocaties zijn voor eigen leerlingen.",
+      "costs": "Gratis.",
+      "guidePaths": [
+        "basis/praktisch",
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "activities": [
+        {
+          "name": "Bibliotheek Hengelo Stad",
+          "location": "Beursstraat 34"
+        },
+        {
+          "name": "Wijkhuys Hasselo",
+          "location": "Henry Woodstraat 62"
+        },
+        {
+          "name": "Voedselbank Midden Twente",
+          "location": "Beitelstraat 3"
+        },
+        {
+          "name": "All4Free Twente",
+          "location": "Slauerhoffstraat 25"
+        },
+        {
+          "name": "Goede doelenkast Tuindorp",
+          "location": "Van Markenstraat 7"
+        }
+      ],
+      "activitiesNote": "Daarnaast zijn er MUP's op meerdere scholen voor de eigen leerlingen.",
+      "activitiesSource": "https://www.hengelo.nl/bestanden/documenten/Gemeentenieuws/2025/2025-39-Gemeentenieuws_web.pdf"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-fixbrigade-almelo",
+      "name": "FIXbrigade Almelo · gratis energiebesparende maatregelen",
+      "source": "https://www.almelo.nl/energie/energie-besparen-met-hulp-energiefixer",
+      "sourceTitle": "FIXbrigade Almelo",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "geld"
+      ],
+      "subthemes": [
+        "energie",
+        "energiebesparing",
+        "klushulp"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "energie",
+        "fixbrigade",
+        "tochtstrips",
+        "radiatorfolie",
+        "ledlampen",
+        "gratis",
+        "energiekosten"
+      ],
+      "description": "Energiefixers komen gratis thuis en plaatsen kleine energiebesparende materialen zoals tochtstrips, radiatorfolie en ledlampen.",
+      "audience": "Met name huurders in Almelo met een hoge energierekening; controleer de actuele voorwaarden.",
+      "access": "Rechtstreeks een afspraak aanvragen bij Almelo Energie.",
+      "costs": "Hulp, montage en de kleine energiebesparende materialen zijn gratis.",
+      "guidePaths": [
+        "basis/praktisch",
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "phone": "06-13067582",
+      "email": "energiehulp@almelo-energie.nl"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-fixbrigade-hengelo",
+      "name": "FIXbrigade Hengelo · gratis energiehulp aan huis",
+      "source": "https://www.hengelo.nl/duurzaam/hulp-bij-verduurzamen/fixbrigade.html",
+      "sourceTitle": "FIXbrigade Hengelo",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "geld"
+      ],
+      "subthemes": [
+        "energie",
+        "energiebesparing",
+        "klushulp"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "energie",
+        "fixbrigade",
+        "tochtstrips",
+        "radiatorfolie",
+        "ledlampen",
+        "gratis",
+        "energiekosten"
+      ],
+      "description": "Gratis praktische energiehulp aan huis met eenvoudige maatregelen zoals tochtstrips, radiatorfolie en ledlampen, inclusief materialen en montage.",
+      "audience": "Inwoners van Hengelo die energie willen besparen; de dienst is voor alle inwoners beschikbaar.",
+      "access": "Afspraak aanvragen bij de FIXbrigade/Energie van Hengelo.",
+      "costs": "Gratis.",
+      "guidePaths": [
+        "basis/praktisch",
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "phone": "074-2020008",
+      "email": "info@energievanhengelo.nl"
+    },
+    {
+      "sourceKind": "first-party",
+      "checked": "2026-10-05",
+      "accessStatus": "source-check",
+      "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
+      "status": "candidate",
+      "id": "extra-20261005-fixbrigade-enschede",
+      "name": "FIXbrigade Enschede · gratis kleine energiebesparende klussen",
+      "source": "https://www.enschede.nl/energieloket",
+      "sourceTitle": "FIXbrigade Enschede",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis",
+        "geld"
+      ],
+      "subthemes": [
+        "energie",
+        "energiebesparing",
+        "klushulp"
+      ],
+      "tags": [
+        "basis",
+        "praktisch",
+        "energie",
+        "fixbrigade",
+        "tochtstrips",
+        "radiatorfolie",
+        "gratis",
+        "energiekosten"
+      ],
+      "description": "De FIXbrigade komt gratis thuis om kleine energiebesparende maatregelen uit te voeren, bijvoorbeeld tochtstrips of radiatorfolie plaatsen.",
+      "audience": "Inwoners van Enschede die hulp kunnen gebruiken om energie te besparen.",
+      "access": "Aanmelden via het Energieloket Enschede.",
+      "costs": "Gratis hulp en kleine maatregelen.",
+      "guidePaths": [
+        "basis/praktisch",
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "phone": "053-2062003"
     }
   ],
   "addressEnrichmentVersion": 1,
