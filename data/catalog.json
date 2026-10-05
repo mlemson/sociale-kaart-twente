@@ -5272,6 +5272,235 @@
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/11881113/wijzer/bibliotheek-almelo"
   },
   {
+    "id": "org-bibliotheek-borne-1tjiifz",
+    "organization": "Bibliotheek Borne",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "taal",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://taal.bibliotheek.nl/aanbieder/12161505.bibliotheek-borne.html"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-bibliotheek-borne",
+        "title": "Taalhus, Klik & Tik en ontmoeting",
+        "name": "Bibliotheek Borne · Taalhus, Klik & Tik en ontmoeting",
+        "description": "Bibliotheek in Kulturhus Borne met taalondersteuning, digitale cursussen, internationale koffieochtend, werkplekken en ontmoeting.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "Taalhus",
+          "digitaal",
+          "taalcafé"
+        ],
+        "tags": [
+          "taal",
+          "digitaal",
+          "Taalhus",
+          "Klik & Tik",
+          "taalcafé",
+          "bibliotheek"
+        ],
+        "guidePaths": [
+          "taal/nederlands",
+          "taal/digitaal",
+          "taal/basis",
+          "migratie/taal",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [
+          {
+            "name": "Taalhus Borne"
+          },
+          {
+            "name": "Taalcafé"
+          },
+          {
+            "name": "Klik & Tik",
+            "description": "Gratis cursus digitale basisvaardigheden."
+          },
+          {
+            "name": "Taalcoach / taalmaatje"
+          },
+          {
+            "name": "Internationale Koffie Ochtend"
+          },
+          {
+            "name": "DoorleesExpress en VoorleesExpress"
+          }
+        ],
+        "activitiesNote": "",
+        "activitiesSource": "https://taal.bibliotheek.nl/aanbieder/12161505.bibliotheek-borne.html",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Borne van alle leeftijden.",
+        "costs": "Onder meer Klik & Tik is gratis.",
+        "access": "Vrij toegankelijk; voor sommige cursussen is aanmelden nodig.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://taal.bibliotheek.nl/aanbieder/12161505.bibliotheek-borne.html",
+        "sourceKind": "regional",
+        "sourceTitle": "Bibliotheek Borne",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "De Haven 1",
+        "postcode": "7622DH",
+        "town": "Borne",
+        "lat": 52.30236616,
+        "lon": 6.75844818,
+        "locationType": "source-address",
+        "locationSource": "https://taal.bibliotheek.nl/aanbieder/12161505.bibliotheek-borne.html",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "De Haven 1",
+      "postcode": "7622DH",
+      "town": "Borne",
+      "lat": 52.30236616,
+      "lon": 6.75844818,
+      "locationMunicipality": "Borne",
+      "locationType": "source-address",
+      "locationSource": "https://taal.bibliotheek.nl/aanbieder/12161505.bibliotheek-borne.html",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://taal.bibliotheek.nl/aanbieder/12161505.bibliotheek-borne.html"
+  },
+  {
+    "id": "org-bibliotheek-dinkelland-1oto9pn",
+    "organization": "Bibliotheek Dinkelland",
+    "municipalities": [
+      "Dinkelland"
+    ],
+    "categories": [
+      "taal",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.bibliotheekdinkelland.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-bibliotheek-dinkelland",
+        "title": "Taalhuis, IDO en digitale hulp",
+        "name": "Bibliotheek Dinkelland · Taalhuis, IDO en digitale hulp",
+        "description": "Bibliotheekvoorziening met Taalhuis, gratis computer- en overheidsspreekuren, studieplekken, activiteiten en ruimte voor ontmoeting.",
+        "municipality": "Dinkelland",
+        "municipalities": [
+          "Dinkelland"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "Taalhuis",
+          "digitaal",
+          "basisvaardigheden"
+        ],
+        "tags": [
+          "taal",
+          "digitaal",
+          "Taalhuis",
+          "IDO",
+          "bibliotheek",
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "taal/nederlands",
+          "taal/digitaal",
+          "taal/basis",
+          "migratie/taal",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [
+          {
+            "name": "Taalhuis",
+            "description": "Lezen, schrijven, Nederlands, rekenen en digitale basisvaardigheden."
+          },
+          {
+            "name": "Informatiepunt Digitale Overheid"
+          },
+          {
+            "name": "Computerspreekuur"
+          },
+          {
+            "name": "OV-reisadvies spreekuur"
+          },
+          {
+            "name": "Studie- en werkplekken"
+          }
+        ],
+        "activitiesNote": "",
+        "activitiesSource": "https://www.bibliotheekdinkelland.nl/hulp-en-leren.html",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Dinkelland van alle leeftijden.",
+        "costs": "Taalhuis en diverse spreekuren zijn gratis.",
+        "access": "Vrij binnenlopen; Taalhuis en spreekuren zijn ook toegankelijk zonder bibliotheeklidmaatschap.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.bibliotheekdinkelland.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Bibliotheek Dinkelland",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Oranjestraat 21",
+        "postcode": "7591GA",
+        "town": "Denekamp",
+        "lat": 52.37472391,
+        "lon": 7.0003195,
+        "locationType": "visiting",
+        "locationSource": "https://www.bibliotheekdinkelland.nl/",
+        "locationMunicipality": "Dinkelland",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Oranjestraat 21",
+      "postcode": "7591GA",
+      "town": "Denekamp",
+      "lat": 52.37472391,
+      "lon": 7.0003195,
+      "locationMunicipality": "Dinkelland",
+      "locationType": "visiting",
+      "locationSource": "https://www.bibliotheekdinkelland.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.bibliotheekdinkelland.nl/"
+  },
+  {
     "id": "org-bibliotheek-enschede-haaksbergen-10lzo9a",
     "organization": "Bibliotheek Enschede-Haaksbergen",
     "municipalities": [
@@ -5985,6 +6214,118 @@
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/12020502/wijzer/bibliotheek-rijssen"
   },
   {
+    "id": "org-bibliotheek-tubbergen-1jinoij",
+    "organization": "Bibliotheek Tubbergen",
+    "municipalities": [
+      "Tubbergen"
+    ],
+    "categories": [
+      "taal",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://bibliotheektubbergen.op-shop.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-bibliotheek-tubbergen",
+        "title": "digitaal, leren en ontmoeting",
+        "name": "Bibliotheek Tubbergen · digitaal, leren en ontmoeting",
+        "description": "Bibliotheek in het centrum van Tubbergen met gratis digitale hulp, werkplekken, spreekuren, activiteiten en BasisLab.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "digitaal",
+          "leren",
+          "activiteiten"
+        ],
+        "tags": [
+          "taal",
+          "digitaal",
+          "IDO",
+          "bibliotheek",
+          "BasisLab",
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "taal/digitaal",
+          "taal/basis",
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [
+          {
+            "name": "Informatiepunt Digitale Overheid",
+            "schedule": "dinsdag 14.00–16.00"
+          },
+          {
+            "name": "Bankinformatiepunt"
+          },
+          {
+            "name": "Belastingspreekuur"
+          },
+          {
+            "name": "BasisLab"
+          },
+          {
+            "name": "Werkplekken en gratis wifi"
+          }
+        ],
+        "activitiesNote": "",
+        "activitiesSource": "https://bibliotheektubbergen.op-shop.nl/",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Tubbergen van alle leeftijden.",
+        "costs": "IDO en verschillende activiteiten zijn gratis.",
+        "access": "Vrij toegankelijk; het IDO is ook zonder lidmaatschap toegankelijk.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://bibliotheektubbergen.op-shop.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Bibliotheek Tubbergen",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Raadhuisplein 4",
+        "postcode": "7651CV",
+        "town": "Tubbergen",
+        "lat": 52.40837485,
+        "lon": 6.78133142,
+        "locationType": "visiting",
+        "locationSource": "https://bibliotheektubbergen.op-shop.nl/",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Raadhuisplein 4",
+      "postcode": "7651CV",
+      "town": "Tubbergen",
+      "lat": 52.40837485,
+      "lon": 6.78133142,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "visiting",
+      "locationSource": "https://bibliotheektubbergen.op-shop.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://bibliotheektubbergen.op-shop.nl/"
+  },
+  {
     "id": "org-bibliotheek-twente-h33v3i",
     "organization": "Bibliotheek Twente",
     "municipalities": [
@@ -6409,6 +6750,117 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.bibliotheektwente.nl/activiteiten"
+  },
+  {
+    "id": "org-bibliotheek-twenterand-6xljkl",
+    "organization": "Bibliotheek Twenterand",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "taal",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.bibliotheektwenterand.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-bibliotheek-twenterand",
+        "title": "leren, digitaal en ontmoeting",
+        "name": "Bibliotheek Twenterand · leren, digitaal en ontmoeting",
+        "description": "Vier bibliotheekvestigingen in Twenterand met gratis digitale hulp, leren en oefenen, werkplekken, activiteiten en ontmoeting.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "digitaal",
+          "leren",
+          "basisvaardigheden"
+        ],
+        "tags": [
+          "taal",
+          "digitaal",
+          "IDO",
+          "bibliotheek",
+          "avondschool",
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "taal/nederlands",
+          "taal/digitaal",
+          "taal/basis",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [
+          {
+            "name": "Informatiepunt Digitale Overheid (IDO)"
+          },
+          {
+            "name": "Avondschool Vroomshoop"
+          },
+          {
+            "name": "Nederlands leren en oefenen"
+          },
+          {
+            "name": "Computer- en digitale hulp"
+          },
+          {
+            "name": "Activiteiten voor jeugd en volwassenen"
+          }
+        ],
+        "activitiesNote": "",
+        "activitiesSource": "https://www.bibliotheektwenterand.nl/",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Twenterand van alle leeftijden.",
+        "costs": "IDO en diverse basisvaardigheidsactiviteiten zijn gratis.",
+        "access": "Vrij toegankelijk; voor het Informatiepunt Digitale Overheid is aanmelden niet nodig.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.bibliotheektwenterand.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Bibliotheek Twenterand",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Jonkerlaan 4",
+        "postcode": "7671GM",
+        "town": "Vriezenveen",
+        "lat": 52.41080947,
+        "lon": 6.62430923,
+        "locationType": "contact",
+        "locationSource": "https://www.bibliotheektwenterand.nl/onze-vestigingen/vestiging.12105888.html/bibliotheek-twenterand---vriezenveen/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Jonkerlaan 4",
+      "postcode": "7671GM",
+      "town": "Vriezenveen",
+      "lat": 52.41080947,
+      "lon": 6.62430923,
+      "locationMunicipality": "Twenterand",
+      "locationType": "contact",
+      "locationSource": "https://www.bibliotheektwenterand.nl/onze-vestigingen/vestiging.12105888.html/bibliotheek-twenterand---vriezenveen/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.bibliotheektwenterand.nl/"
   },
   {
     "id": "org-bibliotheek-wierden-x3ydwv",
@@ -8050,6 +8502,102 @@
     "primarySource": "https://sociaalhus.nl/publicaties/582/ontmoeten"
   },
   {
+    "id": "org-de-huiskamer-van-hellendoorn-27wmho",
+    "organization": "De Huiskamer van Hellendoorn",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://dehuiskamernijverdal.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-huiskamer-hellendoorn",
+        "title": "vrije inloop",
+        "name": "De Huiskamer van Hellendoorn · vrije inloop",
+        "description": "Onafhankelijk en vrij toegankelijk ontmoetingscafé voor alle inwoners van de gemeente Hellendoorn, met koffie/thee, gesprek, een luisterend oor, cursussen en eetgroepen.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "ontmoeten/samen",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [
+          {
+            "name": "Vrije inloop en ontmoeting"
+          },
+          {
+            "name": "Luisterend oor en doorverwijzen"
+          },
+          {
+            "name": "Cursussen en workshops"
+          },
+          {
+            "name": "Eetgroepen"
+          }
+        ],
+        "activitiesNote": "",
+        "activitiesSource": "https://dehuiskamernijverdal.nl/",
+        "activitiesUpdated": "",
+        "audience": "Alle inwoners van de gemeente Hellendoorn.",
+        "costs": "Geen verplichte kosten; wie kan betalen kan een vrijwillige bijdrage geven.",
+        "access": "Vrij binnenlopen; geen consumptieverplichting.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://dehuiskamernijverdal.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "De Huiskamer van Hellendoorn",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Markt 3",
+        "postcode": "7442EC",
+        "town": "Nijverdal",
+        "lat": 52.36446339,
+        "lon": 6.46440293,
+        "locationType": "visiting",
+        "locationSource": "https://dehuiskamernijverdal.nl/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Markt 3",
+      "postcode": "7442EC",
+      "town": "Nijverdal",
+      "lat": 52.36446339,
+      "lon": 6.46440293,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "visiting",
+      "locationSource": "https://dehuiskamernijverdal.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://dehuiskamernijverdal.nl/"
+  },
+  {
     "id": "org-de-jordaan-de-bouwmeester-1awpxtf",
     "organization": "De Jordaan / De Bouwmeester",
     "municipalities": [
@@ -8757,6 +9305,93 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.dewelledoet.nl/activiteiten/agenda?locatie=Gemeente+Hellendoorn"
+  },
+  {
+    "id": "org-de-slinger-hengelo-inl9sy",
+    "organization": "De Slinger Hengelo",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "vrijwillig"
+    ],
+    "sources": [
+      "https://www.deslingerhengelo.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-de-slinger-hengelo",
+        "title": "maatschappelijke matches",
+        "name": "De Slinger Hengelo · maatschappelijke matches",
+        "description": "Verbindt maatschappelijke organisaties en bewonersinitiatieven met bedrijven die kennis, materialen, menskracht of andere hulp kunnen bieden.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "vrijwillig",
+        "themes": [
+          "vrijwillig"
+        ],
+        "subthemes": [
+          "maatschappelijke initiatieven",
+          "bedrijven"
+        ],
+        "tags": [
+          "vrijwillig",
+          "maatschappelijke organisaties",
+          "buurtinitiatieven",
+          "matches"
+        ],
+        "guidePaths": [
+          "meedoen/vrijwillig"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Maatschappelijke organisaties en initiatieven in Hengelo.",
+        "costs": "Bekijk de actuele voorwaarden bij De Slinger.",
+        "access": "Vraag of aanbod kan via De Slinger worden ingebracht; daarnaast is er de jaarlijkse Slingerbeurs.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.deslingerhengelo.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "De Slinger Hengelo",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Wegtersweg 14",
+        "postcode": "7556BR",
+        "town": "Hengelo",
+        "lat": 52.27436286,
+        "lon": 6.78016265,
+        "locationType": "contact",
+        "locationSource": "https://www.deslingerhengelo.nl/312/contact",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Wegtersweg 14",
+      "postcode": "7556BR",
+      "town": "Hengelo",
+      "lat": 52.27436286,
+      "lon": 6.78016265,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "contact",
+      "locationSource": "https://www.deslingerhengelo.nl/312/contact",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.deslingerhengelo.nl/"
   },
   {
     "id": "org-de-viermarken-b8qium",
@@ -15274,6 +15909,96 @@
     "primarySource": "https://hellendoorn.smartmap.nl/rubriek/3631/buurtorganisaties"
   },
   {
+    "id": "org-het-punt-vroomshoop-18kym31",
+    "organization": "Het Punt Vroomshoop",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.welkombijhetpunt.nl/over_ons/locatie-openingstijden/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-het-punt-vroomshoop",
+        "title": "ontmoetings- en activiteitencentrum",
+        "name": "Het Punt Vroomshoop · ontmoetings- en activiteitencentrum",
+        "description": "Centrale ontmoetings- en activiteitenplek in Vroomshoop met bibliotheek, verenigingen en maatschappelijke organisaties zoals ZorgSaam en VluchtelingenWerk.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "activiteiten",
+          "cultuur",
+          "buurt"
+        ],
+        "tags": [
+          "ontmoeten",
+          "activiteiten",
+          "bibliotheek",
+          "welzijn",
+          "cultuur"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Vroomshoop en omgeving.",
+        "costs": "",
+        "access": "Toegankelijk tijdens activiteiten en openingstijden van de aanwezige organisaties.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.welkombijhetpunt.nl/over_ons/locatie-openingstijden/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Het Punt Vroomshoop",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 4",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45827574,
+        "lon": 6.56844426,
+        "locationType": "visiting",
+        "locationSource": "https://www.welkombijhetpunt.nl/over_ons/locatie-openingstijden/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Burgemeester Koetjestraat 4",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45827574,
+      "lon": 6.56844426,
+      "locationMunicipality": "Twenterand",
+      "locationType": "visiting",
+      "locationSource": "https://www.welkombijhetpunt.nl/over_ons/locatie-openingstijden/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.welkombijhetpunt.nl/over_ons/locatie-openingstijden/"
+  },
+  {
     "id": "org-het-saalmerink-tvopj3",
     "organization": "Het Saalmerink",
     "municipalities": [
@@ -16767,11 +17492,12 @@
       "https://www.impuls-oldenzaal.nl/agenda/formulierenservice/",
       "https://www.impuls-oldenzaal.nl/agenda/soofi-bewegen-en-ontmoeten/",
       "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
-      "https://www.impuls-oldenzaal.nl/agenda/koffie-inloop-de-symfonie/"
+      "https://www.impuls-oldenzaal.nl/agenda/koffie-inloop-de-symfonie/",
+      "https://www.impuls-oldenzaal.nl/diensten/verjaardagsbox-oldenzaal/"
     ],
-    "offerCount": 41,
+    "offerCount": 42,
     "reviewNeeded": 0,
-    "sourceBacked": 41,
+    "sourceBacked": 42,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -18496,6 +19222,61 @@
         "sourceKind": "first-party",
         "sourceTitle": "Impuls",
         "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Wilhelminastraat 5",
+        "postcode": "7571CE",
+        "town": "Oldenzaal",
+        "lat": 52.31188249,
+        "lon": 6.93145973,
+        "locationType": "contact",
+        "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261005-verjaardagsbox-oldenzaal",
+        "title": "Verjaardagsbox Oldenzaal",
+        "name": "Impuls · Verjaardagsbox Oldenzaal",
+        "description": "Verjaardagsbox voor kinderen en jongeren uit gezinnen met financiële zorgen, met versiering, traktaties en een passend cadeau of tegoedbon.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "jeugd"
+        ],
+        "subthemes": [
+          "kinderen",
+          "armoede"
+        ],
+        "tags": [
+          "geld",
+          "jeugd",
+          "verjaardagsbox",
+          "armoede"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Kinderen en jongeren van 1 tot en met 18 jaar uit gezinnen met financiële zorgen in Oldenzaal.",
+        "costs": "Gratis voor goedgekeurde gezinnen.",
+        "access": "Aanmelden verloopt via Stichting Leergeld Oldenzaal; ook professionals kunnen doorverwijzen.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.impuls-oldenzaal.nl/diensten/verjaardagsbox-oldenzaal/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls",
+        "checked": "2026-10-05",
         "reviewStatus": "source-backed",
         "address": "Wilhelminastraat 5",
         "postcode": "7571CE",
@@ -20474,6 +21255,98 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.kledingbankenschede.nl/klant-worden/"
+  },
+  {
+    "id": "org-kledingbank-oost-twente-1672ovh",
+    "organization": "Kledingbank Oost Twente",
+    "municipalities": [
+      "Dinkelland",
+      "Hengelo",
+      "Oldenzaal",
+      "Tubbergen"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://www.sociaalpleinoldenzaal.nl/is/organisatie/278879/invis2/stichting-kledingbank-oosttwente"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-kledingbank-oost-twente",
+        "title": "gratis kleding",
+        "name": "Kledingbank Oost Twente · gratis kleding",
+        "description": "Gratis kleding voor gezinnen en alleenstaanden die het financieel moeilijk hebben; in verschillende gemeenten kan een lokale hulporganisatie als intakepunt dienen.",
+        "municipality": "",
+        "municipalities": [
+          "Oldenzaal",
+          "Dinkelland",
+          "Tubbergen",
+          "Hengelo"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "kleding"
+        ],
+        "tags": [
+          "basis",
+          "kleding",
+          "armoede",
+          "gratis"
+        ],
+        "guidePaths": [
+          "basis/kleding"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Mensen die financieel onvoldoende ruimte hebben voor kleding.",
+        "costs": "Gratis.",
+        "access": "Aanmelden/intake via een aangesloten lokaal loket of de kledingbank; voorwaarden verschillen per gemeente.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.sociaalpleinoldenzaal.nl/is/organisatie/278879/invis2/stichting-kledingbank-oosttwente",
+        "sourceKind": "regional",
+        "sourceTitle": "Sociaal Plein Oldenzaal",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Nijverheidsstraat 97",
+        "postcode": "7575BH",
+        "town": "Oldenzaal",
+        "lat": 52.29378759,
+        "lon": 6.92796947,
+        "locationType": "source-address",
+        "locationSource": "https://www.sociaalpleinoldenzaal.nl/is/organisatie/278879/invis2/stichting-kledingbank-oosttwente",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Nijverheidsstraat 97",
+      "postcode": "7575BH",
+      "town": "Oldenzaal",
+      "lat": 52.29378759,
+      "lon": 6.92796947,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "source-address",
+      "locationSource": "https://www.sociaalpleinoldenzaal.nl/is/organisatie/278879/invis2/stichting-kledingbank-oosttwente",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.sociaalpleinoldenzaal.nl/is/organisatie/278879/invis2/stichting-kledingbank-oosttwente"
   },
   {
     "id": "org-kraambank-losser-1uum7sp",
@@ -33221,6 +34094,94 @@
     "primarySource": "https://swtd.nl/ons-aanbod/ouder-worden/activiteiten-en-cursussen"
   },
   {
+    "id": "org-speelgoed-en-kledingbank-twenterand-m880ll",
+    "organization": "Speelgoed- en Kledingbank Twenterand",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://speelgoed-kledingbanktwenterand.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-speelgoed-kledingbank-twenterand",
+        "title": "gratis kleding en speelgoed",
+        "name": "Speelgoed- en Kledingbank Twenterand · gratis kleding en speelgoed",
+        "description": "Laagdrempelige voorziening waar gezinnen, kinderen en volwassenen met weinig besteedbaar inkomen gratis kleding, schoenen en speelgoed kunnen uitzoeken.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "kleding",
+          "speelgoed"
+        ],
+        "tags": [
+          "basis",
+          "kleding",
+          "speelgoed",
+          "armoede",
+          "gratis"
+        ],
+        "guidePaths": [
+          "basis/kleding"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Mensen met een minimaal besteedbaar inkomen in Twenterand en omgeving.",
+        "costs": "Gratis.",
+        "access": "Aanmelden op basis van vertrouwen; geen loonstroken of uitgebreide inkomenscontrole.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://speelgoed-kledingbanktwenterand.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Speelgoed- en Kledingbank Twenterand",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Het Bassin 23a",
+        "postcode": "7671ST",
+        "town": "Vriezenveen",
+        "lat": 52.40894816,
+        "lon": 6.63427471,
+        "locationType": "visiting",
+        "locationSource": "https://speelgoed-kledingbanktwenterand.nl/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Het Bassin 23a",
+      "postcode": "7671ST",
+      "town": "Vriezenveen",
+      "lat": 52.40894816,
+      "lon": 6.63427471,
+      "locationMunicipality": "Twenterand",
+      "locationType": "visiting",
+      "locationSource": "https://speelgoed-kledingbanktwenterand.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://speelgoed-kledingbanktwenterand.nl/"
+  },
+  {
     "id": "org-speelgoedbank-twente-almelo-k8hpxb",
     "organization": "Speelgoedbank Twente-Almelo",
     "municipalities": [
@@ -34071,6 +35032,166 @@
     "primarySource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma"
   },
   {
+    "id": "org-stichting-boom-s28ext",
+    "organization": "Stichting BOOM",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://stichtingboomhellendoorn.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 1,
+    "sourceBacked": 0,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-boom-hellendoorn",
+        "title": "Budget Op Orde Maken",
+        "name": "Stichting BOOM · Budget Op Orde Maken",
+        "description": "Gratis, persoonlijke en vertrouwelijke ondersteuning door maatjes om geldzaken te ordenen, achterstanden aan te pakken en beginnende schulden te voorkomen.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "geldzorgen",
+          "schuldhulpmaatje",
+          "administratie"
+        ],
+        "tags": [
+          "geld",
+          "schulden",
+          "budget",
+          "schuldhulpmaatje",
+          "gratis"
+        ],
+        "guidePaths": [
+          "geld/schulden",
+          "geld/formulieren"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Hellendoorn die moeite hebben hun geldzaken op orde te houden.",
+        "costs": "Gratis.",
+        "access": "Rechtstreeks en vrijblijvend contact opnemen.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://stichtingboomhellendoorn.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting BOOM",
+        "checked": "2026-10-05",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "review-needed",
+    "primarySource": "https://stichtingboomhellendoorn.nl/"
+  },
+  {
+    "id": "org-stichting-boot-l4icli",
+    "organization": "Stichting BOOT",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://bootintwenterand.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 1,
+    "sourceBacked": 0,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-boot-twenterand",
+        "title": "SchuldHulpMaatje",
+        "name": "Stichting BOOT · SchuldHulpMaatje",
+        "description": "Vrijwillige ondersteuning voor inwoners van Twenterand met financiële problemen of schulden om overzicht en grip op het budget terug te krijgen.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "schuldhulpmaatje",
+          "budget",
+          "geldzorgen"
+        ],
+        "tags": [
+          "geld",
+          "schulden",
+          "budget",
+          "schuldhulpmaatje",
+          "gratis"
+        ],
+        "guidePaths": [
+          "geld/schulden",
+          "geld/formulieren"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Alle inwoners van Twenterand met geldproblemen of schulden.",
+        "costs": "Gratis.",
+        "access": "Rechtstreeks contact opnemen met de coördinator voor de eigen woonkern.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://bootintwenterand.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting BOOT",
+        "checked": "2026-10-05",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "review-needed",
+    "primarySource": "https://bootintwenterand.nl/"
+  },
+  {
     "id": "org-stichting-buurtgezinnen-ar0jeq",
     "organization": "Stichting Buurtgezinnen",
     "municipalities": [
@@ -34227,6 +35348,183 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220582/invis2/stichting-de-welle"
+  },
+  {
+    "id": "org-stichting-geef-het-door-1w6sq1o",
+    "organization": "Stichting Geef het Door",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.wegwijstwenterand.nl/een-vraag-over/geldzaken/weinig-te-besteden"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-geef-het-door-twenterand",
+        "title": "hulp voor minima",
+        "name": "Stichting Geef het Door · hulp voor minima",
+        "description": "Lokale stichting die inwoners rond het minimum ondersteunt wanneer zij buiten bestaande regelingen vallen.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "minima",
+          "noodhulp"
+        ],
+        "tags": [
+          "geld",
+          "minima",
+          "armoede",
+          "praktische hulp"
+        ],
+        "guidePaths": [
+          "geld/regelingen",
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Twenterand met financiële problemen die niet of onvoldoende door bestaande regelingen geholpen worden.",
+        "costs": "",
+        "access": "Neem rechtstreeks contact op met de stichting; actuele contactgegevens staan in Wegwijs Twenterand.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.wegwijstwenterand.nl/een-vraag-over/geldzaken/weinig-te-besteden",
+        "sourceKind": "regional",
+        "sourceTitle": "Wegwijs Twenterand",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Manitobaplein 1",
+        "postcode": "7671GS",
+        "town": "Vriezenveen",
+        "lat": 52.40893031,
+        "lon": 6.62468936,
+        "locationType": "source-address",
+        "locationSource": "https://www.wegwijstwenterand.nl/een-vraag-over/geldzaken/weinig-te-besteden",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Manitobaplein 1",
+      "postcode": "7671GS",
+      "town": "Vriezenveen",
+      "lat": 52.40893031,
+      "lon": 6.62468936,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.wegwijstwenterand.nl/een-vraag-over/geldzaken/weinig-te-besteden",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.wegwijstwenterand.nl/een-vraag-over/geldzaken/weinig-te-besteden"
+  },
+  {
+    "id": "org-stichting-hulpfonds-hellendoorn-mh87vv",
+    "organization": "Stichting Hulpfonds Hellendoorn",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.stichtinghulpfondshellendoorn.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-hulpfonds-hellendoorn",
+        "title": "noodhulp en Kindpakket",
+        "name": "Stichting Hulpfonds Hellendoorn · noodhulp en Kindpakket",
+        "description": "Onafhankelijke stichting voor inwoners met een laag inkomen die tijdelijk financieel in de knel raken, met hulp in goederen, een eenmalige gift of lening en uitvoering van het Kindpakket.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "acute nood",
+          "laag inkomen",
+          "kindpakket"
+        ],
+        "tags": [
+          "geld",
+          "noodhulp",
+          "gift",
+          "lening",
+          "kindpakket"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van de gemeente Hellendoorn met een laag inkomen of tijdelijke financiële nood.",
+        "costs": "Gratis hulp.",
+        "access": "Inwoners kunnen rechtstreeks contact opnemen; een coördinator bespreekt de situatie en mogelijkheden.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.stichtinghulpfondshellendoorn.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Hulpfonds Hellendoorn",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Constantijnstraat 32a",
+        "postcode": "7442ME",
+        "town": "Nijverdal",
+        "lat": 52.36352638,
+        "lon": 6.46142506,
+        "locationType": "contact",
+        "locationSource": "https://www.stichtinghulpfondshellendoorn.nl/contact/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Constantijnstraat 32a",
+      "postcode": "7442ME",
+      "town": "Nijverdal",
+      "lat": 52.36352638,
+      "lon": 6.46142506,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "contact",
+      "locationSource": "https://www.stichtinghulpfondshellendoorn.nl/contact/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.stichtinghulpfondshellendoorn.nl/"
   },
   {
     "id": "org-stichting-kandjoli-i6hgrc",
@@ -34890,6 +36188,363 @@
     "primarySource": "https://www.leergeldtubbergen.nl/"
   },
   {
+    "id": "org-stichting-leergeld-twenterand-hm346o",
+    "organization": "Stichting Leergeld Twenterand",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "geld",
+      "jeugd"
+    ],
+    "sources": [
+      "https://www.leergeldtwenterand.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-leergeld-twenterand",
+        "title": "kinderen laten meedoen",
+        "name": "Stichting Leergeld Twenterand · kinderen laten meedoen",
+        "description": "Ondersteunt kinderen uit gezinnen met geldzorgen zodat zij mee kunnen doen op school, met sport, cultuur en welzijn, bijvoorbeeld met een fiets, laptop, zwemles of contributie.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "jeugd"
+        ],
+        "subthemes": [
+          "kinderen",
+          "school",
+          "sport",
+          "cultuur"
+        ],
+        "tags": [
+          "geld",
+          "jeugd",
+          "leergeld",
+          "schoolspullen",
+          "sport",
+          "cultuur",
+          "fiets",
+          "laptop"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Kinderen van 4 tot 18 jaar uit gezinnen in Twenterand met een laag besteedbaar inkomen.",
+        "costs": "Geen geldbedrag aan de ouder; Leergeld regelt/vergoedt passende voorzieningen voor goedgekeurde aanvragen.",
+        "access": "Ouder/verzorger kan zelf een aanvraag doen; daarna volgt beoordeling van de persoonlijke en financiële situatie.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.leergeldtwenterand.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Leergeld Twenterand",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Boerweg 48",
+        "postcode": "7683RV",
+        "town": "Den Ham",
+        "lat": 52.45949928,
+        "lon": 6.52193466,
+        "locationType": "source-address",
+        "locationSource": "https://www.leergeldtwenterand.nl/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Boerweg 48",
+      "postcode": "7683RV",
+      "town": "Den Ham",
+      "lat": 52.45949928,
+      "lon": 6.52193466,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.leergeldtwenterand.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.leergeldtwenterand.nl/"
+  },
+  {
+    "id": "org-stichting-maaltijd-voorziening-twenterand-xzw4em",
+    "organization": "Stichting Maaltijd Voorziening Twenterand",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://www.smvt.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 1,
+    "sourceBacked": 0,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-smvt",
+        "title": "warme maaltijd aan huis",
+        "name": "Stichting Maaltijd Voorziening Twenterand · warme maaltijd aan huis",
+        "description": "Dagelijkse warme en betaalbare maaltijd aan huis, het hele jaar door, voor mensen die tijdelijk of blijvend hulp bij maaltijden nodig hebben.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "maaltijdservice",
+          "maaltijdbezorging"
+        ],
+        "tags": [
+          "basis",
+          "eten",
+          "maaltijdservice",
+          "maaltijdbezorging",
+          "tafeltje dekje"
+        ],
+        "guidePaths": [
+          "basis/eten"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Senioren, mensen met een beperking, tijdelijk zieken en hun partners in Twenterand.",
+        "costs": "Maaltijd tegen betaling; actuele prijs wordt bij inschrijving doorgegeven.",
+        "access": "Rechtstreeks contact opnemen met de coördinator in de eigen woonplaats.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.smvt.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Maaltijd Voorziening Twenterand",
+        "checked": "2026-10-05",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "review-needed",
+    "primarySource": "https://www.smvt.nl/"
+  },
+  {
+    "id": "org-stichting-manna-zdv3rn",
+    "organization": "Stichting Manna",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://voedselbanktwenterand.nl/contact/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-manna-fashion-happykids",
+        "title": "Fashion & Happy Kids",
+        "name": "Stichting Manna · Fashion & Happy Kids",
+        "description": "Aanvullende armoedehulp van Stichting Manna met kleding via Manna Fashion en verjaardagsdozen via Happy Kids.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "kleding",
+          "verjaardagsbox"
+        ],
+        "tags": [
+          "basis",
+          "kleding",
+          "armoede",
+          "kinderen",
+          "verjaardagsbox"
+        ],
+        "guidePaths": [
+          "basis/kleding",
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [
+          {
+            "name": "Manna Fashion",
+            "description": "Gratis kleding en accessoires."
+          },
+          {
+            "name": "Manna Happy Kids",
+            "description": "Verjaardagsdozen voor kinderen."
+          }
+        ],
+        "activitiesNote": "",
+        "activitiesSource": "https://voedselbanktwenterand.nl/contact/",
+        "activitiesUpdated": "",
+        "audience": "Gezinnen in Twenterand die voor ondersteuning in aanmerking komen.",
+        "costs": "Gratis voor de doelgroep.",
+        "access": "Via Stichting Manna; kinderen van cliënten van de voedselbank kunnen ook in aanmerking komen voor kinderkleding en verjaardagsdozen.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://voedselbanktwenterand.nl/contact/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Manna",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Linderveld 4a",
+        "postcode": "7681RA",
+        "town": "Vroomshoop",
+        "lat": 52.45430589,
+        "lon": 6.55778842,
+        "locationType": "contact",
+        "locationSource": "https://voedselbanktwenterand.nl/contact/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Linderveld 4a",
+      "postcode": "7681RA",
+      "town": "Vroomshoop",
+      "lat": 52.45430589,
+      "lon": 6.55778842,
+      "locationMunicipality": "Twenterand",
+      "locationType": "contact",
+      "locationSource": "https://voedselbanktwenterand.nl/contact/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://voedselbanktwenterand.nl/contact/"
+  },
+  {
+    "id": "org-stichting-power-vwzbhv",
+    "organization": "Stichting PoWer",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://www.wegwijstwenterand.nl/organisaties/stichting-power/boodschappenondersteuning"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-power-boodschappen-twenterand",
+        "title": "boodschappenondersteuning",
+        "name": "Stichting PoWer · boodschappenondersteuning",
+        "description": "Boodschappenondersteuning voor gezinnen met een klein budget in de vorm van pakketten met producten voor de eerste levensbehoeften.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "boodschappenondersteuning"
+        ],
+        "tags": [
+          "basis",
+          "eten",
+          "boodschappen",
+          "armoede"
+        ],
+        "guidePaths": [
+          "basis/eten"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Gezinnen met een klein budget.",
+        "costs": "Kleine bijdrage volgens de actuele informatie van de aanbieder.",
+        "access": "Bekijk de actuele voorwaarden en contactroute in Wegwijs Twenterand.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.wegwijstwenterand.nl/organisaties/stichting-power/boodschappenondersteuning",
+        "sourceKind": "regional",
+        "sourceTitle": "Wegwijs Twenterand",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester Koetjestraat 2",
+        "postcode": "7681ZP",
+        "town": "Vroomshoop",
+        "lat": 52.45816146,
+        "lon": 6.56844898,
+        "locationType": "contact",
+        "locationSource": "https://www.wegwijstwenterand.nl/contact",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "contact",
+      "locationSource": "https://www.wegwijstwenterand.nl/contact",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.wegwijstwenterand.nl/organisaties/stichting-power/boodschappenondersteuning"
+  },
+  {
     "id": "org-stichting-present-almelo-ljojk1",
     "organization": "Stichting Present Almelo",
     "municipalities": [
@@ -35454,6 +37109,91 @@
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326953/invis2/stichting-vluchtelingenwerk-almelo"
+  },
+  {
+    "id": "org-stichting-voor-elkaar-twenterand-aatx4",
+    "organization": "Stichting Voor Elkaar Twenterand",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "advies",
+      "geld",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://voorelkaartwenterand.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 1,
+    "sourceBacked": 0,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-voor-elkaar-twenterand",
+        "title": "praktische steun en sociaal contact",
+        "name": "Stichting Voor Elkaar Twenterand · praktische steun en sociaal contact",
+        "description": "Laagdrempelige steun voor inwoners rond de armoedegrens met sociaal contact, activiteiten, hulp in eerste levensbehoeften en begeleiding naar passende instanties.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "geld",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "armoede",
+          "praktische hulp",
+          "sociaal contact"
+        ],
+        "tags": [
+          "advies",
+          "armoede",
+          "minima",
+          "praktische hulp",
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "geld/regelingen",
+          "basis/praktisch",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Minima, zzp'ers, statushouders, AOW'ers en andere inwoners van Twenterand die door financiële tegenslag rond de armoedegrens leven.",
+        "costs": "",
+        "access": "Rechtstreeks contact opnemen met de stichting.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://voorelkaartwenterand.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Voor Elkaar Twenterand",
+        "checked": "2026-10-05",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "review-needed",
+    "primarySource": "https://voorelkaartwenterand.nl/"
   },
   {
     "id": "org-tactus-intact-1pv6ocf",
@@ -36336,6 +38076,86 @@
     },
     "status": "source-backed",
     "primarySource": "https://rigtersbleek.nl/voorliggende-voorziening/"
+  },
+  {
+    "id": "org-verjaardagsbox-gemeente-tubbergen-1d62mqa",
+    "organization": "Verjaardagsbox Gemeente Tubbergen",
+    "municipalities": [
+      "Tubbergen"
+    ],
+    "categories": [
+      "geld",
+      "jeugd"
+    ],
+    "sources": [
+      "https://www.verjaardagsboxtubbergen.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 1,
+    "sourceBacked": 0,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-verjaardagsbox-tubbergen",
+        "title": "Verjaardagsbox Gemeente Tubbergen",
+        "name": "Verjaardagsbox Gemeente Tubbergen",
+        "description": "Verjaardags-, feest-, Sint- en vakantieboxen om kinderen uit gezinnen met weinig geld toch mee te laten doen en een feestelijke verjaardag te geven.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld",
+          "jeugd"
+        ],
+        "subthemes": [
+          "kinderen",
+          "armoede"
+        ],
+        "tags": [
+          "geld",
+          "jeugd",
+          "verjaardagsbox",
+          "armoede",
+          "meedoen"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Kinderen en jongeren in de gemeente Tubbergen uit gezinnen die aan de inkomensvoorwaarden voldoen.",
+        "costs": "Gratis voor goedgekeurde gezinnen.",
+        "access": "Aanmelden via Sociaal Werk Tubbergen Dinkelland; een professional beoordeelt de aanvraag.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.verjaardagsboxtubbergen.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Verjaardagsbox Gemeente Tubbergen",
+        "checked": "2026-10-05",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "review-needed",
+    "primarySource": "https://www.verjaardagsboxtubbergen.nl/"
   },
   {
     "id": "org-viavie-welzijn-gwvlmg",
@@ -37754,6 +39574,87 @@
     "primarySource": "https://www.viaviewelzijn.nl/buurtbemiddeling"
   },
   {
+    "id": "org-vluchtelingenwerk-borne-x28hpg",
+    "organization": "VluchtelingenWerk Borne",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "advies",
+      "taal"
+    ],
+    "sources": [
+      "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 1,
+    "sourceBacked": 0,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-vluchtelingenwerk-borne",
+        "title": "maatschappelijke begeleiding",
+        "name": "VluchtelingenWerk Borne · maatschappelijke begeleiding",
+        "description": "Lokale ondersteuning voor vluchtelingen en statushouders bij het opbouwen van een bestaan, participatie, taal en praktische vragen.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies",
+          "taal"
+        ],
+        "subthemes": [
+          "nieuwkomers",
+          "integratie"
+        ],
+        "tags": [
+          "advies",
+          "vluchtelingenwerk",
+          "nieuwkomers",
+          "integratie",
+          "taal"
+        ],
+        "guidePaths": [
+          "migratie/nieuwkomer",
+          "migratie/taal"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Vluchtelingen en statushouders in de gemeente Borne.",
+        "costs": "Geen reguliere eigen bijdrage voor maatschappelijke begeleiding.",
+        "access": "Bezoek op woensdag en donderdag tijdens de gepubliceerde bezoektijden of neem telefonisch contact op.",
+        "openingHours": "Bezoek woensdag en donderdag 10.00–12.00",
+        "phone": "",
+        "email": "",
+        "source": "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne",
+        "sourceKind": "first-party",
+        "sourceTitle": "VluchtelingenWerk Borne",
+        "checked": "2026-10-05",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "review-needed",
+    "primarySource": "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne"
+  },
+  {
     "id": "org-voedsel-kledingbank-rijssen-holten-6l2bdb",
     "organization": "Voedsel & Kledingbank Rijssen Holten",
     "municipalities": [
@@ -38000,6 +39901,447 @@
     },
     "status": "source-backed",
     "primarySource": "https://voedselbankenschedehaaksbergen.nl/"
+  },
+  {
+    "id": "org-voedselbank-hellendoorn-19vjjrt",
+    "organization": "Voedselbank Hellendoorn",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://voedselbankhellendoorn.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-voedselbank-hellendoorn",
+        "title": "voedselpakketten",
+        "name": "Voedselbank Hellendoorn · voedselpakketten",
+        "description": "Wekelijkse voedselhulp voor huishoudens die tijdelijk onvoldoende geld overhouden voor boodschappen.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "voedselhulp"
+        ],
+        "tags": [
+          "basis",
+          "eten",
+          "voedselbank",
+          "voedselpakket",
+          "armoede"
+        ],
+        "guidePaths": [
+          "basis/eten"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners en gezinnen in Hellendoorn die volgens de normen voor voedselhulp in aanmerking komen.",
+        "costs": "Gratis.",
+        "access": "Aanmelden/intake via de voedselbank.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://voedselbankhellendoorn.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Voedselbank Hellendoorn",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Hendrik Wormserstraat 1",
+        "postcode": "7442MX",
+        "town": "Nijverdal",
+        "lat": 52.3650115,
+        "lon": 6.45762795,
+        "locationType": "visiting",
+        "locationSource": "https://voedselbankhellendoorn.nl/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Hendrik Wormserstraat 1",
+      "postcode": "7442MX",
+      "town": "Nijverdal",
+      "lat": 52.3650115,
+      "lon": 6.45762795,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "visiting",
+      "locationSource": "https://voedselbankhellendoorn.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://voedselbankhellendoorn.nl/"
+  },
+  {
+    "id": "org-voedselbank-losser-1y8tsp5",
+    "organization": "Voedselbank Losser",
+    "municipalities": [
+      "Losser"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://voedselbanklosser.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-voedselbank-losser",
+        "title": "voedselpakketten",
+        "name": "Voedselbank Losser · voedselpakketten",
+        "description": "Gratis voedselpakketten voor inwoners en gezinnen in Losser die tijdelijk extra hulp met boodschappen nodig hebben.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "voedselhulp"
+        ],
+        "tags": [
+          "basis",
+          "eten",
+          "voedselbank",
+          "voedselpakket",
+          "armoede"
+        ],
+        "guidePaths": [
+          "basis/eten"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van de gemeente Losser die volgens de actuele criteria voor voedselhulp in aanmerking komen.",
+        "costs": "Gratis.",
+        "access": "Aanvraagformulier en intake via de voedselbank of via een maatschappelijke organisatie/kerk.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://voedselbanklosser.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Voedselbank Losser",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Industriestraat 7A",
+        "postcode": "7582CR",
+        "town": "Losser",
+        "lat": 52.25105457,
+        "lon": 7.00478612,
+        "locationType": "visiting",
+        "locationSource": "https://voedselbanklosser.nl/",
+        "locationMunicipality": "Losser",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Industriestraat 7A",
+      "postcode": "7582CR",
+      "town": "Losser",
+      "lat": 52.25105457,
+      "lon": 7.00478612,
+      "locationMunicipality": "Losser",
+      "locationType": "visiting",
+      "locationSource": "https://voedselbanklosser.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://voedselbanklosser.nl/"
+  },
+  {
+    "id": "org-voedselbank-midden-twente-1i7st3a",
+    "organization": "Voedselbank Midden-Twente",
+    "municipalities": [
+      "Borne",
+      "Hengelo",
+      "Hof van Twente"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://voedselbankennederland.nl/voedselbank/midden-twente-hengelo/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-voedselbank-midden-twente",
+        "title": "voedselhulp",
+        "name": "Voedselbank Midden-Twente · voedselhulp",
+        "description": "Voedselhulp voor huishoudens met onvoldoende besteedbaar inkomen in onder andere Hengelo, Borne en Hof van Twente.",
+        "municipality": "",
+        "municipalities": [
+          "Hengelo",
+          "Borne",
+          "Hof van Twente"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "voedselhulp"
+        ],
+        "tags": [
+          "basis",
+          "eten",
+          "voedselbank",
+          "voedselpakket",
+          "armoede"
+        ],
+        "guidePaths": [
+          "basis/eten"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Huishoudens die voldoen aan de actuele normen van de voedselbank.",
+        "costs": "Gratis.",
+        "access": "Aanmelden en laten toetsen bij de voedselbank; gemeenten verwijzen hiernaar voor tijdelijke voedselhulp.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://voedselbankennederland.nl/voedselbank/midden-twente-hengelo/",
+        "sourceKind": "regional",
+        "sourceTitle": "Voedselbanken Nederland",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Beitelstraat 3",
+        "postcode": "7556ND",
+        "town": "Hengelo",
+        "lat": 52.28056986,
+        "lon": 6.80882879,
+        "locationType": "visiting",
+        "locationSource": "https://voedselbankennederland.nl/voedselbank/midden-twente-hengelo/",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Beitelstraat 3",
+      "postcode": "7556ND",
+      "town": "Hengelo",
+      "lat": 52.28056986,
+      "lon": 6.80882879,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "visiting",
+      "locationSource": "https://voedselbankennederland.nl/voedselbank/midden-twente-hengelo/",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://voedselbankennederland.nl/voedselbank/midden-twente-hengelo/"
+  },
+  {
+    "id": "org-voedselbank-oost-twente-kco4pd",
+    "organization": "Voedselbank Oost Twente",
+    "municipalities": [
+      "Dinkelland",
+      "Oldenzaal"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://voedselbankoosttwente.nl/over-ons/contact/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-voedselbank-oost-twente",
+        "title": "Oldenzaal en Dinkelland",
+        "name": "Voedselbank Oost Twente · Oldenzaal en Dinkelland",
+        "description": "Voedselhulp met uitgifte in Oldenzaal en Denekamp voor huishoudens die tijdelijk onvoldoende geld overhouden voor eten.",
+        "municipality": "",
+        "municipalities": [
+          "Oldenzaal",
+          "Dinkelland"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "voedselhulp"
+        ],
+        "tags": [
+          "basis",
+          "eten",
+          "voedselbank",
+          "voedselpakket",
+          "armoede"
+        ],
+        "guidePaths": [
+          "basis/eten"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Huishoudens in Oldenzaal en Dinkelland die voldoen aan de actuele voedselbanknormen.",
+        "costs": "Gratis.",
+        "access": "Aanmelden bij de voedselbank; na intake/toetsing kan een voedselpakket worden verstrekt.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://voedselbankoosttwente.nl/over-ons/contact/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Voedselbank Oost Twente",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Nijverheidsstraat 97",
+        "postcode": "7575BH",
+        "town": "Oldenzaal",
+        "lat": 52.29378759,
+        "lon": 6.92796947,
+        "locationType": "visiting",
+        "locationSource": "https://www.sociaalpleinoldenzaal.nl/is/organisatie/288179/invis2/voedselbank-oost-twente-afdeling-oldenzaal-dinkelland",
+        "locationMunicipality": "Oldenzaal",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Nijverheidsstraat 97",
+      "postcode": "7575BH",
+      "town": "Oldenzaal",
+      "lat": 52.29378759,
+      "lon": 6.92796947,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.sociaalpleinoldenzaal.nl/is/organisatie/288179/invis2/voedselbank-oost-twente-afdeling-oldenzaal-dinkelland",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://voedselbankoosttwente.nl/over-ons/contact/"
+  },
+  {
+    "id": "org-voedselbank-twenterand-manna-r44lz2",
+    "organization": "Voedselbank Twenterand Manna",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://voedselbanktwenterand.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-voedselbank-twenterand",
+        "title": "boodschappenpakketten",
+        "name": "Voedselbank Twenterand Manna · boodschappenpakketten",
+        "description": "Voedselbank voor de gemeente Twenterand met wekelijkse boodschappenpakketten voor inwoners die tijdelijk onvoldoende geld overhouden.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "voedselhulp"
+        ],
+        "tags": [
+          "basis",
+          "eten",
+          "voedselbank",
+          "boodschappen",
+          "armoede"
+        ],
+        "guidePaths": [
+          "basis/eten"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Twenterand die voldoen aan de actuele normen voor voedselhulp.",
+        "costs": "Gratis.",
+        "access": "Zelf aanvragen of via een hulpverlener; na toetsing wordt de hulp tijdelijk toegekend.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://voedselbanktwenterand.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Voedselbank Twenterand Manna",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Linderveld 4a",
+        "postcode": "7681RA",
+        "town": "Vroomshoop",
+        "lat": 52.45430589,
+        "lon": 6.55778842,
+        "locationType": "visiting",
+        "locationSource": "https://voedselbanktwenterand.nl/ik-zoek-hulp/dit-is-een-nieuwe-pagina-2/",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Linderveld 4a",
+      "postcode": "7681RA",
+      "town": "Vroomshoop",
+      "lat": 52.45430589,
+      "lon": 6.55778842,
+      "locationMunicipality": "Twenterand",
+      "locationType": "visiting",
+      "locationSource": "https://voedselbanktwenterand.nl/ik-zoek-hulp/dit-is-een-nieuwe-pagina-2/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://voedselbanktwenterand.nl/"
   },
   {
     "id": "org-volwassenenfonds-99tqly",
@@ -38758,6 +41100,119 @@
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
   },
   {
+    "id": "org-wijkcentrum-goossenmaat-1mpa1vd",
+    "organization": "Wijkcentrum Goossenmaat",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://almelo.nl/wijkcentrum/goossenmaat"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-goossenmaat-almelo",
+        "title": "buurtactiviteiten",
+        "name": "Wijkcentrum Goossenmaat · buurtactiviteiten",
+        "description": "Wijkcentrum met activiteiten voor buurtbewoners, kinderen en jongeren, creatieve activiteiten, kookworkshops en gezamenlijke maaltijden.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "wijkcentrum",
+          "activiteiten"
+        ],
+        "tags": [
+          "ontmoeten",
+          "wijkcentrum",
+          "jeugd",
+          "koken",
+          "creatief"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling",
+          "onderwijs/jongeren",
+          "ontmoeten/samen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [
+          {
+            "name": "Meidenclub"
+          },
+          {
+            "name": "Tienerinloop"
+          },
+          {
+            "name": "Jongereninloop"
+          },
+          {
+            "name": "Kinderclub Avedan"
+          },
+          {
+            "name": "Creatieve avond"
+          },
+          {
+            "name": "Kookworkshop"
+          },
+          {
+            "name": "Restaurant voor Almelo"
+          }
+        ],
+        "activitiesNote": "",
+        "activitiesSource": "https://almelo.nl/wijkcentrum/goossenmaat",
+        "activitiesUpdated": "",
+        "audience": "Buurtbewoners en andere inwoners van Almelo.",
+        "costs": "",
+        "access": "Bekijk per activiteit de actuele tijden en eventuele aanmelding.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://almelo.nl/wijkcentrum/goossenmaat",
+        "sourceKind": "regional",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Platanenstraat 38",
+        "postcode": "7605CP",
+        "town": "Almelo",
+        "lat": 52.34778354,
+        "lon": 6.65552316,
+        "locationType": "visiting",
+        "locationSource": "https://almelo.nl/wijkcentrum/goossenmaat",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Platanenstraat 38",
+      "postcode": "7605CP",
+      "town": "Almelo",
+      "lat": 52.34778354,
+      "lon": 6.65552316,
+      "locationMunicipality": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://almelo.nl/wijkcentrum/goossenmaat",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://almelo.nl/wijkcentrum/goossenmaat"
+  },
+  {
     "id": "org-wijkcentrum-hengelose-es-1d4qpra",
     "organization": "Wijkcentrum Hengelose Es",
     "municipalities": [
@@ -38839,6 +41294,115 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
+  },
+  {
+    "id": "org-wijkcentrum-moll-nwiek-1d8zsui",
+    "organization": "Wijkcentrum Möll'nwiek",
+    "municipalities": [
+      "Almelo"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://almelo.nl/wijkcentrum/mollnwiek"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-mollnwiek-almelo",
+        "title": "buurtactiviteiten",
+        "name": "Wijkcentrum Möll'nwiek · buurtactiviteiten",
+        "description": "Wijkcentrum in Windmolenbroek met vaste buurtactiviteiten zoals haakclub, schilderen, koor, muziek, jeugdactiviteiten en andere bijeenkomsten.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "wijkcentrum",
+          "activiteiten"
+        ],
+        "tags": [
+          "ontmoeten",
+          "wijkcentrum",
+          "activiteiten",
+          "creatief",
+          "jeugd"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling",
+          "ontmoeten/bewegen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [
+          {
+            "name": "Haakclub"
+          },
+          {
+            "name": "Schilderclub"
+          },
+          {
+            "name": "Meidenclub Avedan"
+          },
+          {
+            "name": "Kinderclub"
+          },
+          {
+            "name": "Koor en muziekactiviteiten"
+          },
+          {
+            "name": "Taiji"
+          }
+        ],
+        "activitiesNote": "",
+        "activitiesSource": "https://almelo.nl/wijkcentrum/mollnwiek",
+        "activitiesUpdated": "",
+        "audience": "Buurtbewoners en andere inwoners van Almelo.",
+        "costs": "",
+        "access": "Bekijk per activiteit de actuele tijden en eventuele aanmelding.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://almelo.nl/wijkcentrum/mollnwiek",
+        "sourceKind": "regional",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Leemhorst 9",
+        "postcode": "7609LA",
+        "town": "Almelo",
+        "lat": 52.33418105,
+        "lon": 6.63813692,
+        "locationType": "visiting",
+        "locationSource": "https://almelo.nl/wijkcentrum/mollnwiek",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Leemhorst 9",
+      "postcode": "7609LA",
+      "town": "Almelo",
+      "lat": 52.33418105,
+      "lon": 6.63813692,
+      "locationMunicipality": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://almelo.nl/wijkcentrum/mollnwiek",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://almelo.nl/wijkcentrum/mollnwiek"
   },
   {
     "id": "org-wijkcentrum-slangenbeek-3akkbz",
@@ -44179,6 +46743,216 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
+  },
+  {
+    "id": "org-zelfregieteam-borne-8yhz41",
+    "organization": "Zelfregieteam Borne",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "mentaal",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://zelfregieteamborne.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-zelfregieteam-borne",
+        "title": "inloophuis en steun bij psychische kwetsbaarheid",
+        "name": "Zelfregieteam Borne · inloophuis en steun bij psychische kwetsbaarheid",
+        "description": "Laagdrempelige inloop en ondersteuning rond psychische kwetsbaarheid en zelfregie, met ruimte voor gesprek, naastencontact en de Hulpkaart.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "zelfregie",
+          "naasten",
+          "inloop"
+        ],
+        "tags": [
+          "mentaal",
+          "zelfregie",
+          "inloop",
+          "naasten",
+          "ervaringsdeskundigheid"
+        ],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "mentaal/lotgenoten",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Mensen met psychische kwetsbaarheid en hun naasten in Borne.",
+        "costs": "Laagdrempelig; controleer de actuele activiteiten bij het Zelfregieteam.",
+        "access": "Vrije inloop op de aangegeven momenten of rechtstreeks contact opnemen.",
+        "openingHours": "Woensdag 13.00–16.00",
+        "phone": "",
+        "email": "",
+        "source": "https://zelfregieteamborne.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Zelfregieteam Borne",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Clematishof 6",
+        "postcode": "7621CV",
+        "town": "Borne",
+        "lat": 52.29411998,
+        "lon": 6.73850472,
+        "locationType": "visiting",
+        "locationSource": "https://zelfregieteamborne.nl/contact/",
+        "locationMunicipality": "Borne",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Clematishof 6",
+      "postcode": "7621CV",
+      "town": "Borne",
+      "lat": 52.29411998,
+      "lon": 6.73850472,
+      "locationMunicipality": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://zelfregieteamborne.nl/contact/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://zelfregieteamborne.nl/"
+  },
+  {
+    "id": "org-zinin-bibliotheek-ru1run",
+    "organization": "ZINiN Bibliotheek",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "taal",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.zinin.com/zinin-bibliotheek/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-05",
+    "offers": [
+      {
+        "id": "extra-20261005-zinin-bibliotheek",
+        "title": "taal, digitaal en ontmoeting",
+        "name": "ZINiN Bibliotheek · taal, digitaal en ontmoeting",
+        "description": "Laagdrempelige bibliotheekvoorziening met taalontwikkeling, digitale ondersteuning, werk- en studieplekken, informatie en ontmoeting.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal",
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "digitaal",
+          "basisvaardigheden",
+          "ontmoeten"
+        ],
+        "tags": [
+          "taal",
+          "digitaal",
+          "IDO",
+          "Taalhuis",
+          "bibliotheek",
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "taal/nederlands",
+          "taal/digitaal",
+          "taal/basis",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [
+          {
+            "name": "Taalhuis Hellendoorn"
+          },
+          {
+            "name": "Informatiepunt Digitale Overheid (IDO)"
+          },
+          {
+            "name": "Digitaal inloopspreekuur"
+          },
+          {
+            "name": "Klik & Tik"
+          },
+          {
+            "name": "Digisterker"
+          },
+          {
+            "name": "DigiVitaler"
+          },
+          {
+            "name": "Oefenpunt"
+          }
+        ],
+        "activitiesNote": "",
+        "activitiesSource": "https://www.zinin.com/zinin-bibliotheek/",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van de gemeente Hellendoorn van alle leeftijden.",
+        "costs": "Veel spreekuren en basisvaardigheidsactiviteiten zijn gratis.",
+        "access": "Vrij toegankelijk; voor veel hulp- en inloopactiviteiten is geen bibliotheeklidmaatschap nodig.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.zinin.com/zinin-bibliotheek/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ZINiN Bibliotheek",
+        "checked": "2026-10-05",
+        "reviewStatus": "source-backed",
+        "address": "Willem-Alexanderstraat 7",
+        "postcode": "7442MA",
+        "town": "Nijverdal",
+        "lat": 52.3641552,
+        "lon": 6.46163234,
+        "locationType": "visiting",
+        "locationSource": "https://www.zinin.com/zinin-bibliotheek/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Willem-Alexanderstraat 7",
+      "postcode": "7442MA",
+      "town": "Nijverdal",
+      "lat": 52.3641552,
+      "lon": 6.46163234,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "visiting",
+      "locationSource": "https://www.zinin.com/zinin-bibliotheek/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.zinin.com/zinin-bibliotheek/"
   },
   {
     "id": "org-zonnebloem-holten-1a5c3u0",

@@ -13818,7 +13818,7 @@
         "meedoen/daginvulling"
       ],
       "address": "Markt 3",
-      "postcode": "7442 EC",
+      "postcode": "7442EC",
       "town": "Nijverdal",
       "locationType": "visiting",
       "locationSource": "https://dehuiskamernijverdal.nl/",
@@ -13837,7 +13837,12 @@
           "name": "Eetgroepen"
         }
       ],
-      "activitiesSource": "https://dehuiskamernijverdal.nl/"
+      "activitiesSource": "https://dehuiskamernijverdal.nl/",
+      "lat": 52.36446339,
+      "lon": 6.46440293,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -13883,7 +13888,7 @@
         "ontmoeten/inloop"
       ],
       "address": "Willem-Alexanderstraat 7",
-      "postcode": "7442 MA",
+      "postcode": "7442MA",
       "town": "Nijverdal",
       "locationType": "visiting",
       "locationSource": "https://www.zinin.com/zinin-bibliotheek/",
@@ -13911,7 +13916,12 @@
           "name": "Oefenpunt"
         }
       ],
-      "activitiesSource": "https://www.zinin.com/zinin-bibliotheek/"
+      "activitiesSource": "https://www.zinin.com/zinin-bibliotheek/",
+      "lat": 52.3641552,
+      "lon": 6.46163234,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -13950,7 +13960,18 @@
       "costs": "Gratis hulp.",
       "guidePaths": [
         "geld/regelingen"
-      ]
+      ],
+      "address": "Constantijnstraat 32a",
+      "postcode": "7442ME",
+      "town": "Nijverdal",
+      "lat": 52.36352638,
+      "lon": 6.46142506,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "contact",
+      "locationSource": "https://www.stichtinghulpfondshellendoorn.nl/contact/",
+      "mapLocationType": "address",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14029,11 +14050,16 @@
         "basis/eten"
       ],
       "address": "Hendrik Wormserstraat 1",
-      "postcode": "7442 MX",
+      "postcode": "7442MX",
       "town": "Nijverdal",
       "locationType": "visiting",
       "locationSource": "https://voedselbankhellendoorn.nl/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.3650115,
+      "lon": 6.45762795,
+      "locationMunicipality": "Hellendoorn",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14074,12 +14100,17 @@
         "ontmoeten/inloop",
         "meedoen/daginvulling"
       ],
-      "address": "Burgemeester Koetjestraat 2-4",
-      "postcode": "7681 ZP",
+      "address": "Burgemeester Koetjestraat 4",
+      "postcode": "7681ZP",
       "town": "Vroomshoop",
       "locationType": "visiting",
       "locationSource": "https://www.welkombijhetpunt.nl/over_ons/locatie-openingstijden/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.45827574,
+      "lon": 6.56844426,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14142,7 +14173,18 @@
           "name": "Activiteiten voor jeugd en volwassenen"
         }
       ],
-      "activitiesSource": "https://www.bibliotheektwenterand.nl/"
+      "activitiesSource": "https://www.bibliotheektwenterand.nl/",
+      "address": "Jonkerlaan 4",
+      "postcode": "7671GM",
+      "town": "Vriezenveen",
+      "lat": 52.41080947,
+      "lon": 6.62430923,
+      "locationMunicipality": "Twenterand",
+      "locationType": "contact",
+      "locationSource": "https://www.bibliotheektwenterand.nl/onze-vestigingen/vestiging.12105888.html/bibliotheek-twenterand---vriezenveen/",
+      "mapLocationType": "address",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14220,12 +14262,17 @@
       "guidePaths": [
         "basis/eten"
       ],
-      "address": "Linderveld 4A",
-      "postcode": "7681 RA",
+      "address": "Linderveld 4a",
+      "postcode": "7681RA",
       "town": "Vroomshoop",
       "locationType": "visiting",
       "locationSource": "https://voedselbanktwenterand.nl/ik-zoek-hulp/dit-is-een-nieuwe-pagina-2/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.45430589,
+      "lon": 6.55778842,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14276,7 +14323,18 @@
           "description": "Verjaardagsdozen voor kinderen."
         }
       ],
-      "activitiesSource": "https://voedselbanktwenterand.nl/contact/"
+      "activitiesSource": "https://voedselbanktwenterand.nl/contact/",
+      "address": "Linderveld 4a",
+      "postcode": "7681RA",
+      "town": "Vroomshoop",
+      "lat": 52.45430589,
+      "lon": 6.55778842,
+      "locationMunicipality": "Twenterand",
+      "locationType": "contact",
+      "locationSource": "https://voedselbanktwenterand.nl/contact/",
+      "mapLocationType": "address",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14316,11 +14374,16 @@
         "basis/kleding"
       ],
       "address": "Het Bassin 23a",
-      "postcode": "7671 ST",
+      "postcode": "7671ST",
       "town": "Vriezenveen",
       "locationType": "visiting",
       "locationSource": "https://speelgoed-kledingbanktwenterand.nl/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.40894816,
+      "lon": 6.63427471,
+      "locationMunicipality": "Twenterand",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14404,7 +14467,18 @@
       "guidePaths": [
         "geld/regelingen"
       ],
-      "mapPin": false
+      "mapPin": false,
+      "address": "Boerweg 48",
+      "postcode": "7683RV",
+      "town": "Den Ham",
+      "lat": 52.45949928,
+      "lon": 6.52193466,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.leergeldtwenterand.nl/",
+      "mapLocationType": "address",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14487,7 +14561,18 @@
         "geld/regelingen",
         "basis/praktisch"
       ],
-      "mapPin": false
+      "mapPin": false,
+      "address": "Manitobaplein 1",
+      "postcode": "7671GS",
+      "town": "Vriezenveen",
+      "lat": 52.40893031,
+      "lon": 6.62468936,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.wegwijstwenterand.nl/een-vraag-over/geldzaken/weinig-te-besteden",
+      "mapLocationType": "address",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "regional",
@@ -14524,7 +14609,18 @@
       "guidePaths": [
         "basis/eten"
       ],
-      "mapPin": false
+      "mapPin": false,
+      "address": "Burgemeester Koetjestraat 2",
+      "postcode": "7681ZP",
+      "town": "Vroomshoop",
+      "lat": 52.45816146,
+      "lon": 6.56844898,
+      "locationMunicipality": "Twenterand",
+      "locationType": "contact",
+      "locationSource": "https://www.wegwijstwenterand.nl/contact",
+      "mapLocationType": "address",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14571,7 +14667,7 @@
         "ontmoeten/inloop"
       ],
       "address": "Oranjestraat 21",
-      "postcode": "7591 GA",
+      "postcode": "7591GA",
       "town": "Denekamp",
       "locationType": "visiting",
       "locationSource": "https://www.bibliotheekdinkelland.nl/",
@@ -14594,7 +14690,12 @@
           "name": "Studie- en werkplekken"
         }
       ],
-      "activitiesSource": "https://www.bibliotheekdinkelland.nl/hulp-en-leren.html"
+      "activitiesSource": "https://www.bibliotheekdinkelland.nl/hulp-en-leren.html",
+      "lat": 52.37472391,
+      "lon": 7.0003195,
+      "locationMunicipality": "Dinkelland",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14640,7 +14741,7 @@
         "meedoen/daginvulling"
       ],
       "address": "Raadhuisplein 4",
-      "postcode": "7651 CV",
+      "postcode": "7651CV",
       "town": "Tubbergen",
       "locationType": "visiting",
       "locationSource": "https://bibliotheektubbergen.op-shop.nl/",
@@ -14663,7 +14764,12 @@
           "name": "Werkplekken en gratis wifi"
         }
       ],
-      "activitiesSource": "https://bibliotheektubbergen.op-shop.nl/"
+      "activitiesSource": "https://bibliotheektubbergen.op-shop.nl/",
+      "lat": 52.40837485,
+      "lon": 6.78133142,
+      "locationMunicipality": "Tubbergen",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14743,11 +14849,16 @@
         "basis/eten"
       ],
       "address": "Nijverheidsstraat 97",
-      "postcode": "7575 BH",
+      "postcode": "7575BH",
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.sociaalpleinoldenzaal.nl/is/organisatie/288179/invis2/voedselbank-oost-twente-afdeling-oldenzaal-dinkelland",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.29378759,
+      "lon": 6.92796947,
+      "locationMunicipality": "Oldenzaal",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "regional",
@@ -14787,7 +14898,18 @@
       "guidePaths": [
         "basis/kleding"
       ],
-      "mapPin": false
+      "mapPin": false,
+      "address": "Nijverheidsstraat 97",
+      "postcode": "7575BH",
+      "town": "Oldenzaal",
+      "lat": 52.29378759,
+      "lon": 6.92796947,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "source-address",
+      "locationSource": "https://www.sociaalpleinoldenzaal.nl/is/organisatie/278879/invis2/stichting-kledingbank-oosttwente",
+      "mapLocationType": "address",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "regional",
@@ -14855,7 +14977,18 @@
           "name": "DoorleesExpress en VoorleesExpress"
         }
       ],
-      "activitiesSource": "https://taal.bibliotheek.nl/aanbieder/12161505.bibliotheek-borne.html"
+      "activitiesSource": "https://taal.bibliotheek.nl/aanbieder/12161505.bibliotheek-borne.html",
+      "address": "De Haven 1",
+      "postcode": "7622DH",
+      "town": "Borne",
+      "lat": 52.30236616,
+      "lon": 6.75844818,
+      "locationMunicipality": "Borne",
+      "locationType": "source-address",
+      "locationSource": "https://taal.bibliotheek.nl/aanbieder/12161505.bibliotheek-borne.html",
+      "mapLocationType": "address",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14900,11 +15033,16 @@
       ],
       "openingHours": "Woensdag 13.00–16.00",
       "address": "Clematishof 6",
-      "postcode": "7621 CV",
+      "postcode": "7621CV",
       "town": "Borne",
       "locationType": "visiting",
       "locationSource": "https://zelfregieteamborne.nl/contact/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.29411998,
+      "lon": 6.73850472,
+      "locationMunicipality": "Borne",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -14987,11 +15125,16 @@
         "basis/eten"
       ],
       "address": "Beitelstraat 3",
-      "postcode": "7556 ND",
+      "postcode": "7556ND",
       "town": "Hengelo",
       "locationType": "visiting",
       "locationSource": "https://voedselbankennederland.nl/voedselbank/midden-twente-hengelo/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.28056986,
+      "lon": 6.80882879,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -15029,7 +15172,18 @@
       "guidePaths": [
         "meedoen/vrijwillig"
       ],
-      "mapPin": false
+      "mapPin": false,
+      "address": "Wegtersweg 14",
+      "postcode": "7556BR",
+      "town": "Hengelo",
+      "lat": 52.27436286,
+      "lon": 6.78016265,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "contact",
+      "locationSource": "https://www.deslingerhengelo.nl/312/contact",
+      "mapLocationType": "address",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -15067,12 +15221,17 @@
       "guidePaths": [
         "basis/eten"
       ],
-      "address": "Industriestraat 7a",
-      "postcode": "7582 CR",
+      "address": "Industriestraat 7A",
+      "postcode": "7582CR",
       "town": "Losser",
       "locationType": "visiting",
       "locationSource": "https://voedselbanklosser.nl/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.25105457,
+      "lon": 7.00478612,
+      "locationMunicipality": "Losser",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -15111,7 +15270,18 @@
       "guidePaths": [
         "geld/regelingen"
       ],
-      "mapPin": false
+      "mapPin": false,
+      "address": "Wilhelminastraat 5",
+      "postcode": "7571CE",
+      "town": "Oldenzaal",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "locationMunicipality": "Oldenzaal",
+      "locationType": "contact",
+      "locationSource": "https://www.impuls-oldenzaal.nl/contact/",
+      "mapLocationType": "address",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "regional",
@@ -15153,7 +15323,7 @@
         "ontmoeten/bewegen"
       ],
       "address": "Leemhorst 9",
-      "postcode": "7609 LA",
+      "postcode": "7609LA",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://almelo.nl/wijkcentrum/mollnwiek",
@@ -15178,7 +15348,12 @@
           "name": "Taiji"
         }
       ],
-      "activitiesSource": "https://almelo.nl/wijkcentrum/mollnwiek"
+      "activitiesSource": "https://almelo.nl/wijkcentrum/mollnwiek",
+      "lat": 52.33418105,
+      "lon": 6.63813692,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "regional",
@@ -15221,7 +15396,7 @@
         "ontmoeten/samen"
       ],
       "address": "Platanenstraat 38",
-      "postcode": "7605 CP",
+      "postcode": "7605CP",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://almelo.nl/wijkcentrum/goossenmaat",
@@ -15249,7 +15424,12 @@
           "name": "Restaurant voor Almelo"
         }
       ],
-      "activitiesSource": "https://almelo.nl/wijkcentrum/goossenmaat"
+      "activitiesSource": "https://almelo.nl/wijkcentrum/goossenmaat",
+      "lat": 52.34778354,
+      "lon": 6.65552316,
+      "locationMunicipality": "Almelo",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     }
   ],
   "addressEnrichmentVersion": 1,
