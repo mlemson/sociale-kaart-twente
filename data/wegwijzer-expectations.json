@@ -382,5 +382,15 @@
     "nameContains": "FIXbrigade Enschede",
     "municipality": "Enschede",
     "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "gratis menstruatieproducten",
+    "municipality": "Hengelo",
+    "path": "geld/regelingen"
+  },
+  {
+    "nameContains": "De Welle · Maatjes",
+    "municipality": "Wierden",
+    "path": "basis/praktisch"
   }
 ]
