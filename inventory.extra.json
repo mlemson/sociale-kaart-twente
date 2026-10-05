@@ -17062,7 +17062,7 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
+      "mapLocationType": "address",
       "phone": "06-50921417",
       "email": "info@all4freetwente.nl",
       "activities": [
@@ -17089,7 +17089,17 @@
           "description": "Bij urgente behoefte aan bijvoorbeeld voedsel of kleding."
         }
       ],
-      "activitiesSource": "https://www.beien.nl/all4free/"
+      "activitiesSource": "https://www.beien.nl/all4free/",
+      "address": "Slauerhoffstraat 25",
+      "postcode": "7552ZW",
+      "town": "Hengelo",
+      "lat": 52.26749563,
+      "lon": 6.82308423,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327457/invis2/all4free-twente",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "regional",
@@ -17135,11 +17145,16 @@
         "geld/regelingen"
       ],
       "address": "Deurningerstraat 94",
-      "postcode": "7557 HH",
+      "postcode": "7557HH",
       "town": "Hengelo",
       "locationType": "visiting",
       "locationSource": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/",
-      "mapPin": true
+      "mapPin": true,
+      "lat": 52.27397912,
+      "lon": 6.80254415,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -17201,14 +17216,19 @@
         "geld/regelingen"
       ],
       "address": "Uitslagsweg 47",
-      "postcode": "7556 LN",
+      "postcode": "7556LN",
       "town": "Hengelo",
       "locationType": "visiting",
       "locationSource": "https://www.getitfree.nl/Ontvangen/Aanmelden",
       "mapPin": true,
       "openingHours": "Vrijdag 10.00–14.00, alleen op afspraak",
       "phone": "06-33335074",
-      "email": "aanvraag@getitfree.nl"
+      "email": "aanvraag@getitfree.nl",
+      "lat": 52.27554192,
+      "lon": 6.79233313,
+      "locationMunicipality": "Hengelo (O)",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -17252,14 +17272,19 @@
         "basis/praktisch"
       ],
       "address": "Meeuwenstraat 160",
-      "postcode": "7523 XZ",
+      "postcode": "7523XZ",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.beien.nl/werkplaats/",
       "mapPin": true,
       "openingHours": "Dinsdag en donderdag 10.00–14.00",
       "phone": "053-7370268",
-      "email": "info@beien.nl"
+      "email": "info@beien.nl",
+      "lat": 52.23571908,
+      "lon": 6.8938286,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "regional",
@@ -17374,9 +17399,19 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
+      "mapLocationType": "address",
       "phone": "06-13067582",
-      "email": "energiehulp@almelo-energie.nl"
+      "email": "energiehulp@almelo-energie.nl",
+      "address": "Haven Zuidzijde 30",
+      "postcode": "7607EW",
+      "town": "Almelo",
+      "lat": 52.35722016,
+      "lon": 6.6592867,
+      "locationMunicipality": "Almelo",
+      "locationType": "source-address",
+      "locationSource": "https://www.almelo.nl/energie/energie-besparen-met-hulp-energiefixer",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
@@ -17423,9 +17458,19 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
+      "mapLocationType": "address",
       "phone": "074-2020008",
-      "email": "info@energievanhengelo.nl"
+      "email": "info@energievanhengelo.nl",
+      "address": "Burgemeester van der Dussenplein 1-s302",
+      "postcode": "7551EB",
+      "town": "Hengelo",
+      "lat": 52.2659015,
+      "lon": 6.79178677,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.hengelo.nl/duurzaam/hulp-bij-verduurzamen/fixbrigade.html",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "first-party",
