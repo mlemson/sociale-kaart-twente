@@ -26386,7 +26386,12 @@
       "locationType": "contact",
       "locationSource": "https://www.fundamentlosser.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/bewegen",
+        "ontmoeten/samen"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -26757,7 +26762,10 @@
       "lon": 7.03503715,
       "locationMunicipality": "Losser",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/samen"
+      ]
     },
     {
       "sourceKind": "first-party",
