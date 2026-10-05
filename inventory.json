@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-02",
+  "checked": "2026-10-05",
   "method": "Brede inventarisatie van vrij toegankelijke of rechtstreeks benaderbare sociale voorzieningen, activiteiten, trainingen, cursussen en daginvulling. Geïndiceerde dagbesteding/behandeling wordt niet als voorliggende voorziening opgenomen; open activiteiten bij zorglocaties alleen wanneer deelname zonder indicatie expliciet mogelijk is.",
   "candidates": [
     {
@@ -272,7 +272,43 @@
       "locationMunicipality": "Enschede",
       "locationType": "contact",
       "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "activities": [
+        {
+          "name": "Jeugdsoos en jongereninlopen"
+        },
+        {
+          "name": "Sportinlopen en zaalvoetbal"
+        },
+        {
+          "name": "Huiskamers op middelbare scholen",
+          "description": "Chillen, gamen, praten of nog even met schoolwerk bezig zijn, met een jongerenwerker in de buurt."
+        },
+        {
+          "name": "Meidenwerk en meidengroepen"
+        },
+        {
+          "name": "Join Us",
+          "description": "Groep voor jongeren van 18 t/m 24 jaar die hun sociale netwerk en sociale vaardigheden willen versterken."
+        },
+        {
+          "name": "Jongeren Informatie Punt (JIP)"
+        },
+        {
+          "name": "BAAS-trainingen"
+        },
+        {
+          "name": "#hardgaan053"
+        }
+      ],
+      "activitiesNote": "Alifa organiseert daarnaast wisselende activiteiten per wijk; kijk voor actuele locaties en tijden in de activiteitenagenda.",
+      "activitiesUpdated": "2026-10-05",
+      "activitiesSource": "https://www.alifa.nl/activiteiten",
+      "guidePaths": [
+        "onderwijs/jongeren",
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
+      ]
     },
     {
       "id": "candidate-2fdebb070fd4471d",
@@ -407,8 +443,49 @@
       "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
       "addressChecked": "2026-10-01",
       "guidePaths": [
-        "ontmoeten/inloop"
-      ]
+        "ontmoeten/inloop",
+        "ontmoeten/bewegen",
+        "ontmoeten/samen",
+        "meedoen/daginvulling"
+      ],
+      "activities": [
+        {
+          "name": "Ouderensoozen en ontmoetingsgroepen"
+        },
+        {
+          "name": "Eetsozen en samen eten"
+        },
+        {
+          "name": "Wandelen en fietsen"
+        },
+        {
+          "name": "Gymnastiek, fitness en zwemmen"
+        },
+        {
+          "name": "Yoga, pilates en tai chi"
+        },
+        {
+          "name": "Creatief: handwerken, schilderen, tekenen en keramiek"
+        },
+        {
+          "name": "Biljarten, bowling, bowls en darts"
+        },
+        {
+          "name": "Jeu de boules en koersbal"
+        },
+        {
+          "name": "Bridge, dammen en schaken"
+        },
+        {
+          "name": "Educatie, cursussen en workshops"
+        },
+        {
+          "name": "Muziek, koren, dansen en toneel"
+        }
+      ],
+      "activitiesNote": "Het aanbod voor senioren bestaat uit veel activiteiten op verschillende locaties in Enschede; tijden en kosten verschillen per activiteit.",
+      "activitiesUpdated": "2026-10-05",
+      "activitiesSource": "https://www.alifa.nl/diensten/activiteiten-voor-senioren"
     },
     {
       "id": "candidate-bc42d591cc63c342",
@@ -474,7 +551,39 @@
       "locationMunicipality": "Enschede",
       "locationType": "contact",
       "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "activities": [
+        {
+          "name": "Huis voor Taal en Meedoen"
+        },
+        {
+          "name": "Taal op Maat"
+        },
+        {
+          "name": "Lees- en Schrijfhuis"
+        },
+        {
+          "name": "Praathuis Centrum",
+          "schedule": "maandag en donderdag 10.00–11.45",
+          "location": "Centrale Bibliotheek, Pijpenstraat 15"
+        },
+        {
+          "name": "Praathuis Zuid",
+          "schedule": "woensdag en donderdag 10.30–12.00",
+          "location": "Bibliotheek Zuid, Wesseler-Nering 46"
+        },
+        {
+          "name": "Taalintakes",
+          "description": "Op meerdere plekken in de stad."
+        }
+      ],
+      "activitiesNote": "Vrij toegankelijk taalaanbod en ondersteuning; controleer de actuele agenda voor tijden.",
+      "activitiesUpdated": "2026-10-05",
+      "activitiesSource": "https://www.alifa.nl/diensten",
+      "guidePaths": [
+        "taal/nederlands",
+        "migratie/taal"
+      ]
     },
     {
       "id": "candidate-a6341350a90f2412",
@@ -8879,8 +8988,8 @@
       ],
       "sourceTitle": "Sociaal, dat werkt!",
       "sourceKind": "provider",
-      "checked": "2026-09-15",
-      "category": "jeugd",
+      "checked": "2026-10-05",
+      "category": "geld",
       "accessStatus": "source-check",
       "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
       "description": "",
@@ -8889,15 +8998,18 @@
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
+        "geld",
         "jeugd"
       ],
       "subthemes": [
-        "geldzorgen",
-        "jeugd"
+        "regelingen",
+        "kinderen"
       ],
       "tags": [
+        "geld",
+        "regelingen",
         "jeugd",
-        "geldzorgen"
+        "kindpakket"
       ],
       "enrichment": {
         "version": 2,
@@ -8929,14 +9041,17 @@
           "town"
         ]
       },
-      "primaryTheme": "jeugd",
+      "primaryTheme": "geld",
       "postcode": "7651LZ",
       "lat": 52.41076671,
       "lon": 6.78027092,
       "locationMunicipality": "Tubbergen",
       "locationType": "contact",
       "locationSource": "https://swtd.nl/contact",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/regelingen"
+      ]
     },
     {
       "id": "candidate-32b8f7bedf7e8809",
@@ -9509,31 +9624,35 @@
     {
       "id": "candidate-1a4345fe464e7278",
       "name": "Sociaal, dat werkt! · Tafeltje dekje",
-      "source": "https://swtd.nl/ons-aanbod/ouder-worden/tafeltje-dekje",
+      "source": "https://swtd.nl/ons-aanbod/ouder-worden/tafeltje-dekje/",
       "municipalities": [
         "Dinkelland",
         "Tubbergen"
       ],
       "sourceTitle": "Sociaal, dat werkt!",
       "sourceKind": "provider",
-      "checked": "2026-09-15",
-      "category": "vervoer",
+      "checked": "2026-10-05",
+      "category": "basis",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
+      "access": "Rechtstreeks aanmelden of informatie vragen bij de aanbieder; geen vervoersdienst.",
+      "description": "Maaltijdvoorziening voor mensen die niet zelf een maaltijd kunnen bereiden. Maaltijden kunnen tijdelijk of langdurig worden bezorgd; ook dieetmaaltijden zijn mogelijk.",
       "address": "Eeshoflaan 21k-121",
       "town": "Tubbergen",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "vervoer"
+        "basis"
       ],
       "subthemes": [
-        "maaltijden"
+        "maaltijdvoorziening",
+        "maaltijdbezorging"
       ],
       "tags": [
-        "vervoer",
-        "maaltijden"
+        "basis",
+        "eten",
+        "maaltijdservice",
+        "maaltijdbezorging",
+        "tafeltje dekje"
       ],
       "enrichment": {
         "version": 2,
@@ -9565,14 +9684,18 @@
           "town"
         ]
       },
-      "primaryTheme": "vervoer",
+      "primaryTheme": "basis",
       "postcode": "7651LZ",
       "lat": 52.41076671,
       "lon": 6.78027092,
       "locationMunicipality": "Tubbergen",
       "locationType": "contact",
       "locationSource": "https://swtd.nl/contact",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/eten"
+      ],
+      "audience": "Inwoners van Dinkelland en Tubbergen die niet zelf een maaltijd kunnen bereiden."
     },
     {
       "id": "candidate-87a66e20e50a8729",
@@ -10336,30 +10459,34 @@
     {
       "id": "candidate-da1cd52b1fe56139",
       "name": "Tafeltje dekje",
-      "source": "https://www.socialekaartwierden.nl/is/organisatie/220585/invis2/tafeltje-dekje",
+      "source": "https://www.socialekaartwierden.nl/is/product/154479/220585/invis2/warme-maaltijd-naar-keuze",
       "municipalities": [
         "Wierden"
       ],
       "sourceTitle": "Sociale kaart Wierden",
       "sourceKind": "municipal-directory",
-      "checked": "2026-09-15",
-      "category": "vervoer",
+      "checked": "2026-10-05",
+      "category": "basis",
       "accessStatus": "source-check",
-      "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
-      "description": "",
+      "access": "Rechtstreeks aanmelden bij Stichting Maaltijdvoorziening Enter.",
+      "description": "Dagelijkse bezorging van een warme maaltijd naar keuze, vooral voor ouderen en mensen met een tijdelijke of blijvende beperking.",
       "address": "Reggestraat 85",
       "town": "Enter",
       "scope": "Aanbod van lokale welzijnsorganisatie",
       "status": "candidate",
       "themes": [
-        "vervoer"
+        "basis"
       ],
       "subthemes": [
-        "maaltijden"
+        "maaltijdvoorziening",
+        "maaltijdbezorging"
       ],
       "tags": [
-        "vervoer",
-        "maaltijden"
+        "basis",
+        "eten",
+        "maaltijdservice",
+        "maaltijdbezorging",
+        "tafeltje dekje"
       ],
       "municipality": "Wierden",
       "enrichment": {
@@ -10391,7 +10518,7 @@
           "town"
         ]
       },
-      "primaryTheme": "vervoer",
+      "primaryTheme": "basis",
       "postcode": "7468EJ",
       "locationType": "service",
       "locationSource": "https://activiteitencentrum-zumpke.nl/laatste-nieuws-pagina/",
@@ -10399,7 +10526,11 @@
       "lon": 6.5805698,
       "locationMunicipality": "Wierden",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "basis/eten"
+      ],
+      "audience": "Ouderen en mensen met een (tijdelijke) beperking in en rond Enter."
     },
     {
       "id": "candidate-2d81c01f72ce1f2a",
@@ -15947,7 +16078,50 @@
       "lat": 52.21667309,
       "lon": 6.87642107,
       "locationMunicipality": "Enschede",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "activities": [
+        {
+          "name": "Turkssprekende vrouwen",
+          "schedule": "dinsdag 10.00–12.00",
+          "location": "Het Kompas, Lijsterstraat 11"
+        },
+        {
+          "name": "Turkssprekende mannen en vrouwen",
+          "schedule": "donderdag 12.30–14.30",
+          "location": "Speeltuin Kozakkenpark, G.J. van Heekstraat 14"
+        },
+        {
+          "name": "Arabisch- en Suryoyosprekende vrouwen",
+          "schedule": "woensdag 10.00–12.00",
+          "location": "Gezondheidscentrum Wesselerbrink, Wesselernering 60"
+        },
+        {
+          "name": "Suryoyo-Nederlandssprekende vrouwen",
+          "schedule": "vrijdag 09.00–11.00",
+          "location": "Gezondheidscentrum Wesselerbrink, Wesselernering 60"
+        },
+        {
+          "name": "Arabisch- en Suryoyosprekende vrouwen",
+          "schedule": "vrijdag 13.00–15.00",
+          "location": "Gezondheidscentrum Wesselerbrink, Wesselernering 60"
+        },
+        {
+          "name": "Surinaamse mannen en vrouwen",
+          "schedule": "vrijdag 12.00–16.00",
+          "location": "Wijkcentrum De Boei, Spinnerstraat 27A"
+        },
+        {
+          "name": "Turkssprekende vrouwen",
+          "schedule": "donderdag 10.00–12.00",
+          "location": "’t Ni-je Terphoes, Noordhollandstraat 4"
+        }
+      ],
+      "activitiesNote": "Wekelijkse groepen; deelname is gratis.",
+      "activitiesUpdated": "2026-10-05",
+      "activitiesSource": "https://www.alifa.nl/dienst/24/ontmoetingsgroepen",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -16037,7 +16211,82 @@
       "lat": 52.21667309,
       "lon": 6.87642107,
       "locationMunicipality": "Enschede",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "activities": [
+        {
+          "name": "Lumen",
+          "schedule": "maandag 08.30–11.00",
+          "location": "Wijkcentrum Lumen, Velveweg 54",
+          "description": "Ouders met kinderen 0–12 jaar."
+        },
+        {
+          "name": "Glanerbrug",
+          "schedule": "dinsdag 09.00–11.00",
+          "location": "Speeltuin Glanerbrug, Jacob Roggeveenstraat 33",
+          "description": "Ouders met kinderen 0–4 jaar."
+        },
+        {
+          "name": "Varvik",
+          "schedule": "donderdag 09.30–11.30",
+          "location": "Speeltuin Varvik, Hendrik Smeltweg 50",
+          "description": "0–4 jaar, inclusief kinderopvang."
+        },
+        {
+          "name": "Mekkelholt",
+          "schedule": "maandag 09.00–10.30",
+          "location": "Speeltuin Mekkelholt, Hulsmaatstraat 83",
+          "description": "Ouders met kinderen 0–12 jaar."
+        },
+        {
+          "name": "IKC Universum",
+          "schedule": "woensdag 08.30–10.30",
+          "location": "Regulusstraat 8–10",
+          "description": "Ouders met kinderen 0–4 jaar."
+        },
+        {
+          "name": "Performance Factory",
+          "schedule": "dinsdag 14.00–16.00",
+          "location": "Hoge Bothofstraat 49",
+          "description": "Ouders met kinderen vanaf 4 jaar."
+        },
+        {
+          "name": "Boswinkel",
+          "schedule": "maandag 09.00–11.00",
+          "location": "Speeltuin Boswinkel, Beneluxlaan 50",
+          "description": "Ouders met kinderen 0–4 jaar."
+        },
+        {
+          "name": "’t Ni-je Terphoes",
+          "schedule": "donderdag 09.30–11.30",
+          "location": "Noordhollandstraat 4",
+          "description": "Ouders met kinderen 0–4 jaar."
+        },
+        {
+          "name": "Tuindorp",
+          "schedule": "dinsdag 09.30–11.00",
+          "location": "Speeltuin Tuindorp, Vlierstraat 65",
+          "description": "Ouders met kinderen 0–4 jaar."
+        },
+        {
+          "name": "De Zuidsprong",
+          "schedule": "woensdag 08.30–10.00",
+          "location": "Het Lang 78",
+          "description": "Ouders met kinderen vanaf 4 jaar."
+        },
+        {
+          "name": "Stroinkshuis",
+          "schedule": "dinsdag 09.30–11.00",
+          "location": "Het Stroink 64",
+          "description": "0–4 jaar, inclusief kinderopvang."
+        }
+      ],
+      "activitiesNote": "Deelname is gratis en vrijblijvend; je kunt zonder afspraak binnenlopen.",
+      "activitiesUpdated": "2026-10-05",
+      "activitiesSource": "https://www.alifa.nl/dienst/40/ontmoetingsgroepen",
+      "guidePaths": [
+        "onderwijs/opvoeden",
+        "ontmoeten/inloop"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -16130,7 +16379,7 @@
     },
     {
       "sourceKind": "first-party",
-      "checked": "2026-10-01",
+      "checked": "2026-10-05",
       "accessStatus": "source-check",
       "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
       "status": "candidate",
@@ -16141,7 +16390,7 @@
         "Enschede"
       ],
       "sourceTitle": "Stichting Leergeld Enschede",
-      "category": "bewegen",
+      "category": "geld",
       "access": "Aanvraag voor gezinnen met geldzorgen die aan de voorwaarden van Leergeld Enschede voldoen.",
       "description": "Hulp bij onder meer sportlidmaatschap, cultuurdeelname, zwemles en benodigde kleding of materialen.",
       "address": "Haaksbergerstraat 153",
@@ -16152,25 +16401,25 @@
       "audience": "Kinderen tot en met 17 jaar uit gezinnen met weinig financiële ruimte.",
       "costs": "Voor gezinnen die aan de voorwaarden voldoen worden voorzieningen geheel of gedeeltelijk betaald.",
       "themes": [
-        "bewegen",
         "geld",
-        "jeugd"
+        "jeugd",
+        "bewegen"
       ],
       "subthemes": [
+        "regelingen",
         "sport",
-        "cultuur",
-        "zwemles"
+        "cultuur"
       ],
       "tags": [
-        "bewegen",
         "geld",
+        "regelingen",
         "jeugd",
         "sport",
         "cultuur",
-        "zwemles"
+        "leergeld"
       ],
       "municipality": "Enschede",
-      "primaryTheme": "bewegen",
+      "primaryTheme": "geld",
       "lat": 52.21290938,
       "lon": 6.8862021,
       "locationMunicipality": "Enschede",
@@ -16270,7 +16519,7 @@
     },
     {
       "sourceKind": "first-party",
-      "checked": "2026-10-01",
+      "checked": "2026-10-05",
       "accessStatus": "source-check",
       "scope": "Voorliggend aanbod zonder gemeentelijke indicatie",
       "status": "candidate",
@@ -16281,7 +16530,7 @@
         "Enschede"
       ],
       "sourceTitle": "Jeugdfonds Sport & Cultuur Enschede",
-      "category": "bewegen",
+      "category": "geld",
       "access": "Aanvraag voor ouders met geldzorgen; in Enschede loopt dit samen met Stichting Leergeld Enschede.",
       "description": "Het fonds betaalt voor kinderen uit gezinnen met geldzorgen (een deel van) contributie, lesgeld en benodigde materialen voor sport en cultuur.",
       "address": "Haaksbergerstraat 153",
@@ -16292,23 +16541,25 @@
       "audience": "Kinderen tot en met 17 jaar uit gezinnen met geldzorgen.",
       "costs": "Voor deelnemers die aan de voorwaarden voldoen wordt de bijdrage door het fonds betaald.",
       "themes": [
-        "bewegen",
         "geld",
-        "jeugd"
+        "jeugd",
+        "bewegen"
       ],
       "subthemes": [
+        "regelingen",
         "sport",
         "cultuur"
       ],
       "tags": [
-        "bewegen",
         "geld",
+        "regelingen",
         "jeugd",
         "sport",
-        "cultuur"
+        "cultuur",
+        "jeugdfonds"
       ],
       "municipality": "Enschede",
-      "primaryTheme": "bewegen",
+      "primaryTheme": "geld",
       "lat": 52.21290938,
       "lon": 6.8862021,
       "locationMunicipality": "Enschede",
@@ -17462,7 +17713,39 @@
       "lon": 6.88626963,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "activities": [
+        {
+          "name": "Taal leren en oefenen",
+          "description": "Bijvoorbeeld Nederlands oefenen aan een praat- of taaltafel."
+        },
+        {
+          "name": "Computer en digitaal leren"
+        },
+        {
+          "name": "Koken en samen eten"
+        },
+        {
+          "name": "Creatieve activiteiten",
+          "description": "Onder meer breien, haken en andere creatieve activiteiten."
+        },
+        {
+          "name": "Koffie en ontmoeting"
+        },
+        {
+          "name": "Activiteiten organiseren en werkervaring opdoen"
+        }
+      ],
+      "activitiesNote": "Het programma verschilt per POWER-locatie en kan wijzigen. Dit zijn voorbeelden uit het actuele aanbod; controleer de locatie voor dagen en tijden.",
+      "activitiesUpdated": "2026-10-05",
+      "activitiesSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "meedoen/werk",
+        "ontmoeten/inloop",
+        "taal/nederlands",
+        "taal/digitaal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -17510,7 +17793,39 @@
       "lon": 6.90826728,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "activities": [
+        {
+          "name": "Taal leren en oefenen",
+          "description": "Bijvoorbeeld Nederlands oefenen aan een praat- of taaltafel."
+        },
+        {
+          "name": "Computer en digitaal leren"
+        },
+        {
+          "name": "Koken en samen eten"
+        },
+        {
+          "name": "Creatieve activiteiten",
+          "description": "Onder meer breien, haken en andere creatieve activiteiten."
+        },
+        {
+          "name": "Koffie en ontmoeting"
+        },
+        {
+          "name": "Activiteiten organiseren en werkervaring opdoen"
+        }
+      ],
+      "activitiesNote": "Het programma verschilt per POWER-locatie en kan wijzigen. Dit zijn voorbeelden uit het actuele aanbod; controleer de locatie voor dagen en tijden.",
+      "activitiesUpdated": "2026-10-05",
+      "activitiesSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "meedoen/werk",
+        "ontmoeten/inloop",
+        "taal/nederlands",
+        "taal/digitaal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -17558,7 +17873,39 @@
       "lon": 6.86596047,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "activities": [
+        {
+          "name": "Taal leren en oefenen",
+          "description": "Bijvoorbeeld Nederlands oefenen aan een praat- of taaltafel."
+        },
+        {
+          "name": "Computer en digitaal leren"
+        },
+        {
+          "name": "Koken en samen eten"
+        },
+        {
+          "name": "Creatieve activiteiten",
+          "description": "Onder meer breien, haken en andere creatieve activiteiten."
+        },
+        {
+          "name": "Koffie en ontmoeting"
+        },
+        {
+          "name": "Activiteiten organiseren en werkervaring opdoen"
+        }
+      ],
+      "activitiesNote": "Het programma verschilt per POWER-locatie en kan wijzigen. Dit zijn voorbeelden uit het actuele aanbod; controleer de locatie voor dagen en tijden.",
+      "activitiesUpdated": "2026-10-05",
+      "activitiesSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "meedoen/werk",
+        "ontmoeten/inloop",
+        "taal/nederlands",
+        "taal/digitaal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -17606,7 +17953,39 @@
       "lon": 6.88257941,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "activities": [
+        {
+          "name": "Taal leren en oefenen",
+          "description": "Bijvoorbeeld Nederlands oefenen aan een praat- of taaltafel."
+        },
+        {
+          "name": "Computer en digitaal leren"
+        },
+        {
+          "name": "Koken en samen eten"
+        },
+        {
+          "name": "Creatieve activiteiten",
+          "description": "Onder meer breien, haken en andere creatieve activiteiten."
+        },
+        {
+          "name": "Koffie en ontmoeting"
+        },
+        {
+          "name": "Activiteiten organiseren en werkervaring opdoen"
+        }
+      ],
+      "activitiesNote": "Het programma verschilt per POWER-locatie en kan wijzigen. Dit zijn voorbeelden uit het actuele aanbod; controleer de locatie voor dagen en tijden.",
+      "activitiesUpdated": "2026-10-05",
+      "activitiesSource": "https://wijkwijzerenschede.nl/doe-mee-en-ontmoet",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "meedoen/werk",
+        "ontmoeten/inloop",
+        "taal/nederlands",
+        "taal/digitaal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -21625,7 +22004,8 @@
       "locationType": "visiting",
       "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "activityOnly": true
     },
     {
       "sourceKind": "first-party",
@@ -21668,7 +22048,8 @@
       "locationType": "visiting",
       "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "activityOnly": true
     },
     {
       "sourceKind": "first-party",
@@ -21711,7 +22092,8 @@
       "locationType": "visiting",
       "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "activityOnly": true
     },
     {
       "sourceKind": "first-party",
@@ -21757,7 +22139,8 @@
       "addressChecked": "2026-10-02",
       "guidePaths": [
         "meedoen/daginvulling"
-      ]
+      ],
+      "activityOnly": true
     },
     {
       "sourceKind": "first-party",
@@ -21806,7 +22189,8 @@
       "guidePaths": [
         "meedoen/werk",
         "meedoen/daginvulling"
-      ]
+      ],
+      "activityOnly": true
     },
     {
       "sourceKind": "first-party",
@@ -21849,7 +22233,8 @@
       "locationType": "visiting",
       "locationSource": "https://www.thechessclub.nl/hulp-nodig/power",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "activityOnly": true
     },
     {
       "sourceKind": "first-party",
@@ -26009,7 +26394,12 @@
       "locationType": "contact",
       "locationSource": "https://www.fundamentlosser.nl/contact/",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/bewegen",
+        "ontmoeten/samen"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -26380,7 +26770,10 @@
       "lon": 7.03503715,
       "locationMunicipality": "Losser",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "ontmoeten/samen"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -30734,6 +31127,20 @@
     {
       "title": "SIVE / Alifa",
       "url": "https://www.alifa.nl/dienst/115/steun-empowermentgroep-voor-vrouwen",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Alifa activiteiten",
+      "url": "https://www.alifa.nl/activiteiten",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "De Vrije Ruimte activiteiten",
+      "url": "https://www.devrijeruimte.com/activiteiten.aspx",
       "municipalities": [
         "Enschede"
       ]

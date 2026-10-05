@@ -247,12 +247,18 @@
     "municipality": "Enschede",
     "category": "advies",
     "source": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
-    "description": "Een eerste aanspreekpunt voor vragen over het dagelijks leven. Bekijk de website voor het spreekuur op deze locatie.",
+    "description": "Wijkwijzer en laagdrempelige ontmoetings- en activiteitenplek aan de Olympialaan. Op deze plek werken meerdere partijen samen en kun je terecht voor informatie, daginvulling, leren, ontmoeting en activiteiten.",
     "tags": [
       "advies",
-      "ontmoeten"
+      "ontmoeten",
+      "daginvulling",
+      "activiteiten",
+      "taal",
+      "creatief",
+      "huiswerkbegeleiding",
+      "power"
     ],
-    "checked": "2026-09-14",
+    "checked": "2026-10-05",
     "lat": 52.20672753,
     "lon": 6.90826728,
     "geocodedAddress": "Olympialaan 20, 7541BK Enschede",
@@ -271,9 +277,19 @@
     "access": "",
     "openingHours": "",
     "themes": [
-      "advies"
+      "advies",
+      "ontmoeten",
+      "taal",
+      "jeugd",
+      "bewegen"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "daginvulling",
+      "leren",
+      "creatief",
+      "taal",
+      "huiswerkbegeleiding"
+    ],
     "enrichment": {
       "version": 2,
       "method": "lokale sleutelwoorden",
@@ -297,6 +313,65 @@
       ]
     },
     "primaryTheme": "advies",
+    "guidePaths": [
+      "ontmoeten/inloop",
+      "meedoen/daginvulling",
+      "taal/nederlands",
+      "ontmoeten/bewegen",
+      "onderwijs/jongeren"
+    ],
+    "activities": [
+      {
+        "name": "Huiswerkbegeleiding (8–18 jaar)",
+        "category": "Begeleiding en advies"
+      },
+      {
+        "name": "Taaltafel",
+        "description": "Nederlands oefenen en andere mensen ontmoeten."
+      },
+      {
+        "name": "Nederlandse les",
+        "description": "Onder meer via POWER Oost."
+      },
+      {
+        "name": "Kooklessen en samen koken"
+      },
+      {
+        "name": "Handwerken"
+      },
+      {
+        "name": "Creatieve middag",
+        "category": "Creatief"
+      },
+      {
+        "name": "Creatieve ochtend",
+        "category": "Creatief"
+      },
+      {
+        "name": "Haakles",
+        "category": "Creatief",
+        "schedule": "vrijdag 13.00–14.00"
+      },
+      {
+        "name": "Handwerkclub",
+        "category": "Creatief"
+      },
+      {
+        "name": "Kaartborduren",
+        "category": "Creatief"
+      },
+      {
+        "name": "Kunstschilderen",
+        "category": "Creatief"
+      },
+      {
+        "name": "Naailes",
+        "category": "Creatief",
+        "schedule": "maandag en dinsdag 12.00–15.00"
+      }
+    ],
+    "activitiesNote": "Het programma kan wijzigen en wordt door verschillende aangesloten organisaties verzorgd. Controleer de actuele activiteit en tijd bij De Vrije Ruimte.",
+    "activitiesSource": "https://www.devrijeruimte.com/activiteiten.aspx",
     "physicalLocation": true
   },
   {
@@ -4896,7 +4971,11 @@
     "subthemes": [
       "laagdrempelig"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "ontmoeten/bewegen",
+      "ontmoeten/samen"
+    ],
     "guideExclude": false,
     "description": "Vaste daginvulling met bewegen, samen koken, eten en ontmoeting.",
     "audience": "Inwoners van de gemeente Losser.",
@@ -4934,7 +5013,11 @@
     "subthemes": [
       "laagdrempelig"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "ontmoeten/bewegen",
+      "ontmoeten/samen"
+    ],
     "guideExclude": false,
     "description": "Vaste daginvulling met bewegen, samen koken, eten en ontmoeting.",
     "audience": "Inwoners van de gemeente Losser.",
@@ -8823,7 +8906,13 @@
       "leren",
       "werkervaring"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "meedoen/werk",
+      "ontmoeten/inloop",
+      "taal/nederlands",
+      "taal/digitaal"
+    ],
     "guideExclude": false,
     "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
     "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
@@ -8866,7 +8955,13 @@
       "leren",
       "werkervaring"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "meedoen/werk",
+      "ontmoeten/inloop",
+      "taal/nederlands",
+      "taal/digitaal"
+    ],
     "guideExclude": false,
     "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
     "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
@@ -8909,7 +9004,13 @@
       "leren",
       "werkervaring"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "meedoen/werk",
+      "ontmoeten/inloop",
+      "taal/nederlands",
+      "taal/digitaal"
+    ],
     "guideExclude": false,
     "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
     "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
@@ -8952,7 +9053,13 @@
       "leren",
       "werkervaring"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "meedoen/werk",
+      "ontmoeten/inloop",
+      "taal/nederlands",
+      "taal/digitaal"
+    ],
     "guideExclude": false,
     "description": "Activeringscentrum in de wijk waar inwoners kunnen meedoen, vaardigheden oefenen, activiteiten organiseren, leren en werkervaring opdoen.",
     "audience": "Inwoners van Enschede die willen meedoen, leren of actiever willen worden.",
@@ -14915,7 +15022,7 @@
   {
     "id": "catalog-org-jeugdfonds-sport-cultuur-enschede-14j199n",
     "name": "Jeugdfonds Sport & Cultuur Enschede",
-    "category": "bewegen",
+    "category": "geld",
     "address": "Haaksbergerstraat 153",
     "postcode": "7513EL",
     "town": "Enschede",
@@ -14926,11 +15033,11 @@
     "lat": 52.21290938,
     "lon": 6.8862021,
     "source": "https://jeugdfondssportencultuur.nl/fondsen/enschede/",
-    "checked": "2026-10-01",
+    "checked": "2026-10-05",
     "tags": [
-      "bewegen",
       "geld",
-      "jeugd"
+      "jeugd",
+      "bewegen"
     ],
     "subthemes": [],
     "description": "Locatie voor Jeugdfonds Sport & Cultuur Enschede. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
@@ -16188,8 +16295,8 @@
     "tags": [
       "geld",
       "taal",
-      "bewegen",
-      "jeugd"
+      "jeugd",
+      "bewegen"
     ],
     "subthemes": [],
     "description": "Locatie voor Stichting Leergeld Enschede. Via de bron zijn 3 vormen van voorliggend aanbod opgenomen.",
@@ -16593,7 +16700,7 @@
   {
     "id": "catalog-org-tafeltje-dekje-wa2vbj",
     "name": "Tafeltje dekje",
-    "category": "vervoer",
+    "category": "basis",
     "address": "Reggestraat 85",
     "postcode": "7468EJ",
     "town": "Enter",
@@ -16603,16 +16710,16 @@
     ],
     "lat": 52.29359952,
     "lon": 6.5805698,
-    "source": "https://www.socialekaartwierden.nl/is/organisatie/220585/invis2/tafeltje-dekje",
-    "checked": "2026-09-15",
+    "source": "https://www.socialekaartwierden.nl/is/product/154479/220585/invis2/warme-maaltijd-naar-keuze",
+    "checked": "2026-10-05",
     "tags": [
-      "vervoer"
+      "basis"
     ],
     "subthemes": [],
     "description": "Locatie voor Tafeltje dekje. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
-    "audience": "",
+    "audience": "Ouderen en mensen met een (tijdelijke) beperking in en rond Enter.",
     "costs": "",
-    "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
+    "access": "Rechtstreeks aanmelden bij Stichting Maaltijdvoorziening Enter.",
     "openingHours": "",
     "phone": "",
     "email": "",

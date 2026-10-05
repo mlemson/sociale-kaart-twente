@@ -1200,7 +1200,12 @@
       "lon": 7.00588809,
       "locationMunicipality": "Losser",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/bewegen",
+        "ontmoeten/samen"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -1243,7 +1248,12 @@
       "lon": 7.03503715,
       "locationMunicipality": "Losser",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/bewegen",
+        "ontmoeten/samen"
+      ]
     },
     {
       "sourceKind": "first-party",

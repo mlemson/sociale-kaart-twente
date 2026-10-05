@@ -160,5 +160,26 @@
     "nameContains": "Zorginformatiepunt Vriezenveen",
     "municipality": "Twenterand",
     "path": "zorg/clientsteun"
+  },
+  {
+    "nameContains": "Tafeltje dekje",
+    "municipality": "Dinkelland",
+    "path": "basis/eten"
+  },
+  {
+    "nameContains": "Tafeltje dekje",
+    "municipality": "Dinkelland",
+    "path": "vervoer/sociaal",
+    "shouldExist": false
+  },
+  {
+    "nameContains": "Power Enschede",
+    "municipality": "Enschede",
+    "path": "meedoen/daginvulling"
+  },
+  {
+    "nameContains": "Wijkwijzer De Vrije Ruimte",
+    "municipality": "Enschede",
+    "path": "meedoen/daginvulling"
   }
 ]

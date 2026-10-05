@@ -54,10 +54,39 @@
     button.addEventListener("click", () => apply(document.documentElement.dataset.colorScheme === "dark" ? "light" : "dark", true));
   }
 
+  function activityObject(item) {
+    if (!item) return null;
+    if (typeof item === "string") return {name: item};
+    if (typeof item === "object" && item.name) return item;
+    return null;
+  }
+
+  function activitiesOf(record) {
+    return (record.activities || []).map(activityObject).filter(Boolean);
+  }
+
+  function activityText(record) {
+    return activitiesOf(record).map(item => [
+      item.name, item.description, item.location, item.schedule, item.category
+    ].filter(Boolean).join(" ")).join(" ");
+  }
+
+  function mergeActivities(...lists) {
+    const merged = new Map();
+    lists.flat().map(activityObject).filter(Boolean).forEach(item => {
+      const key = norm([item.name, item.location, item.schedule].filter(Boolean).join("|"));
+      if (!key) return;
+      if (!merged.has(key)) merged.set(key, item);
+      else merged.set(key, {...merged.get(key), ...item});
+    });
+    return [...merged.values()];
+  }
+
   function recordText(record) {
     return norm([
       record.organization, record.title, record.description, record.audience, record.access, record.costs,
       record.address, record.postcode, record.town, record.openingHours, record.phone, record.email,
+      record.activitiesNote, activityText(record),
       (record.themes || []).join(" "), (record.subthemes || []).join(" "),
       (record.tags || []).join(" "), (record.routeTags || []).join(" ")
     ].join(" "));
@@ -113,7 +142,7 @@
   }
 
   function forNode(node) {
-    return records.filter(record => !record.guideExclude && inMunicipality(record) && matchesNode(node, record));
+    return records.filter(record => !record.guideExclude && !record.activityOnly && inMunicipality(record) && matchesNode(node, record));
   }
 
   function findNode(ids) {
@@ -336,6 +365,49 @@
     return '<span class="guide-result-fact"><strong>' + esc(label) + '</strong><span>' + esc(value) + '</span></span>';
   }
 
+  function activityPreviewHtml(record) {
+    const activities = activitiesOf(record);
+    if (!activities.length) return "";
+    const names = activities.slice(0, 3).map(item => item.name);
+    const extra = activities.length > names.length ? " +" + (activities.length - names.length) + " meer" : "";
+    return '<span class="guide-result-activities"><strong>Activiteiten</strong><span>' +
+      esc(names.join(", ") + extra) + '</span></span>';
+  }
+
+  function activitiesHtml(record) {
+    const activities = activitiesOf(record);
+    if (!activities.length) return "";
+    const source = safeUrl(record.activitiesSource);
+    const items = activities.map(item => {
+      const meta = [item.category, item.schedule, item.location].filter(Boolean);
+      return '<div class="guide-activity-item"><strong>' + esc(item.name) + '</strong>' +
+        (meta.length ? '<span>' + esc(meta.join(" · ")) + '</span>' : "") +
+        (item.description ? '<p>' + esc(item.description) + '</p>' : "") + '</div>';
+    }).join("");
+    return '<section class="guide-activities" aria-label="Activiteiten en mogelijkheden">' +
+      '<div class="guide-activities-head"><h5>Activiteiten en mogelijkheden</h5><span>' + activities.length + '</span></div>' +
+      '<div class="guide-activity-list">' + items + '</div>' +
+      (record.activitiesNote ? '<p class="guide-activities-note">' + esc(record.activitiesNote) + '</p>' : "") +
+      (source ? '<a class="guide-activities-source" href="' + esc(source) + '" target="_blank" rel="noopener noreferrer">Bekijk het actuele activiteitenaanbod</a>' : "") +
+      '</section>';
+  }
+
+  function relatedOffersHtml(record) {
+    const orgKey = norm(record.organization);
+    if (!orgKey) return "";
+    const related = records
+      .filter(item => item.id !== record.id && !item.guideExclude && !item.activityOnly && norm(item.organization) === orgKey)
+      .sort((a, b) => String(a.title || "").localeCompare(String(b.title || ""), "nl-NL"));
+    if (!related.length) return "";
+    const visible = related.slice(0, 12);
+    return '<details class="guide-related"><summary>Meer aanbod van ' + esc(record.organization) +
+      ' <span>' + related.length + '</span></summary><div class="guide-related-list">' +
+      visible.map(item => '<div><strong>' + esc(item.title || item.organization) + '</strong>' +
+        (item.description ? '<span>' + esc(item.description) + '</span>' : "") + '</div>').join("") +
+      (related.length > visible.length ? '<p>+' + (related.length - visible.length) + ' andere vormen van aanbod.</p>' : "") +
+      '</div></details>';
+  }
+
   function offerResultHtml(record, index) {
     const title = record.title || record.organization || "Voorziening";
     const meta = offerMeta(record);
@@ -349,6 +421,7 @@
       (meta.length ? '<small class="guide-result-meta">' + esc(meta.join(" · ")) + '</small>' : "") +
       '</span><span class="guide-result-arrow" aria-hidden="true">›</span></span>' +
       (record.description ? '<span class="guide-result-description">' + esc(record.description) + '</span>' : "") +
+      activityPreviewHtml(record) +
       (facts ? '<span class="guide-result-facts">' + facts + '</span>' : "") +
       '<span class="guide-result-cta">Bekijk deze voorziening</span></button>';
   }
@@ -365,7 +438,9 @@
     const content = '<div class="guide-offer-content"><h4>' + esc(title) + "</h4>" +
       (meta ? '<div class="guide-offer-meta">' + esc(meta) + "</div>" : "") +
       (record.description ? "<p>" + esc(record.description) + "</p>" : "") +
+      activitiesHtml(record) +
       (rows ? "<dl>" + rows + "</dl>" : "") +
+      relatedOffersHtml(record) +
       '<div class="guide-offer-actions">' +
       (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">Website van de voorziening</a>' : "") +
       '<a class="secondary" href="voorzieningen.html">Alle voorzieningen</a></div></div>';
@@ -427,7 +502,7 @@
     clearDetailMaps();
     const q = norm(query);
     const hits = records
-      .filter(record => !record.guideExclude && inMunicipality(record) && record._text.includes(q))
+      .filter(record => !record.guideExclude && !record.activityOnly && inMunicipality(record) && record._text.includes(q))
       .sort((a, b) => {
         const aTitle = norm(a.title || "");
         const bTitle = norm(b.title || "");
@@ -479,7 +554,7 @@
     if (!node) {
       byId("guide-heading").textContent = "Waar zoek je informatie over?";
       byId("guide-subheading").textContent = "";
-      byId("guide-status").textContent = records.filter(record => !record.guideExclude && inMunicipality(record)).length + " vormen van aanbod en verwijspunten beschikbaar" + (municipality() ? " in " + municipality() : " in Twente") + ".";
+      byId("guide-status").textContent = records.filter(record => !record.guideExclude && !record.activityOnly && inMunicipality(record)).length + " vormen van aanbod en verwijspunten beschikbaar" + (municipality() ? " in " + municipality() : " in Twente") + ".";
       renderCards(taxonomy, null);
       return;
     }
@@ -540,6 +615,11 @@
           tags: offer.tags || [],
           guidePaths: offer.guidePaths || [],
           guideExclude: Boolean(offer.guideExclude),
+          activityOnly: Boolean(offer.activityOnly),
+          activities: offer.activities || [],
+          activitiesNote: offer.activitiesNote || "",
+          activitiesSource: offer.activitiesSource || "",
+          activitiesUpdated: offer.activitiesUpdated || "",
           category: offer.category || "",
           checked: offer.checked || group.checked || ""
         });
@@ -573,6 +653,11 @@
       tags: uniq([...(facility.tags || []), facility.category]),
       guidePaths: facility.guidePaths || [],
       guideExclude: Boolean(facility.guideExclude),
+      activityOnly: Boolean(facility.activityOnly),
+      activities: facility.activities || [],
+      activitiesNote: facility.activitiesNote || "",
+      activitiesSource: facility.activitiesSource || "",
+      activitiesUpdated: facility.activitiesUpdated || "",
       category: facility.category || "",
       checked: facility.checked || ""
     }));
@@ -592,7 +677,9 @@
           tags: uniq(record.tags),
           routeTags: uniq(record.routeTags),
           guidePaths: uniq(record.guidePaths),
-          guideExclude: Boolean(record.guideExclude)
+          guideExclude: Boolean(record.guideExclude),
+          activityOnly: Boolean(record.activityOnly),
+          activities: mergeActivities(record.activities || [])
         });
         return;
       }
@@ -604,7 +691,9 @@
       current.routeTags = uniq([...(current.routeTags || []), ...(record.routeTags || [])]);
       current.guidePaths = uniq([...(current.guidePaths || []), ...(record.guidePaths || [])]);
       current.guideExclude = Boolean(current.guideExclude || record.guideExclude);
-      ["description","audience","access","costs","openingHours","phone","email","address","postcode","town","source","checked"].forEach(field => {
+      current.activityOnly = Boolean(current.activityOnly || record.activityOnly);
+      current.activities = mergeActivities(current.activities || [], record.activities || []);
+      ["description","audience","access","costs","openingHours","phone","email","address","postcode","town","source","checked","activitiesNote","activitiesSource","activitiesUpdated"].forEach(field => {
         if (record[field] && (!current[field] || String(record[field]).length > String(current[field]).length)) current[field] = record[field];
       });
       if (record.physicalLocation === true) {
