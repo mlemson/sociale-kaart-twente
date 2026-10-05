@@ -391,7 +391,10 @@ function showCatalog(id) {
     const offers = summary.pool;
     const offerHtml = offers.slice(0,12).map(o => `<div class="detail-offer"><strong>${esc(o.title || o.name)}</strong>${o.audience ? `<span>Voor: ${esc(o.audience)}</span>` : ''}${o.source ? `<a href="${esc(o.source)}" target="_blank" rel="noopener">Bron</a>` : ''}</div>`).join('');
     const first = offers[0] || (g.offers || [])[0];
-    d.innerHTML = `<button class="detail-close" aria-label="Sluiten">×</button><span class="category-icon">${icon(g.categories?.[0] || 'advies')}</span><h2>${esc(g.organization)}</h2><p class="detail-address"><strong>Ook actief in ${esc(areaName)}</strong><br>Deze organisatie heeft binnen deze selectie geen fysieke kaartlocatie.</p><div class="detail-links">${g.primarySource ? `<a class="primary-link" href="${esc(g.primarySource)}" target="_blank" rel="noopener">Website</a>` : ''}<a href="voorzieningen.html">Alle voorzieningen</a></div><div class="detail-offers">${offerHtml}</div>${offers.length > 12 ? `<p class="meta">+${offers.length-12} meer</p>` : ''}${first ? `<p><a href="aanmelden.html?candidate=${encodeURIComponent(first.id)}">Correctie doorgeven</a></p>` : ''}`;
+    const guideParams = new URLSearchParams({organisatie: g.id});
+    if (state.municipality) guideParams.set('gemeente', state.municipality);
+    const guideUrl = 'wegwijzer.html?' + guideParams.toString();
+    d.innerHTML = `<button class="detail-close" aria-label="Sluiten">×</button><span class="category-icon">${icon(g.categories?.[0] || 'advies')}</span><h2>${esc(g.organization)}</h2><p class="detail-address"><strong>Ook actief in ${esc(areaName)}</strong><br>Deze organisatie heeft binnen deze selectie geen fysieke kaartlocatie.</p><div class="detail-links"><a class="primary-link" href="${esc(guideUrl)}">Bekijk in Wegwijzer</a>${g.primarySource ? `<a href="${esc(g.primarySource)}" target="_blank" rel="noopener">Website</a>` : ''}<a href="voorzieningen.html">Alle voorzieningen</a></div><div class="detail-offers">${offerHtml}</div>${offers.length > 12 ? `<p class="meta">+${offers.length-12} meer</p>` : ''}${first ? `<p><a href="aanmelden.html?candidate=${encodeURIComponent(first.id)}">Correctie doorgeven</a></p>` : ''}`;
     d.querySelector('.detail-close').addEventListener('click', () => {
         state.selected = null;
         render();
@@ -427,7 +430,15 @@ function showLocation(id, pan=false) {
             ? '<p class="location-note">Dit is het contact- of vestigingsadres. De activiteit zelf kan op een andere locatie, in de wijk of bij inwoners thuis plaatsvinden.</p>'
             : '';
     const routeLink = (!isContact && !isServiceAreaPin) ? `<a href="${route}" target="_blank" rel="noopener">Route</a>` : '';
-    d.innerHTML = `<button class="detail-close" aria-label="Locatie sluiten">×</button><span class="category-icon">${icon(p.category)}</span><h2>${esc(p.name)}</h2>${p.description ? `<p>${esc(p.description)}</p>` : ''}<p class="detail-address"><strong>${addressLabel}</strong><br>${esc(p.address)}${p.postcode ? ` · ${esc(p.postcode)}` : ''}<br>${esc(p.town)}</p>${locationNote}<div class="detail-links"><a class="primary-link" href="${esc(p.source)}" target="_blank" rel="noopener">Website</a>${routeLink}</div><div class="detail-extra">${[["Voor wie", p.audience], ["Kosten", p.costs], ["Toegang", p.access], ["Telefoon", p.phone], ["E-mail", p.email]].filter(([,v]) => v).map(([k,v]) => `<p><strong>${k}</strong><br>${esc(v)}</p>`).join('')}${serviceLine}</div><p><a href="aanmelden.html?id=${encodeURIComponent(p.id)}">Correctie doorgeven</a></p>`;
+    const guideParams = new URLSearchParams();
+    if (p.catalogOfferId) guideParams.set('voorziening', p.catalogOfferId);
+    if (p.catalogOrganizationId) guideParams.set('organisatie', p.catalogOrganizationId);
+    if (defaultMunicipality) guideParams.set('gemeente', defaultMunicipality);
+    const guideLink = (p.catalogOfferId || p.catalogOrganizationId)
+        ? `<a class="primary-link" href="wegwijzer.html?${esc(guideParams.toString())}">Bekijk in Wegwijzer</a>`
+        : '';
+    const websiteLink = p.source ? `<a ${guideLink ? '' : 'class="primary-link" '}href="${esc(p.source)}" target="_blank" rel="noopener">Website</a>` : '';
+    d.innerHTML = `<button class="detail-close" aria-label="Locatie sluiten">×</button><span class="category-icon">${icon(p.category)}</span><h2>${esc(p.name)}</h2>${p.description ? `<p>${esc(p.description)}</p>` : ''}<p class="detail-address"><strong>${addressLabel}</strong><br>${esc(p.address)}${p.postcode ? ` · ${esc(p.postcode)}` : ''}<br>${esc(p.town)}</p>${locationNote}<div class="detail-links">${guideLink}${websiteLink}${routeLink}</div><div class="detail-extra">${[["Voor wie", p.audience], ["Kosten", p.costs], ["Toegang", p.access], ["Telefoon", p.phone], ["E-mail", p.email]].filter(([,v]) => v).map(([k,v]) => `<p><strong>${k}</strong><br>${esc(v)}</p>`).join('')}${serviceLine}</div><p><a href="aanmelden.html?id=${encodeURIComponent(p.id)}">Correctie doorgeven</a></p>`;
     d.querySelector('.detail-close').addEventListener('click', () => {
         state.selected = null;
         render();
