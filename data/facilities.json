@@ -15022,7 +15022,7 @@
   {
     "id": "catalog-org-jeugdfonds-sport-cultuur-enschede-14j199n",
     "name": "Jeugdfonds Sport & Cultuur Enschede",
-    "category": "bewegen",
+    "category": "geld",
     "address": "Haaksbergerstraat 153",
     "postcode": "7513EL",
     "town": "Enschede",
@@ -15033,11 +15033,11 @@
     "lat": 52.21290938,
     "lon": 6.8862021,
     "source": "https://jeugdfondssportencultuur.nl/fondsen/enschede/",
-    "checked": "2026-10-01",
+    "checked": "2026-10-05",
     "tags": [
-      "bewegen",
       "geld",
-      "jeugd"
+      "jeugd",
+      "bewegen"
     ],
     "subthemes": [],
     "description": "Locatie voor Jeugdfonds Sport & Cultuur Enschede. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
@@ -16295,8 +16295,8 @@
     "tags": [
       "geld",
       "taal",
-      "bewegen",
-      "jeugd"
+      "jeugd",
+      "bewegen"
     ],
     "subthemes": [],
     "description": "Locatie voor Stichting Leergeld Enschede. Via de bron zijn 3 vormen van voorliggend aanbod opgenomen.",

@@ -19757,9 +19757,9 @@
       "Enschede"
     ],
     "categories": [
-      "bewegen",
       "geld",
-      "jeugd"
+      "jeugd",
+      "bewegen"
     ],
     "sources": [
       "https://jeugdfondssportencultuur.nl/fondsen/enschede/"
@@ -19768,7 +19768,7 @@
     "reviewNeeded": 0,
     "sourceBacked": 1,
     "manual": 0,
-    "checked": "2026-10-01",
+    "checked": "2026-10-05",
     "offers": [
       {
         "id": "candidate-20261001-jeugdfonds-enschede",
@@ -19779,22 +19779,24 @@
         "municipalities": [
           "Enschede"
         ],
-        "category": "bewegen",
+        "category": "geld",
         "themes": [
-          "bewegen",
           "geld",
-          "jeugd"
+          "jeugd",
+          "bewegen"
         ],
         "subthemes": [
+          "regelingen",
           "sport",
           "cultuur"
         ],
         "tags": [
-          "bewegen",
           "geld",
+          "regelingen",
           "jeugd",
           "sport",
-          "cultuur"
+          "cultuur",
+          "jeugdfonds"
         ],
         "guidePaths": [
           "geld/regelingen"
@@ -19814,7 +19816,7 @@
         "source": "https://jeugdfondssportencultuur.nl/fondsen/enschede/",
         "sourceKind": "first-party",
         "sourceTitle": "Jeugdfonds Sport & Cultuur Enschede",
-        "checked": "2026-10-01",
+        "checked": "2026-10-05",
         "reviewStatus": "source-backed",
         "address": "Haaksbergerstraat 153",
         "postcode": "7513EL",
@@ -31769,19 +31771,24 @@
           "Dinkelland",
           "Tubbergen"
         ],
-        "category": "jeugd",
+        "category": "geld",
         "themes": [
+          "geld",
           "jeugd"
         ],
         "subthemes": [
-          "geldzorgen",
-          "jeugd"
+          "regelingen",
+          "kinderen"
         ],
         "tags": [
+          "geld",
+          "regelingen",
           "jeugd",
-          "geldzorgen"
+          "kindpakket"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],
@@ -31797,7 +31804,7 @@
         "source": "https://swtd.nl/ons-aanbod/geldzorgen/kindpakket",
         "sourceKind": "provider",
         "sourceTitle": "Sociaal, dat werkt!",
-        "checked": "2026-09-15",
+        "checked": "2026-10-05",
         "reviewStatus": "source-backed",
         "address": "Eeshoflaan 21k-121",
         "postcode": "7651LZ",
@@ -34498,8 +34505,8 @@
     "categories": [
       "geld",
       "taal",
-      "bewegen",
-      "jeugd"
+      "jeugd",
+      "bewegen"
     ],
     "sources": [
       "https://www.leergeldenschede.nl/mogelijkheden"
@@ -34629,24 +34636,24 @@
         "municipalities": [
           "Enschede"
         ],
-        "category": "bewegen",
+        "category": "geld",
         "themes": [
-          "bewegen",
           "geld",
-          "jeugd"
+          "jeugd",
+          "bewegen"
         ],
         "subthemes": [
+          "regelingen",
           "sport",
-          "cultuur",
-          "zwemles"
+          "cultuur"
         ],
         "tags": [
-          "bewegen",
           "geld",
+          "regelingen",
           "jeugd",
           "sport",
           "cultuur",
-          "zwemles"
+          "leergeld"
         ],
         "guidePaths": [
           "geld/regelingen"
@@ -34666,7 +34673,7 @@
         "source": "https://www.leergeldenschede.nl/mogelijkheden",
         "sourceKind": "first-party",
         "sourceTitle": "Stichting Leergeld Enschede",
-        "checked": "2026-10-01",
+        "checked": "2026-10-05",
         "reviewStatus": "source-backed",
         "address": "Haaksbergerstraat 153",
         "postcode": "7513EL",
