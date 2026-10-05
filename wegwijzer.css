@@ -453,3 +453,140 @@ html[data-color-scheme="dark"] .guide-mini-map .leaflet-tooltip{
   background:#2b272d;
   color:#eee7ec;
 }
+
+
+/* V13 · voorzieningen direct als resultaat in de Wegwijzer */
+.guide-offer-results,
+.guide-search-results{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:13px;
+}
+.guide-result-card{
+  appearance:none;
+  width:100%;
+  min-width:0;
+  border:1px solid #e5dde4;
+  background:#fdfcfd;
+  border-radius:15px;
+  padding:18px 19px 16px;
+  color:inherit;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  gap:11px;
+  cursor:pointer;
+  transition:transform .14s ease,border-color .14s ease,box-shadow .14s ease,background .14s ease;
+}
+.guide-result-card:hover{
+  transform:translateY(-2px);
+  border-color:#cfb8c8;
+  background:#fff;
+  box-shadow:0 9px 24px rgba(68,40,58,.07);
+}
+.guide-result-card:focus-visible{
+  outline:3px solid var(--accent);
+  outline-offset:2px;
+}
+.guide-result-top{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:14px;
+}
+.guide-result-top>span:first-child{min-width:0}
+.guide-result-title{
+  display:block;
+  color:var(--primary);
+  font-size:17px;
+  line-height:1.28;
+  letter-spacing:-.01em;
+}
+.guide-result-meta{
+  display:block;
+  margin-top:5px;
+  color:#807480;
+  font-size:12px;
+  line-height:1.45;
+}
+.guide-result-arrow{
+  flex:none;
+  width:29px;
+  height:29px;
+  display:grid;
+  place-items:center;
+  border-radius:999px;
+  background:#f2eaf0;
+  color:#70435f;
+  font-size:23px;
+  line-height:1;
+}
+.guide-result-description{
+  color:#514751;
+  font-size:13px;
+  line-height:1.52;
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:3;
+  overflow:hidden;
+}
+.guide-result-facts{
+  display:grid;
+  gap:6px;
+  padding-top:2px;
+}
+.guide-result-fact{
+  display:grid;
+  grid-template-columns:68px minmax(0,1fr);
+  gap:9px;
+  color:#706570;
+  font-size:12px;
+  line-height:1.42;
+}
+.guide-result-fact>strong{
+  color:#665b65;
+  font-size:11px;
+}
+.guide-result-fact>span{
+  display:-webkit-box;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:2;
+  overflow:hidden;
+}
+.guide-result-cta{
+  margin-top:auto;
+  padding-top:2px;
+  color:var(--primary);
+  font-size:12px;
+  font-weight:700;
+}
+.guide-detail-toolbar{
+  display:flex;
+  justify-content:flex-start;
+  margin-bottom:12px;
+}
+.guide-result-back{padding:8px 12px}
+@media(max-width:780px){
+  .guide-offer-results,
+  .guide-search-results{grid-template-columns:1fr}
+  .guide-result-card{padding:16px}
+  .guide-result-fact{grid-template-columns:62px minmax(0,1fr)}
+}
+html[data-color-scheme="dark"] .guide-result-card{
+  background:#2b272d;
+  border-color:#463e46;
+}
+html[data-color-scheme="dark"] .guide-result-card:hover{
+  background:#312c33;
+  border-color:#6d5062;
+}
+html[data-color-scheme="dark"] .guide-result-title,
+html[data-color-scheme="dark"] .guide-result-cta{color:#f3dbea}
+html[data-color-scheme="dark"] .guide-result-meta,
+html[data-color-scheme="dark"] .guide-result-description,
+html[data-color-scheme="dark"] .guide-result-fact{color:#c0b5bf}
+html[data-color-scheme="dark"] .guide-result-fact>strong{color:#d7cad4}
+html[data-color-scheme="dark"] .guide-result-arrow{
+  background:#3a3037;
+  color:#e7cedd;
+}

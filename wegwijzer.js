@@ -222,8 +222,8 @@
       const all = document.createElement("button");
       all.type = "button";
       all.className = "guide-show-all";
-      all.textContent = "Toon alle organisaties binnen " + parent.label.toLowerCase();
-      all.addEventListener("click", () => renderOrganizations(forNode(parent), parent));
+      all.textContent = "Toon alle voorzieningen binnen " + parent.label.toLowerCase();
+      all.addEventListener("click", () => renderOffers(forNode(parent), parent));
       grid.appendChild(all);
     }
   }
@@ -319,58 +319,106 @@
     return rows.map(row => "<dt>" + esc(row[0]) + "</dt><dd>" + esc(row[1]) + "</dd>").join("");
   }
 
-  function renderOrganizationDetail(items, contextNode, backToSearch) {
+  function offerMeta(record) {
+    const parts = [];
+    const title = record.title || record.organization || "Voorziening";
+    if (record.organization && norm(record.organization) !== norm(title)) parts.push(record.organization);
+    const areas = uniq([
+      record.town,
+      ...(record.municipalities || []).filter(area => area !== "Twente")
+    ]).filter(Boolean).slice(0, 3);
+    if (areas.length) parts.push(areas.join(", "));
+    return parts;
+  }
+
+  function previewFact(label, value) {
+    if (!value) return "";
+    return '<span class="guide-result-fact"><strong>' + esc(label) + '</strong><span>' + esc(value) + '</span></span>';
+  }
+
+  function offerResultHtml(record, index) {
+    const title = record.title || record.organization || "Voorziening";
+    const meta = offerMeta(record);
+    const facts = [
+      previewFact("Voor wie", record.audience),
+      previewFact("Toegang", record.access),
+      previewFact("Kosten", record.costs)
+    ].filter(Boolean).join("");
+    return '<button class="guide-result-card" type="button" data-offer-index="' + index + '">' +
+      '<span class="guide-result-top"><span><strong class="guide-result-title">' + esc(title) + '</strong>' +
+      (meta.length ? '<small class="guide-result-meta">' + esc(meta.join(" · ")) + '</small>' : "") +
+      '</span><span class="guide-result-arrow" aria-hidden="true">›</span></span>' +
+      (record.description ? '<span class="guide-result-description">' + esc(record.description) + '</span>' : "") +
+      (facts ? '<span class="guide-result-facts">' + facts + '</span>' : "") +
+      '<span class="guide-result-cta">Bekijk deze voorziening</span></button>';
+  }
+
+  function offerDetailCard(record, mapIndex) {
+    const title = record.title || record.organization || "Voorziening";
+    const url = safeUrl(record.source);
+    const rows = detailRows(record);
+    const meta = [
+      record.organization && norm(record.organization) !== norm(title) ? record.organization : "",
+      record.referenceOnly ? "Specialistisch verwijspunt" : "Sociale kaart",
+      record.checked ? "gecontroleerd " + record.checked : ""
+    ].filter(Boolean).join(" · ");
+    const content = '<div class="guide-offer-content"><h4>' + esc(title) + "</h4>" +
+      (meta ? '<div class="guide-offer-meta">' + esc(meta) + "</div>" : "") +
+      (record.description ? "<p>" + esc(record.description) + "</p>" : "") +
+      (rows ? "<dl>" + rows + "</dl>" : "") +
+      '<div class="guide-offer-actions">' +
+      (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">Website van de voorziening</a>' : "") +
+      '<a class="secondary" href="voorzieningen.html">Alle voorzieningen</a></div></div>';
+    return '<article class="guide-offer' + (hasLocationMap(record) ? " has-map" : "") + '">' +
+      content + miniMapHtml(record, mapIndex) + "</article>";
+  }
+
+  function renderOfferDetail(record, contextNode, backToSearch) {
+    if (!record) return;
     const results = byId("guide-results");
-    const organization = items[0] ? (items[0].organization || items[0].title) : "Organisatie";
+    const title = record.title || record.organization || "Voorziening";
+    const meta = offerMeta(record);
     byId("guide-grid").hidden = true;
     results.hidden = false;
-    byId("guide-heading").textContent = organization;
-    byId("guide-subheading").textContent = items.length + " " + (items.length === 1 ? "onderdeel" : "onderdelen") + " binnen de gekozen route.";
+    byId("guide-heading").textContent = title;
+    byId("guide-subheading").textContent = meta.length ? meta.join(" · ") : "Informatie over deze voorziening.";
+    byId("guide-status").textContent = "Concrete voorziening";
 
     clearDetailMaps();
-    const sortedItems = [...items].sort((a, b) => String(a.title || "").localeCompare(String(b.title || ""), "nl-NL"));
-    const cards = sortedItems.map((record, index) => {
-      const url = safeUrl(record.source);
-      const rows = detailRows(record);
-      const content = '<div class="guide-offer-content"><h4>' + esc(record.title || organization) + "</h4>" +
-        '<div class="guide-offer-meta">' + (record.referenceOnly ? "Specialistisch verwijspunt" : "Sociale kaart") + (record.checked ? " · gecontroleerd " + esc(record.checked) : "") + "</div>" +
-        (record.description ? "<p>" + esc(record.description) + "</p>" : "") +
-        (rows ? "<dl>" + rows + "</dl>" : "") +
-        '<div class="guide-offer-actions">' +
-        (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">Website</a>' : "") +
-        '<a class="secondary" href="voorzieningen.html">Alle voorzieningen</a></div></div>';
-      return '<article class="guide-offer' + (hasLocationMap(record) ? " has-map" : "") + '">' +
-        content + miniMapHtml(record, index) + "</article>";
-    }).join("");
+    results.innerHTML =
+      '<div class="guide-detail-toolbar"><button class="guide-back guide-result-back" id="guide-offer-back" type="button">← Terug naar resultaten</button></div>' +
+      '<div class="guide-detail-list">' + offerDetailCard(record, 0) + "</div>";
+    initMiniMaps([record]);
 
-    results.innerHTML = '<div class="guide-detail-head"><div><h3>' + esc(organization) + '</h3><p>Bekijk hieronder de concrete vormen van aanbod.</p></div><button class="guide-back" id="guide-org-back" type="button">Andere organisatie</button></div><div class="guide-detail-list">' + cards + "</div>";
-    initMiniMaps(sortedItems);
-
-    byId("guide-org-back").addEventListener("click", () => {
+    byId("guide-offer-back").addEventListener("click", () => {
       if (backToSearch) renderSearch(byId("guide-search").value.trim());
-      else renderOrganizations(forNode(contextNode), contextNode);
+      else renderOffers(forNode(contextNode), contextNode);
     });
   }
 
-  function renderOrganizations(items, node) {
+  function renderOffers(items, node) {
     clearDetailMaps();
-    const groups = groupOrganizations(items);
+    const sortedItems = [...items].sort((a, b) => {
+      const titleA = String(a.title || a.organization || "");
+      const titleB = String(b.title || b.organization || "");
+      return titleA.localeCompare(titleB, "nl-NL");
+    });
     byId("guide-grid").hidden = true;
     const results = byId("guide-results");
     results.hidden = false;
-    byId("guide-heading").textContent = node ? node.label : "Passende organisaties";
-    byId("guide-subheading").textContent = groups.length + " " + (groups.length === 1 ? "organisatie" : "organisaties") + " met " + items.length + " " + (items.length === 1 ? "vorm" : "vormen") + " van aanbod.";
+    byId("guide-heading").textContent = node ? node.label : "Passende voorzieningen";
+    byId("guide-subheading").textContent = sortedItems.length + " " +
+      (sortedItems.length === 1 ? "voorziening die" : "voorzieningen die") +
+      " bij deze vraag passen. Je ziet meteen wat het aanbod inhoudt.";
     byId("guide-status").textContent = municipality() ? "Gefilterd op " + municipality() + "." : "Heel Twente.";
 
-    results.innerHTML = groups.length ? '<div class="guide-org-list">' + groups.map(group => {
-      const areas = uniq(group.items.flatMap(item => item.municipalities || [])).filter(area => area !== "Twente").slice(0, 4);
-      return '<button class="guide-org" type="button" data-org="' + esc(group.name) + '"><strong>' + esc(group.name) + "</strong><small>" + group.items.length + " " + (group.items.length === 1 ? "passend onderdeel" : "passende onderdelen") + (areas.length ? " · " + esc(areas.join(", ")) : "") + "</small></button>";
-    }).join("") + "</div>" : emptyState();
+    results.innerHTML = sortedItems.length
+      ? '<div class="guide-offer-results">' + sortedItems.map((record, index) => offerResultHtml(record, index)).join("") + "</div>"
+      : emptyState();
 
-    results.querySelectorAll("[data-org]").forEach(button => {
+    results.querySelectorAll("[data-offer-index]").forEach(button => {
       button.addEventListener("click", () => {
-        const group = groups.find(item => item.name === button.dataset.org);
-        if (group) renderOrganizationDetail(group.items, node, false);
+        renderOfferDetail(sortedItems[Number(button.dataset.offerIndex)], node, false);
       });
     });
   }
@@ -378,24 +426,35 @@
   function renderSearch(query) {
     clearDetailMaps();
     const q = norm(query);
-    const hits = records.filter(record => !record.guideExclude && inMunicipality(record) && record._text.includes(q)).slice(0, 100);
+    const hits = records
+      .filter(record => !record.guideExclude && inMunicipality(record) && record._text.includes(q))
+      .sort((a, b) => {
+        const aTitle = norm(a.title || "");
+        const bTitle = norm(b.title || "");
+        const aOrg = norm(a.organization || "");
+        const bOrg = norm(b.organization || "");
+        const score = (title, org) => (title === q ? 4 : title.startsWith(q) ? 3 : title.includes(q) ? 2 : org.includes(q) ? 1 : 0);
+        return score(bTitle, bOrg) - score(aTitle, aOrg) ||
+          String(a.title || a.organization || "").localeCompare(String(b.title || b.organization || ""), "nl-NL");
+      })
+      .slice(0, 100);
+
     byId("guide-grid").hidden = true;
     const results = byId("guide-results");
     results.hidden = false;
     byId("guide-heading").textContent = 'Zoeken naar “' + query + '”';
-    byId("guide-subheading").textContent = "Resultaten uit de volledige catalogus en gecontroleerde specialistische verwijspunten.";
-    byId("guide-status").textContent = hits.length + (hits.length === 100 ? "+" : "") + " " + (hits.length === 1 ? "resultaat" : "resultaten") + (municipality() ? " in " + municipality() : "") + ".";
+    byId("guide-subheading").textContent = "Concrete voorzieningen uit de volledige catalogus en gecontroleerde specialistische verwijspunten.";
+    byId("guide-status").textContent = hits.length + (hits.length === 100 ? "+" : "") + " " +
+      (hits.length === 1 ? "voorziening" : "voorzieningen") +
+      (municipality() ? " in " + municipality() : "") + ".";
 
-    results.innerHTML = hits.length ? '<div class="guide-search-results">' + hits.map((record, index) => {
-      const areas = (record.municipalities || []).join(", ");
-      return '<button class="guide-search-hit" type="button" data-hit="' + index + '"><strong>' + esc(record.title || record.organization) + "</strong><small>" + esc(record.organization || "") + (areas ? " · " + esc(areas) : "") + "</small></button>";
-    }).join("") + "</div>" : emptyState();
+    results.innerHTML = hits.length
+      ? '<div class="guide-search-results">' + hits.map((record, index) => offerResultHtml(record, index)).join("") + "</div>"
+      : emptyState();
 
-    results.querySelectorAll("[data-hit]").forEach(button => {
+    results.querySelectorAll("[data-offer-index]").forEach(button => {
       button.addEventListener("click", () => {
-        const selected = hits[Number(button.dataset.hit)];
-        const sameOrg = hits.filter(item => (item.organization || item.title) === (selected.organization || selected.title));
-        renderOrganizationDetail(sameOrg, null, true);
+        renderOfferDetail(hits[Number(button.dataset.offerIndex)], null, true);
       });
     });
   }
@@ -426,11 +485,11 @@
     }
 
     byId("guide-heading").textContent = node.label;
-    byId("guide-subheading").textContent = node.children && node.children.length ? "Kies de richting die het beste bij de vraag past." : "Hieronder staan organisaties met passend aanbod binnen deze route.";
+    byId("guide-subheading").textContent = node.children && node.children.length ? "Kies de richting die het beste bij de vraag past." : "Hieronder staan passende voorzieningen. Je ziet direct wat het aanbod inhoudt en van welke organisatie het is.";
     const count = forNode(node).length;
     byId("guide-status").textContent = count + " " + (count === 1 ? "passend resultaat" : "passende resultaten") + (municipality() ? " in " + municipality() : " in Twente") + ".";
     if (node.children && node.children.length) renderCards(node.children, node);
-    else renderOrganizations(forNode(node), node);
+    else renderOffers(forNode(node), node);
   }
 
   function normalizeData(catalog, facilities, curated) {
