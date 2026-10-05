@@ -15091,11 +15091,15 @@
       "openingHours": "Bezoek woensdag en donderdag 10.00–12.00",
       "mapPin": false,
       "address": "De Haven 1",
-      "postcode": "7622 DH",
+      "postcode": "7622DH",
       "town": "Borne",
       "locationType": "contact",
       "locationSource": "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne",
-      "mapLocationType": "service-area"
+      "mapLocationType": "address",
+      "lat": 52.30236616,
+      "lon": 6.75844818,
+      "locationMunicipality": "Borne",
+      "addressChecked": "2026-10-05"
     },
     {
       "sourceKind": "regional",

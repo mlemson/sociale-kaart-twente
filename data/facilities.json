@@ -17662,6 +17662,39 @@
     "catalogOrganizationId": "org-tafeltje-dekje-wa2vbj"
   },
   {
+    "id": "catalog-org-vluchtelingenwerk-borne-x28hpg",
+    "name": "VluchtelingenWerk Borne",
+    "category": "advies",
+    "address": "De Haven 1",
+    "postcode": "7622DH",
+    "town": "Borne",
+    "municipality": "Borne",
+    "serviceMunicipalities": [
+      "Borne"
+    ],
+    "lat": 52.30236616,
+    "lon": 6.75844818,
+    "source": "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne",
+    "checked": "2026-10-05",
+    "tags": [
+      "advies",
+      "taal"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor VluchtelingenWerk Borne. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Vluchtelingen en statushouders in de gemeente Borne.",
+    "costs": "Geen reguliere eigen bijdrage voor maatschappelijke begeleiding.",
+    "access": "Bezoek op woensdag en donderdag tijdens de gepubliceerde bezoektijden of neem telefonisch contact op.",
+    "openingHours": "Bezoek woensdag en donderdag 10.00–12.00",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-vluchtelingenwerk-borne-x28hpg"
+  },
+  {
     "id": "catalog-org-voedsel-kledingbank-rijssen-holten-6l2bdb",
     "name": "Voedsel & Kledingbank Rijssen Holten",
     "category": "geld",
