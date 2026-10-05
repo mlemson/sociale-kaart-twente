@@ -69,15 +69,14 @@
     },
     "primaryTheme": "advies",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-centrum",
     "serviceMunicipalities": [
       "Enschede"
     ],
     "guidePaths": [
       "ontmoeten/inloop"
     ],
-    "activities": [],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-centrum",
     "postcode": "7511ZA",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -153,15 +152,14 @@
     },
     "primaryTheme": "advies",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-lumen",
     "serviceMunicipalities": [
       "Enschede"
     ],
     "guidePaths": [
       "ontmoeten/inloop"
     ],
-    "activities": [],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-lumen",
     "postcode": "7533XK",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -237,15 +235,14 @@
     },
     "primaryTheme": "advies",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-vosta",
     "serviceMunicipalities": [
       "Enschede"
     ],
     "guidePaths": [
       "ontmoeten/inloop"
     ],
-    "activities": [],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-vosta",
     "postcode": "7531AX",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -321,15 +318,14 @@
     },
     "primaryTheme": "advies",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-de-dorpskamer",
     "serviceMunicipalities": [
       "Enschede"
     ],
     "guidePaths": [
       "ontmoeten/inloop"
     ],
-    "activities": [],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-de-dorpskamer",
     "postcode": "7534CZ",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -479,11 +475,11 @@
     "activitiesNote": "Het programma kan wijzigen en wordt door verschillende aangesloten organisaties verzorgd. Controleer de actuele activiteit en tijd bij De Vrije Ruimte.",
     "activitiesSource": "https://www.devrijeruimte.com/activiteiten.aspx",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-de-vrije-ruimte",
     "serviceMunicipalities": [
       "Enschede"
     ],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-de-vrije-ruimte",
     "postcode": "7541BK",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -561,15 +557,14 @@
     },
     "primaryTheme": "advies",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-ontmoetingskerk",
     "serviceMunicipalities": [
       "Enschede"
     ],
     "guidePaths": [
       "ontmoeten/inloop"
     ],
-    "activities": [],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-ontmoetingskerk",
     "postcode": "7541XK",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -645,15 +640,14 @@
     },
     "primaryTheme": "advies",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-de-boei",
     "serviceMunicipalities": [
       "Enschede"
     ],
     "guidePaths": [
       "ontmoeten/inloop"
     ],
-    "activities": [],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-de-boei",
     "postcode": "7545TP",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -729,15 +723,14 @@
     },
     "primaryTheme": "advies",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-boswinkel-t-ni-je-terphoes",
     "serviceMunicipalities": [
       "Enschede"
     ],
     "guidePaths": [
       "ontmoeten/inloop"
     ],
-    "activities": [],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-boswinkel-t-ni-je-terphoes",
     "postcode": "7543WB",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -820,15 +813,14 @@
     },
     "primaryTheme": "advies",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-boswinkel-speeltuin-boswinkel",
     "serviceMunicipalities": [
       "Enschede"
     ],
     "guidePaths": [
       "ontmoeten/inloop"
     ],
-    "activities": [],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-boswinkel-speeltuin-boswinkel",
     "postcode": "7543XT",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -910,15 +902,14 @@
     },
     "primaryTheme": "advies",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-de-magneet",
     "serviceMunicipalities": [
       "Enschede"
     ],
     "guidePaths": [
       "ontmoeten/inloop"
     ],
-    "activities": [],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-de-magneet",
     "postcode": "7544DC",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -1000,15 +991,14 @@
     },
     "primaryTheme": "advies",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-stroinkshuis",
     "serviceMunicipalities": [
       "Enschede"
     ],
     "guidePaths": [
       "ontmoeten/inloop"
     ],
-    "activities": [],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-stroinkshuis",
     "postcode": "7542GT",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -1090,15 +1080,14 @@
     },
     "primaryTheme": "advies",
     "physicalLocation": true,
-    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
-    "catalogOfferId": "extra-20261002-wijkwijzer-het-kompas",
     "serviceMunicipalities": [
       "Enschede"
     ],
     "guidePaths": [
       "ontmoeten/inloop"
     ],
-    "activities": [],
+    "catalogOrganizationId": "org-wijkwijzer-enschede-jrixo6",
+    "catalogOfferId": "extra-20261002-wijkwijzer-het-kompas",
     "postcode": "7523ER",
     "locationType": "visiting",
     "locationSource": "https://wijkwijzerenschede.nl/contact-en-openingstijden",
@@ -3719,7 +3708,7 @@
     "lat": 52.35644776,
     "lon": 6.59291828,
     "source": "https://bibliotheekwierden.op-shop.nl/",
-    "checked": "2026-10-02",
+    "checked": "2026-10-05",
     "tags": [
       "taal",
       "digitaal",
@@ -3747,14 +3736,16 @@
       "taal/nederlands",
       "taal/digitaal",
       "taal/basis",
-      "geld/formulieren"
+      "geld/formulieren",
+      "basis/praktisch",
+      "ontmoeten/inloop"
     ],
     "guideExclude": false,
-    "description": "Bibliotheeklocatie met onder meer Taalpunt, Digicafé, Informatiepunt Digitale Overheid, Repair Café en andere laagdrempelige spreekuren en activiteiten.",
+    "description": "Laagdrempelige reparatiehulp door vrijwilligers. Neem een kapot gebruiksvoorwerp mee en kijk samen of reparatie mogelijk is; er is ook ruimte voor koffie en ontmoeting.",
     "audience": "Inwoners met vragen over taal, digitale vaardigheden, overheid of praktische zaken.",
     "costs": "Veel hulp- en inloopactiviteiten zijn gratis.",
     "access": "Meerdere gratis inloopspreekuren volgens de actuele agenda.",
-    "openingHours": "",
+    "openingHours": "Meerdere donderdagmiddagen per maand volgens de bibliotheekagenda.",
     "phone": "0546 572784",
     "email": "info@bibliotheekwierden.nl",
     "locationType": "visiting",
@@ -4397,10 +4388,11 @@
       "daginvulling"
     ],
     "guidePaths": [
-      "meedoen/daginvulling"
+      "meedoen/daginvulling",
+      "ontmoeten/inloop"
     ],
     "guideExclude": false,
-    "description": "Wekelijkse handwerkmiddag waar deelnemers aan eigen projecten werken, tips uitwisselen en nieuwe vaardigheden delen.",
+    "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
     "audience": "Iedereen die samen wil handwerken.",
     "costs": "Controleer eventuele consumptiekosten bij de organisator.",
     "access": "Iedere donderdag van 14.00 tot 16.00 uur; vrij binnenlopen volgens de Informatiewijzer.",
@@ -4791,10 +4783,11 @@
       "laagdrempelig"
     ],
     "guidePaths": [
-      "meedoen/daginvulling"
+      "meedoen/daginvulling",
+      "ontmoeten/inloop"
     ],
     "guideExclude": false,
-    "description": "Gratis wekelijkse hobby- en handwerkgroep.",
+    "description": "Gratis wekelijkse inloop voor ontmoeting en vragen.",
     "audience": "Inwoners van de betreffende gemeente.",
     "costs": "Gratis.",
     "access": "Bekijk de actuele tijden bij De Welle.",
@@ -4838,7 +4831,8 @@
       "samen eten"
     ],
     "guidePaths": [
-      "taal/digitaal"
+      "taal/digitaal",
+      "ontmoeten/samen"
     ],
     "guideExclude": false,
     "description": "Wekelijks internetcafé in De Cirkel voor oefenen en hulp rond computer en internet.",
@@ -5628,10 +5622,12 @@
     "guidePaths": [
       "meedoen/daginvulling",
       "ontmoeten/bewegen",
-      "ontmoeten/samen"
+      "ontmoeten/samen",
+      "taal/nederlands",
+      "taal/basis"
     ],
     "guideExclude": false,
-    "description": "Vaste daginvulling met bewegen, samen koken, eten en ontmoeting.",
+    "description": "Hulp bij Nederlands spreken, lezen en schrijven, digitale vaardigheden en onder meer DigiD.",
     "audience": "Inwoners van de gemeente Losser.",
     "costs": "Bijdrage volgens het actuele programma.",
     "access": "Bekijk de actuele agenda of meld je aan via Fundament.",
@@ -7191,10 +7187,11 @@
     ],
     "guidePaths": [
       "taal/nederlands",
-      "migratie/taal"
+      "migratie/taal",
+      "taal/basis"
     ],
     "guideExclude": false,
-    "description": "Vrije oefengroep waar migranten Nederlands spreken, lezen en via taalspelletjes oefenen.",
+    "description": "Inloop voor mensen met vragen over lezen, schrijven, spreken, rekenen of computervaardigheden, met overzicht van passend cursusaanbod en doorverwijzing.",
     "audience": "Migranten die Nederlands willen oefenen.",
     "costs": "Gratis.",
     "access": "Iedere vrijdagmiddag in Bibliotheek Oldenzaal; vrij binnenlopen.",
@@ -7841,7 +7838,7 @@
     ],
     "guidePaths": [],
     "guideExclude": false,
-    "description": "Voorliggende activiteiten met sport, ontwikkeling en ontmoeting bij een lokale vereniging.",
+    "description": "Voorliggende voorziening voor kinderen met professionele begeleiding, activiteiten en een gezamenlijke maaltijd na school en in vakanties.",
     "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
     "costs": "",
     "access": "Neem contact op met Wijkwijzer, Wijkteam of de vereniging voor de actuele route.",
@@ -11059,13 +11056,13 @@
       "meedoen/daginvulling"
     ],
     "guideExclude": false,
-    "description": "Terugkerende creatieve club in Bibliotheek Tubbergen om samen bezig te zijn en anderen te ontmoeten.",
+    "description": "Terugkerende koffieochtend in de Bibliotheek Tubbergen, georganiseerd door Tubbergen Verbindt, bedoeld om laagdrempelig anderen te ontmoeten.",
     "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
     "costs": "Niet vermeld in de actuele agenda; controleer eventuele bijdrage bij SWTD.",
     "access": "Inloop/activiteit volgens de actuele SWTD-agenda.",
     "openingHours": "Maandag 10.00-12.00 uur volgens de actuele agenda.",
     "phone": "",
-    "email": "",
+    "email": "info@tubbergenverbindt.nl",
     "locationType": "visiting",
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
