@@ -14011,7 +14011,8 @@
       "guidePaths": [
         "geld/schulden",
         "geld/formulieren"
-      ]
+      ],
+      "mapLocationType": "service-area"
     },
     {
       "sourceKind": "first-party",
@@ -14224,7 +14225,8 @@
       "guidePaths": [
         "geld/schulden",
         "geld/formulieren"
-      ]
+      ],
+      "mapLocationType": "service-area"
     },
     {
       "sourceKind": "first-party",
@@ -14422,7 +14424,8 @@
       "guidePaths": [
         "basis/eten"
       ],
-      "mapPin": false
+      "mapPin": false,
+      "mapLocationType": "service-area"
     },
     {
       "sourceKind": "first-party",
@@ -14522,7 +14525,8 @@
         "basis/praktisch",
         "ontmoeten/inloop"
       ],
-      "mapPin": false
+      "mapPin": false,
+      "mapLocationType": "service-area"
     },
     {
       "sourceKind": "regional",
@@ -14809,7 +14813,8 @@
       "guidePaths": [
         "geld/regelingen"
       ],
-      "mapPin": false
+      "mapPin": false,
+      "mapLocationType": "service-area"
     },
     {
       "sourceKind": "first-party",
@@ -15084,7 +15089,12 @@
         "migratie/taal"
       ],
       "openingHours": "Bezoek woensdag en donderdag 10.00–12.00",
-      "mapPin": false
+      "mapPin": false,
+      "address": "De Haven 1",
+      "postcode": "7622 DH",
+      "town": "Borne",
+      "locationType": "contact",
+      "locationSource": "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne"
     },
     {
       "sourceKind": "regional",
