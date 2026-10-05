@@ -332,5 +332,55 @@
     "nameContains": "Wereldmeiden",
     "municipality": "Haaksbergen",
     "path": "migratie/nieuwkomer"
+  },
+  {
+    "nameContains": "All4Free Twente",
+    "municipality": "Hengelo",
+    "path": "basis/kleding"
+  },
+  {
+    "nameContains": "All4Free Twente",
+    "municipality": "Enschede",
+    "path": "basis/eten"
+  },
+  {
+    "nameContains": "Stichting Help Anderen",
+    "municipality": "Hengelo",
+    "path": "basis/eten"
+  },
+  {
+    "nameContains": "getITfree",
+    "municipality": "Borne",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "getITfree",
+    "municipality": "Enschede",
+    "path": "taal/digitaal"
+  },
+  {
+    "nameContains": "Beien · betaalbare reparatiewerkplaats",
+    "municipality": "Enschede",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "gratis menstruatieproducten",
+    "municipality": "Hengelo",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "FIXbrigade Almelo",
+    "municipality": "Almelo",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "FIXbrigade Hengelo",
+    "municipality": "Hengelo",
+    "path": "basis/praktisch"
+  },
+  {
+    "nameContains": "FIXbrigade Enschede",
+    "municipality": "Enschede",
+    "path": "basis/praktisch"
   }
 ]
