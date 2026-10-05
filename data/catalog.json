@@ -11989,7 +11989,11 @@
           "ontmoeten",
           "leefstijl"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "meedoen/daginvulling",
+          "ontmoeten/bewegen",
+          "ontmoeten/samen"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],
@@ -12616,7 +12620,9 @@
           "maaltijd",
           "culturen"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "ontmoeten/samen"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],
