@@ -8149,7 +8149,11 @@
       "locationMunicipality": "Almelo",
       "locationType": "source-address",
       "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327311/invis2/schuldhulpmaatje-almelo",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/schulden",
+        "geld/formulieren"
+      ]
     },
     {
       "id": "candidate-1be36b9443b05927",
@@ -10997,7 +11001,11 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/nederlands",
+        "migratie/taal"
+      ]
     },
     {
       "id": "candidate-ada8870cf1a6f360",
@@ -11063,7 +11071,11 @@
       "locationMunicipality": "Rijssen-Holten",
       "locationType": "source-address",
       "locationSource": "https://viaviewelzijn.nl/events/taalcafe-holten-707-693-277-234",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/nederlands",
+        "migratie/taal"
+      ]
     },
     {
       "id": "candidate-b134b2b414b729a2",
@@ -18465,7 +18477,10 @@
       "lon": 6.89338546,
       "locationMunicipality": "Enschede",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/digitaal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -20057,7 +20072,10 @@
       "mapLocationType": "address",
       "lat": 52.26357148,
       "lon": 6.79639829,
-      "addressChecked": "2026-10-02"
+      "addressChecked": "2026-10-02",
+      "guidePaths": [
+        "taal/digitaal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -21916,7 +21934,10 @@
       "lon": 6.56844898,
       "locationMunicipality": "Twenterand",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/formulieren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -21961,7 +21982,10 @@
       "lon": 6.56844898,
       "locationMunicipality": "Twenterand",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "geld/formulieren"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -23770,7 +23794,8 @@
       "mapLocationType": "address",
       "addressChecked": "2026-10-02",
       "guidePaths": [
-        "basis/praktisch"
+        "basis/praktisch",
+        "ontmoeten/inloop"
       ]
     },
     {
