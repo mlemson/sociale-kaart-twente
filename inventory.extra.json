@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-05",
+  "checked": "2026-10-08",
   "method": "Aanvullende, handmatig onderzochte én systematisch uit officiële gemeentelijke sociale kaarten, welzijnskalenders, bibliotheken, armoedenetwerken en eerstelijns aanbieders gevonden voorzieningen. Focus: vrij toegankelijke sociale basis, fysieke ontmoetingsplekken, taal/digitaal, bestaanszekerheid, informele ondersteuning en duidelijke regionale hiaten.",
   "sources": [
     {
@@ -933,6 +933,71 @@
       "url": "https://www.enschede.nl/energieloket",
       "municipalities": [
         "Enschede"
+      ]
+    },
+    {
+      "title": "Stadsbank Oost Nederland",
+      "url": "https://stadsbankoostnederland.nl/",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Fonds Bijzondere Noden Enschede",
+      "url": "https://fbne.nl/veelgestelde-vragen",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Gemeente Enschede",
+      "url": "https://www.enschede.nl/rondkomen-met-je-inkomen",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Leger des Heils Enschede",
+      "url": "https://www.legerdesheils.nl/locatie/enschede",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Humanitas Onder Dak",
+      "url": "https://humanitasonderdak.nl/vestigingen/twente/",
+      "municipalities": [
+        "Enschede",
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Present Almelo/Twenterand",
+      "url": "https://stichtingpresent.nl/almelo/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "Humanitas Twente",
+      "url": "https://humanitastwente.nl/watwedoen/",
+      "municipalities": [
+        "Enschede",
+        "Oldenzaal",
+        "Losser"
       ]
     }
   ],
@@ -17518,6 +17583,450 @@
       "mapPin": false,
       "mapLocationType": "service-area",
       "phone": "053-2062003"
+    },
+    {
+      "id": "extra-20261008-socialebasis-01",
+      "name": "Stadsbank Oost Nederland · schuldhulp en budgetbeheer",
+      "source": "https://stadsbankoostnederland.nl/",
+      "sourceTitle": "Stadsbank Oost Nederland",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
+      ],
+      "municipality": "Almelo",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "schulden",
+        "budgetbeheer"
+      ],
+      "tags": [
+        "schulden",
+        "budgetbeheer",
+        "stadsbank",
+        "schuldhulp"
+      ],
+      "description": "Schuldhulpverlening, budgetbeheer en andere financiële ondersteuning. Toegang en rol van de gemeente verschillen per gemeente; controleer de aanmeldroute.",
+      "access": "Via gemeente of Stadsbank; niet automatisch vrij toegankelijk.",
+      "accessStatus": "source-check",
+      "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
+      "status": "candidate",
+      "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+      "guidePaths": [
+        "geld/schulden"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-socialebasis-02",
+      "name": "Fonds Bijzondere Noden Enschede · noodhulp",
+      "source": "https://fbne.nl/veelgestelde-vragen",
+      "sourceTitle": "Fonds Bijzondere Noden Enschede",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "noodfonds",
+        "fbne"
+      ],
+      "tags": [
+        "noodfonds",
+        "fbne",
+        "noodhulp",
+        "acute financiële nood"
+      ],
+      "description": "Financiële noodhulp voor inwoners met acute nood als wettelijke en andere voorliggende mogelijkheden tekortschieten of te laat komen.",
+      "access": "Aanvraag door professionele hulp- of dienstverlener; zonder hulpverlener via Wijkwijzer of Formulieren Advies Punt.",
+      "accessStatus": "source-check",
+      "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
+      "status": "candidate",
+      "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-socialebasis-03",
+      "name": "Gemeente Enschede · bijzondere bijstand en minimaregelingen",
+      "source": "https://www.enschede.nl/rondkomen-met-je-inkomen",
+      "sourceTitle": "Gemeente Enschede",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "bijzondere bijstand",
+        "minimaregelingen"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "minimaregelingen",
+        "kwijtschelding",
+        "inkomenstoeslag"
+      ],
+      "description": "Toegang tot bijzondere bijstand, inkomenstoeslag, studietoeslag en kwijtschelding gemeentelijke belastingen. Afzonderlijke inkomens- en aanvraagvoorwaarden gelden.",
+      "access": "Aanvragen via de gemeente; de verschillende regelingen hebben eigen voorwaarden.",
+      "accessStatus": "source-check",
+      "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
+      "status": "candidate",
+      "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-socialebasis-04",
+      "name": "Leger des Heils Enschede · preventieve schuldhulp",
+      "source": "https://www.legerdesheils.nl/locatie/enschede",
+      "sourceTitle": "Leger des Heils",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "preventie",
+        "schuldhulp"
+      ],
+      "tags": [
+        "preventie",
+        "schuldhulp",
+        "geldzorgen"
+      ],
+      "description": "Laagdrempelige preventieve schuldhulp op de locatie Zenderenbrink 2; raadpleeg de bron voor actuele tijden.",
+      "access": "Contact of inloop volgens het actuele programma.",
+      "accessStatus": "source-check",
+      "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
+      "status": "candidate",
+      "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+      "guidePaths": [
+        "geld/schulden"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-socialebasis-05",
+      "name": "Leger des Heils Enschede · buurthuiskamer en maaltijd",
+      "source": "https://www.legerdesheils.nl/locatie/enschede",
+      "sourceTitle": "Leger des Heils",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [
+        "buurthuiskamer",
+        "maaltijd"
+      ],
+      "tags": [
+        "buurthuiskamer",
+        "maaltijd",
+        "tweedehands kleding",
+        "ontmoeting"
+      ],
+      "description": "Buurthuiskamer, warme buurtmaaltijd en sociale activiteiten aan Zenderenbrink 2. Voor sommige activiteiten geldt een bijdrage of aanmelding.",
+      "access": "Inloop mogelijk; kijk naar programma, kosten en aanmeldvoorwaarden.",
+      "accessStatus": "source-check",
+      "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
+      "status": "candidate",
+      "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+      "guidePaths": [
+        "ontmoeten/inloop"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-socialebasis-06",
+      "name": "Humanitas Onder Dak · inloop Enschede",
+      "source": "https://humanitasonderdak.nl/vestigingen/twente/",
+      "sourceTitle": "Humanitas Onder Dak",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis"
+      ],
+      "subthemes": [
+        "dakloosheid",
+        "inloop"
+      ],
+      "tags": [
+        "dakloosheid",
+        "inloop",
+        "opvang",
+        "lichte hulpvragen"
+      ],
+      "description": "Inloop voor koffie, contact en lichte hulpvragen; andere vormen van opvang en begeleiding van Humanitas Onder Dak kennen afzonderlijke toegangsvoorwaarden.",
+      "access": "Bekijk inloopmogelijkheden via Humanitas Onder Dak.",
+      "accessStatus": "source-check",
+      "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
+      "status": "candidate",
+      "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+      "guidePaths": [
+        "basis/praktisch"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-socialebasis-07",
+      "name": "Humanitas Onder Dak · inloop Oldenzaal",
+      "source": "https://humanitasonderdak.nl/vestigingen/twente/",
+      "sourceTitle": "Humanitas Onder Dak",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis"
+      ],
+      "subthemes": [
+        "inloop",
+        "dakloosheid"
+      ],
+      "tags": [
+        "inloop",
+        "dakloosheid",
+        "lichte hulpvragen"
+      ],
+      "description": "Inloop voor contact en lichte hulpvragen, naast afzonderlijk georganiseerd woon- en begeleidingaanbod.",
+      "access": "Bekijk inloopmogelijkheden via Humanitas Onder Dak.",
+      "accessStatus": "source-check",
+      "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
+      "status": "candidate",
+      "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+      "guidePaths": [
+        "basis/praktisch"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-socialebasis-08",
+      "name": "Stichting Present Twenterand · praktische vrijwilligershulp",
+      "source": "https://stichtingpresent.nl/almelo/",
+      "sourceTitle": "Stichting Present",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis"
+      ],
+      "subthemes": [
+        "vrijwilligers",
+        "tuin"
+      ],
+      "tags": [
+        "vrijwilligers",
+        "tuin",
+        "opruimen",
+        "praktische hulp"
+      ],
+      "description": "Eenmalige praktische vrijwilligersprojecten voor inwoners die door beperkt netwerk, middelen of gezondheid hulp nodig hebben; lokale projecten zijn gestart.",
+      "access": "Hulpvraag doorgaans via betrokken hulpverlener; afhankelijk van vrijwillig aanbod.",
+      "accessStatus": "source-check",
+      "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
+      "status": "candidate",
+      "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+      "guidePaths": [
+        "basis/praktisch"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-socialebasis-09",
+      "name": "Dierenvoedselbank Hengelo · voer en benodigdheden",
+      "source": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/",
+      "sourceTitle": "Stichting Help Anderen",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis"
+      ],
+      "subthemes": [
+        "huisdieren",
+        "dierenvoedselbank"
+      ],
+      "tags": [
+        "huisdieren",
+        "dierenvoedselbank",
+        "armoede",
+        "dierenvoer"
+      ],
+      "description": "Dierenvoer en benodigdheden voor baasjes die tijdelijk onvoldoende geld hebben. De actuele locatie is in Hengelo; controleer voorwaarden rechtstreeks.",
+      "access": "Zelf contact opnemen met de dierenvoedselbank.",
+      "accessStatus": "source-check",
+      "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
+      "status": "candidate",
+      "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+      "guidePaths": [
+        "basis/praktisch"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-socialebasis-10",
+      "name": "Humanitas Twente · Get a Grip voor jongeren",
+      "source": "https://humanitastwente.nl/wat-we-doen/get-a-grip/",
+      "sourceTitle": "Humanitas Twente",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Enschede",
+        "Oldenzaal",
+        "Losser"
+      ],
+      "municipality": "Enschede",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "jongeren",
+        "get a grip"
+      ],
+      "tags": [
+        "jongeren",
+        "get a grip",
+        "financiën",
+        "budgethulp"
+      ],
+      "description": "Vrijwilligers helpen jongeren van 16 tot 24 jaar met overzicht in inkomsten, uitgaven en financiële administratie.",
+      "access": "Zelf of via ander aanmelden bij Humanitas; controleer actuele lokale dekking.",
+      "accessStatus": "source-check",
+      "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
+      "status": "candidate",
+      "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+      "guidePaths": [
+        "geld/schulden"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-socialebasis-11",
+      "name": "Humanitas Twente · Thuisadministratie",
+      "source": "https://humanitastwente.nl/wat-we-doen/thuisadministratie/",
+      "sourceTitle": "Humanitas Twente",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Enschede",
+        "Oldenzaal",
+        "Losser"
+      ],
+      "municipality": "Enschede",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "administratie",
+        "formulieren"
+      ],
+      "tags": [
+        "administratie",
+        "formulieren",
+        "vrijwilligers",
+        "geldzorgen"
+      ],
+      "description": "Tijdelijke vrijwillige ondersteuning om brieven, inkomsten, uitgaven en administratie op orde te brengen.",
+      "access": "Zelf aanmelden of via verwijzer; controleer lokale beschikbaarheid.",
+      "accessStatus": "source-check",
+      "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
+      "status": "candidate",
+      "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+      "guidePaths": [
+        "geld/schulden"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
     }
   ],
   "addressEnrichmentVersion": 1,
