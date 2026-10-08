@@ -21405,14 +21405,15 @@
       "address": "Raadhuisplein 1",
       "postcode": "7581AG",
       "town": "Losser",
-      "locationType": "contact",
-      "locationSource": "https://www.fundamentlosser.nl/contact/",
+      "locationType": "visiting",
+      "locationSource": "https://www.fundamentlosser.nl/ondersteuning/taalpunt-losser/",
       "mapPin": true,
       "lat": 52.26284211,
       "lon": 7.00588809,
       "locationMunicipality": "Losser",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "locationInheritedFromGroup": false
     },
     {
       "sourceKind": "first-party",
