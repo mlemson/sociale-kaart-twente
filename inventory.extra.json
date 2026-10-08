@@ -3360,7 +3360,11 @@
       "lon": 6.42264746,
       "locationMunicipality": "Rijssen-Holten",
       "mapLocationType": "address",
-      "addressChecked": "2026-10-01"
+      "addressChecked": "2026-10-01",
+      "guidePaths": [
+        "taal/nederlands",
+        "migratie/taal"
+      ]
     },
     {
       "sourceKind": "first-party",
@@ -5066,7 +5070,8 @@
       "mapLocationType": "address",
       "addressChecked": "2026-10-01",
       "guidePaths": [
-        "taal/nederlands"
+        "taal/nederlands",
+        "migratie/taal"
       ]
     },
     {
@@ -6409,7 +6414,8 @@
       "mapLocationType": "address",
       "addressChecked": "2026-10-02",
       "guidePaths": [
-        "zorg/mantelzorg"
+        "zorg/mantelzorg",
+        "ontmoeten/inloop"
       ]
     },
     {
@@ -13763,7 +13769,8 @@
       ],
       "guidePaths": [
         "taal/nederlands",
-        "ontmoeten/inloop"
+        "ontmoeten/inloop",
+        "migratie/taal"
       ],
       "locationType": "visiting",
       "mapLocationType": "address",
