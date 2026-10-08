@@ -11684,6 +11684,93 @@
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220584/invis2/de-zonnebloem-afd-wierden"
   },
   {
+    "id": "org-dierenvoedselbank-hengelo-6rs550",
+    "organization": "Dierenvoedselbank Hengelo",
+    "municipalities": [
+      "Hengelo"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-socialebasis-09",
+        "title": "voer en benodigdheden",
+        "name": "Dierenvoedselbank Hengelo · voer en benodigdheden",
+        "description": "Dierenvoer en benodigdheden voor baasjes die tijdelijk onvoldoende geld hebben. De actuele locatie is in Hengelo; controleer voorwaarden rechtstreeks.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "huisdieren",
+          "dierenvoedselbank"
+        ],
+        "tags": [
+          "huisdieren",
+          "dierenvoedselbank",
+          "armoede",
+          "dierenvoer"
+        ],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+        "access": "Zelf contact opnemen met de dierenvoedselbank.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Help Anderen",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Deurningerstraat 94",
+        "postcode": "7557HH",
+        "town": "Hengelo",
+        "lat": 52.27397912,
+        "lon": 6.80254415,
+        "locationType": "source-address",
+        "locationSource": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Deurningerstraat 94",
+      "postcode": "7557HH",
+      "town": "Hengelo",
+      "lat": 52.27397912,
+      "lon": 6.80254415,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/"
+  },
+  {
     "id": "org-doors-wide-open-tcii4r",
     "organization": "Doors Wide Open",
     "municipalities": [
@@ -13356,6 +13443,93 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.hengelo.nl/duurzaam/hulp-bij-verduurzamen/fixbrigade.html"
+  },
+  {
+    "id": "org-fonds-bijzondere-noden-enschede-190hgus",
+    "organization": "Fonds Bijzondere Noden Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://fbne.nl/veelgestelde-vragen"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-socialebasis-02",
+        "title": "noodhulp",
+        "name": "Fonds Bijzondere Noden Enschede · noodhulp",
+        "description": "Financiële noodhulp voor inwoners met acute nood als wettelijke en andere voorliggende mogelijkheden tekortschieten of te laat komen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "noodfonds",
+          "fbne"
+        ],
+        "tags": [
+          "noodfonds",
+          "fbne",
+          "noodhulp",
+          "acute financiële nood"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+        "access": "Aanvraag door professionele hulp- of dienstverlener; zonder hulpverlener via Wijkwijzer of Formulieren Advies Punt.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://fbne.nl/veelgestelde-vragen",
+        "sourceKind": "first-party",
+        "sourceTitle": "Fonds Bijzondere Noden Enschede",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Hengelosestraat 100-107",
+        "postcode": "7514AK",
+        "town": "Enschede",
+        "lat": 52.22547401,
+        "lon": 6.88341125,
+        "locationType": "contact",
+        "locationSource": "https://fbne.nl/contact",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Hengelosestraat 100-107",
+      "postcode": "7514AK",
+      "town": "Enschede",
+      "lat": 52.22547401,
+      "lon": 6.88341125,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://fbne.nl/contact",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://fbne.nl/veelgestelde-vragen"
   },
   {
     "id": "org-fundament-xdy3ad",
@@ -15846,6 +16020,83 @@
     "primarySource": "https://www.dinkelland.nl/bijdrage-om-mee-te-doen"
   },
   {
+    "id": "org-gemeente-enschede-14p7xbg",
+    "organization": "Gemeente Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.enschede.nl/rondkomen-met-je-inkomen"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-socialebasis-03",
+        "title": "bijzondere bijstand en minimaregelingen",
+        "name": "Gemeente Enschede · bijzondere bijstand en minimaregelingen",
+        "description": "Toegang tot bijzondere bijstand, inkomenstoeslag, studietoeslag en kwijtschelding gemeentelijke belastingen. Afzonderlijke inkomens- en aanvraagvoorwaarden gelden.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "bijzondere bijstand",
+          "minimaregelingen"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "minimaregelingen",
+          "kwijtschelding",
+          "inkomenstoeslag"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+        "access": "Aanvragen via de gemeente; de verschillende regelingen hebben eigen voorwaarden.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.enschede.nl/rondkomen-met-je-inkomen",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Enschede",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "remote",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "source-backed",
+    "primarySource": "https://www.enschede.nl/rondkomen-met-je-inkomen"
+  },
+  {
     "id": "org-gemeente-hellendoorn-zxemhh",
     "organization": "Gemeente Hellendoorn",
     "municipalities": [
@@ -17644,21 +17895,78 @@
     "id": "org-humanitas-onder-dak-1xocxxj",
     "organization": "Humanitas Onder Dak",
     "municipalities": [
-      "Hengelo"
+      "Enschede",
+      "Hengelo",
+      "Oldenzaal"
     ],
     "categories": [
       "basis",
       "ontmoeten"
     ],
     "sources": [
-      "https://wijkrachthengelo.nl/organisaties/10466/humanitas"
+      "https://wijkrachthengelo.nl/organisaties/10466/humanitas",
+      "https://humanitasonderdak.nl/vestigingen/twente/"
     ],
-    "offerCount": 1,
+    "offerCount": 3,
     "reviewNeeded": 0,
-    "sourceBacked": 1,
+    "sourceBacked": 3,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
+      {
+        "id": "extra-20261008-socialebasis-06",
+        "title": "inloop Enschede",
+        "name": "Humanitas Onder Dak · inloop Enschede",
+        "description": "Inloop voor koffie, contact en lichte hulpvragen; andere vormen van opvang en begeleiding van Humanitas Onder Dak kennen afzonderlijke toegangsvoorwaarden.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "dakloosheid",
+          "inloop"
+        ],
+        "tags": [
+          "dakloosheid",
+          "inloop",
+          "opvang",
+          "lichte hulpvragen"
+        ],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+        "access": "Bekijk inloopmogelijkheden via Humanitas Onder Dak.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://humanitasonderdak.nl/vestigingen/twente/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Humanitas Onder Dak",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Deldenerstraat 26",
+        "postcode": "7551AG",
+        "town": "Hengelo",
+        "lat": 52.26665536,
+        "lon": 6.78863422,
+        "locationType": "visiting",
+        "locationSource": "https://wijkrachthengelo.nl/organisaties/10466/humanitas",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "extra-20261002-hengelo-humanitas-onder-dak-inloop",
         "title": "Inloop Hengelo",
@@ -17713,6 +18021,59 @@
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
         "mapPin": true
+      },
+      {
+        "id": "extra-20261008-socialebasis-07",
+        "title": "inloop Oldenzaal",
+        "name": "Humanitas Onder Dak · inloop Oldenzaal",
+        "description": "Inloop voor contact en lichte hulpvragen, naast afzonderlijk georganiseerd woon- en begeleidingaanbod.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "inloop",
+          "dakloosheid"
+        ],
+        "tags": [
+          "inloop",
+          "dakloosheid",
+          "lichte hulpvragen"
+        ],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+        "access": "Bekijk inloopmogelijkheden via Humanitas Onder Dak.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://humanitasonderdak.nl/vestigingen/twente/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Humanitas Onder Dak",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Deldenerstraat 26",
+        "postcode": "7551AG",
+        "town": "Hengelo",
+        "lat": 52.26665536,
+        "lon": 6.78863422,
+        "locationType": "visiting",
+        "locationSource": "https://wijkrachthengelo.nl/organisaties/10466/humanitas",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
       }
     ],
     "location": {
@@ -17845,11 +18206,13 @@
       "https://www.humanitas.nl/districten/district-oost/activiteiten/opvoeden/",
       "https://www.humanitas.nl/districten/district-oost/activiteiten/eenzaamheid/",
       "https://humanitastwente.nl/watwedoen/",
-      "https://humanitastwente.nl/wat-we-doen/samen-actief/"
+      "https://humanitastwente.nl/wat-we-doen/samen-actief/",
+      "https://humanitastwente.nl/wat-we-doen/get-a-grip/",
+      "https://humanitastwente.nl/wat-we-doen/thuisadministratie/"
     ],
-    "offerCount": 11,
+    "offerCount": 13,
     "reviewNeeded": 0,
-    "sourceBacked": 11,
+    "sourceBacked": 13,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -18044,6 +18407,62 @@
         "locationSource": "https://www.humanitas.nl/afdeling/twente/",
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "service-area",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261008-socialebasis-10",
+        "title": "Get a Grip voor jongeren",
+        "name": "Humanitas Twente · Get a Grip voor jongeren",
+        "description": "Vrijwilligers helpen jongeren van 16 tot 24 jaar met overzicht in inkomsten, uitgaven en financiële administratie.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede",
+          "Oldenzaal",
+          "Losser"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "jongeren",
+          "get a grip"
+        ],
+        "tags": [
+          "jongeren",
+          "get a grip",
+          "financiën",
+          "budgethulp"
+        ],
+        "guidePaths": [
+          "geld/schulden"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+        "access": "Zelf of via ander aanmelden bij Humanitas; controleer actuele lokale dekking.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://humanitastwente.nl/wat-we-doen/get-a-grip/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Humanitas Twente",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Enschedesestraat 164",
+        "postcode": "7552CL",
+        "town": "Hengelo",
+        "lat": 52.26033093,
+        "lon": 6.8047408,
+        "locationType": "source-address",
+        "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
         "mapPin": false
       },
       {
@@ -18455,6 +18874,62 @@
         "sourceKind": "first-party",
         "sourceTitle": "Humanitas Twente",
         "checked": "2026-10-02",
+        "reviewStatus": "source-backed",
+        "address": "Enschedesestraat 164",
+        "postcode": "7552CL",
+        "town": "Hengelo",
+        "lat": 52.26033093,
+        "lon": 6.8047408,
+        "locationType": "source-address",
+        "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261008-socialebasis-11",
+        "title": "Thuisadministratie",
+        "name": "Humanitas Twente · Thuisadministratie",
+        "description": "Tijdelijke vrijwillige ondersteuning om brieven, inkomsten, uitgaven en administratie op orde te brengen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede",
+          "Oldenzaal",
+          "Losser"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "administratie",
+          "formulieren"
+        ],
+        "tags": [
+          "administratie",
+          "formulieren",
+          "vrijwilligers",
+          "geldzorgen"
+        ],
+        "guidePaths": [
+          "geld/schulden"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+        "access": "Zelf aanmelden of via verwijzer; controleer lokale beschikbaarheid.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://humanitastwente.nl/wat-we-doen/thuisadministratie/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Humanitas Twente",
+        "checked": "2026-10-08",
         "reviewStatus": "source-backed",
         "address": "Enschedesestraat 164",
         "postcode": "7552CL",
@@ -23868,6 +24343,147 @@
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326990/invis2/leger-des-heils-buurthuiskamer-bij-bosshardt"
+  },
+  {
+    "id": "org-leger-des-heils-enschede-ax6458",
+    "organization": "Leger des Heils Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "geld",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.legerdesheils.nl/locatie/enschede"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 0,
+    "sourceBacked": 2,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-socialebasis-05",
+        "title": "buurthuiskamer en maaltijd",
+        "name": "Leger des Heils Enschede · buurthuiskamer en maaltijd",
+        "description": "Buurthuiskamer, warme buurtmaaltijd en sociale activiteiten aan Zenderenbrink 2. Voor sommige activiteiten geldt een bijdrage of aanmelding.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [
+          "buurthuiskamer",
+          "maaltijd"
+        ],
+        "tags": [
+          "buurthuiskamer",
+          "maaltijd",
+          "tweedehands kleding",
+          "ontmoeting"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+        "access": "Inloop mogelijk; kijk naar programma, kosten en aanmeldvoorwaarden.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.legerdesheils.nl/locatie/enschede",
+        "sourceKind": "first-party",
+        "sourceTitle": "Leger des Heils",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Zenderenbrink 2",
+        "postcode": "7544DZ",
+        "town": "Enschede",
+        "lat": 52.19400921,
+        "lon": 6.87667265,
+        "locationType": "contact",
+        "locationSource": "https://www.legerdesheils.nl/locatie/enschede",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261008-socialebasis-04",
+        "title": "preventieve schuldhulp",
+        "name": "Leger des Heils Enschede · preventieve schuldhulp",
+        "description": "Laagdrempelige preventieve schuldhulp op de locatie Zenderenbrink 2; raadpleeg de bron voor actuele tijden.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "preventie",
+          "schuldhulp"
+        ],
+        "tags": [
+          "preventie",
+          "schuldhulp",
+          "geldzorgen"
+        ],
+        "guidePaths": [
+          "geld/schulden"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+        "access": "Contact of inloop volgens het actuele programma.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.legerdesheils.nl/locatie/enschede",
+        "sourceKind": "first-party",
+        "sourceTitle": "Leger des Heils",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Zenderenbrink 2",
+        "postcode": "7544DZ",
+        "town": "Enschede",
+        "lat": 52.19400921,
+        "lon": 6.87667265,
+        "locationType": "contact",
+        "locationSource": "https://www.legerdesheils.nl/locatie/enschede",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Zenderenbrink 2",
+      "postcode": "7544DZ",
+      "town": "Enschede",
+      "lat": 52.19400921,
+      "lon": 6.87667265,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.legerdesheils.nl/locatie/enschede",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.legerdesheils.nl/locatie/enschede"
   },
   {
     "id": "org-liberein-16a7yrp",
@@ -37067,6 +37683,109 @@
     "primarySource": "https://sportaal.nl/ik-wil-sporten/voor-volwassenen/valpreventie/"
   },
   {
+    "id": "org-stadsbank-oost-nederland-yoxd8u",
+    "organization": "Stadsbank Oost Nederland",
+    "municipalities": [
+      "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
+      "Rijssen-Holten",
+      "Tubbergen",
+      "Twenterand",
+      "Wierden"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://stadsbankoostnederland.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-socialebasis-01",
+        "title": "schuldhulp en budgetbeheer",
+        "name": "Stadsbank Oost Nederland · schuldhulp en budgetbeheer",
+        "description": "Schuldhulpverlening, budgetbeheer en andere financiële ondersteuning. Toegang en rol van de gemeente verschillen per gemeente; controleer de aanmeldroute.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo",
+          "Borne",
+          "Dinkelland",
+          "Enschede",
+          "Haaksbergen",
+          "Hellendoorn",
+          "Hengelo",
+          "Hof van Twente",
+          "Losser",
+          "Oldenzaal",
+          "Rijssen-Holten",
+          "Tubbergen",
+          "Twenterand",
+          "Wierden"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "schulden",
+          "budgetbeheer"
+        ],
+        "tags": [
+          "schulden",
+          "budgetbeheer",
+          "stadsbank",
+          "schuldhulp"
+        ],
+        "guidePaths": [
+          "geld/schulden"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+        "access": "Via gemeente of Stadsbank; niet automatisch vrij toegankelijk.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://stadsbankoostnederland.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stadsbank Oost Nederland",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "remote",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "source-backed",
+    "primarySource": "https://stadsbankoostnederland.nl/"
+  },
+  {
     "id": "org-stadscentrum-het-parochiehuis-xyq4yb",
     "organization": "Stadscentrum het Parochiehuis",
     "municipalities": [
@@ -39231,6 +39950,93 @@
     },
     "status": "source-backed",
     "primarySource": "https://stichtingpresent.nl/enschede/ik-zoek-hulp-2/"
+  },
+  {
+    "id": "org-stichting-present-twenterand-16fy0h9",
+    "organization": "Stichting Present Twenterand",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "basis"
+    ],
+    "sources": [
+      "https://stichtingpresent.nl/almelo/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-socialebasis-08",
+        "title": "praktische vrijwilligershulp",
+        "name": "Stichting Present Twenterand · praktische vrijwilligershulp",
+        "description": "Eenmalige praktische vrijwilligersprojecten voor inwoners die door beperkt netwerk, middelen of gezondheid hulp nodig hebben; lokale projecten zijn gestart.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "vrijwilligers",
+          "tuin"
+        ],
+        "tags": [
+          "vrijwilligers",
+          "tuin",
+          "opruimen",
+          "praktische hulp"
+        ],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+        "access": "Hulpvraag doorgaans via betrokken hulpverlener; afhankelijk van vrijwillig aanbod.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://stichtingpresent.nl/almelo/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Present",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Hedemanplein 3",
+        "postcode": "7603WJ",
+        "town": "Almelo",
+        "lat": 52.36678399,
+        "lon": 6.6820572,
+        "locationType": "contact",
+        "locationSource": "https://stichtingpresent.nl/almelo/contact/",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Hedemanplein 3",
+      "postcode": "7603WJ",
+      "town": "Almelo",
+      "lat": 52.36678399,
+      "lon": 6.6820572,
+      "locationMunicipality": "Almelo",
+      "locationType": "contact",
+      "locationSource": "https://stichtingpresent.nl/almelo/contact/",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://stichtingpresent.nl/almelo/"
   },
   {
     "id": "org-stichting-samenzijn-4d2qln",

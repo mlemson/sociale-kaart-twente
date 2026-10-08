@@ -16255,6 +16255,38 @@
     "catalogOrganizationId": "org-de-zonnebloem-afd-wierden-1wn4tgi"
   },
   {
+    "id": "catalog-org-dierenvoedselbank-hengelo-6rs550",
+    "name": "Dierenvoedselbank Hengelo",
+    "category": "basis",
+    "address": "Deurningerstraat 94",
+    "postcode": "7557HH",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.27397912,
+    "lon": 6.80254415,
+    "source": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/",
+    "checked": "2026-10-08",
+    "tags": [
+      "basis"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Dierenvoedselbank Hengelo. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+    "access": "Zelf contact opnemen met de dierenvoedselbank.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/",
+    "mapLocationType": "service-area",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-dierenvoedselbank-hengelo-6rs550"
+  },
+  {
     "id": "catalog-org-evenmens-wierden-6t5uzi",
     "name": "Evenmens Wierden",
     "category": "advies",
@@ -16384,6 +16416,38 @@
     "mapLocationType": "service-area",
     "physicalLocation": false,
     "catalogOrganizationId": "org-fixbrigade-hengelo-1ibui52"
+  },
+  {
+    "id": "catalog-org-fonds-bijzondere-noden-enschede-190hgus",
+    "name": "Fonds Bijzondere Noden Enschede",
+    "category": "geld",
+    "address": "Hengelosestraat 100-107",
+    "postcode": "7514AK",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22547401,
+    "lon": 6.88341125,
+    "source": "https://fbne.nl/veelgestelde-vragen",
+    "checked": "2026-10-08",
+    "tags": [
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Fonds Bijzondere Noden Enschede. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+    "access": "Aanvraag door professionele hulp- of dienstverlener; zonder hulpverlener via Wijkwijzer of Formulieren Advies Punt.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://fbne.nl/contact",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-fonds-bijzondere-noden-enschede-190hgus"
   },
   {
     "id": "catalog-org-gemeente-dinkelland-9dz08l",
@@ -16692,7 +16756,7 @@
       "ontmoeten"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Humanitas Twente. Via de bron zijn 11 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor Humanitas Twente. Via de bron zijn 13 vormen van voorliggend aanbod opgenomen.",
     "audience": "Gescheiden ouders en hun kinderen.",
     "costs": "",
     "access": "Vrijwillige ondersteuning; neem contact op met Humanitas Twente voor aanmelding en voorwaarden.",
@@ -17110,6 +17174,39 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-leendert-vriel-enschede-n9uz4f"
+  },
+  {
+    "id": "catalog-org-leger-des-heils-enschede-ax6458",
+    "name": "Leger des Heils Enschede",
+    "category": "geld",
+    "address": "Zenderenbrink 2",
+    "postcode": "7544DZ",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.19400921,
+    "lon": 6.87667265,
+    "source": "https://www.legerdesheils.nl/locatie/enschede",
+    "checked": "2026-10-08",
+    "tags": [
+      "geld",
+      "ontmoeten"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Leger des Heils Enschede. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+    "access": "Inloop mogelijk; kijk naar programma, kosten en aanmeldvoorwaarden.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://www.legerdesheils.nl/locatie/enschede",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-leger-des-heils-enschede-ax6458"
   },
   {
     "id": "catalog-org-liberein-16a7yrp",
@@ -18425,6 +18522,38 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-stichting-present-enschede-1lmy4a2"
+  },
+  {
+    "id": "catalog-org-stichting-present-twenterand-16fy0h9",
+    "name": "Stichting Present Twenterand",
+    "category": "basis",
+    "address": "Hedemanplein 3",
+    "postcode": "7603WJ",
+    "town": "Almelo",
+    "municipality": "Twenterand",
+    "serviceMunicipalities": [
+      "Twenterand"
+    ],
+    "lat": 52.36678399,
+    "lon": 6.6820572,
+    "source": "https://stichtingpresent.nl/almelo/",
+    "checked": "2026-10-08",
+    "tags": [
+      "basis"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Stichting Present Twenterand. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+    "access": "Hulpvraag doorgaans via betrokken hulpverlener; afhankelijk van vrijwillig aanbod.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://stichtingpresent.nl/almelo/contact/",
+    "mapLocationType": "service-area",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-stichting-present-twenterand-16fy0h9"
   },
   {
     "id": "catalog-org-stichting-samenzijn-4d2qln",

@@ -17672,8 +17672,17 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "contact",
+      "address": "Hengelosestraat 100-107",
+      "postcode": "7514AK",
+      "town": "Enschede",
+      "lat": 52.22547401,
+      "lon": 6.88341125,
+      "locationMunicipality": "Enschede",
+      "locationSource": "https://fbne.nl/contact",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-socialebasis-03",
@@ -17749,8 +17758,17 @@
         "geld/schulden"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "contact",
+      "address": "Zenderenbrink 2",
+      "postcode": "7544DZ",
+      "town": "Enschede",
+      "lat": 52.19400921,
+      "lon": 6.87667265,
+      "locationMunicipality": "Enschede",
+      "locationSource": "https://www.legerdesheils.nl/locatie/enschede",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-socialebasis-05",
@@ -17788,8 +17806,17 @@
         "ontmoeten/inloop"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "contact",
+      "address": "Zenderenbrink 2",
+      "postcode": "7544DZ",
+      "town": "Enschede",
+      "lat": 52.19400921,
+      "lon": 6.87667265,
+      "locationMunicipality": "Enschede",
+      "locationSource": "https://www.legerdesheils.nl/locatie/enschede",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-socialebasis-06",
@@ -17827,8 +17854,17 @@
         "basis/praktisch"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "visiting",
+      "address": "Deldenerstraat 26",
+      "postcode": "7551AG",
+      "town": "Hengelo",
+      "lat": 52.26665536,
+      "lon": 6.78863422,
+      "locationMunicipality": "Hengelo (O)",
+      "locationSource": "https://wijkrachthengelo.nl/organisaties/10466/humanitas",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-socialebasis-07",
@@ -17865,8 +17901,17 @@
         "basis/praktisch"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "visiting",
+      "address": "Deldenerstraat 26",
+      "postcode": "7551AG",
+      "town": "Hengelo",
+      "lat": 52.26665536,
+      "lon": 6.78863422,
+      "locationMunicipality": "Hengelo (O)",
+      "locationSource": "https://wijkrachthengelo.nl/organisaties/10466/humanitas",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-socialebasis-08",
@@ -17905,7 +17950,16 @@
       ],
       "mapPin": false,
       "mapLocationType": "service-area",
-      "locationType": "remote"
+      "locationType": "contact",
+      "address": "Hedemanplein 3",
+      "postcode": "7603WJ",
+      "town": "Almelo",
+      "lat": 52.36678399,
+      "lon": 6.6820572,
+      "locationMunicipality": "Almelo",
+      "locationSource": "https://stichtingpresent.nl/almelo/contact/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-socialebasis-09",
@@ -17943,8 +17997,17 @@
         "basis/praktisch"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Deurningerstraat 94",
+      "postcode": "7557HH",
+      "town": "Hengelo",
+      "lat": 52.27397912,
+      "lon": 6.80254415,
+      "locationMunicipality": "Hengelo (O)",
+      "locationSource": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-socialebasis-10",
@@ -17984,8 +18047,17 @@
         "geld/schulden"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Enschedesestraat 164",
+      "postcode": "7552CL",
+      "town": "Hengelo",
+      "lat": 52.26033093,
+      "lon": 6.8047408,
+      "locationMunicipality": "Hengelo (O)",
+      "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-socialebasis-11",
@@ -18025,12 +18097,21 @@
         "geld/schulden"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Enschedesestraat 164",
+      "postcode": "7552CL",
+      "town": "Hengelo",
+      "lat": 52.26033093,
+      "lon": 6.8047408,
+      "locationMunicipality": "Hengelo (O)",
+      "locationSource": "https://www.humanitas.nl/afdeling/twente/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     }
   ],
   "addressEnrichmentVersion": 1,
-  "addressEnrichedAt": "2026-10-05",
+  "addressEnrichedAt": "2026-10-08",
   "addressEnrichmentMethod": "Adres uit bron-, contact- of locatiepagina; terugval per organisatie; geocode via PDOK Locatieserver; contactadressen buiten het werkgebied krijgen een transparante werkgebied-pin.",
   "contentExpansionVersion": 6,
   "note": "Doorlopende verdiepingslaag voor voorliggende voorzieningen. Vindroute: per Twentse gemeente officiële sociale kaart + lokale welzijnsorganisatie + gemeentelijke Wmo/algemene-voorzieningenpagina + onafhankelijke initiatieven. Alleen concreet en actueel aanbod wordt toegevoegd; fysieke kaartpins alleen bij een bevestigde bezoeklocatie. Gemeentesweep 2 oktober 2026: aanvullende buurtinlopen, gemeentelijke informatiepunten, algemene voorzieningen en zelfstandige lotgenoten-/participatieplekken toegevoegd."
