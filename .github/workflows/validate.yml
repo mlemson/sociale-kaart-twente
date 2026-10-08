@@ -17,6 +17,8 @@ jobs:
           node --check app.js
           node --check portal.js
           node --check wegwijzer.js
+      - name: Test lokale Wegwijzer-locaties
+        run: node tests/wegwijzer-locaties.test.cjs
       - name: Controleer bron-JSON en GeoJSON
         run: |
           python -m json.tool inventory.json > /dev/null
