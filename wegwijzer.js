@@ -868,7 +868,12 @@
           !(enriched.siteCandidates || []).some(site =>
             siteIsUsable(site) && norm([site.address,site.town].join("|")) ===
               norm([enriched.address,enriched.town].join("|")))) {
-        enriched.siteCandidates = [...(enriched.siteCandidates || []), enriched];
+        enriched.siteCandidates = [...(enriched.siteCandidates || []), {
+          address:enriched.address, postcode:enriched.postcode, town:enriched.town,
+          lat:enriched.lat, lon:enriched.lon,
+          locationMunicipality:enriched.locationMunicipality,
+          locationType:"contact", mapLocationType:"address", physicalLocation:false
+        }];
       }
       return {...enriched,
         organizationSites: organizationSiteIndex.get(enriched.catalogOrganizationId) || [],
