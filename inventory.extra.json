@@ -999,6 +999,90 @@
         "Oldenzaal",
         "Losser"
       ]
+    },
+    {
+      "title": "Bijzondere bijstand Almelo",
+      "url": "https://www.almelo.nl/uitkering-werk-en-bijstand/bijstand-en-sociale-voorzieningen/bijzondere-bijstand",
+      "municipalities": [
+        "Almelo"
+      ]
+    },
+    {
+      "title": "Bijzondere bijstand Borne",
+      "url": "https://www.borne.nl/bijzondere-bijstand",
+      "municipalities": [
+        "Borne"
+      ]
+    },
+    {
+      "title": "Bijzondere bijstand Dinkelland",
+      "url": "https://www.dinkelland.nl/minima-regelingen-en-bijzondere-bijstand",
+      "municipalities": [
+        "Dinkelland"
+      ]
+    },
+    {
+      "title": "Bijzondere bijstand Haaksbergen",
+      "url": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+      "municipalities": [
+        "Haaksbergen"
+      ]
+    },
+    {
+      "title": "Bijzondere bijstand Hellendoorn",
+      "url": "https://www.hellendoorn.nl/direct-regelen/werk-en-inkomen/uitkering/bijzondere-bijstand/",
+      "municipalities": [
+        "Hellendoorn"
+      ]
+    },
+    {
+      "title": "Bijzondere bijstand Hof van Twente",
+      "url": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/bijzondere-bijstand/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Bijzondere bijstand Losser",
+      "url": "https://www.losser.nl/bijzondere-bijstand",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "Bijzondere bijstand Oldenzaal",
+      "url": "https://www.oldenzaal.nl/bijzondere-bijstand",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Bijzondere bijstand Rijssen-Holten",
+      "url": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/werk-en-inkomen/bijstand/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "Bijzondere bijstand Tubbergen",
+      "url": "https://www.tubbergen.nl/minima-regelingen-en-bijzondere-bijstand",
+      "municipalities": [
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "Bijzondere bijstand Twenterand",
+      "url": "https://www.twenterand.nl/bijzondere-bijstand",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "Bijzondere bijstand Wierden",
+      "url": "https://www.wierden.nl/bijzondere-bijstand",
+      "municipalities": [
+        "Wierden"
+      ]
     }
   ],
   "candidates": [
@@ -18108,6 +18192,728 @@
       "locationSource": "https://www.humanitas.nl/afdeling/twente/",
       "locationInheritedFromGroup": true,
       "addressChecked": "2026-10-08"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-1",
+      "name": "Almelo · bijzondere bijstand",
+      "source": "https://www.almelo.nl/uitkering-werk-en-bijstand/bijstand-en-sociale-voorzieningen/bijzondere-bijstand",
+      "sourceTitle": "Gemeente Almelo",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Almelo"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Almelo met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-2",
+      "name": "Borne · bijzondere bijstand",
+      "source": "https://www.borne.nl/bijzondere-bijstand",
+      "sourceTitle": "Gemeente Borne",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Borne"
+      ],
+      "municipality": "Borne",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Borne"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Borne met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-3",
+      "name": "Dinkelland · bijzondere bijstand",
+      "source": "https://www.dinkelland.nl/minima-regelingen-en-bijzondere-bijstand",
+      "sourceTitle": "Gemeente Dinkelland",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Dinkelland"
+      ],
+      "municipality": "Dinkelland",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Dinkelland"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Dinkelland met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-4",
+      "name": "Enschede · bijzondere bijstand",
+      "source": "https://www.enschede.nl/rondkomen-met-je-inkomen",
+      "sourceTitle": "Gemeente Enschede",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Enschede"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Enschede met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-5",
+      "name": "Haaksbergen · bijzondere bijstand",
+      "source": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+      "sourceTitle": "Gemeente Haaksbergen",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Haaksbergen"
+      ],
+      "municipality": "Haaksbergen",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Haaksbergen"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Haaksbergen met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-6",
+      "name": "Hellendoorn · bijzondere bijstand",
+      "source": "https://www.hellendoorn.nl/direct-regelen/werk-en-inkomen/uitkering/bijzondere-bijstand/",
+      "sourceTitle": "Gemeente Hellendoorn",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Hellendoorn"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Hellendoorn met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-7",
+      "name": "Hengelo · bijzondere bijstand",
+      "source": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+      "sourceTitle": "Gemeente Hengelo",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Hengelo"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Hengelo met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-8",
+      "name": "Hof van Twente · bijzondere bijstand",
+      "source": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/bijzondere-bijstand/",
+      "sourceTitle": "Gemeente Hof van Twente",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Hof van Twente"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Hof van Twente met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-9",
+      "name": "Losser · bijzondere bijstand",
+      "source": "https://www.losser.nl/bijzondere-bijstand",
+      "sourceTitle": "Gemeente Losser",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Losser"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Losser met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-10",
+      "name": "Oldenzaal · bijzondere bijstand",
+      "source": "https://www.oldenzaal.nl/bijzondere-bijstand",
+      "sourceTitle": "Gemeente Oldenzaal",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Oldenzaal"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Oldenzaal met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-11",
+      "name": "Rijssen-Holten · bijzondere bijstand",
+      "source": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/werk-en-inkomen/bijstand/",
+      "sourceTitle": "Gemeente Rijssen-Holten",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Rijssen-Holten"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Rijssen-Holten met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-12",
+      "name": "Tubbergen · bijzondere bijstand",
+      "source": "https://www.tubbergen.nl/minima-regelingen-en-bijzondere-bijstand",
+      "sourceTitle": "Gemeente Tubbergen",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Tubbergen"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Tubbergen met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-13",
+      "name": "Twenterand · bijzondere bijstand",
+      "source": "https://www.twenterand.nl/bijzondere-bijstand",
+      "sourceTitle": "Gemeente Twenterand",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Twenterand"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Twenterand met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-bijzondere-bijstand-14",
+      "name": "Wierden · bijzondere bijstand",
+      "source": "https://www.wierden.nl/bijzondere-bijstand",
+      "sourceTitle": "Gemeente Wierden",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen",
+        "bestaanszekerheid"
+      ],
+      "tags": [
+        "bijzondere bijstand",
+        "onverwachte noodzakelijke kosten",
+        "minima",
+        "gemeentelijke ondersteuning",
+        "Wierden"
+      ],
+      "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+      "audience": "Inwoners van Wierden met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+      "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+      "costs": "Geen kosten voor de aanvraag.",
+      "accessStatus": "source-check",
+      "scope": "Gemeentelijke inkomensregeling; aanvraag en beoordeling noodzakelijk (geen vrij toegankelijke activiteit).",
+      "status": "candidate",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-lokaal-financieel-1",
+      "name": "Twenterand · Stichting Urgente Noden (SUN)",
+      "source": "https://www.twenterand.nl/bijzondere-bijstand",
+      "sourceTitle": "Twenterand",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "noodhulp"
+      ],
+      "tags": [
+        "noodhulp",
+        "financiële hulp",
+        "Twenterand"
+      ],
+      "description": "Een financieel noodfonds waar onder voorwaarden via een intermediair een aanvraag mogelijk is als andere regelingen geen oplossing bieden.",
+      "access": "Via een professionele intermediair na beoordeling van andere mogelijkheden.",
+      "accessStatus": "source-check",
+      "status": "candidate",
+      "scope": "Gemeentelijke of door gemeente benoemde financiële ondersteuning",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "costs": "Controleer voorwaarden bij aanbieder.",
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-lokaal-financieel-2",
+      "name": "Oldenzaal · Bijdragefonds",
+      "source": "https://www.oldenzaal.nl/werk-inkomen-en-bijstand",
+      "sourceTitle": "Oldenzaal",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "meedoen"
+      ],
+      "tags": [
+        "meedoen",
+        "financiële hulp",
+        "Oldenzaal"
+      ],
+      "description": "Bijdragefonds voor volwassenen met inkomen rond het minimum om maatschappelijke deelname mogelijk te maken.",
+      "access": "Aanvragen bij gemeente Oldenzaal volgens de plaatselijke voorwaarden.",
+      "accessStatus": "source-check",
+      "status": "candidate",
+      "scope": "Gemeentelijke of door gemeente benoemde financiële ondersteuning",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "costs": "Controleer voorwaarden bij aanbieder.",
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-lokaal-financieel-3",
+      "name": "Losser · woonkostentoeslag",
+      "source": "https://www.losser.nl/woonkostentoeslag",
+      "sourceTitle": "Losser",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "wonen"
+      ],
+      "tags": [
+        "wonen",
+        "financiële hulp",
+        "Losser"
+      ],
+      "description": "Tijdelijke financiële ondersteuning bij onverwachte inkomensdaling en problemen met woonkosten.",
+      "access": "Via toegangsteam wijz van gemeente Losser.",
+      "accessStatus": "source-check",
+      "status": "candidate",
+      "scope": "Gemeentelijke of door gemeente benoemde financiële ondersteuning",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "costs": "Controleer voorwaarden bij aanbieder.",
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-lokaal-financieel-4",
+      "name": "Twenterand · Bereken uw recht",
+      "source": "https://www.twenterand.nl/bereken-uw-recht",
+      "sourceTitle": "Twenterand",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [
+        "regelingen"
+      ],
+      "tags": [
+        "regelingen",
+        "financiële hulp",
+        "Twenterand"
+      ],
+      "description": "Gratis, anonieme controle op mogelijke gemeentelijke vergoedingen zoals minimaregelingen en bijzondere bijstand.",
+      "access": "Zelf online uitzoeken; berekening is geen beschikking.",
+      "accessStatus": "source-check",
+      "status": "candidate",
+      "scope": "Gemeentelijke of door gemeente benoemde financiële ondersteuning",
+      "guidePaths": [
+        "geld/regelingen"
+      ],
+      "costs": "Controleer voorwaarden bij aanbieder.",
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
     }
   ],
   "addressEnrichmentVersion": 1,
