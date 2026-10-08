@@ -16287,6 +16287,70 @@
     "catalogOrganizationId": "org-dierenvoedselbank-hengelo-6rs550"
   },
   {
+    "id": "catalog-org-dinkelland-lm41dh",
+    "name": "Dinkelland",
+    "category": "geld",
+    "address": "Nicolaasplein 5",
+    "postcode": "7591MA",
+    "town": "Denekamp",
+    "municipality": "Dinkelland",
+    "serviceMunicipalities": [
+      "Dinkelland"
+    ],
+    "lat": 52.37409066,
+    "lon": 7.00516737,
+    "source": "https://www.dinkelland.nl/minima-regelingen-en-bijzondere-bijstand",
+    "checked": "2026-10-08",
+    "tags": [
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Dinkelland. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van Dinkelland met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+    "costs": "Geen kosten voor de aanvraag.",
+    "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://www.dinkelland.nl/minima-regelingen-en-bijzondere-bijstand",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-dinkelland-lm41dh"
+  },
+  {
+    "id": "catalog-org-evenmens-hellendoorn-17nek86",
+    "name": "Evenmens Hellendoorn",
+    "category": "welzijn",
+    "address": "Constantijnstraat 32a",
+    "postcode": "7442ME",
+    "town": "Nijverdal",
+    "municipality": "Hellendoorn",
+    "serviceMunicipalities": [
+      "Hellendoorn"
+    ],
+    "lat": 52.36352638,
+    "lon": 6.46142506,
+    "source": "https://evenmens.nl/werkgebied/hellendoorn/",
+    "checked": "2026-10-08",
+    "tags": [
+      "welzijn"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Evenmens Hellendoorn. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+    "costs": "Controleer bij de organisatie.",
+    "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://evenmens.nl/werkgebied/hellendoorn/",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-evenmens-hellendoorn-17nek86"
+  },
+  {
     "id": "catalog-org-evenmens-wierden-6t5uzi",
     "name": "Evenmens Wierden",
     "category": "advies",
@@ -16302,10 +16366,11 @@
     "source": "https://www.socialekaartwierden.nl/is/organisatie/220517/invis2/evenmens-wierden",
     "checked": "2026-09-15",
     "tags": [
-      "advies"
+      "advies",
+      "welzijn"
     ],
     "subthemes": [],
-    "description": "Contact-/vestigingsadres voor Evenmens Wierden. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "description": "Contact-/vestigingsadres voor Evenmens Wierden. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
     "audience": "",
     "costs": "",
     "access": "Vrij toegankelijk welzijnsaanbod; controleer op de bronpagina of aanmelding of een kleine bijdrage geldt.",
@@ -16685,6 +16750,135 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-gemeente-wierden-geldloket-19czko1"
+  },
+  {
+    "id": "catalog-org-haaksbergen-1n8f6ue",
+    "name": "Haaksbergen",
+    "category": "geld",
+    "address": "Burgemeester van der Dussenplein 1-s302",
+    "postcode": "7551EB",
+    "town": "Hengelo",
+    "municipality": "Haaksbergen",
+    "serviceMunicipalities": [
+      "Haaksbergen"
+    ],
+    "lat": 52.2659015,
+    "lon": 6.79178677,
+    "source": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+    "checked": "2026-10-08",
+    "tags": [
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Haaksbergen. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van Haaksbergen met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+    "costs": "Geen kosten voor de aanvraag.",
+    "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/Beheer/Footer/Contact-en-openingstijden.html",
+    "mapLocationType": "service-area",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-haaksbergen-1n8f6ue"
+  },
+  {
+    "id": "catalog-org-hellendoorn-1pwyjx1",
+    "name": "Hellendoorn",
+    "category": "geld",
+    "address": "Beethovenlaan 200",
+    "postcode": "7442HH",
+    "town": "Nijverdal",
+    "municipality": "Hellendoorn",
+    "serviceMunicipalities": [
+      "Hellendoorn"
+    ],
+    "lat": 52.35497999,
+    "lon": 6.48301301,
+    "source": "https://www.hellendoorn.nl/direct-regelen/werk-en-inkomen/uitkering/bijzondere-bijstand/",
+    "checked": "2026-10-08",
+    "tags": [
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Hellendoorn. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van Hellendoorn met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+    "costs": "Geen kosten voor de aanvraag.",
+    "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://www.hellendoorn.nl/contact/",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-hellendoorn-1pwyjx1"
+  },
+  {
+    "id": "catalog-org-hengelo-17gnr6h",
+    "name": "Hengelo",
+    "category": "basis",
+    "address": "Backenhagenlaan 168",
+    "postcode": "7557KE",
+    "town": "Hengelo",
+    "municipality": "Hengelo",
+    "serviceMunicipalities": [
+      "Hengelo"
+    ],
+    "lat": 52.2739065,
+    "lon": 6.80582738,
+    "source": "https://www.hengelo.nl/bestanden/documenten/Gemeentenieuws/2025/2025-39-Gemeentenieuws_web.pdf",
+    "checked": "2026-10-05",
+    "tags": [
+      "basis",
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Hengelo. Via de bron zijn 2 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van Hengelo met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+    "costs": "Geen kosten voor de aanvraag.",
+    "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+    "mapLocationType": "service-area",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-hengelo-17gnr6h"
+  },
+  {
+    "id": "catalog-org-hof-van-twente-1toll6c",
+    "name": "Hof van Twente",
+    "category": "geld",
+    "address": "de Höfte 7",
+    "postcode": "7471DK",
+    "town": "Goor",
+    "municipality": "Hof van Twente",
+    "serviceMunicipalities": [
+      "Hof van Twente"
+    ],
+    "lat": 52.23325359,
+    "lon": 6.58497345,
+    "source": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/bijzondere-bijstand/",
+    "checked": "2026-10-08",
+    "tags": [
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Hof van Twente. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van Hof van Twente met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+    "costs": "Geen kosten voor de aanvraag.",
+    "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/bijzondere-bijstand/",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-hof-van-twente-1toll6c"
   },
   {
     "id": "catalog-org-humanitas-onder-dak-locatie-almelo-nvkl3h",
@@ -17723,6 +17917,70 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-realcovery-inloophuis-locatie-almelo-65scv5"
+  },
+  {
+    "id": "catalog-org-rijssen-holten-3aa4do",
+    "name": "Rijssen-Holten",
+    "category": "geld",
+    "address": "Schild 1",
+    "postcode": "7461DD",
+    "town": "Rijssen",
+    "municipality": "Rijssen-Holten",
+    "serviceMunicipalities": [
+      "Rijssen-Holten"
+    ],
+    "lat": 52.3073607,
+    "lon": 6.52203914,
+    "source": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/werk-en-inkomen/bijstand/",
+    "checked": "2026-10-08",
+    "tags": [
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Rijssen-Holten. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van Rijssen-Holten met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+    "costs": "Geen kosten voor de aanvraag.",
+    "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/werk-en-inkomen/bijstand/",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-rijssen-holten-3aa4do"
+  },
+  {
+    "id": "catalog-org-salut-hof-van-twente-259533",
+    "name": "Salut Hof van Twente",
+    "category": "ouderen",
+    "address": "Grotestraat 86",
+    "postcode": "7471BR",
+    "town": "Goor",
+    "municipality": "Hof van Twente",
+    "serviceMunicipalities": [
+      "Hof van Twente"
+    ],
+    "lat": 52.23293368,
+    "lon": 6.58569353,
+    "source": "https://salut-welzijn.nl/onderwerpen/ouder-worden/preventief-huisbezoek-soek/",
+    "checked": "2026-10-08",
+    "tags": [
+      "ouderen"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Salut Hof van Twente. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+    "costs": "Controleer bij de organisatie.",
+    "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://salut-welzijn.nl/onderwerpen/ouder-worden/preventief-huisbezoek-soek/",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-salut-hof-van-twente-259533"
   },
   {
     "id": "catalog-org-school-s-cool-twente-13bs97d",
@@ -18872,6 +19130,103 @@
     "catalogOrganizationId": "org-tafeltje-dekje-wa2vbj"
   },
   {
+    "id": "catalog-org-tubbergen-1jiuuhd",
+    "name": "Tubbergen",
+    "category": "geld",
+    "address": "Raadhuisplein 1",
+    "postcode": "7651CV",
+    "town": "Tubbergen",
+    "municipality": "Tubbergen",
+    "serviceMunicipalities": [
+      "Tubbergen"
+    ],
+    "lat": 52.40820915,
+    "lon": 6.78068999,
+    "source": "https://www.tubbergen.nl/minima-regelingen-en-bijzondere-bijstand",
+    "checked": "2026-10-08",
+    "tags": [
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Tubbergen. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van Tubbergen met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+    "costs": "Geen kosten voor de aanvraag.",
+    "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://www.tubbergen.nl/minima-regelingen-en-bijzondere-bijstand",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-tubbergen-1jiuuhd"
+  },
+  {
+    "id": "catalog-org-twenterand-18bw057",
+    "name": "Twenterand",
+    "category": "geld",
+    "address": "Manitobaplein 1",
+    "postcode": "7671GS",
+    "town": "Vriezenveen",
+    "municipality": "Twenterand",
+    "serviceMunicipalities": [
+      "Twenterand"
+    ],
+    "lat": 52.40876601,
+    "lon": 6.62460489,
+    "source": "https://www.twenterand.nl/bijzondere-bijstand",
+    "checked": "2026-10-08",
+    "tags": [
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Twenterand. Via de bron zijn 3 vormen van voorliggend aanbod opgenomen.",
+    "audience": "",
+    "costs": "Controleer voorwaarden bij aanbieder.",
+    "access": "Zelf online uitzoeken; berekening is geen beschikking.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://www.twenterand.nl/bereken-uw-recht",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-twenterand-18bw057"
+  },
+  {
+    "id": "catalog-org-viavie-rijssen-holten-1bgwisi",
+    "name": "ViaVie Rijssen-Holten",
+    "category": "basis",
+    "address": "Smidsbelt 6",
+    "postcode": "7451BL",
+    "town": "Holten",
+    "municipality": "Rijssen-Holten",
+    "serviceMunicipalities": [
+      "Rijssen-Holten"
+    ],
+    "lat": 52.28131306,
+    "lon": 6.42165509,
+    "source": "https://viaviewelzijn.nl/",
+    "checked": "2026-10-08",
+    "tags": [
+      "basis",
+      "meedoen"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor ViaVie Rijssen-Holten. Via de bron zijn 3 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+    "costs": "Controleer bij de organisatie.",
+    "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "contact",
+    "locationSource": "https://viaviewelzijn.nl/contact/",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-viavie-rijssen-holten-1bgwisi"
+  },
+  {
     "id": "catalog-org-vluchtelingenwerk-borne-x28hpg",
     "name": "VluchtelingenWerk Borne",
     "category": "advies",
@@ -19098,6 +19453,38 @@
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-volwassenenfonds-sport-cultuur-hof-van-twente-1a7hdb3"
+  },
+  {
+    "id": "catalog-org-wierden-mgfoel",
+    "name": "Wierden",
+    "category": "geld",
+    "address": "Pouliestraat 2",
+    "postcode": "7642EB",
+    "town": "Wierden",
+    "municipality": "Wierden",
+    "serviceMunicipalities": [
+      "Wierden"
+    ],
+    "lat": 52.35644776,
+    "lon": 6.59291828,
+    "source": "https://www.wierden.nl/bijzondere-bijstand",
+    "checked": "2026-10-08",
+    "tags": [
+      "geld"
+    ],
+    "subthemes": [],
+    "description": "Contact-/vestigingsadres voor Wierden. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
+    "audience": "Inwoners van Wierden met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+    "costs": "Geen kosten voor de aanvraag.",
+    "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "source-address",
+    "locationSource": "https://www.wierden.nl/bijzondere-bijstand",
+    "mapLocationType": "address",
+    "physicalLocation": false,
+    "catalogOrganizationId": "org-wierden-mgfoel"
   },
   {
     "id": "catalog-org-wierden-met-mekaar-1wdap34",

@@ -2021,17 +2021,74 @@
       "Almelo"
     ],
     "categories": [
-      "ontmoeten"
+      "ontmoeten",
+      "geld"
     ],
     "sources": [
-      "https://www.almelo.nl/ontmoetingsplekken-almelo"
+      "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "https://www.almelo.nl/uitkering-werk-en-bijstand/bijstand-en-sociale-voorzieningen/bijzondere-bijstand"
     ],
-    "offerCount": 8,
+    "offerCount": 9,
     "reviewNeeded": 0,
-    "sourceBacked": 8,
+    "sourceBacked": 9,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-1",
+        "title": "bijzondere bijstand",
+        "name": "Almelo · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Almelo",
+        "municipalities": [
+          "Almelo"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Almelo"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Almelo met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.almelo.nl/uitkering-werk-en-bijstand/bijstand-en-sociale-voorzieningen/bijzondere-bijstand",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Almelo",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Hofkampstraat 96",
+        "postcode": "7607NJ",
+        "town": "Almelo",
+        "lat": 52.35318077,
+        "lon": 6.67014332,
+        "locationType": "visiting",
+        "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+        "locationMunicipality": "Almelo",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "extra-20261002-almelo-kom-erbij-groenedael",
         "title": "Kom Erbij 't Groenedael",
@@ -7508,6 +7565,84 @@
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
   },
   {
+    "id": "org-borne-1lcoejl",
+    "organization": "Borne",
+    "municipalities": [
+      "Borne"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.borne.nl/bijzondere-bijstand"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-2",
+        "title": "bijzondere bijstand",
+        "name": "Borne · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Borne",
+        "municipalities": [
+          "Borne"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Borne"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Borne met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.borne.nl/bijzondere-bijstand",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Borne",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "remote",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "source-backed",
+    "primarySource": "https://www.borne.nl/bijzondere-bijstand"
+  },
+  {
     "id": "org-bunga-tandjung-22ufdh",
     "organization": "Bunga Tandjung",
     "municipalities": [
@@ -11771,6 +11906,94 @@
     "primarySource": "https://www.stichtinghelpanderen.nl/waar-we-nu-staan/"
   },
   {
+    "id": "org-dinkelland-lm41dh",
+    "organization": "Dinkelland",
+    "municipalities": [
+      "Dinkelland"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.dinkelland.nl/minima-regelingen-en-bijzondere-bijstand"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-3",
+        "title": "bijzondere bijstand",
+        "name": "Dinkelland · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Dinkelland",
+        "municipalities": [
+          "Dinkelland"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Dinkelland"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Dinkelland met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.dinkelland.nl/minima-regelingen-en-bijzondere-bijstand",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Dinkelland",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Nicolaasplein 5",
+        "postcode": "7591MA",
+        "town": "Denekamp",
+        "lat": 52.37409066,
+        "lon": 7.00516737,
+        "locationType": "source-address",
+        "locationSource": "https://www.dinkelland.nl/minima-regelingen-en-bijzondere-bijstand",
+        "locationMunicipality": "Dinkelland",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Nicolaasplein 5",
+      "postcode": "7591MA",
+      "town": "Denekamp",
+      "lat": 52.37409066,
+      "lon": 7.00516737,
+      "locationMunicipality": "Dinkelland",
+      "locationType": "source-address",
+      "locationSource": "https://www.dinkelland.nl/minima-regelingen-en-bijzondere-bijstand",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.dinkelland.nl/minima-regelingen-en-bijzondere-bijstand"
+  },
+  {
     "id": "org-doors-wide-open-tcii4r",
     "organization": "Doors Wide Open",
     "municipalities": [
@@ -12168,17 +12391,74 @@
       "Enschede"
     ],
     "categories": [
-      "ontmoeten"
+      "ontmoeten",
+      "geld"
     ],
     "sources": [
-      "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf"
+      "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "https://www.enschede.nl/rondkomen-met-je-inkomen"
     ],
-    "offerCount": 4,
+    "offerCount": 5,
     "reviewNeeded": 0,
-    "sourceBacked": 4,
+    "sourceBacked": 5,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-4",
+        "title": "bijzondere bijstand",
+        "name": "Enschede · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Enschede"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Enschede met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.enschede.nl/rondkomen-met-je-inkomen",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Enschede",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Jacob Roggeveenstraat 33",
+        "postcode": "7534CD",
+        "town": "Enschede",
+        "lat": 52.21420756,
+        "lon": 6.9723338,
+        "locationType": "service",
+        "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "extra-20261002-enschede-ontmoetingscentrum-t-ribbet",
         "title": "Ontmoetingscentrum 't Ribbet",
@@ -12492,20 +12772,200 @@
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-en-activiteiten"
   },
   {
+    "id": "org-evenmens-1gqbmb0",
+    "organization": "Evenmens",
+    "municipalities": [
+      "Hellendoorn",
+      "Rijssen-Holten",
+      "Twenterand",
+      "Wierden"
+    ],
+    "categories": [
+      "welzijn"
+    ],
+    "sources": [
+      "https://evenmens.nl/dienst/mantelzorg-ondersteuning/ggz/evenmaatje/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-regiopraktisch-1",
+        "title": "EvenMaatje bij psychische kwetsbaarheid",
+        "name": "Evenmens · EvenMaatje bij psychische kwetsbaarheid",
+        "description": "Vrijwillige steun en contact voor inwoners met psychische kwetsbaarheid, via matching door Evenmens.",
+        "municipality": "Wierden",
+        "municipalities": [
+          "Wierden",
+          "Hellendoorn",
+          "Rijssen-Holten",
+          "Twenterand"
+        ],
+        "category": "welzijn",
+        "themes": [
+          "welzijn"
+        ],
+        "subthemes": [
+          "maatje",
+          "psychische kwetsbaarheid"
+        ],
+        "tags": [
+          "maatje",
+          "psychische kwetsbaarheid",
+          "informele zorg"
+        ],
+        "guidePaths": [
+          "welzijn/herstel"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+        "costs": "Controleer bij de organisatie.",
+        "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://evenmens.nl/dienst/mantelzorg-ondersteuning/ggz/evenmaatje/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Evenmens",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Constantijnstraat 32a",
+        "postcode": "7442ME",
+        "town": "Nijverdal",
+        "lat": 52.36352638,
+        "lon": 6.46142506,
+        "locationType": "source-address",
+        "locationSource": "https://evenmens.nl/dienst/mantelzorg-ondersteuning/ggz/evenmaatje/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Constantijnstraat 32a",
+      "postcode": "7442ME",
+      "town": "Nijverdal",
+      "lat": 52.36352638,
+      "lon": 6.46142506,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "source-address",
+      "locationSource": "https://evenmens.nl/dienst/mantelzorg-ondersteuning/ggz/evenmaatje/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://evenmens.nl/dienst/mantelzorg-ondersteuning/ggz/evenmaatje/"
+  },
+  {
+    "id": "org-evenmens-hellendoorn-17nek86",
+    "organization": "Evenmens Hellendoorn",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "welzijn"
+    ],
+    "sources": [
+      "https://evenmens.nl/werkgebied/hellendoorn/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-regiopraktisch-3",
+        "title": "jonge mantelzorgers en zorgvrijwilligers",
+        "name": "Evenmens Hellendoorn · jonge mantelzorgers en zorgvrijwilligers",
+        "description": "Hulp voor mantelzorgers, ondersteuning voor jongeren, inzet van vrijwilligers en ondersteuning bij rouw of dementie.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "welzijn",
+        "themes": [
+          "welzijn"
+        ],
+        "subthemes": [
+          "mantelzorg",
+          "rouw"
+        ],
+        "tags": [
+          "mantelzorg",
+          "rouw",
+          "zorgvrijwilliger"
+        ],
+        "guidePaths": [
+          "welzijn/mantelzorg"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+        "costs": "Controleer bij de organisatie.",
+        "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://evenmens.nl/werkgebied/hellendoorn/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Evenmens Hellendoorn",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Constantijnstraat 32a",
+        "postcode": "7442ME",
+        "town": "Nijverdal",
+        "lat": 52.36352638,
+        "lon": 6.46142506,
+        "locationType": "source-address",
+        "locationSource": "https://evenmens.nl/werkgebied/hellendoorn/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Constantijnstraat 32a",
+      "postcode": "7442ME",
+      "town": "Nijverdal",
+      "lat": 52.36352638,
+      "lon": 6.46142506,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "source-address",
+      "locationSource": "https://evenmens.nl/werkgebied/hellendoorn/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://evenmens.nl/werkgebied/hellendoorn/"
+  },
+  {
     "id": "org-evenmens-wierden-6t5uzi",
     "organization": "Evenmens Wierden",
     "municipalities": [
       "Wierden"
     ],
     "categories": [
-      "advies"
+      "advies",
+      "welzijn"
     ],
     "sources": [
-      "https://www.socialekaartwierden.nl/is/organisatie/220517/invis2/evenmens-wierden"
+      "https://www.socialekaartwierden.nl/is/organisatie/220517/invis2/evenmens-wierden",
+      "https://evenmens.nl/werkgebied/wierden/"
     ],
-    "offerCount": 1,
+    "offerCount": 2,
     "reviewNeeded": 0,
-    "sourceBacked": 1,
+    "sourceBacked": 2,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -12545,6 +13005,59 @@
         "sourceKind": "municipal-directory",
         "sourceTitle": "Sociale kaart Wierden",
         "checked": "2026-09-15",
+        "reviewStatus": "source-backed",
+        "address": "Pouliestraat 3",
+        "postcode": "7642EB",
+        "town": "Wierden",
+        "lat": 52.35567108,
+        "lon": 6.59284021,
+        "locationType": "source-address",
+        "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220517/invis2/evenmens-wierden",
+        "locationMunicipality": "Wierden",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261008-regiopraktisch-2",
+        "title": "mantelzorg en zorgvrijwilligers",
+        "name": "Evenmens Wierden · mantelzorg en zorgvrijwilligers",
+        "description": "Ondersteuning voor mantelzorgers en jonge mantelzorgers en inzet van zorgvrijwilligers of maatjes.",
+        "municipality": "Wierden",
+        "municipalities": [
+          "Wierden"
+        ],
+        "category": "welzijn",
+        "themes": [
+          "welzijn"
+        ],
+        "subthemes": [
+          "mantelzorg",
+          "zorgvrijwilliger"
+        ],
+        "tags": [
+          "mantelzorg",
+          "zorgvrijwilliger",
+          "jonge mantelzorger"
+        ],
+        "guidePaths": [
+          "welzijn/mantelzorg"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+        "costs": "Controleer bij de organisatie.",
+        "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://evenmens.nl/werkgebied/wierden/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Evenmens Wierden",
+        "checked": "2026-10-08",
         "reviewStatus": "source-backed",
         "address": "Pouliestraat 3",
         "postcode": "7642EB",
@@ -16864,6 +17377,182 @@
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/318449/invis2/gemeente-wierden-geldloket"
   },
   {
+    "id": "org-haaksbergen-1n8f6ue",
+    "organization": "Haaksbergen",
+    "municipalities": [
+      "Haaksbergen"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-5",
+        "title": "bijzondere bijstand",
+        "name": "Haaksbergen · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Haaksbergen",
+        "municipalities": [
+          "Haaksbergen"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Haaksbergen"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Haaksbergen met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Haaksbergen",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Burgemeester van der Dussenplein 1-s302",
+        "postcode": "7551EB",
+        "town": "Hengelo",
+        "lat": 52.2659015,
+        "lon": 6.79178677,
+        "locationType": "contact",
+        "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/Beheer/Footer/Contact-en-openingstijden.html",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Burgemeester van der Dussenplein 1-s302",
+      "postcode": "7551EB",
+      "town": "Hengelo",
+      "lat": 52.2659015,
+      "lon": 6.79178677,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "contact",
+      "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/Beheer/Footer/Contact-en-openingstijden.html",
+      "mapLocationType": "service-area"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html"
+  },
+  {
+    "id": "org-hellendoorn-1pwyjx1",
+    "organization": "Hellendoorn",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.hellendoorn.nl/direct-regelen/werk-en-inkomen/uitkering/bijzondere-bijstand/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-6",
+        "title": "bijzondere bijstand",
+        "name": "Hellendoorn · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Hellendoorn"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Hellendoorn met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.hellendoorn.nl/direct-regelen/werk-en-inkomen/uitkering/bijzondere-bijstand/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Hellendoorn",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Beethovenlaan 200",
+        "postcode": "7442HH",
+        "town": "Nijverdal",
+        "lat": 52.35497999,
+        "lon": 6.48301301,
+        "locationType": "contact",
+        "locationSource": "https://www.hellendoorn.nl/contact/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Beethovenlaan 200",
+      "postcode": "7442HH",
+      "town": "Nijverdal",
+      "lat": 52.35497999,
+      "lon": 6.48301301,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "contact",
+      "locationSource": "https://www.hellendoorn.nl/contact/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.hellendoorn.nl/direct-regelen/werk-en-inkomen/uitkering/bijzondere-bijstand/"
+  },
+  {
     "id": "org-hengelo-17gnr6h",
     "organization": "Hengelo",
     "municipalities": [
@@ -16874,14 +17563,70 @@
       "geld"
     ],
     "sources": [
-      "https://www.hengelo.nl/bestanden/documenten/Gemeentenieuws/2025/2025-39-Gemeentenieuws_web.pdf"
+      "https://www.hengelo.nl/bestanden/documenten/Gemeentenieuws/2025/2025-39-Gemeentenieuws_web.pdf",
+      "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html"
     ],
-    "offerCount": 1,
+    "offerCount": 2,
     "reviewNeeded": 0,
-    "sourceBacked": 1,
+    "sourceBacked": 2,
     "manual": 0,
     "checked": "2026-10-05",
     "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-7",
+        "title": "bijzondere bijstand",
+        "name": "Hengelo · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Hengelo",
+        "municipalities": [
+          "Hengelo"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Hengelo"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Hengelo met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Hengelo",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Backenhagenlaan 168",
+        "postcode": "7557KE",
+        "town": "Hengelo",
+        "lat": 52.2739065,
+        "lon": 6.80582738,
+        "locationType": "source-address",
+        "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "extra-20261005-mup-hengelo",
         "title": "gratis menstruatieproducten (MUP)",
@@ -16951,19 +17696,29 @@
         "sourceTitle": "Gemeente Hengelo",
         "checked": "2026-10-05",
         "reviewStatus": "source-backed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "",
-        "locationSource": "",
-        "locationMunicipality": "",
-        "mapLocationType": "service-area",
+        "address": "Backenhagenlaan 168",
+        "postcode": "7557KE",
+        "town": "Hengelo",
+        "lat": 52.2739065,
+        "lon": 6.80582738,
+        "locationType": "source-address",
+        "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
         "mapPin": false
       }
     ],
-    "location": null,
+    "location": {
+      "address": "Backenhagenlaan 168",
+      "postcode": "7557KE",
+      "town": "Hengelo",
+      "lat": 52.2739065,
+      "lon": 6.80582738,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+      "mapLocationType": "service-area"
+    },
     "status": "source-backed",
     "primarySource": "https://www.hengelo.nl/bestanden/documenten/Gemeentenieuws/2025/2025-39-Gemeentenieuws_web.pdf"
   },
@@ -17415,6 +18170,94 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten"
+  },
+  {
+    "id": "org-hof-van-twente-1toll6c",
+    "organization": "Hof van Twente",
+    "municipalities": [
+      "Hof van Twente"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/bijzondere-bijstand/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-8",
+        "title": "bijzondere bijstand",
+        "name": "Hof van Twente · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Hof van Twente"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Hof van Twente met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/bijzondere-bijstand/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Hof van Twente",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "de Höfte 7",
+        "postcode": "7471DK",
+        "town": "Goor",
+        "lat": 52.23325359,
+        "lon": 6.58497345,
+        "locationType": "source-address",
+        "locationSource": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/bijzondere-bijstand/",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "de Höfte 7",
+      "postcode": "7471DK",
+      "town": "Goor",
+      "lat": 52.23325359,
+      "lon": 6.58497345,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/bijzondere-bijstand/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/bijzondere-bijstand/"
   },
   {
     "id": "org-hofkerk-goor-1kd5328",
@@ -25551,6 +26394,137 @@
     "primarySource": "https://www.almelo.nl/jeugd-en-onderwijs/veiligheid-en-thuissituatie/scheiden"
   },
   {
+    "id": "org-losser-1ksocbx",
+    "organization": "Losser",
+    "municipalities": [
+      "Losser"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.losser.nl/bijzondere-bijstand",
+      "https://www.losser.nl/woonkostentoeslag"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 0,
+    "sourceBacked": 2,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-9",
+        "title": "bijzondere bijstand",
+        "name": "Losser · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Losser"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Losser met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.losser.nl/bijzondere-bijstand",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Losser",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "remote",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261008-lokaal-financieel-3",
+        "title": "woonkostentoeslag",
+        "name": "Losser · woonkostentoeslag",
+        "description": "Tijdelijke financiële ondersteuning bij onverwachte inkomensdaling en problemen met woonkosten.",
+        "municipality": "Losser",
+        "municipalities": [
+          "Losser"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "wonen"
+        ],
+        "tags": [
+          "wonen",
+          "financiële hulp",
+          "Losser"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer voorwaarden bij aanbieder.",
+        "access": "Via toegangsteam wijz van gemeente Losser.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.losser.nl/woonkostentoeslag",
+        "sourceKind": "first-party",
+        "sourceTitle": "Losser",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "remote",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "source-backed",
+    "primarySource": "https://www.losser.nl/bijzondere-bijstand"
+  },
+  {
     "id": "org-m-pact-5ivo6b",
     "organization": "M-Pact",
     "municipalities": [
@@ -28660,6 +29634,137 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf"
+  },
+  {
+    "id": "org-oldenzaal-1ciuq15",
+    "organization": "Oldenzaal",
+    "municipalities": [
+      "Oldenzaal"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.oldenzaal.nl/bijzondere-bijstand",
+      "https://www.oldenzaal.nl/werk-inkomen-en-bijstand"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 0,
+    "sourceBacked": 2,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-lokaal-financieel-2",
+        "title": "Bijdragefonds",
+        "name": "Oldenzaal · Bijdragefonds",
+        "description": "Bijdragefonds voor volwassenen met inkomen rond het minimum om maatschappelijke deelname mogelijk te maken.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "meedoen"
+        ],
+        "tags": [
+          "meedoen",
+          "financiële hulp",
+          "Oldenzaal"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer voorwaarden bij aanbieder.",
+        "access": "Aanvragen bij gemeente Oldenzaal volgens de plaatselijke voorwaarden.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.oldenzaal.nl/werk-inkomen-en-bijstand",
+        "sourceKind": "first-party",
+        "sourceTitle": "Oldenzaal",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "remote",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261008-bijzondere-bijstand-10",
+        "title": "bijzondere bijstand",
+        "name": "Oldenzaal · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Oldenzaal",
+        "municipalities": [
+          "Oldenzaal"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Oldenzaal"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Oldenzaal met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.oldenzaal.nl/bijzondere-bijstand",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Oldenzaal",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "",
+        "postcode": "",
+        "town": "",
+        "lat": null,
+        "lon": null,
+        "locationType": "remote",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "service-area",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "source-backed",
+    "primarySource": "https://www.oldenzaal.nl/bijzondere-bijstand"
   },
   {
     "id": "org-ons-erf-nijverdal-w4ypq5",
@@ -32029,6 +33134,94 @@
     "primarySource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten"
   },
   {
+    "id": "org-rijssen-holten-3aa4do",
+    "organization": "Rijssen-Holten",
+    "municipalities": [
+      "Rijssen-Holten"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/werk-en-inkomen/bijstand/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-11",
+        "title": "bijzondere bijstand",
+        "name": "Rijssen-Holten · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Rijssen-Holten",
+        "municipalities": [
+          "Rijssen-Holten"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Rijssen-Holten"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Rijssen-Holten met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/werk-en-inkomen/bijstand/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Rijssen-Holten",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Schild 1",
+        "postcode": "7461DD",
+        "town": "Rijssen",
+        "lat": 52.3073607,
+        "lon": 6.52203914,
+        "locationType": "source-address",
+        "locationSource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/werk-en-inkomen/bijstand/",
+        "locationMunicipality": "Rijssen-Holten",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Schild 1",
+      "postcode": "7461DD",
+      "town": "Rijssen",
+      "lat": 52.3073607,
+      "lon": 6.52203914,
+      "locationMunicipality": "Rijssen-Holten",
+      "locationType": "source-address",
+      "locationSource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/werk-en-inkomen/bijstand/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/werk-en-inkomen/bijstand/"
+  },
+  {
     "id": "org-ruilwinkel-ruillokaal-almelo-kawtuf",
     "organization": "Ruilwinkel & Ruillokaal Almelo",
     "municipalities": [
@@ -33575,6 +34768,92 @@
     },
     "status": "source-backed",
     "primarySource": "https://salut-welzijn.nl/onderwerpen/buren-en-buurt"
+  },
+  {
+    "id": "org-salut-hof-van-twente-259533",
+    "organization": "Salut Hof van Twente",
+    "municipalities": [
+      "Hof van Twente"
+    ],
+    "categories": [
+      "ouderen"
+    ],
+    "sources": [
+      "https://salut-welzijn.nl/onderwerpen/ouder-worden/preventief-huisbezoek-soek/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-regiopraktisch-4",
+        "title": "SOEK preventieve huisbezoeken",
+        "name": "Salut Hof van Twente · SOEK preventieve huisbezoeken",
+        "description": "Getrainde vrijwilligers bezoeken senioren van 78 jaar en ouder om hun zelfstandigheid, welzijn en ondersteuningsbehoefte te bespreken.",
+        "municipality": "Hof van Twente",
+        "municipalities": [
+          "Hof van Twente"
+        ],
+        "category": "ouderen",
+        "themes": [
+          "ouderen"
+        ],
+        "subthemes": [
+          "senioren",
+          "preventief huisbezoek"
+        ],
+        "tags": [
+          "senioren",
+          "preventief huisbezoek",
+          "vrijwilligers"
+        ],
+        "guidePaths": [
+          "ouderen/ondersteuning"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+        "costs": "Controleer bij de organisatie.",
+        "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://salut-welzijn.nl/onderwerpen/ouder-worden/preventief-huisbezoek-soek/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Salut Hof van Twente",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Grotestraat 86",
+        "postcode": "7471BR",
+        "town": "Goor",
+        "lat": 52.23293368,
+        "lon": 6.58569353,
+        "locationType": "source-address",
+        "locationSource": "https://salut-welzijn.nl/onderwerpen/ouder-worden/preventief-huisbezoek-soek/",
+        "locationMunicipality": "Hof van Twente",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationType": "source-address",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/ouder-worden/preventief-huisbezoek-soek/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://salut-welzijn.nl/onderwerpen/ouder-worden/preventief-huisbezoek-soek/"
   },
   {
     "id": "org-schakel-tubbergen-e4kkrm",
@@ -41352,6 +42631,94 @@
     "primarySource": "https://sociaalhus.nl/publicaties/583/ontmoeten-met-programma"
   },
   {
+    "id": "org-tubbergen-1jiuuhd",
+    "organization": "Tubbergen",
+    "municipalities": [
+      "Tubbergen"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.tubbergen.nl/minima-regelingen-en-bijzondere-bijstand"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-12",
+        "title": "bijzondere bijstand",
+        "name": "Tubbergen · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Tubbergen",
+        "municipalities": [
+          "Tubbergen"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Tubbergen"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Tubbergen met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.tubbergen.nl/minima-regelingen-en-bijzondere-bijstand",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Tubbergen",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Raadhuisplein 1",
+        "postcode": "7651CV",
+        "town": "Tubbergen",
+        "lat": 52.40820915,
+        "lon": 6.78068999,
+        "locationType": "source-address",
+        "locationSource": "https://www.tubbergen.nl/minima-regelingen-en-bijzondere-bijstand",
+        "locationMunicipality": "Tubbergen",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Raadhuisplein 1",
+      "postcode": "7651CV",
+      "town": "Tubbergen",
+      "lat": 52.40820915,
+      "lon": 6.78068999,
+      "locationMunicipality": "Tubbergen",
+      "locationType": "source-address",
+      "locationSource": "https://www.tubbergen.nl/minima-regelingen-en-bijzondere-bijstand",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.tubbergen.nl/minima-regelingen-en-bijzondere-bijstand"
+  },
+  {
     "id": "org-tubbergen-verbindt-1baipa5",
     "organization": "Tubbergen Verbindt",
     "municipalities": [
@@ -41439,6 +42806,199 @@
     },
     "status": "source-backed",
     "primarySource": "https://swtd.nl/agenda/"
+  },
+  {
+    "id": "org-twenterand-18bw057",
+    "organization": "Twenterand",
+    "municipalities": [
+      "Twenterand"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.twenterand.nl/bijzondere-bijstand",
+      "https://www.twenterand.nl/bereken-uw-recht"
+    ],
+    "offerCount": 3,
+    "reviewNeeded": 0,
+    "sourceBacked": 3,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-lokaal-financieel-4",
+        "title": "Bereken uw recht",
+        "name": "Twenterand · Bereken uw recht",
+        "description": "Gratis, anonieme controle op mogelijke gemeentelijke vergoedingen zoals minimaregelingen en bijzondere bijstand.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen"
+        ],
+        "tags": [
+          "regelingen",
+          "financiële hulp",
+          "Twenterand"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer voorwaarden bij aanbieder.",
+        "access": "Zelf online uitzoeken; berekening is geen beschikking.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.twenterand.nl/bereken-uw-recht",
+        "sourceKind": "first-party",
+        "sourceTitle": "Twenterand",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Manitobaplein 1",
+        "postcode": "7671GS",
+        "town": "Vriezenveen",
+        "lat": 52.40876601,
+        "lon": 6.62460489,
+        "locationType": "source-address",
+        "locationSource": "https://www.twenterand.nl/bereken-uw-recht",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261008-bijzondere-bijstand-13",
+        "title": "bijzondere bijstand",
+        "name": "Twenterand · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Twenterand"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Twenterand met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.twenterand.nl/bijzondere-bijstand",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Twenterand",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Manitobaplein 1",
+        "postcode": "7671GS",
+        "town": "Vriezenveen",
+        "lat": 52.40876601,
+        "lon": 6.62460489,
+        "locationType": "source-address",
+        "locationSource": "https://www.twenterand.nl/bereken-uw-recht",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261008-lokaal-financieel-1",
+        "title": "Stichting Urgente Noden (SUN)",
+        "name": "Twenterand · Stichting Urgente Noden (SUN)",
+        "description": "Een financieel noodfonds waar onder voorwaarden via een intermediair een aanvraag mogelijk is als andere regelingen geen oplossing bieden.",
+        "municipality": "Twenterand",
+        "municipalities": [
+          "Twenterand"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "noodhulp"
+        ],
+        "tags": [
+          "noodhulp",
+          "financiële hulp",
+          "Twenterand"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Controleer voorwaarden bij aanbieder.",
+        "access": "Via een professionele intermediair na beoordeling van andere mogelijkheden.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.twenterand.nl/bijzondere-bijstand",
+        "sourceKind": "first-party",
+        "sourceTitle": "Twenterand",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Manitobaplein 1",
+        "postcode": "7671GS",
+        "town": "Vriezenveen",
+        "lat": 52.40876601,
+        "lon": 6.62460489,
+        "locationType": "source-address",
+        "locationSource": "https://www.twenterand.nl/bereken-uw-recht",
+        "locationMunicipality": "Twenterand",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Manitobaplein 1",
+      "postcode": "7671GS",
+      "town": "Vriezenveen",
+      "lat": 52.40876601,
+      "lon": 6.62460489,
+      "locationMunicipality": "Twenterand",
+      "locationType": "source-address",
+      "locationSource": "https://www.twenterand.nl/bereken-uw-recht",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.twenterand.nl/bijzondere-bijstand"
   },
   {
     "id": "org-twents-fonds-voor-vakmanschap-1gt820z",
@@ -41710,6 +43270,201 @@
     "location": null,
     "status": "source-backed",
     "primarySource": "https://www.verjaardagsboxtubbergen.nl/"
+  },
+  {
+    "id": "org-viavie-rijssen-holten-1bgwisi",
+    "organization": "ViaVie Rijssen-Holten",
+    "municipalities": [
+      "Rijssen-Holten"
+    ],
+    "categories": [
+      "basis",
+      "meedoen"
+    ],
+    "sources": [
+      "https://viaviewelzijn.nl/",
+      "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "https://viaviewelzijn.nl/team/"
+    ],
+    "offerCount": 3,
+    "reviewNeeded": 0,
+    "sourceBacked": 3,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-regiopraktisch-7",
+        "title": "boodschappenhulp en taalcoaches",
+        "name": "ViaVie Rijssen-Holten · boodschappenhulp en taalcoaches",
+        "description": "Vrijwilligers ondersteunen onder andere ouderen met boodschappen en anderstaligen als taalcoach; vraag naar de beschikbaarheid.",
+        "municipality": "Rijssen-Holten",
+        "municipalities": [
+          "Rijssen-Holten"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "boodschappenhulp",
+          "taalcoach"
+        ],
+        "tags": [
+          "boodschappenhulp",
+          "taalcoach",
+          "vrijwilligers"
+        ],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+        "costs": "Controleer bij de organisatie.",
+        "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://viaviewelzijn.nl/team/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ViaVie Rijssen-Holten",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Smidsbelt 6",
+        "postcode": "7451BL",
+        "town": "Holten",
+        "lat": 52.28131306,
+        "lon": 6.42165509,
+        "locationType": "contact",
+        "locationSource": "https://viaviewelzijn.nl/contact/",
+        "locationMunicipality": "Rijssen-Holten",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261008-regiopraktisch-6",
+        "title": "dagvoorziening zonder indicatie",
+        "name": "ViaVie Rijssen-Holten · dagvoorziening zonder indicatie",
+        "description": "Activiteiten en daginvulling in Rijssen en Holten voor inwoners die lichamelijk zelfstandig kunnen deelnemen; informeer naar toegang en eventuele bijdrage.",
+        "municipality": "Rijssen-Holten",
+        "municipalities": [
+          "Rijssen-Holten"
+        ],
+        "category": "meedoen",
+        "themes": [
+          "meedoen"
+        ],
+        "subthemes": [
+          "daginvulling",
+          "ontmoeting"
+        ],
+        "tags": [
+          "daginvulling",
+          "ontmoeting",
+          "mantelzorgontlasting"
+        ],
+        "guidePaths": [
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+        "costs": "Controleer bij de organisatie.",
+        "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://viaviewelzijn.nl/ontmoeten-doen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ViaVie Rijssen-Holten",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Smidsbelt 6",
+        "postcode": "7451BL",
+        "town": "Holten",
+        "lat": 52.28131306,
+        "lon": 6.42165509,
+        "locationType": "contact",
+        "locationSource": "https://viaviewelzijn.nl/contact/",
+        "locationMunicipality": "Rijssen-Holten",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261008-regiopraktisch-5",
+        "title": "tijdelijke thuisadministratie en klushulp",
+        "name": "ViaVie Rijssen-Holten · tijdelijke thuisadministratie en klushulp",
+        "description": "Welzijnsorganisatie biedt tijdelijke administratieondersteuning en bemiddeling bij praktische klushulp; vraag naar de passende dienst.",
+        "municipality": "Rijssen-Holten",
+        "municipalities": [
+          "Rijssen-Holten"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [
+          "thuisadministratie",
+          "klushulp"
+        ],
+        "tags": [
+          "thuisadministratie",
+          "klushulp",
+          "vrijwilligers"
+        ],
+        "guidePaths": [
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+        "costs": "Controleer bij de organisatie.",
+        "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://viaviewelzijn.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "ViaVie Rijssen-Holten",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Smidsbelt 6",
+        "postcode": "7451BL",
+        "town": "Holten",
+        "lat": 52.28131306,
+        "lon": 6.42165509,
+        "locationType": "contact",
+        "locationSource": "https://viaviewelzijn.nl/contact/",
+        "locationMunicipality": "Rijssen-Holten",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Smidsbelt 6",
+      "postcode": "7451BL",
+      "town": "Holten",
+      "lat": 52.28131306,
+      "lon": 6.42165509,
+      "locationMunicipality": "Rijssen-Holten",
+      "locationType": "contact",
+      "locationSource": "https://viaviewelzijn.nl/contact/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://viaviewelzijn.nl/"
   },
   {
     "id": "org-viavie-welzijn-gwvlmg",
@@ -44415,6 +46170,94 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.werkcentrumtwente.nl/contact/"
+  },
+  {
+    "id": "org-wierden-mgfoel",
+    "organization": "Wierden",
+    "municipalities": [
+      "Wierden"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://www.wierden.nl/bijzondere-bijstand"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-08",
+    "offers": [
+      {
+        "id": "extra-20261008-bijzondere-bijstand-14",
+        "title": "bijzondere bijstand",
+        "name": "Wierden · bijzondere bijstand",
+        "description": "Gemeentelijke financiële ondersteuning voor noodzakelijke bijzondere kosten die een inwoner niet zelf kan dragen en die niet elders worden vergoed. Voorwaarden en aanvraagmoment verschillen per gemeente.",
+        "municipality": "Wierden",
+        "municipalities": [
+          "Wierden"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [
+          "regelingen",
+          "bestaanszekerheid"
+        ],
+        "tags": [
+          "bijzondere bijstand",
+          "onverwachte noodzakelijke kosten",
+          "minima",
+          "gemeentelijke ondersteuning",
+          "Wierden"
+        ],
+        "guidePaths": [
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Wierden met onvoldoende draagkracht voor bepaalde bijzondere kosten.",
+        "costs": "Geen kosten voor de aanvraag.",
+        "access": "Aanvragen bij de uitvoerende gemeente; lees de specifieke voorwaarden en aanvraagprocedure op de bronpagina.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.wierden.nl/bijzondere-bijstand",
+        "sourceKind": "first-party",
+        "sourceTitle": "Gemeente Wierden",
+        "checked": "2026-10-08",
+        "reviewStatus": "source-backed",
+        "address": "Pouliestraat 2",
+        "postcode": "7642EB",
+        "town": "Wierden",
+        "lat": 52.35644776,
+        "lon": 6.59291828,
+        "locationType": "source-address",
+        "locationSource": "https://www.wierden.nl/bijzondere-bijstand",
+        "locationMunicipality": "Wierden",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Pouliestraat 2",
+      "postcode": "7642EB",
+      "town": "Wierden",
+      "lat": 52.35644776,
+      "lon": 6.59291828,
+      "locationMunicipality": "Wierden",
+      "locationType": "source-address",
+      "locationSource": "https://www.wierden.nl/bijzondere-bijstand",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.wierden.nl/bijzondere-bijstand"
   },
   {
     "id": "org-wierden-met-mekaar-1wdap34",

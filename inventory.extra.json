@@ -17522,7 +17522,7 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
+      "mapLocationType": "address",
       "activities": [
         {
           "name": "Bibliotheek Hengelo Stad",
@@ -17546,7 +17546,17 @@
         }
       ],
       "activitiesNote": "Daarnaast zijn er MUP's op meerdere scholen voor de eigen leerlingen.",
-      "activitiesSource": "https://www.hengelo.nl/bestanden/documenten/Gemeentenieuws/2025/2025-39-Gemeentenieuws_web.pdf"
+      "activitiesSource": "https://www.hengelo.nl/bestanden/documenten/Gemeentenieuws/2025/2025-39-Gemeentenieuws_web.pdf",
+      "address": "Backenhagenlaan 168",
+      "postcode": "7557KE",
+      "town": "Hengelo",
+      "lat": 52.2739065,
+      "lon": 6.80582738,
+      "locationMunicipality": "Hengelo (O)",
+      "locationType": "source-address",
+      "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "sourceKind": "first-party",
@@ -18276,8 +18286,17 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "visiting",
+      "address": "Hofkampstraat 96",
+      "postcode": "7607NJ",
+      "town": "Almelo",
+      "lat": 52.35318077,
+      "lon": 6.67014332,
+      "locationMunicipality": "Almelo",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-bijzondere-bijstand-2",
@@ -18358,8 +18377,17 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Nicolaasplein 5",
+      "postcode": "7591MA",
+      "town": "Denekamp",
+      "lat": 52.37409066,
+      "lon": 7.00516737,
+      "locationMunicipality": "Dinkelland",
+      "locationSource": "https://www.dinkelland.nl/minima-regelingen-en-bijzondere-bijstand",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-bijzondere-bijstand-4",
@@ -18399,8 +18427,17 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "service",
+      "address": "Jacob Roggeveenstraat 33",
+      "postcode": "7534CD",
+      "town": "Enschede",
+      "lat": 52.21420756,
+      "lon": 6.9723338,
+      "locationMunicipality": "Enschede",
+      "locationSource": "https://www.alifa.nl/media/files/69789e837940aSeniorenwijzer2026_compressed.pdf",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-bijzondere-bijstand-5",
@@ -18441,7 +18478,16 @@
       ],
       "mapPin": false,
       "mapLocationType": "service-area",
-      "locationType": "remote"
+      "locationType": "contact",
+      "address": "Burgemeester van der Dussenplein 1-s302",
+      "postcode": "7551EB",
+      "town": "Hengelo",
+      "lat": 52.2659015,
+      "lon": 6.79178677,
+      "locationMunicipality": "Hengelo (O)",
+      "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/Beheer/Footer/Contact-en-openingstijden.html",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-bijzondere-bijstand-6",
@@ -18481,8 +18527,17 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "contact",
+      "address": "Beethovenlaan 200",
+      "postcode": "7442HH",
+      "town": "Nijverdal",
+      "lat": 52.35497999,
+      "lon": 6.48301301,
+      "locationMunicipality": "Hellendoorn",
+      "locationSource": "https://www.hellendoorn.nl/contact/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-bijzondere-bijstand-7",
@@ -18522,8 +18577,17 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Backenhagenlaan 168",
+      "postcode": "7557KE",
+      "town": "Hengelo",
+      "lat": 52.2739065,
+      "lon": 6.80582738,
+      "locationMunicipality": "Hengelo (O)",
+      "locationSource": "https://www.hengelo.nl/Welkom-in-Hengelo/GPDC-Producten-catalogus-1/_Burger/Bijzondere-bijstand.html",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-bijzondere-bijstand-8",
@@ -18563,8 +18627,17 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "de Höfte 7",
+      "postcode": "7471DK",
+      "town": "Goor",
+      "lat": 52.23325359,
+      "lon": 6.58497345,
+      "locationMunicipality": "Hof van Twente",
+      "locationSource": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/bijzondere-bijstand/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-bijzondere-bijstand-9",
@@ -18686,8 +18759,17 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Schild 1",
+      "postcode": "7461DD",
+      "town": "Rijssen",
+      "lat": 52.3073607,
+      "lon": 6.52203914,
+      "locationMunicipality": "Rijssen-Holten",
+      "locationSource": "https://www.rijssen-holten.nl/direct-regelen/sociaal-vraagplein/werk-en-inkomen/bijstand/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-bijzondere-bijstand-12",
@@ -18727,8 +18809,17 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Raadhuisplein 1",
+      "postcode": "7651CV",
+      "town": "Tubbergen",
+      "lat": 52.40820915,
+      "lon": 6.78068999,
+      "locationMunicipality": "Tubbergen",
+      "locationSource": "https://www.tubbergen.nl/minima-regelingen-en-bijzondere-bijstand",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-bijzondere-bijstand-13",
@@ -18768,8 +18859,17 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Manitobaplein 1",
+      "postcode": "7671GS",
+      "town": "Vriezenveen",
+      "lat": 52.40876601,
+      "lon": 6.62460489,
+      "locationMunicipality": "Twenterand",
+      "locationSource": "https://www.twenterand.nl/bereken-uw-recht",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-bijzondere-bijstand-14",
@@ -18809,8 +18909,17 @@
         "geld/regelingen"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Pouliestraat 2",
+      "postcode": "7642EB",
+      "town": "Wierden",
+      "lat": 52.35644776,
+      "lon": 6.59291828,
+      "locationMunicipality": "Wierden",
+      "locationSource": "https://www.wierden.nl/bijzondere-bijstand",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-lokaal-financieel-1",
@@ -18846,8 +18955,17 @@
       ],
       "costs": "Controleer voorwaarden bij aanbieder.",
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Manitobaplein 1",
+      "postcode": "7671GS",
+      "town": "Vriezenveen",
+      "lat": 52.40876601,
+      "lon": 6.62460489,
+      "locationMunicipality": "Twenterand",
+      "locationSource": "https://www.twenterand.nl/bereken-uw-recht",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-lokaal-financieel-2",
@@ -18957,8 +19075,17 @@
       ],
       "costs": "Controleer voorwaarden bij aanbieder.",
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Manitobaplein 1",
+      "postcode": "7671GS",
+      "town": "Vriezenveen",
+      "lat": 52.40876601,
+      "lon": 6.62460489,
+      "locationMunicipality": "Twenterand",
+      "locationSource": "https://www.twenterand.nl/bereken-uw-recht",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-regiopraktisch-1",
@@ -18999,8 +19126,17 @@
         "welzijn/herstel"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Constantijnstraat 32a",
+      "postcode": "7442ME",
+      "town": "Nijverdal",
+      "lat": 52.36352638,
+      "lon": 6.46142506,
+      "locationMunicipality": "Hellendoorn",
+      "locationSource": "https://evenmens.nl/dienst/mantelzorg-ondersteuning/ggz/evenmaatje/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-regiopraktisch-2",
@@ -19038,8 +19174,17 @@
         "welzijn/mantelzorg"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Pouliestraat 3",
+      "postcode": "7642EB",
+      "town": "Wierden",
+      "lat": 52.35567108,
+      "lon": 6.59284021,
+      "locationMunicipality": "Wierden",
+      "locationSource": "https://www.socialekaartwierden.nl/is/organisatie/220517/invis2/evenmens-wierden",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-regiopraktisch-3",
@@ -19077,8 +19222,17 @@
         "welzijn/mantelzorg"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Constantijnstraat 32a",
+      "postcode": "7442ME",
+      "town": "Nijverdal",
+      "lat": 52.36352638,
+      "lon": 6.46142506,
+      "locationMunicipality": "Hellendoorn",
+      "locationSource": "https://evenmens.nl/werkgebied/hellendoorn/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-regiopraktisch-4",
@@ -19116,8 +19270,17 @@
         "ouderen/ondersteuning"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "source-address",
+      "address": "Grotestraat 86",
+      "postcode": "7471BR",
+      "town": "Goor",
+      "lat": 52.23293368,
+      "lon": 6.58569353,
+      "locationMunicipality": "Hof van Twente",
+      "locationSource": "https://salut-welzijn.nl/onderwerpen/ouder-worden/preventief-huisbezoek-soek/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-regiopraktisch-5",
@@ -19155,8 +19318,17 @@
         "basis/praktisch"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "contact",
+      "address": "Smidsbelt 6",
+      "postcode": "7451BL",
+      "town": "Holten",
+      "lat": 52.28131306,
+      "lon": 6.42165509,
+      "locationMunicipality": "Rijssen-Holten",
+      "locationSource": "https://viaviewelzijn.nl/contact/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-regiopraktisch-6",
@@ -19194,8 +19366,17 @@
         "meedoen/daginvulling"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "contact",
+      "address": "Smidsbelt 6",
+      "postcode": "7451BL",
+      "town": "Holten",
+      "lat": 52.28131306,
+      "lon": 6.42165509,
+      "locationMunicipality": "Rijssen-Holten",
+      "locationSource": "https://viaviewelzijn.nl/contact/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-regiopraktisch-7",
@@ -19233,8 +19414,17 @@
         "basis/praktisch"
       ],
       "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapLocationType": "address",
+      "locationType": "contact",
+      "address": "Smidsbelt 6",
+      "postcode": "7451BL",
+      "town": "Holten",
+      "lat": 52.28131306,
+      "lon": 6.42165509,
+      "locationMunicipality": "Rijssen-Holten",
+      "locationSource": "https://viaviewelzijn.nl/contact/",
+      "locationInheritedFromGroup": true,
+      "addressChecked": "2026-10-08"
     }
   ],
   "addressEnrichmentVersion": 1,
