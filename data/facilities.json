@@ -12003,6 +12003,63 @@
     "catalogOfferId": "extra-20261002-hof-gemeenschapscentrum-de-pol-bentelo"
   },
   {
+    "id": "offer-extra-20261008-socialebasis-01",
+    "name": "Stadsbank Oost Nederland · schuldhulp en budgetbeheer",
+    "category": "geld",
+    "address": "Spelbergsweg 35",
+    "postcode": "7512DX",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
+      "Rijssen-Holten",
+      "Tubbergen",
+      "Twenterand",
+      "Wierden"
+    ],
+    "lat": 52.21537437,
+    "lon": 6.89763602,
+    "source": "https://stadsbankoostnederland.nl/",
+    "checked": "2026-10-08",
+    "tags": [
+      "schulden",
+      "budgetbeheer",
+      "stadsbank",
+      "schuldhulp"
+    ],
+    "subthemes": [
+      "schulden",
+      "budgetbeheer"
+    ],
+    "guidePaths": [
+      "geld/schulden",
+      "geld/regelingen"
+    ],
+    "guideExclude": false,
+    "description": "Schuldhulpverlening, budgetbeheer en financiële ondersteuning. Het bevestigde kantoor is in Enschede; dit betekent niet dat in iedere gemeente een bezoekvestiging van Stadsbank aanwezig is.",
+    "audience": "",
+    "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
+    "access": "Contact of aanmelding via gemeente of Stadsbank. Een bezoek aan het kantoor in Enschede is op afspraak; dienstverlening en aanmeldroute verschillen per gemeente.",
+    "openingHours": "",
+    "phone": "088 766 36 66",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://organisaties.overheid.nl/24961722/Stadsbank_Oost_Nederland",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-stadsbank-oost-nederland-yoxd8u",
+    "catalogOfferId": "extra-20261008-socialebasis-01"
+  },
+  {
     "id": "offer-extra-20261003-hof-stadscentrum-parochiehuis-delden",
     "name": "Stadscentrum het Parochiehuis · Delden",
     "category": "ontmoeten",

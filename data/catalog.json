@@ -12818,7 +12818,8 @@
           "informele zorg"
         ],
         "guidePaths": [
-          "welzijn/herstel"
+          "mentaal/welzijn",
+          "mentaal/eenzaamheid"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -12904,7 +12905,8 @@
           "zorgvrijwilliger"
         ],
         "guidePaths": [
-          "welzijn/mantelzorg"
+          "zorg/mantelzorg",
+          "meedoen/vrijwillig"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -13040,7 +13042,8 @@
           "jonge mantelzorger"
         ],
         "guidePaths": [
-          "welzijn/mantelzorg"
+          "zorg/mantelzorg",
+          "meedoen/vrijwillig"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -18780,7 +18783,8 @@
           "lichte hulpvragen"
         ],
         "guidePaths": [
-          "basis/praktisch"
+          "ontmoeten/inloop",
+          "wonen/dakloos"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -18888,7 +18892,8 @@
           "lichte hulpvragen"
         ],
         "guidePaths": [
-          "basis/praktisch"
+          "ontmoeten/inloop",
+          "wonen/dakloos"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -19278,7 +19283,9 @@
           "budgethulp"
         ],
         "guidePaths": [
-          "geld/schulden"
+          "geld/schulden",
+          "geld/formulieren",
+          "onderwijs/jongeren"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -19755,6 +19762,7 @@
           "geldzorgen"
         ],
         "guidePaths": [
+          "geld/formulieren",
           "geld/schulden"
         ],
         "guideExclude": false,
@@ -25230,7 +25238,8 @@
           "ontmoeting"
         ],
         "guidePaths": [
-          "ontmoeten/inloop"
+          "ontmoeten/inloop",
+          "ontmoeten/samen"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -34810,7 +34819,7 @@
           "vrijwilligers"
         ],
         "guidePaths": [
-          "ouderen/ondersteuning"
+          "basis/praktisch"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -38996,7 +39005,7 @@
         "id": "extra-20261008-socialebasis-01",
         "title": "schuldhulp en budgetbeheer",
         "name": "Stadsbank Oost Nederland · schuldhulp en budgetbeheer",
-        "description": "Schuldhulpverlening, budgetbeheer en andere financiële ondersteuning. Toegang en rol van de gemeente verschillen per gemeente; controleer de aanmeldroute.",
+        "description": "Schuldhulpverlening, budgetbeheer en financiële ondersteuning. Het bevestigde kantoor is in Enschede; dit betekent niet dat in iedere gemeente een bezoekvestiging van Stadsbank aanwezig is.",
         "municipality": "Almelo",
         "municipalities": [
           "Almelo",
@@ -39029,7 +39038,8 @@
           "schuldhulp"
         ],
         "guidePaths": [
-          "geld/schulden"
+          "geld/schulden",
+          "geld/regelingen"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -39039,28 +39049,38 @@
         "activitiesUpdated": "",
         "audience": "",
         "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
-        "access": "Via gemeente of Stadsbank; niet automatisch vrij toegankelijk.",
+        "access": "Contact of aanmelding via gemeente of Stadsbank. Een bezoek aan het kantoor in Enschede is op afspraak; dienstverlening en aanmeldroute verschillen per gemeente.",
         "openingHours": "",
-        "phone": "",
+        "phone": "088 766 36 66",
         "email": "",
         "source": "https://stadsbankoostnederland.nl/",
         "sourceKind": "first-party",
         "sourceTitle": "Stadsbank Oost Nederland",
         "checked": "2026-10-08",
         "reviewStatus": "source-backed",
-        "address": "",
-        "postcode": "",
-        "town": "",
-        "lat": null,
-        "lon": null,
-        "locationType": "remote",
-        "locationSource": "",
-        "locationMunicipality": "",
-        "mapLocationType": "service-area",
-        "mapPin": false
+        "address": "Spelbergsweg 35",
+        "postcode": "7512DX",
+        "town": "Enschede",
+        "lat": 52.21537437,
+        "lon": 6.89763602,
+        "locationType": "visiting",
+        "locationSource": "https://organisaties.overheid.nl/24961722/Stadsbank_Oost_Nederland",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
       }
     ],
-    "location": null,
+    "location": {
+      "address": "Spelbergsweg 35",
+      "postcode": "7512DX",
+      "town": "Enschede",
+      "lat": 52.21537437,
+      "lon": 6.89763602,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://organisaties.overheid.nl/24961722/Stadsbank_Oost_Nederland",
+      "mapLocationType": "address"
+    },
     "status": "source-backed",
     "primarySource": "https://stadsbankoostnederland.nl/"
   },
@@ -41272,7 +41292,8 @@
           "praktische hulp"
         ],
         "guidePaths": [
-          "basis/praktisch"
+          "basis/praktisch",
+          "meedoen/vrijwillig"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -43315,7 +43336,9 @@
           "vrijwilligers"
         ],
         "guidePaths": [
-          "basis/praktisch"
+          "basis/praktisch",
+          "taal/nederlands",
+          "migratie/taal"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -43421,7 +43444,8 @@
           "vrijwilligers"
         ],
         "guidePaths": [
-          "basis/praktisch"
+          "basis/praktisch",
+          "geld/formulieren"
         ],
         "guideExclude": false,
         "activityOnly": false,

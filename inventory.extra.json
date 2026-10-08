@@ -17776,11 +17776,14 @@
       "mapLocationType": "address",
       "locationType": "visiting",
       "address": "Spelbergsweg 35",
-      "postcode": "7512 DX",
+      "postcode": "7512DX",
       "town": "Enschede",
       "locationMunicipality": "Enschede",
       "locationSource": "https://organisaties.overheid.nl/24961722/Stadsbank_Oost_Nederland",
-      "phone": "088 766 36 66"
+      "phone": "088 766 36 66",
+      "lat": 52.21537437,
+      "lon": 6.89763602,
+      "addressChecked": "2026-10-08"
     },
     {
       "id": "extra-20261008-socialebasis-02",
