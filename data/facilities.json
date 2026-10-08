@@ -12944,7 +12944,10 @@
     "subthemes": [
       "voorliggend"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "taal/nederlands",
+      "migratie/taal"
+    ],
     "guideExclude": false,
     "description": "Terugkerend taalcafé om Nederlands spreken in een ontspannen sfeer te oefenen.",
     "audience": "Inwoners van Rijssen-Holten; doelgroep verschilt per activiteit.",
@@ -13035,7 +13038,8 @@
     ],
     "guidePaths": [
       "taal/nederlands",
-      "ontmoeten/inloop"
+      "ontmoeten/inloop",
+      "migratie/taal"
     ],
     "guideExclude": false,
     "description": "Laagdrempelig Taalcafé in Rijssen-Zuid om samen Nederlands te oefenen en anderen te ontmoeten.",
@@ -13934,7 +13938,8 @@
       "lotgenotencontact"
     ],
     "guidePaths": [
-      "zorg/mantelzorg"
+      "zorg/mantelzorg",
+      "ontmoeten/inloop"
     ],
     "guideExclude": false,
     "description": "Maandelijks ontmoetings- en informatiemoment voor mantelzorgers.",

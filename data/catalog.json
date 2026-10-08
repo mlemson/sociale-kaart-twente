@@ -29407,7 +29407,8 @@
           "dementie"
         ],
         "guidePaths": [
-          "taal/nederlands"
+          "taal/nederlands",
+          "migratie/taal"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -44298,7 +44299,10 @@
           "dagbesteding",
           "daginvulling"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "taal/nederlands",
+          "migratie/taal"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],
@@ -44464,7 +44468,8 @@
         ],
         "guidePaths": [
           "taal/nederlands",
-          "ontmoeten/inloop"
+          "ontmoeten/inloop",
+          "migratie/taal"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -48062,7 +48067,8 @@
           "lotgenoten"
         ],
         "guidePaths": [
-          "zorg/mantelzorg"
+          "zorg/mantelzorg",
+          "ontmoeten/inloop"
         ],
         "guideExclude": false,
         "activityOnly": false,
