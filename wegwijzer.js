@@ -37,6 +37,78 @@
   let searchTimer = 0;
   let detailMaps = [];
 
+  // Alleen echte adressen gebruiken. Bij meerdere adressen gaat een locatie in
+  // de gekozen gemeente vóór een willekeurig centraal kantoor elders.
+  const municipalityCenters = {
+    "Almelo":[52.3566,6.6635], "Borne":[52.3015,6.7485],
+    "Dinkelland":[52.3787,7.0082], "Enschede":[52.2215,6.8937],
+    "Haaksbergen":[52.1565,6.7395], "Hellendoorn":[52.3602,6.4682],
+    "Hengelo":[52.2658,6.7930], "Hof van Twente":[52.2323,6.5862],
+    "Losser":[52.2593,7.0070], "Oldenzaal":[52.3135,6.9303],
+    "Rijssen-Holten":[52.3080,6.5187], "Tubbergen":[52.4072,6.7844],
+    "Twenterand":[52.4084,6.6242], "Wierden":[52.3593,6.5927]
+  };
+  const municipalityTowns = {
+    "Dinkelland":["denekamp","ootmarsum","weerselo"],
+    "Hellendoorn":["nijverdal"], "Hof van Twente":["goor","delden","markelo","diepenheim"],
+    "Rijssen-Holten":["rijssen","holten"],
+    "Twenterand":["vriezenveen","vroomshoop","den ham","westerhaar"],
+    "Wierden":["enter"], "Tubbergen":["geesteren","albergen"]
+  };
+  function siteIsUsable(item) {
+    return Boolean(item && item.address && item.town &&
+      Number.isFinite(item.lat) && Number.isFinite(item.lon) &&
+      item.mapLocationType !== "service-area");
+  }
+  function siteInMunicipality(item, area) {
+    if (!area) return true;
+    if (item.locationMunicipality) return norm(item.locationMunicipality) === norm(area);
+    return norm(item.town) === norm(area) ||
+      (municipalityTowns[area] || []).some(town => norm(town) === norm(item.town));
+  }
+  function resolveLocation(record) {
+    const chosen = municipality();
+    const own = (record.siteCandidates || []).filter(siteIsUsable).map(item => ({
+      ...item, _sourceRank: item.physicalLocation ||
+        (item.mapPin && ["visiting","service","existing"].includes(item.locationType)) ? 0 : 1,
+      _kind: item.physicalLocation ||
+        (item.mapPin && ["visiting","service","existing"].includes(item.locationType))
+        ? "physical" : "contact"
+    }));
+    const organizationSites = (record.organizationSites || []).filter(siteIsUsable).map(item => ({
+      ...item, _sourceRank:2, _kind:"organization"
+    }));
+    const unique = new Map();
+    for (const item of [...own,...organizationSites]) {
+      const key = norm([item.address,item.postcode,item.town].join("|"));
+      if (!unique.has(key) || unique.get(key)._sourceRank > item._sourceRank) unique.set(key,item);
+    }
+    const center = municipalityCenters[chosen];
+    const distance = item => !center ? 0 :
+      ((item.lat-center[0])*111)**2 + ((item.lon-center[1])*68)**2;
+    const sites = [...unique.values()].sort((a,b) => {
+      const localA = chosen && !siteInMunicipality(a,chosen) ? 1 : 0;
+      const localB = chosen && !siteInMunicipality(b,chosen) ? 1 : 0;
+      return localA-localB || a._sourceRank-b._sourceRank ||
+        distance(a)-distance(b);
+    });
+    if (!sites.length) return {...record,detailMapType:""};
+    const site = sites[0];
+    return {
+      ...record,
+      address:site.address, postcode:site.postcode || "", town:site.town,
+      lat:site.lat, lon:site.lon,
+      locationMunicipality:site.locationMunicipality || site.town,
+      locationType:site._kind === "organization" ? "contact" : site.locationType,
+      detailMapType:site._kind,
+      displayLocationNote:site._kind === "organization"
+        ? "Locatie van de organisatie; dit is niet noodzakelijk de uitvoeringsplek van deze dienst."
+        : chosen && !siteInMunicipality(site,chosen)
+          ? "Geen bevestigde locatie in " + chosen + " bekend; deze locatie ligt elders."
+          : ""
+    };
+  }
+
   function setupTheme() {
     const button = document.querySelector(".scheme-toggle");
     if (!button) return;
@@ -287,11 +359,15 @@
   function miniMapHtml(record, index) {
     if (!hasLocationMap(record)) return "";
     const address = [record.address, record.postcode, record.town].filter(Boolean).join(", ");
-    const label = record.detailMapType === "physical" ? "Locatie" : "Contactlocatie";
+    const label = record.detailMapType === "physical" ? "Bezoeklocatie" : record.detailMapType === "organization" ? "Locatie organisatie" : "Contactadres";
     return '<aside class="guide-offer-map" aria-label="' + esc(label + " van " + (record.title || record.organization)) + '">' +
       '<div class="guide-mini-map" data-guide-map="' + index + '"></div>' +
       '<div class="guide-mini-map-caption"><strong>' + esc(label) + '</strong><span>' + esc(address || record.town || "") + '</span>' +
-      '<a href="index.html?gemeente=' + encodeURIComponent(record.locationMunicipality || (record.municipalities || [])[0] || "") + '">Open grote kaart</a></div>' +
+      (record.displayLocationNote ? '<span class="guide-map-note">' + esc(record.displayLocationNote) + '</span>' : "") +
+      '<a href="https://www.openstreetmap.org/?mlat=' + encodeURIComponent(record.lat) +
+      '&mlon=' + encodeURIComponent(record.lon) + '#map=16/' +
+      encodeURIComponent(record.lat) + '/' + encodeURIComponent(record.lon) +
+      '" target="_blank" rel="noopener noreferrer">Bekijk op grote kaart</a></div>' +
       '</aside>';
   }
 
@@ -352,11 +428,12 @@
     const parts = [];
     const title = record.title || record.organization || "Voorziening";
     if (record.organization && norm(record.organization) !== norm(title)) parts.push(record.organization);
-    const areas = uniq([
-      record.town,
-      ...(record.municipalities || []).filter(area => area !== "Twente")
-    ]).filter(Boolean).slice(0, 3);
-    if (areas.length) parts.push(areas.join(", "));
+    const area = municipality();
+    const areas = uniq((record.municipalities || []).filter(a => a !== "Twente"));
+    if (area && inMunicipality(record)) parts.push(area);
+    else if (areas.length >= 10) parts.push("Heel Twente");
+    else if (areas.length) parts.push(areas.slice(0,3).join(", ") + (areas.length > 3 ? " e.a." : ""));
+    else if (record.town) parts.push(record.town);
     return parts;
   }
 
@@ -451,8 +528,9 @@
   function renderOfferDetail(record, contextNode, backToSearch, returnHref = "") {
     if (!record) return;
     const results = byId("guide-results");
-    const title = record.title || record.organization || "Voorziening";
-    const meta = offerMeta(record);
+    const selectedRecord = resolveLocation(record);
+    const title = selectedRecord.title || selectedRecord.organization || "Voorziening";
+    const meta = offerMeta(selectedRecord);
     byId("guide-grid").hidden = true;
     results.hidden = false;
     byId("guide-heading").textContent = title;
@@ -463,8 +541,8 @@
     const backLabel = returnHref ? "← Terug naar sociale kaart" : "← Terug naar resultaten";
     results.innerHTML =
       '<div class="guide-detail-toolbar"><button class="guide-back guide-result-back" id="guide-offer-back" type="button">' + esc(backLabel) + '</button></div>' +
-      '<div class="guide-detail-list">' + offerDetailCard(record, 0) + "</div>";
-    initMiniMaps([record]);
+      '<div class="guide-detail-list">' + offerDetailCard(selectedRecord, 0) + "</div>";
+    initMiniMaps([selectedRecord]);
 
     byId("guide-offer-back").addEventListener("click", () => {
       if (returnHref) {
