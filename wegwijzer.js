@@ -862,6 +862,14 @@
       } else {
         enriched.detailMapType = "";
       }
+      // Sommige oudere bronregels kregen hun coördinaten via een bevestigd
+      // kaartpunt op exact hetzelfde adres. Gebruik ook die voor het contactkaartje.
+      if (siteIsUsable(enriched) &&
+          !(enriched.siteCandidates || []).some(site =>
+            siteIsUsable(site) && norm([site.address,site.town].join("|")) ===
+              norm([enriched.address,enriched.town].join("|")))) {
+        enriched.siteCandidates = [...(enriched.siteCandidates || []), enriched];
+      }
       return {...enriched,
         organizationSites: organizationSiteIndex.get(enriched.catalogOrganizationId) || [],
         _text: recordText(enriched)
