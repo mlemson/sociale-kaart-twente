@@ -17762,18 +17762,25 @@
         "stadsbank",
         "schuldhulp"
       ],
-      "description": "Schuldhulpverlening, budgetbeheer en andere financiële ondersteuning. Toegang en rol van de gemeente verschillen per gemeente; controleer de aanmeldroute.",
-      "access": "Via gemeente of Stadsbank; niet automatisch vrij toegankelijk.",
+      "description": "Schuldhulpverlening, budgetbeheer en financiële ondersteuning. Het bevestigde kantoor is in Enschede; dit betekent niet dat in iedere gemeente een bezoekvestiging van Stadsbank aanwezig is.",
+      "access": "Contact of aanmelding via gemeente of Stadsbank. Een bezoek aan het kantoor in Enschede is op afspraak; dienstverlening en aanmeldroute verschillen per gemeente.",
       "accessStatus": "source-check",
       "scope": "Laagdrempelige maatschappelijke ondersteuning of financiële toegang; niet per definitie vrij toegankelijk",
       "status": "candidate",
       "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
       "guidePaths": [
-        "geld/schulden"
+        "geld/schulden",
+        "geld/regelingen"
       ],
-      "mapPin": false,
-      "mapLocationType": "service-area",
-      "locationType": "remote"
+      "mapPin": true,
+      "mapLocationType": "address",
+      "locationType": "visiting",
+      "address": "Spelbergsweg 35",
+      "postcode": "7512 DX",
+      "town": "Enschede",
+      "locationMunicipality": "Enschede",
+      "locationSource": "https://organisaties.overheid.nl/24961722/Stadsbank_Oost_Nederland",
+      "phone": "088 766 36 66"
     },
     {
       "id": "extra-20261008-socialebasis-02",
@@ -17942,7 +17949,8 @@
       "status": "candidate",
       "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
       "guidePaths": [
-        "ontmoeten/inloop"
+        "ontmoeten/inloop",
+        "ontmoeten/samen"
       ],
       "mapPin": false,
       "mapLocationType": "address",
@@ -17990,7 +17998,8 @@
       "status": "candidate",
       "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
       "guidePaths": [
-        "basis/praktisch"
+        "ontmoeten/inloop",
+        "wonen/dakloos"
       ],
       "mapPin": false,
       "mapLocationType": "address",
@@ -18037,7 +18046,8 @@
       "status": "candidate",
       "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
       "guidePaths": [
-        "basis/praktisch"
+        "ontmoeten/inloop",
+        "wonen/dakloos"
       ],
       "mapPin": false,
       "mapLocationType": "address",
@@ -18085,7 +18095,8 @@
       "status": "candidate",
       "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
       "guidePaths": [
-        "basis/praktisch"
+        "basis/praktisch",
+        "meedoen/vrijwillig"
       ],
       "mapPin": false,
       "mapLocationType": "service-area",
@@ -18183,7 +18194,9 @@
       "status": "candidate",
       "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
       "guidePaths": [
-        "geld/schulden"
+        "geld/schulden",
+        "geld/formulieren",
+        "onderwijs/jongeren"
       ],
       "mapPin": false,
       "mapLocationType": "address",
@@ -18233,6 +18246,7 @@
       "status": "candidate",
       "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
       "guidePaths": [
+        "geld/formulieren",
         "geld/schulden"
       ],
       "mapPin": false,
@@ -19123,7 +19137,8 @@
       "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
       "status": "candidate",
       "guidePaths": [
-        "welzijn/herstel"
+        "mentaal/welzijn",
+        "mentaal/eenzaamheid"
       ],
       "mapPin": false,
       "mapLocationType": "address",
@@ -19171,7 +19186,8 @@
       "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
       "status": "candidate",
       "guidePaths": [
-        "welzijn/mantelzorg"
+        "zorg/mantelzorg",
+        "meedoen/vrijwillig"
       ],
       "mapPin": false,
       "mapLocationType": "address",
@@ -19219,7 +19235,8 @@
       "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
       "status": "candidate",
       "guidePaths": [
-        "welzijn/mantelzorg"
+        "zorg/mantelzorg",
+        "meedoen/vrijwillig"
       ],
       "mapPin": false,
       "mapLocationType": "address",
@@ -19267,7 +19284,7 @@
       "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
       "status": "candidate",
       "guidePaths": [
-        "ouderen/ondersteuning"
+        "basis/praktisch"
       ],
       "mapPin": false,
       "mapLocationType": "address",
@@ -19315,7 +19332,8 @@
       "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
       "status": "candidate",
       "guidePaths": [
-        "basis/praktisch"
+        "basis/praktisch",
+        "geld/formulieren"
       ],
       "mapPin": false,
       "mapLocationType": "address",
@@ -19411,7 +19429,9 @@
       "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
       "status": "candidate",
       "guidePaths": [
-        "basis/praktisch"
+        "basis/praktisch",
+        "taal/nederlands",
+        "migratie/taal"
       ],
       "mapPin": false,
       "mapLocationType": "address",
