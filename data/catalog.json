@@ -5837,7 +5837,9 @@
           "gratis",
           "digitaal"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "taal/digitaal"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],
@@ -6666,7 +6668,9 @@
           "gratis",
           "computerspreekuur"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "taal/digitaal"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],
@@ -21239,7 +21243,8 @@
           "praktische hulp"
         ],
         "guidePaths": [
-          "basis/praktisch"
+          "basis/praktisch",
+          "ontmoeten/inloop"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -35074,7 +35079,10 @@
           "geld",
           "geldzorgen"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/schulden",
+          "geld/formulieren"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],
@@ -44397,7 +44405,10 @@
         "tags": [
           "taal"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "taal/nederlands",
+          "migratie/taal"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],
@@ -54430,7 +54441,9 @@
           "DigiD",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/formulieren"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],
@@ -54482,7 +54495,9 @@
           "DigiD",
           "inloop"
         ],
-        "guidePaths": [],
+        "guidePaths": [
+          "geld/formulieren"
+        ],
         "guideExclude": false,
         "activityOnly": false,
         "activities": [],

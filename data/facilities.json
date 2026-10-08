@@ -3535,7 +3535,9 @@
     "subthemes": [
       "digitaal"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "taal/digitaal"
+    ],
     "guideExclude": false,
     "description": "Gratis hulp bij vragen over laptop, tablet, telefoon en internet.",
     "audience": "Inwoners die taal- of digitale vaardigheden willen oefenen.",
@@ -14928,7 +14930,9 @@
       "formulieren",
       "DigiD"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "geld/formulieren"
+    ],
     "guideExclude": false,
     "description": "Inloopspreekuur voor hulp bij formulieren en online zaken.",
     "audience": "Inwoners van Twenterand.",
@@ -14969,7 +14973,9 @@
       "formulieren",
       "DigiD"
     ],
-    "guidePaths": [],
+    "guidePaths": [
+      "geld/formulieren"
+    ],
     "guideExclude": false,
     "description": "Inloopspreekuur voor hulp bij formulieren en online zaken.",
     "audience": "Inwoners van Twenterand.",
