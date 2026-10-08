@@ -655,6 +655,7 @@
     const list = [];
     const catalogById = new Map((catalog || []).filter(group => group && group.id).map(group => [group.id, group]));
     const physicalAddressIndex = new Map();
+    const organizationSiteIndex = new Map();
     const addressKey = item => norm([item.address, item.town].filter(Boolean).join("|"));
     (facilities || []).forEach(facility => {
       if (
@@ -666,6 +667,12 @@
         facility.town
       ) {
         physicalAddressIndex.set(addressKey(facility), facility);
+      }
+      if (facility.catalogOrganizationId && facility.physicalLocation === true &&
+          siteIsUsable(facility)) {
+        const key = facility.catalogOrganizationId;
+        if (!organizationSiteIndex.has(key)) organizationSiteIndex.set(key,[]);
+        organizationSiteIndex.get(key).push(facility);
       }
     });
 
@@ -694,6 +701,7 @@
           locationType: offer.locationType || "",
           mapLocationType: offer.mapLocationType || "",
           physicalLocation: offer.physicalLocation === true,
+          mapPin: offer.mapPin === true,
           lat: Number.isFinite(offer.lat) ? offer.lat : null,
           lon: Number.isFinite(offer.lon) ? offer.lon : null,
           source: offer.source || group.primarySource || (group.sources || [])[0] || "",
@@ -750,6 +758,7 @@
         locationType: facility.locationType || "",
         mapLocationType: facility.mapLocationType || "",
         physicalLocation: facility.physicalLocation === true,
+        mapPin: facility.physicalLocation === true,
         lat: Number.isFinite(facility.lat) ? facility.lat : null,
         lon: Number.isFinite(facility.lon) ? facility.lon : null,
         source: facility.source || "",
@@ -777,6 +786,7 @@
       if (!merged.has(key)) {
         merged.set(key, {
           ...record,
+          siteCandidates:[record],
           municipalities: uniq(record.municipalities),
           themes: uniq(record.themes),
           subthemes: uniq(record.subthemes),
@@ -790,6 +800,7 @@
         return;
       }
       const current = merged.get(key);
+      current.siteCandidates.push(record);
       current.municipalities = uniq([...(current.municipalities || []), ...(record.municipalities || [])]);
       current.themes = uniq([...(current.themes || []), ...(record.themes || [])]);
       current.subthemes = uniq([...(current.subthemes || []), ...(record.subthemes || [])]);
@@ -851,7 +862,10 @@
       } else {
         enriched.detailMapType = "";
       }
-      return {...enriched, _text: recordText(enriched)};
+      return {...enriched,
+        organizationSites: organizationSiteIndex.get(enriched.catalogOrganizationId) || [],
+        _text: recordText(enriched)
+      };
     });
   }
 
