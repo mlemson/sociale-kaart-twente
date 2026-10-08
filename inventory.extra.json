@@ -1083,6 +1083,51 @@
       "municipalities": [
         "Wierden"
       ]
+    },
+    {
+      "title": "Evenmens",
+      "url": "https://evenmens.nl/dienst/mantelzorg-ondersteuning/ggz/evenmaatje/",
+      "municipalities": [
+        "Wierden",
+        "Hellendoorn",
+        "Rijssen-Holten",
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "Evenmens Wierden",
+      "url": "https://evenmens.nl/werkgebied/wierden/",
+      "municipalities": [
+        "Wierden"
+      ]
+    },
+    {
+      "title": "Evenmens Hellendoorn",
+      "url": "https://evenmens.nl/werkgebied/hellendoorn/",
+      "municipalities": [
+        "Hellendoorn"
+      ]
+    },
+    {
+      "title": "Salut Hof van Twente",
+      "url": "https://salut-welzijn.nl/onderwerpen/ouder-worden/preventief-huisbezoek-soek/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "ViaVie Rijssen-Holten",
+      "url": "https://viaviewelzijn.nl/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "ViaVie Rijssen-Holten",
+      "url": "https://viaviewelzijn.nl/team/",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
     }
   ],
   "candidates": [
@@ -18911,6 +18956,282 @@
         "geld/regelingen"
       ],
       "costs": "Controleer voorwaarden bij aanbieder.",
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-regiopraktisch-1",
+      "name": "Evenmens · EvenMaatje bij psychische kwetsbaarheid",
+      "source": "https://evenmens.nl/dienst/mantelzorg-ondersteuning/ggz/evenmaatje/",
+      "sourceTitle": "Evenmens",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Wierden",
+        "Hellendoorn",
+        "Rijssen-Holten",
+        "Twenterand"
+      ],
+      "municipality": "Wierden",
+      "category": "welzijn",
+      "primaryTheme": "welzijn",
+      "themes": [
+        "welzijn"
+      ],
+      "subthemes": [
+        "maatje",
+        "psychische kwetsbaarheid"
+      ],
+      "tags": [
+        "maatje",
+        "psychische kwetsbaarheid",
+        "informele zorg"
+      ],
+      "description": "Vrijwillige steun en contact voor inwoners met psychische kwetsbaarheid, via matching door Evenmens.",
+      "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+      "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+      "costs": "Controleer bij de organisatie.",
+      "accessStatus": "source-check",
+      "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
+      "status": "candidate",
+      "guidePaths": [
+        "welzijn/herstel"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-regiopraktisch-2",
+      "name": "Evenmens Wierden · mantelzorg en zorgvrijwilligers",
+      "source": "https://evenmens.nl/werkgebied/wierden/",
+      "sourceTitle": "Evenmens Wierden",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "welzijn",
+      "primaryTheme": "welzijn",
+      "themes": [
+        "welzijn"
+      ],
+      "subthemes": [
+        "mantelzorg",
+        "zorgvrijwilliger"
+      ],
+      "tags": [
+        "mantelzorg",
+        "zorgvrijwilliger",
+        "jonge mantelzorger"
+      ],
+      "description": "Ondersteuning voor mantelzorgers en jonge mantelzorgers en inzet van zorgvrijwilligers of maatjes.",
+      "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+      "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+      "costs": "Controleer bij de organisatie.",
+      "accessStatus": "source-check",
+      "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
+      "status": "candidate",
+      "guidePaths": [
+        "welzijn/mantelzorg"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-regiopraktisch-3",
+      "name": "Evenmens Hellendoorn · jonge mantelzorgers en zorgvrijwilligers",
+      "source": "https://evenmens.nl/werkgebied/hellendoorn/",
+      "sourceTitle": "Evenmens Hellendoorn",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "welzijn",
+      "primaryTheme": "welzijn",
+      "themes": [
+        "welzijn"
+      ],
+      "subthemes": [
+        "mantelzorg",
+        "rouw"
+      ],
+      "tags": [
+        "mantelzorg",
+        "rouw",
+        "zorgvrijwilliger"
+      ],
+      "description": "Hulp voor mantelzorgers, ondersteuning voor jongeren, inzet van vrijwilligers en ondersteuning bij rouw of dementie.",
+      "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+      "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+      "costs": "Controleer bij de organisatie.",
+      "accessStatus": "source-check",
+      "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
+      "status": "candidate",
+      "guidePaths": [
+        "welzijn/mantelzorg"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-regiopraktisch-4",
+      "name": "Salut Hof van Twente · SOEK preventieve huisbezoeken",
+      "source": "https://salut-welzijn.nl/onderwerpen/ouder-worden/preventief-huisbezoek-soek/",
+      "sourceTitle": "Salut Hof van Twente",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "ouderen",
+      "primaryTheme": "ouderen",
+      "themes": [
+        "ouderen"
+      ],
+      "subthemes": [
+        "senioren",
+        "preventief huisbezoek"
+      ],
+      "tags": [
+        "senioren",
+        "preventief huisbezoek",
+        "vrijwilligers"
+      ],
+      "description": "Getrainde vrijwilligers bezoeken senioren van 78 jaar en ouder om hun zelfstandigheid, welzijn en ondersteuningsbehoefte te bespreken.",
+      "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+      "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+      "costs": "Controleer bij de organisatie.",
+      "accessStatus": "source-check",
+      "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
+      "status": "candidate",
+      "guidePaths": [
+        "ouderen/ondersteuning"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-regiopraktisch-5",
+      "name": "ViaVie Rijssen-Holten · tijdelijke thuisadministratie en klushulp",
+      "source": "https://viaviewelzijn.nl/",
+      "sourceTitle": "ViaVie Rijssen-Holten",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis"
+      ],
+      "subthemes": [
+        "thuisadministratie",
+        "klushulp"
+      ],
+      "tags": [
+        "thuisadministratie",
+        "klushulp",
+        "vrijwilligers"
+      ],
+      "description": "Welzijnsorganisatie biedt tijdelijke administratieondersteuning en bemiddeling bij praktische klushulp; vraag naar de passende dienst.",
+      "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+      "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+      "costs": "Controleer bij de organisatie.",
+      "accessStatus": "source-check",
+      "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
+      "status": "candidate",
+      "guidePaths": [
+        "basis/praktisch"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-regiopraktisch-6",
+      "name": "ViaVie Rijssen-Holten · dagvoorziening zonder indicatie",
+      "source": "https://viaviewelzijn.nl/ontmoeten-doen/",
+      "sourceTitle": "ViaVie Rijssen-Holten",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "meedoen",
+      "primaryTheme": "meedoen",
+      "themes": [
+        "meedoen"
+      ],
+      "subthemes": [
+        "daginvulling",
+        "ontmoeting"
+      ],
+      "tags": [
+        "daginvulling",
+        "ontmoeting",
+        "mantelzorgontlasting"
+      ],
+      "description": "Activiteiten en daginvulling in Rijssen en Holten voor inwoners die lichamelijk zelfstandig kunnen deelnemen; informeer naar toegang en eventuele bijdrage.",
+      "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+      "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+      "costs": "Controleer bij de organisatie.",
+      "accessStatus": "source-check",
+      "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
+      "status": "candidate",
+      "guidePaths": [
+        "meedoen/daginvulling"
+      ],
+      "mapPin": false,
+      "mapLocationType": "service-area",
+      "locationType": "remote"
+    },
+    {
+      "id": "extra-20261008-regiopraktisch-7",
+      "name": "ViaVie Rijssen-Holten · boodschappenhulp en taalcoaches",
+      "source": "https://viaviewelzijn.nl/team/",
+      "sourceTitle": "ViaVie Rijssen-Holten",
+      "sourceKind": "first-party",
+      "checked": "2026-10-08",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis"
+      ],
+      "subthemes": [
+        "boodschappenhulp",
+        "taalcoach"
+      ],
+      "tags": [
+        "boodschappenhulp",
+        "taalcoach",
+        "vrijwilligers"
+      ],
+      "description": "Vrijwilligers ondersteunen onder andere ouderen met boodschappen en anderstaligen als taalcoach; vraag naar de beschikbaarheid.",
+      "audience": "Inwoners van het vermelde werkgebied die ondersteuning kunnen gebruiken.",
+      "access": "Neem contact op met de organisatie voor beschikbaarheid, deelname en eventuele toelating.",
+      "costs": "Controleer bij de organisatie.",
+      "accessStatus": "source-check",
+      "scope": "Vrijwillige of preventieve ondersteuning; bereik en deelname controleren",
+      "status": "candidate",
+      "guidePaths": [
+        "basis/praktisch"
+      ],
       "mapPin": false,
       "mapLocationType": "service-area",
       "locationType": "remote"
