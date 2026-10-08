@@ -406,6 +406,20 @@ html[data-color-scheme="dark"] .guide-root-view .guide-note{border-top-color:#3a
   text-decoration:none;
   white-space:nowrap;
 }
+.guide-mini-map-caption .guide-map-note{
+  color:#75606c;
+  background:#f8f5f3;
+  border-left:3px solid #b5a0a9;
+  padding:7px 9px;
+  border-radius:4px;
+  font-size:11px;
+  line-height:1.45;
+}
+html[data-color-scheme="dark"] .guide-mini-map-caption .guide-map-note{
+  background:#302b31;
+  color:#d4c7d0;
+  border-left-color:#ba9eae;
+}
 .guide-mini-map-caption a:hover{text-decoration:underline;text-underline-offset:3px}
 .guide-mini-map .leaflet-control-attribution{
   font-size:8px;
