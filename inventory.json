@@ -20351,19 +20351,21 @@
       "access": "Inloop/inschrijving bij Taalpunt Almelo.",
       "costs": "Taalondersteuning via vrijwilligers is laagdrempelig.",
       "address": "Het Baken 3",
-      "postcode": "7607 AA",
+      "postcode": "7607AA",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://www.avedan.nl/activiteit/taalpunt-almelo/",
       "mapPin": true,
       "locationMunicipality": "Almelo",
       "mapLocationType": "address",
-      "addressChecked": "",
+      "addressChecked": "2026-10-08",
       "guidePaths": [
         "taal/nederlands",
         "taal/basis"
       ],
-      "locationInheritedFromGroup": false
+      "locationInheritedFromGroup": false,
+      "lat": 52.35745328,
+      "lon": 6.66163647
     },
     {
       "sourceKind": "first-party",
@@ -20400,15 +20402,17 @@
       "access": "Rechtstreeks aanmelden bij Join Us/Avedan.",
       "costs": "Gratis.",
       "address": "Jan Tooropstraat 27",
-      "postcode": "7606 JS",
+      "postcode": "7606JS",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://www.avedan.nl/activiteit/joinus/",
       "mapPin": true,
       "locationMunicipality": "Almelo",
       "mapLocationType": "address",
-      "addressChecked": "",
-      "locationInheritedFromGroup": false
+      "addressChecked": "2026-10-08",
+      "locationInheritedFromGroup": false,
+      "lat": 52.34258922,
+      "lon": 6.64264109
     },
     {
       "sourceKind": "first-party",
@@ -20676,15 +20680,17 @@
       "access": "Vrije inloop.",
       "costs": "Gratis.",
       "address": "Binnenhof 51",
-      "postcode": "7608 KH",
+      "postcode": "7608KH",
       "town": "Almelo",
       "locationType": "visiting",
       "locationSource": "https://www.avedan.nl/activiteit/voor-bijna-al-uw-vragen-de-inloop-schelfhorst/",
       "mapPin": true,
       "locationMunicipality": "Almelo",
       "mapLocationType": "address",
-      "addressChecked": "",
-      "locationInheritedFromGroup": false
+      "addressChecked": "2026-10-08",
+      "locationInheritedFromGroup": false,
+      "lat": 52.37901596,
+      "lon": 6.67665057
     },
     {
       "sourceKind": "first-party",
@@ -21449,15 +21455,17 @@
       "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
       "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
       "address": "Vondellaan 12",
-      "postcode": "",
+      "postcode": "7576AC",
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
       "mapPin": true,
       "locationMunicipality": "Oldenzaal",
       "mapLocationType": "address",
-      "addressChecked": "",
-      "locationInheritedFromGroup": false
+      "addressChecked": "2026-10-08",
+      "locationInheritedFromGroup": false,
+      "lat": 52.31169866,
+      "lon": 6.91194275
     },
     {
       "sourceKind": "first-party",
@@ -21493,15 +21501,17 @@
       "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
       "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
       "address": "Burgemeester Wallerstraat 115",
-      "postcode": "7574 AL",
+      "postcode": "7574AL",
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
       "mapPin": true,
       "locationMunicipality": "Oldenzaal",
       "mapLocationType": "address",
-      "addressChecked": "",
-      "locationInheritedFromGroup": false
+      "addressChecked": "2026-10-08",
+      "locationInheritedFromGroup": false,
+      "lat": 52.3016685,
+      "lon": 6.93500986
     },
     {
       "sourceKind": "first-party",
@@ -21537,15 +21547,17 @@
       "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
       "costs": "Laagdrempelig; controleer eventuele bijdrage.",
       "address": "In den Vijfhoek 75",
-      "postcode": "",
+      "postcode": "7571DV",
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/taalpunt/",
       "mapPin": true,
       "locationMunicipality": "Oldenzaal",
       "mapLocationType": "address",
-      "addressChecked": "",
-      "locationInheritedFromGroup": false
+      "addressChecked": "2026-10-08",
+      "locationInheritedFromGroup": false,
+      "lat": 52.31261419,
+      "lon": 6.92691476
     },
     {
       "sourceKind": "first-party",
@@ -21581,15 +21593,17 @@
       "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
       "costs": "Laagdrempelig; controleer eventuele bijdrage.",
       "address": "Burgemeester Wallerstraat 115",
-      "postcode": "7574 AL",
+      "postcode": "7574AL",
       "town": "Oldenzaal",
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/iedere-werkdag-koffie-inloop-stakenboer/",
       "mapPin": true,
       "locationMunicipality": "Oldenzaal",
       "mapLocationType": "address",
-      "addressChecked": "",
-      "locationInheritedFromGroup": false
+      "addressChecked": "2026-10-08",
+      "locationInheritedFromGroup": false,
+      "lat": 52.3016685,
+      "lon": 6.93500986
     },
     {
       "sourceKind": "first-party",
@@ -21919,18 +21933,20 @@
       "access": "Zonder afspraak binnenlopen op de aangegeven spreekuren.",
       "costs": "Gratis hulp.",
       "address": "Manitobaplein 1",
-      "postcode": "",
+      "postcode": "7671GS",
       "town": "Vriezenveen",
       "locationType": "visiting",
       "locationSource": "https://www.zorgsaamtwenterand.nl/advies-en-ondersteuning/hulp-bij-formulieren/",
       "mapPin": true,
       "locationMunicipality": "Twenterand",
       "mapLocationType": "address",
-      "addressChecked": "",
+      "addressChecked": "2026-10-08",
       "guidePaths": [
         "geld/formulieren"
       ],
-      "locationInheritedFromGroup": false
+      "locationInheritedFromGroup": false,
+      "lat": 52.40876601,
+      "lon": 6.62460489
     },
     {
       "sourceKind": "first-party",
@@ -21965,7 +21981,7 @@
       "audience": "Inwoners van Twenterand.",
       "access": "Zonder afspraak binnenlopen op de aangegeven spreekuren.",
       "costs": "Gratis hulp.",
-      "address": "Oranjeplein 7H",
+      "address": "Oranjeplein 5-traf",
       "postcode": "",
       "town": "Vroomshoop",
       "locationType": "visiting",
@@ -21973,11 +21989,13 @@
       "mapPin": true,
       "locationMunicipality": "Twenterand",
       "mapLocationType": "address",
-      "addressChecked": "",
+      "addressChecked": "2026-10-08",
       "guidePaths": [
         "geld/formulieren"
       ],
-      "locationInheritedFromGroup": false
+      "locationInheritedFromGroup": false,
+      "lat": 52.45799455,
+      "lon": 6.56749662
     },
     {
       "sourceKind": "first-party",

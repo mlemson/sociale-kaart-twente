@@ -7206,11 +7206,13 @@
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
       "mapPin": true,
-      "postcode": "",
+      "postcode": "7576AC",
       "locationMunicipality": "Oldenzaal",
       "mapLocationType": "address",
-      "addressChecked": "",
-      "locationInheritedFromGroup": false
+      "addressChecked": "2026-10-08",
+      "locationInheritedFromGroup": false,
+      "lat": 52.31169866,
+      "lon": 6.91194275
     },
     {
       "sourceKind": "first-party",
@@ -7254,11 +7256,13 @@
       "locationType": "visiting",
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
       "mapPin": true,
-      "postcode": "7574 AL",
+      "postcode": "7574AL",
       "locationMunicipality": "Oldenzaal",
       "mapLocationType": "address",
-      "addressChecked": "",
-      "locationInheritedFromGroup": false
+      "addressChecked": "2026-10-08",
+      "locationInheritedFromGroup": false,
+      "lat": 52.3016685,
+      "lon": 6.93500986
     },
     {
       "sourceKind": "first-party",
