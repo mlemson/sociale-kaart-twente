@@ -7933,6 +7933,67 @@
     "catalogOfferId": "candidate-729433f217b2a499"
   },
   {
+    "id": "offer-extra-20261020-jados-autismespreekuur-ut",
+    "name": "Jados · Autismespreekuur Universiteit Twente (UT)",
+    "category": "mentaal",
+    "address": "De Veldmaat 5",
+    "postcode": "7522NM",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.24330963,
+    "lon": 6.8534823,
+    "source": "https://www.utwente.nl/nl/sgw/begeleiding-door-professionals/",
+    "checked": "2026-10-20",
+    "tags": [
+      "jados",
+      "autisme",
+      "ASS",
+      "neurodiversiteit",
+      "UT",
+      "universiteit twente",
+      "studenten",
+      "studie",
+      "plannen",
+      "structuur",
+      "sociale contacten",
+      "spreekuur",
+      "inloop",
+      "levensvragen",
+      "advies",
+      "zonder indicatie"
+    ],
+    "subthemes": [
+      "autisme",
+      "neurodiversiteit",
+      "studeren",
+      "studenten",
+      "zelfstandig functioneren",
+      "spreekuur"
+    ],
+    "guidePaths": [
+      "mentaal/welzijn",
+      "onderwijs/school/studie",
+      "zorg/clientsteun"
+    ],
+    "guideExclude": false,
+    "description": "Tweewekelijkse autismespreekuren door begeleiders van Jados in de Vrijhof op de Universiteit Twente. Kortdurende hulp bij studieplanning, deadlines, structureren van dagelijkse activiteiten, sociale contacten en vragen over autisme; eventueel advies over vervolghulp. Dit is specifiek het UT-spreekuur, niet Jados' reguliere geïndiceerde ambulante begeleiding.",
+    "audience": "Studenten aan de Universiteit Twente met autisme of vragen over autisme. Geen algemene autismesteun-inloop voor alle inwoners van Enschede.",
+    "costs": "Geen afzonderlijke kosten vermeld voor het UT-spreekuur; vraag zo nodig bij Student Guidance & Well-Being na.",
+    "access": "Donderdag in oneven weken: individuele afspraak 09.00–12.30 uur via Student Guidance & Well-Being (053 489 2035) of de balie bij Vrijhof kamer 316. Voor korte vragen is daarnaast een vrije inloop in de middag; UT-pagina's noemen verschillende tijden, dus controleer het actuele tijdstip.",
+    "openingHours": "Donderdag in oneven weken 09.00–12.30 uur op afspraak; korte inloopmiddag volgens actuele UT-informatie.",
+    "phone": "053 489 2035",
+    "email": "sacc@utwente.nl",
+    "locationType": "visiting",
+    "locationSource": "https://www.utwente.nl/nl/sgw/begeleiding-door-professionals/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-jados-1eof34q",
+    "catalogOfferId": "extra-20261020-jados-autismespreekuur-ut"
+  },
+  {
     "id": "offer-extra-20261002-hengelo-cerberus",
     "name": "Jongerencentrum Cerberus · jongerenontmoeting",
     "category": "jeugd",

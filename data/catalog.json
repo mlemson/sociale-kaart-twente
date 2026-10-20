@@ -24034,6 +24034,115 @@
     "primarySource": "https://www.ixtanoa.nl/regio-enschede-en-hengelo/"
   },
   {
+    "id": "org-jados-1eof34q",
+    "organization": "Jados",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "mentaal",
+      "jeugd",
+      "advies"
+    ],
+    "sources": [
+      "https://www.utwente.nl/nl/sgw/begeleiding-door-professionals/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-jados-autismespreekuur-ut",
+        "title": "Autismespreekuur Universiteit Twente (UT)",
+        "name": "Jados · Autismespreekuur Universiteit Twente (UT)",
+        "description": "Tweewekelijkse autismespreekuren door begeleiders van Jados in de Vrijhof op de Universiteit Twente. Kortdurende hulp bij studieplanning, deadlines, structureren van dagelijkse activiteiten, sociale contacten en vragen over autisme; eventueel advies over vervolghulp. Dit is specifiek het UT-spreekuur, niet Jados' reguliere geïndiceerde ambulante begeleiding.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal",
+          "jeugd",
+          "advies"
+        ],
+        "subthemes": [
+          "autisme",
+          "neurodiversiteit",
+          "studeren",
+          "studenten",
+          "zelfstandig functioneren",
+          "spreekuur"
+        ],
+        "tags": [
+          "jados",
+          "autisme",
+          "ASS",
+          "neurodiversiteit",
+          "UT",
+          "universiteit twente",
+          "studenten",
+          "studie",
+          "plannen",
+          "structuur",
+          "sociale contacten",
+          "spreekuur",
+          "inloop",
+          "levensvragen",
+          "advies",
+          "zonder indicatie"
+        ],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "onderwijs/school/studie",
+          "zorg/clientsteun"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Studenten aan de Universiteit Twente met autisme of vragen over autisme. Geen algemene autismesteun-inloop voor alle inwoners van Enschede.",
+        "costs": "Geen afzonderlijke kosten vermeld voor het UT-spreekuur; vraag zo nodig bij Student Guidance & Well-Being na.",
+        "access": "Donderdag in oneven weken: individuele afspraak 09.00–12.30 uur via Student Guidance & Well-Being (053 489 2035) of de balie bij Vrijhof kamer 316. Voor korte vragen is daarnaast een vrije inloop in de middag; UT-pagina's noemen verschillende tijden, dus controleer het actuele tijdstip.",
+        "openingHours": "Donderdag in oneven weken 09.00–12.30 uur op afspraak; korte inloopmiddag volgens actuele UT-informatie.",
+        "phone": "053 489 2035",
+        "email": "sacc@utwente.nl",
+        "source": "https://www.utwente.nl/nl/sgw/begeleiding-door-professionals/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Universiteit Twente – Student Guidance & Well-Being",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "De Veldmaat 5",
+        "postcode": "7522NM",
+        "town": "Enschede",
+        "lat": 52.24330963,
+        "lon": 6.8534823,
+        "locationType": "visiting",
+        "locationSource": "https://www.utwente.nl/nl/sgw/begeleiding-door-professionals/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "De Veldmaat 5",
+      "postcode": "7522NM",
+      "town": "Enschede",
+      "lat": 52.24330963,
+      "lon": 6.8534823,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.utwente.nl/nl/sgw/begeleiding-door-professionals/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.utwente.nl/nl/sgw/begeleiding-door-professionals/"
+  },
+  {
     "id": "org-jeugd-sport-en-cultuurfonds-wierden-cky59o",
     "organization": "Jeugd Sport- en Cultuurfonds Wierden",
     "municipalities": [

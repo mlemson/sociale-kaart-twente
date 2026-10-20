@@ -21036,12 +21036,16 @@
       "phone": "053 489 2035",
       "email": "sacc@utwente.nl",
       "address": "De Veldmaat 5",
-      "postcode": "7522 NM",
+      "postcode": "7522NM",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.utwente.nl/nl/sgw/begeleiding-door-professionals/",
       "mapPin": true,
-      "locationMunicipality": "Enschede"
+      "locationMunicipality": "Enschede",
+      "lat": 52.24330963,
+      "lon": 6.8534823,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     }
   ],
   "addressEnrichmentVersion": 1,
