@@ -199,6 +199,8 @@ function chooseMunicipality(name) {
         u.searchParams.set('gemeente', name);
     else
         u.searchParams.delete('gemeente');
+    // Wisselen van gemeente sluit een eventueel eerder geopend kaartpunt.
+    u.searchParams.delete('locatie');
     updateAddressBar(u);
     fitSelection();
     render();
@@ -408,10 +410,12 @@ function showLocation(id, pan=false) {
     if (!state.municipality && defaultMunicipality) {
         state.municipality = defaultMunicipality;
         $('municipality').value = defaultMunicipality;
-        const u = new URL(location.href);
-        u.searchParams.set('gemeente', defaultMunicipality);
-        updateAddressBar(u);
     }
+    // Een fysieke voorziening moet rechtstreeks via een deelbare kaartlink te openen zijn.
+    const siteUrl = new URL(location.href);
+    if (defaultMunicipality) siteUrl.searchParams.set('gemeente', defaultMunicipality);
+    siteUrl.searchParams.set('locatie', id);
+    updateAddressBar(siteUrl);
     state.selected = id;
     render();
     const d = $('detail');
@@ -587,17 +591,23 @@ function renderMarkers() {
     filtered.filter(p => Number.isFinite(p.lat) && Number.isFinite(p.lon)).forEach(p => {
         const coords = markerCoords(p);
         const pt = map.latLngToLayerPoint(coords);
-        let g = groups.find(g => g.point.distanceTo(pt) < 38);
+        // Bij direct openen of aanklikken moet de geselecteerde voorziening
+        // zijn eigen marker behouden, ook op een adres met meerdere diensten.
+        const selected = p.id === state.selected;
+        let g = selected ? null : groups.find(g => !g.selected && g.point.distanceTo(pt) < 38);
         if (!g) {
             g = {
                 point: pt,
-                items: []
+                items: [],
+                selected
             };
             groups.push(g);
         }
         g.items.push(p);
     }
     );
+    // De geselecteerde marker als laatste toevoegen zodat hij zichtbaar voorop ligt.
+    groups.sort((a, b) => Number(a.selected) - Number(b.selected));
     groups.forEach(g => {
         const items = g.items;
         if (items.length === 1) {
@@ -755,6 +765,12 @@ async function init() {
         }
         ).observe($('map'));
         chooseMunicipality(names.includes(initialParams.get('gemeente')) ? initialParams.get('gemeente') : '');
+        // Rechtstreekse links naar één van de fysieke voorzieningen op de kaart.
+        const requestedLocation = initialParams.get('locatie');
+        if (requestedLocation && locations.some(p => p.id === requestedLocation &&
+                isPhysicalLocation(p) && physicallyInMunicipality(p, state.municipality))) {
+            showLocation(requestedLocation, true);
+        }
         if (document.modelContext?.registerTool) {
             try {
                 void Promise.resolve(document.modelContext.registerTool({
