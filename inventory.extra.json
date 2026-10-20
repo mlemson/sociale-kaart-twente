@@ -1288,6 +1288,13 @@
         "Twenterand",
         "Wierden"
       ]
+    },
+    {
+      "title": "Stichting Kick ASS Enschede – autismespreekuur",
+      "url": "https://www.kickass-enschede.nl/spreekuur/",
+      "municipalities": [
+        "Enschede"
+      ]
     }
   ],
   "candidates": [
@@ -20895,6 +20902,67 @@
       "mapLocationType": "address",
       "locationInheritedFromGroup": true,
       "addressChecked": "2026-10-20"
+    },
+    {
+      "id": "extra-20261020-kickass-autismespreekuur",
+      "name": "Kick ASS Enschede · autismespreekuur",
+      "source": "https://www.kickass-enschede.nl/spreekuur/",
+      "sourceTitle": "Stichting Kick ASS Enschede",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Voorliggende sociale basis: informatie en wegwijsadvies, zonder Wmo-indicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "mentaal",
+      "primaryTheme": "mentaal",
+      "themes": [
+        "mentaal",
+        "advies"
+      ],
+      "subthemes": [
+        "autisme",
+        "neurodiversiteit",
+        "ervaringsdeskundigheid",
+        "vraagverheldering",
+        "spreekuur"
+      ],
+      "tags": [
+        "autisme",
+        "ASS",
+        "vermoeden autisme",
+        "neurodiversiteit",
+        "spreekuur",
+        "ervaringsdeskundige",
+        "praktische tips",
+        "diagnose",
+        "informatie",
+        "levensvragen",
+        "naasten",
+        "professionals",
+        "wegwijs"
+      ],
+      "guidePaths": [
+        "mentaal/welzijn",
+        "mentaal/lotgenoten",
+        "zorg/clientsteun"
+      ],
+      "description": "Laagdrempelig individueel autismespreekuur van Kick ASS in samenwerking met ervaringsdeskundige Erna Dogger. Voor vragen over (mogelijke) diagnose, praktische tips, informatiebronnen, ondersteuning en passende hulp. Het spreekuur biedt nadrukkelijk geen coaching, begeleiding of therapie.",
+      "audience": "Mensen met autisme of een vermoeden daarvan, naasten en professionals.",
+      "access": "Maak via de officiële Kick ASS-website een afspraak; gesprekken duren maximaal 30 minuten. Controleer de actuele spreekuurdata op de bronpagina, geen wekelijkse vrije inloop.",
+      "costs": "Kosten niet vermeld op de bronpagina; informeer bij Kick ASS.",
+      "openingHours": "Op aangekondigde spreekuurdagen 09.30–12.30 uur (controleer actuele data en beschikbaarheid).",
+      "address": "Pathmossingel 200",
+      "postcode": "7513 CM",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.kickass-enschede.nl/spreekuur/",
+      "mapPin": true,
+      "phone": "06 2123 5204",
+      "email": "info@kickass-enschede.nl"
     }
   ],
   "addressEnrichmentVersion": 1,
