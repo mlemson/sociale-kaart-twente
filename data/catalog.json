@@ -465,11 +465,16 @@
       "https://www.alifa.nl/dienst/62/huiskamers-en-ontmoetingscentra",
       "https://www.alifa.nl/dienst/40/ontmoetingsgroepen",
       "https://www.alifa.nl/dienst/72/thuisadministratie",
-      "https://www.alifa.nl/activiteiten"
+      "https://www.alifa.nl/activiteiten",
+      "https://www.alifa.nl/dienst/23/alzheimer-caf%C3%A9-en-theehuis",
+      "https://www.alifa.nl/dienst/43/spel-aan-huis",
+      "https://www.alifa.nl/dienst/42/stap-in-bezoek",
+      "https://www.alifa.nl/dienst/97/sterker-uit-de-scheiding",
+      "https://www.alifa.nl/vrijwilligers"
     ],
-    "offerCount": 23,
+    "offerCount": 29,
     "reviewNeeded": 0,
-    "sourceBacked": 23,
+    "sourceBacked": 29,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -519,6 +524,119 @@
         "lon": 6.87642107,
         "locationType": "contact",
         "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261020-alifa-alzheimer-cafe-enschede",
+        "title": "Alzheimer Café Enschede",
+        "name": "Alifa · Alzheimer Café Enschede",
+        "description": "Maandelijkse informatie- en ontmoetingsavond voor mensen met dementie, naasten en belangstellenden; uitwisseling met lotgenoten en deskundigen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mantelzorg",
+        "themes": [
+          "mantelzorg"
+        ],
+        "subthemes": [],
+        "tags": [
+          "alzheimer",
+          "dementie",
+          "lotgenoten",
+          "geheugenproblemen",
+          "mantelzorg",
+          "alzheimer cafe"
+        ],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg",
+          "mentaal/lotgenoten"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Mensen met dementie, familie, mantelzorgers en belangstellenden.",
+        "costs": "Gratis toegang, koffie en thee.",
+        "access": "Doorgaans eerste maandag van de maand; inloop vanaf 19.00 en programma 19.30–21.00 uur; zonder aanmelding.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.alifa.nl/dienst/23/alzheimer-caf%C3%A9-en-theehuis",
+        "sourceKind": "first-party",
+        "sourceTitle": "Alifa",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Klaaskateplein 70",
+        "postcode": "7523JZ",
+        "town": "Enschede",
+        "lat": 52.23641055,
+        "lon": 6.90460653,
+        "locationType": "visiting",
+        "locationSource": "https://www.alifa.nl/dienst/23/alzheimer-caf%C3%A9-en-theehuis",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261020-alifa-alzheimer-theehuis-turkse-en-suryoye-ouderen",
+        "title": "Alzheimer Theehuis Turkse en Suryoye ouderen",
+        "name": "Alifa · Alzheimer Theehuis Turkse en Suryoye ouderen",
+        "description": "Bijeenkomsten over dementie voor Turkse en Suryoye ouderen en naasten, met voorlichting in hun eigen taal en ruimte voor ontmoeting.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mantelzorg",
+        "themes": [
+          "mantelzorg"
+        ],
+        "subthemes": [],
+        "tags": [
+          "alzheimer",
+          "theehuis",
+          "dementie",
+          "Turks",
+          "Suryoye",
+          "Syrisch",
+          "mantelzorg",
+          "meertalig"
+        ],
+        "guidePaths": [
+          "zorg/dementie",
+          "zorg/mantelzorg",
+          "migratie/nieuwkomer",
+          "mentaal/lotgenoten"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Turkse en Suryoye ouderen, familieleden en mantelzorgers.",
+        "costs": "Vraag naar eventuele kosten bij de organisatie.",
+        "access": "Circa vier bijeenkomsten per jaar; vraag de actuele plaats en datum bij Alifa op.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.alifa.nl/dienst/23/alzheimer-caf%C3%A9-en-theehuis",
+        "sourceKind": "first-party",
+        "sourceTitle": "Alifa",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Pathmossingel 200",
+        "postcode": "7513CM",
+        "town": "Enschede",
+        "lat": 52.21667309,
+        "lon": 6.87642107,
+        "locationType": "contact",
+        "locationSource": "https://www.alifa.nl/dienst/23/alzheimer-caf%C3%A9-en-theehuis",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": false
@@ -675,6 +793,61 @@
         "lon": 6.87642107,
         "locationType": "contact",
         "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261020-alifa-gratis-bespaarcoach-enschede",
+        "title": "gratis bespaarcoach Enschede",
+        "name": "Alifa · gratis bespaarcoach Enschede",
+        "description": "Vrijwillige bespaarcoach geeft inwoners gratis praktische tips over energiegebruik en verlaging van energiekosten in de eigen woning.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [],
+        "tags": [
+          "energie",
+          "energiebesparing",
+          "beter rondkomen",
+          "bespaarcoach",
+          "energiearmoede",
+          "duurzaam wonen"
+        ],
+        "guidePaths": [
+          "geld/regelingen",
+          "basis/praktisch",
+          "wonen/woning"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Enschede die hulp wensen bij besparen op energie.",
+        "costs": "Gratis.",
+        "access": "Voor informatie en afspraak via Energieloket Enschede, tel. 053 200 55 75.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.alifa.nl/vrijwilligers",
+        "sourceKind": "first-party",
+        "sourceTitle": "Alifa",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Pathmossingel 200",
+        "postcode": "7513CM",
+        "town": "Enschede",
+        "lat": 52.21667309,
+        "lon": 6.87642107,
+        "locationType": "contact",
+        "locationSource": "https://www.alifa.nl/vrijwilligers",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": false
@@ -1583,6 +1756,61 @@
         "mapPin": false
       },
       {
+        "id": "extra-20261020-alifa-spel-aan-huis",
+        "title": "Spel aan Huis",
+        "name": "Alifa · Spel aan Huis",
+        "description": "Gezinsgerichte ondersteuning aan huis bij spelontwikkeling en samenspelen: gedurende circa 20 weken helpt Alifa ouders en kinderen met leerzaam spelen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [],
+        "tags": [
+          "spel aan huis",
+          "spelen",
+          "peuter",
+          "kleuter",
+          "gezinnen",
+          "opvoeden",
+          "ontwikkeling"
+        ],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Ouders en jonge kinderen die ondersteuning bij spelen en ontwikkeling kunnen gebruiken.",
+        "costs": "Vraag naar deelnamevoorwaarden en eventuele kosten.",
+        "access": "Contact opnemen met Alifa voor deelname; activiteit vindt thuis plaats.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.alifa.nl/dienst/43/spel-aan-huis",
+        "sourceKind": "first-party",
+        "sourceTitle": "Alifa",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Pathmossingel 200",
+        "postcode": "7513CM",
+        "town": "Enschede",
+        "lat": 52.21667309,
+        "lon": 6.87642107,
+        "locationType": "contact",
+        "locationSource": "https://www.alifa.nl/dienst/43/spel-aan-huis",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
         "id": "extra-20261002-alifa-sportinloop-12-noord",
         "title": "Sportinloop 12+ Noord",
         "name": "Alifa · Sportinloop 12+ Noord",
@@ -1633,6 +1861,118 @@
         "lon": 6.87642107,
         "locationType": "contact",
         "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261020-alifa-stap-in-bezoek",
+        "title": "Stap In bezoek",
+        "name": "Alifa · Stap In bezoek",
+        "description": "Een medewerker gaat op huisbezoek bij ouders om activiteiten in hun buurt te vinden die bij het gezin en het kind passen, bijvoorbeeld ontmoeten, taal en opvoeden.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [],
+        "tags": [
+          "stap in",
+          "huisbezoek",
+          "gezin",
+          "ouders",
+          "opvoeden",
+          "peuter",
+          "meedoen"
+        ],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "migratie/nieuwkomer",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Gezinnen met kinderen die wegwijs willen worden in het lokale aanbod.",
+        "costs": "Vraag naar deelnamevoorwaarden en eventuele kosten.",
+        "access": "Vraag Alifa naar een Stap In-huisbezoek; geen openbaar spreekuur.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.alifa.nl/dienst/42/stap-in-bezoek",
+        "sourceKind": "first-party",
+        "sourceTitle": "Alifa",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Pathmossingel 200",
+        "postcode": "7513CM",
+        "town": "Enschede",
+        "lat": 52.21667309,
+        "lon": 6.87642107,
+        "locationType": "contact",
+        "locationSource": "https://www.alifa.nl/dienst/42/stap-in-bezoek",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261020-alifa-sterker-uit-de-scheiding",
+        "title": "Sterker uit de scheiding",
+        "name": "Alifa · Sterker uit de scheiding",
+        "description": "Vijf bijeenkomsten met praktische handvatten voor (bijna) gescheiden ouders over emoties, ouderschap, conflicten en samenwerken als ouders.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [],
+        "tags": [
+          "scheiding",
+          "co ouderschap",
+          "echtscheiding",
+          "ouders",
+          "triple p",
+          "opvoeden",
+          "relatie"
+        ],
+        "guidePaths": [
+          "veiligheid/relaties",
+          "onderwijs/opvoeden",
+          "mentaal/welzijn"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Ouders die nadenken over scheiden, in scheiding liggen of kort geleden gescheiden zijn.",
+        "costs": "Gratis.",
+        "access": "Aanmelding via Alifa; groepscursus start bij voldoende deelnemers, individueel mogelijk.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.alifa.nl/dienst/97/sterker-uit-de-scheiding",
+        "sourceKind": "first-party",
+        "sourceTitle": "Alifa",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Pathmossingel 200",
+        "postcode": "7513CM",
+        "town": "Enschede",
+        "lat": 52.21667309,
+        "lon": 6.87642107,
+        "locationType": "contact",
+        "locationSource": "https://www.alifa.nl/dienst/97/sterker-uit-de-scheiding",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": false
@@ -1869,14 +2209,14 @@
       }
     ],
     "location": {
-      "address": "Pathmossingel 200",
-      "postcode": "7513CM",
+      "address": "Klaaskateplein 70",
+      "postcode": "7523JZ",
       "town": "Enschede",
-      "lat": 52.21667309,
-      "lon": 6.87642107,
+      "lat": 52.23641055,
+      "lon": 6.90460653,
       "locationMunicipality": "Enschede",
-      "locationType": "contact",
-      "locationSource": "https://www.alifa.nl/dienst/32/automaatje",
+      "locationType": "visiting",
+      "locationSource": "https://www.alifa.nl/dienst/23/alzheimer-caf%C3%A9-en-theehuis",
       "mapLocationType": "address"
     },
     "status": "source-backed",
@@ -1897,11 +2237,12 @@
       "geld"
     ],
     "sources": [
-      "https://socialekaart.almelo.nl/is/organisatie/327457/invis2/all4free-twente"
+      "https://socialekaart.almelo.nl/is/organisatie/327457/invis2/all4free-twente",
+      "https://www.beien.nl/all4free/"
     ],
-    "offerCount": 1,
+    "offerCount": 2,
     "reviewNeeded": 0,
-    "sourceBacked": 1,
+    "sourceBacked": 2,
     "manual": 0,
     "checked": "2026-10-05",
     "offers": [
@@ -1998,18 +2339,76 @@
         "locationMunicipality": "Hengelo (O)",
         "mapLocationType": "address",
         "mapPin": false
+      },
+      {
+        "id": "extra-20261020-all4free-twente-uitgiftepunt-buurthuis-beien-enschede",
+        "title": "uitgiftepunt Buurthuis Beien Enschede",
+        "name": "All4Free Twente · uitgiftepunt Buurthuis Beien Enschede",
+        "description": "Uitgiftepunt voor voedsel en andere noodzakelijke spullen voor huishoudens in financiële nood, gevestigd in Buurthuis Beien in Enschede.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [],
+        "tags": [
+          "all4free",
+          "armoede",
+          "minima",
+          "boodschappen",
+          "kleding",
+          "huisraad",
+          "noodhulp",
+          "uitgiftepunt"
+        ],
+        "guidePaths": [
+          "basis/eten",
+          "basis/kleding",
+          "geld/regelingen",
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Huishoudens met een minimuminkomen of acute financiële nood.",
+        "costs": "Gratis steun volgens de voorwaarden van de organisatie.",
+        "access": "Neem vooraf contact op met All4Free over aanmelding, toegang en uitgiftemomenten.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.beien.nl/all4free/",
+        "sourceKind": "first-party",
+        "sourceTitle": "All4Free Twente",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Meeuwenstraat 160",
+        "postcode": "7523XZ",
+        "town": "Enschede",
+        "lat": 52.23571908,
+        "lon": 6.8938286,
+        "locationType": "service",
+        "locationSource": "https://www.beien.nl/all4free/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
       }
     ],
     "location": {
-      "address": "Slauerhoffstraat 25",
-      "postcode": "7552ZW",
-      "town": "Hengelo",
-      "lat": 52.26749563,
-      "lon": 6.82308423,
-      "locationMunicipality": "Hengelo (O)",
-      "locationType": "source-address",
-      "locationSource": "https://socialekaart.almelo.nl/is/organisatie/327457/invis2/all4free-twente",
-      "mapLocationType": "service-area"
+      "address": "Meeuwenstraat 160",
+      "postcode": "7523XZ",
+      "town": "Enschede",
+      "lat": 52.23571908,
+      "lon": 6.8938286,
+      "locationMunicipality": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://www.beien.nl/all4free/",
+      "mapLocationType": "address"
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/327457/invis2/all4free-twente"
@@ -7647,6 +8046,152 @@
     "primarySource": "https://www.borne.nl/bijzondere-bijstand"
   },
   {
+    "id": "org-buddy-to-buddy-enschede-ejqu0d",
+    "organization": "Buddy to Buddy Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "migratie",
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://buddytobuddy.nl/afdeling/enschede/",
+      "https://buddytobuddy.nl/informatie/enschede/"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 0,
+    "sourceBacked": 2,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-buddy-to-buddy-enschede-buddycafe",
+        "title": "Buddycafé",
+        "name": "Buddy to Buddy Enschede · Buddycafé",
+        "description": "Maandelijks laagdrempelig Buddycafé voor ontmoeting tussen nieuwkomers, buddy's en andere belangstellenden.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "buddycafe",
+          "nieuwkomers",
+          "vluchtelingen",
+          "ontmoeten",
+          "contacten",
+          "inloop"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "migratie/nieuwkomer",
+          "mentaal/eenzaamheid"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Nieuwkomers en overige geïnteresseerden.",
+        "costs": "Vrij toegankelijke ontmoeting; controleer eventuele consumptiekosten.",
+        "access": "Iedere laatste donderdag van de maand volgens de actuele agenda.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://buddytobuddy.nl/informatie/enschede/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Buddy to Buddy Enschede",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Ariënsplein 1",
+        "postcode": "7511JX",
+        "town": "Enschede",
+        "lat": 52.21859901,
+        "lon": 6.88793782,
+        "locationType": "visiting",
+        "locationSource": "https://buddytobuddy.nl/informatie/enschede/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261020-buddy-to-buddy-enschede-buddytraject-nieuwkomers",
+        "title": "buddytraject nieuwkomers",
+        "name": "Buddy to Buddy Enschede · buddytraject nieuwkomers",
+        "description": "Vrijwillig buddytraject dat nieuwkomers die hun land moesten verlaten koppelt aan inwoners van Enschede, om contacten en wederzijds begrip op te bouwen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "migratie",
+        "themes": [
+          "migratie"
+        ],
+        "subthemes": [],
+        "tags": [
+          "nieuwkomers",
+          "vluchtelingen",
+          "maatje",
+          "buddy",
+          "integratie",
+          "vriendschap",
+          "ontmoeten"
+        ],
+        "guidePaths": [
+          "migratie/nieuwkomer",
+          "mentaal/eenzaamheid",
+          "meedoen/vrijwillig"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Nieuwkomers en inwoners die buddy willen worden.",
+        "costs": "Informeer bij de organisatie naar eventuele kosten.",
+        "access": "Aanmelden rechtstreeks bij Buddy to Buddy; een match vindt plaats in het buddytraject.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://buddytobuddy.nl/afdeling/enschede/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Buddy to Buddy Enschede",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Ariënsplein 1",
+        "postcode": "7511JX",
+        "town": "Enschede",
+        "lat": 52.21859901,
+        "lon": 6.88793782,
+        "locationType": "contact",
+        "locationSource": "https://buddytobuddy.nl/afdeling/enschede/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Ariënsplein 1",
+      "postcode": "7511JX",
+      "town": "Enschede",
+      "lat": 52.21859901,
+      "lon": 6.88793782,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://buddytobuddy.nl/informatie/enschede/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://buddytobuddy.nl/afdeling/enschede/"
+  },
+  {
     "id": "org-bunga-tandjung-22ufdh",
     "organization": "Bunga Tandjung",
     "municipalities": [
@@ -7823,6 +8368,93 @@
     "primarySource": "https://www.informatiewijzerhengelo.nl/onderwerp/ontmoeten-in-de-wijk"
   },
   {
+    "id": "org-buurtbemiddeling-enschede-dv5dy6",
+    "organization": "Buurtbemiddeling Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "advies"
+    ],
+    "sources": [
+      "https://www.buurtbemiddelingenschede.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-buurtbemiddeling-enschede-burenconflicten",
+        "title": "burenconflicten",
+        "name": "Buurtbemiddeling Enschede · burenconflicten",
+        "description": "Onafhankelijke, neutrale vrijwilligers helpen buren weer met elkaar in gesprek bij onder meer geluidsoverlast en andere burenconflicten. Niet bedoeld voor crisissen, ernstige agressie of lopende rechtsprocedures.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [],
+        "tags": [
+          "burenruzie",
+          "burenconflict",
+          "overlast",
+          "geluidsoverlast",
+          "bemiddeling",
+          "wonen"
+        ],
+        "guidePaths": [
+          "veiligheid/buren",
+          "wonen/woning"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Enschede die problemen hebben met buren.",
+        "costs": "Vrij toegankelijke bemiddeling.",
+        "access": "Rechtstreeks aanmelden via website, telefoon of e-mail; gesprekken vinden in overleg plaats.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.buurtbemiddelingenschede.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Buurtbemiddeling Enschede",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Laaressingel 61",
+        "postcode": "7514EL",
+        "town": "Enschede",
+        "lat": 52.22841574,
+        "lon": 6.90218641,
+        "locationType": "contact",
+        "locationSource": "https://www.buurtbemiddelingenschede.nl/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Laaressingel 61",
+      "postcode": "7514EL",
+      "town": "Enschede",
+      "lat": 52.22841574,
+      "lon": 6.90218641,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://www.buurtbemiddelingenschede.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.buurtbemiddelingenschede.nl/"
+  },
+  {
     "id": "org-buurtbemiddeling-wierden-uhm64j",
     "organization": "Buurtbemiddeling Wierden",
     "municipalities": [
@@ -7910,14 +8542,17 @@
       "Enschede"
     ],
     "categories": [
-      "basis"
+      "basis",
+      "ontmoeten"
     ],
     "sources": [
-      "https://www.beien.nl/werkplaats/"
+      "https://www.beien.nl/werkplaats/",
+      "https://www.beien.nl/all4free/",
+      "https://www.beien.nl/activiteiten-2/"
     ],
-    "offerCount": 1,
+    "offerCount": 3,
     "reviewNeeded": 0,
-    "sourceBacked": 1,
+    "sourceBacked": 3,
     "manual": 0,
     "checked": "2026-10-05",
     "offers": [
@@ -7976,6 +8611,117 @@
         "lon": 6.8938286,
         "locationType": "visiting",
         "locationSource": "https://www.beien.nl/werkplaats/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261020-buurthuis-beien-gratis-menstruatieproducten-mup",
+        "title": "gratis menstruatieproducten (MUP)",
+        "name": "Buurthuis Beien · gratis menstruatieproducten (MUP)",
+        "description": "Menstruatieproducten-uitgiftepunt in Buurthuis Beien, met gratis menstruatieproducten in de hal en het damestoilet.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [],
+        "tags": [
+          "menstruatieproducten",
+          "menstruatiearmoede",
+          "mup",
+          "gratis",
+          "verzorgingsproducten"
+        ],
+        "guidePaths": [
+          "basis/praktisch",
+          "geld/regelingen"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Iedereen die gratis menstruatieproducten nodig heeft.",
+        "costs": "Gratis.",
+        "access": "Beschikbaar op locatie tijdens openingstijden van het buurthuis.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.beien.nl/all4free/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Buurthuis Beien",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Meeuwenstraat 160",
+        "postcode": "7523XZ",
+        "town": "Enschede",
+        "lat": 52.23571908,
+        "lon": 6.8938286,
+        "locationType": "service",
+        "locationSource": "https://www.beien.nl/all4free/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261020-buurthuis-beien-ontmoeting-en-buurtactiviteiten",
+        "title": "ontmoeting en buurtactiviteiten",
+        "name": "Buurthuis Beien · ontmoeting en buurtactiviteiten",
+        "description": "Laagdrempelig buurtinitiatief met ontmoetingsruimte, lunch en diner, wandelen, creatieve activiteiten, moestuin en workshops voor verschillende leeftijden.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "beien",
+          "buurthuis",
+          "ontmoeting",
+          "maaltijd",
+          "wandelen",
+          "creatief",
+          "moestuin",
+          "vrijwilligerswerk"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "ontmoeten/samen",
+          "ontmoeten/bewegen",
+          "meedoen/vrijwillig"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Wijkbewoners en andere belangstellenden.",
+        "costs": "Kosten verschillen per maaltijd of activiteit.",
+        "access": "Vrij inlopen bij de ontmoetingsruimte; voor sommige activiteiten aanmelden (sterretje in agenda).",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.beien.nl/activiteiten-2/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Buurthuis Beien",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Meeuwenstraat 160",
+        "postcode": "7523XZ",
+        "town": "Enschede",
+        "lat": 52.23571908,
+        "lon": 6.8938286,
+        "locationType": "visiting",
+        "locationSource": "https://www.beien.nl/activiteiten-2/",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": true
@@ -8534,6 +9280,95 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197113/invis2/christelijke-mantelzorghulp-rijssen"
+  },
+  {
+    "id": "org-coc-twente-achterhoek-1039le",
+    "organization": "COC Twente-Achterhoek",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "advies"
+    ],
+    "sources": [
+      "https://coc-twente.instance.studio/contact/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-coc-twente-achterhoek-informatie-en-steun",
+        "title": "informatie en steun",
+        "name": "COC Twente-Achterhoek · informatie en steun",
+        "description": "Regionale belangenorganisatie voor lhbtiqa+ personen; vragen, advies en informatie over ontmoeting en ondersteuning.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [],
+        "tags": [
+          "lhbti",
+          "lhbtiqa",
+          "genderidentiteit",
+          "seksuele orientatie",
+          "coc",
+          "gelijke rechten",
+          "steun"
+        ],
+        "guidePaths": [
+          "mentaal/lotgenoten",
+          "mentaal/welzijn",
+          "recht/discriminatie"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Lhbtiqa+ inwoners en hun naasten in de regio.",
+        "costs": "Informeer naar activiteiten en kosten.",
+        "access": "Neem contact op voor de actuele groepen, locaties en activiteiten; geen bevestigd open inloopadres in Enschede.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://coc-twente.instance.studio/contact/",
+        "sourceKind": "first-party",
+        "sourceTitle": "COC Twente-Achterhoek",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Broekheurnerplein 444",
+        "postcode": "7544NZ",
+        "town": "Enschede",
+        "lat": 52.19855635,
+        "lon": 6.8779279,
+        "locationType": "contact",
+        "locationSource": "https://coc-twente.instance.studio/contact/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Broekheurnerplein 444",
+      "postcode": "7544NZ",
+      "town": "Enschede",
+      "lat": 52.19855635,
+      "lon": 6.8779279,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://coc-twente.instance.studio/contact/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://coc-twente.instance.studio/contact/"
   },
   {
     "id": "org-cosbo-11y4bdb",
@@ -9300,6 +10135,95 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten"
+  },
+  {
+    "id": "org-de-kloostertuin-3va6j",
+    "organization": "De Kloostertuin",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://www.dekloostertuin.org/home"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-de-kloostertuin-samen-tuinieren-en-ontmoeten",
+        "title": "samen tuinieren en ontmoeten",
+        "name": "De Kloostertuin · samen tuinieren en ontmoeten",
+        "description": "Wijkontmoetingstuin in Eekmaat-West: samen moestuinieren, natuur beleven, contacten opdoen en workshops volgen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "ontmoetingstuin",
+          "tuinieren",
+          "groen",
+          "natuur",
+          "buurtinitiatief",
+          "vrijwilligerswerk",
+          "eenzaamheid"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/vrijwillig",
+          "meedoen/daginvulling"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Buurtbewoners en andere geïnteresseerden.",
+        "costs": "Informeer naar eventuele bijdragen.",
+        "access": "Tuinavonden en activiteiten volgens actuele agenda; neem contact op voor meedoen.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.dekloostertuin.org/home",
+        "sourceKind": "first-party",
+        "sourceTitle": "De Kloostertuin",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Gronausestraat 752",
+        "postcode": "7534AM",
+        "town": "Enschede",
+        "lat": 52.21544384,
+        "lon": 6.94930565,
+        "locationType": "visiting",
+        "locationSource": "https://www.dekloostertuin.org/home",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Gronausestraat 752",
+      "postcode": "7534AM",
+      "town": "Enschede",
+      "lat": 52.21544384,
+      "lon": 6.94930565,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.dekloostertuin.org/home",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.dekloostertuin.org/home"
   },
   {
     "id": "org-de-klup-locatie-almelo-1x3ssps",
@@ -11821,6 +12745,95 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220584/invis2/de-zonnebloem-afd-wierden"
+  },
+  {
+    "id": "org-diaconaal-platform-enschede-1a11k4r",
+    "organization": "Diaconaal Platform Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "geld"
+    ],
+    "sources": [
+      "https://dp-enschede.nl/ikzoekhulp"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-diaconaal-platform-enschede-formulieren-adviespunt",
+        "title": "Formulieren Adviespunt",
+        "name": "Diaconaal Platform Enschede · Formulieren Adviespunt",
+        "description": "Vrijwilligers ondersteunen zonder afspraak bij moeilijke formulieren, brieven en administratieve vragen tijdens het spreekuur bij Stadsbank Oost Nederland.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "geld",
+        "themes": [
+          "geld"
+        ],
+        "subthemes": [],
+        "tags": [
+          "formulieren adviespunt",
+          "dpe",
+          "diaconaal",
+          "formulier",
+          "administratie",
+          "brieven",
+          "papierwerk"
+        ],
+        "guidePaths": [
+          "geld/formulieren",
+          "recht/juridisch",
+          "basis/praktisch"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van Enschede die hulp bij formulieren nodig hebben.",
+        "costs": "Gratis.",
+        "access": "Inloop dinsdag 09.00–12.00 uur; raadpleeg actuele openingstijden bij de organisatie.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://dp-enschede.nl/ikzoekhulp",
+        "sourceKind": "first-party",
+        "sourceTitle": "Diaconaal Platform Enschede",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Spelbergsweg 35",
+        "postcode": "7512DX",
+        "town": "Enschede",
+        "lat": 52.21537437,
+        "lon": 6.89763602,
+        "locationType": "service",
+        "locationSource": "https://dp-enschede.nl/ikzoekhulp",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Spelbergsweg 35",
+      "postcode": "7512DX",
+      "town": "Enschede",
+      "lat": 52.21537437,
+      "lon": 6.89763602,
+      "locationMunicipality": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://dp-enschede.nl/ikzoekhulp",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://dp-enschede.nl/ikzoekhulp"
   },
   {
     "id": "org-dierenvoedselbank-hengelo-6rs550",
@@ -22233,6 +23246,95 @@
     "primarySource": "https://www.impuls-oldenzaal.nl/wat-we-doen/bewegen"
   },
   {
+    "id": "org-impuls-woortblind-15vevtx",
+    "organization": "Impuls & Woortblind",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "mentaal"
+    ],
+    "sources": [
+      "https://www.impulsenwoortblind.nl/adhd-cafe-enschede"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-impuls-woortblind-ad-h-d-cafe-enschede",
+        "title": "AD(H)D-café Enschede",
+        "name": "Impuls & Woortblind · AD(H)D-café Enschede",
+        "description": "Maandelijkse informele lotgenotenbijeenkomst over ADHD, ADD en aanverwante thema's; ook toegankelijk zonder formele diagnose.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal"
+        ],
+        "subthemes": [],
+        "tags": [
+          "adhd",
+          "add",
+          "ad(h)d",
+          "neurodiversiteit",
+          "lotgenoten",
+          "zelfregie",
+          "cafe"
+        ],
+        "guidePaths": [
+          "mentaal/lotgenoten",
+          "mentaal/welzijn",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Volwassenen met of zonder ADHD-diagnose en hun naasten.",
+        "costs": "Koffie en thee gratis; overige consumpties voor eigen rekening.",
+        "access": "Gebruikelijke bijeenkomst op de derde dinsdag van de maand, 19.30–21.30 uur; check de actuele agenda voor afwijkingen.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.impulsenwoortblind.nl/adhd-cafe-enschede",
+        "sourceKind": "first-party",
+        "sourceTitle": "Impuls & Woortblind",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Het Stroink 64",
+        "postcode": "7542GT",
+        "town": "Enschede",
+        "lat": 52.18841466,
+        "lon": 6.90096801,
+        "locationType": "visiting",
+        "locationSource": "https://www.impulsenwoortblind.nl/adhd-cafe-enschede",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Het Stroink 64",
+      "postcode": "7542GT",
+      "town": "Enschede",
+      "lat": 52.18841466,
+      "lon": 6.90096801,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.impulsenwoortblind.nl/adhd-cafe-enschede",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.impulsenwoortblind.nl/adhd-cafe-enschede"
+  },
+  {
     "id": "org-informatiepunt-digitale-overheid-enschede-f051i8",
     "organization": "Informatiepunt Digitale Overheid Enschede",
     "municipalities": [
@@ -22622,6 +23724,143 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartrijssen-holten.nl/is/organisatie/197530/invis2/inlooppunt-de-open-deur"
+  },
+  {
+    "id": "org-intact-herstel-en-zelfhulp-1yv9wfe",
+    "organization": "Intact Herstel en Zelfhulp",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "verslaving",
+      "mentaal"
+    ],
+    "sources": [
+      "https://www.tactus.nl/overzicht-intact/contactgegevens-intact-groepen/",
+      "https://www.tactus.nl/intact/in-je-kracht/"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 2,
+    "sourceBacked": 0,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-intact-herstel-en-zelfhulp-dj-mik-enschede",
+        "title": "DJ MIK Enschede",
+        "name": "Intact Herstel en Zelfhulp · DJ MIK Enschede",
+        "description": "DJ MIK (De Jonge Mensen In Kracht) is een zelfhulpgroep voor jongeren die worstelen met hun eigen verslaving of die van een naaste.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "verslaving",
+        "themes": [
+          "verslaving"
+        ],
+        "subthemes": [],
+        "tags": [
+          "intact",
+          "dj mik",
+          "zelfhulp",
+          "lotgenoten",
+          "jongeren",
+          "verslaving",
+          "middelen"
+        ],
+        "guidePaths": [
+          "verslaving/middelen",
+          "verslaving/naasten",
+          "mentaal/lotgenoten",
+          "onderwijs/jongeren"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Jongeren en jongvolwassenen van circa 16 tot 28 jaar.",
+        "costs": "Informeer naar eventuele kosten.",
+        "access": "Neem rechtstreeks contact op voor de actuele groepslocatie en bijeenkomst; doorgaans dinsdagavond.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.tactus.nl/overzicht-intact/contactgegevens-intact-groepen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Intact Herstel en Zelfhulp",
+        "checked": "2026-10-20",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "Enschede",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
+      {
+        "id": "extra-20261020-intact-herstel-en-zelfhulp-in-je-kracht-enschede",
+        "title": "In je Kracht Enschede",
+        "name": "Intact Herstel en Zelfhulp · In je Kracht Enschede",
+        "description": "Veilige zelfhulpgroep voor vrouwen die lichamelijk, psychisch of seksueel huiselijk geweld hebben ervaren, met lotgenotencontact en empowerment.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal"
+        ],
+        "subthemes": [],
+        "tags": [
+          "in je kracht",
+          "huiselijk geweld",
+          "vrouwen",
+          "lotgenoten",
+          "zelfhulpgroep",
+          "herstel"
+        ],
+        "guidePaths": [
+          "veiligheid/huiselijk",
+          "mentaal/lotgenoten",
+          "mentaal/welzijn"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Vrouwen die huiselijk geweld hebben meegemaakt.",
+        "costs": "Informeer naar eventuele kosten.",
+        "access": "Vraag rechtstreeks naar de vertrouwelijk gehouden groepslocatie en actuele data.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.tactus.nl/intact/in-je-kracht/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Intact Herstel en Zelfhulp",
+        "checked": "2026-10-20",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "Enschede",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "review-needed",
+    "primarySource": "https://www.tactus.nl/overzicht-intact/contactgegevens-intact-groepen/"
   },
   {
     "id": "org-ixta-noa-praktijkhuis-enschede-18kgun",
@@ -26965,6 +28204,84 @@
     },
     "status": "source-backed",
     "primarySource": "https://socialekaart.almelo.nl/is/organisatie/326935/invis2/mantelzorg-almelo"
+  },
+  {
+    "id": "org-mantelzorgcommunity-enschede-xq4i9i",
+    "organization": "Mantelzorgcommunity Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "mantelzorg"
+    ],
+    "sources": [
+      "https://wijkwijzerenschede.nl/mantelzorg-informatie-en-ondersteuning"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 1,
+    "sourceBacked": 0,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-mantelzorgcommunity-enschede-ontmoeting-en-activiteiten",
+        "title": "ontmoeting en activiteiten",
+        "name": "Mantelzorgcommunity Enschede · ontmoeting en activiteiten",
+        "description": "Informele community waar mantelzorgers elkaar ontmoeten, ervaringen uitwisselen en samen activiteiten ondernemen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mantelzorg",
+        "themes": [
+          "mantelzorg"
+        ],
+        "subthemes": [],
+        "tags": [
+          "mantelzorg",
+          "lotgenoten",
+          "community",
+          "ervaringsuitwisseling",
+          "ontmoeten",
+          "respijt"
+        ],
+        "guidePaths": [
+          "zorg/mantelzorg",
+          "mentaal/lotgenoten",
+          "mentaal/eenzaamheid"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Mantelzorgers van Enschede.",
+        "costs": "Informeer naar eventuele bijdragen.",
+        "access": "Aanmelden via mantelzorgcommunity@enschede.nl; actuele ontmoetingslocaties via de organisatie.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://wijkwijzerenschede.nl/mantelzorg-informatie-en-ondersteuning",
+        "sourceKind": "first-party",
+        "sourceTitle": "Mantelzorgcommunity Enschede",
+        "checked": "2026-10-20",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "Enschede",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "review-needed",
+    "primarySource": "https://wijkwijzerenschede.nl/mantelzorg-informatie-en-ondersteuning"
   },
   {
     "id": "org-mediant-nsaol5",
@@ -39377,6 +40694,98 @@
     "primarySource": "https://sociaalhus.nl/publicaties/582/ontmoeten"
   },
   {
+    "id": "org-stichting-55-enschede-bof03i",
+    "organization": "Stichting 55+ Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "ontmoeten"
+    ],
+    "sources": [
+      "https://55plus-enschede.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-stichting-55-enschede-activiteiten-en-cursussen",
+        "title": "activiteiten en cursussen",
+        "name": "Stichting 55+ Enschede · activiteiten en cursussen",
+        "description": "Breed activiteitenaanbod voor 55-plussers, onder meer wandelen, fietsen, schilderen, computerhulp, talen, zang, tai chi, bridge en yoga.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "55plus",
+          "senioren",
+          "ouderen",
+          "cursussen",
+          "activiteiten",
+          "wandelen",
+          "computer",
+          "sport",
+          "creatief"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "ontmoeten/bewegen",
+          "meedoen/daginvulling",
+          "taal/digitaal"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Inwoners van 55 jaar en ouder.",
+        "costs": "Lidmaatschap en vaak een kleine vergoeding per activiteit.",
+        "access": "Deelname na aanmelding en lidmaatschap; actuele rooster en beschikbare plekken op website.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://55plus-enschede.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting 55+ Enschede",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Schuttersveld 17",
+        "postcode": "7514AC",
+        "town": "Enschede",
+        "lat": 52.22211368,
+        "lon": 6.88114737,
+        "locationType": "visiting",
+        "locationSource": "https://55plus-enschede.nl/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Schuttersveld 17",
+      "postcode": "7514AC",
+      "town": "Enschede",
+      "lat": 52.22211368,
+      "lon": 6.88114737,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://55plus-enschede.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://55plus-enschede.nl/"
+  },
+  {
     "id": "org-stichting-aandacht-voor-elkaar-1o35l26",
     "organization": "Stichting Aandacht voor Elkaar",
     "municipalities": [
@@ -42162,6 +43571,95 @@
     "location": null,
     "status": "source-backed",
     "primarySource": "https://voorelkaartwenterand.nl/"
+  },
+  {
+    "id": "org-stichting-wetswinkel-twente-lthnm6",
+    "organization": "Stichting Wetswinkel Twente",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "advies"
+    ],
+    "sources": [
+      "https://wetswinkeltwente.nl/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-stichting-wetswinkel-twente-gratis-juridisch-spreekuur-enschede",
+        "title": "gratis juridisch spreekuur Enschede",
+        "name": "Stichting Wetswinkel Twente · gratis juridisch spreekuur Enschede",
+        "description": "Vrijwillige rechtenstudenten bieden gratis juridisch advies over uiteenlopende rechtsvragen via een inloopspreekuur in wijkcentrum De Magneet.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [],
+        "tags": [
+          "juridisch",
+          "rechtshulp",
+          "advies",
+          "huurrecht",
+          "arbeidsrecht",
+          "gratis",
+          "spreekuur"
+        ],
+        "guidePaths": [
+          "recht/juridisch",
+          "wonen/woning",
+          "geld/formulieren"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Iedereen met een juridische vraag.",
+        "costs": "Gratis.",
+        "access": "Donderdag 19.45–21.00 uur, zonder afspraak. Neem relevante documenten mee.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://wetswinkeltwente.nl/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Wetswinkel Twente",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Hertmebrink 1",
+        "postcode": "7544DC",
+        "town": "Enschede",
+        "lat": 52.19270077,
+        "lon": 6.8756301,
+        "locationType": "visiting",
+        "locationSource": "https://wetswinkeltwente.nl/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Hertmebrink 1",
+      "postcode": "7544DC",
+      "town": "Enschede",
+      "lat": 52.19270077,
+      "lon": 6.8756301,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://wetswinkeltwente.nl/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://wetswinkeltwente.nl/"
   },
   {
     "id": "org-tactus-intact-1pv6ocf",
@@ -45119,6 +46617,148 @@
     "primarySource": "https://www.vluchtelingenwerk.nl/over-ons/locaties/borne"
   },
   {
+    "id": "org-vluchtelingenwerk-enschede-1iov5uj",
+    "organization": "VluchtelingenWerk Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "advies"
+    ],
+    "sources": [
+      "https://www.vluchtelingenwerk.nl/index.php/over-ons/locaties/locatie-enschede-1"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 0,
+    "sourceBacked": 2,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-vluchtelingenwerk-enschede-juridisch-spreekuur-en-inloop",
+        "title": "juridisch spreekuur en inloop",
+        "name": "VluchtelingenWerk Enschede · juridisch spreekuur en inloop",
+        "description": "Juridische begeleiding voor vluchtelingen en laagdrempelig inloopspreekuur bij de Enschedese locatie.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [],
+        "tags": [
+          "vluchtelingen",
+          "asiel",
+          "verblijfsrecht",
+          "juridisch",
+          "inloopspreekuur",
+          "statushouder"
+        ],
+        "guidePaths": [
+          "migratie/nieuwkomer",
+          "recht/juridisch",
+          "ontmoeten/inloop"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Vluchtelingen met vragen binnen het werkterrein van VluchtelingenWerk.",
+        "costs": "Informeer naar eventuele voorwaarden.",
+        "access": "Inloop woensdag 09.30–12.00 uur; juridische begeleiding maandag en woensdag op afspraak.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.vluchtelingenwerk.nl/index.php/over-ons/locaties/locatie-enschede-1",
+        "sourceKind": "first-party",
+        "sourceTitle": "VluchtelingenWerk Enschede",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "M.H. Tromplaan 47",
+        "postcode": "7513AB",
+        "town": "Enschede",
+        "lat": 52.21964605,
+        "lon": 6.8840782,
+        "locationType": "visiting",
+        "locationSource": "https://www.vluchtelingenwerk.nl/index.php/over-ons/locaties/locatie-enschede-1",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261020-vluchtelingenwerk-enschede-maatschappelijke-begeleiding",
+        "title": "maatschappelijke begeleiding",
+        "name": "VluchtelingenWerk Enschede · maatschappelijke begeleiding",
+        "description": "Ondersteuning aan vluchtelingen en statushouders bij wegwijs worden in Nederland, maatschappelijke vragen en praktische regelzaken.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "advies",
+        "themes": [
+          "advies"
+        ],
+        "subthemes": [],
+        "tags": [
+          "vluchtelingenwerk",
+          "statushouders",
+          "nieuwkomers",
+          "maatschappelijke begeleiding",
+          "integratie"
+        ],
+        "guidePaths": [
+          "migratie/nieuwkomer",
+          "migratie/taal",
+          "geld/formulieren"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Vluchtelingen en statushouders die binnen de dienstverlening vallen.",
+        "costs": "Afhankelijk van de ondersteuning en doelgroep; vraag naar voorwaarden.",
+        "access": "Maandag t/m donderdag uitsluitend op afspraak.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.vluchtelingenwerk.nl/index.php/over-ons/locaties/locatie-enschede-1",
+        "sourceKind": "first-party",
+        "sourceTitle": "VluchtelingenWerk Enschede",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "M.H. Tromplaan 47",
+        "postcode": "7513AB",
+        "town": "Enschede",
+        "lat": 52.21964605,
+        "lon": 6.8840782,
+        "locationType": "contact",
+        "locationSource": "https://www.vluchtelingenwerk.nl/index.php/over-ons/locaties/locatie-enschede-1",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "M.H. Tromplaan 47",
+      "postcode": "7513AB",
+      "town": "Enschede",
+      "lat": 52.21964605,
+      "lon": 6.8840782,
+      "locationMunicipality": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.vluchtelingenwerk.nl/index.php/over-ons/locaties/locatie-enschede-1",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.vluchtelingenwerk.nl/index.php/over-ons/locaties/locatie-enschede-1"
+  },
+  {
     "id": "org-voedsel-kledingbank-rijssen-holten-6l2bdb",
     "organization": "Voedsel & Kledingbank Rijssen Holten",
     "municipalities": [
@@ -46118,6 +47758,95 @@
     "primarySource": "https://www.hofvantwente.nl/direct-regelen/werk-en-inkomen/hulp-bij-een-laag-inkomen/volwassenenfonds-voor-sport-en-cultuur/"
   },
   {
+    "id": "org-voorleesexpress-enschede-1xbnkbt",
+    "organization": "VoorleesExpress Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "taal"
+    ],
+    "sources": [
+      "https://voorleesexpress.nl/onze-locaties/enschede/"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 0,
+    "sourceBacked": 1,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-voorleesexpress-enschede-taalondersteuning-thuis",
+        "title": "taalondersteuning thuis",
+        "name": "VoorleesExpress Enschede · taalondersteuning thuis",
+        "description": "Vrijwilligers ondersteunen gezinnen thuis bij voorlezen en spelenderwijs werken aan de taalontwikkeling van kinderen.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "taal",
+        "themes": [
+          "taal"
+        ],
+        "subthemes": [],
+        "tags": [
+          "voorleesexpress",
+          "voorlezen",
+          "taalontwikkeling",
+          "kinderen",
+          "lezen",
+          "gezinnen",
+          "thuis"
+        ],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "taal/nederlands",
+          "taal/basis"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Gezinnen en kinderen die extra hulp kunnen gebruiken bij taal en voorlezen.",
+        "costs": "Informeer bij de uitvoerder over voorwaarden.",
+        "access": "Aanmelding via samenwerkingspartners; wachttijd voor beschikbare vrijwilliger mogelijk.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://voorleesexpress.nl/onze-locaties/enschede/",
+        "sourceKind": "first-party",
+        "sourceTitle": "VoorleesExpress Enschede",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Pijpenstraat 15",
+        "postcode": "7511GM",
+        "town": "Enschede",
+        "lat": 52.21910175,
+        "lon": 6.89338546,
+        "locationType": "contact",
+        "locationSource": "https://voorleesexpress.nl/onze-locaties/enschede/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": {
+      "address": "Pijpenstraat 15",
+      "postcode": "7511GM",
+      "town": "Enschede",
+      "lat": 52.21910175,
+      "lon": 6.89338546,
+      "locationMunicipality": "Enschede",
+      "locationType": "contact",
+      "locationSource": "https://voorleesexpress.nl/onze-locaties/enschede/",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://voorleesexpress.nl/onze-locaties/enschede/"
+  },
+  {
     "id": "org-wensinkhof-16vgalr",
     "organization": "Wensinkhof",
     "municipalities": [
@@ -46484,6 +48213,84 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/224536/invis2/wierden-met-mekaar"
+  },
+  {
+    "id": "org-wij-ouders-enschede-1mtyq3n",
+    "organization": "Wij Ouders + Enschede",
+    "municipalities": [
+      "Enschede"
+    ],
+    "categories": [
+      "jeugd"
+    ],
+    "sources": [
+      "https://wijkwijzerenschede.nl/hulp-bij-opvoeden"
+    ],
+    "offerCount": 1,
+    "reviewNeeded": 1,
+    "sourceBacked": 0,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-wij-ouders-enschede-oudercommunity-zorgkind",
+        "title": "oudercommunity zorgkind",
+        "name": "Wij Ouders + Enschede · oudercommunity zorgkind",
+        "description": "Onderlinge ontmoeting en ondersteuning voor ouders van kinderen met een bijzondere zorg- of ondersteuningsbehoefte.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "jeugd",
+        "themes": [
+          "jeugd"
+        ],
+        "subthemes": [],
+        "tags": [
+          "wij ouders",
+          "zorgkind",
+          "beperking",
+          "oudergroep",
+          "speciale zorgbehoefte",
+          "lotgenoten"
+        ],
+        "guidePaths": [
+          "onderwijs/opvoeden",
+          "zorg/mantelzorg",
+          "mentaal/lotgenoten"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Ouders van kinderen die extra zorg of ondersteuning nodig hebben.",
+        "costs": "Informeer naar eventuele bijdragen.",
+        "access": "Aanmelden via mantelzorgcommunity@enschede.nl.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://wijkwijzerenschede.nl/hulp-bij-opvoeden",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wij Ouders + Enschede",
+        "checked": "2026-10-20",
+        "reviewStatus": "review-needed",
+        "address": "",
+        "postcode": "",
+        "town": "Enschede",
+        "lat": null,
+        "lon": null,
+        "locationType": "",
+        "locationSource": "",
+        "locationMunicipality": "",
+        "mapLocationType": "address",
+        "mapPin": false
+      }
+    ],
+    "location": null,
+    "status": "review-needed",
+    "primarySource": "https://wijkwijzerenschede.nl/hulp-bij-opvoeden"
   },
   {
     "id": "org-wijkcentrum-de-sterrentuin-1jq7jfa",
@@ -50232,7 +52039,11 @@
     "id": "org-wijkracht-jmz-1o8ewp9",
     "organization": "Wijkracht JMZ",
     "municipalities": [
-      "Hengelo"
+      "Borne",
+      "Enschede",
+      "Haaksbergen",
+      "Hengelo",
+      "Oldenzaal"
     ],
     "categories": [
       "mantelzorg",
@@ -50240,14 +52051,71 @@
       "jeugd"
     ],
     "sources": [
-      "https://www.wijkracht.nl/jmz"
+      "https://www.wijkracht.nl/jmz",
+      "https://wijkwijzerenschede.nl/mantelzorg-informatie-en-ondersteuning"
     ],
-    "offerCount": 1,
+    "offerCount": 2,
     "reviewNeeded": 0,
-    "sourceBacked": 1,
+    "sourceBacked": 2,
     "manual": 0,
-    "checked": "2026-10-05",
+    "checked": "2026-10-20",
     "offers": [
+      {
+        "id": "extra-20261020-wijkracht-jmz-activiteiten-voor-jonge-mantelzorgers-enschede",
+        "title": "activiteiten voor jonge mantelzorgers Enschede",
+        "name": "Wijkracht JMZ · activiteiten voor jonge mantelzorgers Enschede",
+        "description": "Ontmoeting, ontspanning, maatjes en respijtactiviteiten voor kinderen en jongeren die opgroeien met zorg of ziekte in hun gezin.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mantelzorg",
+        "themes": [
+          "mantelzorg"
+        ],
+        "subthemes": [],
+        "tags": [
+          "jongere mantelzorger",
+          "jonge mantelzorg",
+          "maatjes",
+          "respijt",
+          "activiteiten",
+          "ontspanning",
+          "gezin"
+        ],
+        "guidePaths": [
+          "zorg/mantelzorg",
+          "onderwijs/jongeren",
+          "mentaal/lotgenoten"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Jonge mantelzorgers van 5 tot 24 jaar uit Enschede.",
+        "costs": "Gratis.",
+        "access": "Rechtstreeks contact met Wijkracht JMZ voor deelname en actuele activiteiten.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://wijkwijzerenschede.nl/mantelzorg-informatie-en-ondersteuning",
+        "sourceKind": "first-party",
+        "sourceTitle": "Wijkracht JMZ",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Johannaweg 26",
+        "postcode": "7555CR",
+        "town": "Hengelo",
+        "lat": 52.26218618,
+        "lon": 6.77660084,
+        "locationType": "source-address",
+        "locationSource": "https://www.wijkracht.nl/jmz",
+        "locationMunicipality": "Hengelo (O)",
+        "mapLocationType": "address",
+        "mapPin": false
+      },
       {
         "id": "extra-20261005-wijkracht-jmz-maatjes",
         "title": "maatjes voor jonge mantelzorgers",
@@ -50255,7 +52123,11 @@
         "description": "Maatjesondersteuning voor jonge mantelzorgers: een vrijwilliger trekt regelmatig met een jongere op voor ontspanning, aandacht, sociaal contact of een persoonlijk doel.",
         "municipality": "Hengelo",
         "municipalities": [
-          "Hengelo"
+          "Hengelo",
+          "Enschede",
+          "Borne",
+          "Haaksbergen",
+          "Oldenzaal"
         ],
         "category": "mantelzorg",
         "themes": [
@@ -50288,14 +52160,14 @@
         "activitiesUpdated": "",
         "audience": "Jonge mantelzorgers in Hengelo; jongeren die thuis extra zorgen of verantwoordelijkheden hebben door ziekte of problemen van een gezinslid.",
         "costs": "Gratis ondersteuning.",
-        "access": "Rechtstreeks contact opnemen met Wijkracht JMZ.",
+        "access": "Ook toegankelijk voor jonge mantelzorgers uit Enschede; rechtstreeks contact met Wijkracht JMZ. De hoofdvestiging in Hengelo is geen bevestigde uitvoeringslocatie in Enschede.",
         "openingHours": "",
         "phone": "",
         "email": "jmz@wijkracht.nl",
         "source": "https://www.wijkracht.nl/jmz",
         "sourceKind": "first-party",
         "sourceTitle": "Wijkracht JMZ",
-        "checked": "2026-10-05",
+        "checked": "2026-10-20",
         "reviewStatus": "source-backed",
         "address": "Johannaweg 26",
         "postcode": "7555CR",

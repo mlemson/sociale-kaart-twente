@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "extra-20261020-intact-herstel-en-zelfhulp-dj-mik-enschede",
+    "name": "Intact Herstel en Zelfhulp · DJ MIK Enschede",
+    "municipality": "Enschede",
+    "source": "https://www.tactus.nl/overzicht-intact/contactgegevens-intact-groepen/",
+    "sourceTitle": "Intact Herstel en Zelfhulp",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "extra-20261020-intact-herstel-en-zelfhulp-in-je-kracht-enschede",
+    "name": "Intact Herstel en Zelfhulp · In je Kracht Enschede",
+    "municipality": "Enschede",
+    "source": "https://www.tactus.nl/intact/in-je-kracht/",
+    "sourceTitle": "Intact Herstel en Zelfhulp",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "extra-20261020-mantelzorgcommunity-enschede-ontmoeting-en-activiteiten",
+    "name": "Mantelzorgcommunity Enschede · ontmoeting en activiteiten",
+    "municipality": "Enschede",
+    "source": "https://wijkwijzerenschede.nl/mantelzorg-informatie-en-ondersteuning",
+    "sourceTitle": "Mantelzorgcommunity Enschede",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-10-20"
+  },
+  {
+    "id": "extra-20261020-wij-ouders-enschede-oudercommunity-zorgkind",
+    "name": "Wij Ouders + Enschede · oudercommunity zorgkind",
+    "municipality": "Enschede",
+    "source": "https://wijkwijzerenschede.nl/hulp-bij-opvoeden",
+    "sourceTitle": "Wij Ouders + Enschede",
+    "reason": "Adres of kaartcoördinaten ontbreken",
+    "checked": "2026-10-20"
+  }
+]
