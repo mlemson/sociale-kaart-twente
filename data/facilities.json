@@ -16567,11 +16567,24 @@
     "town": "Enschede",
     "municipality": "Enschede",
     "serviceMunicipalities": [
-      "Enschede"
+      "Almelo",
+      "Borne",
+      "Dinkelland",
+      "Enschede",
+      "Haaksbergen",
+      "Hellendoorn",
+      "Hengelo",
+      "Hof van Twente",
+      "Losser",
+      "Oldenzaal",
+      "Rijssen-Holten",
+      "Tubbergen",
+      "Twenterand",
+      "Wierden"
     ],
     "lat": 52.19855635,
     "lon": 6.8779279,
-    "source": "https://coc-twente.instance.studio/contact/",
+    "source": "https://coctwenteachterhoek.nl/over-coc/",
     "checked": "2026-10-20",
     "tags": [
       "advies"
@@ -16580,12 +16593,12 @@
     "description": "Contact-/vestigingsadres voor COC Twente-Achterhoek. Via de bron zijn 1 vormen van voorliggend aanbod opgenomen.",
     "audience": "Lhbtiqa+ inwoners en hun naasten in de regio.",
     "costs": "Informeer naar activiteiten en kosten.",
-    "access": "Neem contact op voor de actuele groepen, locaties en activiteiten; geen bevestigd open inloopadres in Enschede.",
+    "access": "Contact via de officiële website voor actuele groepen en activiteiten; het postadres in Enschede is geen openbaar inloopadres.",
     "openingHours": "",
     "phone": "",
     "email": "",
     "locationType": "contact",
-    "locationSource": "https://coc-twente.instance.studio/contact/",
+    "locationSource": "https://coctwenteachterhoek.nl/over-coc/",
     "mapLocationType": "address",
     "physicalLocation": false,
     "catalogOrganizationId": "org-coc-twente-achterhoek-1039le"
