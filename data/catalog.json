@@ -2524,7 +2524,7 @@
     "reviewNeeded": 0,
     "sourceBacked": 9,
     "manual": 0,
-    "checked": "2026-10-02",
+    "checked": "2026-10-20",
     "offers": [
       {
         "id": "extra-20261008-bijzondere-bijstand-1",
@@ -2999,7 +2999,8 @@
           "Hofkamp"
         ],
         "guidePaths": [
-          "ontmoeten/inloop"
+          "ontmoeten/inloop",
+          "mentaal/eenzaamheid"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -3016,7 +3017,7 @@
         "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
         "sourceKind": "first-party",
         "sourceTitle": "Gemeente Almelo",
-        "checked": "2026-10-02",
+        "checked": "2026-10-20",
         "reviewStatus": "source-backed",
         "address": "Hofkampstraat 96",
         "postcode": "7607NJ",
@@ -11641,7 +11642,9 @@
           "daginvulling"
         ],
         "guidePaths": [
-          "meedoen/daginvulling"
+          "meedoen/daginvulling",
+          "ontmoeten/inloop",
+          "mentaal/eenzaamheid"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -11658,7 +11661,7 @@
         "source": "https://www.dewelledoet.nl/activiteiten/352",
         "sourceKind": "first-party",
         "sourceTitle": "Stichting De Welle",
-        "checked": "2026-10-02",
+        "checked": "2026-10-20",
         "reviewStatus": "source-backed",
         "address": "Bendien-Smitshof 38",
         "postcode": "7442NV",
@@ -17788,9 +17791,9 @@
       "https://www.almelo.nl/zorg-en-ondersteuning/wijkteams",
       "https://www.almelo.nl/ontmoetingsplekken-almelo"
     ],
-    "offerCount": 7,
+    "offerCount": 6,
     "reviewNeeded": 0,
-    "sourceBacked": 7,
+    "sourceBacked": 6,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
@@ -17897,64 +17900,6 @@
         "town": "Almelo",
         "lat": 52.34377766,
         "lon": 6.67363039,
-        "locationType": "visiting",
-        "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-        "locationMunicipality": "Almelo",
-        "mapLocationType": "address",
-        "mapPin": true
-      },
-      {
-        "id": "extra-20261020-regio-gemeente-almelo-wijkkamer-trefpunt-elisabeth",
-        "title": "wijkkamer Trefpunt Elisabeth",
-        "name": "Gemeente Almelo · wijkkamer Trefpunt Elisabeth",
-        "description": "Buurtontmoetingsruimte in Hofkamp op de officiële Almelose lijst van laagdrempelige ontmoetingsplekken.",
-        "municipality": "Almelo",
-        "municipalities": [
-          "Almelo"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [],
-        "tags": [
-          "ontmoeten",
-          "inloop",
-          "mentaal",
-          "eenzaamheid",
-          "wijkkamer",
-          "trefpunt",
-          "elisabeth",
-          "gemeente almelo",
-          "almelo",
-          "activiteiten"
-        ],
-        "guidePaths": [
-          "ontmoeten/inloop",
-          "mentaal/eenzaamheid"
-        ],
-        "guideExclude": false,
-        "activityOnly": false,
-        "activities": [],
-        "activitiesNote": "",
-        "activitiesSource": "",
-        "activitiesUpdated": "",
-        "audience": "Inwoners uit de gemeente Almelo en belangstellenden.",
-        "costs": "Informeer naar eventuele kosten per activiteit.",
-        "access": "Inloop afhankelijk van rooster op locatie.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-        "sourceKind": "first-party",
-        "sourceTitle": "Gemeente Almelo",
-        "checked": "2026-10-20",
-        "reviewStatus": "source-backed",
-        "address": "Hofkampstraat 96",
-        "postcode": "7607NJ",
-        "town": "Almelo",
-        "lat": 52.35318077,
-        "lon": 6.67014332,
         "locationType": "visiting",
         "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
         "locationMunicipality": "Almelo",
@@ -28225,80 +28170,17 @@
     "sources": [
       "https://www.legerdesheils.nl/locatie/enschede"
     ],
-    "offerCount": 3,
+    "offerCount": 2,
     "reviewNeeded": 0,
-    "sourceBacked": 3,
+    "sourceBacked": 2,
     "manual": 0,
     "checked": "2026-10-08",
     "offers": [
       {
-        "id": "extra-20261020-regio-leger-des-heils-enschede-buurthuiskamer-en-kledingwinkel-zenderenbrink",
-        "title": "buurthuiskamer en kledingwinkel Zenderenbrink",
-        "name": "Leger des Heils Enschede · buurthuiskamer en kledingwinkel Zenderenbrink",
-        "description": "Buurthuiskamer voor koffie, luisteren en ontmoeting, tweedehands kledingwinkel, preventieve schuldhulp en buurtmaaltijden.",
-        "municipality": "Enschede",
-        "municipalities": [
-          "Enschede"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [],
-        "tags": [
-          "ontmoeten",
-          "inloop",
-          "samen",
-          "basis",
-          "kleding",
-          "geld",
-          "schulden",
-          "buurthuiskamer",
-          "kledingwinkel",
-          "zenderenbrink",
-          "leger des heils enschede",
-          "enschede",
-          "activiteiten"
-        ],
-        "guidePaths": [
-          "ontmoeten/inloop",
-          "ontmoeten/samen",
-          "basis/kleding",
-          "geld/schulden"
-        ],
-        "guideExclude": false,
-        "activityOnly": false,
-        "activities": [],
-        "activitiesNote": "",
-        "activitiesSource": "",
-        "activitiesUpdated": "",
-        "audience": "Inwoners van Enschede en andere belangstellenden.",
-        "costs": "Inloop laagdrempelig; maaltijd en bepaalde activiteiten hebben een kleine eigen bijdrage.",
-        "access": "Dinsdag 10.00–16.00, woensdag 13.00–15.00 en zaterdag 10.00–12.00 volgens locatiepagina; programma verschilt per dag.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.legerdesheils.nl/locatie/enschede",
-        "sourceKind": "first-party",
-        "sourceTitle": "Leger des Heils Enschede",
-        "checked": "2026-10-20",
-        "reviewStatus": "source-backed",
-        "address": "Zenderenbrink 2",
-        "postcode": "7544DZ",
-        "town": "Enschede",
-        "lat": 52.19400921,
-        "lon": 6.87667265,
-        "locationType": "visiting",
-        "locationSource": "https://www.legerdesheils.nl/locatie/enschede",
-        "locationMunicipality": "Enschede",
-        "mapLocationType": "address",
-        "mapPin": true
-      },
-      {
         "id": "extra-20261008-socialebasis-05",
         "title": "buurthuiskamer en maaltijd",
         "name": "Leger des Heils Enschede · buurthuiskamer en maaltijd",
-        "description": "Buurthuiskamer, warme buurtmaaltijd en sociale activiteiten aan Zenderenbrink 2. Voor sommige activiteiten geldt een bijdrage of aanmelding.",
+        "description": "Buurthuiskamer en tweedehands kledingwinkel voor koffie, luisteren, ontmoeting en warme buurtmaaltijden. Hier is ook preventieve schuldhulp. Het centrum aan Zenderenbrink 2 is toegankelijk voor bezoek.",
         "municipality": "Enschede",
         "municipalities": [
           "Enschede"
@@ -28315,11 +28197,16 @@
           "buurthuiskamer",
           "maaltijd",
           "tweedehands kleding",
-          "ontmoeting"
+          "ontmoeting",
+          "kledingwinkel",
+          "preventieve schuldhulp",
+          "wijkontmoeting"
         ],
         "guidePaths": [
           "ontmoeten/inloop",
-          "ontmoeten/samen"
+          "ontmoeten/samen",
+          "basis/kleding",
+          "geld/schulden"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -28328,26 +28215,26 @@
         "activitiesSource": "",
         "activitiesUpdated": "",
         "audience": "",
-        "costs": "Controleer eventuele kosten en voorwaarden bij de aanbieder.",
-        "access": "Inloop mogelijk; kijk naar programma, kosten en aanmeldvoorwaarden.",
+        "costs": "Buurthuiskamer laagdrempelig; warme buurtmaaltijd €5, bepaalde activiteiten tegen kleine bijdrage en kleding tegen betaling.",
+        "access": "Dinsdag, woensdag en zaterdag op de gepubliceerde inloopmomenten; controleer het actuele programma, aanmeldvoorwaarden bij maaltijden en eventuele bijdragen.",
         "openingHours": "",
         "phone": "",
         "email": "",
         "source": "https://www.legerdesheils.nl/locatie/enschede",
         "sourceKind": "first-party",
         "sourceTitle": "Leger des Heils",
-        "checked": "2026-10-08",
+        "checked": "2026-10-20",
         "reviewStatus": "source-backed",
         "address": "Zenderenbrink 2",
         "postcode": "7544DZ",
         "town": "Enschede",
         "lat": 52.19400921,
         "lon": 6.87667265,
-        "locationType": "contact",
+        "locationType": "visiting",
         "locationSource": "https://www.legerdesheils.nl/locatie/enschede",
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
-        "mapPin": false
+        "mapPin": true
       },
       {
         "id": "extra-20261008-socialebasis-04",
@@ -43300,78 +43187,17 @@
       "Hellendoorn"
     ],
     "categories": [
-      "ontmoeten",
       "basis"
     ],
     "sources": [
-      "https://www.dewelledoet.nl/activiteiten/352",
       "https://www.hellendoorn.nl/direct-regelen/zorg-en-welzijn/wmo-uitgelegd/tijdelijk-hulpmiddel-lenen/"
     ],
-    "offerCount": 2,
+    "offerCount": 1,
     "reviewNeeded": 0,
-    "sourceBacked": 2,
+    "sourceBacked": 1,
     "manual": 0,
     "checked": "2026-10-20",
     "offers": [
-      {
-        "id": "extra-20261020-correctie-crea-doe-samen-creatief-en-ontmoeten",
-        "title": "Crea Doe: samen creatief en ontmoeten",
-        "name": "Stichting De Welle Hellendoorn · Crea Doe: samen creatief en ontmoeten",
-        "description": "Maandelijkse laagdrempelige creatieve ontmoeting van De Welle in de socioruimte van Bendien Smitshof: haken, breien, schilderen, knutselen, puzzelen of samen een spel doen.",
-        "municipality": "Hellendoorn",
-        "municipalities": [
-          "Hellendoorn"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [],
-        "tags": [
-          "ontmoeten",
-          "wijk",
-          "voorliggend",
-          "Nijverdal",
-          "ontmoeten",
-          "inloop",
-          "meedoen",
-          "daginvulling",
-          "mentaal",
-          "eenzaamheid"
-        ],
-        "guidePaths": [
-          "ontmoeten/inloop",
-          "meedoen/daginvulling",
-          "mentaal/eenzaamheid"
-        ],
-        "guideExclude": false,
-        "activityOnly": false,
-        "activities": [],
-        "activitiesNote": "",
-        "activitiesSource": "",
-        "activitiesUpdated": "",
-        "audience": "",
-        "costs": "Deelnamekaart: 10 keer voor €17,50; materialen en consumpties kunnen extra kosten.",
-        "access": "Iedere vierde maandag van de maand 09.30–11.30 uur; neem contact op met de frontoffice van De Welle voor deelname.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.dewelledoet.nl/activiteiten/352",
-        "sourceKind": "first-party",
-        "sourceTitle": "Stichting De Welle / gemeente Hellendoorn",
-        "checked": "2026-10-20",
-        "reviewStatus": "source-backed",
-        "address": "Bendien-Smitshof 38",
-        "postcode": "7442NV",
-        "town": "Nijverdal",
-        "lat": 52.36357273,
-        "lon": 6.45751026,
-        "locationType": "visiting",
-        "locationSource": "https://www.dewelledoet.nl/activiteiten/352",
-        "locationMunicipality": "Hellendoorn",
-        "mapLocationType": "address",
-        "mapPin": true
-      },
       {
         "id": "extra-20261020-correctie-uitleenpunt-tijdelijke-hulpmiddelen",
         "title": "uitleenpunt tijdelijke hulpmiddelen",
@@ -43433,18 +43259,18 @@
       }
     ],
     "location": {
-      "address": "Bendien-Smitshof 38",
-      "postcode": "7442NV",
+      "address": "Constantijnstraat 32a",
+      "postcode": "7442ME",
       "town": "Nijverdal",
-      "lat": 52.36357273,
-      "lon": 6.45751026,
+      "lat": 52.36352638,
+      "lon": 6.46142506,
       "locationMunicipality": "Hellendoorn",
-      "locationType": "visiting",
-      "locationSource": "https://www.dewelledoet.nl/activiteiten/352",
+      "locationType": "service",
+      "locationSource": "https://www.hellendoorn.nl/direct-regelen/zorg-en-welzijn/wmo-uitgelegd/tijdelijk-hulpmiddel-lenen/",
       "mapLocationType": "address"
     },
     "status": "source-backed",
-    "primarySource": "https://www.dewelledoet.nl/activiteiten/352"
+    "primarySource": "https://www.hellendoorn.nl/direct-regelen/zorg-en-welzijn/wmo-uitgelegd/tijdelijk-hulpmiddel-lenen/"
   },
   {
     "id": "org-stichting-geef-het-door-1w6sq1o",
@@ -57895,9 +57721,9 @@
       "https://www.zorgsaamtwenterand.nl/activiteiten/eetmee/",
       "https://www.zorgsaamtwenterand.nl/contact/"
     ],
-    "offerCount": 58,
+    "offerCount": 55,
     "reviewNeeded": 0,
-    "sourceBacked": 58,
+    "sourceBacked": 55,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -59818,7 +59644,8 @@
         "guidePaths": [
           "zorg/dementie",
           "zorg/mantelzorg",
-          "meedoen/daginvulling"
+          "meedoen/daginvulling",
+          "mentaal/lotgenoten"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -59835,7 +59662,7 @@
         "source": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
         "sourceKind": "first-party",
         "sourceTitle": "ZorgSaam Twenterand",
-        "checked": "2026-10-02",
+        "checked": "2026-10-20",
         "reviewStatus": "source-backed",
         "address": "Slingerweg 3",
         "postcode": "7683BR",
@@ -59906,126 +59733,6 @@
         "mapPin": false
       },
       {
-        "id": "extra-20261020-regio-zorgsaam-twenterand-ontmoetingscentrum-geheugenproblemen-den-ham",
-        "title": "ontmoetingscentrum geheugenproblemen Den Ham",
-        "name": "ZorgSaam Twenterand · ontmoetingscentrum geheugenproblemen Den Ham",
-        "description": "Vrij toegankelijke ontmoetingsgroep voor mensen met beginnende geheugenproblemen en hun mantelzorgers, met informatie en activiteiten.",
-        "municipality": "Twenterand",
-        "municipalities": [
-          "Twenterand"
-        ],
-        "category": "mantelzorg",
-        "themes": [
-          "mantelzorg"
-        ],
-        "subthemes": [],
-        "tags": [
-          "mantelzorg",
-          "zorg",
-          "dementie",
-          "mentaal",
-          "lotgenoten",
-          "ontmoetingscentrum",
-          "geheugenproblemen",
-          "zorgsaam twenterand",
-          "den ham",
-          "ontmoeten",
-          "activiteiten"
-        ],
-        "guidePaths": [
-          "zorg/dementie",
-          "zorg/mantelzorg",
-          "mentaal/lotgenoten"
-        ],
-        "guideExclude": false,
-        "activityOnly": false,
-        "activities": [],
-        "activitiesNote": "",
-        "activitiesSource": "",
-        "activitiesUpdated": "",
-        "audience": "Inwoners uit de gemeente Twenterand en belangstellenden.",
-        "costs": "Gratis; geen verwijzing of indicatie nodig.",
-        "access": "Donderdag 10.00–12.00 bij 't Muziekgebouw.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
-        "sourceKind": "first-party",
-        "sourceTitle": "ZorgSaam Twenterand",
-        "checked": "2026-10-20",
-        "reviewStatus": "source-backed",
-        "address": "Slingerweg 3",
-        "postcode": "7683BR",
-        "town": "Den Ham",
-        "lat": 52.46270593,
-        "lon": 6.4974865,
-        "locationType": "visiting",
-        "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
-        "locationMunicipality": "Twenterand",
-        "mapLocationType": "address",
-        "mapPin": true
-      },
-      {
-        "id": "extra-20261020-regio-zorgsaam-twenterand-ontmoetingscentrum-geheugenproblemen-vriezenveen",
-        "title": "ontmoetingscentrum geheugenproblemen Vriezenveen",
-        "name": "ZorgSaam Twenterand · ontmoetingscentrum geheugenproblemen Vriezenveen",
-        "description": "Vrij toegankelijk ontmoetingscentrum voor mensen met beginnende geheugenproblemen, partners en mantelzorgers, met activiteiten, gesprek en informatie.",
-        "municipality": "Twenterand",
-        "municipalities": [
-          "Twenterand"
-        ],
-        "category": "mantelzorg",
-        "themes": [
-          "mantelzorg"
-        ],
-        "subthemes": [],
-        "tags": [
-          "mantelzorg",
-          "zorg",
-          "dementie",
-          "mentaal",
-          "lotgenoten",
-          "ontmoetingscentrum",
-          "geheugenproblemen",
-          "vriezenveen",
-          "zorgsaam twenterand",
-          "ontmoeten",
-          "activiteiten"
-        ],
-        "guidePaths": [
-          "zorg/dementie",
-          "zorg/mantelzorg",
-          "mentaal/lotgenoten"
-        ],
-        "guideExclude": false,
-        "activityOnly": false,
-        "activities": [],
-        "activitiesNote": "",
-        "activitiesSource": "",
-        "activitiesUpdated": "",
-        "audience": "Inwoners uit de gemeente Twenterand en belangstellenden.",
-        "costs": "Gratis; geen verwijzing of indicatie nodig.",
-        "access": "Woensdag 09.45–11.45 bij Muziekgebouw Odeon.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
-        "sourceKind": "first-party",
-        "sourceTitle": "ZorgSaam Twenterand",
-        "checked": "2026-10-20",
-        "reviewStatus": "source-backed",
-        "address": "Schout Doddestraat 46b",
-        "postcode": "7671GT",
-        "town": "Vriezenveen",
-        "lat": 52.40303647,
-        "lon": 6.62495457,
-        "locationType": "visiting",
-        "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
-        "locationMunicipality": "Twenterand",
-        "mapLocationType": "address",
-        "mapPin": true
-      },
-      {
         "id": "extra-20261002-zorgsaam-ontmoetingscentrum-vriezenveen",
         "title": "Ontmoetingscentrum Vriezenveen",
         "name": "ZorgSaam Twenterand · Ontmoetingscentrum Vriezenveen",
@@ -60050,7 +59757,8 @@
         "guidePaths": [
           "zorg/dementie",
           "zorg/mantelzorg",
-          "meedoen/daginvulling"
+          "meedoen/daginvulling",
+          "mentaal/lotgenoten"
         ],
         "guideExclude": false,
         "activityOnly": false,
@@ -60067,7 +59775,7 @@
         "source": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
         "sourceKind": "first-party",
         "sourceTitle": "ZorgSaam Twenterand",
-        "checked": "2026-10-02",
+        "checked": "2026-10-20",
         "reviewStatus": "source-backed",
         "address": "Schout Doddestraat 46b",
         "postcode": "7671GT",
@@ -60312,67 +60020,6 @@
         "sourceKind": "first-party",
         "sourceTitle": "ZorgSaam Twenterand",
         "checked": "2026-10-03",
-        "reviewStatus": "source-backed",
-        "address": "Brinkstraat 6",
-        "postcode": "7683BN",
-        "town": "Den Ham",
-        "lat": 52.46350489,
-        "lon": 6.49471061,
-        "locationType": "visiting",
-        "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
-        "locationMunicipality": "Twenterand",
-        "mapLocationType": "address",
-        "mapPin": true
-      },
-      {
-        "id": "extra-20261020-regio-zorgsaam-twenterand-soos-de-rank-ontmoeten-en-spel",
-        "title": "Soos De Rank: ontmoeten en spel",
-        "name": "ZorgSaam Twenterand · Soos De Rank: ontmoeten en spel",
-        "description": "Verenigingsmiddag in Den Ham met biljart, kaarten, rummikub, sjoelen en contact met buurtbewoners; voor alle leeftijden.",
-        "municipality": "Twenterand",
-        "municipalities": [
-          "Twenterand"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [],
-        "tags": [
-          "ontmoeten",
-          "inloop",
-          "mentaal",
-          "eenzaamheid",
-          "meedoen",
-          "daginvulling",
-          "soos",
-          "rank:",
-          "spel",
-          "zorgsaam twenterand",
-          "den ham",
-          "activiteiten"
-        ],
-        "guidePaths": [
-          "ontmoeten/inloop",
-          "mentaal/eenzaamheid",
-          "meedoen/daginvulling"
-        ],
-        "guideExclude": false,
-        "activityOnly": false,
-        "activities": [],
-        "activitiesNote": "",
-        "activitiesSource": "",
-        "activitiesUpdated": "",
-        "audience": "Inwoners uit de gemeente Twenterand en belangstellenden.",
-        "costs": "Bescheiden contributie.",
-        "access": "Maandag 14.00–16.30.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
-        "sourceKind": "first-party",
-        "sourceTitle": "ZorgSaam Twenterand",
-        "checked": "2026-10-20",
         "reviewStatus": "source-backed",
         "address": "Brinkstraat 6",
         "postcode": "7683BN",

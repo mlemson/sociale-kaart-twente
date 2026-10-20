@@ -3302,7 +3302,7 @@
     "lat": 52.35318077,
     "lon": 6.67014332,
     "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-    "checked": "2026-10-02",
+    "checked": "2026-10-20",
     "tags": [
       "ontmoeten",
       "wijkkamer",
@@ -3316,7 +3316,8 @@
       "Hofkamp"
     ],
     "guidePaths": [
-      "ontmoeten/inloop"
+      "ontmoeten/inloop",
+      "mentaal/eenzaamheid"
     ],
     "guideExclude": false,
     "description": "Door gemeente Almelo genoemde ontmoetingsplek in Hofkamp. Een laagdrempelige plek in de wijk waar inwoners elkaar kunnen ontmoeten; programma en openingstijden verschillen per locatie.",
@@ -5144,7 +5145,7 @@
     "lat": 52.36357273,
     "lon": 6.45751026,
     "source": "https://www.dewelledoet.nl/activiteiten/352",
-    "checked": "2026-10-02",
+    "checked": "2026-10-20",
     "tags": [
       "ontmoeten",
       "creatief",
@@ -5156,7 +5157,9 @@
       "daginvulling"
     ],
     "guidePaths": [
-      "meedoen/daginvulling"
+      "meedoen/daginvulling",
+      "ontmoeten/inloop",
+      "mentaal/eenzaamheid"
     ],
     "guideExclude": false,
     "description": "Maandelijkse creatieve ochtend om met eigen hobby of materiaal bezig te zijn, inspiratie uit te wisselen en anderen te ontmoeten.",
@@ -6738,53 +6741,6 @@
     "physicalLocation": true,
     "catalogOrganizationId": "org-gemeente-almelo-lg1xtf",
     "catalogOfferId": "extra-20261020-regio-gemeente-almelo-wijkkamer-de-schoppe"
-  },
-  {
-    "id": "offer-extra-20261020-regio-gemeente-almelo-wijkkamer-trefpunt-elisabeth",
-    "name": "Gemeente Almelo · wijkkamer Trefpunt Elisabeth",
-    "category": "ontmoeten",
-    "address": "Hofkampstraat 96",
-    "postcode": "7607NJ",
-    "town": "Almelo",
-    "municipality": "Almelo",
-    "serviceMunicipalities": [
-      "Almelo"
-    ],
-    "lat": 52.35318077,
-    "lon": 6.67014332,
-    "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-    "checked": "2026-10-20",
-    "tags": [
-      "ontmoeten",
-      "inloop",
-      "mentaal",
-      "eenzaamheid",
-      "wijkkamer",
-      "trefpunt",
-      "elisabeth",
-      "gemeente almelo",
-      "almelo",
-      "activiteiten"
-    ],
-    "subthemes": [],
-    "guidePaths": [
-      "ontmoeten/inloop",
-      "mentaal/eenzaamheid"
-    ],
-    "guideExclude": false,
-    "description": "Buurtontmoetingsruimte in Hofkamp op de officiële Almelose lijst van laagdrempelige ontmoetingsplekken.",
-    "audience": "Inwoners uit de gemeente Almelo en belangstellenden.",
-    "costs": "Informeer naar eventuele kosten per activiteit.",
-    "access": "Inloop afhankelijk van rooster op locatie.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-gemeente-almelo-lg1xtf",
-    "catalogOfferId": "extra-20261020-regio-gemeente-almelo-wijkkamer-trefpunt-elisabeth"
   },
   {
     "id": "offer-extra-20261002-almelo-wijkteam-noord",
@@ -9691,8 +9647,8 @@
     "catalogOfferId": "candidate-653c4f9e44aa0e89"
   },
   {
-    "id": "offer-extra-20261020-regio-leger-des-heils-enschede-buurthuiskamer-en-kledingwinkel-zenderenbrink",
-    "name": "Leger des Heils Enschede · buurthuiskamer en kledingwinkel Zenderenbrink",
+    "id": "offer-extra-20261008-socialebasis-05",
+    "name": "Leger des Heils Enschede · buurthuiskamer en maaltijd",
     "category": "ontmoeten",
     "address": "Zenderenbrink 2",
     "postcode": "7544DZ",
@@ -9706,21 +9662,18 @@
     "source": "https://www.legerdesheils.nl/locatie/enschede",
     "checked": "2026-10-20",
     "tags": [
-      "ontmoeten",
-      "inloop",
-      "samen",
-      "basis",
-      "kleding",
-      "geld",
-      "schulden",
       "buurthuiskamer",
+      "maaltijd",
+      "tweedehands kleding",
+      "ontmoeting",
       "kledingwinkel",
-      "zenderenbrink",
-      "leger des heils enschede",
-      "enschede",
-      "activiteiten"
+      "preventieve schuldhulp",
+      "wijkontmoeting"
     ],
-    "subthemes": [],
+    "subthemes": [
+      "buurthuiskamer",
+      "maaltijd"
+    ],
     "guidePaths": [
       "ontmoeten/inloop",
       "ontmoeten/samen",
@@ -9728,10 +9681,10 @@
       "geld/schulden"
     ],
     "guideExclude": false,
-    "description": "Buurthuiskamer voor koffie, luisteren en ontmoeting, tweedehands kledingwinkel, preventieve schuldhulp en buurtmaaltijden.",
-    "audience": "Inwoners van Enschede en andere belangstellenden.",
-    "costs": "Inloop laagdrempelig; maaltijd en bepaalde activiteiten hebben een kleine eigen bijdrage.",
-    "access": "Dinsdag 10.00–16.00, woensdag 13.00–15.00 en zaterdag 10.00–12.00 volgens locatiepagina; programma verschilt per dag.",
+    "description": "Buurthuiskamer en tweedehands kledingwinkel voor koffie, luisteren, ontmoeting en warme buurtmaaltijden. Hier is ook preventieve schuldhulp. Het centrum aan Zenderenbrink 2 is toegankelijk voor bezoek.",
+    "audience": "",
+    "costs": "Buurthuiskamer laagdrempelig; warme buurtmaaltijd €5, bepaalde activiteiten tegen kleine bijdrage en kleding tegen betaling.",
+    "access": "Dinsdag, woensdag en zaterdag op de gepubliceerde inloopmomenten; controleer het actuele programma, aanmeldvoorwaarden bij maaltijden en eventuele bijdragen.",
     "openingHours": "",
     "phone": "",
     "email": "",
@@ -9740,7 +9693,7 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-leger-des-heils-enschede-ax6458",
-    "catalogOfferId": "extra-20261020-regio-leger-des-heils-enschede-buurthuiskamer-en-kledingwinkel-zenderenbrink"
+    "catalogOfferId": "extra-20261008-socialebasis-05"
   },
   {
     "id": "offer-extra-20261020-regio-leger-des-heils-twekkelerveld-buurthuiskamer-en-kledingwinkel",
@@ -13821,54 +13774,6 @@
     "catalogOfferId": "extra-20261002-borne-praathuis"
   },
   {
-    "id": "offer-extra-20261020-correctie-crea-doe-samen-creatief-en-ontmoeten",
-    "name": "Stichting De Welle Hellendoorn · Crea Doe: samen creatief en ontmoeten",
-    "category": "ontmoeten",
-    "address": "Bendien-Smitshof 38",
-    "postcode": "7442NV",
-    "town": "Nijverdal",
-    "municipality": "Hellendoorn",
-    "serviceMunicipalities": [
-      "Hellendoorn"
-    ],
-    "lat": 52.36357273,
-    "lon": 6.45751026,
-    "source": "https://www.dewelledoet.nl/activiteiten/352",
-    "checked": "2026-10-20",
-    "tags": [
-      "ontmoeten",
-      "wijk",
-      "voorliggend",
-      "Nijverdal",
-      "ontmoeten",
-      "inloop",
-      "meedoen",
-      "daginvulling",
-      "mentaal",
-      "eenzaamheid"
-    ],
-    "subthemes": [],
-    "guidePaths": [
-      "ontmoeten/inloop",
-      "meedoen/daginvulling",
-      "mentaal/eenzaamheid"
-    ],
-    "guideExclude": false,
-    "description": "Maandelijkse laagdrempelige creatieve ontmoeting van De Welle in de socioruimte van Bendien Smitshof: haken, breien, schilderen, knutselen, puzzelen of samen een spel doen.",
-    "audience": "",
-    "costs": "Deelnamekaart: 10 keer voor €17,50; materialen en consumpties kunnen extra kosten.",
-    "access": "Iedere vierde maandag van de maand 09.30–11.30 uur; neem contact op met de frontoffice van De Welle voor deelname.",
-    "openingHours": "",
-    "phone": "",
-    "email": "",
-    "locationType": "visiting",
-    "locationSource": "https://www.dewelledoet.nl/activiteiten/352",
-    "mapLocationType": "address",
-    "physicalLocation": true,
-    "catalogOrganizationId": "org-stichting-de-welle-hellendoorn-1o0dc2k",
-    "catalogOfferId": "extra-20261020-correctie-crea-doe-samen-creatief-en-ontmoeten"
-  },
-  {
     "id": "offer-extra-20261020-correctie-uitleenpunt-tijdelijke-hulpmiddelen",
     "name": "Stichting De Welle Hellendoorn · uitleenpunt tijdelijke hulpmiddelen",
     "category": "basis",
@@ -17009,16 +16914,7 @@
       "mantelzorg",
       "ontmoeten",
       "inloop",
-      "daginvulling",
-      "zorg",
-      "dementie",
-      "mentaal",
-      "lotgenoten",
-      "ontmoetingscentrum",
-      "geheugenproblemen",
-      "zorgsaam twenterand",
-      "den ham",
-      "activiteiten"
+      "daginvulling"
     ],
     "subthemes": [
       "terugkerende activiteit"
@@ -17030,7 +16926,7 @@
       "mentaal/lotgenoten"
     ],
     "guideExclude": false,
-    "description": "Vrij toegankelijke ontmoetingsgroep voor mensen met beginnende geheugenproblemen en hun mantelzorgers, met informatie en activiteiten.",
+    "description": "Gratis ontmoetingscentrum voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
     "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
     "costs": "Gratis.",
     "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
@@ -17045,7 +16941,7 @@
     "catalogOfferId": "extra-20261002-zorgsaam-ontmoetingscentrum-den-ham"
   },
   {
-    "id": "offer-extra-20261020-regio-zorgsaam-twenterand-ontmoetingscentrum-geheugenproblemen-vriezenveen",
+    "id": "offer-extra-20261002-zorgsaam-ontmoetingscentrum-vriezenveen",
     "name": "ZorgSaam Twenterand · Ontmoetingscentrum Vriezenveen",
     "category": "mantelzorg",
     "address": "Schout Doddestraat 46b",
@@ -17061,16 +16957,7 @@
     "checked": "2026-10-20",
     "tags": [
       "mantelzorg",
-      "zorg",
-      "dementie",
-      "mentaal",
-      "lotgenoten",
-      "ontmoetingscentrum",
-      "geheugenproblemen",
-      "vriezenveen",
-      "zorgsaam twenterand",
       "ontmoeten",
-      "activiteiten",
       "inloop",
       "daginvulling"
     ],
@@ -17080,23 +16967,23 @@
     "guidePaths": [
       "zorg/dementie",
       "zorg/mantelzorg",
-      "mentaal/lotgenoten",
-      "meedoen/daginvulling"
+      "meedoen/daginvulling",
+      "mentaal/lotgenoten"
     ],
     "guideExclude": false,
-    "description": "Vrij toegankelijk ontmoetingscentrum voor mensen met beginnende geheugenproblemen, partners en mantelzorgers, met activiteiten, gesprek en informatie.",
-    "audience": "Inwoners uit de gemeente Twenterand en belangstellenden.",
-    "costs": "Gratis; geen verwijzing of indicatie nodig.",
-    "access": "Woensdag 09.45–11.45 bij Muziekgebouw Odeon.",
+    "description": "Gratis ontmoetingscentrum voor mensen met beginnende geheugenproblemen en hun naasten; geen verwijzing of indicatie nodig.",
+    "audience": "Inwoners van Twenterand; doelgroep verschilt per activiteit.",
+    "costs": "Gratis.",
+    "access": "Bekijk de actuele tijden bij ZorgSaam Twenterand.",
     "openingHours": "",
     "phone": "",
     "email": "",
-    "locationType": "visiting",
+    "locationType": "service",
     "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-zorgsaam-twenterand-iw81yn",
-    "catalogOfferId": "extra-20261020-regio-zorgsaam-twenterand-ontmoetingscentrum-geheugenproblemen-vriezenveen"
+    "catalogOfferId": "extra-20261002-zorgsaam-ontmoetingscentrum-vriezenveen"
   },
   {
     "id": "offer-c-20261002-zorgsaam-rank",
@@ -17112,33 +16999,21 @@
     "lat": 52.46350489,
     "lon": 6.49471061,
     "source": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
-    "checked": "2026-10-20",
+    "checked": "2026-10-03",
     "tags": [
       "ontmoeten",
       "soos",
-      "buurt",
-      "inloop",
-      "mentaal",
-      "eenzaamheid",
-      "meedoen",
-      "daginvulling",
-      "rank:",
-      "spel",
-      "zorgsaam twenterand",
-      "den ham",
-      "activiteiten"
+      "buurt"
     ],
     "subthemes": [
       "soos",
       "Den Ham"
     ],
     "guidePaths": [
-      "ontmoeten/inloop",
-      "mentaal/eenzaamheid",
-      "meedoen/daginvulling"
+      "ontmoeten/inloop"
     ],
     "guideExclude": false,
-    "description": "Verenigingsmiddag in Den Ham met biljart, kaarten, rummikub, sjoelen en contact met buurtbewoners; voor alle leeftijden.",
+    "description": "Laagdrempelige soos in Den Ham met koffie, gesprek, biljart, kaarten, rummikub en sjoelen voor jong en oud.",
     "audience": "Inwoners van Den Ham en omgeving.",
     "costs": "Controleer actuele bijdrage.",
     "access": "Iedere maandag 14.00-16.30 uur; inwoners kunnen laagdrempelig aansluiten.",
