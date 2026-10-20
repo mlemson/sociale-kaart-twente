@@ -1302,6 +1302,153 @@
       "municipalities": [
         "Enschede"
       ]
+    },
+    {
+      "title": "Stichting Leergeld Enschede",
+      "url": "https://www.leergeldenschede.nl/contact",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Huis van Verhalen Enschede",
+      "url": "https://huisvanverhalen053.nl/",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Prismare Roombeek",
+      "url": "https://prismare.nl/over-ons",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Leger des Heils Twekkelerveld",
+      "url": "https://www.legerdesheils.nl/locatie/twekkelerveld-enschede",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "De Wonne",
+      "url": "https://dewonne.nl/kringloopwinkels",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "De Wonne",
+      "url": "https://dewonne.nl/vieringen",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "Stadsboerderij De Wesseler",
+      "url": "https://www.enschede.nl/kinderboerderijen",
+      "municipalities": [
+        "Enschede"
+      ]
+    },
+    {
+      "title": "De Ster Borne",
+      "url": "https://www.de-ster-borne.nl/",
+      "municipalities": [
+        "Borne"
+      ]
+    },
+    {
+      "title": "Kulturhus De CoCeR",
+      "url": "https://kulturhus-de-cocer.nl/",
+      "municipalities": [
+        "Dinkelland"
+      ]
+    },
+    {
+      "title": "Huis van Haaksbergen",
+      "url": "https://huisvanhaaksbergen.nl/",
+      "municipalities": [
+        "Haaksbergen"
+      ]
+    },
+    {
+      "title": "De Smidse Nijverdal",
+      "url": "https://www.visithellendoorn.nl/winkelen-en-uitgaan/uitgaan/film-theater-en-poppodia/21431-de-smidse/",
+      "municipalities": [
+        "Hellendoorn"
+      ]
+    },
+    {
+      "title": "Kulturhus Hasselo",
+      "url": "https://www.wijkcentranoord.nl/kulturhus-hasselo/home",
+      "municipalities": [
+        "Hengelo"
+      ]
+    },
+    {
+      "title": "De Reggehof Goor",
+      "url": "https://www.reggehof.nl/over-reggehof/over-ons",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "Het Beaufort Markelo",
+      "url": "https://www.visithofvantwente.nl/activiteiten/theater-en-filmhuis/1292-cultureel-centrum-het-beaufort/",
+      "municipalities": [
+        "Hof van Twente"
+      ]
+    },
+    {
+      "title": "'t Trefhuus Overdinkel",
+      "url": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+      "municipalities": [
+        "Losser"
+      ]
+    },
+    {
+      "title": "Impuls Oldenzaal",
+      "url": "https://www.impuls-oldenzaal.nl/agenda/jongereninloop-12/",
+      "municipalities": [
+        "Oldenzaal"
+      ]
+    },
+    {
+      "title": "Parkgebouw Rijssen",
+      "url": "https://www.parkgebouw.nl/contact/over-het-parkgebouw.html",
+      "municipalities": [
+        "Rijssen-Holten"
+      ]
+    },
+    {
+      "title": "Dorpshuis De Haambrink",
+      "url": "https://dehaambrink.nl/",
+      "municipalities": [
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "De Samenwerking Manderveen",
+      "url": "https://vvmanderveen.nl/de-club/multifunctionele-accommodatie/",
+      "municipalities": [
+        "Tubbergen"
+      ]
+    },
+    {
+      "title": "ZorgSaam Twenterand",
+      "url": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
+      "municipalities": [
+        "Twenterand"
+      ]
+    },
+    {
+      "title": "De Welle Wierden",
+      "url": "https://www.socialekaartwierden.nl/is/product/160208/220582/invis2/gezellige-inloopochtend",
+      "municipalities": [
+        "Wierden"
+      ]
     }
   ],
   "candidates": [
@@ -21046,6 +21193,1391 @@
       "lon": 6.8534823,
       "mapLocationType": "address",
       "addressChecked": "2026-10-20"
+    },
+    {
+      "id": "extra-20261020-regio-stichting-leergeld-enschede-vrije-inloop-bij-de-vlecht",
+      "name": "Stichting Leergeld Enschede · vrije inloop bij De Vlecht",
+      "source": "https://www.leergeldenschede.nl/contact",
+      "sourceTitle": "Stichting Leergeld Enschede",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "geld",
+      "primaryTheme": "geld",
+      "themes": [
+        "geld"
+      ],
+      "subthemes": [],
+      "tags": [
+        "geld",
+        "regelingen",
+        "onderwijs",
+        "opvoeden",
+        "basis",
+        "praktisch",
+        "vrije",
+        "inloop",
+        "vlecht",
+        "stichting leergeld enschede",
+        "enschede",
+        "ontmoeten",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "geld/regelingen",
+        "onderwijs/opvoeden",
+        "basis/praktisch"
+      ],
+      "description": "In gebouw De Vlecht helpt Stichting Leergeld gezinnen met een laag inkomen bij deelname van kinderen aan school, sport en cultuur. Op hetzelfde adres zijn ook Voedselbank, Kledingbank en Meubeldepot gevestigd; dit zijn zelfstandige organisaties met eigen toegangsvoorwaarden.",
+      "audience": "Inwoners van Enschede en andere belangstellenden.",
+      "access": "Woensdag 13.30–15.30 uur inloop voor vragen; aanvraag voor financiële steun doorgaans online of met intake.",
+      "costs": "Ondersteuning bij goedgekeurde aanvragen; inkomensvoorwaarden gelden. Geen algemene vrije uitgifte.",
+      "address": "Haaksbergerstraat 153",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.leergeldenschede.nl/contact",
+      "mapPin": true,
+      "locationMunicipality": "Enschede",
+      "postcode": "7513 EL"
+    },
+    {
+      "id": "extra-20261020-regio-huis-van-verhalen-enschede-open-huiskamer-verhalen-en-ontmoeting",
+      "name": "Huis van Verhalen Enschede · open huiskamer, verhalen en ontmoeting",
+      "source": "https://huisvanverhalen053.nl/",
+      "sourceTitle": "Huis van Verhalen Enschede",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "mentaal",
+        "eenzaamheid",
+        "meedoen",
+        "vrijwillig",
+        "open",
+        "huiskamer",
+        "verhalen",
+        "ontmoeting",
+        "huis van verhalen enschede",
+        "enschede",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "mentaal/eenzaamheid",
+        "meedoen/vrijwillig"
+      ],
+      "description": "Open huiskamer in Roombeek voor gesprek en ontmoeting, sociale en creatieve activiteiten, vrijwilligerswerk en werkervaring. Het bijbehorende restaurant biedt koffie en lunch.",
+      "audience": "Inwoners van Enschede en andere belangstellenden.",
+      "access": "Gastvrouwen/-heren aanwezig dinsdag, woensdag en donderdag vanaf 14.00; restaurant doordeweeks 09.00–17.00.",
+      "costs": "Binnenlopen in huiskamer vrij; consumpties en sommige activiteiten tegen betaling.",
+      "address": "Lonnekerspoorlaan 120",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://huisvanverhalen053.nl/",
+      "mapPin": true,
+      "locationMunicipality": "Enschede",
+      "postcode": "7523 JM"
+    },
+    {
+      "id": "extra-20261020-regio-prismare-roombeek-wijkcentrum-i-punt-en-verenigingsactiviteiten",
+      "name": "Prismare Roombeek · wijkcentrum, I-Punt en verenigingsactiviteiten",
+      "source": "https://prismare.nl/over-ons",
+      "sourceTitle": "Prismare Roombeek",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "meedoen",
+        "daginvulling",
+        "onderwijs",
+        "jongeren",
+        "wijkcentrum",
+        "i-punt",
+        "verenigingsactiviteiten",
+        "prismare roombeek",
+        "enschede",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling",
+        "onderwijs/jongeren"
+      ],
+      "description": "Multifunctioneel wijkcentrum met een I-Punt voor vragen over activiteiten, plaats voor vele verenigingen, cursussen, culturele activiteiten en Huis van Verhalen.",
+      "audience": "Inwoners van Enschede en andere belangstellenden.",
+      "access": "Tijdens openingstijden van Prismare; toegang tot specifieke activiteiten volgens eigen rooster.",
+      "costs": "Informatie en bezoek vrij toegankelijk; sommige activiteiten betaald.",
+      "address": "Roomweg 167D",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://prismare.nl/over-ons",
+      "mapPin": true,
+      "locationMunicipality": "Enschede",
+      "postcode": "7523 BM"
+    },
+    {
+      "id": "extra-20261020-regio-leger-des-heils-enschede-buurthuiskamer-en-kledingwinkel-zenderenbrink",
+      "name": "Leger des Heils Enschede · buurthuiskamer en kledingwinkel Zenderenbrink",
+      "source": "https://www.legerdesheils.nl/locatie/enschede",
+      "sourceTitle": "Leger des Heils Enschede",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "samen",
+        "basis",
+        "kleding",
+        "geld",
+        "schulden",
+        "buurthuiskamer",
+        "kledingwinkel",
+        "zenderenbrink",
+        "leger des heils enschede",
+        "enschede",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "ontmoeten/samen",
+        "basis/kleding",
+        "geld/schulden"
+      ],
+      "description": "Buurthuiskamer voor koffie, luisteren en ontmoeting, tweedehands kledingwinkel, preventieve schuldhulp en buurtmaaltijden.",
+      "audience": "Inwoners van Enschede en andere belangstellenden.",
+      "access": "Dinsdag 10.00–16.00, woensdag 13.00–15.00 en zaterdag 10.00–12.00 volgens locatiepagina; programma verschilt per dag.",
+      "costs": "Inloop laagdrempelig; maaltijd en bepaalde activiteiten hebben een kleine eigen bijdrage.",
+      "address": "Zenderenbrink 2",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.legerdesheils.nl/locatie/enschede",
+      "mapPin": true,
+      "locationMunicipality": "Enschede",
+      "postcode": "7544 DZ"
+    },
+    {
+      "id": "extra-20261020-regio-leger-des-heils-twekkelerveld-buurthuiskamer-en-kledingwinkel",
+      "name": "Leger des Heils Twekkelerveld · buurthuiskamer en kledingwinkel",
+      "source": "https://www.legerdesheils.nl/locatie/twekkelerveld-enschede",
+      "sourceTitle": "Leger des Heils Twekkelerveld",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "basis",
+        "kleding",
+        "mentaal",
+        "eenzaamheid",
+        "buurthuiskamer",
+        "kledingwinkel",
+        "leger des heils twekkelerveld",
+        "enschede",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "basis/kleding",
+        "mentaal/eenzaamheid"
+      ],
+      "description": "Buurthuiskamer en tweedehands kledingwinkel voor buurtbewoners van Twekkelerveld, met koffie, een luisterend oor en laagdrempelig contact.",
+      "audience": "Inwoners van Enschede en andere belangstellenden.",
+      "access": "Dinsdag 14.00–16.00, woensdag 11.00–16.00, donderdag 14.00–16.00, vrijdag 11.00–13.00 volgens locatiepagina.",
+      "costs": "Buurthuiskamer laagdrempelig; kleding en sommige consumpties betaald.",
+      "address": "Zonstraat 1",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.legerdesheils.nl/locatie/twekkelerveld-enschede",
+      "mapPin": true,
+      "locationMunicipality": "Enschede",
+      "postcode": "7521 HD"
+    },
+    {
+      "id": "extra-20261020-regio-de-wonne-handje-2-en-wonnewinkel",
+      "name": "De Wonne · Handje 2 en Wonnewinkel",
+      "source": "https://dewonne.nl/kringloopwinkels",
+      "sourceTitle": "De Wonne",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "basis",
+      "primaryTheme": "basis",
+      "themes": [
+        "basis"
+      ],
+      "subthemes": [],
+      "tags": [
+        "basis",
+        "kleding",
+        "praktisch",
+        "meedoen",
+        "vrijwillig",
+        "handje",
+        "wonnewinkel",
+        "de wonne",
+        "enschede",
+        "ontmoeten",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "basis/kleding",
+        "basis/praktisch",
+        "meedoen/vrijwillig"
+      ],
+      "description": "Twee kringloopwinkels van woongemeenschap De Wonne aan de Noorderhagen 19–23: Handje 2 voor kleding en de Wonnewinkel voor tweedehands spullen. De winkels draaien op vrijwilligers en ondersteunen het werk van de leefgemeenschap.",
+      "audience": "Inwoners van Enschede en andere belangstellenden.",
+      "access": "Handje 2 dinsdag, woensdag en zaterdag 11.00–15.00; Wonnewinkel woensdag en zaterdag 11.00–15.00.",
+      "costs": "Tweedehands aankopen betaald; vrijwilligersdeelname in overleg.",
+      "address": "Noorderhagen 19",
+      "town": "Enschede",
+      "locationType": "service",
+      "locationSource": "https://dewonne.nl/kringloopwinkels",
+      "mapPin": true,
+      "locationMunicipality": "Enschede",
+      "postcode": "7511 EK"
+    },
+    {
+      "id": "extra-20261020-regio-de-wonne-open-viering-en-ontmoeting",
+      "name": "De Wonne · open viering en ontmoeting",
+      "source": "https://dewonne.nl/vieringen",
+      "sourceTitle": "De Wonne",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "mentaal",
+        "eenzaamheid",
+        "meedoen",
+        "vrijwillig",
+        "open",
+        "viering",
+        "ontmoeting",
+        "de wonne",
+        "enschede",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "mentaal/eenzaamheid",
+        "meedoen/vrijwillig"
+      ],
+      "description": "Woongemeenschap met oecumenische openbare vieringen en ontmoeting na afloop. Ook mogelijkheden voor vrijwilligerswerk en gesprek. De woonopvang zelf is niet vrij toegankelijk.",
+      "audience": "Inwoners van Enschede en andere belangstellenden.",
+      "access": "Zondag om 11.00 uur viering met gelegenheid tot ontmoeting; privéwoonruimten niet openbaar.",
+      "costs": "Viering toegankelijk voor bezoekers, geen algemeen dagelijks inloopspreekuur.",
+      "address": "Noorderhagen 25",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://dewonne.nl/vieringen",
+      "mapPin": true,
+      "locationMunicipality": "Enschede",
+      "postcode": "7511 EK"
+    },
+    {
+      "id": "extra-20261020-regio-stadsboerderij-de-wesseler-kinderboerderij-groen-en-buitenactiviteiten",
+      "name": "Stadsboerderij De Wesseler · kinderboerderij, groen en buitenactiviteiten",
+      "source": "https://www.enschede.nl/kinderboerderijen",
+      "sourceTitle": "Stadsboerderij De Wesseler",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "onderwijs",
+        "opvoeden",
+        "inloop",
+        "meedoen",
+        "daginvulling",
+        "kinderboerderij",
+        "groen",
+        "buitenactiviteiten",
+        "stadsboerderij de wesseler",
+        "enschede",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "onderwijs/opvoeden",
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "description": "Gemeentelijke stadsboerderij in het Wesselerbrinkpark met dieren, buitenbezoek en natuuractiviteiten voor gezinnen. Vraag bij de stadsboerderij naar deelname aan specifieke activiteiten.",
+      "audience": "Inwoners van Enschede en andere belangstellenden.",
+      "access": "Bezoek volgens actuele openingstijden op de officiële gemeentepagina.",
+      "costs": "Gewoon bezoek vrij toegankelijk; eventuele bijzondere activiteiten apart controleren.",
+      "address": "Wesselerweg 15A",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/kinderboerderijen",
+      "mapPin": true,
+      "locationMunicipality": "Enschede",
+      "postcode": "7544 RP"
+    },
+    {
+      "id": "extra-20261020-regio-kinderboerderij-noord-enschede-dieren-en-laagdrempelig-gezinsuitje",
+      "name": "Kinderboerderij Noord Enschede · dieren en laagdrempelig gezinsuitje",
+      "source": "https://www.enschede.nl/kinderboerderijen",
+      "sourceTitle": "Kinderboerderij Noord Enschede",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "onderwijs",
+        "opvoeden",
+        "inloop",
+        "dieren",
+        "laagdrempelig",
+        "gezinsuitje",
+        "kinderboerderij noord enschede",
+        "enschede",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "onderwijs/opvoeden",
+        "ontmoeten/inloop"
+      ],
+      "description": "Kinderboerderij in Deppenbroek voor buurtbewoners en gezinnen met dieren en buitenactiviteiten.",
+      "audience": "Inwoners van Enschede en andere belangstellenden.",
+      "access": "Oktober t/m maart 08.30–16.00; april t/m september 08.00–16.30 volgens gemeentepagina.",
+      "costs": "Vrij toegankelijk bezoek.",
+      "address": "Vanekerbeekweg 15",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/kinderboerderijen",
+      "mapPin": true,
+      "locationMunicipality": "Enschede",
+      "postcode": "7524 PE"
+    },
+    {
+      "id": "extra-20261020-regio-kinderboerderij-erve-t-wooldrik-dieren-en-ontmoeting-in-wooldrikspark",
+      "name": "Kinderboerderij Erve 't Wooldrik · dieren en ontmoeting in Wooldrikspark",
+      "source": "https://www.enschede.nl/kinderboerderijen",
+      "sourceTitle": "Kinderboerderij Erve 't Wooldrik",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Enschede"
+      ],
+      "municipality": "Enschede",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "onderwijs",
+        "opvoeden",
+        "inloop",
+        "dieren",
+        "ontmoeting",
+        "wooldrikspark",
+        "kinderboerderij erve 't wooldrik",
+        "enschede",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "onderwijs/opvoeden",
+        "ontmoeten/inloop"
+      ],
+      "description": "Kinderboerderij in het Wooldrikspark met dieren en bezoek voor kinderen, ouders en andere buurtbewoners.",
+      "audience": "Inwoners van Enschede en andere belangstellenden.",
+      "access": "Controleer de actuele openingstijden van de kinderboerderij.",
+      "costs": "Vrij toegankelijk bezoek.",
+      "address": "Lorentzlaan 22",
+      "town": "Enschede",
+      "locationType": "visiting",
+      "locationSource": "https://www.enschede.nl/kinderboerderijen",
+      "mapPin": true,
+      "locationMunicipality": "Enschede",
+      "postcode": "7535 CK"
+    },
+    {
+      "id": "extra-20261020-regio-gemeente-almelo-wijkkamer-de-schoppe",
+      "name": "Gemeente Almelo · wijkkamer De Schöppe",
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "meedoen",
+        "daginvulling",
+        "wijkkamer",
+        "schöppe",
+        "gemeente almelo",
+        "almelo",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling"
+      ],
+      "description": "Door de gemeente genoemde wijkkamer in De Riet voor koffie, contact en buurtactiviteiten.",
+      "audience": "Inwoners uit de gemeente Almelo en belangstellenden.",
+      "access": "Vrij binnenlopen volgens de lokale activiteitenagenda; controleer actuele tijden.",
+      "costs": "Vraag naar eventuele bijdrage per activiteit.",
+      "address": "Clematisstraat 2",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapPin": true,
+      "locationMunicipality": "Almelo"
+    },
+    {
+      "id": "extra-20261020-regio-gemeente-almelo-wijkkamer-trefpunt-elisabeth",
+      "name": "Gemeente Almelo · wijkkamer Trefpunt Elisabeth",
+      "source": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "sourceTitle": "Gemeente Almelo",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Almelo"
+      ],
+      "municipality": "Almelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "mentaal",
+        "eenzaamheid",
+        "wijkkamer",
+        "trefpunt",
+        "elisabeth",
+        "gemeente almelo",
+        "almelo",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "mentaal/eenzaamheid"
+      ],
+      "description": "Buurtontmoetingsruimte in Hofkamp op de officiële Almelose lijst van laagdrempelige ontmoetingsplekken.",
+      "audience": "Inwoners uit de gemeente Almelo en belangstellenden.",
+      "access": "Inloop afhankelijk van rooster op locatie.",
+      "costs": "Informeer naar eventuele kosten per activiteit.",
+      "address": "Hofkampstraat 96",
+      "town": "Almelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
+      "mapPin": true,
+      "locationMunicipality": "Almelo"
+    },
+    {
+      "id": "extra-20261020-regio-de-ster-borne-sociaal-lunchcafe-en-atelier",
+      "name": "De Ster Borne · sociaal lunchcafé en atelier",
+      "source": "https://www.de-ster-borne.nl/",
+      "sourceTitle": "De Ster Borne",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Borne"
+      ],
+      "municipality": "Borne",
+      "category": "meedoen",
+      "primaryTheme": "meedoen",
+      "themes": [
+        "meedoen"
+      ],
+      "subthemes": [],
+      "tags": [
+        "meedoen",
+        "daginvulling",
+        "ontmoeten",
+        "inloop",
+        "sociaal",
+        "lunchcafé",
+        "atelier",
+        "de ster borne",
+        "borne",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
+      ],
+      "description": "Lunchcafé met atelier dat bezoekers welkom heet en ruimte biedt om in een andere omgeving mensen te ontmoeten en het atelier te bekijken. Geen gratis welzijnsinloop; wel een relevante maatschappelijke participatieplek.",
+      "audience": "Inwoners uit de gemeente Borne en belangstellenden.",
+      "access": "Maandag t/m vrijdag 09.00–16.30.",
+      "costs": "Caféconsumpties betaald; atelierbezoek en deelnemersmogelijkheden vooraf bespreken.",
+      "address": "Marktstraat 16B",
+      "town": "Borne",
+      "locationType": "visiting",
+      "locationSource": "https://www.de-ster-borne.nl/",
+      "mapPin": true,
+      "locationMunicipality": "Borne",
+      "postcode": "7622 CR"
+    },
+    {
+      "id": "extra-20261020-regio-kulturhus-de-cocer-dorpsactiviteiten-en-ontmoeting-rossum",
+      "name": "Kulturhus De CoCeR · dorpsactiviteiten en ontmoeting Rossum",
+      "source": "https://kulturhus-de-cocer.nl/",
+      "sourceTitle": "Kulturhus De CoCeR",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Dinkelland"
+      ],
+      "municipality": "Dinkelland",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "meedoen",
+        "daginvulling",
+        "bewegen",
+        "dorpsactiviteiten",
+        "ontmoeting",
+        "rossum",
+        "kulturhus de cocer",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling",
+        "ontmoeten/bewegen"
+      ],
+      "description": "Cultureel dorpshart met dorpsbibliotheek, kaartclub, schilderclub, koersbal, handwerkactiviteiten, voorstellingen en sociale bijeenkomsten.",
+      "audience": "Inwoners uit de gemeente Dinkelland en belangstellenden.",
+      "access": "Veelal maandag t/m vrijdag 08.30–17.00 en 19.00–22.30; deelname volgens activiteitenagenda.",
+      "costs": "Per activiteit wisselende of geringe kosten.",
+      "address": "Thijplein 1",
+      "town": "Rossum",
+      "locationType": "visiting",
+      "locationSource": "https://kulturhus-de-cocer.nl/",
+      "mapPin": true,
+      "locationMunicipality": "Dinkelland",
+      "postcode": "7596 KM"
+    },
+    {
+      "id": "extra-20261020-regio-huis-van-haaksbergen-de-kappen-ontmoeten-bibliotheek-en-activiteiten",
+      "name": "Huis van Haaksbergen · De Kappen: ontmoeten, bibliotheek en activiteiten",
+      "source": "https://huisvanhaaksbergen.nl/",
+      "sourceTitle": "Huis van Haaksbergen",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Haaksbergen"
+      ],
+      "municipality": "Haaksbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "meedoen",
+        "daginvulling",
+        "taal",
+        "digitaal",
+        "kappen:",
+        "bibliotheek",
+        "activiteiten",
+        "huis van haaksbergen",
+        "haaksbergen"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling",
+        "taal/digitaal"
+      ],
+      "description": "Het Huis van Haaksbergen/De Kappen biedt een openbaar ontmoetingscentrum met bibliotheek, vrijwilligersactiviteiten, culturele activiteiten en mogelijkheden voor leren en meedoen.",
+      "audience": "Inwoners uit de gemeente Haaksbergen en belangstellenden.",
+      "access": "Volgens de actuele agenda; op werkdagen vanaf 09.00 uur geopend.",
+      "costs": "Binnenlopen in algemene ruimtes mogelijk; voorstellingen en sommige activiteiten betaald.",
+      "address": "Blankenburgerstraat 40-42",
+      "town": "Haaksbergen",
+      "locationType": "visiting",
+      "locationSource": "https://huisvanhaaksbergen.nl/",
+      "mapPin": true,
+      "locationMunicipality": "Haaksbergen",
+      "postcode": "7481 EB"
+    },
+    {
+      "id": "extra-20261020-regio-de-smidse-nijverdal-cultureel-podium-en-exposities",
+      "name": "De Smidse Nijverdal · cultureel podium en exposities",
+      "source": "https://www.visithellendoorn.nl/winkelen-en-uitgaan/uitgaan/film-theater-en-poppodia/21431-de-smidse/",
+      "sourceTitle": "De Smidse Nijverdal",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Hellendoorn"
+      ],
+      "municipality": "Hellendoorn",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "meedoen",
+        "daginvulling",
+        "inloop",
+        "cultureel",
+        "podium",
+        "exposities",
+        "de smidse nijverdal",
+        "nijverdal",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
+      ],
+      "description": "Laagdrempelige culturele locatie voor exposities, concerten en lokale bijeenkomsten. Geen dagelijks open welzijnsspreekuur.",
+      "audience": "Inwoners uit de gemeente Hellendoorn en belangstellenden.",
+      "access": "Alleen open voor aangekondigde programma's en evenementen.",
+      "costs": "Toegang en prijzen per evenement verschillen.",
+      "address": "Hoge Dijkje 4A",
+      "town": "Nijverdal",
+      "locationType": "service",
+      "locationSource": "https://www.visithellendoorn.nl/winkelen-en-uitgaan/uitgaan/film-theater-en-poppodia/21431-de-smidse/",
+      "mapPin": true,
+      "locationMunicipality": "Hellendoorn",
+      "postcode": "7442 AE"
+    },
+    {
+      "id": "extra-20261020-regio-kulturhus-hasselo-wijkcentrum-ontmoeting-en-activiteiten",
+      "name": "Kulturhus Hasselo · wijkcentrum ontmoeting en activiteiten",
+      "source": "https://www.wijkcentranoord.nl/kulturhus-hasselo/home",
+      "sourceTitle": "Kulturhus Hasselo",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Hengelo"
+      ],
+      "municipality": "Hengelo",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "bewegen",
+        "meedoen",
+        "daginvulling",
+        "wijkcentrum",
+        "ontmoeting",
+        "activiteiten",
+        "kulturhus hasselo",
+        "hengelo"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "ontmoeten/bewegen",
+        "meedoen/daginvulling"
+      ],
+      "description": "Kulturhus voor bewoners van Hasseler Es en omliggende wijken met recreatieve, creatieve, sportieve en culturele activiteiten, bijeenkomsten en verenigingen.",
+      "audience": "Inwoners uit de gemeente Hengelo en belangstellenden.",
+      "access": "Loop tijdens openingsuren binnen; activiteiten volgens het actuele programma.",
+      "costs": "Activiteiten en zaalhuur kunnen geld kosten.",
+      "address": "Henry Woodstraat 62",
+      "town": "Hengelo",
+      "locationType": "visiting",
+      "locationSource": "https://www.wijkcentranoord.nl/kulturhus-hasselo/home",
+      "mapPin": true,
+      "locationMunicipality": "Hengelo",
+      "postcode": "7558 CP"
+    },
+    {
+      "id": "extra-20261020-regio-de-reggehof-goor-verenigingen-cultuur-en-ontmoetingscentrum",
+      "name": "De Reggehof Goor · verenigingen, cultuur en ontmoetingscentrum",
+      "source": "https://www.reggehof.nl/over-reggehof/over-ons",
+      "sourceTitle": "De Reggehof Goor",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "meedoen",
+        "daginvulling",
+        "inloop",
+        "verenigingen",
+        "cultuur",
+        "ontmoetingscentrum",
+        "de reggehof goor",
+        "goor",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
+      ],
+      "description": "Maatschappelijk en cultureel verenigingscentrum in Goor: huisvesting voor lokale verenigingen en activiteiten, filmhuis en voorstellingen. Geen algemene gratis zorginloop.",
+      "audience": "Inwoners uit de gemeente Hof van Twente en belangstellenden.",
+      "access": "Opening en aanmelding afhankelijk van activiteiten en verenigingen.",
+      "costs": "Verschillende deelnamekosten per activiteit of voorstelling.",
+      "address": "De Höfte 5",
+      "town": "Goor",
+      "locationType": "visiting",
+      "locationSource": "https://www.reggehof.nl/over-reggehof/over-ons",
+      "mapPin": true,
+      "locationMunicipality": "Hof van Twente",
+      "postcode": "7471 DK"
+    },
+    {
+      "id": "extra-20261020-regio-het-beaufort-markelo-cultureel-centrum-en-verenigingsactiviteiten",
+      "name": "Het Beaufort Markelo · cultureel centrum en verenigingsactiviteiten",
+      "source": "https://www.visithofvantwente.nl/activiteiten/theater-en-filmhuis/1292-cultureel-centrum-het-beaufort/",
+      "sourceTitle": "Het Beaufort Markelo",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Hof van Twente"
+      ],
+      "municipality": "Hof van Twente",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "meedoen",
+        "daginvulling",
+        "inloop",
+        "cultureel",
+        "centrum",
+        "verenigingsactiviteiten",
+        "het beaufort markelo",
+        "markelo",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
+      ],
+      "description": "Cultuurhuis voor concerten, lezingen en activiteiten in Markelo; vrij toegankelijke lokale voorziening op momenten van activiteiten.",
+      "audience": "Inwoners uit de gemeente Hof van Twente en belangstellenden.",
+      "access": "Open bij activiteiten, exposities of op afspraak; geen vaste vrije inloop.",
+      "costs": "Kosten afhankelijk van activiteit of voorstelling.",
+      "address": "Burgemeester De Beaufortplein 1",
+      "town": "Markelo",
+      "locationType": "service",
+      "locationSource": "https://www.visithofvantwente.nl/activiteiten/theater-en-filmhuis/1292-cultureel-centrum-het-beaufort/",
+      "mapPin": true,
+      "locationMunicipality": "Hof van Twente",
+      "postcode": "7475 AG"
+    },
+    {
+      "id": "extra-20261020-regio-t-trefhuus-overdinkel-dorpshuis-en-buurtactiviteiten",
+      "name": "'t Trefhuus Overdinkel · dorpshuis en buurtactiviteiten",
+      "source": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+      "sourceTitle": "'t Trefhuus Overdinkel",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Losser"
+      ],
+      "municipality": "Losser",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "meedoen",
+        "daginvulling",
+        "onderwijs",
+        "opvoeden",
+        "dorpshuis",
+        "buurtactiviteiten",
+        "'t trefhuus overdinkel",
+        "overdinkel",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling",
+        "onderwijs/opvoeden"
+      ],
+      "description": "Dorpshuis in Overdinkel met bibliotheek, groeps- en buurtactiviteiten voor verschillende leeftijden; meerdere organisaties gebruiken het gebouw.",
+      "audience": "Inwoners uit de gemeente Losser en belangstellenden.",
+      "access": "Open volgens aanbod en de actuele agenda van Fundament en 't Trefhuus.",
+      "costs": "Kosten verschillen per activiteit.",
+      "address": "Prins Hendrikstraat 1",
+      "town": "Overdinkel",
+      "locationType": "visiting",
+      "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
+      "mapPin": true,
+      "locationMunicipality": "Losser",
+      "postcode": "7586 BG"
+    },
+    {
+      "id": "extra-20261020-regio-impuls-oldenzaal-jongereninloop-12-bij-willemien",
+      "name": "Impuls Oldenzaal · jongereninloop 12+ bij Willemien",
+      "source": "https://www.impuls-oldenzaal.nl/agenda/jongereninloop-12/",
+      "sourceTitle": "Impuls Oldenzaal",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Oldenzaal"
+      ],
+      "municipality": "Oldenzaal",
+      "category": "jeugd",
+      "primaryTheme": "jeugd",
+      "themes": [
+        "jeugd"
+      ],
+      "subthemes": [],
+      "tags": [
+        "jeugd",
+        "onderwijs",
+        "jongeren",
+        "ontmoeten",
+        "inloop",
+        "mentaal",
+        "welzijn",
+        "jongereninloop",
+        "willemien",
+        "impuls oldenzaal",
+        "oldenzaal",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "onderwijs/jongeren",
+        "ontmoeten/inloop",
+        "mentaal/welzijn"
+      ],
+      "description": "Gratis jongereninloop van Impuls in sociaal-cultureel centrum Willemien: gamen, poolen, ontspannen en praten met jongerenwerkers.",
+      "audience": "Inwoners uit de gemeente Oldenzaal en belangstellenden.",
+      "access": "Dinsdag en donderdag 19.00–21.30; geen aanmelding nodig.",
+      "costs": "Gratis; frisdrank tegen kleine vergoeding.",
+      "address": "Wilhelminastraat 5",
+      "town": "Oldenzaal",
+      "locationType": "visiting",
+      "locationSource": "https://www.impuls-oldenzaal.nl/agenda/jongereninloop-12/",
+      "mapPin": true,
+      "locationMunicipality": "Oldenzaal",
+      "postcode": "7571 CE"
+    },
+    {
+      "id": "extra-20261020-regio-parkgebouw-rijssen-verenigingen-en-maatschappelijke-activiteiten",
+      "name": "Parkgebouw Rijssen · verenigingen en maatschappelijke activiteiten",
+      "source": "https://www.parkgebouw.nl/contact/over-het-parkgebouw.html",
+      "sourceTitle": "Parkgebouw Rijssen",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Rijssen-Holten"
+      ],
+      "municipality": "Rijssen-Holten",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "meedoen",
+        "daginvulling",
+        "inloop",
+        "verenigingen",
+        "maatschappelijke",
+        "activiteiten",
+        "parkgebouw rijssen",
+        "rijssen"
+      ],
+      "guidePaths": [
+        "meedoen/daginvulling",
+        "ontmoeten/inloop"
+      ],
+      "description": "Cultureel en maatschappelijk verenigingscentrum met theater, ruimte voor clubs en activiteiten, nabij het openbare Volkspark.",
+      "audience": "Inwoners uit de gemeente Rijssen-Holten en belangstellenden.",
+      "access": "Doordeweeks overdag geopend, verenigingen en voorstellingen volgens de agenda.",
+      "costs": "Meedoen aan activiteiten en voorstellingen kan kosten met zich meebrengen.",
+      "address": "Oosterhofweg 49",
+      "town": "Rijssen",
+      "locationType": "visiting",
+      "locationSource": "https://www.parkgebouw.nl/contact/over-het-parkgebouw.html",
+      "mapPin": true,
+      "locationMunicipality": "Rijssen-Holten",
+      "postcode": "7461 BT"
+    },
+    {
+      "id": "extra-20261020-regio-dorpshuis-de-haambrink-dorpshuiskamer-en-verenigingsactiviteiten",
+      "name": "Dorpshuis De Haambrink · dorpshuiskamer en verenigingsactiviteiten",
+      "source": "https://dehaambrink.nl/",
+      "sourceTitle": "Dorpshuis De Haambrink",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "meedoen",
+        "daginvulling",
+        "bewegen",
+        "dorpshuiskamer",
+        "verenigingsactiviteiten",
+        "dorpshuis de haambrink",
+        "mariaparochie",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling",
+        "ontmoeten/bewegen"
+      ],
+      "description": "Maatschappelijke dorpslocatie met sport, verenigingen en een dorpshuiskamer waar bewoners wekelijks terechtkunnen voor contact, koffie en een spelletje.",
+      "audience": "Inwoners uit de gemeente Tubbergen en belangstellenden.",
+      "access": "Dorpshuiskamer woensdag 09.30–11.30 volgens de activiteiteninformatie van de regio; andere activiteiten volgens rooster.",
+      "costs": "Mogelijke consumptie- of deelnamebijdragen verschillen.",
+      "address": "Almeloseweg 211",
+      "town": "Mariaparochie",
+      "locationType": "visiting",
+      "locationSource": "https://dehaambrink.nl/",
+      "mapPin": true,
+      "locationMunicipality": "Tubbergen",
+      "postcode": "7614 LA"
+    },
+    {
+      "id": "extra-20261020-regio-de-samenwerking-manderveen-multifunctioneel-dorpshuis-en-huiskamer",
+      "name": "De Samenwerking Manderveen · multifunctioneel dorpshuis en huiskamer",
+      "source": "https://vvmanderveen.nl/de-club/multifunctionele-accommodatie/",
+      "sourceTitle": "De Samenwerking Manderveen",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Tubbergen"
+      ],
+      "municipality": "Tubbergen",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "meedoen",
+        "daginvulling",
+        "bewegen",
+        "multifunctioneel",
+        "dorpshuis",
+        "huiskamer",
+        "de samenwerking manderveen",
+        "manderveen",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "meedoen/daginvulling",
+        "ontmoeten/bewegen"
+      ],
+      "description": "Multifunctioneel gebouw met verenigingen, onderwijs, sport en de Huiskamer van Manderveen als centrale ontmoetingsplek voor jong en oud.",
+      "audience": "Inwoners uit de gemeente Tubbergen en belangstellenden.",
+      "access": "Huiskamer op meerdere momenten per week; specifieke inlooptijden navragen.",
+      "costs": "Bijdrage per activiteit of consumptie mogelijk.",
+      "address": "Manderveenseweg 70",
+      "town": "Manderveen",
+      "locationType": "visiting",
+      "locationSource": "https://vvmanderveen.nl/de-club/multifunctionele-accommodatie/",
+      "mapPin": true,
+      "locationMunicipality": "Tubbergen",
+      "postcode": "7664 VV"
+    },
+    {
+      "id": "extra-20261020-regio-zorgsaam-twenterand-ontmoetingscentrum-geheugenproblemen-vriezenveen",
+      "name": "ZorgSaam Twenterand · ontmoetingscentrum geheugenproblemen Vriezenveen",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [],
+      "tags": [
+        "mantelzorg",
+        "zorg",
+        "dementie",
+        "mentaal",
+        "lotgenoten",
+        "ontmoetingscentrum",
+        "geheugenproblemen",
+        "vriezenveen",
+        "zorgsaam twenterand",
+        "ontmoeten",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "zorg/dementie",
+        "zorg/mantelzorg",
+        "mentaal/lotgenoten"
+      ],
+      "description": "Vrij toegankelijk ontmoetingscentrum voor mensen met beginnende geheugenproblemen, partners en mantelzorgers, met activiteiten, gesprek en informatie.",
+      "audience": "Inwoners uit de gemeente Twenterand en belangstellenden.",
+      "access": "Woensdag 09.45–11.45 bij Muziekgebouw Odeon.",
+      "costs": "Gratis; geen verwijzing of indicatie nodig.",
+      "address": "Schout Doddestraat 46B",
+      "town": "Vriezenveen",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "mapPin": true,
+      "locationMunicipality": "Twenterand"
+    },
+    {
+      "id": "extra-20261020-regio-zorgsaam-twenterand-ontmoetingscentrum-geheugenproblemen-den-ham",
+      "name": "ZorgSaam Twenterand · ontmoetingscentrum geheugenproblemen Den Ham",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "mantelzorg",
+      "primaryTheme": "mantelzorg",
+      "themes": [
+        "mantelzorg"
+      ],
+      "subthemes": [],
+      "tags": [
+        "mantelzorg",
+        "zorg",
+        "dementie",
+        "mentaal",
+        "lotgenoten",
+        "ontmoetingscentrum",
+        "geheugenproblemen",
+        "zorgsaam twenterand",
+        "den ham",
+        "ontmoeten",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "zorg/dementie",
+        "zorg/mantelzorg",
+        "mentaal/lotgenoten"
+      ],
+      "description": "Vrij toegankelijke ontmoetingsgroep voor mensen met beginnende geheugenproblemen en hun mantelzorgers, met informatie en activiteiten.",
+      "audience": "Inwoners uit de gemeente Twenterand en belangstellenden.",
+      "access": "Donderdag 10.00–12.00 bij 't Muziekgebouw.",
+      "costs": "Gratis; geen verwijzing of indicatie nodig.",
+      "address": "Slingerweg 3",
+      "town": "Den Ham",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
+      "mapPin": true,
+      "locationMunicipality": "Twenterand"
+    },
+    {
+      "id": "extra-20261020-regio-zorgsaam-twenterand-soos-de-rank-ontmoeten-en-spel",
+      "name": "ZorgSaam Twenterand · Soos De Rank: ontmoeten en spel",
+      "source": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
+      "sourceTitle": "ZorgSaam Twenterand",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Twenterand"
+      ],
+      "municipality": "Twenterand",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "mentaal",
+        "eenzaamheid",
+        "meedoen",
+        "daginvulling",
+        "soos",
+        "rank:",
+        "spel",
+        "zorgsaam twenterand",
+        "den ham",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "mentaal/eenzaamheid",
+        "meedoen/daginvulling"
+      ],
+      "description": "Verenigingsmiddag in Den Ham met biljart, kaarten, rummikub, sjoelen en contact met buurtbewoners; voor alle leeftijden.",
+      "audience": "Inwoners uit de gemeente Twenterand en belangstellenden.",
+      "access": "Maandag 14.00–16.30.",
+      "costs": "Bescheiden contributie.",
+      "address": "Brinkstraat 6",
+      "town": "Den Ham",
+      "locationType": "visiting",
+      "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
+      "mapPin": true,
+      "locationMunicipality": "Twenterand"
+    },
+    {
+      "id": "extra-20261020-regio-de-welle-wierden-gratis-gezellige-inloopochtend",
+      "name": "De Welle Wierden · gratis gezellige inloopochtend",
+      "source": "https://www.socialekaartwierden.nl/is/product/160208/220582/invis2/gezellige-inloopochtend",
+      "sourceTitle": "De Welle Wierden",
+      "sourceKind": "first-party",
+      "checked": "2026-10-20",
+      "accessStatus": "source-check",
+      "scope": "Fysiek bezoekbare sociale basis / voorliggende algemene activiteit zonder gemeentelijke maatwerkindicatie",
+      "status": "candidate",
+      "municipalities": [
+        "Wierden"
+      ],
+      "municipality": "Wierden",
+      "category": "ontmoeten",
+      "primaryTheme": "ontmoeten",
+      "themes": [
+        "ontmoeten"
+      ],
+      "subthemes": [],
+      "tags": [
+        "ontmoeten",
+        "inloop",
+        "mentaal",
+        "eenzaamheid",
+        "zorg",
+        "mantelzorg",
+        "gratis",
+        "gezellige",
+        "inloopochtend",
+        "de welle wierden",
+        "wierden",
+        "activiteiten"
+      ],
+      "guidePaths": [
+        "ontmoeten/inloop",
+        "mentaal/eenzaamheid",
+        "zorg/mantelzorg"
+      ],
+      "description": "Open koffieochtend door De Welle en Evenmens met ontmoetingen, nieuwe contacten en ruimte voor gesprek, waar vrijwilligers inwoners verwelkomen.",
+      "audience": "Inwoners uit de gemeente Wierden en belangstellenden.",
+      "access": "Iedere donderdag 10.00–12.00; vrije inloop, geen aanmelding.",
+      "costs": "Gratis.",
+      "address": "Dokter G.H. Beensweg 21",
+      "town": "Wierden",
+      "locationType": "visiting",
+      "locationSource": "https://www.socialekaartwierden.nl/is/product/160208/220582/invis2/gezellige-inloopochtend",
+      "mapPin": true,
+      "locationMunicipality": "Wierden",
+      "postcode": "7642 CH"
     }
   ],
   "addressEnrichmentVersion": 1,
