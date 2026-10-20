@@ -21244,7 +21244,11 @@
       "locationSource": "https://www.leergeldenschede.nl/contact",
       "mapPin": true,
       "locationMunicipality": "Enschede",
-      "postcode": "7513 EL"
+      "postcode": "7513EL",
+      "lat": 52.21290938,
+      "lon": 6.8862021,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-huis-van-verhalen-enschede-open-huiskamer-verhalen-en-ontmoeting",
@@ -21296,7 +21300,11 @@
       "locationSource": "https://huisvanverhalen053.nl/",
       "mapPin": true,
       "locationMunicipality": "Enschede",
-      "postcode": "7523 JM"
+      "postcode": "7523JM",
+      "lat": 52.23192595,
+      "lon": 6.89612155,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-prismare-roombeek-wijkcentrum-i-punt-en-verenigingsactiviteiten",
@@ -21347,7 +21355,11 @@
       "locationSource": "https://prismare.nl/over-ons",
       "mapPin": true,
       "locationMunicipality": "Enschede",
-      "postcode": "7523 BM"
+      "postcode": "7523BM",
+      "lat": 52.23192595,
+      "lon": 6.89612155,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-leger-des-heils-enschede-buurthuiskamer-en-kledingwinkel-zenderenbrink",
@@ -21400,7 +21412,11 @@
       "locationSource": "https://www.legerdesheils.nl/locatie/enschede",
       "mapPin": true,
       "locationMunicipality": "Enschede",
-      "postcode": "7544 DZ"
+      "postcode": "7544DZ",
+      "lat": 52.19400921,
+      "lon": 6.87667265,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-leger-des-heils-twekkelerveld-buurthuiskamer-en-kledingwinkel",
@@ -21450,7 +21466,11 @@
       "locationSource": "https://www.legerdesheils.nl/locatie/twekkelerveld-enschede",
       "mapPin": true,
       "locationMunicipality": "Enschede",
-      "postcode": "7521 HD"
+      "postcode": "7521HD",
+      "lat": 52.22836417,
+      "lon": 6.85720441,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-de-wonne-handje-2-en-wonnewinkel",
@@ -21494,13 +21514,17 @@
       "audience": "Inwoners van Enschede en andere belangstellenden.",
       "access": "Handje 2 dinsdag, woensdag en zaterdag 11.00–15.00; Wonnewinkel woensdag en zaterdag 11.00–15.00.",
       "costs": "Tweedehands aankopen betaald; vrijwilligersdeelname in overleg.",
-      "address": "Noorderhagen 19",
+      "address": "Noorderhagen 87A",
       "town": "Enschede",
       "locationType": "service",
       "locationSource": "https://dewonne.nl/kringloopwinkels",
       "mapPin": true,
       "locationMunicipality": "Enschede",
-      "postcode": "7511 EK"
+      "postcode": "7511EK",
+      "lat": 52.22085708,
+      "lon": 6.89859952,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-de-wonne-open-viering-en-ontmoeting",
@@ -21551,7 +21575,11 @@
       "locationSource": "https://dewonne.nl/vieringen",
       "mapPin": true,
       "locationMunicipality": "Enschede",
-      "postcode": "7511 EK"
+      "postcode": "7511EK",
+      "lat": 52.22208008,
+      "lon": 6.89502921,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-stadsboerderij-de-wesseler-kinderboerderij-groen-en-buitenactiviteiten",
@@ -21596,13 +21624,17 @@
       "audience": "Inwoners van Enschede en andere belangstellenden.",
       "access": "Bezoek volgens actuele openingstijden op de officiële gemeentepagina.",
       "costs": "Gewoon bezoek vrij toegankelijk; eventuele bijzondere activiteiten apart controleren.",
-      "address": "Wesselerweg 15A",
+      "address": "Wesselerweg 5",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.enschede.nl/kinderboerderijen",
       "mapPin": true,
       "locationMunicipality": "Enschede",
-      "postcode": "7544 RP"
+      "postcode": "7544RP",
+      "lat": 52.19043207,
+      "lon": 6.87689595,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-kinderboerderij-noord-enschede-dieren-en-laagdrempelig-gezinsuitje",
@@ -21650,7 +21682,11 @@
       "locationSource": "https://www.enschede.nl/kinderboerderijen",
       "mapPin": true,
       "locationMunicipality": "Enschede",
-      "postcode": "7524 PE"
+      "postcode": "7524PE",
+      "lat": 52.24269042,
+      "lon": 6.88896515,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-kinderboerderij-erve-t-wooldrik-dieren-en-ontmoeting-in-wooldrikspark",
@@ -21698,7 +21734,11 @@
       "locationSource": "https://www.enschede.nl/kinderboerderijen",
       "mapPin": true,
       "locationMunicipality": "Enschede",
-      "postcode": "7535 CK"
+      "postcode": "7535CK",
+      "lat": 52.21639199,
+      "lon": 6.91496928,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-gemeente-almelo-wijkkamer-de-schoppe",
@@ -21744,7 +21784,12 @@
       "locationType": "visiting",
       "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
       "mapPin": true,
-      "locationMunicipality": "Almelo"
+      "locationMunicipality": "Almelo",
+      "postcode": "7601EJ",
+      "lat": 52.34377766,
+      "lon": 6.67363039,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-gemeente-almelo-wijkkamer-trefpunt-elisabeth",
@@ -21791,7 +21836,12 @@
       "locationType": "visiting",
       "locationSource": "https://www.almelo.nl/ontmoetingsplekken-almelo",
       "mapPin": true,
-      "locationMunicipality": "Almelo"
+      "locationMunicipality": "Almelo",
+      "postcode": "7607NJ",
+      "lat": 52.35318077,
+      "lon": 6.67014332,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-de-ster-borne-sociaal-lunchcafe-en-atelier",
@@ -21833,13 +21883,17 @@
       "audience": "Inwoners uit de gemeente Borne en belangstellenden.",
       "access": "Maandag t/m vrijdag 09.00–16.30.",
       "costs": "Caféconsumpties betaald; atelierbezoek en deelnemersmogelijkheden vooraf bespreken.",
-      "address": "Marktstraat 16B",
+      "address": "Marktstraat 16b",
       "town": "Borne",
       "locationType": "visiting",
       "locationSource": "https://www.de-ster-borne.nl/",
       "mapPin": true,
       "locationMunicipality": "Borne",
-      "postcode": "7622 CR"
+      "postcode": "7622CR",
+      "lat": 52.30148643,
+      "lon": 6.75913362,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-kulturhus-de-cocer-dorpsactiviteiten-en-ontmoeting-rossum",
@@ -21888,7 +21942,11 @@
       "locationSource": "https://kulturhus-de-cocer.nl/",
       "mapPin": true,
       "locationMunicipality": "Dinkelland",
-      "postcode": "7596 KM"
+      "postcode": "7596KM",
+      "lat": 52.35194283,
+      "lon": 6.92278395,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-huis-van-haaksbergen-de-kappen-ontmoeten-bibliotheek-en-activiteiten",
@@ -21932,13 +21990,17 @@
       "audience": "Inwoners uit de gemeente Haaksbergen en belangstellenden.",
       "access": "Volgens de actuele agenda; op werkdagen vanaf 09.00 uur geopend.",
       "costs": "Binnenlopen in algemene ruimtes mogelijk; voorstellingen en sommige activiteiten betaald.",
-      "address": "Blankenburgerstraat 40-42",
+      "address": "Blankenburgerstraat 42",
       "town": "Haaksbergen",
       "locationType": "visiting",
       "locationSource": "https://huisvanhaaksbergen.nl/",
       "mapPin": true,
       "locationMunicipality": "Haaksbergen",
-      "postcode": "7481 EB"
+      "postcode": "7481EB",
+      "lat": 52.15512071,
+      "lon": 6.74505822,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-de-smidse-nijverdal-cultureel-podium-en-exposities",
@@ -21980,13 +22042,17 @@
       "audience": "Inwoners uit de gemeente Hellendoorn en belangstellenden.",
       "access": "Alleen open voor aangekondigde programma's en evenementen.",
       "costs": "Toegang en prijzen per evenement verschillen.",
-      "address": "Hoge Dijkje 4A",
+      "address": "Hoge Dijkje 4a",
       "town": "Nijverdal",
       "locationType": "service",
       "locationSource": "https://www.visithellendoorn.nl/winkelen-en-uitgaan/uitgaan/film-theater-en-poppodia/21431-de-smidse/",
       "mapPin": true,
       "locationMunicipality": "Hellendoorn",
-      "postcode": "7442 AE"
+      "postcode": "7442AE",
+      "lat": 52.36347246,
+      "lon": 6.47095506,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-kulturhus-hasselo-wijkcentrum-ontmoeting-en-activiteiten",
@@ -22034,8 +22100,12 @@
       "locationType": "visiting",
       "locationSource": "https://www.wijkcentranoord.nl/kulturhus-hasselo/home",
       "mapPin": true,
-      "locationMunicipality": "Hengelo",
-      "postcode": "7558 CP"
+      "locationMunicipality": "Hengelo (O)",
+      "postcode": "7558CP",
+      "lat": 52.28498888,
+      "lon": 6.829373,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-de-reggehof-goor-verenigingen-cultuur-en-ontmoetingscentrum",
@@ -22077,13 +22147,17 @@
       "audience": "Inwoners uit de gemeente Hof van Twente en belangstellenden.",
       "access": "Opening en aanmelding afhankelijk van activiteiten en verenigingen.",
       "costs": "Verschillende deelnamekosten per activiteit of voorstelling.",
-      "address": "De Höfte 5",
+      "address": "de Höfte 5",
       "town": "Goor",
       "locationType": "visiting",
       "locationSource": "https://www.reggehof.nl/over-reggehof/over-ons",
       "mapPin": true,
       "locationMunicipality": "Hof van Twente",
-      "postcode": "7471 DK"
+      "postcode": "7471DK",
+      "lat": 52.23333695,
+      "lon": 6.58441448,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-het-beaufort-markelo-cultureel-centrum-en-verenigingsactiviteiten",
@@ -22125,13 +22199,17 @@
       "audience": "Inwoners uit de gemeente Hof van Twente en belangstellenden.",
       "access": "Open bij activiteiten, exposities of op afspraak; geen vaste vrije inloop.",
       "costs": "Kosten afhankelijk van activiteit of voorstelling.",
-      "address": "Burgemeester De Beaufortplein 1",
+      "address": "Burgemeester de Beaufortplein 1",
       "town": "Markelo",
       "locationType": "service",
       "locationSource": "https://www.visithofvantwente.nl/activiteiten/theater-en-filmhuis/1292-cultureel-centrum-het-beaufort/",
       "mapPin": true,
       "locationMunicipality": "Hof van Twente",
-      "postcode": "7475 AG"
+      "postcode": "7475AG",
+      "lat": 52.23412195,
+      "lon": 6.49537703,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-t-trefhuus-overdinkel-dorpshuis-en-buurtactiviteiten",
@@ -22181,7 +22259,11 @@
       "locationSource": "https://www.fundamentlosser.nl/locaties-en-openingstijden/",
       "mapPin": true,
       "locationMunicipality": "Losser",
-      "postcode": "7586 BG"
+      "postcode": "7586BG",
+      "lat": 52.23875481,
+      "lon": 7.03503715,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-impuls-oldenzaal-jongereninloop-12-bij-willemien",
@@ -22232,7 +22314,11 @@
       "locationSource": "https://www.impuls-oldenzaal.nl/agenda/jongereninloop-12/",
       "mapPin": true,
       "locationMunicipality": "Oldenzaal",
-      "postcode": "7571 CE"
+      "postcode": "7571CE",
+      "lat": 52.31188249,
+      "lon": 6.93145973,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-parkgebouw-rijssen-verenigingen-en-maatschappelijke-activiteiten",
@@ -22279,7 +22365,11 @@
       "locationSource": "https://www.parkgebouw.nl/contact/over-het-parkgebouw.html",
       "mapPin": true,
       "locationMunicipality": "Rijssen-Holten",
-      "postcode": "7461 BT"
+      "postcode": "7461BT",
+      "lat": 52.31041279,
+      "lon": 6.52931067,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-dorpshuis-de-haambrink-dorpshuiskamer-en-verenigingsactiviteiten",
@@ -22322,13 +22412,17 @@
       "audience": "Inwoners uit de gemeente Tubbergen en belangstellenden.",
       "access": "Dorpshuiskamer woensdag 09.30–11.30 volgens de activiteiteninformatie van de regio; andere activiteiten volgens rooster.",
       "costs": "Mogelijke consumptie- of deelnamebijdragen verschillen.",
-      "address": "Almeloseweg 211",
+      "address": "Almeloseweg 211a",
       "town": "Mariaparochie",
       "locationType": "visiting",
       "locationSource": "https://dehaambrink.nl/",
       "mapPin": true,
       "locationMunicipality": "Tubbergen",
-      "postcode": "7614 LA"
+      "postcode": "7614LA",
+      "lat": 52.37873628,
+      "lon": 6.70741603,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-de-samenwerking-manderveen-multifunctioneel-dorpshuis-en-huiskamer",
@@ -22378,7 +22472,11 @@
       "locationSource": "https://vvmanderveen.nl/de-club/multifunctionele-accommodatie/",
       "mapPin": true,
       "locationMunicipality": "Tubbergen",
-      "postcode": "7664 VV"
+      "postcode": "7664VV",
+      "lat": 52.44414431,
+      "lon": 6.7801501,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-zorgsaam-twenterand-ontmoetingscentrum-geheugenproblemen-vriezenveen",
@@ -22422,12 +22520,17 @@
       "audience": "Inwoners uit de gemeente Twenterand en belangstellenden.",
       "access": "Woensdag 09.45–11.45 bij Muziekgebouw Odeon.",
       "costs": "Gratis; geen verwijzing of indicatie nodig.",
-      "address": "Schout Doddestraat 46B",
+      "address": "Schout Doddestraat 46b",
       "town": "Vriezenveen",
       "locationType": "visiting",
       "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
       "mapPin": true,
-      "locationMunicipality": "Twenterand"
+      "locationMunicipality": "Twenterand",
+      "postcode": "7671GT",
+      "lat": 52.40303647,
+      "lon": 6.62495457,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-zorgsaam-twenterand-ontmoetingscentrum-geheugenproblemen-den-ham",
@@ -22476,7 +22579,12 @@
       "locationType": "visiting",
       "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/ontmoetingscentrum/",
       "mapPin": true,
-      "locationMunicipality": "Twenterand"
+      "locationMunicipality": "Twenterand",
+      "postcode": "7683BR",
+      "lat": 52.46270593,
+      "lon": 6.4974865,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-zorgsaam-twenterand-soos-de-rank-ontmoeten-en-spel",
@@ -22526,7 +22634,12 @@
       "locationType": "visiting",
       "locationSource": "https://www.zorgsaamtwenterand.nl/activiteiten/societeit/",
       "mapPin": true,
-      "locationMunicipality": "Twenterand"
+      "locationMunicipality": "Twenterand",
+      "postcode": "7683BN",
+      "lat": 52.46350489,
+      "lon": 6.49471061,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-regio-de-welle-wierden-gratis-gezellige-inloopochtend",
@@ -22577,7 +22690,11 @@
       "locationSource": "https://www.socialekaartwierden.nl/is/product/160208/220582/invis2/gezellige-inloopochtend",
       "mapPin": true,
       "locationMunicipality": "Wierden",
-      "postcode": "7642 CH"
+      "postcode": "7642CH",
+      "lat": 52.35470544,
+      "lon": 6.58036385,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     }
   ],
   "addressEnrichmentVersion": 1,
