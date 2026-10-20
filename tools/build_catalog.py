@@ -112,7 +112,13 @@ def facility_source_key(v):
         # Dezelfde Wijkwijzer-locatie kan uit de gemeentepagina én uit
         # wijkwijzerenschede.nl komen. Dat zijn geen twee voorzieningen.
         return "wijkwijzer-enschede"
-    return (v.get("source") or "").strip().casefold()
+    # Dezelfde bronpagina kan diensten van VERSCHILLENDE organisaties beschrijven
+    # (bijv. All4Free en menstruatieproducten van buurthuis Beien).
+    # Samenvoegen op enkel source + adres laat dan het ene aanbod ten onrechte
+    # doorlinken naar het andere catalogusrecord.
+    organization = normalized(org_name(v))
+    source = (v.get("source") or "").strip().casefold()
+    return f"{organization}|{source}" if source else ""
 
 def dedupe_facilities(facilities):
     """Één fysieke kaartvermelding per bron/voorziening en bezoeklocatie.
