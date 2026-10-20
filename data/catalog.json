@@ -11149,97 +11149,6 @@
     "primarySource": "https://www.deslingerhengelo.nl/"
   },
   {
-    "id": "org-de-smidse-nijverdal-16zygjw",
-    "organization": "De Smidse Nijverdal",
-    "municipalities": [
-      "Hellendoorn"
-    ],
-    "categories": [
-      "ontmoeten"
-    ],
-    "sources": [
-      "https://www.visithellendoorn.nl/winkelen-en-uitgaan/uitgaan/film-theater-en-poppodia/21431-de-smidse/"
-    ],
-    "offerCount": 1,
-    "reviewNeeded": 0,
-    "sourceBacked": 1,
-    "manual": 0,
-    "checked": "2026-10-20",
-    "offers": [
-      {
-        "id": "extra-20261020-regio-de-smidse-nijverdal-cultureel-podium-en-exposities",
-        "title": "cultureel podium en exposities",
-        "name": "De Smidse Nijverdal · cultureel podium en exposities",
-        "description": "Laagdrempelige culturele locatie voor exposities, concerten en lokale bijeenkomsten. Geen dagelijks open welzijnsspreekuur.",
-        "municipality": "Hellendoorn",
-        "municipalities": [
-          "Hellendoorn"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [],
-        "tags": [
-          "ontmoeten",
-          "meedoen",
-          "daginvulling",
-          "inloop",
-          "cultureel",
-          "podium",
-          "exposities",
-          "de smidse nijverdal",
-          "nijverdal",
-          "activiteiten"
-        ],
-        "guidePaths": [
-          "meedoen/daginvulling",
-          "ontmoeten/inloop"
-        ],
-        "guideExclude": false,
-        "activityOnly": false,
-        "activities": [],
-        "activitiesNote": "",
-        "activitiesSource": "",
-        "activitiesUpdated": "",
-        "audience": "Inwoners uit de gemeente Hellendoorn en belangstellenden.",
-        "costs": "Toegang en prijzen per evenement verschillen.",
-        "access": "Alleen open voor aangekondigde programma's en evenementen.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.visithellendoorn.nl/winkelen-en-uitgaan/uitgaan/film-theater-en-poppodia/21431-de-smidse/",
-        "sourceKind": "first-party",
-        "sourceTitle": "De Smidse Nijverdal",
-        "checked": "2026-10-20",
-        "reviewStatus": "source-backed",
-        "address": "Hoge Dijkje 4a",
-        "postcode": "7442AE",
-        "town": "Nijverdal",
-        "lat": 52.36347246,
-        "lon": 6.47095506,
-        "locationType": "service",
-        "locationSource": "https://www.visithellendoorn.nl/winkelen-en-uitgaan/uitgaan/film-theater-en-poppodia/21431-de-smidse/",
-        "locationMunicipality": "Hellendoorn",
-        "mapLocationType": "address",
-        "mapPin": true
-      }
-    ],
-    "location": {
-      "address": "Hoge Dijkje 4a",
-      "postcode": "7442AE",
-      "town": "Nijverdal",
-      "lat": 52.36347246,
-      "lon": 6.47095506,
-      "locationMunicipality": "Hellendoorn",
-      "locationType": "service",
-      "locationSource": "https://www.visithellendoorn.nl/winkelen-en-uitgaan/uitgaan/film-theater-en-poppodia/21431-de-smidse/",
-      "mapLocationType": "address"
-    },
-    "status": "source-backed",
-    "primarySource": "https://www.visithellendoorn.nl/winkelen-en-uitgaan/uitgaan/film-theater-en-poppodia/21431-de-smidse/"
-  },
-  {
     "id": "org-de-ster-borne-pf5eq8",
     "organization": "De Ster Borne",
     "municipalities": [
@@ -43383,6 +43292,159 @@
     },
     "status": "source-backed",
     "primarySource": "https://www.socialekaartwierden.nl/is/organisatie/220582/invis2/stichting-de-welle"
+  },
+  {
+    "id": "org-stichting-de-welle-hellendoorn-1o0dc2k",
+    "organization": "Stichting De Welle Hellendoorn",
+    "municipalities": [
+      "Hellendoorn"
+    ],
+    "categories": [
+      "ontmoeten",
+      "basis"
+    ],
+    "sources": [
+      "https://www.dewelledoet.nl/activiteiten/352",
+      "https://www.hellendoorn.nl/direct-regelen/zorg-en-welzijn/wmo-uitgelegd/tijdelijk-hulpmiddel-lenen/"
+    ],
+    "offerCount": 2,
+    "reviewNeeded": 0,
+    "sourceBacked": 2,
+    "manual": 0,
+    "checked": "2026-10-20",
+    "offers": [
+      {
+        "id": "extra-20261020-correctie-crea-doe-samen-creatief-en-ontmoeten",
+        "title": "Crea Doe: samen creatief en ontmoeten",
+        "name": "Stichting De Welle Hellendoorn · Crea Doe: samen creatief en ontmoeten",
+        "description": "Maandelijkse laagdrempelige creatieve ontmoeting van De Welle in de socioruimte van Bendien Smitshof: haken, breien, schilderen, knutselen, puzzelen of samen een spel doen.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "ontmoeten",
+        "themes": [
+          "ontmoeten"
+        ],
+        "subthemes": [],
+        "tags": [
+          "ontmoeten",
+          "wijk",
+          "voorliggend",
+          "Nijverdal",
+          "ontmoeten",
+          "inloop",
+          "meedoen",
+          "daginvulling",
+          "mentaal",
+          "eenzaamheid"
+        ],
+        "guidePaths": [
+          "ontmoeten/inloop",
+          "meedoen/daginvulling",
+          "mentaal/eenzaamheid"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Deelnamekaart: 10 keer voor €17,50; materialen en consumpties kunnen extra kosten.",
+        "access": "Iedere vierde maandag van de maand 09.30–11.30 uur; neem contact op met de frontoffice van De Welle voor deelname.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.dewelledoet.nl/activiteiten/352",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting De Welle / gemeente Hellendoorn",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Bendien-Smitshof 38",
+        "postcode": "7442NV",
+        "town": "Nijverdal",
+        "lat": 52.36357273,
+        "lon": 6.45751026,
+        "locationType": "visiting",
+        "locationSource": "https://www.dewelledoet.nl/activiteiten/352",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": true
+      },
+      {
+        "id": "extra-20261020-correctie-uitleenpunt-tijdelijke-hulpmiddelen",
+        "title": "uitleenpunt tijdelijke hulpmiddelen",
+        "name": "Stichting De Welle Hellendoorn · uitleenpunt tijdelijke hulpmiddelen",
+        "description": "Medipoint-uitleenpunt bij De Welle voor kortdurend lenen van hulpmiddelen zoals een rolstoel, douchestoel, toiletverhoger of loophulpmiddel, bijvoorbeeld bij herstel of ter overbrugging van een Wmo-aanvraag.",
+        "municipality": "Hellendoorn",
+        "municipalities": [
+          "Hellendoorn"
+        ],
+        "category": "basis",
+        "themes": [
+          "basis"
+        ],
+        "subthemes": [],
+        "tags": [
+          "basis",
+          "wijk",
+          "voorliggend",
+          "Nijverdal",
+          "basis",
+          "praktisch",
+          "zorg",
+          "beperking",
+          "zorg",
+          "clientsteun"
+        ],
+        "guidePaths": [
+          "basis/praktisch",
+          "zorg/beperking",
+          "zorg/clientsteun"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "",
+        "costs": "Voorwaarden en vergoeding zijn afhankelijk van hulpmiddel en zorgverzekering.",
+        "access": "Balie maandag tot en met vrijdag 09.00–12.30 uur. Soms een verwijzing of verzekeringsvoorwaarde nodig.",
+        "openingHours": "",
+        "phone": "",
+        "email": "",
+        "source": "https://www.hellendoorn.nl/direct-regelen/zorg-en-welzijn/wmo-uitgelegd/tijdelijk-hulpmiddel-lenen/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting De Welle / gemeente Hellendoorn",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Constantijnstraat 32a",
+        "postcode": "7442ME",
+        "town": "Nijverdal",
+        "lat": 52.36352638,
+        "lon": 6.46142506,
+        "locationType": "service",
+        "locationSource": "https://www.hellendoorn.nl/direct-regelen/zorg-en-welzijn/wmo-uitgelegd/tijdelijk-hulpmiddel-lenen/",
+        "locationMunicipality": "Hellendoorn",
+        "mapLocationType": "address",
+        "mapPin": true
+      }
+    ],
+    "location": {
+      "address": "Bendien-Smitshof 38",
+      "postcode": "7442NV",
+      "town": "Nijverdal",
+      "lat": 52.36357273,
+      "lon": 6.45751026,
+      "locationMunicipality": "Hellendoorn",
+      "locationType": "visiting",
+      "locationSource": "https://www.dewelledoet.nl/activiteiten/352",
+      "mapLocationType": "address"
+    },
+    "status": "source-backed",
+    "primarySource": "https://www.dewelledoet.nl/activiteiten/352"
   },
   {
     "id": "org-stichting-geef-het-door-1w6sq1o",

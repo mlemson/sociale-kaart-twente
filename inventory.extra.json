@@ -22691,12 +22691,17 @@
       "description": "Maandelijkse laagdrempelige creatieve ontmoeting van De Welle in de socioruimte van Bendien Smitshof: haken, breien, schilderen, knutselen, puzzelen of samen een spel doen.",
       "access": "Iedere vierde maandag van de maand 09.30–11.30 uur; neem contact op met de frontoffice van De Welle voor deelname.",
       "costs": "Deelnamekaart: 10 keer voor €17,50; materialen en consumpties kunnen extra kosten.",
-      "address": "Bendien Smitshof 38",
+      "address": "Bendien-Smitshof 38",
       "town": "Nijverdal",
       "locationType": "visiting",
       "locationSource": "https://www.dewelledoet.nl/activiteiten/352",
       "mapPin": true,
-      "locationMunicipality": "Hellendoorn"
+      "locationMunicipality": "Hellendoorn",
+      "postcode": "7442NV",
+      "lat": 52.36357273,
+      "lon": 6.45751026,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     },
     {
       "id": "extra-20261020-correctie-uitleenpunt-tijdelijke-hulpmiddelen",
@@ -22738,13 +22743,17 @@
       "description": "Medipoint-uitleenpunt bij De Welle voor kortdurend lenen van hulpmiddelen zoals een rolstoel, douchestoel, toiletverhoger of loophulpmiddel, bijvoorbeeld bij herstel of ter overbrugging van een Wmo-aanvraag.",
       "access": "Balie maandag tot en met vrijdag 09.00–12.30 uur. Soms een verwijzing of verzekeringsvoorwaarde nodig.",
       "costs": "Voorwaarden en vergoeding zijn afhankelijk van hulpmiddel en zorgverzekering.",
-      "address": "Constantijnstraat 32A",
-      "postcode": "7442 ME",
+      "address": "Constantijnstraat 32a",
+      "postcode": "7442ME",
       "town": "Nijverdal",
       "locationType": "service",
       "locationSource": "https://www.hellendoorn.nl/direct-regelen/zorg-en-welzijn/wmo-uitgelegd/tijdelijk-hulpmiddel-lenen/",
       "mapPin": true,
-      "locationMunicipality": "Hellendoorn"
+      "locationMunicipality": "Hellendoorn",
+      "lat": 52.36352638,
+      "lon": 6.46142506,
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     }
   ],
   "addressEnrichmentVersion": 1,
