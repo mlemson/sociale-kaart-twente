@@ -24673,14 +24673,16 @@
     ],
     "categories": [
       "mentaal",
-      "ontmoeten"
+      "ontmoeten",
+      "advies"
     ],
     "sources": [
-      "https://www.kickass-enschede.nl/cafe/"
+      "https://www.kickass-enschede.nl/cafe/",
+      "https://www.kickass-enschede.nl/spreekuur/"
     ],
-    "offerCount": 1,
+    "offerCount": 2,
     "reviewNeeded": 0,
-    "sourceBacked": 1,
+    "sourceBacked": 2,
     "manual": 0,
     "checked": "2026-10-02",
     "offers": [
@@ -24746,17 +24748,86 @@
         "locationMunicipality": "Enschede",
         "mapLocationType": "address",
         "mapPin": true
+      },
+      {
+        "id": "extra-20261020-kickass-autismespreekuur",
+        "title": "autismespreekuur",
+        "name": "Kick ASS Enschede · autismespreekuur",
+        "description": "Laagdrempelig individueel autismespreekuur van Kick ASS in samenwerking met ervaringsdeskundige Erna Dogger. Voor vragen over (mogelijke) diagnose, praktische tips, informatiebronnen, ondersteuning en passende hulp. Het spreekuur biedt nadrukkelijk geen coaching, begeleiding of therapie.",
+        "municipality": "Enschede",
+        "municipalities": [
+          "Enschede"
+        ],
+        "category": "mentaal",
+        "themes": [
+          "mentaal",
+          "advies"
+        ],
+        "subthemes": [
+          "autisme",
+          "neurodiversiteit",
+          "ervaringsdeskundigheid",
+          "vraagverheldering",
+          "spreekuur"
+        ],
+        "tags": [
+          "autisme",
+          "ASS",
+          "vermoeden autisme",
+          "neurodiversiteit",
+          "spreekuur",
+          "ervaringsdeskundige",
+          "praktische tips",
+          "diagnose",
+          "informatie",
+          "levensvragen",
+          "naasten",
+          "professionals",
+          "wegwijs"
+        ],
+        "guidePaths": [
+          "mentaal/welzijn",
+          "mentaal/lotgenoten",
+          "zorg/clientsteun"
+        ],
+        "guideExclude": false,
+        "activityOnly": false,
+        "activities": [],
+        "activitiesNote": "",
+        "activitiesSource": "",
+        "activitiesUpdated": "",
+        "audience": "Mensen met autisme of een vermoeden daarvan, naasten en professionals.",
+        "costs": "Kosten niet vermeld op de bronpagina; informeer bij Kick ASS.",
+        "access": "Maak via de officiële Kick ASS-website een afspraak; gesprekken duren maximaal 30 minuten. Controleer de actuele spreekuurdata op de bronpagina, geen wekelijkse vrije inloop.",
+        "openingHours": "Op aangekondigde spreekuurdagen 09.30–12.30 uur (controleer actuele data en beschikbaarheid).",
+        "phone": "06 2123 5204",
+        "email": "info@kickass-enschede.nl",
+        "source": "https://www.kickass-enschede.nl/spreekuur/",
+        "sourceKind": "first-party",
+        "sourceTitle": "Stichting Kick ASS Enschede",
+        "checked": "2026-10-20",
+        "reviewStatus": "source-backed",
+        "address": "Pathmossingel 200",
+        "postcode": "7513CM",
+        "town": "Enschede",
+        "lat": 52.21667309,
+        "lon": 6.87642107,
+        "locationType": "visiting",
+        "locationSource": "https://www.kickass-enschede.nl/spreekuur/",
+        "locationMunicipality": "Enschede",
+        "mapLocationType": "address",
+        "mapPin": true
       }
     ],
     "location": {
-      "address": "Stadsgravenstraat 47",
-      "postcode": "7511EP",
+      "address": "Pathmossingel 200",
+      "postcode": "7513CM",
       "town": "Enschede",
-      "lat": 52.22135346,
-      "lon": 6.89607578,
+      "lat": 52.21667309,
+      "lon": 6.87642107,
       "locationMunicipality": "Enschede",
       "locationType": "visiting",
-      "locationSource": "https://www.kickass-enschede.nl/cafe/",
+      "locationSource": "https://www.kickass-enschede.nl/spreekuur/",
       "mapLocationType": "address"
     },
     "status": "source-backed",

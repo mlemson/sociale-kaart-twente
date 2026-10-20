@@ -8025,6 +8025,63 @@
     "catalogOfferId": "extra-20261002-kickass-cafe"
   },
   {
+    "id": "offer-extra-20261020-kickass-autismespreekuur",
+    "name": "Kick ASS Enschede · autismespreekuur",
+    "category": "mentaal",
+    "address": "Pathmossingel 200",
+    "postcode": "7513CM",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.21667309,
+    "lon": 6.87642107,
+    "source": "https://www.kickass-enschede.nl/spreekuur/",
+    "checked": "2026-10-20",
+    "tags": [
+      "autisme",
+      "ASS",
+      "vermoeden autisme",
+      "neurodiversiteit",
+      "spreekuur",
+      "ervaringsdeskundige",
+      "praktische tips",
+      "diagnose",
+      "informatie",
+      "levensvragen",
+      "naasten",
+      "professionals",
+      "wegwijs"
+    ],
+    "subthemes": [
+      "autisme",
+      "neurodiversiteit",
+      "ervaringsdeskundigheid",
+      "vraagverheldering",
+      "spreekuur"
+    ],
+    "guidePaths": [
+      "mentaal/welzijn",
+      "mentaal/lotgenoten",
+      "zorg/clientsteun"
+    ],
+    "guideExclude": false,
+    "description": "Laagdrempelig individueel autismespreekuur van Kick ASS in samenwerking met ervaringsdeskundige Erna Dogger. Voor vragen over (mogelijke) diagnose, praktische tips, informatiebronnen, ondersteuning en passende hulp. Het spreekuur biedt nadrukkelijk geen coaching, begeleiding of therapie.",
+    "audience": "Mensen met autisme of een vermoeden daarvan, naasten en professionals.",
+    "costs": "Kosten niet vermeld op de bronpagina; informeer bij Kick ASS.",
+    "access": "Maak via de officiële Kick ASS-website een afspraak; gesprekken duren maximaal 30 minuten. Controleer de actuele spreekuurdata op de bronpagina, geen wekelijkse vrije inloop.",
+    "openingHours": "Op aangekondigde spreekuurdagen 09.30–12.30 uur (controleer actuele data en beschikbaarheid).",
+    "phone": "06 2123 5204",
+    "email": "info@kickass-enschede.nl",
+    "locationType": "visiting",
+    "locationSource": "https://www.kickass-enschede.nl/spreekuur/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-kick-ass-enschede-5fa3t3",
+    "catalogOfferId": "extra-20261020-kickass-autismespreekuur"
+  },
+  {
     "id": "offer-extra-20261002-losser-kraambank",
     "name": "Kraambank Losser · gebruikte babyspullen",
     "category": "basis",

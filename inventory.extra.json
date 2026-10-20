@@ -20956,13 +20956,18 @@
       "costs": "Kosten niet vermeld op de bronpagina; informeer bij Kick ASS.",
       "openingHours": "Op aangekondigde spreekuurdagen 09.30–12.30 uur (controleer actuele data en beschikbaarheid).",
       "address": "Pathmossingel 200",
-      "postcode": "7513 CM",
+      "postcode": "7513CM",
       "town": "Enschede",
       "locationType": "visiting",
       "locationSource": "https://www.kickass-enschede.nl/spreekuur/",
       "mapPin": true,
       "phone": "06 2123 5204",
-      "email": "info@kickass-enschede.nl"
+      "email": "info@kickass-enschede.nl",
+      "lat": 52.21667309,
+      "lon": 6.87642107,
+      "locationMunicipality": "Enschede",
+      "mapLocationType": "address",
+      "addressChecked": "2026-10-20"
     }
   ],
   "addressEnrichmentVersion": 1,
