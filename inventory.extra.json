@@ -1271,9 +1271,22 @@
     },
     {
       "title": "COC Twente-Achterhoek",
-      "url": "https://coc-twente.instance.studio/contact/",
+      "url": "https://coctwenteachterhoek.nl/over-coc/",
       "municipalities": [
-        "Enschede"
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
       ]
     }
   ],
@@ -20822,12 +20835,25 @@
     {
       "id": "extra-20261020-coc-twente-achterhoek-informatie-en-steun",
       "name": "COC Twente-Achterhoek · informatie en steun",
-      "source": "https://coc-twente.instance.studio/contact/",
+      "source": "https://coctwenteachterhoek.nl/over-coc/",
       "sourceTitle": "COC Twente-Achterhoek",
       "sourceKind": "first-party",
       "checked": "2026-10-20",
       "municipalities": [
-        "Enschede"
+        "Almelo",
+        "Borne",
+        "Dinkelland",
+        "Enschede",
+        "Haaksbergen",
+        "Hellendoorn",
+        "Hengelo",
+        "Hof van Twente",
+        "Losser",
+        "Oldenzaal",
+        "Rijssen-Holten",
+        "Tubbergen",
+        "Twenterand",
+        "Wierden"
       ],
       "municipality": "Enschede",
       "category": "advies",
@@ -20850,9 +20876,9 @@
         "mentaal/welzijn",
         "recht/discriminatie"
       ],
-      "description": "Regionale belangenorganisatie voor lhbtiqa+ personen; vragen, advies en informatie over ontmoeting en ondersteuning.",
+      "description": "Regionale organisatie voor lhbtiqa+-inwoners: ontmoeting, voorlichting, gelijkwaardige rechten, netwerkvorming en individueel advies; de actuele locaties van groepsbijeenkomsten zijn op te vragen.",
       "audience": "Lhbtiqa+ inwoners en hun naasten in de regio.",
-      "access": "Neem contact op voor de actuele groepen, locaties en activiteiten; geen bevestigd open inloopadres in Enschede.",
+      "access": "Contact via de officiële website voor actuele groepen en activiteiten; het postadres in Enschede is geen openbaar inloopadres.",
       "costs": "Informeer naar activiteiten en kosten.",
       "town": "Enschede",
       "mapPin": false,
@@ -20865,7 +20891,7 @@
       "lon": 6.8779279,
       "locationMunicipality": "Enschede",
       "locationType": "contact",
-      "locationSource": "https://coc-twente.instance.studio/contact/",
+      "locationSource": "https://coctwenteachterhoek.nl/over-coc/",
       "mapLocationType": "address",
       "locationInheritedFromGroup": true,
       "addressChecked": "2026-10-20"
