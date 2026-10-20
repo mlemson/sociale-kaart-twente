@@ -2879,7 +2879,7 @@
   },
   {
     "id": "offer-extra-20261020-all4free-twente-uitgiftepunt-buurthuis-beien-enschede",
-    "name": "Buurthuis Beien · gratis menstruatieproducten (MUP)",
+    "name": "All4Free Twente · uitgiftepunt Buurthuis Beien Enschede",
     "category": "basis",
     "address": "Meeuwenstraat 160",
     "postcode": "7523XZ",
@@ -2900,12 +2900,7 @@
       "kleding",
       "huisraad",
       "noodhulp",
-      "uitgiftepunt",
-      "menstruatieproducten",
-      "menstruatiearmoede",
-      "mup",
-      "gratis",
-      "verzorgingsproducten"
+      "uitgiftepunt"
     ],
     "subthemes": [],
     "guidePaths": [
@@ -4117,6 +4112,48 @@
     "catalogOfferId": "extra-20261005-beien-werkplaats"
   },
   {
+    "id": "offer-extra-20261020-buurthuis-beien-gratis-menstruatieproducten-mup",
+    "name": "Buurthuis Beien · gratis menstruatieproducten (MUP)",
+    "category": "basis",
+    "address": "Meeuwenstraat 160",
+    "postcode": "7523XZ",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.23571908,
+    "lon": 6.8938286,
+    "source": "https://www.beien.nl/all4free/",
+    "checked": "2026-10-20",
+    "tags": [
+      "menstruatieproducten",
+      "menstruatiearmoede",
+      "mup",
+      "gratis",
+      "verzorgingsproducten"
+    ],
+    "subthemes": [],
+    "guidePaths": [
+      "basis/praktisch",
+      "geld/regelingen"
+    ],
+    "guideExclude": false,
+    "description": "Menstruatieproducten-uitgiftepunt in Buurthuis Beien, met gratis menstruatieproducten in de hal en het damestoilet.",
+    "audience": "Iedereen die gratis menstruatieproducten nodig heeft.",
+    "costs": "Gratis.",
+    "access": "Beschikbaar op locatie tijdens openingstijden van het buurthuis.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://www.beien.nl/all4free/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-buurthuis-beien-isrsld",
+    "catalogOfferId": "extra-20261020-buurthuis-beien-gratis-menstruatieproducten-mup"
+  },
+  {
     "id": "offer-extra-20261020-buurthuis-beien-ontmoeting-en-buurtactiviteiten",
     "name": "Buurthuis Beien · ontmoeting en buurtactiviteiten",
     "category": "ontmoeten",
@@ -4563,25 +4600,17 @@
       "ontmoeten",
       "handwerken",
       "creatief",
-      "inloop",
-      "senioren",
-      "daginvulling",
-      "samen eten",
-      "bewegen",
-      "spel"
+      "inloop"
     ],
     "subthemes": [
       "creatief",
-      "inloop",
-      "senioren",
-      "daginvulling"
+      "inloop"
     ],
     "guidePaths": [
-      "meedoen/daginvulling",
-      "ontmoeten/inloop"
+      "meedoen/daginvulling"
     ],
     "guideExclude": false,
-    "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
+    "description": "Wekelijkse handwerkmiddag waar deelnemers aan eigen projecten werken, tips uitwisselen en nieuwe vaardigheden delen.",
     "audience": "Iedereen die samen wil handwerken.",
     "costs": "Controleer eventuele consumptiekosten bij de organisator.",
     "access": "Iedere donderdag van 14.00 tot 16.00 uur; vrij binnenlopen volgens de Informatiewijzer.",
@@ -7084,7 +7113,7 @@
     "catalogOfferId": "extra-20261002-hengelo-humanitas-onder-dak-inloop"
   },
   {
-    "id": "offer-candidate-20261002-impuls-actieve-ontmoeting-paal-12",
+    "id": "offer-extra-20261002-oldenzaal-actieve-ontmoeting-paal12",
     "name": "Impuls · Actieve Ontmoeting Paal 12",
     "category": "ontmoeten",
     "address": "Vondellaan 12",
@@ -7100,16 +7129,12 @@
     "checked": "2026-10-02",
     "tags": [
       "ontmoeten",
-      "dagbesteding zonder indicatie",
-      "inloop",
       "daginvulling",
       "bewegen",
       "creatief",
       "gezonde leefstijl"
     ],
     "subthemes": [
-      "meedoen",
-      "zonder indicatie",
       "daginvulling",
       "activering"
     ],
@@ -7118,9 +7143,9 @@
     ],
     "guideExclude": false,
     "description": "Laagdrempelige actieve ontmoeting met koffie, sociale contacten en wisselende activiteiten zoals bewegen, wandelen, sport, spel en creatief bezig zijn.",
-    "audience": "Inwoners van Oldenzaal.",
-    "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
-    "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
+    "audience": "Inwoners die nieuwe sociale contacten willen maken en actiever mee willen doen.",
+    "costs": "€1 per keer; lunch op maandag is optioneel en kost €2.",
+    "access": "Maandag 09.30-12.00 en woensdag 13.00-15.30 bij Paal 12; aanmelden via Impuls.",
     "openingHours": "",
     "phone": "",
     "email": "",
@@ -7129,10 +7154,10 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-impuls-1mtsxy1",
-    "catalogOfferId": "candidate-20261002-impuls-actieve-ontmoeting-paal-12"
+    "catalogOfferId": "extra-20261002-oldenzaal-actieve-ontmoeting-paal12"
   },
   {
-    "id": "offer-candidate-20261002-impuls-actieve-ontmoeting-stakenboer",
+    "id": "offer-extra-20261002-oldenzaal-actieve-ontmoeting-stakenboer",
     "name": "Impuls · Actieve Ontmoeting Stakenboer",
     "category": "ontmoeten",
     "address": "Burgemeester Wallerstraat 115",
@@ -7148,16 +7173,12 @@
     "checked": "2026-10-02",
     "tags": [
       "ontmoeten",
-      "dagbesteding zonder indicatie",
-      "inloop",
       "daginvulling",
       "bewegen",
       "creatief",
       "gezonde leefstijl"
     ],
     "subthemes": [
-      "meedoen",
-      "zonder indicatie",
       "daginvulling",
       "activering"
     ],
@@ -7166,9 +7187,9 @@
     ],
     "guideExclude": false,
     "description": "Laagdrempelige actieve ontmoeting met koffie, sociale contacten en wisselende activiteiten zoals sport, spel, wandelen en creatieve activiteiten.",
-    "audience": "Inwoners van Oldenzaal.",
-    "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
-    "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
+    "audience": "Inwoners die nieuwe sociale contacten willen maken en actiever mee willen doen.",
+    "costs": "€1 per keer; lunch op dinsdag is optioneel en kost €2.",
+    "access": "Dinsdag en donderdag 09.30-12.00 bij Boerderij Stakenboer; aanmelden via Impuls.",
     "openingHours": "",
     "phone": "",
     "email": "",
@@ -7177,7 +7198,7 @@
     "mapLocationType": "address",
     "physicalLocation": true,
     "catalogOrganizationId": "org-impuls-1mtsxy1",
-    "catalogOfferId": "candidate-20261002-impuls-actieve-ontmoeting-stakenboer"
+    "catalogOfferId": "extra-20261002-oldenzaal-actieve-ontmoeting-stakenboer"
   },
   {
     "id": "offer-candidate-20261002-impuls-creatief-caf-",
@@ -8137,7 +8158,7 @@
   },
   {
     "id": "offer-extra-20261002-kracht-van-verenigingen-rigtersbleek",
-    "name": "Thuis@Rigtersbleek",
+    "name": "Kracht van Verenigingen · Rigtersbleek",
     "category": "jeugd",
     "address": "G.J. van Heekstraat 15A",
     "postcode": "7521EB",
@@ -8156,21 +8177,16 @@
       "daginvulling",
       "sport",
       "ontwikkeling",
-      "voorliggende voorziening",
-      "leren",
-      "cultuur"
+      "voorliggende voorziening"
     ],
     "subthemes": [
       "daginvulling",
       "sport",
-      "ontwikkeling",
-      "voorliggende voorziening",
-      "na school",
-      "vakanties"
+      "ontwikkeling"
     ],
     "guidePaths": [],
     "guideExclude": false,
-    "description": "Voorliggende voorziening voor kinderen met professionele begeleiding, activiteiten en een gezamenlijke maaltijd na school en in vakanties.",
+    "description": "Voorliggende activiteiten met sport, ontwikkeling en ontmoeting bij een lokale vereniging.",
     "audience": "Jeugd en jongvolwassenen voor wie deze voorliggende voorziening passend is.",
     "costs": "",
     "access": "Neem contact op met Wijkwijzer, Wijkteam of de vereniging voor de actuele route.",
@@ -9300,6 +9316,52 @@
     "physicalLocation": true,
     "catalogOrganizationId": "org-noaberpoort-1ynn51m",
     "catalogOfferId": "extra-20261002-haaksbergen-senioren-bon-boys"
+  },
+  {
+    "id": "offer-extra-20261002-haaksbergen-senioren-de-kappen",
+    "name": "Noaberpoort · Ontmoetingsactiviteit senioren De Kappen",
+    "category": "ontmoeten",
+    "address": "Blankenburgerstraat 42",
+    "postcode": "7481EB",
+    "town": "Haaksbergen",
+    "municipality": "Haaksbergen",
+    "serviceMunicipalities": [
+      "Haaksbergen"
+    ],
+    "lat": 52.15512071,
+    "lon": 6.74505822,
+    "source": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "senioren",
+      "daginvulling",
+      "samen eten",
+      "bewegen",
+      "spel"
+    ],
+    "subthemes": [
+      "senioren",
+      "daginvulling"
+    ],
+    "guidePaths": [
+      "meedoen/daginvulling",
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Laagdrempelige ontmoeting voor senioren met koffie of thee, een activiteit zoals bewegen of een spel en afsluitend een warme maaltijd.",
+    "audience": "Senioren in de gemeente Haaksbergen.",
+    "costs": "Kleine bijdrage; vraag het actuele bedrag na bij de Noaberpoort.",
+    "access": "Aanmelden en actuele informatie via de Noaberpoort; deze locatie draait volgens de Informatiewijzer op maandag- en donderdagochtend.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "visiting",
+    "locationSource": "https://www.informatiewijzerhaaksbergen.nl/onderwerp/anderen-ontmoeten",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-noaberpoort-1ynn51m",
+    "catalogOfferId": "extra-20261002-haaksbergen-senioren-de-kappen"
   },
   {
     "id": "offer-extra-20261002-haaksbergen-senioren-trefkoel",
@@ -11329,31 +11391,25 @@
     "tags": [
       "ontmoeten",
       "activiteit",
-      "sociaal werk",
-      "inloop",
-      "koffie",
-      "sociaal contact",
-      "Tubbergen"
+      "sociaal werk"
     ],
     "subthemes": [
       "creatief",
       "senioren",
-      "sociaal contact",
-      "inloop",
-      "koffie"
+      "sociaal contact"
     ],
     "guidePaths": [
       "ontmoeten/inloop",
       "meedoen/daginvulling"
     ],
     "guideExclude": false,
-    "description": "Terugkerende koffieochtend in de Bibliotheek Tubbergen, georganiseerd door Tubbergen Verbindt, bedoeld om laagdrempelig anderen te ontmoeten.",
+    "description": "Terugkerende creatieve club in Bibliotheek Tubbergen om samen bezig te zijn en anderen te ontmoeten.",
     "audience": "Inwoners van Dinkelland en Tubbergen; doelgroep verschilt per activiteit.",
     "costs": "Niet vermeld in de actuele agenda; controleer eventuele bijdrage bij SWTD.",
     "access": "Inloop/activiteit volgens de actuele SWTD-agenda.",
     "openingHours": "Maandag 10.00-12.00 uur volgens de actuele agenda.",
     "phone": "",
-    "email": "info@tubbergenverbindt.nl",
+    "email": "",
     "locationType": "visiting",
     "locationSource": "https://swtd.nl/agenda/",
     "mapLocationType": "address",
@@ -12914,6 +12970,95 @@
     "physicalLocation": true,
     "catalogOrganizationId": "org-theaterhoes-hertme-pjlhsy",
     "catalogOfferId": "extra-20261002-borne-hertme-theaterhoes"
+  },
+  {
+    "id": "offer-extra-20261002-tubbergen-verbindt-koffieochtend",
+    "name": "Tubbergen Verbindt · koffieochtend",
+    "category": "ontmoeten",
+    "address": "Raadhuisplein 4",
+    "postcode": "7651CV",
+    "town": "Tubbergen",
+    "municipality": "Tubbergen",
+    "serviceMunicipalities": [
+      "Tubbergen"
+    ],
+    "lat": 52.40837485,
+    "lon": 6.78133142,
+    "source": "https://swtd.nl/agenda/",
+    "checked": "2026-10-02",
+    "tags": [
+      "ontmoeten",
+      "inloop",
+      "koffie",
+      "sociaal contact",
+      "Tubbergen"
+    ],
+    "subthemes": [
+      "inloop",
+      "koffie",
+      "sociaal contact"
+    ],
+    "guidePaths": [
+      "ontmoeten/inloop"
+    ],
+    "guideExclude": false,
+    "description": "Terugkerende koffieochtend in de Bibliotheek Tubbergen, georganiseerd door Tubbergen Verbindt, bedoeld om laagdrempelig anderen te ontmoeten.",
+    "audience": "Inwoners van Tubbergen die behoefte hebben aan een praatje, contact of gewoon samen koffie willen drinken.",
+    "costs": "Eventuele consumptiekosten worden niet op de agenda vermeld.",
+    "access": "Vrije koffieochtend; volgens de actuele agenda op vrijdag van 10.00-12.00 uur.",
+    "openingHours": "Vrijdag 10.00-12.00 uur volgens de actuele SWTD-agenda.",
+    "phone": "",
+    "email": "info@tubbergenverbindt.nl",
+    "locationType": "visiting",
+    "locationSource": "https://swtd.nl/agenda/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-tubbergen-verbindt-1baipa5",
+    "catalogOfferId": "extra-20261002-tubbergen-verbindt-koffieochtend"
+  },
+  {
+    "id": "offer-extra-20261002-thuis-rigtersbleek",
+    "name": "Thuis@Rigtersbleek",
+    "category": "jeugd",
+    "address": "G.J. van Heekstraat 15A",
+    "postcode": "7521EB",
+    "town": "Enschede",
+    "municipality": "Enschede",
+    "serviceMunicipalities": [
+      "Enschede"
+    ],
+    "lat": 52.22678614,
+    "lon": 6.87222283,
+    "source": "https://rigtersbleek.nl/voorliggende-voorziening/",
+    "checked": "2026-10-02",
+    "tags": [
+      "jeugd",
+      "voorliggende voorziening",
+      "sport",
+      "leren",
+      "cultuur",
+      "ontwikkeling"
+    ],
+    "subthemes": [
+      "voorliggende voorziening",
+      "na school",
+      "vakanties"
+    ],
+    "guidePaths": [],
+    "guideExclude": false,
+    "description": "Voorliggende voorziening voor kinderen met professionele begeleiding, activiteiten en een gezamenlijke maaltijd na school en in vakanties.",
+    "audience": "Kinderen van ongeveer 6 tot en met 16 jaar die extra ondersteuning kunnen gebruiken.",
+    "costs": "",
+    "access": "Neem rechtstreeks contact op met Thuis@Rigtersbleek of bespreek passendheid met een wijkcoach.",
+    "openingHours": "",
+    "phone": "",
+    "email": "",
+    "locationType": "service",
+    "locationSource": "https://rigtersbleek.nl/voorliggende-voorziening/",
+    "mapLocationType": "address",
+    "physicalLocation": true,
+    "catalogOrganizationId": "org-v-v-rigtersbleek-btgef8",
+    "catalogOfferId": "extra-20261002-thuis-rigtersbleek"
   },
   {
     "id": "offer-extra-20261002-viavie-buurtband",

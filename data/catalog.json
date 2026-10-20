@@ -20898,8 +20898,6 @@
       "https://www.impuls-oldenzaal.nl/wat-we-doen/ouder-worden",
       "https://www.impuls-oldenzaal.nl/wat-we-doen/vrijwilligerswerk",
       "https://www.impuls-oldenzaal.nl/wat-we-doen/zorgen-voor-een-ander",
-      "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
-      "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
       "https://www.impuls-oldenzaal.nl/agenda/taalpunt/",
       "https://www.impuls-oldenzaal.nl/agenda/iedere-werkdag-koffie-inloop-stakenboer/",
       "https://www.impuls-oldenzaal.nl/agenda/creatief-cafe/",
@@ -20914,13 +20912,15 @@
       "https://www.impuls-oldenzaal.nl/diensten/huiskamers/",
       "https://www.impuls-oldenzaal.nl/agenda/formulierenservice/",
       "https://www.impuls-oldenzaal.nl/agenda/soofi-bewegen-en-ontmoeten/",
+      "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
+      "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
       "https://www.impuls-oldenzaal.nl/diensten/taalpunt-en-praathuis/",
       "https://www.impuls-oldenzaal.nl/agenda/koffie-inloop-de-symfonie/",
       "https://www.impuls-oldenzaal.nl/diensten/verjaardagsbox-oldenzaal/"
     ],
-    "offerCount": 44,
+    "offerCount": 42,
     "reviewNeeded": 0,
-    "sourceBacked": 44,
+    "sourceBacked": 42,
     "manual": 0,
     "checked": "2026-09-15",
     "offers": [
@@ -20977,58 +20977,6 @@
         "mapPin": false
       },
       {
-        "id": "candidate-20261002-impuls-actieve-ontmoeting-paal-12",
-        "title": "Actieve Ontmoeting Paal 12",
-        "name": "Impuls · Actieve Ontmoeting Paal 12",
-        "description": "Wekelijkse laagdrempelige daginvulling met ontmoeting, bewegen en activiteiten.",
-        "municipality": "Oldenzaal",
-        "municipalities": [
-          "Oldenzaal"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [
-          "meedoen",
-          "zonder indicatie"
-        ],
-        "tags": [
-          "ontmoeten",
-          "ontmoeten",
-          "dagbesteding zonder indicatie",
-          "inloop"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "activityOnly": false,
-        "activities": [],
-        "activitiesNote": "",
-        "activitiesSource": "",
-        "activitiesUpdated": "",
-        "audience": "Inwoners van Oldenzaal.",
-        "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
-        "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
-        "sourceKind": "first-party",
-        "sourceTitle": "Impuls Oldenzaal",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
-        "address": "Vondellaan 12",
-        "postcode": "7576AC",
-        "town": "Oldenzaal",
-        "lat": 52.31169866,
-        "lon": 6.91194275,
-        "locationType": "visiting",
-        "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
-        "locationMunicipality": "Oldenzaal",
-        "mapLocationType": "address",
-        "mapPin": true
-      },
-      {
         "id": "extra-20261002-oldenzaal-actieve-ontmoeting-paal12",
         "title": "Actieve Ontmoeting Paal 12",
         "name": "Impuls · Actieve Ontmoeting Paal 12",
@@ -21079,58 +21027,6 @@
         "lon": 6.91194275,
         "locationType": "visiting",
         "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-maandag/",
-        "locationMunicipality": "Oldenzaal",
-        "mapLocationType": "address",
-        "mapPin": true
-      },
-      {
-        "id": "candidate-20261002-impuls-actieve-ontmoeting-stakenboer",
-        "title": "Actieve Ontmoeting Stakenboer",
-        "name": "Impuls · Actieve Ontmoeting Stakenboer",
-        "description": "Wekelijkse laagdrempelige daginvulling met ontmoeting, bewegen en activiteiten.",
-        "municipality": "Oldenzaal",
-        "municipalities": [
-          "Oldenzaal"
-        ],
-        "category": "ontmoeten",
-        "themes": [
-          "ontmoeten"
-        ],
-        "subthemes": [
-          "meedoen",
-          "zonder indicatie"
-        ],
-        "tags": [
-          "ontmoeten",
-          "ontmoeten",
-          "dagbesteding zonder indicatie",
-          "inloop"
-        ],
-        "guidePaths": [],
-        "guideExclude": false,
-        "activityOnly": false,
-        "activities": [],
-        "activitiesNote": "",
-        "activitiesSource": "",
-        "activitiesUpdated": "",
-        "audience": "Inwoners van Oldenzaal.",
-        "costs": "€1 per keer; lunch is optioneel tegen een kleine bijdrage.",
-        "access": "Laagdrempelig; bekijk actuele tijden en of aanmelden nodig is.",
-        "openingHours": "",
-        "phone": "",
-        "email": "",
-        "source": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
-        "sourceKind": "first-party",
-        "sourceTitle": "Impuls Oldenzaal",
-        "checked": "2026-10-02",
-        "reviewStatus": "source-backed",
-        "address": "Burgemeester Wallerstraat 115",
-        "postcode": "7574AL",
-        "town": "Oldenzaal",
-        "lat": 52.3016685,
-        "lon": 6.93500986,
-        "locationType": "visiting",
-        "locationSource": "https://www.impuls-oldenzaal.nl/agenda/actieve-ontmoeting-dinsdag/",
         "locationMunicipality": "Oldenzaal",
         "mapLocationType": "address",
         "mapPin": true
